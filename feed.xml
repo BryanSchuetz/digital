@@ -1,31 +1,129 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Digital@DAI</title>
+    <description>Write an awesome description for your new site here.
+</description>
+    <link>http://dai-global-digital.siteleaf.net/</link>
+    <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Jan 2016 14:08:16 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Jan 2016 14:08:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Sowing the Seeds of a Tech-for-Social-Good Ecosystem in Afghanistan</title>
+        <description>&lt;p&gt;In November of 2015, I spent two weeks in &lt;a href=&quot;http://dai.com/&quot;&gt;Kabul&lt;/a&gt; working with DAI’s Women in Economy (WIE) project, funded under USAID’s Promote program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners.  This is the first in a series of two blog posts that I’m writing about my time there. Find the second post &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The technology sector, specifically telecommunications, has long been a bright spot in Afghanistan’s struggling post-war economy. During a recent trip I met with representatives from a number of established companies like Roshan (a mobile provider), Arif Azim (a mobile value-added services (VAS) provider), and Jobs.Af (a job portal) to explore the possibilities of partnership. I was not surprised that all of them were excited at the prospect of using their expertise, time, and resources in service of young jobseekers in Afghanistan. But I also noticed the beginnings of an even more encouraging, if more informal, phenomenon: the growth of a tech-for-social-good community in Afghanistan.&lt;/p&gt;
+
+&lt;p&gt;Run by a young technologist and social entrepreneur named Jamshid Hashimi, Code Weekend is an initiative that creates and sustains a software developer community in Afghanistan. Afghan organizations like Digital Citizens Fund are doing great work to put technology in the hands of young women activists and social change agents. But Code Weekend’s missions is in a slightly different category, and in a broader sense, it represents something of a ‘reverse flow’ that’s happening in the ICT-for-development field. That is, instead of development organizations looking for ways to integrate ICTs into their projects or amongst their constituents – which is a great trend in itself – we’re now seeing geeks asking themselves “How can I use my tech skills to solve problems that my community is facing?” To me, this is a sign of a maturing tech sector in Afghanistan.&lt;/p&gt;
+
+&lt;p&gt;Code Weekend currently reaches about 3,000 young coders in Afghanistan, primarily in Kabul, providing training in various technology skills (web development, app development, languages like Python, etc.) via ad hoc training sessions. These sessions typically attract between 40 and 100 attendees. Code Weekend also hosts technology podcasts, aggregates technology-related news in Dari and Pashto, and maintains an active social media presence. At the end of November, it hosted its first coding challenge – a month-long collaborative project that will lead to the creation of a mobile phone application to track and counter bribery.&lt;/p&gt;
+
+&lt;p&gt;Despite the growing energy around its activities, Code Weekend is not without its challenges. It is currently supported by the personal efforts of Mr. Hashimi and a few other volunteers. Their sessions are hosted at the offices of local companies like NetLinks, depending on schedules and availability. In essence, Code Weekend has no permanent staff or facilities.&lt;/p&gt;
+
+&lt;p&gt;Code Weekend also has trouble attracting female coders to its events and initiatives. Mr. Hashimi reports that females typically account for less than 10% of training attendees, and, due to cultural factors, they often hesitate to be active participants in discussions and activities. The number of women tends to increase when events are hosted at universities, since girls have less trouble getting their parents’ permission to attend.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if Code Weekend will manage to tackle these challenges and create a lasting impression on Afghanistan’s technology ecosystem, but if it succeeds, it will mark the beginning of an exciting movement. As with similar communities in various developing/ conflict-affected countries like Iraq and Myanmar, Code Weekend has the potential to (a) generate technology tools that have wide social benefits, and (b) create a cadre of young jobseekers who are entering the job market with a range of relevant skills. For WIE, they represent an excellent opportunity to target and nurture the relatively small community of female coders in Afghanistan. Harnessing and nurturing this trend in various developing countries will be one of the main focuses of DAI’s ICT team in 2016 and beyond.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 16:51:00 +0000</pubDate>
+        <link>http://dai-global-digital.siteleaf.net/2016/01/07/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html</link>
+        <guid isPermaLink="true">http://dai-global-digital.siteleaf.net/2016/01/07/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html</guid>
+        
+        <category>Afghanistan</category>
+        
+        <category>Economic Growth</category>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Consumer Insights El Salvador: Mobile Adoption</title>
+        <description>&lt;p&gt;In October of 2015, I was in El Salvador to help DAI launch the new USAID Employment Training Project, which is working to link at-risk Salvadoran youth to educational and employment opportunities, fostering social inclusion and reducing the space for gangs to influence and recruit young people. While I was there, I made a point to get a sense of the role mobile phones play in young peoples’ lives: do most youth have mobile phones? If so, are they smartphones or basic phones? Which apps do they use?  This is the second in a series of two blog posts that I’m writing about my time in El Salvador. Find the first post here. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You find them &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;For a USAID project, understanding how local people interact with information flows is key to reaching beneficiaries in ways that are familiar to them, increasing the likelihood that content will create impact.  In the case of the Employment Training Project, high mobile—particularly smartphone—adoption would open the door to a number of possibilities: connecting young Salvadorans to labor markets and job opportunities or even helping them design and promote their own apps as viable businesses.  To get a better sense of how at-risk youth in El Salvador communicate, DAI hosted a small focus group with 9 young people, averaging 21 years old. Below are the results, but first, a brief high-level discussion of mobile adoption in El Salvador.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-adoption-in-el-salvador&quot;&gt;Mobile Adoption in El Salvador&lt;/h3&gt;
+
+&lt;p&gt;Despite their country’s poor economic performance, Salvadorans have been leading adopters of mobile technologies. According to &lt;a href=&quot;http://www.budde.com.au/Research/El-Salvador-Telecoms-Mobile-Broadband-and-Digital-Media-Statistics-and-Analyses.html&quot;&gt;BuddeComm&lt;/a&gt;, the country’s mobile penetration rate in 2015 reached 146%, which means that there are 1.46 mobile connections for each person in El Salvador; a current population of &lt;a href=&quot;#&quot;&gt;6.108&lt;/a&gt; million means there are roughly 8.9 million mobiles connections in the country. The 1.46 figure suggests a rapid growth rate – 18% – since 2013, when GSMA reported the same figure at 1.24 (or 124%) in their &lt;a href=&quot;#&quot;&gt;Latin American Mobile Economy&lt;/a&gt; report (see chart below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/chart.png&quot; alt=&quot;chart.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The chart shows active SIM penetration at 124% in El Salvador, while the overall proportion of the population that had at least one SIM (unique subscriber penetration) was 66%. The chart also gives a sense of where El Salvador stood in terms of mobile adoption relative to other Latin American countries back in 2013, but given the rapid evolution of the mobile market, I would anticipate that data from two years ago would have little bearing on today’s reality.&lt;/p&gt;
+
+&lt;h3 id=&quot;findings-key-highlights&quot;&gt;Findings: Key Highlights&lt;/h3&gt;
+
+&lt;p&gt;A sample size of nine is clearly not representative of all young Salvadorians.  We chose to do a ‘quick and dirty’ analysis to get directional information on the communities the project will be operating in; with that caveat in mind, key highlights from the research include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;All FG participants had mobile phones, but only one-third reported using SMS to chat, while 78% reported using WhatsApp and Facebook. WhatsApp is becoming the “appa franca” in Central America, where companies promote their services via WhatsApp and mobile network operators (MNOs) promote their services based on access to WhatsApp&lt;/li&gt;
+  &lt;li&gt;44% of participants had smart phones, however 78% reported using both Facebook and WhatsApp on their phones. This may be due to problems with the language of the survey, the presence of other types of phones (e.g. feature phones) that I didn’t account for, or the possibility that they’re using Facebook and WhatsApp on others’ phones.&lt;/li&gt;
+  &lt;li&gt;Similarly, only one-third of participants had mobile data plans but 78% reported using Facebook and WhatsApp. This suggests that young people are using wifi connections instead of data plans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;script id=&quot;infogram_0_el_salvador_mobile_usage&quot; title=&quot;El Salvador Mobile Usage&quot; src=&quot;//e.infogr.am/js/embed.js?7Nu&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2016 22:27:00 +0000</pubDate>
+        <link>http://dai-global-digital.siteleaf.net/2016/01/06/consumer-insights-el-salvador-mobile-adoption.html</link>
+        <guid isPermaLink="true">http://dai-global-digital.siteleaf.net/2016/01/06/consumer-insights-el-salvador-mobile-adoption.html</guid>
+        
+        <category>Consumer Insights</category>
+        
+        <category>El Salvador</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Consumer Insights Afghanistan: How Young Women are Using Tech</title>
+        <description>&lt;p&gt;In November of 2015, I spent two weeks in Kabul working with DAI’s Women in Economy (WIE) project, funded under USAID’s &lt;a href=&quot;https://www.usaid.gov/afghanistan/promote/&quot;&gt;Promote&lt;/a&gt; program. One of the WIE’s primary objectives is to help young, educated Afghan women find jobs and move ahead in their careers. My main focus was to explore how WIE could (a) integrate technology tools into their work, and (b) engage with local technology partners. This is the second in a series of two blog posts that I’m writing about my time there. Find the first post &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt;. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries. You find them &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Before diving into any technology-based programming, the WIE team decided to do some research into how their target audience – educated Afghan women between the ages of 18 and 30 – gather information, use technology tools, and consume media. To do this, we created a questionnaire and deployed it using a newly-developed data collection and visualization tool called First Mile Geo. WIE’s regional managers, who are based in Kabul, Kandahar, Jalalabad, Mazar-e-Sharif, and Herat, used First Mile’s mobile-based and paper-based collection tools to gather data from 50 young women around the country*.&lt;/p&gt;
+
+&lt;p&gt;The results were fascinating: WE’s target audience is highly tech savvy, with 75% of them owning smartphones and 90% having access to the internet. They’re active on social tools like Facebook and Viber, and many of them (31%) use online tools to search for jobs. These insights on technology usage and media consumption, especially as it relates to job searches, will allow WIE to tailor their approach to digital engagement, training tools, and media outreach.&lt;/p&gt;
+
+&lt;p&gt;Find additional results from the study below.&lt;/p&gt;
+
+&lt;h3 id=&quot;technology-and-internet-access&quot;&gt;Technology and internet access&lt;/h3&gt;
+
+&lt;p&gt;All of the respondents own a mobile phone, and 90% of them have access to the internet. However, 60% report that other members of the family used these phones quite often – i.e. it’s a shared resource for the family. Over 75% of respondents own smartphones, and for a plurality (41%), mobile 3G is the only source of internet access. Two-thirds of respondents access the internet at home, and most (40%) access the internet between 7 pm and 10pm at night.&lt;/p&gt;
+
+&lt;h3 id=&quot;popular-messaging-and-social-networking-platforms&quot;&gt;Popular messaging and social networking platforms&lt;/h3&gt;
+
+&lt;p&gt;Almost three-quarters of the respondents (73%) are active on social networks, and Facebook by far was the most popular social networking platform (used by 73% of those active on social networks). Viber is the most common messaging app, preferred by about 47% of respondents.&lt;/p&gt;
+
+&lt;h3 id=&quot;media-consumption-habits&quot;&gt;Media consumption habits&lt;/h3&gt;
+
+&lt;p&gt;Television: Respondents watched television for an average of 1.8 hours a day, and a majority (76%) watches television between the hours of 4p and 10pm. The main topics of interest on television were entertainment and news shows. Tolo was by far the most popular national television station among respondents (65%), followed by Shamshad TV and local TV stations, each of which was listed as a favorite by fewer than 10% of respondents.&lt;/p&gt;
+
+&lt;p&gt;Radio: In contrast to television, respondents only listened to around 40 minutes of radio a day on average, and about 50% reported not listening to radio at all. Among those who do listen to radio, they do so across the day between 7am and 7p, and typically listen to news and entertainment programming. Arman FM (56%) and local radio stations (32%) capture the majority of radio listeners.&lt;/p&gt;
+
+&lt;h3 id=&quot;employment-details&quot;&gt;Employment details&lt;/h3&gt;
+
+&lt;p&gt;Since the WIE project is focused on helping female jobseekers, we also asked respondents about their current employment status. The majority of respondents (73%) do not have a job. Most of those with jobs are employed by government and local NGOs (70%). They use personal connections (37%), job websites like Jobs.Af (31%), and university career centers (23%) to find information on new jobs. Other sources like mobile-phone based services or TV/radio advertising were not important sources of job information.&lt;/p&gt;
+
+&lt;h3 id=&quot;interest-in-technology-as-a-job-seeking-tool&quot;&gt;Interest in technology as a job-seeking tool&lt;/h3&gt;
+
+&lt;p&gt;The vast majority of respondents (96%) is interested in improving their job-hunting skills via technology and would prefer to receive such training via online video (35%), smartphone app (31%), or SMS/IVR capabilities (24%). However, very few (around 12%) have received any form of online training in the past. Therefore, WIE would need to do some amount of capacity training or deeper market research in this area to explore whether technology is a viable method of skills transfer.&lt;/p&gt;
+
+&lt;aside&gt;*Note: This isn’t a statistically significant study, and it wasn’t intended to be. The sample was not randomly selected, so these results can’t be generalized to the population. In addition, all the respondents were educated women from urban areas, so skews are inevitable. However, such caveats don’t stop projects from using these insights to quickly gauge how they might engage their target audiences using ICT tools. The ICT team will be working with DAI’s projects across the globe to make this kind of ‘quick and dirty’ consumer insights study a core function of their on-the-ground data-gathering efforts.*&lt;/aside&gt;
+</description>
+        <pubDate>Wed, 06 Jan 2016 17:30:00 +0000</pubDate>
+        <link>http://dai-global-digital.siteleaf.net/2016/01/06/consumer-insights-afghanistan-how-young-women-are-using-tech.html</link>
+        <guid isPermaLink="true">http://dai-global-digital.siteleaf.net/2016/01/06/consumer-insights-afghanistan-how-young-women-are-using-tech.html</guid>
+        
+        <category>Consumer Insights</category>
+        
+        <category>Afghanistan</category>
+        
+        
+      </item>
+    
   </channel>
 </rss>
