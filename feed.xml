@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.siteleaf.net/</link>
     <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Jan 2016 19:47:38 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2016 19:47:38 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 19:48:28 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 19:48:28 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -41,7 +41,40 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
     
       <item>
         <title>Parcel Boundaries of Northern Afghanistan</title>
-        <description>
+        <description>&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;One Thing&lt;/th&gt;
+      &lt;th&gt;Second Thing&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Third Thing&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Some text in the first row of the first colum&lt;/td&gt;
+      &lt;td&gt;Some text in the first row of the second colum&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Some text in the second row of the first colum&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Some text in the second row of the third colum&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
         <pubDate>Mon, 18 Jan 2016 19:46:00 +0000</pubDate>
         <link>http://dai-global-digital.siteleaf.net/2016/01/18/parcel-boundaries-of-northern-afghanistan.html</link>
