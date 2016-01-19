@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.siteleaf.net/</link>
     <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Jan 2016 19:48:28 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jan 2016 19:48:28 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 19:50:44 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 19:50:44 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -41,7 +41,9 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
     
       <item>
         <title>Parcel Boundaries of Northern Afghanistan</title>
-        <description>&lt;table&gt;
+        <description>&lt;p&gt;Markdown Table:&lt;/p&gt;
+
+&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;One Thing&lt;/th&gt;
