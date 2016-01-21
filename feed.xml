@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.siteleaf.net/</link>
     <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jan 2016 18:20:44 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 18:20:44 +0000</lastBuildDate>
+    <pubDate>Thu, 21 Jan 2016 18:22:31 +0000</pubDate>
+    <lastBuildDate>Thu, 21 Jan 2016 18:22:31 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -58,16 +58,22 @@ The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An e
 
 &lt;h2 id=&quot;working-with-the-data&quot;&gt;Working with the data&lt;/h2&gt;
 
-&lt;p&gt;The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. Download QGIS if you do not already have it on your machine&lt;br /&gt;
-●	Choose one of the files from the table above and download it and unzip it&lt;br /&gt;
-●	Open up QGIS&lt;br /&gt;
-●	Drag the .shp file onto your workspace &lt;br /&gt;
-(photo here)&lt;/p&gt;
+&lt;p&gt;The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. Download QGIS if you do not already have it on your machine&lt;/p&gt;
 
-&lt;p&gt;A Web Map of the Mazar-e Sharif Data&lt;br /&gt;
-Interact with the Mazar-e Sharif Data&lt;br /&gt;
-Sample Visualisations&lt;br /&gt;
-Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.&lt;br /&gt;
+&lt;p&gt;●	Choose one of the files from the table above and download it and unzip it&lt;br /&gt;
+●	Open up QGIS&lt;br /&gt;
+●	Drag the .shp file onto your workspace&lt;/p&gt;
+
+&lt;p&gt;(photo here)&lt;/p&gt;
+
+&lt;h2 id=&quot;a-web-map-of-the-mazar-e-sharif-data&quot;&gt;A Web Map of the Mazar-e Sharif Data&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html&quot;&gt;Interact with the Mazar-e Sharif Data&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-visualisations&quot;&gt;Sample Visualisations&lt;/h2&gt;
+
+&lt;p&gt;Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.&lt;br /&gt;
 Mazar-e Sharif&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jan 2016 19:46:00 +0000</pubDate>
