@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.siteleaf.net/</link>
     <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Jan 2016 18:52:27 +0000</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 18:52:27 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 14:18:30 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 14:18:30 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -44,6 +44,8 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
         <description>&lt;p&gt;&lt;img src=&quot;/uploads/Parcel Boundaries 1.jpg&quot; alt=&quot;Parcel Boundaries 1.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;RAMP UP North’s objective was to strengthen municipal governments in the northern part of Afghanistan. The principal component of this effort involved using a land management system to help government officials provide better services for their municipalities. The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;p&gt;The data was traced using ArcGIS 10.1 and imagery from USAID’s GeoCenter. An effort was made to check data quality pertaining to gaps between adjacent boundaries but some gaps may still exist.&lt;/p&gt;
 
