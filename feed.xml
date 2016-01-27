@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.siteleaf.net/</link>
     <atom:link href="http://dai-global-digital.siteleaf.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jan 2016 00:19:06 +0000</pubDate>
-    <lastBuildDate>Wed, 27 Jan 2016 00:19:06 +0000</lastBuildDate>
+    <pubDate>Wed, 27 Jan 2016 00:22:02 +0000</pubDate>
+    <lastBuildDate>Wed, 27 Jan 2016 00:22:02 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -43,7 +43,7 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
         <title>Parcel Boundaries of Northern Afghanistan</title>
         <description>&lt;p&gt;&lt;img src=&quot;/uploads/Parcel Boundaries 1.jpg&quot; alt=&quot;Parcel Boundaries 1.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;RAMP UP North’s objective was to strengthen municipal governments in the northern part of Afghanistan. The principal component of this effort involved using a land management system to help government officials provide better services for their municipalities. The data presented here is the output of the the GIS analysts work to demarcate the boundaries of every parcel of property in the municipalities&lt;/p&gt;
+&lt;p&gt;The USAID-funded RAMP UP North’s objective was to strengthen municipal governments in the northern part of Afghanistan. The principal component of this effort involved using a land management system to help government officials provide better services for their municipalities. The data presented here is the output of the geographic information system (GIS) analysts’ work to demarcate the boundaries of every parcel of property in the municipalities&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -117,13 +117,13 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
 &lt;h2 id=&quot;the-uses-of-parcel-boundaries&quot;&gt;The Uses of Parcel Boundaries&lt;/h2&gt;
 &lt;p&gt;The parcel data is applicable to a variety of situations and is probably most valuable to Afghan municipal governments and data practitioners working in Afghanistan. Hopefully, the people of Afghanistan can use the data to simply study and improve the urban areas near where they live.&lt;/p&gt;
 
-&lt;p&gt;The data is especially relevant to the field of disaster response. Northern Afghanistan has a &lt;a href=&quot;http://earthquake.usgs.gov/earthquakes/world/historical_country.php#afghanistan&quot;&gt;history of earthquakes&lt;/a&gt;, including two in 1998 in which over 6,000 people lost their lives. With the danger clearly there, accurate urban spatial data could help people plan and respond to natural hazard events in the future.&lt;/p&gt;
+&lt;p&gt;The data is especially relevant to the field of disaster response. Northern Afghanistan has a &lt;a href=&quot;http://earthquake.usgs.gov/earthquakes/world/historical_country.php#afghanistan&quot;&gt;history of earthquakes&lt;/a&gt;, including two in 1998 in which more than 6,000 people lost their lives. With the danger clearly there, accurate urban spatial data could help people plan and respond to natural hazard events in the future.&lt;/p&gt;
 
-&lt;p&gt;After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an &lt;a href=&quot;http://vimeo.com/9182869&quot;&gt;an incredibly fast construction&lt;/a&gt; of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake then the relief effort could have been more efficient&lt;/p&gt;
+&lt;p&gt;After the Haiti earthquake, there was a conspicuous lack of spatial data about building infrastructure. This resulted in an &lt;a href=&quot;http://vimeo.com/9182869&quot;&gt;an incredibly fast construction&lt;/a&gt; of open spatial data in OSM. Presumably, if first responders had access to this data before the earthquake then the relief effort could have been more efficient.&lt;/p&gt;
 
 &lt;h2 id=&quot;working-with-the-data&quot;&gt;Working with the data&lt;/h2&gt;
 
-&lt;p&gt;The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. &lt;a href=&quot;http://www.qgis.org/en/site/forusers/download.html&quot;&gt;Download QGIS&lt;/a&gt; if you do not already have it on your machine&lt;/p&gt;
+&lt;p&gt;The easiest way to work with the data is to open it up in your favorite GIS. QGIS is a free tool and works well for analyzing shapefiles. &lt;a href=&quot;http://www.qgis.org/en/site/forusers/download.html&quot;&gt;Download QGIS&lt;/a&gt; if you do not already have it on your machine:&lt;/p&gt;
 
 &lt;p&gt;●	Choose one of the files from the table above and download it and unzip it&lt;br /&gt;
 ●	Open up QGIS&lt;br /&gt;
@@ -136,9 +136,9 @@ According to &lt;a href=&quot;http://www.telecompetitor.com/gsma-global-smartpho
 &lt;p&gt;&lt;a href=&quot;http://deriggi.github.io/RUNorthArcPy/mazar/mazar.html&quot;&gt;Interact with the Mazar-e Sharif Data&lt;br /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;sample-visualisations&quot;&gt;Sample Visualisations&lt;/h2&gt;
+&lt;h2 id=&quot;sample-visualizations&quot;&gt;Sample Visualizations&lt;/h2&gt;
 
-&lt;p&gt;Here some sample visualisations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.&lt;/p&gt;
+&lt;p&gt;Here some sample visualizations to give you an idea of the how the municipalities vary in size and distribution. Each was made with QGIS.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mazar-e Sharif&lt;/strong&gt;&lt;br /&gt;
 &lt;img src=&quot;/uploads/Parcel Boundaries 3.jpg&quot; alt=&quot;Parcel Boundaries 3.jpg&quot; /&gt;&lt;br /&gt;
