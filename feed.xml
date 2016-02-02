@@ -6,8 +6,8 @@
 </description>
     <link>http://dai-global-digital.com/</link>
     <atom:link href="http://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Feb 2016 21:48:14 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 21:48:14 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 21:51:51 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 21:51:51 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -209,7 +209,10 @@
     
       <item>
         <title>Consumer Insights Afghanistan: How Young Women are Using Tech</title>
-        <description>&lt;p&gt;&lt;em&gt;In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s &lt;a href=&quot;https://www.usaid.gov/afghanistan/promote/&quot;&gt;Promote&lt;/a&gt; program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries.&lt;/em&gt;&lt;br /&gt;
+        <description>&lt;p&gt;‘&amp;lt;p font-size:9&amp;gt;’&lt;/p&gt;
+&lt;aside&gt;*In November 2015, I spent two weeks in Kabul, Afghanistan, working with DAI’s Women in Economy (WIE) project, funded by USAID’s [Promote](https://www.usaid.gov/afghanistan/promote/) program. One of WIE’s primary objectives is to help young, educated Afghan women find jobs and move up in their careers. My main focus was to explore how WIE could (a) integrate technology tools into its work, and (b) engage with local technology partners. This is one of two blog posts about my time there. This post is also part of a larger set of Consumer Insights that DAI’s ICT team collects from various developing countries.*
+&lt;/aside&gt;
+&lt;p&gt;’&amp;lt;/p&amp;gt;’&lt;br /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Before diving into any technology-based programming, the WIE team decided to do some research into how their target audience—educated Afghan women between the ages of 18 and 30—gather information, use technology tools, and consume media. To do this, we created a questionnaire and deployed it using a newly developed data collection and visualization tool called First Mile Geo. WIE’s regional managers, based in Kabul, Kandahar, Jalalabad, Mazar-e-Sharif, and Herat, used First Mile’s mobile-based and paper-based collection tools to gather data from 50 young women around the country*.&lt;/p&gt;
