@@ -1,0 +1,48 @@
+---
+title: Digital@DAI
+url: http://dai-global-digital.com
+timezone: UTC
+collections:
+  authors:
+    title: Authors
+    output: true
+    permalink: "/authors/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    Author: 
+    layout: post
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: author
+    Job: 
+    Image: 
+gems:
+- jekyll-paginate
+paginate: 3
+paginate_path: "/page:num/"
+hilighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+excerpt_separator: "<!--more-->"
+email: your-email@domain.com
+exclude:
+- ".gitignore"
+description: |
+  Write an awesome description for your new site here.
+baseurl: 
+destination: "./build"
+sass:
+  style: compressed
