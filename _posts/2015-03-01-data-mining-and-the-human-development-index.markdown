@@ -13,7 +13,7 @@ We love data mining at DAI and today we are going to mine a data set from the Un
 <!--more-->
 
 ### The Human Development Index
-The UN maintains an index for 205 countries describing the overall level of human development of each country based on three major pillars: health, education and a standard of living. Specifically, the HDI Dataset from the UNDP is based on these four variables:
+The UN maintains an index for 187 countries describing the overall level of human development of each country based on three major pillars: health, education and a standard of living. Specifically, the HDI Dataset from the UNDP is based on these four variables:
 
 - Gross National Income
 - Life Expectancy at Birth
@@ -144,7 +144,7 @@ For an example of what the data looks like, here are the dimensions of the HDI f
 </table>
 
 
-Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 208 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
+Comparing dimensions and HDI values for two countries is straightforward, but attempting to glean deeper insight from the full set of 187 countries would be difficult. One option is to simply sort the data by the HDI to show highly developed countries at the top and countries with low development at the bottom.
 
 [country table](/uploads/countrytable.png)
 ![country table](/uploads/countrytable.png)
@@ -239,7 +239,7 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 ## A Dendrogram for the Human Development Index
 
-Instead of just looking at two variables, we can use something slightly more complex like the four components in the human development index to cluster countries. Making the plot with nearly the same R script that we used for the dog example, we start to see some patterns right away. In our HDI dendrogram there are clearly two distinct groups, represented by the big tall branches at the root.
+Instead of just looking at two variables, we can use something slightly more complex like the four components in the human development index to cluster countries. Making the plot with nearly the same R script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram there are clearly two distinct groups, represented by the big tall branches at the root.
 
 [Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
 ![Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
