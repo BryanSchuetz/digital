@@ -1,13 +1,14 @@
 ---
 title: Data Mining and the Human Development Index
-date: 2015-03-01 15:47:00 Z
-published: false
+date: 2015-03-09 15:47:00 Z
 tags:
 - data mining
 - UN
 - dendrogram
 Author: John DeRiggi
 ---
+
+![header](/uploads/header.png)
 
 We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example
 
