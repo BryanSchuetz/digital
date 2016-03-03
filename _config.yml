@@ -31,7 +31,6 @@ gems:
 - jekyll-paginate
 paginate: 3
 paginate_path: "/page:num/"
-hilighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
