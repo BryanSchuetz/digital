@@ -1,7 +1,6 @@
 ---
 title: Data Mining and the Human Development Index
-date: 2016-03-07 15:47:00 Z
-published: false
+date: 2015-03-07 15:47:00 Z
 tags:
 - data mining
 - UN
@@ -244,15 +243,15 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same R script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
-[Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
-![Dendrogram for the HDI](/uploads/hdi_dendro_1.png)
+[Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
+![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 
 Right away we see a big two-class split in the dendrogram, showing two classes at the top of the diagram. Looking at the countries, it appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram
 
 This means countries with low development values are far behind the those in the medium and high development.  
 
-[Highlighting extremes](/uploads/hdi_dendro_3.png)
-![Dendrogram Highlighting extremes](/uploads/hdi_dendro_3.png)
+[Highlighting extremes](/uploads/high_level_dendrogram_highlighted.png)
+![Dendrogram Highlighting extremes](/uploads/high_level_dendrogram_highlighted.png)
 
 [High and low development countries](/uploads/extremes_table1.png)
 ![Extremes table](/uploads/extremes_table1.png)
