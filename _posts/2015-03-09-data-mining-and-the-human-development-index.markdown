@@ -12,6 +12,7 @@ Author: John DeRiggi
 
 We love data mining at DAI and today we are going to mine a data set from the United Nations (UN). We are going to do so by first working through an illustrative four-wheeled example
 
+
 <!--more-->
 
 ### The Human Development Index (HDI)
@@ -241,7 +242,7 @@ The most important job of the dendrogram is to identify classes and to show whic
 
 ## A Dendrogram for the HDI
 
-Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same R script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
+Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same [R](https://www.rstudio.com/home/) script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.
 
 [Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
 ![Dendrogram for the HDI](/uploads/high_level_dendrogram.png)
@@ -272,7 +273,7 @@ In the dendrogram we see a group of countries located far from each other on the
 
 ![Similar countries](/uploads/cluster_cuba_v5.png)
 
-Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally different - fascinating!
+Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar they are! Statistically similar but geographically and culturally distinct - fascinating!
 
 [Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
 ![Korea, Israel and Slovenia](/uploads/isr_kor_slvn.png)
@@ -281,7 +282,7 @@ Here's another tight cluster: Korea, Israel, and Slovenia. Checkout how similar 
 There are countless ways clustering data can help us more easily recognize patterns in data and improve our development practices. If you had a group of farmers outperforming another group for unknown reasons, clustering might show what is similar among the high-performing group. When selecting cities or regions for an intervention, you might want to pick one similar to where an intervention was successful in the past.
 
 
-## You two can do hierarchical cluster analysis
+## You too can do hierarchical cluster analysis
 It's easy, just download the amazing and free [statistical programming environment called R](https://www.rstudio.com/home/)
 
 Then with just a few clicks in R, you will be up and running. All the code, all six lines of it, can be found [here](https://bitbucket.org/jderiggi/dendrograms/src)
