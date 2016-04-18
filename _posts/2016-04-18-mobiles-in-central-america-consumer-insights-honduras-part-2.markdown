@@ -5,14 +5,15 @@ published: false
 tags:
 - Consumer Insights
 - Honduras
+- Mobiles
+- ICT4D
+- Technology
 Author: Adam Fivenson
 ---
 
 ## Social media and messaging choices
 
-
-
-![Revised3.jpg](/uploads/Revised3.jpg)
+![IMG_20160202_152951472_HDR.jpg](/uploads/IMG_20160202_152951472_HDR.jpg)
 <sup>*The author (L) interviewing a young person in the kitchen of a home in Tegucigalpa, Honduras*</sup>
 
 Recently I wrote about my experience interviewing at-risk youth\* in Honduras about their mobile phones and how they use them. If you missed that blog, catch it here: [Mobiles in Central America: Consumer Insights Honduras, Part 1](dai-global-digital.com/2016/04/13/honduras-consumer-insights.html)
@@ -27,7 +28,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <p><script id="infogram_0_Z9qbRaVRcwhDPS58" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
-2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.
+<p>2. Similarly, in terms of average minutes used each day, WhatsApp (142) and Facebook (103) dominate with Twitter (13) a distant third.</p>
 
 <p><script id="infogram_0_gGra7YHYHQfzzHSV" title="Social Media Honduras 1" src="//e.infogr.am/js/embed.js?NFw" type="text/javascript"></p>
 
