@@ -20,27 +20,26 @@ In response, DAI is working with the [Pontificia Universidad Javeriana](http://w
 
 On April 5th, DAI hosted Colombia's first Forum for Technology for Climate Change at the Centro Ático, bringing together more than 50 representatives of the public and private sector working on climate change and environmental management to discuss the challenge and how the upcoming [NASA Space Apps Challenge](https://2016.spaceappschallenge.org/locations/bogota-colombia) can be leveraged to create pilot solutions. DAI and Javeriana will be hosing The Challenge April 22-24 at the Centro Ático with 120 young innovators. 
 
-## Forum for Technology for Climate Change
+## Forum for Technology for Climate Change in Colombia
 
-[foro 2 small.JPG](/uploads/foro%202%20small.JPG)
+![foro 2 small.JPG](/uploads/foro%202%20small.JPG)
 <sup>*Opening panel*</sup>
 
 The Forum's opening panel featured representatives from the Ministries of Technology, Information and Communications, and the Environment and Sustainability, and Javeriana. Speakers discussed the importance of new technologies for decision-making related to climate change, and underscored the Colombian government’s active role in empowering citizens with technology and data. 
 
 DAI's Latin America Regional Director for ICT, Alejandro Solis, presented the CoffeeCloud app, designed to centralize and disseminate information and connect decision makers around daily and seasonal forecasting for coffee crops. The app also reports outbreak of diseases such as coffee rust. Cloud Coffee also has an a geospatial platform for consultation on cases of infestation, reporting, and two-way communication with Costa Rica’s Ministry of Agriculture.
 
-[ale small.JPG](/uploads/ale%20small.JPG)
+![ale small.JPG](/uploads/ale%20small.JPG)
 <sup>*Alejandro Solis presents CoffeeCloud*</sup>
 
 DAI CEO [Dr. James Boomgard](http://dai.com/who-we-are/leadership/james-boomgard) and Board Member [Maria Otero](http://dai.com/who-we-are/leadership/maria-otero) both attended the event. Ms. Otero spoke, affirming that "DAI is committed to supporting Colombia in its efforts to mitigate climate change and our support of this event and the Space Apps Challenge is a manifestation of that." Dr. Boomgard seconded these comments. 
 
-[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways from the event. 
-
 ## Key takeaways from Forum
 
-[foro small.JPG](/uploads/foro%20small.JPG)
-<sup>*Opening panel, Danao-Schroeder second from left*</sup>
+[Noemi Danao-Schroeder](http://dai.com/who-we-are/our-team/noemi-danao-schroeder), Director of Governance in the Global region, moderated the event. Digital@DAI interviewed Ms. Danao-Schroeder on the takeaways from the event. 
 
+![foro small.JPG](/uploads/foro%20small.JPG)
+<sup>*Opening panel, Danao-Schroeder second from left*</sup>
 
 **Q. What was the purpose of this event and who was on the initial panel?**
 
@@ -74,9 +73,13 @@ Danao-Schroeder: For me, the biggest takeaways are that ministries of the Colomb
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoSdx8wng0g?list=PLoRLK-0MlLuN4Tx_UL1u6L7V7GffIhI4K" frameborder="0" allowfullscreen></iframe>
 
 Playlist contents: 
+
 * Forum for Technology for Climate Change
 * Comments by Maria Otero, Board Member, DAI
 * Comments by Alejandro Solis, LAC Regional ICT Director, DAI
 * Comments by Luis Ortega, Coordinator for Protected Areas and Climate Change at Fundación Ecohabitats, CATIE
 * Comments by Tito Muto, IT Coordinator, Conservación International
 * Closing by Alejandro Solis, LAC Regional ICT Director, DAI
+
+
+## Have you seen a great app to track climate change?  Let us know in the comments!
