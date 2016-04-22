@@ -1,23 +1,46 @@
 ---
-title: Advanced Medical Technology at South by Southwest
+title: 'Disparities in Hype: Advanced Medical Technology at SXSW 2016'
 date: 2016-03-29 08:18:00 Z
 published: false
+categories:
+- SXSW2016
+- Bioelectronics
+- MedTech
+tags:
+- SXSW
+- MedicalTechnology
+- Bioelectronics
+Author: John DeRiggi
 ---
 
+![shpmemoryplymer2.jpg](/uploads/shpmemoryplymer2.jpg)
+[Image Source](http://www.qmed.com/mpmn/medtechpulse/how-shape-memory-polymer-could-drive-medical-device-innovation)
+
+The big tech headlines we see today are usually stories from social media giants and other Silicon Valley behemoths working hard to disrupt traditional industries. Those companies are important and clearly shaping our economy and our lives forever.
+ 
+**What pales in a press-coverage comparison though is medical technology and the smart people working hard to develop life-saving technology for the entire planet.** 
+
+The contrast was striking at this year’s South by Southwest interactive conference where one could attend a panel on how fashion retail technology startups are using rfid to learn how we shop, followed immediately by a panel about how the world’s best vaccine researchers are trying to create new technology for drug delivery. This was my experience, and the palpable disparity in “coolness” between the two innovative applications of technology was remarkable. 
+
 ### Bioelectronics
-In the MedTech track a panel called Innserspace: Bioelectronics and Medicine’s Future moderated by Sree Sreenivisan,  the panelists discussed bioelectronics and the technology behind small implantable devices that could help deliver targeted treatment to sick and chronically ill patients. Bioelectronics represent an advancement over traditional drugs, which are actually quite primitive in their design and delivery. Today’s drugs distribute all over the body and sometimes causing debilitating side effects. This is a particularly important problem for patients who take drugs every day for glucose deficiencies, blood pressure problems, etc. Bioelectronics could offer a leap forward in treatment for these patients by using the systems of electric current present in our nervous system
+Of the thousands of panelists and workshops at south by south west this year, my runaway favorite was one in the medical technology track: [Innserspace: Bioelectronics and Medicine’s Future](http://schedule.sxsw.com/2016/events/event_PP52190) moderated by [Sree Sreenivisan](https://twitter.com/sree), the panelists discussed bioelectronics and the technology behind small implantable devices that could help deliver targeted treatment to sick and chronically ill patients Bioelectronics represent an advancement over traditional drugs, which are actually quite primitive in their design and delivery. Today’s drugs distribute all over the body and sometimes causing debilitating side effects. This is a particularly important problem for patients who take drugs every day for glucose deficiencies, blood pressure problems, etc. Bioelectronics could offer a leap forward in treatment for these patients by using the natural systems of electric current controlled by our central nervous system.
 
-By interacting directly with the tissue or organ in need of treatment, bioelectronics could bring the targeted treatment that many need. The technology uses electrical signals to repair a tissue or organ by interacting with it in a way similar to the way our brain communicates with various parts of our body. One of the ways they could work is by learning when the brain is sending the wrong signals to an organ, then reengineering the signal and pulsing it to an organ to correct its function. A company called Cala Health is working on commercializing products that do this. 
+By interacting directly with the tissue or organ in need of repair, bioelectronics could deliver targeted medication that many patients today treat with daily drugs. The technology uses electrical signals to repair a tissue or organ by interacting with it in a way similar to the way our brain communicates with various parts of our body. One of the ways they could work is by learning when the brain is sending the wrong signals to an organ, then reengineering the signal and pulsing it to an organ to correct its function. A company called Cala Health is working on commercializing products that do this. 
 
-One of the panelists, Dr Moncef Slaoui spent 27 years developing the first malaria vaccine and is now getting into bioelectronic medicine. He traveled the world trying to determine: 1) if the technology exists and 2) if it is ready to help create bioelectronic medicine. He found that it did but was all happening independently: miniaturization, wireless, and computing were being developed but they all were functioning independently and not working together in health. To galvanize collaboration in the field he created an innovation challenge focussed on getting these technologists in the same room. 
+One of the panelists, [Dr Moncef Slaoui](http://www.gsk.com/en-gb/about-us/board-of-directors/dr-moncef-slaoui/) spent 27 years developing the first malaria vaccine and is now getting into bioelectronic medicine. He traveled the world trying to determine: 1) if the technology exists and 2) if it is ready to help create bioelectronic medicine. He found that it did but each field of specialization was advancing independently: miniaturization, wireless, and computing were all maturing but each was doing so in vertical sectors unrelated to health. To galvanize collaboration in the field he created an [innovation challenge](http://www.setpointmedical.com/files/Bioelectronics%20Innovation%20Fund%20Release%20Final%20Aug%208.pdf) focused on getting these technologies and the people building them into the same field. 
 
-Well-spoken genius, and assistant professor in this field Walter Voit, displayed a small thin rigid piece of plastic that contained an embedded circuit. He then warmed it up in his hand and the rigid plastic reacted, and molded to the shape of his hand. These materials (shape memory polymers) can attach to an organ and deliver electric pulses in a way that will fit comfortably within the body.
+![shape memory](/uploads/shapememeorypolymer.jpg)
+[Image source](http://www.notey.com/@digitaltrends_unofficial/external/8160673/engineers-have-created-a-liquid-metal-circuit-that-can-stretch-to-4x-its-normal-size.html)
+
+Well-spoken genius, and professor in this field [Walter Voit](http://me.utdallas.edu/people/voit.html), displayed a small thin rigid piece of plastic that contained an embedded circuit. He then warmed it up in his hand and the rigid plastic reacted, and molded to the shape of his hand. These materials (shape memory polymers) can attach to an organ and deliver electric pulses in a way that will fit comfortably within the body.
 These devices also represent a data goldmine as they can essentially act as sensors. An example comes from St. Jude Hospital where they are using data from heart failure sensors to learn 
 
 Some issues still holding the industry back are heat generated by the devices and also the body’s natural reaction to reject devices. The advanced polymers should help as well as the body’s ability to generate power for the devices.
 
 ### Neurostimulation
-Cutting edge neuroscience tells us that advances in brain mapping and neurostimulation offer tremendous potential to optimize our brainpower. A panel discussion called Pimp My Brain: A Crash Course in DIY Brainhacking was led by Cameron Craddock, Director at the Nathan S Kline Institute For Psychiatric Research and Daniel Margulies, Group Leader at the Max Planck Institute for Human Cognitive and Brain Sciences
+Perhaps my second favorite talk was this one on neurostimulation. I loved it because all the information was new to me fascinating to me - and also because it was the greatest odd-couple presentation I've ever seen. It seemed like the two neurscientsist presenters were from different solar systems but the best of friends.
+ 
+Cutting edge neuroscience tells us that advances in brain mapping and neurostimulation offer tremendous potential to optimize our brainpower. A panel discussion called [Pimp My Brain: A Crash Course in DIY Brainhacking](http://schedule.sxsw.com/2016/events/event_PP56397) was led by Cameron Craddock, Director at the Nathan S Kline Institute For Psychiatric Research and Daniel Margulies, Group Leader at the Max Planck Institute for Human Cognitive and Brain Sciences
 
 Several methods exist for neurostimulation. Non-invasive localized stimulation can elicit strong responses by targeting very specific parts of the brain, and can affect nearly any cognitive function. Free and open sourced brain mapping software makes this easier to do. What is better for home treatment and self administration are the general brain stimulation techniques. 
 
