@@ -39,13 +39,13 @@ Bioelectronics is a field poised to change medicine. How do they work? Well, all
 <br>
 
 # 2)	Waaay better then traditional drugs
-Bioelectronics are better, more precise, and come with fewer side effects than our decades old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field: 
+Bioelectronics are more effective, more precise, and come with fewer side effects than our decades old (like 15 decades old) pharmaceutical-based system of drug delivery. At SXSW there was a great panel moderated by [Sree Sreenivasan](https://twitter.com/sree) with several of the rock star pioneers working in the field: 
 
-* Dr. Moncef Slaoui was among the developers of the first malaria vaccine and has recently turned his attention to bioelectronics. 
+* [Dr. Moncef Slaoui](http://www.gsk.com/en-gb/about-us/board-of-directors/dr-moncef-slaoui/) was among the developers of the first malaria vaccine and has recently turned his attention to bioelectronics. 
 
-* Dr. Kate Rosenbluth is the CEO of Cala Health, a company working on developing novel therapies from recent discoveries in neuroscience. 
+* [Dr. Kate Rosenbluth](http://calahealth.com/#our-team) is the co-founder and CEO of [Cala Health](http://calahealth.com/), a company working on developing novel therapies from recent discoveries in neuroscience. 
 
-* Dr. Walter Voit is a professor at UT Dallas and is devoted to growing a core of scientists specializing in this field. 
+* [Dr. Walter Voit](http://me.utdallas.edu/people/voit.html) is a professor at UT Dallas and is devoted to growing a core of scientists specializing in this field. 
 
 Their enthusiasm for improving medicine was palpable (because they've been working in the field their entire lives) and it was inspiring to hear from technologists that were in it for so much more than a big exit from a well funded startup.
 
@@ -56,7 +56,7 @@ Their enthusiasm for improving medicine was palpable (because they've been worki
 <br>
 
 # 3) Neurosignaling and facial-nervous stimulation are here
-Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone you get to select from categories of feelings like calm, energy, or focus. The Washington Post [just recently reviewed the devices](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/29/brain-zapping-gadgets-promise-to-make-you-a-better-you-smarter-stronger-even-happier/) made by [Thync](http://www.thync.com/) 
+Just strap one of these devices to your head and walk cooly and confidently (and stimulatedly) into your next meeting or happy hour. From your smartphone you can select from categories of feelings like calm, energy, or focus. The Washington Post [just recently reviewed the devices](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/29/brain-zapping-gadgets-promise-to-make-you-a-better-you-smarter-stronger-even-happier/) made by [Thync](http://www.thync.com/) 
 
 ![thync.png](/uploads/thync.png) 
 ```A neurosignaling device from Thync```
@@ -65,6 +65,22 @@ Just strap one of these devices to your head and walk cooly and confidently (and
 <br>
 
 # 4)	DIY Brainsignaling
-Open Source Neurostimulation software and hardware is so advanced that you can self –administer the technology in your own home. Why limit ourselves to thermometer sensors and rain gauges of the maker movement when we could jump straight to the [Brain Computer Interface ](http://openbci.com/) movement and build neuro-stimulating machines from the comfort of our own garages. *Disclaimer: DAI makes no recommendation towards self administration of neuro-stimulation– it is not a well understood field*
+Open Source Neurostimulation software and hardware is so advanced that you can self –administer the technology in your own home. Why limit ourselves to thermometer sensors and rain gauges of the maker movement when we could jump straight to the [Brain Computer Interface ](http://openbci.com/) movement and build neuro-stimulating machines from the comfort of our own garages. There is even [open source brain imaging software](http://simnibs.de/) that you can download for free that tells you which parts of your brain are activated depending on where you apply the electrodes!
+*Disclaimer: DAI makes no recommendation towards self administration of neuro-stimulation– it is not a well understood field*
 
 ![ossbrain_scan.png](/uploads/ossbrain_scan.png)
+```Sim NIBS open source brain imaging software```
+
+<br>
+<br>
+
+# 5) Virtual physicians!
+![usc_virtual_phys_2.jpg](/uploads/usc_virtual_phys_2.jpg)
+Because going to face-to-face visits with a human doctor is so 2010. It would be so much easier if our bodies and the various wearables attached to them sent a constant stream of data directly to our physician’s analysis engines so they could call us right away whenever something seemed wrong. Well, the future is now. USC's [Virtual Care Clinic](http://www.uscbodycomputing.org/virtual-care-clinic/) is prototyping tools in this field and [Proteus Digital Health](http://www.proteus.com/company/mission/) is an early entry into the commercial market 
+
+
+<br>
+<br>
+
+# 6) Your medical history is yours, so why not carry it around in your pocket?
+Personal medical records systems for us, the patients! Why should doctors get all the cool medical records systems when that’s our data anyway! Thanks [HIPPA](http://www.hhs.gov/hipaa/). With tools like [CareSync](http://www.caresync.com/consumers/index.php) we can walk into a doctor’s appointment or emergency room visit with all our sordid medical history in an easily retrievable format on our phones. No more having to worry about which vaccinations you received as a child or medications you are allergic to. 
