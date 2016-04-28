@@ -9,6 +9,8 @@ tags:
 Author: Adam Fivenson
 ---
 
+![Controller 2.png](/uploads/Controller%202.png)
+
 ## From Gaming to Development Impact 
 
 I was 6 when my dad brought home our first computer. It was an IBM 386. At the time, it was space-age technology. By today’s standards it’s the musical equivalent of banging two rocks together. I imagine my dad expected my older brother and me to learn the interface and how to type. Instead, within weeks we were mowing down Nazis in [Wolfenstein 3D](https://static.3drealms.com/media/screenshots/c7185590cf634773b4d56490e26aec1e.jpg) and engineering some pretty spectacular crashes in in [Stunts](https://www.youtube.com/watch?v=-CITIXlw_T4). Needless to say, I was hooked.
@@ -23,7 +25,15 @@ But why now? Educational video games have been popular for years (Mathblasters, 
 
 The fact that [75 percent of people globally now have access to a mobile phone](http://www.worldbank.org/en/news/press-release/2012/07/17/mobile-phone-access-reaches-three-quarters-planets-population) (a number predicted to [grow to 90 percent by 2020](http://www.ericsson.com/news/1872291)) means that it’s no longer a surprise to find a young woman in a rural area of a developing country—far beyond the nearest internet connection—playing Banana Kong on her phone. 
 
-Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html), I found that 71 percent of the youth in interviewed had a smartphone, and 60 percent used their phones to play games. Additionally, many play the latest games, such as Clash of Clans, Candy Crush, and Banana Kong, which their friends pass on via Bluetooth. While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities positive attitudinal and behavioral change.
+Anecdotally, during my [recent research trip to Honduras](dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html), I found that 71 percent of the youth in interviewed had a smartphone, and 60 percent used their phones to play games. 
+
+Many play the latest games, such as Clash of Clans, Candy Crush, and Piano Tiles, which they either download, or--for those in rural areas--get from their friends via via Bluetooth. Contrast this to Indonesia, where 48% of the youth we interviewed played mobile games. 
+
+***
+<script id="infogram_0_Ul54lvE1Zx9Rtvbr" title="Fav Game Compare" src="//e.infogr.am/js/embed.js?JCI" type="text/javascript"></script>
+***
+
+While learning to swipe two dimensional candies from left to right is not the type of behavioral change that we in the international development community seek to promote in-and-of-itself, gaming as a hobby does present opportunities to present engaging tools for attitudinal and behavioral change for youth.
 
 ## Games for Good
 
