@@ -22,7 +22,7 @@ Mobile messaging and social media are incredibly popular among Honduran youth. M
 
 <!--more-->
 
-## Key Insights:
+## Key Insights
 
 * Awareness of messaging apps is high across the board, but use is much more selective. Ninety-five percent of those we interviewed were aware of both Facebook and WhatsApp, and 88 percent knew Twitter, and 71 percent knew Line. The picture for actual usage is very different. **(Click the radio buttons at the top of the graph to switch from awareness to useage.)** Facebook and WhatsApp dominate, with 80 percent and 70 percent penetration among our sample, respectively. Twitter was a far off third with 19 percent, and Line had 12 percent usage.
 
@@ -46,4 +46,4 @@ Questions?  Comments?  Want to hear more? Please share below, or tell us on Twit
 
 ---
 
-<sup>\*  *Honduran Youth are considered at-risk if the community where they show high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
+<sup>\*  *Honduran Youth are considered at-risk if the community where they live shows high levels of domestic violence, drug use, a significant gang presence, or other major risk factors. We surveyed people from ages 15 to 33. See [Mobiles in Central America: Consumer Insights Honduras, Part 1](http://dai-global-digital.com/consumer%20insights/2016/04/13/honduras-consumer-insights.html) for more demographic information*</sup>
