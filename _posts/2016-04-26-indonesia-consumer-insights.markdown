@@ -1,5 +1,5 @@
 ---
-title: 'Where WhatsApp is just another BBM clone: Consumer Insights Indonesia'
+title: 'Consumer Insights Indonesia: Mobiles & Workforce Development'
 date: 2016-04-26 14:40:00 Z
 published: false
 categories:
@@ -41,7 +41,7 @@ We call this research Consumer Insights—“consumer” as in information consu
 
 ## Demographics of the Sample
 
-We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and the average age of our participants was 18.
+We conducted 107 face-to-face interviews with young people. About half were in Jakarta and half were in Semarang, a less urban city in the center of Java (the same island as Jakarta). They were roughly half females and half males, and their average age was 18.
 
 ## Sample Stats
 
@@ -52,4 +52,5 @@ The graphic below contains a few sample, binary results from our survey in Indon
 ## Upcoming blog posts in the Indonesia Consumer Insights series
 
 * Social Media Habits & App Choice
+* Information flow choices 
 * Mobile Gaming
