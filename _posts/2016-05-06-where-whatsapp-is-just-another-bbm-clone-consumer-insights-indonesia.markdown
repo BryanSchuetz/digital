@@ -1,5 +1,5 @@
 ---
-title: 'Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another BBM clone'
+title: 'Consumer Insights Indonesia Part 2: Where WhatsApp is Just Another BBM Clone'
 date: 2016-05-06 22:34:00 Z
 published: false
 categories:
@@ -25,19 +25,21 @@ Why BBM when WhatsApp dominates in so many other geographies?  Back in 2011, bef
 
 Five years later, BlackBerry phones are about as popular in Indonesia as cross country skiing--not very. The above-quoted article puts BlackBerry's share of Indonesia's smartphone market at 3% as of the mid-2014, a 40% drop from the the heights of 2011. IDC, a global market research firm, doesn't bother to include Blackberry among the [country's top selling smartphone brands](https://www.idc.com/getdoc.jsp?containerId=prAP41041116).
 
-The one remaining vestige of the BlackBerry's former halcyon days of domination is BBM, and while the company's all-or-nothing bet on the physical keyboard didn't pan out, their saving grace may have been the decision to port BBM over to Android. When people left their BlackBerries behind, they took BBM with them to a new platform, and today the app [counts some 55 million users in Indonesia](http://blogs.wsj.com/digits/2016/02/29/why-blackberry-is-a-hit-in-indonesia/), ahead of both WhatsApp and Facebook Messenger, each of which have about 50 million users. BBM also has the [most installs and the most active daily users](https://blog.jana.com/2015/06/18/top-messenger-apps-in-indonesia/), according to app marketing firm Jana.
+The one remaining vestige of the BlackBerry's former halcyon days of domination is BBM, and while the company's all-or-nothing bet on the physical keyboard didn't pan out, their saving grace may have been the decision to port BBM over to Android. When people left their BlackBerries behind, they took BBM with them to the new platform, and today the app [counts some 55 million users in Indonesia](http://blogs.wsj.com/digits/2016/02/29/why-blackberry-is-a-hit-in-indonesia/), ahead of both WhatsApp and Facebook Messenger (each of which clock in at around 50 million users). BBM also has the [most installs and the most active daily users](https://blog.jana.com/2015/06/18/top-messenger-apps-in-indonesia/), according to app marketing firm Jana.
 
-Those are the numbers writ large, but within our sample--young people between the ages of 16 and 24--BBM absolutely steamrolls the competition. See the two graphs below; The first shows the apps which young people most commonly mentioned among their favorites, irrespective of type or usage. The percentages listed show the percent of our sample that pegged the app as a favorite. BBM was the favorite with 63% of respondents mentioning it, followed by Facebook at 47%, WhatsApp at 21% and Instagram and UC Browser bringing up the rear.
+Those are the numbers for all of Indonesia, but within our sample--young people from at-risk communities between the ages of 16 and 24--BBM absolutely steamrolls the competition. See the two graphs below; The first shows the apps which young people most commonly mentioned among their favorites, irrespective of type or usage. The percentages listed show the percent of our sample that pegged the app as a favorite. BBM was the favorite with 63% of respondents mentioning it, followed by Facebook at 47%, WhatsApp at 21% and Instagram and UC Browser bringing up the rear.
 
 <script id="infogram_0_73daef7e-f91b-449f-9c10-44214117e967" title="Favorite apps 2" src="//e.infogr.am/js/embed.js?gOo" type="text/javascript"></script>
 
-The second graph shows the number of self-reported messages per day by platform among users of that platform (as opposed to among our entire sample). BBM users sent 110 messages per day, 266% more than SMS users, who sent an average of 30 messages per day. WhatsApp and Facebook Messenger users reported sending 7 and 5 messages a day per those platforms, respectively. Anecdotally, older professionals and people in government that I met tended to use other apps like WhatsApp or Line to communicate, while it seems that young people are barely using these apps.
+The second graph shows the number of self-reported messages per day among users of that platform (as opposed to among the entire sample). BBM users sent 110 messages per day, 266% more than SMS users, who sent an average of 30 messages per day. WhatsApp and Facebook Messenger users reported sending 7 and 5 messages a day on those platforms, respectively. Anecdotally, older professionals and people in government that I met tended to use  WhatsApp or Line to communicate, while it seems that young people are barely using these apps at all. 
 
 <script id="infogram_0_N4e6sWYz1zPSPnOl" title="Messages per day" src="//e.infogr.am/js/embed.js?dAU" type="text/javascript"></script>
 
 ## 2. If BBM is an 800 lb. gorilla, Facebook is an 1,800 lb. gorilla.
 
-Facebook is nearly omnipresent in Indonesia. The most recent publicly available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps. We found that trend in our sample--107 young people from economically challenged neighborhoods--of whom 77% reported having Facebook installed on their phones. Beyond that, Facebook users reported spending an average of **97 minutes per day** actively using the social platform. We also asked them broad questions about how they participate in information flows. 55% said they got their news from TV, while 50% said they got their news from Facebook (the next most popular options were BBM and the Internet--mainly http://detik.com); meanwhile, when asked about how they find job information, Facebook was far and away the most common response with 48% of respondents, followed by friends (25%) and BBM (20%). See the graphic below for full details.
+Facebook is nearly omnipresent in Indonesia. The most recent publicly-available numbers (from 2014) show almost [70 million Facebook users](http://blogs.wsj.com/digits/2014/06/27/facebook-users-in-indonesia-rise-to-69-million/), 15 to 20 million more than the messaging apps. We found that trend replicated among our sample: 77% reported having Facebook installed on their mobile phones. Beyond that, Facebook users reported spending an average of **97 minutes per day** actively using the social platform. 
+
+We also asked them broad questions about how they participate in information flows. 55% said they got their news from TV, while 50% said they got their news from Facebook (the next most popular options were BBM and the Internet--mainly http://detik.com); meanwhile, when asked about how they find job information, Facebook was far and away the most common response with 48% of respondents, followed by friends (25%) and BBM (20%). See the graphic below for full details.
 
 <script id="infogram_0_b8e5ebe4-db97-4eb8-858e-7da42733599c" title="Copy: Info Flows and Indonesian Youth" src="//e.infogr.am/js/embed.js?DPi" type="text/javascript"></script>
 
@@ -53,7 +55,9 @@ The answers were almost unanimous: between 78% and 90% of youth strongly agreed 
 
 <script id="infogram_0_2oRP1aq33YePvkNa" title="Likert" src="//e.infogr.am/js/embed.js?7eO" type="text/javascript"></script>
 
-Across our insights, one theme is consistent: young Indonesians from marginalized communities are well-connected. They have mobile phones, they have smartphones, and they're active on social media--particularly BBM and Facebook. They're using social media to find jobs, and they're interested in how their mobiles can help them access jobs and training. As DAI thinks about how to support this vulnerable population's entry into the workforce, we'll be taking all those facts into account. 
+## Final Thoughts
+
+Across our insights, one theme is consistent: young Indonesians from marginalized communities are well-connected to information flows. They have mobile phones, they have smartphones, and they're active on social media--particularly BBM and Facebook. They're using social media to find jobs, and they're interested in how their mobiles can help them access jobs and training. As DAI thinks about how to support this vulnerable population's entry into the workforce, we'll be taking all those facts into account. 
 
 ***
 
