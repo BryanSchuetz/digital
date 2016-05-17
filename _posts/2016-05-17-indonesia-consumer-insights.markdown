@@ -42,7 +42,7 @@ Key questions include:
 
 * What kinds of games do they play?
 
-We call this research **Consumer Insights**—“consumer” as in information consumer—and below is a bit of what we found.
+We call this research [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights)—“consumer” as in information consumer—and below is a bit of what we found.
 
 ## Demographics of the Sample
 
@@ -54,6 +54,6 @@ The graphic below contains a few sample, binary results from our survey in Indon
 
 <script id="infogram_0_EsjSOIlrstG2hxRh" title="Indonesia CI: The Basics" src="//e.infogr.am/js/embed.js?9rp" type="text/javascript"></script>
 
-## Upcoming blog posts in the Indonesia Consumer Insights series
+## Coming Soon
 
 * Social Media Habits, App Choices, & Information Flows
