@@ -14,7 +14,7 @@ Author: Adam Fivenson
 ![Revised4.png](/uploads/Revised4.png)
 `El autor, a la derecha, entrevistando a un joven en Tegucigalpa, Honduras. Un agradecimiento especial a Plan Internacional para el apoyo operativo, y el chaleco de seguridad! `
 
-*This post is also available in [English](http://dai-global-digital.com/consumer%20insights/2016/04/27/mobiles-in-central-america-consumer-insights-honduras-part-2.html).*
+*This post is also available in [English](http://dai-global-digital.com/mobiles-in-central-america-consumer-insights-honduras-part-2.html).*
 
 ## Decisiones Sobre los Medios Sociales y Mensajería Móvil
 
@@ -45,4 +45,4 @@ La mensajería móvil y las redes sociales son muy populares entre los jóvenes 
 
 *El autor desea agradecer la gran gente de [Plan Honduras] (https://plan-international.org/Honduras), [OYE Honduras] (http://www.oyehonduras.org/), y el [Centro de Desarrollo Humano] (http://www.centrocdh.org/) para su ayuda en la realización de esta investigación.*
 
-*Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1](dai-global-digital.com/consumer%20insights/2016/05/11/telefonos-moviles-en-america-central-consumer-insights-honduras.html) para obtener más información demográfica*
+*Los jóvenes de Honduras se consideran en riesgo si la comunidad donde viven muestra altos niveles de violencia doméstica, el consumo de drogas, presencia de pandillas, u otros factores de riesgo importantes. Se encuestó a personas de edades de 15 a 33. Véase [Móviles en América Central: Consumer Insights Honduras, Parte 1](dai-global-digital.com/telefonos-moviles-en-america-central-consumer-insights-honduras.html) para obtener más información demográfica*
