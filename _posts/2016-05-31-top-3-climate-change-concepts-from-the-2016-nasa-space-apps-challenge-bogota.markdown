@@ -3,18 +3,19 @@ title: Top 3 Climate Change Concepts from NASA Space Apps Challenge Bogotá
 date: 2016-05-31 23:55:00 Z
 published: false
 tags:
-- innovation
-- NASA Space Apps Challenge
-- Bogota
 - Colombia
-- ICT4D
+- Innovation
 Author: Adam Fivenson
 ---
+
+Which of Colombia’s highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help us mitigate the effects of climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/).
+
+<!--more-->
 
 ![Space Apps Bogotá-12.jpg](/uploads/Space%20Apps%20Bogot%C3%A1-12.jpg)
 `NASA Space Apps Challenge - Bogota 2016`
 
-Which of Colombia’s highways faces the greatest risk of flood? Is there a causal link between changing climate conditions, increased air pollution, and poor health among Colombians? How can drones help us mitigate the effects of climate change? These are a few of the big questions that teams of young people confronted at the [2016 NASA Space Apps Challenge in Bogotá](http://www.javeriana.edu.co/spaceappsbogota/). The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
+The event is an annual, weekend-long competition, hosted in more than [150 locations](https://2016.spaceappschallenge.org/locations) around the globe, focused on the design and development of tech-enabled concepts that use NASA satellite data to address challenges related to space exploration and improving life on earth.
 
 DAI co-hosted the Bogotá edition in partnership with [Centro Ático](http://www.javeriana.edu.co/vicerrectoria-academica/atico), the on-campus technology and innovation hub of the [Pontificia Universidad Javeriana](http://www.javeriana.edu.co/), and the [Centro Internacional de Agricultura Tropical (CIAT)](https://ciat.cgiar.org/), with the goal of harnessing the entrepreneurial power of young Colombians to tackle climate change.
 
@@ -37,4 +38,4 @@ Air Guardians is an app designed to strengthen the empirical link between air po
 `Two members of the SafeWay team`
 SafeWay is a drone-mounted weather station that measures temperature, wind speed/direction, humidity, air pollution, and feeds this information live to an Android app. The app also includes a live map of the drone’s location and restricted areas. The system’s developers built the weather station from an Arduino, and also coded their app during the weekend event. For more information, see the [developer’s page]( https://2016.spaceappschallenge.org/challenges/aero/dont-crash-my-drone/projects/safeway-the-drone-app).
 
-Have you seen a strong example of how new technologies are helping people adapt to and mitigate climate change? If so, let me know about it in the comments or tweet about it using #DigitalDAI hashtag! 
+**Have you seen a strong example of how new technologies are helping people adapt to and mitigate climate change?** If so, let me know about it in the comments or tweet about it using #DigitalDAI hashtag! 
