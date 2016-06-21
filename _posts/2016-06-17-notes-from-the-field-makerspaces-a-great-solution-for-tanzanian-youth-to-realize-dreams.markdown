@@ -1,5 +1,5 @@
 ---
-title: 'Makerspaces in Tanzania: Where Tanzanian Youth Realize Dreams'
+title: 'Makerspaces: Where Tanzanian Youth Realize Dreams'
 date: 2016-06-17 19:15:00 Z
 tags:
 - Tanzania
