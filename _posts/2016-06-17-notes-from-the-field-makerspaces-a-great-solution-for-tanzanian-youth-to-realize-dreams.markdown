@@ -1,6 +1,5 @@
 ---
-title: 'Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to
-  Realize Dreams'
+title: 'Makerspaces in Tanzania: Where Tanzanian Youth Realize Dreams'
 date: 2016-06-17 19:15:00 Z
 tags:
 - Tanzania
