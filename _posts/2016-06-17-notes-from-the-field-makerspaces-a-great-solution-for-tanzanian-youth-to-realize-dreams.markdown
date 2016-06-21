@@ -1,5 +1,6 @@
 ---
-title: 'Makerspaces: Where Tanzanian Youth Realize Dreams'
+title: 'Notes from the Field: Makerspaces a Great Solution for Tanzanian Youth to
+  Realize Dreams'
 date: 2016-06-17 19:15:00 Z
 tags:
 - Tanzania
@@ -7,7 +8,6 @@ tags:
 - Innovation
 Author: Caity Campos and Colleen Green
 ---
-
 
 Meet Jesse, a university student and entrepreneur. Jesse grew up in Leguruki village in Meru District in Northern Tanzania where the majority of people farm avocados, including Jesse’s family members. Despite good markets for avocado, 98 percent of Leguruki avocados do not make it to the market; their thin skins make them susceptible to rot or damage during transport along Meru’s bumpy, unpaved roads.
 
