@@ -3,9 +3,12 @@ title: 'Visualizing Hierarchical Data: the 2017 Budget Request for USAID''s Glob
   Health Initiative'
 date: 2016-08-08 22:18:00 -04:00
 published: false
+tags:
+- Data Visualization
+- Global Health
 ---
 
-[Capture.PNG](/uploads/Capture.PNG)
+![Sunburst](/uploads/Capture.PNG)
 
 Visualizing budget data is traditionally pretty difficult. It is often high volume, multi-layered data which makes it hard to see all at once. But here at DAI we love data visualization and we are using D3 to help us with advanced interactive data visualizations.
 
