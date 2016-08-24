@@ -23,11 +23,10 @@ John: So ah, did you know that you and me share one crazy trait with a billion o
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-Adam: Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8 
+**Adam:** Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8 
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
-**John:** Those other six billion people are so lame, you know?. 
-**John:** I mean what could they be possibly doing with all their time? 
+
 
 **Adam:** Hard to say, but they’re definitely not living life to the fullest. 
 **Adam:** So the app is popular, we know that. What about the features? 
@@ -35,7 +34,16 @@ Adam: Yeah, but did they have a choice? Facebook rolled out Messenger like a hos
 
 **John:** The secret games and GIF search are top notch. 
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps. 
-**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/ 
+**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
+
+**Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… [Link showing Snapchat users 2016]
+**Adam:** So they just hauled off and made their own.
+
+**John:** And it’s no coincidence that young people are sharing less and less on their Facebook walls. 
+**John:** Apparently our generation’s social media faux pas have been noted, and duly so. [Link to article about this, if we can find one] 
+
+**Adam: **Which mistakes?
+ 
 
 
 
