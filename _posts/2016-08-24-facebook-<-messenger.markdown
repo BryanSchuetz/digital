@@ -21,7 +21,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Adam are you ok? Anyway. The GIF search is too much fun to ignore. 
 
-**John:** So ah, did you know that you and me share one crazy trait with a billion other people? This chart is from 2016:
+**John:** So ah, did you know that you and I share one crazy thing with one billion other people? This chart is from 2016:
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
@@ -30,8 +30,10 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
 
-**Adam:** Hard to say, but they’re definitely not living life to the fullest. 
-**Adam:** So the app is popular, we know that. What about the features? 
+**Adam:** Hard to say, but they’re definitely not living life to the fullest.
+ 
+**Adam:** So the app is popular, we know that. What about the features?
+ 
 **Adam:** Beyond the text/voice/video messaging and live calling, which are now pretty much standard with all of these apps, what’s different about Messenger?
 
 **John:** The secret games and GIF search are top notch. 
