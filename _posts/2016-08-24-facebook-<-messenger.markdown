@@ -1,5 +1,5 @@
 ---
-title: 'Appathon 2016: Facebook  Messenger'
+title: 'Appathon 2016: Facebook  Messenger for Development'
 date: 2016-08-24 10:14:00 -04:00
 published: false
 tags:
@@ -14,16 +14,16 @@ As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/
 
 Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon-2016.html) This week, we’re talking about another Facebook property: Messenger.
 
+![download-facebook-messenger-apk-15002016-for-your-android-2.jpg](/uploads/download-facebook-messenger-apk-15002016-for-your-android-2.jpg)
+
 **Pros:** Rides on the back of Facebook, which is used by more than a billion people, according to Facebook. Just like with WhatsApp, many phones come pre-loaded with Messenger. Features! GIF search adds flavor to conversations and the secret basketball and chess games are hidden gems. Payments open up major possibilities. Accessible via web browser.
 
 **Cons:** What happened to Facebook private messages? I.E., Facebook and Messenger used to be one app—now they are two. This distinction is confusing a lot of people. Feature overload? Is development of the app happening too quickly?
 
-***
+## Commentary
+*See YouTube video below. We recommend viewing in Fullscreen and HD quality.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
-
-
-***
 
 Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents significant opportunities in community outreach via groups and networked communication. This is the beast we know from our experience with WhatsApp and even SMS. What we're less sure about is what to do with chatbots. While they do present major opportunities to provide and gather information from people--and help them order products--there aren't yet any significant examples of major commercial successes with chatbots outside of China. That being said, in low-bandwidth environments, the ability to access databases of information with relatively little data transfer has the potential to be game changing. The only question is: will anyone care? 
 
@@ -31,9 +31,12 @@ Facebook Messenger has very rapidly become one of the most popular messaging app
 *Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
 
 
+
 ***
 
-## Full text of video for those unable to access YouTube
+
+## Full text of video 
+*For those without access to YouTube*
 
 **John:** Hey Adam
 
