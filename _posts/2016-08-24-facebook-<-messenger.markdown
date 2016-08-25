@@ -1,7 +1,11 @@
 ---
-title: 'Appathon 2016: Facebook  Messenger for Development'
+title: 'Appathon 2016: Facebook  Messenger'
 date: 2016-08-24 10:14:00 -04:00
 published: false
+tags:
+- Appathon 2016
+- Smartphones
+Author: Adam Fivenson & John DeRiggi
 ---
 
 As we’ve ramped up our [Consumer Insights](http://dai-global-digital.com/tags/?tag=consumer-insights) work over the last few months, we’ve had the opportunity to talk with people around Africa, Asia, Latin America, and the Middle East about the digital tools they use to stay in touch with each other and the world around them. These conversations have reminded us that we have to work hard to stay on top of the growing number of messaging apps on the market today, as what was popular six months ago might no longer be today. “Appathon 2016” is our way of quickly immersing ourselves in different messaging apps to learn about their functionality, look, and feel. How does it work? The entire DAI ICT team signs up for a platform, and for one week, we use it to chat with each other, send images and video, and explore the quirks and features of the app.
@@ -16,6 +20,19 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 ***
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8R_OBuYd8TA" frameborder="0" allowfullscreen></iframe>
+
+
+***
+
+Facebook Messenger has very rapidly become one of the most popular messaging apps in the world. For international development practitioners, the app presents big opportunities not only in community outreach and 
+
+*Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
+
+***
+
+*Full text for those unable to access YouTube*
+
 **John:** Hey Adam
 
 **Adam:** What's up? 
@@ -24,13 +41,13 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 <div class="atlas-chart" data-id="S1pISLTD" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_S1pISLTD.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
-**Adam:** Yeah, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
+**Adam:** Impressive, but did they have a choice? Facebook rolled out Messenger like a hostile takeover of its own private messaging feature. 
 
-**Adam:** http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8
+[Facebook Messenger Is Getting Slammed By Tons Of Negative Reviews Right Now](http://www.businessinsider.com/facebook-messenger-app-store-reviews-are-humiliating-2014-8)
 
 **John:** Maybe not, but either way it’s pretty impressive to have a billion people using your app.
 
-**Adam:** Hard to say, but one thing we can say is that they're just not living. 
+**Adam:** Agreed.
 
 **Adam:** So the app is popular, we know that. What about the features?
 
@@ -40,11 +57,11 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** That being said, with the rush of new features though it sort of feels like Facebook is in some kind of panic mode with everyone supposedly leaving the main site for these private messaging apps.
 
-**John:** http://fortune.com/2016/04/07/facebook-sharing-decline/
+[Facebook Users Are Sharing Fewer Personal Updates and It’s a Big Problem](http://fortune.com/2016/04/07/facebook-sharing-decline/)
 
 **Adam:** Right, it’s like they saw everyone having an awesome time with Snapchat and wanted in on the fun but didn’t want to pay the ticket price… 
 
-**Adam:** http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage
+[Snapchat Passes Twitter in Daily Usage](http://www.bloomberg.com/news/articles/2016-06-02/snapchat-passes-twitter-in-daily-usage)
 
 **Adam:** So they just hauled off and *made* their own.
 
@@ -52,7 +69,7 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** Apparently our generation’s social media faux pas have been noted, and duly so.
 
-**Adam:** Which mistakes?
+**Adam:** Which faux pas?
 
 ![200w_d.gif](/uploads/200w_d.gif)
 
@@ -82,36 +99,30 @@ Last time we covered [WhatsApp.](http://dai-global-digital.com/whatsapp-appathon
 
 **John:** And maybe more importantly, what we’re not saying.
 
-**John:** Instead of doing this:
+[Four Months Into ‘Chatbot Revolution,’ Expectations Are Being Reset](https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo)
 
-**John:** https://www.buzzfeed.com/alexkantrowitz/chatbots-have-yet-to-live-up-to-hype-says-kik-ceo
+**Adam:** Totally. 
 
-**Adam:** Totally. From an international development standpoint, chatbots do present some big opportunities.
+**Adam:** From an international development standpoint, chatbots do present some big opportunities.
 
 **Adam:** Namely, in low-bandwidth environments, chatbots have the potential to do what websites currently do so well:
 
-**Adam:** Guide users through the process of inputting information to elicit a customized response, be that more information, or placing an order for a product.
+**Adam:** Guide users through the process of inputting information to elicit a customized response.
 
-**Adam:** This is very exciting from a business standpoint: 
+**Adam:** Be that more information or placing and order for a product.
 
-**Adam:** http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633
+**Adam:** This is very exciting from a business standpoint.
+
+[Get Ready For The Chat Bot Revolution: They're Simple, Cheap And About To Be Everywhere](http://www.forbes.com/sites/parmyolson/2016/02/23/chat-bots-facebook-telegram-wechat/#13750f492633)
 
 **John:** Yeah, and don’t forget that chatbots are a proven model. China has been using WeChat chat apps for commerce for a few years now.
 
 **John:** Zuckerberg sees this as a natural progression of online shopping that will hit the United States because it already has a proven design.
 
-**Adam:** It will be interesting see if that happens.
+**Adam:** It'll be interesting see if that happens.
 
 **John:** Little-known fact: China had huge public bike-sharing systems before they started popping up in cities here.
 
 **Adam:** Little-known fact: I’m two points up on you in Messenger basketball.
 
-**John:** 
-
-![basketball.PNG](/uploads/basketball.PNG)
-
-***
-
-**CLOSING COMMENTS**
-
-*Interested in hearing more about other the other apps we tested in Appathon 2016?  [Subscribe now](https://confirmsubscription.com/h/r/066AFBA15492935C) to receive a weekly digest of our newest blogs sent directly to your inbox!*
+[Hidden Facebook games: How to find and play all of Facebook Messenger's secret games from basketball to chess] (http://www.digitalspy.com/tech/feature/a788495/hidden-facebook-games-how-to-find-play-facebook-messengers-secret-games-basketball-chess/)
