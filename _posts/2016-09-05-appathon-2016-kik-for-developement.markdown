@@ -1,7 +1,6 @@
 ---
 title: 'App-a-Thon 2016: Kik for Development'
 date: 2016-09-05 18:44:00 -04:00
-published: false
 tags:
 - Appathon 2016
 Author: Karim Bin-Humam & Adam Fivenson
@@ -25,16 +24,16 @@ Author: Karim Bin-Humam & Adam Fivenson
 
 **Karim:** Personally, I’m not sold on kik for either personal use, or in the context of international development work. While I do appreciate the ease of use and intuitive interface, particularly in comparison to Snapchat which feels like it’s designed for people with severe attention-deficit disorder. It seems kik is better designed for sharing viral web content than it is to be a well-rounded communications toolkit. My bot experience was decent enough, but no better than with other messaging apps. This surprised me, because kik—along with Facebook Messenger—has made a huge bet on chatbots as the next big thing for people who want an even easier solution than apps, and brands that want to engage their audience. Brands such as Skull Candy and online viral video platform Funny or Die have found success reaching users through kik. Perhaps the rub lies in the user base—a very Western, very teenage user base (not typically work-ready young people whom we tend to engage in our work). The disconnect was quite clear when I used the [Chatty McChatface](http://www.chattymcchatface.com/) bot to (supposedly) connect me with real kik chat users to discuss topics of my choice (although those choices were limited to such substantial topics as  “Music: Kanye West vs. Taylor Swift”...which I immediately chose.
 
-*Random kik User:* Yeaa <br />
-*Me:* Taylor Swift is the best. I love her songs. <br />
-*RKU:* ;) <br />
-*RKU:* But Selina Gomez also rocks <br />
-*Me:* oh totally. She’s the bomb diggity. <br />
-*RKU:* Yaaaaaasssss <br />
-*Me:* My favorite is still Coltrane though <br />
-*RKU:* awesome choice. 2 gud. <br />
-*Me:* What do you think about Kaiser Wilhelm? <br />
-*RKU:*  Not sure I have his new album... <br />
+>*Random kik User:* Yeaa <br />
+>*Me:* Taylor Swift is the best. I love her songs. <br />
+>*RKU:* ;) <br />
+>*RKU:* But Selina Gomez also rocks <br />
+>*Me:* oh totally. She’s the bomb diggity. <br />
+>*RKU:* Yaaaaaasssss <br />
+>*Me:* My favorite is still Coltrane though <br />
+>*RKU:* awesome choice. 2 gud. <br />
+>*Me:* What do you think about Kaiser Wilhelm? <br />
+>*RKU:*  Not sure I have his new album... <br />
 
 **Adam:** First of all, according to kik, [40 percent of U.S. teens use their app](https://blog.kik.com/2015/05/13/when-teens-use-kik/), so they’re certainly doing something right, even if they can’t help Karim find a random chatter who wants to discuss the intricacies of late-19th century German nobility.
 
@@ -48,7 +47,7 @@ Still, with WhatsApp and Facebook Messenger [dominating the messaging app wars i
 
 Will kik be the AOL Instant Messenger of the 2010s—hugely popular with the tweens, but quickly rendered obsolete and forgotten? Or will we all be ordering our pizzas, Ubers, and clothes via kik chatbots five years from now? Maybe the answer lies somewhere in the middle. Tech Crunch’s Faisal Khalid sums up the current state of chatbots in his provocatively named article [Let me tell you why chatbots suck](https://techcrunch.com/2016/05/29/why-do-chatbots-suck/):
 
-*Ten to 15 years back, when apps started taking over the world, the benefits were crystal clear. It was just quicker and easier to use an app on your phone to do stuff than to try to use the mobile web. Today, the same benefits—speed and efficiency—aren’t apparent when I use chatbots versus the mobile web. And even when they are, the lack of accuracy means I’m never quite sure if I can really trust the chatbot to get the job done.*
+>*"Ten to 15 years back, when apps started taking over the world, the benefits were crystal clear. It was just quicker and easier to use an app on your phone to do stuff than to try to use the mobile web. Today, the same benefits—speed and efficiency—aren’t apparent when I use chatbots versus the mobile web. And even when they are, the lack of accuracy means I’m never quite sure if I can really trust the chatbot to get the job done."*
 
 Until the perception that chatbots have no tangible benefits over apps and mobile web sites changes, we’re unlikely to see kik as a popular tool in the places DAI works. Anyone who has read our Consumer Insights work knows that our approach to mobile messaging apps is predicated on engaging people through the media they already use instead of attempting to introduce entirely new platforms. Chatbots themselves are based on this premise—they can even be accessed (with an @) within chats between two people, which is a pretty cool little feature that removes one more barrier to using them. Still, lacking a user base outside the United States and Canada, kik won’t have much opportunity to show the value of its chatbots in the rest of the world.
 
