@@ -1,10 +1,10 @@
 ---
 title: 'Mobiles in Central America: Consumer Insights Honduras, Part 2'
-date: 2016-04-27 08:00:00 Z
+date: 2016-04-27 04:00:00 -04:00
 categories:
-- Consumer Insights
+- Digital Insights
 tags:
-- Consumer Insights
+- Digital Insights
 - Honduras
 - Mobiles
 - ICT4D
