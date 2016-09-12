@@ -3,8 +3,8 @@ title: 'Climate Change in Colombia: Hack the Problem'
 date: 2016-04-18 17:46:00 -04:00
 tags:
 - Entrepreneurship
-- Youth
 - Latin America and the Caribbean
+- Environment & Energy
 Author: Krista Baptista
 ---
 
