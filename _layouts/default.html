@@ -29,6 +29,30 @@
         <div class="aside--logo"><a class="without-style" href="http://dai.com"><svg class="search" viewBox="0 0 996 255" preserveAspectRatio="xMinYMax meet"><use xlink:href="#dai-logo"></use></svg></a></div>
         <p><strong>DAI</strong> works on the frontlines of international development. Transforming ideas into action—action into impact. <a class="without-style" href="http://dai.com">We are committed to shaping a more livable world</a>.</p>
         <p class="related-links"><a class="without-style more-button related-link" href="/feed.xml"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#rss"></use></svg> RSS</a><a class="without-style more-button related-link" href="mailto:digital@dai.com"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#contact"></use></svg> CONTACT</a></p>
+        {% if page.url == "/" %}
+        <hr>
+        <h2>Filter Posts by Tag</h2>
+        <div class="filter-button-group">
+          <ul>
+            {% for tag in site.tags %}
+            {% if tag[0] == 'Corporate Services' %}<li><button data-filter=".corporate-services" class="without-style more-button tag-filter">Corporate Services</button></li>{% endif %}
+
+            {% if tag[0] == 'Digital Insights' %}<li><button data-filter=".digital-insights" class="without-style more-button tag-filter">Digital Insights</button></li>{% endif %}
+
+            {% if tag[0] =='Economic Growth' %}<li><button data-filter=".economic-growth" class="without-style more-button tag-filter">Economic Growth</button></li>{% endif %}
+
+            {% if tag[0] == 'Environment & Energy' %}<li><button data-filter=".environment-energy" class="without-style more-button tag-filter">Environment & Energy</button></li>{% endif %}
+
+            {% if tag[0] == 'Governance' %}<li><button data-filter=".governance" class="without-style more-button tag-filter">Governance</button></li>{% endif %}
+
+            {% if tag[0] == 'Health' %}<li><button data-filter=".health" class="without-style more-button tag-filter">Health</button></li>{% endif %}
+
+            {% if tag[0] == 'Stability' %}<li><button data-filter=".stability" class="without-style more-button tag-filter">Stability</button></li>{% endif %}
+
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
         {% if page.layout == 'post' or page.layout == 'author'%}
           <hr>
           {% include related.html %}
@@ -36,6 +60,32 @@
       </div>
       {% include footer.html %}
     </div>
+      <script type="text/javascript">
+      $( window ).load(function() {
+        $('.grid').isotope({
+        // options
+        itemSelector: '.grid-item',
+        layoutMode: 'vertical'
+      });
+      // init Isotope
+      var $grid = $('.grid').isotope({
+        // options
+      });
+      // filter items on button click
+      $('.filter-button-group').on( 'click', 'button', function() {
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({ filter: filterValue });
+      });
+      // change is-checked class on buttons
+      $('.filter-button-group').each( function( i, buttonGroup ) {
+        var $buttonGroup = $( buttonGroup );
+        $buttonGroup.on( 'click', 'button', function() {
+          $buttonGroup.find('.is-checked').removeClass('is-checked');
+          $( this ).addClass('is-checked');
+        });
+      });
+})
+      </script>
   </body>
 
 </html>
