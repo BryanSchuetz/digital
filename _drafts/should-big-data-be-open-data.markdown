@@ -14,7 +14,7 @@ tags:
 
 <!--more-->
 
-## Three key considerations for deciding whether big data should be open data
+## Key Considerations
 
 We propose that when considering whether big data should be made open, decision makers should apply a litmus test including at least the following three questions, and likely many others according to the specific context of the data.
 
@@ -34,7 +34,7 @@ In [Kenya](http://www.cgap.org/publications/proliferation-digital-credit-deploym
 
 For smallholder farmers, it is common to need loans to buy fertilizer and seeds at the beginning of the season that can then be repaid several months later after harvest. Big data-driven digital loans, as currently offered, would not meet this need—the digital loans are typically small and have short repayment periods (seven to 30 days). Yet, once data is publicly available to banks or other providers, there is a temptation to push a product even where there is a mismatch, leaving the borrower exposed to unneeded debts and default. Because of this, calls to make the data open could put farmers’ sensitive information at risk, without providing adequate benefits to make that a worthwhile tradeoff.
 
-## Not all data is the same
+## Not All Data is the Same
 
 The push to make data open—prominently supported by the [World Bank](http://www.worldbank.org/en/topic/opendevelopment/overview) and [the U.S. Agency for International Development (USAID)](https://www.usaid.gov/sites/default/files/documents/1868/ADS579FactSheet 2015-02-13.pdf), among others—has had an incredible impact on the quantity of data available for development-oriented research and for understanding the lives of the poor. However, not all data is the same. To date, many efforts to make data open, such as by the World Bank and USAID, relate to survey data (e.g., data collected via door-to-door household interview, or as part of a projects or program evaluation). This type of data has usually been collected as a public good (e.g. with public money), and can be anonymized before being made “open.”
 
@@ -44,14 +44,14 @@ Another approach would be to segment information into three buckets—(Green) co
 
 ### Segmenting big data
 
-| Red – Not to be made open          | Yellow – Possibly made open with appropriate precautions | Green – Can be made open                                |
+| Red—Not to be made open          | Yellow—Possibly made open with appropriate precautions | Green—Can be made open                                |
 |------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
-| Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60% of District X uses mobile money) |
+| Names                              | CDRs, with appropriate safeguards and consent            | Aggregate figures (60 percent of District X uses mobile money) |
 | Phone numbers                      |                                                          |                                                         |
 | GPS coordinates                    |                                                          |                                                         |
 | Mobile money transaction records   |                                                          |                                                         |
 | Identification numbers (e.g. SSNs) |                                                          |                                                         |
 
-## Big Data as open data is a two-edged sword
+## Big Data as Open Data is a Two-Edged Sword
 
 There is much that can be learned from big data that can benefit marginalized populations such as smallholder farmers. Additionally, poorly conceived data releases that enable access to individuals’ information can lead to misuse of such information to the determent of the individual. In light of often inadequate consumer protection regulations regarding data privacy, the burden in many cases falls on other stakeholders—companies or governments that hold or control data, donors and funders who hold influence, implementing organizations, and others involved in decision-making—to decide which data to share and when. 
