@@ -11,9 +11,9 @@ Earlier this month I had the good fortune to attend the [Global Accelerator Netw
 
 ## What exactly is a [startup accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
 
->It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6-10%) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
+It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6-10%) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
 
-## This year’s Rally 
+## This year’s Rally...
 ...brought together accelerators from all over the world, including:
 
 * [Carao Ventures in Costa Rica](http://www.caraov.com/)
@@ -60,6 +60,6 @@ Missions should be integrating with local startup ecosystems (almost every mediu
 
 2. **Include innovation funds in project RFPs.** DAI has had success in Cambodia through our [Development Innovations](http://www.development-innovations.org/success-stories/) project in using innovation grants, but this approach could be expanded significantly to prove incentives for local entrepreneurs. Also, instead of innovation grant funds, consider establishing an innovation venture fund, which would allow the project more flexibility in contracting methods and partners.
 
-3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB; USAID Missions must push the Agency to let them experiment, and to open space for implementing partners (both international and local) to try new things. The "Uber of civic engagement" might be out there, we just need to create the conditions for entrepreneurs to try (and fail) enough times until we figure it out! 
+3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB; USAID Missions must push the Agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The "Uber of civic engagement" might be out there, we just need to create the conditions for entrepreneurs to try (and fail) until we figure it out! 
 
-Do you have additional ideas of how USAID could support innovation? I'd love to hear them! 
+Do you have additional ideas of how USAID could support innovation? I'd love to hear them! Let us know on Twitter @DAIGlobal.
