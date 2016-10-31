@@ -6,6 +6,9 @@ published: false
 
 Earlier this month I had the good fortune to attend the [Global Accelerator Network’s](http://gan.co) annual [Rally]( https://twitter.com/hashtag/ganrally) out in Denver. The Global Accelerator Network (GAN) includes 70 startup accelerators in 100 cities across six continents. 
 
+![GAN stage.jpg](/uploads/GAN%20stage.jpg)
+`GAN CEO Patrick Riley and the MDs of startup accelerators during the GAN Summit 2016`
+
 ## What exactly is a [startup accelerator](https://en.wikipedia.org/wiki/Seed_accelerator)?
 
 >It’s a mentorship program for budding entrepreneurs. Generally, after a competitive application process, accelerators provide startups with limited funding, office space to operate, mentorship, opportunities to network with venture capitalists, and a demo day to show off their tools, all in exchange for a small (6-10%) stake in the company. Some of the best known accelerators are [Techstars](http://www.techstars.com/) and [Y Combinator](https://www.ycombinator.com/). 
