@@ -1,7 +1,6 @@
 ---
 title: Hey USAID, Want to Promote Innovation?
 date: 2016-10-30 15:33:00 -04:00
-published: false
 tags:
 - Think Piece
 - Innovation
@@ -58,7 +57,7 @@ There’s a growing segment of the social sector that thinks of itself not as si
 3. Social impact investing is a growing area for venture capitalists with a social conscience, as the global innovation ecosystem and the nonprofit sector start to converge. 
 4. There remain significant differences between the two particularly when it comes to incentives, as the [Engine Room rightly points out](https://www.theengineroom.org/disrupt-your-market/), but the unifying incentive is to solve people’s problems, and to do so sustainably. 
 
-**The takeaway is this: the innovation ecosystem is ripe for investment. Much like international development, this is a community of people that is dedicated to solving problems. Failing to further integrate would be a huge missed opportunity, which brings us back to the title of this piece:**
+**The takeaway is this: the innovation ecosystem is ripe for investment. Much like international development, this is a community of people that is dedicated to solving problems sustainably. Failing to integrate with the global innovation ecosystem would be a missed opportunity, which brings us back to the title of this piece:**
 
 ## Hey USAID, Want to Promote Innovation?
 Based on what we’ve discussed, here are a few ways to drive innovative, locally-led problem solving in the countries where USAID operates. 
@@ -70,6 +69,6 @@ Missions should be integrating with local innovation ecosystems (almost every me
 
 3. **Reconsider risk calculations.** Not every investment into the startup ecosystem is going to pay off with the next Uber or AirBnB (or [NationBuilder](http://nationbuilder.com/) or [Platzi](https://courses.platzi.com/) or [Couchsurfing](https://www.couchsurfing.com), all [Omidyar](https://www.omidyar.com) investments; USAID missions must push the agency (and vice versa) to experiment, and to open space for implementing partners (both international and local) to try new things. The “Uber of civic engagement” might be out there, we just need to create the conditions that allow entrepreneurs to try (and fail) until we figure it out! 
 
-*This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, improve procurement processes,  and adjust monitoring and evaluation frameworks to be more agile, although I consider all of those to be important as well.*
+*This list is brief and it doesn’t tread into the ongoing discussion about how to better define innovation, improve procurement processes,  and adjust monitoring and evaluation frameworks to be more agile.*
 
-*Do you have additional ideas of how USAID could support innovation? I’d love to hear them! Let me know on Twitter at @DAIGlobal.*
+*I'd love to hear others' thoughts on those topics, and other ideas you have on how USAID could support innovation. Let me know on Twitter at @DAIGlobal.*
