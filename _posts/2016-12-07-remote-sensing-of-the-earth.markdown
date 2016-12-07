@@ -16,6 +16,7 @@ Author: John DeRiggi
 One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that refracts in different wavelengths and splays out in this familiar natural sequence
  
 ![roygbiv](/uploads/roygbiv.jpg)
+``` the electromagnetic spectrum. The visible portion of the spectrum is tiny.
 
 Sir James then placed a thermometer underneath each color and took note of the difference in temperature. He put another thermometer to the left of the red light, outside the range of the colored light. That’s when something unexpected happened: the highest temperature was found there, left of the red area outside of the visible range! 
 
@@ -38,9 +39,21 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+
 ### Band Combinations and False Color Images
+The different bands picked up by landsat can be combined to create images. Here is the breakdown of the different bands:
+
+![bands](/uploads/_1_Wavelengths.jpg)
+``` band combinations: source harris corporation
+
 Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
 
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
-!(true color)[/uploads/432image.jpg)
+![true color](/uploads/432image.jpg)
+``` Approximately what the easter DRC looks like from a human eye in space
+
+Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at your eye.
+
+Now let’s sort of replicate James Herschel’s experiment and look at a warmer edge of the spectrum, This is the thermal infrared layer from Landsat8. I also zoomed in a bit
