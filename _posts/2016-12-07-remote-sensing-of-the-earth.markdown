@@ -16,7 +16,7 @@ Author: John DeRiggi
 One day in 1800 German-born British citizen and musician-turned-astronomer, Sir James Herschel was doing something we’ve all found ourselves doing on lazy sunday afternoons. That’s right he was playing around with a prism, investigating the temperature differences between the bands of colorful light that refracts in different wavelengths and splays out in this familiar natural sequence
  
 ![roygbiv](/uploads/roygbiv.jpg)
-``` the electromagnetic spectrum. The visible portion of the spectrum is tiny.
+``` the electromagnetic spectrum. The visible portion of the spectrum is tiny.```
 
 Sir James then placed a thermometer underneath each color and took note of the difference in temperature. He put another thermometer to the left of the red light, outside the range of the colored light. That’s when something unexpected happened: the highest temperature was found there, left of the red area outside of the visible range! 
 
@@ -52,7 +52,8 @@ Landsat data is provided to us in layers, for sections of the electromagenetic s
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
 ![true color](/uploads/432image.jpg)
-``` Approximately what the easter DRC looks like from a human eye in space
+```Approximately what the easter DRC looks like from a human eye in space```
+
 
 Not terribly exciting right? It is kind of hard to see what is on the ground, there are some very bright white clouds reflecting the full light of the sun back at your eye.
 
