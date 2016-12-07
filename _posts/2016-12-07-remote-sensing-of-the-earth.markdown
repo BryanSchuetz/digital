@@ -40,12 +40,12 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Landsat global imagery coverage, 1972-2016, on <a href="https://t.co/ZBCTIqYhPv">https://t.co/ZBCTIqYhPv</a> via <a href="https://twitter.com/lindamood">@lindamood</a> <a href="https://t.co/q2Oajh1OcI">pic.twitter.com/q2Oajh1OcI</a></p>&mdash; Lisa Charlotte Rost (@lisacrost) <a href="https://twitter.com/lisacrost/status/806562547193221121">December 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Band Combinations and False Color Images
+### Band range for Landsat8
 The different bands picked up by landsat can be combined to create images. Here is the breakdown of the different bands:
 
 ![bands](/uploads/landsat8bands.JPG)
 
-``` band combinations: source harris corporation```
+``` Landsat8 bands: source ESRI```
 
 Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
 
