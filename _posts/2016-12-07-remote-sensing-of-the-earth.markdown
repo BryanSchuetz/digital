@@ -23,7 +23,7 @@ Sir James then placed a thermometer underneath each color and took note of the d
 Sir James discovered infrared light. Identifying for the first time a physical property of light that is most appropriately described by a cliche: there is more than meets the eye. While us humans can only see the light in the rainbow color spectrum, there is a far wider spectrum of light zipping through space, reflecting off things, revealing properties of the things it reflects against. This full spectrum of light comprising of both the colors visible to us humans and many other invisible bands is called the electromagnetic spectrum. It is hard to imagine invisible light but many of these invisible bands have familiar names like x-rays, microwaves, and radio waves. All of them are part of the same spectrum, just separated by the size of the wavelength.
 
 ![em spectrum](/uploads/emspectrum.jpg)
-```The electrogmagentic spectrum. The visible portion is tiny``
+```The electrogmagentic spectrum. The visible portion is tiny```
 
 This understanding and analysis of the different properties of light at different wavelengths helped spawn a field of study in which we study the earth with satellites, planes, drones and sensor technology.
 
@@ -47,7 +47,7 @@ The different bands picked up by landsat can be combined to create images. Here 
 
 ``` Landsat8 bands: source ESRI```
 
-Landsat data is provided to us in layers, for sections of the electromagenetic spectrum. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
+Landsat data is available in raster format, with one raster for each band collected by the sensors. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum. Bands are referenced by numbers indicating the portion of the spectrum they cover. Bands 4, 3, and 2 cover the red, green, and blue parts of the visible spectrum
 
 Lets take an example of a true color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
 
@@ -71,6 +71,11 @@ Now let's play with another combination of bands, this one highlighting lush hea
 ![drc](/uploads/drcrwanda.jpg)
 
 Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
+
+So how can we apply remote sensing to development? There are endless possibilities. One of the classic agriculture applications is to examine the health of vegetation. Because satellites are taking snapshots of the earth on very regular intervals, we can use these vegetation metrics to monitor change in vegetation quality.
+ 
+![ndvi_Change.jpg](/uploads/ndvi_Change.jpg)
+``` Change in vegetation health (NDVI) between 2008 and 2010 near Kigali, Rwanda```
 
 There are infinitely more interesting things you can do with landsat and we will detail them in the rest of this remote sensing series. 
 
