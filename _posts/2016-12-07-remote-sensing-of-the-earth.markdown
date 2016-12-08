@@ -41,7 +41,7 @@ Landsat is a satellite program started in the 1970s and operated by USGS and NAS
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Bands and Landsat8
-Landsat8 detects light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
+Landsat8 sensors detect light at different sections of the electromagnetic spectrum. Each section is referred to as a **band**. Here is the breakdown of the different bands:
 
 ![bands](/uploads/landsat8bands.JPG)
 
@@ -49,7 +49,7 @@ Landsat8 detects light at different sections of the electromagnetic spectrum. Ea
 
 Landsat data is available in raster format, with one raster for each band collected by the sensors. With remote sensing software you can layer these bands together to produce images of the earth, emphasizing different portions of the spectrum.
 
-Lets take an example of a visible color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye.
+Lets take an example of a visible color image, this is pretty close to what it would look like if you looked at the eastern DRC and western Rwanda with the naked eye from 438 miles above the earth.
 
 ![true color](/uploads/432image.jpg)
 ```Approximately what the easter DRC looks like from a human eye in space```
@@ -72,7 +72,7 @@ Now let's play with another combination of bands. Near-infrared light (band 5) o
 ![drc](/uploads/drcrwanda.jpg)
 ``` Deep blues in the west reflect healthy vegetation. Greens in the east are signs of cultivated land ```
 
-Here we compose an image using landsat bands that highlight healthly lush vegetation, and the tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
+With this image, a tail of two countries appears. In the middle is lake kivu, to the left eastern DRC and the green area to the east of the lake is western Rwanda. The deep blue in the DRC highlighits the thick forested region of the DRC and the green areas in Rwanda show the inensity of agriculture in that area. This makes sense with a much higher populatin density in Rwanda
 
 ![drcrwanda_labeled-2e2395.jpg](/uploads/drcrwanda_labeled-2e2395.jpg)
 ``` Labeled image composed of bands emphasizing healthy vegetation ```
