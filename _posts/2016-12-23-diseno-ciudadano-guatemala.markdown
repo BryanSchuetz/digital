@@ -23,7 +23,7 @@ Después de unas cuantas rondas de discusión y consulta con el equipo del proye
 Esta lista de temas para investigación es parecida a nuestra metodología [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights). La diferencia es que las entrevistas que hicimos en Guatemala fueron realizadas por una organización socio, el ONG [ADESJU](https://www.facebook.com/Asociaci%C3%B3n-Para-el-Desarrollo-Sostenible-de-la-Juventud-130288017040702/).
 
 ![WhatsApp-Image-20160618 (10).jpeg](/uploads/WhatsApp-Image-20160618%20(10).jpeg)
-`ADESJU hace una entrevista con Chiantleco en la periferia del municipio.`
+`ADESJU hace una entrevista en la periferia del municipio.`
 
 Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la periferia, y en las tierras altas rurales. La mitad eran hombres, la otra mitad eran mujeres, y había una gama amplia de edades representadas, de 16 hasta 70 anos. Treinta eran parte del COCODE. A continuación se ve una muestra de lo que hallamos, seguido por alguna discusión de cómo afectó nuestro proceso de diseño.
 
@@ -37,6 +37,8 @@ Se entrevistó a 100 ciudadanos en tres lugares: el centro de la ciudad, en la p
 * Facebook y WhatsApp eran enormemente populares y su aceso principalmente a través de móviles. Actualmente, uno de los cuatro componentes claves de la app es un enlace directo a la [página de Facebook del municipio](https://www.facebook.com/MuniChiantla/), que se actualiza con información, eventos y fotos; varias veces al día. Dada su popularidad, vemos esto como un foro viable para crear más participación ciudadana, y tenemos suerte que el municipio ya actualiza su página de Facebook varias veces cada día. Por supuesto no todo el mundo tiene acceso a Facebook, por lo que en el futuro estaremos buscando maneras de involucrar a esa población a través de mensajes de texto y eventos en vivo. 
 
 * Cuando se le preguntó, la funcionalidad más solicitada era la transparencia presupuestaria. Éste será un componente central de nuestro producto final, y hemos estado trabajando estrechamente con él [Portal de Gobiernos Municipales](http://portalgl.minfin.gob.gt/Paginas/PortalGobiernosLocales.aspx) a través del Ministerio de Finanzas Publicas y su [Dirección de Asistencia a la Administración Financiera Municipal](http://www.minfin.gob.gt/index.php/noticias-minfin-2014/1707-19-la-direccion-de-asistencia-a-la-administracion-financiera-municipal-daafim-habilita-oficinas-de-atencion-para-municipalidades). En mi opinión, este es el elemento más importante del sistema, aunque al principio haremos la promoción a los ciudadanos que se enfocará principalmente en la función de notificación de problemas, igual a [la nueva app](http://www.mixcoapp.com/) del municipio de [Mixco](https://goo.gl/maps/3kcptFFKe2S2).
+
+* También estamos construyendo un módulo sencillo de informe de problemas, que permitirá a los ciudadanos a informar el municipio sobre baches, fallas eléctricas, problemas con el abastecimiento de agua, y mas  y enviar esa información a los funcionarios que pueden resolver el problema rápidamente. El desafío por parte del municipio será asegurar respuestas rápidas y consistentes a los informes presentados, o la confianza del público tanto en la aplicación como en la administración puede sufrir.
 
 # Próximos Pasos
 
