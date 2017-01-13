@@ -4,6 +4,7 @@ date: 2016-12-23 16:28:00 -05:00
 published: false
 tags:
 - Guatemala
+- Governance
 Author: Adam Fivenson
 ---
 
@@ -49,4 +50,4 @@ En términos de desarrollo de la capacidad local, el Alcalde Alvarado contrató 
 ¡Manténganse al tanto!
 
 ![Archivo_0011.jpeg](/uploads/Archivo_0011.jpeg)
-`El alcalde Alvarado anuncia la aplicación al público en la iluminación del árbol de Navidad de Chiantla el 8 de diciembre.`
+`Alcalde Alvarado anuncia la aplicación al público en la iluminación del árbol de Navidad de Chiantla el 8 de diciembre.`
