@@ -4,10 +4,12 @@ date: 2017-01-13 14:34:00 -05:00
 tags:
 - Innovation
 - Think Piece
-Author: Rob Ryan-Silva
+Author: "[Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva)"
 ---
 
 As I write this, the annual [Consumer Electronics Show](http://www.ces.tech/) has just wrapped up in Las Vegas, having introduced an allegedly eager public to [smartphone-enabled hairbrushes](http://www.bbc.com/news/technology-38503932), [Bluetooth-capable vibrating hotpants](http://www.spinali-design.com/pages/jeans-essentiel), and [refrigerators that tweet when you’re running low on soy milk](https://www.cnet.com/pictures/feast-your-eyes-on-the-fridges-of-ces-2017/). This is what marketing departments call the Internet of Things (IoT): devices that are networked for sensing, control, and/or coordination. Under the stifling blanket of hype, though, new platforms, network protocols, and data repositories really are enabling applications of value, in addition to the tweeting kitchen appliances which, one hopes, will stay in Vegas.
+
+<!--more-->
 
 ![internet-of-things-concept-illustration.jpg](/uploads/internet-of-things-concept-illustration.jpg)
 
@@ -23,10 +25,10 @@ As it happened, we had already piloted a [sonar-based flood early warning system
 
 We adapted the hardware design to trigger a flow using the RESTful API of People In Need’s RapidPro IVR installation. The new unit, called Tepmachcha after a Hindu story immortalized in carvings at Angkor Wat about a fish that warns of a cataclysmic flood, thus can trigger a voice phone call to tens of thousands of area residents on detecting a flood condition, within a matter of minutes. No internet access is required to get the warning.
 
-[pursat.JPG](/uploads/pursat.JPG) `A test unit being installed in Pursat, Cambodia`
+![bridge.jpeg](/uploads/bridge.jpeg) `A test unit being installed in Pursat, Cambodia`
 
 We installed test units in Pursat and Kampot in September, and are using the output from these to further refine and iterate the design. The People In Need staff have been trained in building, repairing, and reprogramming the units, and we are currently working with them to integrate the units more seamlessly into their overall disaster information system. The system is entirely open source, with the code, fabrication files, and build instructions [available on Github](https://github.com/DAI-Maker-Lab/tepmachcha).
 
-[tepmachcha.JPG](/uploads/tepmachcha.JPG) `One of the Tepmachcha units.`
+![tepmachcha.JPG](/uploads/tepmachcha.JPG) `One of the Tepmachcha units.`
 
 When a phrase is as embraced as “Internet of Things,” it is tempting to stand cheerfully by while the buzz-merchants beat it to oblivion. But there is no denying the power of being able to use ubiquitous networks to connect, as in the case of Tepmachcha, real-world inputs—such as rising water—to real world outputs, like a phone call, or a pump turning on downstream.
