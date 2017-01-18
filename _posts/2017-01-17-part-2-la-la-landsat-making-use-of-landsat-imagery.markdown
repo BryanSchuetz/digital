@@ -8,7 +8,7 @@ tags:
 Author: John DeRiggi
 ---
 
-*DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington, D.C.*
+*DAI is in a stellar mood about the upcoming [SatSummit](https://satsummit.io/) in Washington, D.C. This is the second post in our remote sensing series. [The first is here](https://dai-global-digital.com/remote-sensing-of-the-earth.html)*
 
 Some incredible things were happening in the United States in 1972: Bill Withers’ “Lean on Me” was the No. 1 song on the radio; the first “Godfather” film was released; and NASA launched the first in a series of satellites designed to provide consistent and reliable coverage of the earth’s land cover. The platform—the Earth Resources Technology Satellite or ERTS-1—was developed in partnership with [the U.S. Geological Survey (USGS)](https://www.usgs.gov/), which agreed to handle the storage, archiving, and distribution of the data products. The second satellite, eventually renamed Landsat 2, launched in 1975, operating in parallel with ERTS-1 for a few years until the original satellite was decommissioned in 1978.
 
@@ -90,7 +90,7 @@ So what do you do with this data? You can construct color composite images, or a
 
 ```Common band combinations: source ESRI```
 
-So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
+So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the individual bands and their combinations that might be useful.
 
 # A Practical Example
 Let's give this a try, examining the far western region of Nepal, where DAI implements an [integrated watershed management project called PANI](https://www.dai.com/our-work/projects/Nepal-Program-for-Aquatic-Natural-Resources-Improvement-PANI). We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season as compared to a dry time of the year five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
