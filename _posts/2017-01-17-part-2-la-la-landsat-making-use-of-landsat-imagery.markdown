@@ -86,6 +86,7 @@ So what do you do with this data? Now you can construct false color images by la
 
 So, if you want to create a 5-4-3 image you need to combine layers (you guessed it) 5, 4, and 3. In QGIS, a free cross-platform geographic information system (GIS) application, you can combine these. Simply select Raster > Miscellaneous > Build Virtual Raster to combine the three layers into one. This [MapBox blogpost](https://www.mapbox.com/blog/putting-landsat-8-bands-to-work/) from 2013 has a great description of the band combinations that would be of interest.
 
+# A Practical Example
 Let's give this a try, examining the far western region of Nepal, where DAI implements an integrated watershed management project called PANI. We want to see where healthy vegetation is during two different times of the year. Nepal has monsoon seasons so we expect to see variation in vegetation health immediately after monsoon season compared to five months after monsoon season. Generally taking place in June and July, monsoon season is inching later in the year because of climate change.
 
 ![areaOfInterest.jpg](/uploads/areaOfInterest.jpg)
@@ -93,10 +94,11 @@ Let's give this a try, examining the far western region of Nepal, where DAI impl
 
 Let's use data from August 2016, right after the rains. I downloaded the layers for this time period and combined them into a 5-6-2 image which highlights healthy vegetation in red. We see a fairly swollen Mahakali River and a fairly even spread of vegetation highlighted in red.
 ![August4th2016_562.JPG](/uploads/August4th2016_562.JPG)
-```A 5-6-2 image of western Nepal```
+```A 5-6-2 image of western Nepal in August 2016, soon after monsoon season```
 
 Now let's look at a drier time of the year. Like right now for example, January 2017.
-[January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
+![January1st2017_562.JPG](/uploads/January1st2017_562.JPG)
+```A 5-6-2 image of western Nepal in January 2017, a dry time of the year```
 
 # Other Landsat Tools
 
