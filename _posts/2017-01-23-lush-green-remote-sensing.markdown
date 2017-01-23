@@ -1,6 +1,6 @@
 ---
-title: 'Remote Sensing Part 3: How to find what you desire most: that healthy lush
-  green'
+title: 'Remote Sensing Part 3: Identify That Healthy. Lush. Green. Vegetation....From
+  Space!'
 date: 2017-01-23 17:37:00 -05:00
 published: false
 ---
@@ -22,10 +22,10 @@ Healthy basil is a luscious green color. **But why?** Plants absorb, rather than
 ![nepalMapWithStudyArea.jpg](/uploads/nepalMapWithStudyArea.jpg)
 ```Our study area in wesern Nepal```
 
-[august_2016.JPG](/uploads/august_2016.JPG)
+![august_2016.JPG](/uploads/august_2016.JPG)
 ```NDVI just after the monsoon season in August 2016. On the ground we see a fairly even distribution of healthy green vegetation. The bright yellow blotches are clouds are scattered about in the scene```
 
-[january_2017.JPG](/uploads/january_2017.JPG)
+![january_2017.JPG](/uploads/january_2017.JPG)
 ```NDVI for a dry day in early January 2017. We see healthy vegetation only in the irrigated farmland with the mountains and natural forest region drying out```
 
 
