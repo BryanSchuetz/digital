@@ -2,7 +2,13 @@
 title: 'Remote Sensing Part 3: Identifying Healthy Vegetation From Space!'
 date: 2017-01-23 17:37:00 -05:00
 published: false
+tags:
+- Remote Sensing Series
+Author: John DeRiggi
 ---
+
+DAI's excitement about the upcoming [SatSummit](https://satsummit.io/) is approaching perigee levels, with the conference less than one week away! This is part 3. Others: [part 2](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) and [part 1](https://dai-global-digital.com/remote-sensing-of-the-earth.html) 
+
 
 You could live a perfectly fulfilled life taking for granted all the colors that appear in nature. However, like many things, when you ask "why?", doing so usually reveals a new fascinating level of complexity, and this is especially true for the color of things.
 
