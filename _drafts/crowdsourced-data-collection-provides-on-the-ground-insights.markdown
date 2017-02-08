@@ -3,10 +3,10 @@ title: Crowdsourced Data Collection Provides On-the-Ground Insights
 date: 2017-02-06 10:35:00 -05:00
 tags:
 - data
-Author: Kelsey Stern Buchbinder
+Author: "[Kelsey Stern Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/)"
 ---
 
-*At the end of 2016, we published a [post ](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html)on the digital data collection sector. In 2017, we're delving deeper into this growing sub-field of ICT4D with interviews, technology reviews, and guest posts. We’re kicking things off with a piece from our friends at [Findyr](https://www.findyr.com/) who specialize in gathering insights from emerging markets using mobile-enabled, trained data collectors from the field. [Kelsey Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/) is a Business Development Associate at Findyr.*
+*At the end of 2016, we published a [post](https://dai-global-digital.com/mobile-data-collection-a-sector-in-flux.html) on the digital data collection sector. In 2017, we're delving deeper into this growing sub-field of ICT4D with interviews, technology reviews, and guest posts. We’re kicking things off with a piece from our friends at [Findyr](https://www.findyr.com/) who specialize in gathering insights from emerging markets using mobile-enabled, trained data collectors from the field. [Kelsey Buchbinder](https://www.linkedin.com/in/kelseysternbuchbinder/) is a Business Development Associate at Findyr.*
 
 <!--more-->
 
@@ -35,13 +35,8 @@ In the last few years, a number of technology-based crowdsourced data collection
 In addition to being a cost-effective means of accurate data collection, crowdsourced data collection offers several additional advantages and benefits, including:
 
 * Easily gain insight into specific local markets, including cities and neighborhoods, with near real-time information
-
 * Access to accurate data for marketing projects, strategies, and case studies
-
 * Verified data, to assist in managing risk and confirming events in locations all around the globe
-
 * Getting the jump on data collection in emerging markets
-
 * Minimizing travel time while still collecting data that can only be obtained in person
-
 * Services like Findyr collect hyper local data that is GPS-tracked and time/date stamped
