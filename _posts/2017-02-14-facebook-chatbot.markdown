@@ -39,15 +39,15 @@ Today, a year later, the situation is very different. [Chatfuel](http://www.chat
 
 So what did I build? This chatbot uses natural language (OK it's English, not Bahasa) to make it quick and easy for Indonesians to scan three popular job web sites: 1) [JobStreet](http://www.jobstreet.co.in), 2) [Jobs in Jakarta](http://www.jobsinjakarta), and 3) [JobRank](http://www.jobrank.org/id/). It asks the user to enter a location and job interest, which it turns into a Google query of the above-mentioned job sites. It presents the results in order as a gallery of clickable sliders, which take the user directly to the job listing. Check it out:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen></iframe>
-## [Test Siti Live](https://www.messenger.com/t/1276881939061378)
+## [Now, Try Siti Live (click here)](https://www.messenger.com/t/1276881939061378)
 
 How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
-1. I linked \[Chatfuel\](http://www.chatfuel.com\] to my Facebook account.
+1. I linked [Chatfuel](http://www.chatfuel.com] to my Facebook account.
 
 2. I made a [Facebook page](https://www.facebook.com/Siti-1276881939061378) for my chatbot.
 
-3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/). It's a very easy system to learn once you start to play around a bit.
+3. I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won't embarrass myself by sharing them, but Chatfuel's GUI is excellent, very intuitive, and they have excellent [tutorials](https://help.chatfuel.com/facebook-messenger/). The [Social Media Examiner](http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/) article I posted above was also a useful guide. It's a relatively easy system to learn once you start to play around a bit.
 
 4. I checked Google to figure out which job sites were most popular in Indonesia and built them into my search engine (see step 7).
 
@@ -55,7 +55,7 @@ How did I make Siti? It was surprisingly easy for a non-coder like myself.
 
 6. The most difficult part was setting up the Google search function within the chatbot. But, once again Chatfuel provided an [excellent tutorial](https://help.chatfuel.com/facebook-messenger/plugins/google-search/) on how to handle it.
 
-7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results.
+7. Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results. Finally, I finagled a few friends into trying it out, helping me suss out typos and non-natural language, and general errors in flow. 
 
 ## Relevance to ICT4D
 
