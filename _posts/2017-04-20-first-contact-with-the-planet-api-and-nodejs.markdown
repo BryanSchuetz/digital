@@ -12,7 +12,7 @@ We love [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) 
 
 One of the apps we're cooking up here at DAI is one that helps us monitor a few of our work sites with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery that meets a these criteria: acquired any time since January 1st 2017, has downloadable assets, is an image with at least 85% actual imagery data data. The reason for that last criteria is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary.
 
-If you want to use the code you first need to [register as a developer with Planet](https://www.planet.com/explorer/) and get your API key. That is the only thing you need to change in the code before running it on your own machine.
+If you want to use the code you first need to [register as a developer with Planet](https://www.planet.com/explorer/) and get your API key and replace it on line 44. That is the only change you need to make in the code before running it on your own machine.
 
 # Making a Request to the API
 Here's the code to make a request to the Planet API using NodeJS
@@ -20,6 +20,8 @@ Here's the code to make a request to the Planet API using NodeJS
 <script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
 
 # Reading the Response
-Our response comes back as a pageable list of responses with 250 records in each page! 
+Our response comes back as a page-able list of responses with 250 records in each page. Here is a look at one of the response objects. It contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you would make another web request using the asset link that is part of each response object. 
 <script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script>
+
+This is a super simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
  
