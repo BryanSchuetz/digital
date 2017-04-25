@@ -16,7 +16,7 @@ We're really excited about the prospect of building custom apps to collect image
 
 <!--more-->
 
-One of the apps we're cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: acquired any time since January 1st 2017, has downloadable assets, is an image with at least 85% actual imagery data data, and covers an area near Malibu, California. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary.
+One of the apps we're cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1st 2017, has downloadable assets, is an image with at least 85% actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary.  
 
 # Making a Request to the API
 Here's the code to make a request to the Planet API using NodeJS. If you want to use the code, you first need to [register as a developer with Planet](https://www.planet.com/explorer/) to get your API key, and then insert it on line 76. That is the only change you need to make in the code before running it on your own machine.
@@ -28,6 +28,6 @@ Our response comes back as a page-able list of responses with 250 records in eac
 <script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script>
 
 ![malibu_3-215f3c.png](/uploads/malibu_3-215f3c.png)
-```A thumbnail in the response of our API request for images near Malibu, CA```
+```Thumbnails in the response of our API request for images near Malibu, CA```
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
  
