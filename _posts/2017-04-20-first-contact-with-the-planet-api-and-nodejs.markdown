@@ -17,7 +17,7 @@ We love remote sensing here at DAI and luckily for us, satellite imagery APIs ar
 
 We’re really excited about the prospect of building custom apps to collect imagery for some of our project sites. The [API docs](https://www.planet.com/docs/) for Planet are thorough, letting you work out how to write a client of the API in the programming language of your choice. It has a few Python examples on the site but none for NodeJS in the latest version of the API—so let’s make one!
 
-One of the apps we’re cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1, has downloadable assets, is an image with at least 85 percent actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary.
+One of the apps we’re cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1, has downloadable assets and is an image with at least 85 percent actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as [blackfill](https://www.planet.com/docs/glossary/) in the Planet glossary. Also, for the record, we don't have any projects in Malibu, it's just an example.
 
 # Making a Request to the API
 
@@ -37,4 +37,4 @@ Here are some beautiful images of the southern Californian coastline that came b
 `Thumbnails in the response of our API request for images near Malibu, California.`
 This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.
 
-If you have any questions or if you spot any bugs in my code then get at me! [https://twitter.com/DeRiggible](https://twitter.com/DeRiggible)
+If you have any questions or if you spot any bugs in my code then get at me! [@DeRiggible](https://twitter.com/DeRiggible)
