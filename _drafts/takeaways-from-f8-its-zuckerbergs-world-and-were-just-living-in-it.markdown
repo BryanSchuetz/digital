@@ -6,7 +6,7 @@ tags:
 Author: Kristen Roggemann
 ---
 
-F8, [Facebook's annual conference](https://www.fbf8.com/), was my first trip to Silicon Valley—I’ve been to the Silicon Wadi in Israel and the Silicon Savannah in Kenya, but never had I stepped foot where it began. It was the perfect sort of baptism by fire into the ethos of the place that brought us personal computing, smartphones, and the internet: a gathering where the future is dreamed up by developers and defined by technology’s limitless potential. It was wild.
+F8, [Facebook's annual conference](https://www.fbf8.com/), was my first trip to Silicon Valley—I’ve been to the Silicon Wadi in Israel and the Silicon Savannah in Kenya, but never had I stepped foot where it all began. It was the perfect sort of baptism by fire into the ethos of the place that brought us semiconductors, personal computing and smartphones: a gathering where the future is dreamed up by developers and defined by technology’s limitless potential. It was wild.
 
 I’ll outline below a few of the innovations that are particularly relevant to the work we do, and then make an argument for why the practice of ICT4D is more important than ever.
 
@@ -28,4 +28,4 @@ Among the thousands of true tech believers and their thousands upon thousands of
 
 Interested in thinking alongside us on these issues? Tweet @DAIGlobal or @kroggemann so we can connect.
 
-\*Gift for you if you’ve read this far: The last day there was a mind-blowing talk about how we can [hear through our skin—](https://techcrunch.com/2017/04/19/facebook-brain-interface/)no joke. Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!\*
+\*Gift for you if you’ve read this far: The last day there was a mind-blowing talk about how we can [hear through our skin](https://techcrunch.com/2017/04/19/facebook-brain-interface/) - no joke. Totally worth your time: [Watch it here](https://developers.facebook.com/videos/f8-2017/f8-2017-keynote-day-2/)!\*
