@@ -1,5 +1,5 @@
 ---
-title: 'GeekFest 2017: Exploring Mobile Money and Women''s Financial Inclusion with
+title: 'GeekFest 2017: Exploring Mobile Money and Women’s Financial Inclusion with
   Yasmin Bin-Humam'
 date: 2017-04-26 12:55:00 -04:00
 tags:
@@ -11,9 +11,9 @@ Author: Karim Bin-Humam
 
 ![geek fest logo](/uploads/geek%20fest%20smallest.jpg?download){:.float-left}
 
-Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals in launching #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it's different or new, and to support the overall growth of the ICT4D community.
+Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
 
-In this installment of GeekFest 2017, I'm picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women's access to financial services, such as mobile and digital services.
+In this installment, I’m picking the brain of my own sister, Yasmin Bin-Humam, a Financial Sector Specialist at the World Bank Consultative Group to Assist the Poor. Yasmin is establishing a community of practice focusing on solutions to improve women’s access to financial services, such as mobile and digital services.
 
 <!--more-->
 
@@ -38,3 +38,7 @@ With regards to digital financial services, including mobile money, we know that
 We also have members who are active in collecting data, something that is gaining momentum thanks to the [data 2x ](http://data2x.org/)Initiative. You can’t make a business case without data. Data will also help us to learn where in the process women drop out. Is it in proving their identity? In graduating to more complex products? Our community of practice will identify the gaps in data and women’s access to digital financial services, and hopefully we can persuade institutions to collect and share more of their data in this area.
 
 Many initiatives will be featured in the upcoming [Women’s Economic Empowerment](https://weeforum2017.org/) forum hosted by the SEEP Network. On the third day of this event we will feature the community of practice.
+
+**Q. So how can people get involved in the community of practice?**
+
+People are welcome to sign up for our [mailing list](http://eepurl.com/cBmYKj), or to join us on [LinkedIn](https://www.linkedin.com/groups/8602053)! They can also check out the [Community of Practice’s website](https://www.microfinancegateway.org/organization/womens-financial-inclusion-community-practice) to stay up to date with its work.
