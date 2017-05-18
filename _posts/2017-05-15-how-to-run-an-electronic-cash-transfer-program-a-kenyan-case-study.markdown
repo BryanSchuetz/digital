@@ -32,13 +32,13 @@ To help the HSNP2 project plan cash transfers—particularly emergency subsisten
 
 ## SMS and IVR Communications and Case Management
 
-Since many of the project’s beneficiaries move from place to place, creating reliable channels of communication can be a challenge. So HSNP2 has set up a text and interactive voice response-based system for the project’s field representatives to collect and address complaints from beneficiaries. Not only will the system cover 50,000 beneficiaries across all local telecoms, it is also extremely cost-effective. It only costs the project 1 KSH (one cent USD) per text and 2 KSH per automated voice call (at a flat per-call rate, not per-minute). The system integrates via an API with HSNP2’s data management environment.
+Since many of the project’s beneficiaries move from place to place, creating reliable channels of communication can be a challenge. So HSNP2 has set up a text and interactive voice response-based system for the project’s field representatives to collect and address complaints from beneficiaries. Not only will the system cover 50,000 beneficiaries across all local telecoms, it is also extremely cost-effective. It only costs the project 1 KSH (1 cent USD) per text and 2 KSH per automated voice call (at a flat per-call rate, not per-minute). The system integrates via an API with HSNP2’s data management environment.
 
 ## Telegram Bot
 
-![Picture3.png](/uploads/Picture3.png)
-
 The project’s 124 field-based program officers were often having to send in requests to the project’s central system to get up-to-date information on beneficiaries and their status. To automate this process, the project developed a bot on the popular messaging app Telegram (due to its open API). The bot’s current functionality is pretty basic—it allows officers to send in beneficiaries’ ID numbers and returns whether they are currently part of project’s payroll system. But the project is building out new search criteria to help streamline and decentralize the officers’ workflow and reduce their day-to-day dependency on the project headquarters.
+
+![Picture3.png](/uploads/Picture3.png)
 
 ## HNSP2 Proves It Can Be done
 
