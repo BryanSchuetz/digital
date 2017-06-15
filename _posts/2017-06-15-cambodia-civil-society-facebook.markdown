@@ -10,8 +10,8 @@ Author: Adam Fivenson
 
 As Cambodia’s 2018 general elections draw closer, the critical social role of civil society organizations (CSOs) in public life—understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and practicing advocacy in pursuit of long-term solutions—takes on heightened importance. Due to the wide variability in management capacity, technical capability, and staffing among Cambodian CSOs, both domestic and international organizations have stepped in to help them carry out their critical role. 
 
-[1small.JPG](/uploads/1small.JPG)
-`Interviewing the Director of a Cambodian CSO`
+![1small.JPG](/uploads/1small.JPG)
+`Interviewing the director of a Cambodian CSO for Member Insights`
 
 Domestically, the [Cooperation Committee for Cambodia](http://www.ccc-cambodia.org/) (CCC) functions as a membership association for Cambodian civil society organizations (CSOs), and provides training, research, and technical assistance to roughly 170 members. From the international community, there is a wide range of donors, foundations, and non-governmental organizations (NGOs) that support Cambodian CSOs, including [USAID’s Development Innovations (DI)](https://www.facebook.com/DevInnoKH/) project. DI helps local CSOs, technology companies and social enterprises design and use new technologies to address Cambodia’s development challenges.
 
@@ -47,5 +47,7 @@ We also asked **who** updates each, when they are updated.  Both were most commo
 From an operational standpoint, the Cambodian CSOs we interviewed used very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
 
 <script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
+
+Over the coming months, I'll be working with the DI project and CCC to figure out how the results of the Member Insights process can inform the design of improved outreach to member CSOs, as well as new and individually-tailored training programs. 
 
 *Like what you see? Click the Subscribe link below to get Digital@DAI in your inbox once a week.*
