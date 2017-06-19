@@ -1,5 +1,5 @@
 ---
-title: Iterating Digital Insights with Cambodian Civil Society Orgs
+title: Iterating Digital Insights with Cambodian Civil Society Groups
 date: 2017-06-15 18:02:00 -04:00
 tags:
 - Digital Insights
@@ -18,7 +18,7 @@ Domestically, the [Cooperation Committee for Cambodia](http://www.ccc-cambodia.o
 
 I was in Phnom Penh for most of May, working with CCC and the DI project to build a stronger understanding of how Cambodian CSOs operate through a process we're calling Member Insights. What is Member Insights? It's a modified version of our [Digital Insights](https://dai-global-digital.com/tags/?tag=digital-insights) design research method that focuses on member CSOs in the CCC network. Just as Digital Insights is the first step in a process to design digital tools and engagement methods for individuals, Member Insights is the first step in a process to design improved engagement and training programs for organizations. It is a rapid, inexpensive research method designed to highlight how organizations use technology & communicate, exploring communications as an organizational practice, focusing on which platforms are most common for internal information flows and how organizations engage external audiences such as beneficiaries, prospective beneficiaries, and the general public. In this case, the focus was Cambodian CSOs, but as a methodology Member Insights can be applied to businesses, governmental units, and even families. So, what did we find? 
 
-## #1 Facebook Messenger is the alpha and omega
+## #1 Facebook Messenger is the Alpha and Omega
 All 48 CSO staffers we interviewed (across 20 CSOs) had FB Messenger installed on their phones (see graph below). Among messaging apps Skype and Line are also both popular, while WhatsApp was surprisingly unpopular. This was a surprise; in most places where we’ve done Digital Insights research, WhatsApp was far and away the market leader among messaging apps. 
 
 <script id="infogram_0_app_choice-483169" title="App Choice" src="//e.infogr.am/js/dist/embed.js?hoa" type="text/javascript"></script>
@@ -27,23 +27,23 @@ But having an app installed doesn’t necessarily correlate to actual usage. We 
 
 <script id="infogram_0_messages_per_day" title="Messages per day" src="//e.infogr.am/js/dist/embed.js?Vwd" type="text/javascript"></script>
 
-We also asked CSO staffers if they had used any chat apps for informal internal group messaging. 16 out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
+We also asked CSO staffers if they had used any chat apps for informal internal group messaging. Sixteen out of 20 said they used FB Messenger. The next most popular choice was Skype, whose new version more resembles a [chat app](https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features) than the staid VOIP tool of old. 
 
 <script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
 
-## #2 Facebook is primary for public comms
+## #2 Facebook is Primary for Public Comms
 
-All 20 organizations had a web site, while only 90% had a Facebook page. Despite that, updates to Facebook pages happened with far more regularity than web sites. Most organizations said they updated their Facebook pages every week or every day, while most updated their web sites rarely or once per quarter. See the graphic below. 
+All 20 organizations have a website, while only 90 percent have a Facebook page. Despite that, updates to Facebook pages happen with far more regularity than websites. Most organizations say they update their Facebook pages every week or every day, while most update their websites rarely or once per quarter. See the graphic below. 
 
 <script id="infogram_0_web_site_vs_facebook_page" title="Web site vs Facebook page" src="//e.infogr.am/js/dist/embed.js?2Bb" type="text/javascript"></script>
 
-We also asked **who** updates each, when they are updated.  Both were most commonly updated by CSO Executive Directors, but IT, Program, and Administrative staff were also commonly involved, as per the graphics below.  Surprisingly, only 15% of the organizations interviewed had their communications staff involved in updating their public presences. 
+We also asked **who** updates each, when they are updated. Both are most commonly updated by CSO executive directors, but IT, program, and administrative staff are also commonly involved, as per the graphics below. Surprisingly, only 15 percent of the organizations interviewed have their communications staff involved in updating their public presences. 
 
 <script id="infogram_0_who_updates_fb_page" title="Who updates fb page" src="//e.infogr.am/js/dist/embed.js?OzO" type="text/javascript"></script>
 
-## #3 Tech for operations is more basic
+## #3 Tech for Operations is More Basic
 
-From an operational standpoint, the Cambodian CSOs we interviewed used very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
+From an operational standpoint, the Cambodian CSOs we interviewed use very basic technology tools in support of their operations. 80% mentioned QuickBooks by as their accounting software of choice, while 70% use Outlook for email (others used personal email or Gmail). 80% said they use Excel to manage their beneficiary database, instead of a more customized client relationship management (CRM) software. The same number (80%) said they used paper as their primary data collection tool as opposed to a digital data collection tool. 
 
 <script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
 
