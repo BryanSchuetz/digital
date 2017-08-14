@@ -2,7 +2,15 @@
 title: Lanzamos ‘Somos Chiantla’, App de Transparencia, en Guatemala
 date: 2017-08-13 19:22:00 -04:00
 published: false
+tags:
+- Guatemala
+- Governance
+- Human-centered design
+Author: Adam Fivenson
+social-image: "/uploads/intro.png"
 ---
+
+*This post is also available in [English](https://dai-global-digital.com/governance-app-guatemala.html).*
 
 *Nota: Esta entrada sigue una [publicación](https://dai-global-digital.com/citizen-centered-design-guatemala.html) anterior que explica nuestra fase de diseño digital, lo que fue centrado en los ciudadanos de Chiantla.*
 
