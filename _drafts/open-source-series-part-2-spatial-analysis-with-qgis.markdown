@@ -14,7 +14,9 @@ There has been a buzz around the release of QGIS version 3.0 for a couple of yea
 Part 1: What is QGIS? 
  
 QGIS, formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into over 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was original developed and released by Gary Sherman in July 2002, and was adopted as an incubator projected of the Open Source Geospatial Foundation in 2007.  Version 1.0, Kore, was released in early 2009. 
+
 While I used the application throughout releases of version 1, Version 2.0, Dufour, is when I remember starting to rely on the software for every day GIS tasks. The application was capable of functions you could previously only expect to find in proprietary software. You can take a look at the change-logs here, but that new release introduced smarter labeling functions, improved heatmaps, a visual process modelling function, new features for raster analysis, a layer panel that was easier to navigate, a better print composer, and much more. Each new release along the 2.x series brought improvements, and new converts to the QGIS world. So, what can we expect in Version 3.0?
+
 Per the website GeoGeek, QGIS 3.0 includes access to the newest version of Qt and Python, a higher quality user interface, improved geometry editing and processor dialogs, new symbols, better search functions within layers, custom image sizes, and support for 3D analysis. That’s a lot. But what does that mean in practice? Let’s have a look.
 
 ## Part 2: Putting QGIS 3.0 to the test
@@ -68,10 +70,11 @@ SW – Susan Wolfinbarger
 USAID – USAID GIS Professional
 
 **Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS? **
+
 JC: I don't have hard numbers, but I would estimate that QGIS is still a small percentage (maybe 10%) of the overall GIS market (at least in the United States). But that said, I'd also estimate that the growth rate is tremendous, with significant year over year growth. As QGIS matures, along with the rest of the open source geospatial ecosystem (mainly PostGIS), the interest and growth in its use is accelerating.  I just attended the Free and Open Source Software for Geospatial (FOSS4G) conference in Boston (http://2017.foss4g.org/), and a couple of trends stuck out. First, the size of the conference was over 1,100 people, with roughly a third of attendees from outside of the U.S. This is by far the largest in FOSS4G history, by comparison, my first one in 2007 had 600 attendees. Second, the conference dedicated a day to QGIS (http://2017.foss4g.org/program/), and many of the sessions were well attended. The State of QGIS talk, which outlines all the coming changes to QGIS 3.0 was particularly interesting as it is major refactoring with many performance improvements. QGIS is already near feature parity with proprietary desktop GIS applications, and the new version provides increased capabilities in the visualization and analysis functions where it is already strong. 
 
-**Question 2: Why do you think people continue to rely on proprietary software applications like ArcGIS and Tableau given free alternatives?
-**
+**Question 2: Why do you think people continue to rely on proprietary software applications like ArcGIS and Tableau given free alternatives?**
+
 JC: For ArcGIS, I believe training / experience and existing availability of software are the two reasons people continue to use them. Cost matters very little to analysts who are not responsible for paying the maintenance fees, so it is essentially "free" to them. I will say the learning curve is not a trivial issue. When I first learned QGIS I had 10 years of ESRI experience and thoroughly understood the "button-ology" of how to execute a given task. Relearning a new user interface required time and effort, but now that I have, I choose to use QGIS. 
 Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?
 JC: Look for easy wins and start with them. Try to find metrics that can be measured; this is often difficult, but look for proxies or even testimonials to demonstrate impact. A full-fledged "enterprise" adoption of anything is a scary proposition...but, a measured, intentional effort to switch out technologies, or include a new analytical method in a project, can be accomplished quickly, usually cheaply, and be used to demonstrate value. 
