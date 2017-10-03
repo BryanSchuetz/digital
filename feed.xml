@@ -1,32 +1,228 @@
----
-layout: 
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Digital@DAI</title>
+    <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
+    <link>https://dai-global-digital.com/</link>
+    <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Oct 2017 15:44:51 -0400</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 15:44:51 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.excerpt | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <author>{% if post.Author %}{{ post.Author | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}</author>
-        <link>{{ post.url | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>The Second Chance Fund: Learning and Iteration with Tech in Cambodia</title>
+        <description>&lt;p&gt;Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the of old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Sep 2017 16:12:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/cambodia-second-chance-fund.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cambodia-second-chance-fund.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Investments in Internet Access Must Include Investments in “Critical Digital Literacy”</title>
+        <description>&lt;p&gt;Expanding internet access in ‘last-mile markets’ is a priority for development agencies—and rightly so. The economic costs to countries that do not offer their populations internet access is high: &lt;a href=&quot;https://www.canback.com/files/2014_Offline_and_falling_behind_Barriers_to_Internet_adoption.pdf&quot;&gt;Studies&lt;/a&gt; have detailed the internet’s macroeconomic boost to GDP, the economic and employment benefits of the growth in the digital sector, and the impact of ICT on small business revenue and job creation. Internet access has also been shown to &lt;a href=&quot;http://www.worldbank.org/en/publication/wdr2016&quot;&gt;improve learning and health&lt;/a&gt; outcomes and &lt;a href=&quot;https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/TechnologyMediaCommunications/2014_uk_tmt_value_of_connectivity_deloitte_ireland.pdf&quot;&gt;catalyze civic engagement&lt;/a&gt;. Reading these reports, it seems we’re in an all-hands-on-deck moment to get bandwidth into every last corner of the earth. But what about the risks?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/fake%20news.jpg&quot; alt=&quot;fake news.jpg&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Photo from Kenyan Daily Star&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Sep 2017 11:03:00 -0400</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/investments-in-internet-access-must-include-investments-in-critical-digital-literacy.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/investments-in-internet-access-must-include-investments-in-critical-digital-literacy.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Catalyzing Ghana’s Growing AgriTech Ecosystem</title>
+        <description>&lt;p&gt;&lt;em&gt;This is the wrap-up piece for 2017 in our ongoing series about &lt;a href=&quot;http://www.kosmosinnovationcenter.com/&quot;&gt;Kosmos Innovation Center&lt;/a&gt; (KIC) Ghana and its annual AgriTech Challenge, which DAI supports and helps implement. We’ll pick this series back up again for KIC’s 2018 cohort, but in the meantime, browse our KIC archives &lt;a href=&quot;https://dai-global-digital.com/women-in-agritech-profiles-from-ghana.html&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/ict-in-the-agricultural-sector-business-concepts-from-ghanaian-youth.html&quot;&gt;here&lt;/a&gt;, and &lt;a href=&quot;https://dai-global-digital.com/ghana-agritech-exchange.html&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Sep 2017 02:12:00 -0400</pubDate>
+        <author>Anand Varghese
+</author>
+        <link>https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html</guid>
+        
+        <category>Economic Growth</category>
+        
+        <category>Entrepreneurship</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)</title>
+        <description>&lt;p&gt;&lt;em&gt;In my &lt;a href=&quot;https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html&quot;&gt;last post&lt;/a&gt; I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of two articles, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out to three GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments, and shared their perspectives in a Q&amp;amp;A section below.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/logo_evolution.png&quot; alt=&quot;logo_evolution.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Sep 2017 10:04:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html</guid>
+        
+        <category>GIS</category>
+        
+        <category>Data</category>
+        
+        <category>Open Source Series</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data Management Series Part 3: Painting a Vivid Picture with Data</title>
+        <description>&lt;p&gt;Welcome back! After reading the &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=data-management-series&quot;&gt;previous two posts in this series&lt;/a&gt;, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/160939707%20data%20visualisation-ab2ed4.jpg&quot; alt=&quot;160939707 data visualisation-ab2ed4.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Sep 2017 12:15:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>; <a href="https://www.dai.com/who-we-are/our-team/ben-mann">Ben Mann</a>
+</author>
+        <link>https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>Data</category>
+        
+        <category>Data Management Series</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data Management Series Part 2: Don’t Let Your Data Get Dusty</title>
+        <description>&lt;p&gt;So, after reading &lt;a href=&quot;/data-management-series-planning-and-collecting-part-1.html&quot;&gt;last week’s blog&lt;/a&gt;, you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!&lt;/p&gt;
+
+&lt;p&gt;In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to .xlsx or .csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/r4dSkills_DataManagement.png&quot; alt=&quot;r4dSkills_DataManagement.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 31 Aug 2017 13:51:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/ben-mann">Ben Mann</a>; <a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>
+</author>
+        <link>https://dai-global-digital.com/data-management-series-data-storage-and-management-part-2.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-data-storage-and-management-part-2.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>Data</category>
+        
+        <category>Data Management Series</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data Management Series Part 1: Planning and Collecting</title>
+        <description>&lt;p&gt;If you’ve been paying any attention to the so-called data revolution, you may have heard the expression “Data is the new oil.” The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: In the information age, data is an incredibly valuable “commodity.” The purpose of the analogy as originally made by mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down, and analyzed for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Aug 2017 06:27:00 -0400</pubDate>
+        <author><a href="https://www.google.at/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwil2ODsne3VAhXFQCYKHdunBcsQFggmMAA&amp;url=https%3A%2F%2Fwww.dai.com%2Fwho-we-are%2Four-team%2Fben-mann&amp;usg=AFQjCNEA2Qs8RHeA6a1do91Bn6lKVXVMUw">Ben Mann</a> and <a href="/authors/karim-bin-humam/">Karim Bin-Humam</a>
+</author>
+        <link>https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>Data</category>
+        
+        <category>Data Management Series</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)</title>
+        <description>&lt;p&gt;&lt;em&gt;In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/logo_evolution.png&quot; alt=&quot;logo_evolution.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the &lt;a href=&quot;https://www.linkedin.com/groups/2290177&quot;&gt;QGIS LinkedIn user group&lt;/a&gt; with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Aug 2017 10:46:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html</guid>
+        
+        <category>GIS</category>
+        
+        <category>Data</category>
+        
+        <category>Open Source Series</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>GeekFest 2017: Discussing Blockchain and Economic IDs with Shailee Adinolfi of BanQu</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/geek%20fest%20smallest.jpg?download&quot; alt=&quot;geek fest logo&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.&lt;/p&gt;
+
+&lt;p&gt;This week I’m speaking with &lt;a href=&quot;http://www.banquapp.com/about/team/&quot;&gt;Shailee Adinolfi&lt;/a&gt;, Vice President, Account Management and Marketing at &lt;a href=&quot;http://www.banquapp.com/&quot;&gt;BanQu&lt;/a&gt;. We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading &lt;a href=&quot;https://hbr.org/2017/01/the-truth-about-blockchain&quot;&gt;this article&lt;/a&gt; in the &lt;em&gt;Harvard Business Review&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Aug 2017 12:50:00 -0400</pubDate>
+        <author>Krista Baptista
+</author>
+        <link>https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html</guid>
+        
+        <category>Geekfest 2017</category>
+        
+        <category>Digital Financial Services</category>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blockchain Summer News Round-Up:  A Big Splash Into the Pool or a Dip of the Toe?</title>
+        <description>&lt;p&gt;&lt;em&gt;This is a guest post by &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/colleen-green&quot;&gt;Colleen Green&lt;/a&gt;, Senior Financial Sector Specialist at DAI and avid swimmer.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Blockchain technology has been in the news a lot this summer, and like the child standing at the edge of a swimming pool, the news is equal parts enthusiastic, cautious, and speculative about what lurks beneath.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/Pool-photo.jpg&quot; alt=&quot;Pool-photo.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Photo from the 2016 Blockchain Summit&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 14 Aug 2017 09:45:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/colleen-green">Colleen Green</a>
+</author>
+        <link>https://dai-global-digital.com/blockchain-summer-news-round-up-a-cannonball-into-the-pool-or-a-dip-of-the-toe.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-summer-news-round-up-a-cannonball-into-the-pool-or-a-dip-of-the-toe.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Digital Financial Services</category>
+        
+        
+      </item>
+    
   </channel>
 </rss>
