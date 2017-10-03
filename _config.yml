@@ -1,0 +1,53 @@
+---
+title: Digital@DAI
+timezone: America/New_York
+collections:
+  authors:
+    title: Authors
+    output: true
+    permalink: "/authors/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    Author: 
+    layout: post
+    social-image: 
+    thumbnail: 800 x 400
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: author
+    Job: 
+    Image: 
+date: 2016-10-02 17:11:00.000000000 Z
+url: https://dai-global-digital.com
+permalink: "/:title.html"
+plugins:
+- jekyll-sitemap
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+excerpt_separator: "<!--more-->"
+email: your-email@domain.com
+exclude:
+- ".gitignore"
+- gulpfile.js
+- package.json
+- browser-sync.js
+- ".jekyll-metadata"
+description: The Digital for Development field has enormous potential—and plenty of
+  room for learning. We launched this blog as part of our own learning process, and
+  we hope to engage the Digital for Development community as we find our way forward
+destination: "./build"
+sass:
+  style: compressed
