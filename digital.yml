@@ -1,13 +1,257 @@
----
----
 
-{% for post in site.posts limit:20 %}
-- title: "{{ post.title }}"
+- title: "The Second Chance Fund: Learning and Iteration with Tech in Cambodia"
   pub: "Digital"
-  date: {{ post.date | date: "%F" }}
-  link: "https://dai-global-digital.com{{ post.url }}?utm_source=daidotcom"
-  summary: "{{ post.excerpt | strip_html | rstrip | lstrip }}"
+  date: 2017-09-21
+  link: "https://dai-global-digital.com/cambodia-second-chance-fund.html?utm_source=daidotcom"
+  summary: "Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:"
   tags:
-    - digital {% for tag in post.tags%}
-    - {{ tag }} {% endfor %}
-{% endfor %}
+    - digital 
+    - Innovation 
+    - Digital Inclusion 
+
+- title: "Investments in Internet Access Must Include Investments in “Critical Digital Literacy”"
+  pub: "Digital"
+  date: 2017-09-15
+  link: "https://dai-global-digital.com/investments-in-internet-access-must-include-investments-in-critical-digital-literacy.html?utm_source=daidotcom"
+  summary: "Expanding internet access in ‘last-mile markets’ is a priority for development agencies—and rightly so. The economic costs to countries that do not offer their populations internet access is high: Studies have detailed the internet’s macroeconomic boost to GDP, the economic and employment benefits of the growth in the digital sector, and the impact of ICT on small business revenue and job creation. Internet access has also been shown to improve learning and health outcomes and catalyze civic engagement. Reading these reports, it seems we’re in an all-hands-on-deck moment to get bandwidth into every last corner of the earth. But what about the risks?
+
+
+Photo from Kenyan Daily Star"
+  tags:
+    - digital 
+    - Think Piece 
+    - Digital Inclusion 
+
+- title: "Catalyzing Ghana’s Growing AgriTech Ecosystem"
+  pub: "Digital"
+  date: 2017-09-14
+  link: "https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html?utm_source=daidotcom"
+  summary: "This is the wrap-up piece for 2017 in our ongoing series about Kosmos Innovation Center (KIC) Ghana and its annual AgriTech Challenge, which DAI supports and helps implement. We’ll pick this series back up again for KIC’s 2018 cohort, but in the meantime, browse our KIC archives here, here, and here."
+  tags:
+    - digital 
+    - Economic Growth 
+    - Entrepreneurship 
+
+- title: "Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)"
+  pub: "Digital"
+  date: 2017-09-12
+  link: "https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html?utm_source=daidotcom"
+  summary: "In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of two articles, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out to three GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments, and shared their perspectives in a Q&amp;A section below."
+  tags:
+    - digital 
+    - GIS 
+    - Data 
+    - Open Source Series 
+
+- title: "Data Management Series Part 3: Painting a Vivid Picture with Data"
+  pub: "Digital"
+  date: 2017-09-04
+  link: "https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html?utm_source=daidotcom"
+  summary: "Welcome back! After reading the previous two posts in this series, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!"
+  tags:
+    - digital 
+    - Data Visualization 
+    - Data 
+    - Data Management Series 
+
+- title: "Data Management Series Part 2: Don’t Let Your Data Get Dusty"
+  pub: "Digital"
+  date: 2017-08-31
+  link: "https://dai-global-digital.com/data-management-series-data-storage-and-management-part-2.html?utm_source=daidotcom"
+  summary: "So, after reading last week’s blog, you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
+
+In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to .xlsx or .csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?"
+  tags:
+    - digital 
+    - Data Visualization 
+    - Data 
+    - Data Management Series 
+
+- title: "Data Management Series Part 1: Planning and Collecting"
+  pub: "Digital"
+  date: 2017-08-30
+  link: "https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html?utm_source=daidotcom"
+  summary: "If you’ve been paying any attention to the so-called data revolution, you may have heard the expression “Data is the new oil.” The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: In the information age, data is an incredibly valuable “commodity.” The purpose of the analogy as originally made by mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down, and analyzed for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations."
+  tags:
+    - digital 
+    - Data Visualization 
+    - Data 
+    - Data Management Series 
+
+- title: "Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)"
+  pub: "Digital"
+  date: 2017-08-23
+  link: "https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html?utm_source=daidotcom"
+  summary: "In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.
+
+
+
+There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the QGIS LinkedIn user group with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl."
+  tags:
+    - digital 
+    - GIS 
+    - Data 
+    - Open Source Series 
+
+- title: "GeekFest 2017: Discussing Blockchain and Economic IDs with Shailee Adinolfi of BanQu"
+  pub: "Digital"
+  date: 2017-08-15
+  link: "https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html?utm_source=daidotcom"
+  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
+
+This week I’m speaking with Shailee Adinolfi, Vice President, Account Management and Marketing at BanQu. We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading this article in the Harvard Business Review."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Digital Financial Services 
+    - Innovation 
+
+- title: "Blockchain Summer News Round-Up:  A Big Splash Into the Pool or a Dip of the Toe?"
+  pub: "Digital"
+  date: 2017-08-14
+  link: "https://dai-global-digital.com/blockchain-summer-news-round-up-a-cannonball-into-the-pool-or-a-dip-of-the-toe.html?utm_source=daidotcom"
+  summary: "This is a guest post by Colleen Green, Senior Financial Sector Specialist at DAI and avid swimmer.
+
+Blockchain technology has been in the news a lot this summer, and like the child standing at the edge of a swimming pool, the news is equal parts enthusiastic, cautious, and speculative about what lurks beneath.
+
+Photo from the 2016 Blockchain Summit"
+  tags:
+    - digital 
+    - Innovation 
+    - Digital Financial Services 
+
+- title: "Lanzamos ‘Somos Chiantla’, App de Transparencia, en Guatemala"
+  pub: "Digital"
+  date: 2017-08-13
+  link: "https://dai-global-digital.com/app-de-transparencia-guatemala.html?utm_source=daidotcom"
+  summary: "Note: This post is also available in English.
+
+Nota: Esta entrada es la continuación de una publicación anterior que explica nuestra fase de diseño digital, que fue centrada en los ciudadanos de Chiantla.
+
+
+
+El 25 de mayo, el Alcalde Carlos Alvarado Figueroa anunció desde el Teatro Municipal de Chiantla el lanzamiento de Somos Chiantla, una aplicación móvil para la transparencia presupuestaria municipal y la participación ciudadana de Chiantla, uno de los municipios apoyados por Nexos Locales y ubicado en el Departamento de Huehuetenango."
+  tags:
+    - digital 
+    - Guatemala 
+    - Governance 
+    - Human-centered design 
+
+- title: "Results of HCD: Governance App Launches in Guatemala"
+  pub: "Digital"
+  date: 2017-08-08
+  link: "https://dai-global-digital.com/governance-app-guatemala.html?utm_source=daidotcom"
+  summary: "Nota: Esta publicación también está disponible en español
+
+Note: This blog post follows an earlier post which covers our pre-development human-centered design phase.
+
+
+
+On May 25, Mayor Carlos Alvarado Figueroa stood on stage at the local municipal theater and announced the launch of Somos Chiantla—a mobile app for municipal budget transparency and citizen engagement for the citizens of Chiantla, a town in the Western Highlands of Guatemala and one of Nexos Locales’s partner municipalities."
+  tags:
+    - digital 
+    - Governance 
+    - Guatemala 
+    - Human-centered design 
+
+- title: "Human-Centered Design for Behavior Change in Health"
+  pub: "Digital"
+  date: 2017-07-28
+  link: "https://dai-global-digital.com/human-centered-design-for-behavior-change-in-health.html?utm_source=daidotcom"
+  summary: "One of the largest barriers to improving health outcomes across the world is the difficulty of changing behaviors. Building a stable health system that provides quality products and services to its beneficiaries can only go as far as the patients’ willingness to trust that system. There may be clinical evidence that proves the health benefits of a given drug or device, but can that evidence compete with history, cultural norms, stigma, trust, and many more behavioral and societal pressures that often preclude widescale adoption?"
+  tags:
+    - digital 
+    - Health 
+    - Human-centered design 
+
+- title: "Open Source Series Part 1: What is Open Source?"
+  pub: "Digital"
+  date: 2017-07-26
+  link: "https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html?utm_source=daidotcom"
+  summary: "Here at DAI we rely on software applications and data systems for our everyday work. From internal chat applications, to business intelligence software, to online data collection platforms, technology systems enable us to do our work more efficiently and effectively. But when working on international development projects, we must consider other factors such as access to desktop versus mobile devices, computer processing power and storage, levels of technical acumen, and maybe most importantly, cost."
+  tags:
+    - digital 
+    - Data 
+    - Open Source Series 
+
+- title: "Refugee Co-Lab: Using Design Thinking to Integrate Refugees into Communities in Greece"
+  pub: "Digital"
+  date: 2017-07-18
+  link: "https://dai-global-digital.com/refugee-co-lab-using-design-thinking-to-integrate-refugees-into-communities-in-greece.html?utm_source=daidotcom"
+  summary: "This is a guest post by Ting Shih, CEO and Founder of ClickMedix
+
+More than 800,000 refugees came to the Island of Lesvos, Greece, to seek safety and a new life. Many of them came from Syria, Afghanistan, Iraq, and other conflict-ridden countries. As the refugee crisis in Greece subsided, there are about 3,000 refugees who now remain there, anxious to find ways to integrate and contribute to Greek society. The refugees I met are educated and skilled and some used to run their own businesses. They’re not helpless, but they are constrained and in a state of limbo as they await asylum. This state of uncertainty and despair is especially challenging for refugees who were, until recently, productive members of the workforce. Our role is to help them understand their new pathway, by leveraging what they already know to do as well as provide new skills.
+
+One of them is Jalal. He is just 22 and full of energy and aspirations. Jalal is building his own social enterprise to help fellow refugees and working as a translator at a local law firm. He even taught himself English during his stay in Greece by interacting with international volunteers and other aid workers. Is Jalal unique? Are there more budding entrepreneurs like him? Can we help them achieve their dreams?"
+  tags:
+    - digital 
+    - Human-centered design 
+    - Innovation 
+
+- title: "GeekFest 2017: Talking Open Source Design, Makerspaces, and Global Supply Chains with Jessica Berlin"
+  pub: "Digital"
+  date: 2017-07-12
+  link: "https://dai-global-digital.com/geekfest-2017-talking-open-source-design-makerspaces-and-global-supply-chains-with-jessica-berlin.html?utm_source=daidotcom"
+  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #GeekFest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.
+
+This week I’m speaking to Jessica Berlin, the co-founder of the MakerNet Consortium and founder and Managing Director of CoStruct based in—you guessed it—Berlin, Germany. Before taking the leap as an entrepreneur, Jessica worked for a number of German and U.S. government organizations and development agencies as well as nonprofits in Africa, Asia, Europe, and North America—experiences that inspired her to start her own company to create new programs, provide innovation strategy consulting, and build public-private partnerships to advance business and tech innovation in emerging economies."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Innovation 
+    - Human-centered design 
+
+- title: "5 Things to Consider When Doing Mobile Data Collection"
+  pub: "Digital"
+  date: 2017-07-06
+  link: "https://dai-global-digital.com/5-things-to-watch-out-for-in-mobile-data-collection.html?utm_source=daidotcom"
+  summary: "This is a guest post by Nafessa Kassim, Director of Business Development, and Al Ismaili, CEO and Co-Founder of Bamba, a mobile data collection company in Nairobi, Kenya.
+
+Development organizations now have a plethora of mobile data collection tools at their disposal, and choosing between the various options available can often seem like a daunting task. But even after finding the right tool, it is imperative to think through and address the most common challenges that arise in the mobile data collection process. In the last five years of helping development actors integrate mobile phones into their data collection processes, we’ve identified five challenges they run into most often.
+
+
+Photo credit: David Staten"
+  tags:
+    - digital 
+    - Data 
+
+- title: "HCD in the Field: Trading Counterfeit Rupees for Real Insights with Farmers in Nepal"
+  pub: "Digital"
+  date: 2017-07-03
+  link: "https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html?utm_source=daidotcom"
+  summary: "This is a guest post by Meredith Perry, Innovation Specialist with DAI’s Center for Development Innovation project.
+
+My colleague pressed $1,000 in visibly fake Nepali rupees into the hands of each farmer, inputs dealer, and agricultural entrepreneur.   Then, she grandly opened the doors to our ersatz haat bazaar (an outdoor, rural marketplace) and instructed them to, “Pay what you would be willing to spend on the products.”
+
+ Inside the Data-Driven Farming Prize’s “haat bazaar.”  Yes, we know inside makes this an oxymoron. Photo by Kathaharu Studios.
+
+For two hours, the din associated with an actual marketplace poured out of a Kathmandu conference room. The Data-Driven Farming Prize’s 13 finalist teams became sellers straining to attract prospective buyers from among the invited participants. But how did data analysts, graduate students, and entrepreneurs transform into wily hawkers? Why was a simulated haat bazaar a Data-Driven Farming Prize activity?"
+  tags:
+    - digital 
+    - Human-centered design 
+    - Innovation 
+    - Data 
+
+- title: "Lean Design for Development: A Practical Approach to Human-Centered Design"
+  pub: "Digital"
+  date: 2017-06-27
+  link: "https://dai-global-digital.com/lean-design-for-development-a-practical-approach-to-human-centered-design.html?utm_source=daidotcom"
+  summary: "Bilateral donors and foundations continue to look to digital tools to innovate. Why innovate? Given the intractable nature of many development problems, innovation speaks to the desire for different results, to try something new, or to apply something old in a new context or in a new way. Digital tools hold the promise that a program can leapfrog traditional development pathways, amplify impact, and create real game-changers in people’s lives. One way to increase the possibility of success in deploying any digital tool is to follow the principles for digital design - particularly design with the user. Human-centered design (HCD), and its close cousins, co-creation, design thinking, and lean startup methods, can serve not just as an activity but as a process for effective creation, iteration, and implementation."
+  tags:
+    - digital 
+    - Human-centered design 
+    - Innovation 
+    - Think Piece 
+
+- title: "6 Things I Have Learned About Delivering an Introductory ICT4D Training"
+  pub: "Digital"
+  date: 2017-06-21
+  link: "https://dai-global-digital.com/6-things-i-have-learned-about-delivering-an-introductory-ict-training.html?utm_source=daidotcom"
+  summary: "On the ICT team we wear many hats and have many responsibilities. We are technical specialists who support our company’s global development projects in the design and use of digital solutions. We are evangelists who teach others about the potential of digital technologies to enhance and sustain the impact of development programming. We are thought leaders who answer strategic questions about where digital development is as a technical field and where it might be going. These are the aspects of our work that often appear in our blog posts.
+
+But another hat we wear is as trainers: It is our responsibility to familiarize our projects and clients with the fundamentals of digital design and to equip colleagues with practical knowledge on how to effectively integrate digital programming into their work so they can design and deliver their own digital programs. Since joining the team some 19 months ago, I have had the chance to train 100+ people in three countries on the fundamentals of digital development. Below are my biggest takeaways on how to ensure that participants get the most out of their training."
+  tags:
+    - digital 
+    - Think Piece 
+    - Innovation 
+
