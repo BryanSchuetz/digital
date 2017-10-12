@@ -5,15 +5,15 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Oct 2017 10:48:44 -0400</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2017 10:48:44 -0400</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2017 12:30:44 -0400</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2017 12:30:44 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Testing Data Collection with OpenDataKit</title>
         <description>&lt;p&gt;Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.&lt;/p&gt;
 
-&lt;p&gt;If you’re reading this article, it’s likely you’ve used &lt;a href=&quot;https://www.google.com/forms/about/&quot;&gt;googleforms&lt;/a&gt; or &lt;a href=&quot;https://www.surveymonkey.com/&quot;&gt;survey monkey&lt;/a&gt; for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called &lt;a href=&quot;https://opendatakit.org/&quot;&gt;OpenDataKit&lt;/a&gt; (ODK). Let’s take a look at how this technology works.&lt;/p&gt;
+&lt;p&gt;If you’re reading this article, it’s likely you’ve used &lt;a href=&quot;https://www.google.com/forms/about/&quot;&gt;Googleforms&lt;/a&gt; or &lt;a href=&quot;https://www.surveymonkey.com/&quot;&gt;Survey Monkey&lt;/a&gt; for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called &lt;a href=&quot;https://opendatakit.org/&quot;&gt;OpenDataKit&lt;/a&gt; (ODK). Let’s take a look at how this technology works.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 10 Oct 2017 13:52:00 -0400</pubDate>
