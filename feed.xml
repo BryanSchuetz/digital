@@ -5,9 +5,29 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Oct 2017 09:41:53 -0400</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2017 09:41:53 -0400</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2017 10:06:59 -0400</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2017 10:06:59 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Testing Data Collection with OpenDataKit</title>
+        <description>&lt;p&gt;Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.&lt;/p&gt;
+
+&lt;p&gt;If you’re reading this article, it’s likely you’ve used &lt;a href=&quot;https://www.google.com/forms/about/&quot;&gt;googleforms&lt;/a&gt; or &lt;a href=&quot;https://www.surveymonkey.com/&quot;&gt;survey monkey&lt;/a&gt; for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called &lt;a href=&quot;https://opendatakit.org/&quot;&gt;OpenDataKit&lt;/a&gt; (ODK). Let’s take a look at how this technology works.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Oct 2017 13:52:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/data-collection-with-opendatakit.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/data-collection-with-opendatakit.html</guid>
+        
+        <category>Open Source Series</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <title>Open Innovation in 60 Minutes or Less</title>
@@ -195,30 +215,6 @@
         <category>Data</category>
         
         <category>Open Source Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>GeekFest 2017: Discussing Blockchain and Economic IDs with Shailee Adinolfi of BanQu</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/uploads/geek%20fest%20smallest.jpg?download&quot; alt=&quot;geek fest logo&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for #geekfest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.&lt;/p&gt;
-
-&lt;p&gt;This week I’m speaking with &lt;a href=&quot;http://www.banquapp.com/about/team/&quot;&gt;Shailee Adinolfi&lt;/a&gt;, Vice President, Account Management and Marketing at &lt;a href=&quot;http://www.banquapp.com/&quot;&gt;BanQu&lt;/a&gt;. We discuss blockchain technology and its application to finance and commerce. For an in-depth primer on blockchain technology, we encourage reading &lt;a href=&quot;https://hbr.org/2017/01/the-truth-about-blockchain&quot;&gt;this article&lt;/a&gt; in the &lt;em&gt;Harvard Business Review&lt;/em&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 15 Aug 2017 12:50:00 -0400</pubDate>
-        <author>Krista Baptista
-</author>
-        <link>https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/geekfest-2017-discussing-blockchain-with-shailee-adinolfi-of-banqu.html</guid>
-        
-        <category>Geekfest 2017</category>
-        
-        <category>Digital Financial Services</category>
-        
-        <category>Innovation</category>
         
         
       </item>

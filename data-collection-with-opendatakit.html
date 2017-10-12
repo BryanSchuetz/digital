@@ -9,17 +9,17 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Iterating Digital Insights with Cambodian Civil Society Groups">
-  <meta name="twitter:description" content="Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and pursuing long-term policy solutions. In Cambodia, ...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta name="twitter:title" content="Testing Data Collection with OpenDataKit">
+  <meta name="twitter:description" content="Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work tog...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/ODK%20Collect.JPG">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Iterating Digital Insights with Cambodian Civil Society Groups</title>
+  <title>Testing Data Collection with OpenDataKit</title>
 
-  <meta name="description" content="Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challen...">
+  <meta name="description" content="Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutio...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://dai-global-digital.com/cambodia-civil-society-facebook.html">
+  <link rel="canonical" href="https://dai-global-digital.com/data-collection-with-opendatakit.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -112,65 +112,59 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Iterating Digital Insights with Cambodian Civil Society Groups</h1>
+    <h1 class="post-title">Testing Data Collection with OpenDataKit</h1>
       
+      
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Jun 15, 2017</p>
+      <p class="post-details--date">Oct 10, 2017</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/adam-fivenson/" class="without-style">Adam Fivenson
+      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=digital-insights" class="without-style">Digital Insights</a></span> • <span class="post-topic"><a href="/tags/?tag=cambodia" class="without-style">Cambodia</a></span> • <span class="post-topic"><a href="/tags/?tag=ecosystem-insights" class="without-style">Ecosystem Insights</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>Civil society organizations (CSOs) play a critical role in public life: understanding citizens’ daily challenges, providing services to address those challenges in the short-term, and pursuing long-term policy solutions. In Cambodia, there are hundreds of CSOs, but a wide variability in management capacity, technical capability, and staffing has given rise to domestic and international organizations that exist to help these CSOs carry out their important social role more effectively.</p>
+    <p>Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.</p>
 
-<p><img src="/uploads/1small.JPG" alt="1small.JPG" />
-<code class="highlighter-rouge">Interviewing the director of a Cambodian CSO for Member Insights.</code></p>
-
-<p>Domestically, the <a href="http://www.ccc-cambodia.org/">Cooperation Committee for Cambodia</a> (CCC) functions as a membership association for Cambodian civil society organizations, and provides training, research, and technical assistance to roughly 170 member organizations. From the international community, there is a wide range of donors, foundations, and nongovernmental organizations (NGOs) that support Cambodian CSOs, including <a href="https://www.facebook.com/DevInnoKH/">USAID’s Development Innovations (DI)</a> project. DI helps local CSOs, technology companies, and social enterprises design and use new technologies to address Cambodia’s development challenges.</p>
+<p>If you’re reading this article, it’s likely you’ve used <a href="https://www.google.com/forms/about/">googleforms</a> or <a href="https://www.surveymonkey.com/">survey monkey</a> for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called <a href="https://opendatakit.org/">OpenDataKit</a> (ODK). Let’s take a look at how this technology works.</p>
 
 <!--more-->
 
-<p>I was in Phnom Penh for most of May, working with CCC and the DI project to build a stronger understanding of how Cambodian CSOs operate through a process we’re calling Member Insights. What is Member Insights? It’s a modified version of our <a href="https://dai-global-digital.com/tags/?tag=digital-insights">Digital Insights</a> design research method that focuses on member CSOs in the CCC network. Just as Digital Insights is the first step in a process to design digital tools and engagement methods for individuals, Member Insights is the first step in a process to design improved engagement and training programs for organizations. It is a rapid, inexpensive research method designed to highlight how organizations use technology and communicate, exploring communications as an organizational practice, focusing on which platforms are most common for internal information flows and how organizations engage external audiences such as beneficiaries, prospective beneficiaries, and the general public. In this case, the focus was Cambodian CSOs, but as a methodology, Member Insights can be applied to businesses, governmental units, and even families. So, what did we find?</p>
+<h2 id="getting-started-with-odk">Getting Started with ODK</h2>
 
-<h2 id="1-facebook-messenger-is-the-alpha-and-omega">#1 Facebook Messenger is the Alpha and Omega</h2>
-<p>All 48 CSO staffers we interviewed (across 20 CSOs) have FB Messenger installed on their phones (see graph below). Among messaging apps, Skype and Line are also both popular, while WhatsApp is surprisingly unpopular. Interestingly, in most places where we’ve done Digital Insights research, WhatsApp was far and away the market leader among messaging apps.</p>
+<p>I’m almost embarrassed to admit not having used ODK prior to writing this piece. I have, however, heard mixed reviews of the application. Anecdotally, I’ve heard it is a challenge to set up, the interface is hard to work with, and it lacks strong data visualization tools. But was any of this true?</p>
 
-<script id="infogram_0_app_choice-483169" title="App Choice" src="//e.infogr.am/js/dist/embed.js?hoa" type="text/javascript"></script>
+<p>The <a href="https://www.youtube.com/watch?v=HqqUdfz9Uyc">introductory video</a> to ODK lays out a set of tools designed to collect, aggregate, and author forms for collecting data. The toolkit is designed to run on a server of your choice, and thorough tutorials for setting up each are available via the <a href="http://docs.opendatakit.org/">website’s documentation</a>. The ODK team also highlights tight integration with Google fusion tables, Google earth, and Google maps. No surprise as ODK was largely funded by a <a href="https://research.googleblog.com/2010/02/announcing-googles-focused-research.html">Google Focused Research Award</a> in 2010.</p>
 
-<p>But having an app installed doesn’t necessarily correlate to actual usage. We also asked CSO staffers how many messages they send on each app (and via text) every day. FB Messenger really separates itself from the pack when measured this way, and based on direct observation, I’m willing to bet that the 15 messages per day average is a stark underestimate of actual usage. This might be the result of the presence of work colleagues in the focus groups.</p>
+<p><img src="/uploads/ODK%20Aggregate.PNG" alt="ODK Aggregate.PNG" /></p>
 
-<script id="infogram_0_messages_per_day" title="Messages per day" src="//e.infogr.am/js/dist/embed.js?Vwd" type="text/javascript"></script>
+<p>Booting up ODK for the first time, I decided to follow the recommended steps of hosting an instance of <a href="https://opendatakit.org/use/aggregate/">Aggregate</a>, the central database for your survey responses, on the <a href="https://cloud.google.com/appengine/">Google App Engine</a>. Instructions for hosting a server on AWS, Azure, or your local machine are available should you prefer to go that route. I had an instance of Aggregate up and running in a little under and hour, though the process shouldn’t take more than 10 minutes next time. While I found this to be a fairly routine process, I can see how this first step may intimidate users less comfortable with server management. I should also say that the <em>Aggregate</em> interface looks dated relative to Google forms or Fulcrum, but that’s not a deal breaker if the technology functions well.</p>
 
-<p>We also asked CSO staffers if they use any chat apps for informal internal group messaging. Sixteen out of 20 say they use FB Messenger. The next most popular choice is Skype, whose new version more resembles a <a href="https://www.theverge.com/2017/6/1/15723594/microsoft-skype-redesign-features">chat app</a> than the staid VOIP tool of old.</p>
+<h2 id="designing-a-survey">Designing a Survey</h2>
 
-<script id="infogram_0_internal_comms_chat" title="Internal comms chat" src="//e.infogr.am/js/dist/embed.js?JCf" type="text/javascript"></script>
+<p>The next step was building a survey. The documentation walks new users through two primary mechanisms for survey building. The first is a drag-and-drop application called <a href="https://opendatakit.org/use/build/">Build</a>, which provides most survey tools, including open-ended and multiple choice question formats, GPS integration for geotagging, and the ability to take photos or scan barcodes. The second is a tool called <a href="https://opendatakit.org/use/xlsform/">XLSForm</a>, which is designed to convert excel tables into a form. <em>Build</em> strikes me as much more intuitive than <em>XLSForm</em>, though I can see instances where multiple people already comfortable with the technology may want to collaborate on the design of an extensive survey, or want to administer a copy of the same survey in multiple collections without rebuilding the question set every time. In these cases, complex questions and responses are best managed in a shared excel file.</p>
 
-<h2 id="2-facebook-is-primary-for-public-comms">#2 Facebook is Primary for Public Comms</h2>
+<p>So, what about the mobile app? If you want to administer surveys across a large team, the app needs to be easy to use, and must accomplish the task of hosting data on a local offline device before pushing data to the central server. ODK’s mobile tool is called <a href="http://docs.opendatakit.org/collect-guide/">Collect</a>, and is designed for Android devices. There appears to be no simple solution for iPhone users, though the ODK site does reference a paid solution called <a href="https://www.iformbuilder.com/login-redirect/">iFormBuilder</a>.</p>
 
-<p>All 20 organizations have a website, while only 90 percent have a Facebook page. Despite that, updates to Facebook pages happen with far more regularity than websites. Most organizations say they update their Facebook pages every week or every day, while most update their websites rarely or once per quarter. See the graphic below.</p>
+<p><img src="/uploads/ODK%20Collect.JPG" alt="ODK Collect.JPG" /></p>
 
-<script id="infogram_0_web_site_vs_facebook_page" title="Web site vs Facebook page" src="//e.infogr.am/js/dist/embed.js?2Bb" type="text/javascript"></script>
+<p>I easily installed <em>Collect</em> via GooglePlay, logged into my Google Apps server, and could seamlessly access my forms. The mobile interface also looks a bit dated, but everything worked as promised. Offline form responses were hosted on the tablet until I turned the Wifi back on, which pushed survey responses to the online database. So far so good.</p>
 
-<p>We also asked <strong>who</strong> updates each, when they are updated. Both are most commonly updated by CSO executive directors, but IT, program, and administrative staff are also commonly involved, as per the graphics below. Surprisingly, only 15 percent of the organizations interviewed have their communications staff involved in updating their public presences.</p>
+<h2 id="analyzing-and-visualizing-data">Analyzing and Visualizing Data</h2>
 
-<script id="infogram_0_who_updates_fb_page" title="Who updates fb page" src="//e.infogr.am/js/dist/embed.js?OzO" type="text/javascript"></script>
+<p>Thinking back to the original criticisms of the application—I’ve found getting started with ODK to be straightforward, and the interface to be slightly dated, but what about the third criticism about poor data visualization and analytics? ODK provides the option of displaying data in bar charts, pie charts, or maps. And that’s about it at this point. The good news is that you can export your data in a variety of formats, or host it for access by other applications. This includes publishing a live feed of JSON, connecting to a REDcap server, or connecting directly with your GoogleSheets or FusionsTables. While this limitation may be seen as a gap to some, others will be happy to analyze and visualize data in a dedicated business intelligence application such as PowerBI or Tableau, or to develop custom applications in their programming language of choice.</p>
 
-<h2 id="3-tech-for-operations-is-more-basic">#3 Tech for Operations is More Basic</h2>
+<h2 id="conclusions">Conclusions</h2>
 
-<p>From an operational standpoint, the Cambodian CSOs we interviewed use very basic technology tools in support of their operations. Eighty percent say QuickBooks is their accounting software of choice, while 70 percent use Outlook for email (others used personal email or Gmail). Eighty percent say they use Excel to manage their beneficiary database, instead of a more customized client relationship management software. The same number, eighty percent, say they use paper as their primary data collection tool as opposed to a digital data collection tool.</p>
+<p>So, would we use ODK at DAI? Absolutely. What the OpenDataKit developers have created is a free technology for offline data collection that can be synched across multiple users, and that is extensible to other technologies. If your organization already has access to dedicated survey collection tools such as <a href="http://www.fulcrumapp.com/">Fulcrum</a>, or integrated collection tools such as Esri’s <a href="http://server.arcgis.com/en/portal/latest/use/geoform.htm">Geoforms</a>, then it may make more sense to leverage the more advanced technology, or stay tightly integrated with your existing analysis applications. But if you’re working on a limited budget, or simply like getting your hands on technology that you can customize to your liking, each shortcoming of the ODK toolkit can be overcome with patience and creativity, and should be another free tool in the quiver of open source technology enthusiasts. I have a feeling our ICT team will implement an ODK collection in the near future. I’m just sad I hadn’t tried to use this set of tools sooner.</p>
 
-<script id="infogram_0_operations-312291" title="Operations" src="//e.infogr.am/js/dist/embed.js?ZwW" type="text/javascript"></script>
+<p>For more information about ODK, please visit their <a href="https://opendatakit.org/use/xlsform/">website</a>.</p>
 
-<p>Over the coming months, I’ll be working with the DI project and CCC to figure out how the results of the Member Insights process can inform the design of improved outreach to member CSOs, as well as new and individually tailored training programs.</p>
-
-<p><em>Like what you see? Click the Subscribe link below to get Digital@DAI in your inbox once a week.</em></p>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/cambodia-civil-society-facebook.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/data-collection-with-opendatakit.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -194,12 +188,13 @@
   
   <!-- Ignore the current post -->
     
+    
+  
+  <!-- Ignore the current post -->
+    
       <!-- Check to see if we're on an author page -->
       
         <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
         
           <!-- Compare each tag in each post to each tag on the page -->
           
@@ -223,9 +218,6 @@
           <!-- Compare each tag in each post to each tag on the page -->
           
         
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
       
     
     
@@ -242,9 +234,6 @@
           <!-- Compare each tag in each post to each tag on the page -->
           
         
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
       
     
     
@@ -254,526 +243,6 @@
       <!-- Check to see if we're on an author page -->
       
         <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
         
           <!-- Compare each tag in each post to each tag on the page -->
           
@@ -795,7 +264,7 @@
           
             
             <!-- Show tags that match -->
-            <li class="related-list-item"><a class="related-item-link" href="/rwanda-digital-insights.html"><div class="related-item-image" style="background-image: url(/uploads/header-5c6d35.jpg);"></div><span class="related-item-text">Digital Insights Rwanda: How Do Rural Youth Use New Technologies?</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/open-source-series-spatial-analysis-with-qgis-article-2.html"><div class="related-item-image" style="background-image: url(/uploads/logo_evolution.png);"></div><span class="related-item-text">Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)</span></a></li>
             
             <!-- If one tag in a post matches a tag on the page, stop -->
             
@@ -814,44 +283,9 @@
         
           <!-- Compare each tag in each post to each tag on the page -->
           
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
             
             <!-- Show tags that match -->
-            <li class="related-list-item"><a class="related-item-link" href="/digital-insights-bangladesh-how-urban-youth-stay-connected.html"><div class="related-item-image" style="background-image: url(/uploads/Image%201.jpg);"></div><span class="related-item-text">Digital Insights Bangladesh: How Urban Youth Stay Connected</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/data-management-series-analysis-and-visualization-part-3.html"><div class="related-item-image" style="background-image: url(/uploads/160939707%20data%20visualisation-f66a64.jpg);"></div><span class="related-item-text">Data Management Series Part 3: Painting a Vivid Picture with Data</span></a></li>
             
             <!-- If one tag in a post matches a tag on the page, stop -->
             
@@ -870,12 +304,9 @@
         
           <!-- Compare each tag in each post to each tag on the page -->
           
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
             
             <!-- Show tags that match -->
-            <li class="related-list-item"><a class="related-item-link" href="/ecosystem-insights-afghanistan.html"><div class="related-item-image" style="background-image: url(800 x 400);"></div><span class="related-item-text">Ecosystem Insights: How Trade Associations in Rural Afghanistan Use Mobile Tech</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/data-management-series-data-storage-and-management-part-2.html"><div class="related-item-image" style="background-image: url(/uploads/r4dSkills_DataManagement-01b49a.png);"></div><span class="related-item-text">Data Management Series Part 2: Don’t Let Your Data Get Dusty</span></a></li>
             
             <!-- If one tag in a post matches a tag on the page, stop -->
             
@@ -894,234 +325,9 @@
         
           <!-- Compare each tag in each post to each tag on the page -->
           
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
-        
-      
-    
-    
-  
-  <!-- Ignore the current post -->
-    
-      <!-- Check to see if we're on an author page -->
-      
-        <!-- Loop through the post tags -->
-        
-          <!-- Compare each tag in each post to each tag on the page -->
-          
             
             <!-- Show tags that match -->
-            <li class="related-list-item"><a class="related-item-link" href="/digital-at-dai-year-in-review-reader-top-five-posts-of-2016.html"><div class="related-item-image" style="background-image: url(/uploads/2016-new-business-success-strategy-0021.jpg);"></div><span class="related-item-text">Digital@DAI Year in Review: Top Five Posts of 2016</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/data-management-series-planning-and-collecting-part-1.html"><div class="related-item-image" style="background-image: url(/uploads/Data%20Chain.png);"></div><span class="related-item-text">Data Management Series Part 1: Planning and Collecting</span></a></li>
             
             <!-- If one tag in a post matches a tag on the page, stop -->
             

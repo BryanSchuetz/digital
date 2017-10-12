@@ -1,4 +1,16 @@
 
+- title: "Testing Data Collection with OpenDataKit"
+  pub: "Digital"
+  date: 2017-10-10
+  link: "https://dai-global-digital.com/data-collection-with-opendatakit.html?utm_source=daidotcom"
+  summary: "Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.
+
+If you’re reading this article, it’s likely you’ve used googleforms or survey monkey for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called OpenDataKit (ODK). Let’s take a look at how this technology works."
+  tags:
+    - digital 
+    - Open Source Series 
+    - Data 
+
 - title: "Open Innovation in 60 Minutes or Less"
   pub: "Digital"
   date: 2017-10-04
@@ -244,15 +256,4 @@ For two hours, the din associated with an actual marketplace poured out of a Kat
     - Human-centered design 
     - Innovation 
     - Data 
-
-- title: "Lean Design for Development: A Practical Approach to Human-Centered Design"
-  pub: "Digital"
-  date: 2017-06-27
-  link: "https://dai-global-digital.com/lean-design-for-development-a-practical-approach-to-human-centered-design.html?utm_source=daidotcom"
-  summary: "Bilateral donors and foundations continue to look to digital tools to innovate. Why innovate? Given the intractable nature of many development problems, innovation speaks to the desire for different results, to try something new, or to apply something old in a new context or in a new way. Digital tools hold the promise that a program can leapfrog traditional development pathways, amplify impact, and create real game-changers in people’s lives. One way to increase the possibility of success in deploying any digital tool is to follow the principles for digital design - particularly design with the user. Human-centered design (HCD), and its close cousins, co-creation, design thinking, and lean startup methods, can serve not just as an activity but as a process for effective creation, iteration, and implementation."
-  tags:
-    - digital 
-    - Human-centered design 
-    - Innovation 
-    - Think Piece 
 
