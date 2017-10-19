@@ -1,4 +1,25 @@
 
+- title: "Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit"
+  pub: "Digital"
+  date: 2017-10-17
+  link: "https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html?utm_source=daidotcom"
+  summary: "This past week USAID’s Global Development Lab and mStar project released the Gender and ICT Survey Toolkit. In an informative webinar (you can listen to the recording here), the team that produced the report discussed both the content and the context surrounding the genesis of the toolkit. I tuned in and spent the majority of the time silently cheering, thrilled to hear USAID promoting research tactics and information needs that align with what we on DAI’s ICT team are doing with our Digital Insights work. In between cheers, I feverishly took notes and captured these three key takeaways.
+
+
+
+1. Qualitative and Quantitative Data are Equally Important
+Long the redheaded stepchild of data in the international development world, qualitative data plays an especially important role when it comes to design work for digital initiatives—ticking a “uses Facebook” box on a survey doesn’t get at the ‘why’ and ‘how’ this usage are key elements of user-centered, high-impact design work. At DAI, we use our surveys as a conversational entry point to get at the deep, ethnographic-style qualitative data that gives us design insights: For example, that the young rural women in Jordan we were working with preferred WhatsApp because of the privacy and ability to share siloed pieces of information with different friend and family groups. Privacy and control are significant drivers behind our outreach campaign design towards women. By both stressing the value of qualitative and quantitative data, and producing an excellent toolkit that walks the user through both, the USAID Digital Inclusion team put a significant stake in the ground to direct the ICT4D community towards a more user-centered and design-oriented approach to digital development.
+
+2. Local Data Collection has an Important Role in ICT4D
+One of the main pushbacks we get on Digital Insights is that we don’t seek out statistically significant, national-level sample populations. We don’t do this for a reason: we seek targeted, community-level insights into the specific populations we will be designing digital services for. National-level, statistically significant surveys are important and useful to paint broad pictures of trends, but we’ve never found, in more than 13 countries we’ve done Digital Insights research in, that the national-level data is even close to reflective of ICT access and usage rates in the populations we’re researching. If we based our design choices off of national surveys, we’d be designing the wrong stuff—and doing a real disservice to the population we’re trying to help. Technology access and usage habits move far too fast, and are far too distinct, to be accurately captured by large-scale surveys; the nimble approach of small data collection is hugely valuable when it comes to responsibly informing digital design.
+
+3. Pushing Beyond What to Why is Key
+While this point was also reflected in the first takeaway above, it really can’t be overstated: You’re not going to get the data you need without pushing beyond the survey questions to engage in deeper conversations with your informants about the why behind their technology choices. I often cite the following example to prove this point: My colleague Adam was doing Digital Insights research in rural Honduras. He repeatedly noted that the folks he was talking to (often, having a two-hour conversation in their kitchens) didn’t bring their cellphones out with them during the day. While this was crucial to know for digital design—it would influence timing of messages, response rates, content choices, and scheduling, etc.—he didn’t yet know the reason why they left their phones behind. When pushing the conversation to dig into this point, he was able to uncover that the Hondurans in this community didn’t feel it was safe to bring their phones out of the house—in fact, he learned that phone habits could be a fascinating data point around citizen perception of civil security. We were able to integrate this innovative data triangulation into our monitoring and evaluation plan, something that would never have happened if Adam hadn’t worked hard to get at the why."
+  tags:
+    - digital 
+    - Digital Insights 
+    - Data 
+
 - title: "Testing Data Collection with OpenDataKit"
   pub: "Digital"
   date: 2017-10-10
@@ -238,22 +259,5 @@ Development organizations now have a plethora of mobile data collection tools at
 Photo credit: David Staten"
   tags:
     - digital 
-    - Data 
-
-- title: "HCD in the Field: Trading Counterfeit Rupees for Real Insights with Farmers in Nepal"
-  pub: "Digital"
-  date: 2017-07-03
-  link: "https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html?utm_source=daidotcom"
-  summary: "This is a guest post by Meredith Perry, Innovation Specialist with DAI’s Center for Development Innovation project.
-
-My colleague pressed $1,000 in visibly fake Nepali rupees into the hands of each farmer, inputs dealer, and agricultural entrepreneur.   Then, she grandly opened the doors to our ersatz haat bazaar (an outdoor, rural marketplace) and instructed them to, “Pay what you would be willing to spend on the products.”
-
- Inside the Data-Driven Farming Prize’s “haat bazaar.”  Yes, we know inside makes this an oxymoron. Photo by Kathaharu Studios.
-
-For two hours, the din associated with an actual marketplace poured out of a Kathmandu conference room. The Data-Driven Farming Prize’s 13 finalist teams became sellers straining to attract prospective buyers from among the invited participants. But how did data analysts, graduate students, and entrepreneurs transform into wily hawkers? Why was a simulated haat bazaar a Data-Driven Farming Prize activity?"
-  tags:
-    - digital 
-    - Human-centered design 
-    - Innovation 
     - Data 
 
