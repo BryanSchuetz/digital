@@ -5,9 +5,27 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Oct 2017 09:35:35 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2017 09:35:35 -0400</lastBuildDate>
-    <generator>Jekyll v3.6.0</generator>
+    <pubDate>Tue, 24 Oct 2017 11:44:42 -0400</pubDate>
+    <lastBuildDate>Tue, 24 Oct 2017 11:44:42 -0400</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Practicing the Principles for Digital Development in East Africa</title>
+        <description>&lt;p&gt;&lt;em&gt;This is a guest post by Mustapha Issa, Field Manager and MAST Coordinator and Gilead Mushaija, GIS Database Specialist, both from DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta&quot;&gt;Feed the Future Land Tenure Assistance project.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At the recent &lt;a href=&quot;https://www.eventbrite.com/e/practicing-the-principles-for-digital-development-in-east-africa-tickets-37822273438&quot;&gt;Practicing the Principles for Digital Development&lt;/a&gt; event on October 12 in Dar es Salaam, Tanzania, 80 participants from organizations including DAI, the Ministry of Works, Transport, and Communications, and private organizations from Ethiopia, Kenya, Malawi, Rwanda, Tanzania, and Uganda attended.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://digitalimpactalliance.org/&quot;&gt;Digital Impact Alliance&lt;/a&gt; (DIAL) and the &lt;a href=&quot;http://www.hdif-tz.org/&quot;&gt;Human Development Innovation Fund Tanzania&lt;/a&gt; (HDIF-UKAid) stewarded the event and were joined by leading organizations in endorsing the Digital Principles. DAI is a &lt;a href=&quot;https://digitalprinciples.org/endorse/endorsers/&quot;&gt;signatory to the Principles&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Oct 2017 11:46:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/gilead-mushaija-b015aa33/">Gilead Mishaija</a>, <a href="https://www.linkedin.com/in/mustapha-issa-93b3a014a/">Mustapha Issa</a>
+</author>
+        <link>https://dai-global-digital.com/practicing-the-principles-for-digital-development-in-east-africa.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/practicing-the-principles-for-digital-development-in-east-africa.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Three Key Takeaways from USAID’s New Gender and ICT Survey Toolkit</title>
@@ -183,26 +201,6 @@
 </author>
         <link>https://dai-global-digital.com/data-management-series-data-storage-and-management-part-2.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-data-storage-and-management-part-2.html</guid>
-        
-        <category>Data Visualization</category>
-        
-        <category>Data</category>
-        
-        <category>Data Management Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Data Management Series Part 1: Planning and Collecting</title>
-        <description>&lt;p&gt;If you’ve been paying any attention to the so-called data revolution, you may have heard the expression “Data is the new oil.” The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: In the information age, data is an incredibly valuable “commodity.” The purpose of the analogy as originally made by mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down, and analyzed for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 Aug 2017 06:27:00 -0400</pubDate>
-        <author><a href="https://www.google.at/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwil2ODsne3VAhXFQCYKHdunBcsQFggmMAA&amp;url=https%3A%2F%2Fwww.dai.com%2Fwho-we-are%2Four-team%2Fben-mann&amp;usg=AFQjCNEA2Qs8RHeA6a1do91Bn6lKVXVMUw">Ben Mann</a> and <a href="/authors/karim-bin-humam/">Karim Bin-Humam</a>
-</author>
-        <link>https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html</guid>
         
         <category>Data Visualization</category>
         
