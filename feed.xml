@@ -5,9 +5,29 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Nov 2017 13:15:34 -0400</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2017 13:15:34 -0400</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2017 07:26:15 -0400</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2017 07:26:15 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>8 Do’s and Don’ts in Adaptive Management and Learning in ICT4D</title>
+        <description>&lt;p&gt;&lt;em&gt;This is a guest post by &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/kate-heuisler&quot;&gt;Kate Heuisler&lt;/a&gt;, Chief of Party of DAI’s USAID-funded Cambodia Development Innovations project.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.development-innovations.org/&quot;&gt;Development Innovations&lt;/a&gt; supports innovators and boosts the use of information and communication technologies for the overall development of Cambodia. The project is structured to be flexible and adaptive—because we need to. Really, most creative development programs &lt;em&gt;should&lt;/em&gt; build themselves to be learning organizations, to be ready for big pivots, regardless if you and your partners use digital innovations. The development world is regularly disrupted—by political changes, natural disasters, new technologies such as social media—and is no longer built for static, five-year plans. Donors and funders need partners that can learn by doing, and are not afraid to adapt strategies and implementation plans to continually improve.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Nov 2017 10:15:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/kate-heuisler">Kate Heuisler</a>
+</author>
+        <link>https://dai-global-digital.com/adaptive-management-and-learning-in-ict4d-dos-and-donts.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/adaptive-management-and-learning-in-ict4d-dos-and-donts.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <title>GeekFest 2017: Delving into Public Access with Duduzile Mkhwanazi of Project Isizwe</title>
@@ -190,28 +210,6 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
         <category>Data</category>
         
         <category>Open Source Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Data Management Series Part 3: Painting a Vivid Picture with Data</title>
-        <description>&lt;p&gt;Welcome back! After reading the &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=data-management-series&quot;&gt;previous two posts in this series&lt;/a&gt;, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/160939707%20data%20visualisation-ab2ed4.jpg&quot; alt=&quot;160939707 data visualisation-ab2ed4.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Sep 2017 12:15:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>; <a href="https://www.dai.com/who-we-are/our-team/ben-mann">Ben Mann</a>
-</author>
-        <link>https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html</guid>
-        
-        <category>Data Visualization</category>
-        
-        <category>Data</category>
-        
-        <category>Data Management Series</category>
         
         
       </item>
