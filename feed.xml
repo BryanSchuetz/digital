@@ -5,9 +5,27 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Nov 2017 07:26:15 -0400</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2017 07:26:15 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Nov 2017 08:47:21 -0500</pubDate>
+    <lastBuildDate>Thu, 09 Nov 2017 08:47:21 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Why a Dashboard Isn’t Just a Dashboard</title>
+        <description>&lt;p&gt;I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!” The finality of that line stuck with me. I assumed that the dismissal came from a person who was bored with dashboards, like a kid who opens a birthday present to find he has received yet ANOTHER dashboard. Well, interactive data dashboards—just like automobile dashboards—may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/dashboards.png&quot; alt=&quot;dashboards-81776e&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Nov 2017 14:18:00 -0500</pubDate>
+        <author>Karim Bin-Humam
+</author>
+        <link>https://dai-global-digital.com/why-a-dashboard-isnt-just-a-dashboard.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/why-a-dashboard-isnt-just-a-dashboard.html</guid>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <title>8 Do’s and Don’ts in Adaptive Management and Learning in ICT4D</title>
@@ -188,28 +206,6 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
         <category>Economic Growth</category>
         
         <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)</title>
-        <description>&lt;p&gt;&lt;em&gt;In my &lt;a href=&quot;https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html&quot;&gt;last post&lt;/a&gt; I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of two articles, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out to three GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments, and shared their perspectives in a Q&amp;amp;A section below.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/logo_evolution.png&quot; alt=&quot;logo_evolution.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 12 Sep 2017 10:04:00 -0400</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html</guid>
-        
-        <category>GIS</category>
-        
-        <category>Data</category>
-        
-        <category>Open Source Series</category>
         
         
       </item>
