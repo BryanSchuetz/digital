@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Nov 2017 08:38:33 -0500</pubDate>
-    <lastBuildDate>Thu, 16 Nov 2017 08:38:33 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2017 06:13:01 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2017 06:13:01 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Cyber Violence Against Women and Girls Creates Digital Exclusion</title>
+        <description>&lt;p&gt;Raise your hand if you have experienced online harassment. I am sure the response is a virtual flurry. Although digital technologies have the ability to empower, connect, and liberalise, they can also serve as platforms for marginalisation and abuse.&lt;/p&gt;
+
+&lt;p&gt;Recent news stories such as those from the &lt;a href=&quot;https://www.theguardian.com/politics/2017/sep/05/diane-abbott-more-abused-than-any-other-mps-during-election&quot;&gt;UK General Election&lt;/a&gt; have shone a light on the targeting of female politicians and journalists and high-profile cases of cyber bullying of young girls have shocked people world over. Whilst we know well the veracity of online violence, a less prominent issue is how it can exacerbate levels of digital exclusion for already marginalised populations. Let’s take a look at how online violence against women and girls—or “cyber VAWG”—further impedes digital inclusion and prevents women and girls from enjoying digital dividends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/Cambodia%20DI%201-c83e49.jpg&quot; alt=&quot;Cambodia DI 1-c83e49.jpg&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Photo from the USAID Development Innovations Cambodia project.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Nov 2017 06:18:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/cyber-vawg-what-are-the-implications-for-digital-inclusion.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cyber-vawg-what-are-the-implications-for-digital-inclusion.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <title>5 Podcasts for Human-Centered Designers</title>
@@ -189,24 +212,6 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
         <category>Innovation</category>
         
         <category>Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Second Chance Fund: Learning and Iteration with Tech in Cambodia</title>
-        <description>&lt;p&gt;Any honest digital designer will admit it: Most tech tools fail. At least the first time around. Getting your users to drop the old way of doing things and use your new website (or gadget, or app) isn’t easy. It doesn’t matter if it visualizes their transactions in some really clever way, or sends their user data to the cloud for real-time analysis, or even if it saves them time or money. Behavior change is difficult, and doubly so when you’re designing across cultures. Why? A few reasons:&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Sep 2017 16:12:00 -0400</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/cambodia-second-chance-fund.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cambodia-second-chance-fund.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
