@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2017 16:42:59 -0500</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2017 16:42:59 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2017 16:57:48 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2017 16:57:48 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,6 +28,30 @@
         
         
         <category>Resilience</category>
+        
+      </item>
+    
+      <item>
+        <title>DAI Launches 'Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala'</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/HCD%20cover.jpg&quot; alt=&quot;HCD cover.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today DAI launches &lt;strong&gt;Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala&lt;/strong&gt;. This landmark report is the culmination of 18 months of close collaboration between DAI’s ICT team, the &lt;a href=&quot;https://www.dai.com/our-work/projects/guatemala-nexos-locales&quot;&gt;USAID Nexos Locales&lt;/a&gt; project, and the people of Chiantla, a municipality in the Western Highlands of Guatemala to design a tool for budget transparency and citizen engagement.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://www.dai.com/HCD.pdf&quot;&gt;Download Report&lt;/a&gt;&lt;/h2&gt;
+&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Nov 2017 15:03:00 -0500</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Guatemala</category>
+        
         
       </item>
     
@@ -191,26 +215,6 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
         <guid isPermaLink="true">https://dai-global-digital.com/three-key-takeaways-from-usaids-new-gender-and-ict-survey-toolkit.html</guid>
         
         <category>Digital Insights</category>
-        
-        <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Testing Data Collection with OpenDataKit</title>
-        <description>&lt;p&gt;Primary data collection: One of the most challenging, but necessary, components of any research project. Mobile and browser-based technologies have revolutionized the speed and efficiency of collecting data, enabling teams to work together on a centralized database without the headache of managing paper forms, or multiple excel documents.&lt;/p&gt;
-
-&lt;p&gt;If you’re reading this article, it’s likely you’ve used &lt;a href=&quot;https://www.google.com/forms/about/&quot;&gt;Googleforms&lt;/a&gt; or &lt;a href=&quot;https://www.surveymonkey.com/&quot;&gt;Survey Monkey&lt;/a&gt; for your work. But what if you need to collect data in regions without 3G or LTE coverage? You’ll need a tool to manage offline data collection, and load the data once you access a wireless internet connection. Fortunately, there are several tools designed to do just that, and one of them is completely free and open source. It’s called &lt;a href=&quot;https://opendatakit.org/&quot;&gt;OpenDataKit&lt;/a&gt; (ODK). Let’s take a look at how this technology works.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Oct 2017 13:52:00 -0400</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/data-collection-with-opendatakit.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/data-collection-with-opendatakit.html</guid>
-        
-        <category>Open Source Series</category>
         
         <category>Data</category>
         
