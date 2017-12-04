@@ -1,4 +1,13 @@
 
+- title: "3 Key Takeaways From Our London Digital Inclusion Event"
+  pub: "Digital"
+  date: 2017-12-01
+  link: "https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html?utm_source=daidotcom"
+  summary: "Earlier this week, we were joined by Alex Tyers of Panoply Digital, Saloni Korlimarla of the Cherie Blair Foundation (CBF) for Women, and Guillaume Touchard from the GSM Association (GSMA)’s Connected Society Team at the delightful Makers Academy space in Shoreditch, United Kingdom, to discuss, debate, and engage around the challenges and opportunities for increasing digital inclusion and access."
+  tags:
+    - digital 
+    - Digital Inclusion 
+
 - title: "DAI Launches 'Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala'"
   pub: "Digital"
   date: 2017-11-30
@@ -223,19 +232,4 @@ In the international development world, an all-too-familiar sight is binders of 
     - Data Visualization 
     - Data 
     - Data Management Series 
-
-- title: "Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)"
-  pub: "Digital"
-  date: 2017-08-23
-  link: "https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html?utm_source=daidotcom"
-  summary: "In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.
-
-
-
-There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the QGIS LinkedIn user group with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl."
-  tags:
-    - digital 
-    - GIS 
-    - Data 
-    - Open Source Series 
 
