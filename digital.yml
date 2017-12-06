@@ -1,54 +1,4 @@
 
-- title: "Apply Now: RFP for an Innovative Partner to Fight Fall Armyworm"
-  pub: "Digital"
-  date: 2017-12-06
-  link: "https://dai-global-digital.com/apply-now-rfp-for-an-innovative-partner-to-fight-fall-armyworm.html?utm_source=daidotcom"
-  summary: "Today, DAI releases an RFP looking for a prize implementation partner to confront fall armyworm head on. This partner will join DAI and USAID in designing a results-driven prize to find digital tools and services that help smallholder farmers across sub-Saharan Africa.
-
-A farmer in Ethiopia inspects his fall armyworm-infested maize. (Photo Credit: FAO/Tamiru Legesse)
-
-Backstory
-
-Right now, the fall armyworm is marching across the African continent, causing more than $13 billion in crop losses. If left unchecked, this insect could continue to cost $6 billion a year. What makes this pest so devastating to farmers across the region? First of all, it not only eats the vegetative parts of the plants, but also consumes the reproductive portions, completely destroying crops. Secondly, it can fly up to 1,600 kilometers (nearly 1,000 miles), meaning it can easily migrate to surrounding farms and countries. Finally, the insect attacks more than 80 plant species, including maize, which more than 200 million people across sub-Saharan Africa depend upon. Basically, this insect eats fast, travels far, and poses a critical threat to Africa’s food security.
-
-In response, USAID is launching a call for innovative, digital solutions to help smallholder farmers confront fall armyworm and protect their crops. To support this call, DAI’s USAID-funded Digital Frontiers project is looking for a prize implementation firm to design, launch, implement and evaluate a results-driven prize.
-
-What to Know
-
-Prize launch: Early 2018
-Deadline for proposals: January 5, 2018 at 5 PM EST
-Contact: DigitalFrontiers@dai.com
-Estimated award: $645,000 - $745,000
-Scope: See the full RFP[LINK].
-
-Who Should Apply?
-
-We’re looking for an experienced open innovation competition firm to run this prize from start to finish. The ideal partner has wide range of experience, including:
-
-
-  
-    Designing open innovation competitions with USAID
-  
-  
-    Working in developing country contexts
-  
-  
-    Designing and running a communications and outreach campaign
-  
-  
-    Managing events
-  
-
-
-What Next?
-
-Read the full RFP[LINK]. Have the expertise we’re looking for? Apply now[LINK]! All applications are due January 5 at 5 PM EST.
-
-Looking for other ways to help us confront the fall armyworm threat head on? Please share the RFP[LINK] with your networks and encourage interested firms to apply. Also, make sure to follow @FeedtheFuture for the latest updates."
-  tags:
-    - digital 
-    - Agriculture 
-
 - title: "3 Key Takeaways From Our London Digital Inclusion Event"
   pub: "Digital"
   date: 2017-12-04
@@ -266,6 +216,17 @@ Photo from Kenyan Daily Star"
   summary: "So, after reading last week’s blog, you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
 In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to .xlsx or .csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?"
+  tags:
+    - digital 
+    - Data Visualization 
+    - Data 
+    - Data Management Series 
+
+- title: "Data Management Series Part 1: Planning and Collecting"
+  pub: "Digital"
+  date: 2017-08-30
+  link: "https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html?utm_source=daidotcom"
+  summary: "If you’ve been paying any attention to the so-called data revolution, you may have heard the expression “Data is the new oil.” The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: In the information age, data is an incredibly valuable “commodity.” The purpose of the analogy as originally made by mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down, and analyzed for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations."
   tags:
     - digital 
     - Data Visualization 
