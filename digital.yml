@@ -1,4 +1,17 @@
 
+- title: "Geekfest2017: A Discussion with Cassandra Mickish Gross"
+  pub: "Digital"
+  date: 2017-12-04
+  link: "https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html?utm_source=daidotcom"
+  summary: "Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.
+
+
+This week I’m speaking with Cassandra Mickish Gross from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded Knowledge for Health Project. In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the Faster to Zero Initiative, implemented in partnership with HealthEnabled, that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV."
+  tags:
+    - digital 
+    - Geekfest 2017 
+    - Health 
+
 - title: "3 Key Takeaways From Our London Digital Inclusion Event"
   pub: "Digital"
   date: 2017-12-04
@@ -216,17 +229,6 @@ Photo from Kenyan Daily Star"
   summary: "So, after reading last week’s blog, you’ve developed the world’s most robust monitoring, evaluation, and learning plan. You just conducted a multi-tier baseline assessment, validating your data by triangulating data points through five different surveying tools and are excited to dig in to multivariate regression analysis. But wait! First we need to talk about data storage and management!
 
 In the international development world, an all-too-familiar sight is binders of data sitting idly on shelves in rural government offices. We all acknowledge that there are much better ways to store and maintain our results. However, many organizations only move one or two steps up the ladder: from paper and pen to .xlsx or .csv files on a laptop. While this may enable you to conduct the minimum analysis needed to satisfy your donor in an annual report, does it really maximize the value of the data we collect?"
-  tags:
-    - digital 
-    - Data Visualization 
-    - Data 
-    - Data Management Series 
-
-- title: "Data Management Series Part 1: Planning and Collecting"
-  pub: "Digital"
-  date: 2017-08-30
-  link: "https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html?utm_source=daidotcom"
-  summary: "If you’ve been paying any attention to the so-called data revolution, you may have heard the expression “Data is the new oil.” The phrase has been attributed to and adopted by countless people and organizations to whom the central reasoning is clear: In the information age, data is an incredibly valuable “commodity.” The purpose of the analogy as originally made by mathematician Clive Humby in 2006 is significantly deeper though. He said that data is valuable, but cannot be used if it is unrefined. Like oil, data has to be changed, transformed, broken down, and analyzed for us to actually draw out the value locked within. This is true for anyone producing or accessing any type of raw datasets, including development organizations."
   tags:
     - digital 
     - Data Visualization 

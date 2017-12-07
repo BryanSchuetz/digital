@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Dec 2017 16:13:27 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Dec 2017 16:13:27 -0500</lastBuildDate>
+    <pubDate>Thu, 07 Dec 2017 09:20:13 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Dec 2017 09:20:13 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Geekfest2017: A Discussion with Cassandra Mickish Gross</title>
+        <description>&lt;p&gt;Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg&quot; alt=&quot;Cassandra Mickish Gross Headshot.jpg&quot; class=&quot;float-right&quot; /&gt;
+This week I’m speaking with &lt;a href=&quot;https://www.k4health.org/blog/authors/cassandra-mickish&quot;&gt;Cassandra Mickish Gross&lt;/a&gt; from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded &lt;a href=&quot;https://www.k4health.org/&quot;&gt;Knowledge for Health Project&lt;/a&gt;. In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the &lt;a href=&quot;https://www.k4health.org/projects/sub-saharan-africa&quot;&gt;Faster to Zero Initiative&lt;/a&gt;, implemented in partnership with &lt;a href=&quot;http://healthenabled.org/wordpress/&quot;&gt;HealthEnabled&lt;/a&gt;, that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Dec 2017 14:19:00 -0500</pubDate>
+        <author>Talia Dweck
+</author>
+        <link>https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html</guid>
+        
+        <category>Geekfest 2017</category>
+        
+        <category>Health</category>
+        
+        
+        <category>Health</category>
+        
+      </item>
     
       <item>
         <title>3 Key Takeaways From Our London Digital Inclusion Event</title>
@@ -194,28 +217,6 @@ Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders
         <category>Geekfest 2017</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Practicing the Principles for Digital Development in East Africa</title>
-        <description>&lt;p&gt;&lt;em&gt;This is a guest post by Mustapha Issa, Field Manager and MAST Coordinator and Gilead Mushaija, GIS Database Specialist, both from DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/tanzania-feed-future-tanzania-land-tenure-assistance-lta&quot;&gt;Feed the Future Land Tenure Assistance project.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;At the recent &lt;a href=&quot;https://www.eventbrite.com/e/practicing-the-principles-for-digital-development-in-east-africa-tickets-37822273438&quot;&gt;Practicing the Principles for Digital Development&lt;/a&gt; event on October 12 in Dar es Salaam, Tanzania, 80 participants from organizations including DAI, the Ministry of Works, Transport, and Communications, and private organizations from Ethiopia, Kenya, Malawi, Rwanda, Tanzania, and Uganda attended.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://digitalimpactalliance.org/&quot;&gt;Digital Impact Alliance&lt;/a&gt; (DIAL) and the &lt;a href=&quot;http://www.hdif-tz.org/&quot;&gt;Human Development Innovation Fund Tanzania&lt;/a&gt; (HDIF-UKAid) stewarded the event and were joined by leading organizations in endorsing the Digital Principles. DAI is a &lt;a href=&quot;https://digitalprinciples.org/endorse/endorsers/&quot;&gt;signatory to the Principles&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 Oct 2017 11:46:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/gilead-mushaija-b015aa33/">Gilead Mishaija</a>, <a href="https://www.linkedin.com/in/mustapha-issa-93b3a014a/">Mustapha Issa</a>
-</author>
-        <link>https://dai-global-digital.com/practicing-the-principles-for-digital-development-in-east-africa.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/practicing-the-principles-for-digital-development-in-east-africa.html</guid>
-        
-        <category>Digital Principles</category>
-        
-        <category>Innovation</category>
         
         
       </item>
