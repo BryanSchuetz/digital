@@ -5,9 +5,31 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2018 16:26:53 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 16:26:53 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 10:42:26 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 10:42:26 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>We’ve figured out that we don’t need to reinvent the wheel, but it is time to invest in the roads and highways</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/AL%20headshot.jpg&quot; alt=&quot;AL headshot.jpg&quot; class=&quot;float-right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to produce limited, short-term, and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly, the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national-scale digital health projects to thrive.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Jan 2018 09:26:00 -0500</pubDate>
+        <author><a href="https://twitter.com/alabriqu">Dr. Alain Labrique</a>
+</author>
+        <link>https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html</guid>
+        
+        <category>Health</category>
+        
+        <category>Digital Principles</category>
+        
+        
+        <category>Health</category>
+        
+      </item>
     
       <item>
         <title>Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes</title>
@@ -212,24 +234,6 @@ This week I’m speaking with &lt;a href=&quot;https://www.k4health.org/blog/aut
         
         
         <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>3 Key Takeaways From Our London Digital Inclusion Event</title>
-        <description>&lt;p&gt;Earlier this week, we were joined by &lt;a href=&quot;https://www.panoplydigital.com/our-team/#/alex-tyers-2/&quot;&gt;Alex Tyers&lt;/a&gt; of Panoply Digital, &lt;a href=&quot;https://www.linkedin.com/in/saloni-korlimarla-5102685&quot;&gt;Saloni Korlimarla&lt;/a&gt; of the Cherie Blair Foundation (CBF) for Women, and &lt;a href=&quot;https://www.gsma.com/mobilefordevelopment/author/guillaume-touchard&quot;&gt;Guillaume Touchard&lt;/a&gt; from the GSM Association (GSMA)’s Connected Society Team at the delightful &lt;a href=&quot;http://www.makersacademy.com/&quot;&gt;Makers Academy&lt;/a&gt; space in Shoreditch, United Kingdom, to discuss, debate, and engage around the challenges and opportunities for increasing digital inclusion and access.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Dec 2017 04:54:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/krista-baptista/">Krista Baptista</a>, <a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a>
-</author>
-        <link>https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        
-        <category>Innovation</category>
         
       </item>
     
