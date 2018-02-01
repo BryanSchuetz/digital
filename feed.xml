@@ -5,9 +5,27 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Jan 2018 22:16:40 -0500</pubDate>
-    <lastBuildDate>Wed, 31 Jan 2018 22:16:40 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2018 14:20:20 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2018 14:20:20 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>“S3” Site Selection System: A Data-Driven Decision Making Tool for Effective Engagement</title>
+        <description>&lt;p&gt;Recently while on assignment in Haiti, a project manager for a local agricultural development project a asked my team why we weren’t targeting specific rural communities. According to him, those communities are the ones that could really benefit from the type of work we were doing. While we had good reason to work where we were working, the question stuck: &lt;strong&gt;&lt;em&gt;How can we be certain that we are targeting the right communities?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Jan 2018 12:06:00 -0500</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>,<a href="https://twitter.com/jmatz1919">Josh Linden</a>
+</author>
+        <link>https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html</guid>
+        
+        <category>Site Selection</category>
+        
+        
+        <category>Data</category>
+        
+      </item>
     
       <item>
         <title>We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways</title>
@@ -205,29 +223,6 @@ This week I chat with &lt;a href=&quot;https://www.panoplydigital.com/our-team/#
         
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <title>GeekFest2017: A Discussion with Cassandra Mickish Gross</title>
-        <description>&lt;p&gt;Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/Cassandra%20Mickish%20Gross%20Headshot.jpg&quot; alt=&quot;Cassandra Mickish Gross Headshot.jpg&quot; class=&quot;float-right&quot; /&gt;
-This week I’m speaking with &lt;a href=&quot;https://www.k4health.org/blog/authors/cassandra-mickish&quot;&gt;Cassandra Mickish Gross&lt;/a&gt; from the Johns Hopkins Center for Communication Programs to discuss the U.S. Agency for International Development (USAID)-funded &lt;a href=&quot;https://www.k4health.org/&quot;&gt;Knowledge for Health Project&lt;/a&gt;. In this post Cassandra reflects on her experience developing a digital health platform. We explore the choice between an established solution with the potential to scale, versus one that has clear evidence of impact on health outcomes. During the interview, she reflects on the &lt;a href=&quot;https://www.k4health.org/projects/sub-saharan-africa&quot;&gt;Faster to Zero Initiative&lt;/a&gt;, implemented in partnership with &lt;a href=&quot;http://healthenabled.org/wordpress/&quot;&gt;HealthEnabled&lt;/a&gt;, that aims to support the Ministries of Health of South Africa and Uganda in the scale-up of digital health tools and accelerate the elimination of mother-to-child transmission of HIV.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Dec 2017 14:19:00 -0500</pubDate>
-        <author>Talia Dweck
-</author>
-        <link>https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/geekfest2017-a-discussion-with-cassandra-mickish-gross.html</guid>
-        
-        <category>Geekfest 2017</category>
-        
-        <category>Health</category>
-        
-        
-        <category>Health</category>
         
       </item>
     
