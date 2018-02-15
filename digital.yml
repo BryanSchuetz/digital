@@ -1,14 +1,4 @@
 
-- title: "Getting Past the Blockchain Hype Cycle"
-  pub: "Digital"
-  date: 2018-02-07
-  link: "https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html?utm_source=daidotcom"
-  summary: "Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with cryptocurrencies. Fortune Magazine recently listed “The Fintech Renaissance” as the second-most important technology trend of 2018, and with good reason. Last month Bitcoin saw more than 400,000 transactions per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore."
-  tags:
-    - digital 
-    - Innovation 
-    - Think Piece 
-
 - title: "Why is DAI Investing in a Coding School?"
   pub: "Digital"
   date: 2018-02-06
@@ -213,5 +203,17 @@ Doing so successfully requires one primary skill: listening. That means listenin
   summary: "I distinctly remember an early conversation with colleagues when I began working in digital development in which a peer dismissively waved his hand at the idea of implementing a live data dashboard, saying “A dashboard is a dashboard is a dashboard!” The finality of that line stuck with me. I assumed that the dismissal came from a person who was bored with dashboards, like a kid who opens a birthday present to find he has received yet ANOTHER dashboard. Well, interactive data dashboards—just like automobile dashboards—may not be the newest, hottest, shiniest thing in the ICT4D toolbox, but they’re still important and their often hidden values go unappreciated by many."
   tags:
     - digital 
+    - Data 
+
+- title: "8 Do’s and Don’ts in Adaptive Management and Learning in ICT4D"
+  pub: "Digital"
+  date: 2017-11-01
+  link: "https://dai-global-digital.com/adaptive-management-and-learning-in-ict4d-dos-and-donts.html?utm_source=daidotcom"
+  summary: "This is a guest post by Kate Heuisler, Chief of Party of DAI’s USAID-funded Cambodia Development Innovations project.
+
+Development Innovations supports innovators and boosts the use of information and communication technologies for the overall development of Cambodia. The project is structured to be flexible and adaptive—because we need to. Really, most creative development programs should build themselves to be learning organizations, to be ready for big pivots, regardless if you and your partners use digital innovations. The development world is regularly disrupted—by political changes, natural disasters, new technologies such as social media—and is no longer built for static, five-year plans. Donors and funders need partners that can learn by doing, and are not afraid to adapt strategies and implementation plans to continually improve."
+  tags:
+    - digital 
+    - Innovation 
     - Data 
 

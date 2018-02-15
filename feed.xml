@@ -5,29 +5,9 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Feb 2018 10:31:43 -0500</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2018 10:31:43 -0500</lastBuildDate>
+    <pubDate>Thu, 15 Feb 2018 10:34:23 -0500</pubDate>
+    <lastBuildDate>Thu, 15 Feb 2018 10:34:23 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
-    
-      <item>
-        <title>Getting Past the Blockchain Hype Cycle</title>
-        <description>&lt;p&gt;Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with &lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptocurrency&quot;&gt;cryptocurrencies&lt;/a&gt;. Fortune Magazine &lt;a href=&quot;http://fortune.com/2017/12/26/4-technology-trends-2018/&quot;&gt;recently listed&lt;/a&gt; “The Fintech Renaissance” as the second-most important technology trend of 2018, and with good reason. Last month Bitcoin saw more than &lt;a href=&quot;https://blockchain.info/charts/n-transactions?timespan=all&quot;&gt;400,000 transactions&lt;/a&gt; per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 07 Feb 2018 16:08:00 -0500</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Think Piece</category>
-        
-        
-        <category>Data</category>
-        
-      </item>
     
       <item>
         <title>Why is DAI Investing in a Coding School?</title>
@@ -218,6 +198,28 @@
         
         
         <category>Innovation</category>
+        
+      </item>
+    
+      <item>
+        <title>GeekFest 2017: Talking Gender-Disaggregated Data with Alex Tyers, Panoply Digital</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/uploads/geekfest-d47647.jpg&quot; alt=&quot;geekfest-d47647.jpg&quot; class=&quot;float-left&quot; /&gt;
+Welcome to GeekFest 2017, a series of interviews featuring ICT4D thought leaders. Our goals for our #geekfest2017 interviews are 1. to highlight the people and organizations who are pushing the field in new directions, 2. feature their work and show how it’s different or new, and 3. to support the overall growth of the ICT4D community.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/AlexTyers_Headshot_May2017.jpg&quot; alt=&quot;AlexTyers_Headshot_May2017.jpg&quot; class=&quot;float-right&quot; /&gt;
+This week I chat with &lt;a href=&quot;https://www.panoplydigital.com/our-team/#/alex-tyers-2/&quot;&gt;Alexandra “Alex” Tyers&lt;/a&gt;, Co-Founder and Director at Panoply Digital. Alex is a mobiles for development (M4D) professional, specializing in monitoring and evaluation for innovation, mobile learning in emerging markets, and women’s mobile and ICT access and use. Alex recently spoke at our &lt;a href=&quot;https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html&quot;&gt;Frontiers in Digital Inclusion Event&lt;/a&gt; in London on the importance of gender-disaggregated data for digital access and inclusion.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Dec 2017 09:00:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/geekfest-2017-talking-gender-disaggregated-data-with-alex-tyers-panoply-digital.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/geekfest-2017-talking-gender-disaggregated-data-with-alex-tyers-panoply-digital.html</guid>
+        
+        <category>Geekfest 2017</category>
+        
+        <category>Data</category>
+        
         
       </item>
     
