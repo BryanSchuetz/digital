@@ -5,9 +5,25 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Mar 2018 08:11:05 -0400</pubDate>
-    <lastBuildDate>Thu, 22 Mar 2018 08:11:05 -0400</lastBuildDate>
+    <pubDate>Thu, 22 Mar 2018 08:47:56 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Mar 2018 08:47:56 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>How a Pilot Project in Haiti Brings Optimism for Digitally Enabled Health System</title>
+        <description>&lt;p&gt;I recently presented during a TechChange course titled “The Future of Digital Health.” I was asked to discuss the implementation of the &lt;a href=&quot;https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program&quot;&gt;Haiti Strategic Health Information System&lt;/a&gt; (HIS) program, a five-year, U.S. Agency for International Development-funded initiative that is consolidating and integrating Haiti’s disconnected health information assets. Preparing for this presentation gave me a chance to reflect on the past year—the progress we have made, the challenges we have encountered, and the future of digital health in Haiti.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Mar 2018 13:50:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/nernst-atwood-raphael-5a46ba6a/">Atwood Raphael</a>
+</author>
+        <link>https://dai-global-digital.com/haitis-digital-health-future-how-a-pilot-project-brings-optimism-for-a-digital-enabled-health-system.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/haitis-digital-health-future-how-a-pilot-project-brings-optimism-for-a-digital-enabled-health-system.html</guid>
+        
+        <category>Health</category>
+        
+        
+      </item>
     
       <item>
         <title>How to Engage and Support Local Innovators: 3 Takeaways from the Digital Development Forum</title>
@@ -182,24 +198,6 @@
         
         
         <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes</title>
-        <description>&lt;p&gt;Last year I wrote a post called &lt;a href=&quot;https://dai-global-digital.com/facebook-chatbot.html&quot;&gt;“I Made a Facebook Chatbot (And You Can, Too)”&lt;/a&gt; where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap, here’s why:&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 17 Jan 2018 14:39:00 -0500</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/facebook-messenger-chatbot-1.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/facebook-messenger-chatbot-1.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Social Media</category>
-        
         
       </item>
     
