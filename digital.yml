@@ -1,4 +1,15 @@
 
+- title: "Putting Liberian Cities on the Map With OpenStreetMap"
+  pub: "Digital"
+  date: 2018-03-27
+  link: "https://dai-global-digital.com/weve-got-to-map-our-city-putting-three-liberian-cities-on-the-map-using-openstreetmap.html?utm_source=daidotcom"
+  summary: "As the world becomes more urbanized, data on cities and the residents who inhabit them is key to building and governing sustainable communities. Yet this data is simply not available for many rural and urban areas around the world. Many cities lack base data sets—such as accurate maps of their cities that identify key infrastructure, services, and human settlements. In some cases, these maps exist on paper, but in other cases, are only available in closed, proprietary systems or not at all. This was the case in the Liberian cities of Ganta, Gbarnga, and Zwedru."
+  tags:
+    - digital 
+    - Data Visualization 
+    - Sub-Saharan Africa 
+    - Governance 
+
 - title: "How a Pilot Project in Haiti Brings Optimism for Digitally Enabled Health System"
   pub: "Digital"
   date: 2018-03-20
@@ -206,13 +217,4 @@ This week I’m speaking with Cassandra Mickish Gross from the Johns Hopkins Cen
     - digital 
     - Geekfest 2017 
     - Health 
-
-- title: "3 Key Takeaways From Our London Digital Inclusion Event"
-  pub: "Digital"
-  date: 2017-12-04
-  link: "https://dai-global-digital.com/frontiers-in-digital-inclusion-event.html?utm_source=daidotcom"
-  summary: "Earlier this week, we were joined by Alex Tyers of Panoply Digital, Saloni Korlimarla of the Cherie Blair Foundation (CBF) for Women, and Guillaume Touchard from the GSM Association (GSMA)’s Connected Society Team at the delightful Makers Academy space in Shoreditch, United Kingdom, to discuss, debate, and engage around the challenges and opportunities for increasing digital inclusion and access."
-  tags:
-    - digital 
-    - Digital Inclusion 
 
