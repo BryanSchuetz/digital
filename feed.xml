@@ -5,9 +5,25 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Apr 2018 10:11:13 -0400</pubDate>
-    <lastBuildDate>Wed, 04 Apr 2018 10:11:13 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Apr 2018 11:23:44 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Apr 2018 11:23:44 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Blockchain for Development Part 1: Understanding the Tech</title>
+        <description>&lt;p&gt;Bitcoin has launched the term “blockchain” into the world’s tech vernacular. Unfortunately for blockchain as a technology and a theory, it is often, for better or worse, synonymized with Bitcoin. Because of this, the ideas of public, transparent, and unchangeable information immediately come to mind as soon as someone mentions blockchain. While this is true for Bitcoin, this is not necessarily the case for all blockchains.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Apr 2018 11:20:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html</guid>
+        
+        <category>Digital Financial Services</category>
+        
+        
+      </item>
     
       <item>
         <title>Putting Liberian Cities on the Map With OpenStreetMap</title>
@@ -180,24 +196,6 @@
         
         <category>Coding</category>
         
-        
-      </item>
-    
-      <item>
-        <title>“S3” Site Selection System: A Data-Driven Decision-Making Tool for Effective Engagement</title>
-        <description>&lt;p&gt;Recently while on assignment in Haiti, a project manager for a local agricultural development project asked my team why we weren’t targeting certain rural communities. According to him, those communities are the ones that could really benefit from the type of work we were doing. While we had good reason to work where we were working, the question stuck: &lt;strong&gt;&lt;em&gt;How can we be certain that we are targeting the right communities?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Jan 2018 12:06:00 -0500</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>,<a href="https://twitter.com/jmatz1919">Josh Linden</a>
-</author>
-        <link>https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html</guid>
-        
-        <category>Site Selection</category>
-        
-        
-        <category>Data</category>
         
       </item>
     
