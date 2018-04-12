@@ -5,9 +5,31 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Apr 2018 16:10:59 -0400</pubDate>
-    <lastBuildDate>Tue, 10 Apr 2018 16:10:59 -0400</lastBuildDate>
+    <pubDate>Thu, 12 Apr 2018 09:00:35 -0400</pubDate>
+    <lastBuildDate>Thu, 12 Apr 2018 09:00:35 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Blockchain for Development Part 2: Implementation Considerations</title>
+        <description>&lt;p&gt;As discussed in Part 1 of this two-part post on blockchain, “&lt;a href=&quot;dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Understanding the Tech&lt;/a&gt;,” the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out &lt;a href=&quot;dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Part 1&lt;/a&gt;. Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Apr 2018 10:20:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/blockchain-for-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-for-development.html</guid>
+        
+        <category>Agriculture</category>
+        
+        <category>Innovation</category>
+        
+        <category>Health</category>
+        
+        <category>Blockchain Series</category>
+        
+        
+      </item>
     
       <item>
         <title>Submit Your Session Ideas for ICTforAg 2018</title>
@@ -41,6 +63,8 @@
         <guid isPermaLink="true">https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html</guid>
         
         <category>Digital Financial Services</category>
+        
+        <category>Blockchain Series</category>
         
         
       </item>
@@ -176,28 +200,6 @@
         <category>Data</category>
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <title>Getting Past the Blockchain Hype Cycle</title>
-        <description>&lt;p&gt;Distributed Ledger Technologies (DLTs), commonly referred to as blockchain applications, are possibly the most talked about innovation of the day. And the most commonly discussed DLT applications are those that involve financial transactions with &lt;a href=&quot;https://en.wikipedia.org/wiki/Cryptocurrency&quot;&gt;cryptocurrencies&lt;/a&gt;. &lt;em&gt;Fortune Magazine&lt;/em&gt; &lt;a href=&quot;http://fortune.com/2017/12/26/4-technology-trends-2018/&quot;&gt;recently listed&lt;/a&gt; “The Fintech Renaissance” as the second-most important technology trend of 2018, and with good reason. Last month Bitcoin saw more than &lt;a href=&quot;https://blockchain.info/charts/n-transactions?timespan=all&quot;&gt;400,000 transactions&lt;/a&gt; per day. Despite warnings of Bitcoin’s volatility, the increased investment in cryptocurrencies is hard to ignore.&lt;/p&gt;
-
-&lt;p&gt;But what about all of the other promises of DLTs? There are no shortage of articles written about their impact on data security, the value of smart contracts to create efficient online transactions, and the value of data democratization and transparency through shared ledgers. While there are case studies for each of these promising areas, distributed application developers are in short supply, and active implementations for global development projects are rare. As a result, I get the sense that blockchain may be entering the peak if its hype cycle.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 Feb 2018 09:00:00 -0500</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Think Piece</category>
-        
-        
-        <category>Data</category>
         
       </item>
     
