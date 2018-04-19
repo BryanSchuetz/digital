@@ -5,9 +5,31 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Apr 2018 13:21:19 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Apr 2018 13:21:19 -0400</lastBuildDate>
+    <pubDate>Thu, 19 Apr 2018 19:10:21 -0400</pubDate>
+    <lastBuildDate>Thu, 19 Apr 2018 19:10:21 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Forking a Live Tool with Design Thinking in Guatemala</title>
+        <description>&lt;p&gt;This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate &lt;em&gt;Somos Chiantla&lt;/em&gt;. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/07%20Plenary%20voting.jpg&quot; alt=&quot;07 Plenary voting.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Apr 2018 02:14:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>Guatemala</category>
+        
+        <category>Governace</category>
+        
+        
+      </item>
     
       <item>
         <title>Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable</title>
@@ -176,24 +198,6 @@
         
         
         <category>Resilience</category>
-        
-      </item>
-    
-      <item>
-        <title>ICT for Citizen Engagement and Advocacy: Lessons Learned from Mozambique DIÁLOGO</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://www.dai.com/our-work/projects/mozambique-democratic-governance-support-programme-dgsp&quot;&gt;Mozambique Democratic Governance Programme&lt;/a&gt;, DIÁLOGO, funded by the U.K. Department for International Development, worked with citizens, civil society, local media, and municipal government to engage more effectively on local issues. DIÁLOGO supported innovative solutions, including mobile- and web-based technologies, to amplify the voices of citizens and help governments respond to their demands. The programme ran from 2012 in the five urban municipalities of Beira, Maputo, Nampula, Quelimane, and Tete, and ended last December.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 01 Mar 2018 09:00:00 -0500</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html</guid>
-        
-        <category>Governance</category>
-        
-        <category>ICT</category>
-        
         
       </item>
     
