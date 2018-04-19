@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Apr 2018 13:15:47 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Apr 2018 13:15:47 -0400</lastBuildDate>
+    <pubDate>Thu, 19 Apr 2018 13:21:19 -0400</pubDate>
+    <lastBuildDate>Thu, 19 Apr 2018 13:21:19 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,7 +27,7 @@
     
       <item>
         <title>Blockchain for Development Part 2: Implementation Considerations</title>
-        <description>&lt;p&gt;As discussed in Part 1 of this two-part post on blockchain, “&lt;a href=&quot;dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Understanding the Tech&lt;/a&gt;,” the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out &lt;a href=&quot;dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Part 1&lt;/a&gt;. Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges.&lt;/p&gt;
+        <description>&lt;p&gt;As discussed in Part 1 of this two-part post on blockchain, “&lt;a href=&quot;/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Understanding the Tech&lt;/a&gt;,” the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out &lt;a href=&quot;/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;Part 1&lt;/a&gt;. Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 10 Apr 2018 10:20:00 -0400</pubDate>
