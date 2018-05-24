@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 May 2018 11:48:51 -0400</pubDate>
-    <lastBuildDate>Thu, 24 May 2018 11:48:51 -0400</lastBuildDate>
+    <pubDate>Thu, 24 May 2018 11:51:21 -0400</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 11:51:21 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
 &lt;p&gt;As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 22 May 2018 10:50:00 -0400</pubDate>
+        <pubDate>Thu, 24 May 2018 10:50:00 -0400</pubDate>
         <author>Greg Maly
 </author>
         <link>https://dai-global-digital.com/getting-started-with-rstudio.html</link>
