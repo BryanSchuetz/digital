@@ -1,17 +1,4 @@
 
-- title: "Getting Started With RStudio"
-  pub: "Digital"
-  date: 2018-05-22
-  link: "https://dai-global-digital.com/getting-started-with-rstudio.html?utm_source=daidotcom"
-  summary: "This article is part one of two, as we explore the basics of building a web dashboard in R using R Shiny.
-
-
-As a data scientist, I spend a lot of my time working in a programming language called RStudio. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, we’re going to introduce just a few lines of code to get you started on your journey into R."
-  tags:
-    - digital 
-    - Coding 
-    - Open Source Series 
-
 - title: "ICT4D Conference: Unpacking the Complexities of Integrated Health Data and Data Ownership"
   pub: "Digital"
   date: 2018-05-15
@@ -211,4 +198,14 @@ But what about all of the other promises of DLTs? There are no shortage of artic
   tags:
     - digital 
     - Site Selection 
+
+- title: "We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways"
+  pub: "Digital"
+  date: 2018-01-24
+  link: "https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html?utm_source=daidotcom"
+  summary: "Here’s the good news: Over the past 10 years the digital health community has begun to heal from a severe case of pilotitis. As a community of innovators and health systems researchers, we increasingly recognize that creating and testing new digital health tools in the absence of investments in the enabling ecosystem is likely to produce limited, short-term, and small-scale impact. Without concerted efforts to fertilize the soil in which the seeds of innovation are planted, those seeds will never mature beyond a sapling. That is, unless we pay attention to the policy and regulatory environment, the telecommunications and electrical infrastructure, and most importantly, the availability of trained and appropriate human resources to facilitate scale-up and sustainability, we cannot expect national-scale digital health projects to thrive."
+  tags:
+    - digital 
+    - Health 
+    - Digital Principles 
 
