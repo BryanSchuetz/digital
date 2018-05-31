@@ -10,6 +10,22 @@
     - Human-centered design 
     - Digital Financial Services 
 
+- title: "Replicando la App de Transparencia en Guatemala"
+  pub: "Digital"
+  date: 2018-05-25
+  link: "https://dai-global-digital.com/replicando-app-transparencia-guatemala.html?utm_source=daidotcom"
+  summary: "Nota: Esta publicación también está disponible en ingles
+
+El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada Somos Chiantla, que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar la herramienta en estos municipios, con un enfoque eminentemente participativo y colaborativo, atendiendo propuestas de autoridades de gobierno local y representantes de sociedad civil para personalizar la aplicación atendiendo sus gustos y preferencias.
+
+
+Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chiantla."
+  tags:
+    - digital 
+    - Human-centered design 
+    - Guatemala 
+    - Governance 
+
 - title: "Getting Started With RStudio, Part 1"
   pub: "Digital"
   date: 2018-05-24
@@ -202,14 +218,4 @@ But what about all of the other promises of DLTs? There are no shortage of artic
     - digital 
     - Innovation 
     - Think Piece 
-
-- title: "Why is DAI Investing in a Coding School?"
-  pub: "Digital"
-  date: 2018-02-06
-  link: "https://dai-global-digital.com/why-is-dai-investing-in-a-coding-school.html?utm_source=daidotcom"
-  summary: "DAI and Rockville, Maryland-based United Solutions recently launched a business called Code Partners to provide classroom instruction in software development. Code Partners will rely on the proven curriculum and teaching methods of Seattle-based Code Fellows, starting with beginner-level courses in HTML, CSS, and JavaScript."
-  tags:
-    - digital 
-    - ICT 
-    - Coding 
 

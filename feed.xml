@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 May 2018 09:09:26 -0400</pubDate>
-    <lastBuildDate>Thu, 31 May 2018 09:09:26 -0400</lastBuildDate>
+    <pubDate>Thu, 31 May 2018 09:18:31 -0400</pubDate>
+    <lastBuildDate>Thu, 31 May 2018 09:18:31 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -27,6 +27,31 @@
         <category>Human-centered design</category>
         
         <category>Digital Financial Services</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Replicando la App de Transparencia en Guatemala</title>
+        <description>&lt;p&gt;&lt;em&gt;Nota: Esta publicación también está disponible en &lt;a href=&quot;https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html&quot;&gt;ingles&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada &lt;em&gt;Somos Chiantla,&lt;/em&gt; que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar la herramienta en estos municipios, con un enfoque eminentemente participativo y colaborativo, atendiendo propuestas de autoridades de gobierno local y representantes de sociedad civil para personalizar la aplicación atendiendo sus gustos y preferencias.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/07%20Plenary%20voting.jpg&quot; alt=&quot;07 Plenary voting.jpg&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chiantla.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 May 2018 15:46:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/replicando-app-transparencia-guatemala.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/replicando-app-transparencia-guatemala.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>Guatemala</category>
+        
+        <category>Governance</category>
         
         
       </item>
@@ -184,26 +209,6 @@
         <category>Health</category>
         
         <category>Blockchain Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Submit Your Session Ideas for ICTforAg 2018</title>
-        <description>&lt;p&gt;As in previous years, DAI is co-sponsoring this year’s &lt;a href=&quot;http://ictforag.org/&quot;&gt;ICTforAg&lt;/a&gt; conference in Washington, D.C. The conference is on June 14 at &lt;a href=&quot;https://www.google.com/maps/place/FHI+360/@38.9151844,-77.0456242,15z/data=!4m5!3m4!1s0x0:0x96ade8a1ba6f2bc8!8m2!3d38.9151844!4d-77.0456242&quot;&gt;FHI 360&lt;/a&gt;. The conference is now accepting submissions for lightning talks and breakout sessions &lt;a href=&quot;http://ictforag.org/present/&quot;&gt;here&lt;/a&gt;. The deadline for submission is &lt;strong&gt;April 13&lt;/strong&gt;. Use the guiding questions below to shape your session ideas, and see you all in June!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/ICTforAg-2018.png&quot; alt=&quot;ICTforAg-2018.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 06 Apr 2018 11:41:00 -0400</pubDate>
-        <author>Anand Varghese
-</author>
-        <link>https://dai-global-digital.com/submit-your-session-ideas-for-ictforag-2018.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/submit-your-session-ideas-for-ictforag-2018.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Agriculture</category>
         
         
       </item>
