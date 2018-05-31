@@ -5,9 +5,31 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 May 2018 16:53:40 -0400</pubDate>
-    <lastBuildDate>Fri, 25 May 2018 16:53:40 -0400</lastBuildDate>
+    <pubDate>Thu, 31 May 2018 09:09:26 -0400</pubDate>
+    <lastBuildDate>Thu, 31 May 2018 09:09:26 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>5 Recent Reads We Loved (And You May Have Missed!)</title>
+        <description>&lt;p&gt;As our &lt;a href=&quot;https://www.dai.com/news/dai-launches-the-center-for-digital-acceleration&quot;&gt;Center for Digital Acceleration&lt;/a&gt; team grows, we are finding new ways to share knowledge beyond our epic WhatsApp group chat that grows more ridiculous and off-topic by the day. We have some voracious readers on the team, so in prep for this post I took a minute to poll them to find out which recent articles they found fascinating—and I had missed them all! Since I can’t be the only one, I am sharing them with you to ensure these gems get as wide a readership as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/top%205%20news%20podcast%20logo_0.jpg&quot; alt=&quot;top 5 news podcast logo_0.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 May 2018 10:36:00 -0400</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/recent-reads-we-loved-and-you-may-have-missed.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/recent-reads-we-loved-and-you-may-have-missed.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Human-centered design</category>
+        
+        <category>Digital Financial Services</category>
+        
+        
+      </item>
     
       <item>
         <title>Getting Started With RStudio, Part 1</title>
@@ -182,24 +204,6 @@
         <category>Innovation</category>
         
         <category>Agriculture</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blockchain for Development Part 1: Understanding the Tech</title>
-        <description>&lt;p&gt;Bitcoin has launched the term “blockchain” into the world’s tech vernacular. Unfortunately for blockchain as a technology and a theory, it is often, for better or worse, synonymized with Bitcoin. Because of this, the ideas of public, transparent, and unchangeable information immediately come to mind as soon as someone mentions blockchain. While this is true for Bitcoin, this is not necessarily the case for all blockchains.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 04 Apr 2018 11:20:00 -0400</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html</guid>
-        
-        <category>Digital Financial Services</category>
-        
-        <category>Blockchain Series</category>
         
         
       </item>
