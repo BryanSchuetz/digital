@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jun 2018 14:11:36 -0400</pubDate>
-    <lastBuildDate>Fri, 08 Jun 2018 14:11:36 -0400</lastBuildDate>
+    <pubDate>Sat, 09 Jun 2018 14:57:17 -0400</pubDate>
+    <lastBuildDate>Sat, 09 Jun 2018 14:57:17 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -190,7 +190,9 @@
     
       <item>
         <title>Forking a Live Tool with Design Thinking in Guatemala</title>
-        <description>&lt;p&gt;This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate &lt;em&gt;Somos Chiantla&lt;/em&gt;. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Esta publicación también está disponible en &lt;a href=&quot;https://dai-global-digital.com/replicando-app-transparencia-guatemala.html&quot;&gt;español&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate &lt;em&gt;Somos Chiantla&lt;/em&gt;. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/07%20Plenary%20voting.jpg&quot; alt=&quot;07 Plenary voting.jpg&quot; /&gt;
 &lt;code class=&quot;highlighter-rouge&quot;&gt;A participant in Sacapulas votes for the best ways to update Somos Chiantla&lt;/code&gt;&lt;/p&gt;
