@@ -5,9 +5,31 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jun 2018 15:09:21 -0400</pubDate>
-    <lastBuildDate>Thu, 14 Jun 2018 15:09:21 -0400</lastBuildDate>
+    <pubDate>Thu, 14 Jun 2018 15:18:43 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Jun 2018 15:18:43 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Trends in Digital Health: 4 Takeaways From Our UK Event</title>
+        <description>&lt;p&gt;In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last 10 years, and where are we heading? How can we build systems that integrate data from independent actors across the health ecosystem? How can we use lessons learned to support innovation? How can we adapt to expanding digital access and support the growth of local capacity?&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Jun 2018 14:00:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/anand-varghese/">Anand Varghese</a>
+</author>
+        <link>https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Health</category>
+        
+        <category>Human-centered design</category>
+        
+        
+        <category>Health</category>
+        
+      </item>
     
       <item>
         <title>Apply Now: Support USAID Missions to Improve Broadband Connectivity</title>
@@ -184,31 +206,6 @@
         <category>Innovation</category>
         
         <category>Governance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Forking a Live Tool with Design Thinking in Guatemala</title>
-        <description>&lt;p&gt;&lt;em&gt;Esta publicación también está disponible en &lt;a href=&quot;https://dai-global-digital.com/replicando-app-transparencia-guatemala.html&quot;&gt;español&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate &lt;em&gt;Somos Chiantla&lt;/em&gt;. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/07%20Plenary%20voting.jpg&quot; alt=&quot;07 Plenary voting.jpg&quot; /&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;A participant in Sacapulas votes for the best ways to update Somos Chiantla&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Apr 2018 02:14:00 -0400</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Guatemala</category>
-        
-        <category>Governace</category>
         
         
       </item>
