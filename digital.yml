@@ -1,4 +1,14 @@
 
+- title: "Essential Actions: A Human-Centred, Global Approach to Privacy Rights"
+  pub: "Digital"
+  date: 2018-07-31
+  link: "https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html?utm_source=daidotcom"
+  summary: "We’ve read the headlines: large-scale breaches of highly sensitive information in the United States, in the Philippines, in Nigeria, in India … the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the General Data Protection Regulations (GDPR), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We’re in the age of blockchain and AI; you tell me how to exercise right to erasure here.)"
+  tags:
+    - digital 
+    - Data 
+    - Human-centered design 
+
 - title: "Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation"
   pub: "Digital"
   date: 2018-07-16
@@ -216,16 +226,4 @@ A participant in Sacapulas votes for the best ways to update Somos Chiantla"
   tags:
     - digital 
     - Coding 
-
-- title: "Blockchain for Development Part 2: Implementation Considerations"
-  pub: "Digital"
-  date: 2018-04-10
-  link: "https://dai-global-digital.com/blockchain-for-development.html?utm_source=daidotcom"
-  summary: "As discussed in Part 1 of this two-part post on blockchain, “Understanding the Tech,” the blockchain hype is pervasive in international development these days. It is my view that blockchain does not deserve the “Swiss army knife of new technology” label that has been thrust upon it. While blockchain is exciting and potentially very useful, appropriate application of the tech can be evasive. If you need a quick and simple run down of blockchain, check out Part 1. Here I will give you a glimpse of some of the potential uses for blockchain in global development programming, and some of the challenges."
-  tags:
-    - digital 
-    - Agriculture 
-    - Innovation 
-    - Health 
-    - Blockchain Series 
 

@@ -5,9 +5,29 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Aug 2018 09:32:52 -0400</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 09:32:52 -0400</lastBuildDate>
+    <pubDate>Thu, 02 Aug 2018 10:22:41 -0400</pubDate>
+    <lastBuildDate>Thu, 02 Aug 2018 10:22:41 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Essential Actions: A Human-Centred, Global Approach to Privacy Rights</title>
+        <description>&lt;p&gt;We’ve read the headlines: large-scale breaches of highly sensitive information in the &lt;a href=&quot;https://www.wired.com/2015/09/opm-now-admits-5-6m-feds-fingerprints-stolen-hackers/&quot;&gt;United States&lt;/a&gt;, in the &lt;a href=&quot;http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/&quot;&gt;Philippines&lt;/a&gt;, in &lt;a href=&quot;https://www.devex.com/news/new-security-concerns-raised-for-redrose-digital-payment-systems-91619&quot;&gt;Nigeria&lt;/a&gt;, in &lt;a href=&quot;https://www.theguardian.com/world/2018/jan/04/india-national-id-database-data-leak-bought-online-aadhaar&quot;&gt;India&lt;/a&gt; … the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the &lt;a href=&quot;https://www.eugdpr.org/&quot;&gt;General Data Protection Regulations (GDPR)&lt;/a&gt;, the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We’re in the age of blockchain and AI; you tell me how to exercise &lt;a href=&quot;https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/&quot;&gt;right to erasure&lt;/a&gt; here.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/Simprints1-copy.jpg&quot; alt=&quot;Simprints1-copy.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 Jul 2018 09:45:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/sebastianmanhart/?authType=NAME_SEARCH&amp;authToken=SL9Z&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91202623%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446396352955%2Ctas%3Aseb">Sebastian Manhart</a> and <a href="https://www.linkedin.com/in/christineminjukim/?authType=NAME_SEARCH&amp;authToken=Y5N2&amp;locale=en_US&amp;trk=tyah&amp;trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A91601827%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1477946298677%2Ctas%3Achristine%20kim">Christine Kim</a>
+</author>
+        <link>https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html</guid>
+        
+        <category>Data</category>
+        
+        <category>Human-centered design</category>
+        
+        
+      </item>
     
       <item>
         <title>Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation</title>
@@ -188,24 +208,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html</guid>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Working With Tech Service Providers: It’s About More Than Tech</title>
-        <description>&lt;p&gt;Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local governments. No matter the objective, technology can both help you be more efficient internally and more impactful externally. The &lt;em&gt;idea&lt;/em&gt; of tech is often easy: “Oh, we’ll just build an app for that!” But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes and derail even the best intentions.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Jun 2018 13:54:00 -0400</pubDate>
-        <author>Karim Bin-Humam
-</author>
-        <link>https://dai-global-digital.com/working-with-tech-service-providers-its-about-more-than-tech.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/working-with-tech-service-providers-its-about-more-than-tech.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Digital Principles</category>
         
         
       </item>
