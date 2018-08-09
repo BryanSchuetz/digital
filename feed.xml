@@ -5,9 +5,29 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Aug 2018 13:59:17 -0400</pubDate>
-    <lastBuildDate>Wed, 08 Aug 2018 13:59:17 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Aug 2018 08:49:04 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Aug 2018 08:49:04 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Getting Started with RStudio, Part 2</title>
+        <description>&lt;p&gt;&lt;em&gt;This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;https://dai-global-digital.com/getting-started-with-rstudio.html&quot;&gt;previous post&lt;/a&gt; we introduced the R programming language, RStudio as a development environment, and examined rainfall data for May. The data we analyzed was stored in Google Docs. We used some functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way we access weather data.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 06 Aug 2018 16:22:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/getting-started-with-rstudio-part-2.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/getting-started-with-rstudio-part-2.html</guid>
+        
+        <category>Open Source Series</category>
+        
+        <category>Coding</category>
+        
+        
+      </item>
     
       <item>
         <title>Essential Actions: A Human-Centred, Global Approach to Privacy Rights</title>
@@ -191,24 +211,6 @@
         
         
         <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Apply Now: Support USAID Missions to Improve Broadband Connectivity</title>
-        <description>&lt;p&gt;The rapid expansion of mobile and internet access in the developing world holds the promise of catalyzing resilient economic and social growth. However, the availability and cost of connectivity is a significant barrier to fully realizing that vision.&lt;/p&gt;
-
-&lt;p&gt;To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development developed the &lt;a href=&quot;https://www.usaid.gov/sites/default/files/documents/15396/Better_Connectivity_Better_Programs_April2018.pdf&quot;&gt;Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Jun 2018 17:13:00 -0400</pubDate>
-        <author><a href="mailto:digitalfrontiers@dai.com">Yasmine Williams</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
         
       </item>
     

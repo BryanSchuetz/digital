@@ -9,14 +9,14 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Innovation Into Action Challenge">
-  <meta name="twitter:description" content="Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development?
+  <meta name="twitter:title" content="Getting Started with RStudio, Part 2">
+  <meta name="twitter:description" content="This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.
 
-<img src="/uploads/innovationchallenge1.jpg" al...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+In a previous post we introduced the R...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/RStudio-59a8d9.png">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Innovation Into Action Challenge</title>
-  <meta name="description" content="Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in inter...">
+  <title>Getting Started with RStudio, Part 2</title>
+  <meta name="description" content="This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.In a previous post we introduced the R programming languag...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -26,7 +26,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://dai-global-digital.com/innovation-into-action-challenge.html">
+  <link rel="canonical" href="https://dai-global-digital.com/getting-started-with-rstudio-part-2.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -100,50 +100,89 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Innovation Into Action Challenge</h1>
+    <h1 class="post-title">Getting Started with RStudio, Part 2</h1>
       
+      
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Feb 4, 2016</p>
+      <p class="post-details--date">Aug 6, 2018</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/anand-varghese/" class="without-style">Anand Varghese
+      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=innovation" class="without-style">Innovation</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span> • <span class="post-topic"><a href="/tags/?tag=coding" class="without-style">Coding</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>Is your startup prototyping a new tool that might help shape a more livable world? Has your company developed a novel way to tackle age-old problems in international development?</p>
+    <p><em>This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.</em></p>
 
-<p><img src="/uploads/innovationchallenge1.jpg" alt="innovationchallenge1.jpg" /></p>
-
-<p>DAI and a group of partners have come together to launch the “<a href="https://dai.forms.fm/innovation-into-action-challenge?utm_source=dai">Innovation into Action Challenge,</a>” and we’re looking for people like you!</p>
+<p>In a <a href="https://dai-global-digital.com/getting-started-with-rstudio.html">previous post</a> we introduced the R programming language, RStudio as a development environment, and examined rainfall data for May. The data we analyzed was stored in Google Docs. We used some functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way we access weather data.</p>
 
 <!--more-->
 
-<p>Entry is open to businesses and nonprofit organizations around the world, and three winners will receive:</p>
+<p><img src="/uploads/RStudio-59a8d9.png" alt="RStudio-59a8d9.png" /></p>
 
-<ul>
-  <li>$20,000 in support</li>
-  <li>The opportunity to test your product or service in the field</li>
-  <li>A tailored package of coaching and technical mentoring</li>
-</ul>
+<h2 id="using-data-apis"><strong>Using Data APIs</strong></h2>
 
-<p>The competition is focused on six areas:</p>
+<p>Arguably, the most critical step to analyzing data is getting data! To conduct analysis in our previous post, I found some data online, manually entered it into a spreadsheet in Google Docs, and then used R to access the data for analysis. This is a useful method to understand, as sometimes a doc can be a quick and simple way to store and manage data. But is this really practical for our use case? Probably not. That’s actually quite inefficient!</p>
 
-<ul>
-  <li>Governance and Services: Fostering dialogue between governments and citizens.</li>
-  <li>Workforce Development: Equipping young people with skills and ways to connect to the labor market.</li>
-  <li>Data Analytics: Improving monitoring, service delivery, and impact of projects related to health, education, energy, water and sanitation.</li>
-  <li>Knowledge Management: Facilitating learning and collaboration among development partners.</li>
-  <li>Climate Change Adaptation: Helping monitor and respond to changes in the environment.</li>
-  <li>Agriculture: Improving and securing food production and distribution.</li>
-</ul>
+<p>Weather data is collected by many organizations around the world, and there are a handful of useful ways to access it. One of the most common ways to access data collected and managed by someone else is through something called an application programming interface (API). APIs actually do many things, offering a whole host of services to developers, but in this case, we’re going to use an API that serves data.</p>
 
-<p>Entries are due on February 29. Find out more here.</p>
+<h2 id="the-power-of-libraries"><strong>The Power of Libraries</strong></h2>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/innovation-into-action-challenge.html" data-width="100%" data-numposts="5"></div> -->
+<p>To access this API, we’re going to use a library, or package, similar to the one we used to access Google Sheets. If you review the last post, you’ll remember the point at which we “installed” something using the command “Install.packages()”. In this case, we’re going to install a library called “RWunderground,” a way to connect your RStudio environment to the <a href="https://www.wunderground.com/">Weather Underground</a> data.</p>
+
+<blockquote>
+  <p>Install.packages(“rwunderground”)</p>
+</blockquote>
+
+<p>Now that you have this installed, let’s look at the <a href="https://cran.r-project.org/web/packages/rwunderground/rwunderground.pdf">documentation</a>. Looking through the documentation we can see that, using R, we can collect a lot of data! Let’s keep things simple, and collect weather data for the past week.</p>
+
+<blockquote>
+  <p>WashingtonDC &lt;- set_location(zip_code = 20036)</p>
+
+  <p>Week &lt;- history_range(WashingtonDC, date_start = “20180730”, date_end = “20180806”)</p>
+</blockquote>
+
+<p>Before we move forward, let’s look at this code. The weather API first asked us to define a location, so we defined a variable called “WashingtonDC” using the “set_location()” function. Then we created a new variable called “Week,” and asked the API to send us data from a seven-day range, starting on July 30 and ending on August 6.</p>
+
+<p>This works, but there’s one slight problem. Every time we run this function, it will show us the same week time span. What if we wanted to create a function that ALWAYS shows us the past week? To do that, we need to create two new variables: 1) today, and 2) seven days ago.</p>
+
+<blockquote>
+  <p>Today &lt;- sys.date</p>
+
+  <p>LastWeek &lt;- sys.date() – 6</p>
+</blockquote>
+
+<p>The code above uses the “sys.date” command in R, which returns today’s date, to create a variable called “Today.” Then we created a variable called “LastWeek” using the same command, minus six days. Now we can re-write our “Week” function to include these new variables. Let’s rewrite our API call and run it.</p>
+
+<blockquote>
+  <p>Week &lt;- history_range(WashingtonDC, date_start = LastWeek, date_end = Today)</p>
+</blockquote>
+
+<p>Much Better! Notice how we replaced the start and end dates with our new variables? Now we can take a look at our data.</p>
+
+<blockquote>
+  <p>Week</p>
+</blockquote>
+
+<h2 id="wrapping-up"><strong>Wrapping Up</strong></h2>
+
+<p>Voila! We now have a dataframe with seven days’ worth of weather data broken down by the hour! Now we can create graphs that update on their own, showing the last weeks’ worth of weather. Let’s use the same plot function we used in the last post and see how much rain Washington, D.C., has experienced over the past week.</p>
+
+<blockquote>
+  <p>plot(Week$precip, x = Week$date, xlab = “Date”, ylab = “Rainfall/hour (Inches)”, type = “l”, main = “Rainfall in Washington DC”, col = “Blue”)</p>
+</blockquote>
+
+<p><img src="/uploads/RainGraphAugust2018.png" alt="RainGraphAugust2018.png" /></p>
+
+<p>If you compare this graph to the one we made last time, you may notice a few differences. We’ve improved our titles, and added some color.</p>
+
+<p>What we’ve done is some nice descriptive analysis. Now that you know how to access historical weather data, how would you compare total rainfall this month to last month, or even last year? Maybe give it a try!</p>
+
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/getting-started-with-rstudio-part-2.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -171,9 +210,16 @@
   
   
     
+    
+  
+  
+    
       
       
         
+        
+          
+          
         
           
           
@@ -191,6 +237,9 @@
           
           
         
+          
+          
+        
       
     
     
@@ -203,21 +252,6 @@
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/take-it-to-the-farmer-behind-the-scenes-of-the-fall-armyworm-tech-prize-co-creation.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/FAW_img1_SM.png);"></div><span class="related-item-text">Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -235,34 +269,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/digital-health-in-international-development-using-tried-and-tested-technology-innovatively.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png);"></div><span class="related-item-text">Digital Health in International Development: Using Tried & Tested Technology Innovatively</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -278,21 +284,6 @@
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/MIT-hacking-health-winners.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/TtTImage.jpg);"></div><span class="related-item-text">Catching Up with the Winners of MIT’s Grand Hack for Health</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -310,6 +301,9 @@
           
           
         
+          
+          
+        
       
     
     
@@ -319,6 +313,9 @@
       
       
         
+        
+          
+          
         
           
           
@@ -336,6 +333,9 @@
           
           
         
+          
+          
+        
       
     
     
@@ -345,6 +345,9 @@
       
       
         
+        
+          
+          
         
           
           
@@ -362,6 +365,9 @@
           
           
         
+          
+          
+        
       
     
     
@@ -371,6 +377,9 @@
       
       
         
+        
+          
+          
         
           
           
@@ -388,16 +397,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -410,6 +409,9 @@
       
       
         
+        
+          
+          
         
           
           
@@ -428,7 +430,675 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/what-was-so-great-about-tictec-2018.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/TicTec%20Logo.png);"></div><span class="related-item-text">TicTec 2018: Key Takeaways from the Impacts of Civic Technology Conference</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/getting-started-with-rstudio.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/RStudio.png);"></div><span class="related-item-text">Getting Started With RStudio, Part 1</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/writing-code-is-for-everyone-now-the-code-partners-scholarship-makes-it-affordable.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/BLOG3-b8317c.jpg);"></div><span class="related-item-text">Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/why-is-dai-investing-in-a-coding-school.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Code%20Partners%20Logo%20Stacked.png);"></div><span class="related-item-text">Why is DAI Investing in a Coding School?</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/data-collection-with-opendatakit.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/ODK%20Collect_small-29d754.jpg);"></div><span class="related-item-text">Testing Data Collection with OpenDataKit</span></a></li>
             
             
             

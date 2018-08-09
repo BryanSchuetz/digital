@@ -1,4 +1,16 @@
 
+- title: "Getting Started with RStudio, Part 2"
+  pub: "Digital"
+  date: 2018-08-06
+  link: "https://dai-global-digital.com/getting-started-with-rstudio-part-2.html?utm_source=daidotcom"
+  summary: "This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.
+
+In a previous post we introduced the R programming language, RStudio as a development environment, and examined rainfall data for May. The data we analyzed was stored in Google Docs. We used some functions to pull the data into our work environment, and displayed the data over time using a line graph. In this post, we’re going to make an improvement to this analysis. Specifically, we’re going to streamline the way we access weather data."
+  tags:
+    - digital 
+    - Open Source Series 
+    - Coding 
+
 - title: "Essential Actions: A Human-Centred, Global Approach to Privacy Rights"
   pub: "Digital"
   date: 2018-07-31
@@ -217,13 +229,4 @@ A participant in Sacapulas votes for the best ways to update Somos Chiantla"
     - Human-centered design 
     - Guatemala 
     - Governace 
-
-- title: "Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable"
-  pub: "Digital"
-  date: 2018-04-12
-  link: "https://dai-global-digital.com/writing-code-is-for-everyone-now-the-code-partners-scholarship-makes-it-affordable.html?utm_source=daidotcom"
-  summary: "When someone needs a website or mobile app, they search for a coder. Almost anyone can be trained to write code and enter the digital workforce—once there, opportunities abound: from helping businesses, governments and other organizations build the websites and apps they need to supporting the digital systems that power economies worldwide."
-  tags:
-    - digital 
-    - Coding 
 
