@@ -5,9 +5,27 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Aug 2018 22:32:10 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Aug 2018 22:32:10 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Aug 2018 09:01:34 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Aug 2018 09:01:34 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>The Rising Tide of ICTs for Accountability</title>
+        <description>&lt;p&gt;A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the sound of the sledgehammer falling upon formerly protected industries. Customers in the many business-to-consumer verticals (&lt;a href=&quot;https://www.washingtonpost.com/news/theworldpost/wp/2018/08/13/middle-class/?hpid=hp_no-name_opinion-card-f-2%3Ahomepage%2Fstory&quot;&gt;admittedly not all&lt;/a&gt;) have more bargaining power than ever before, and can hold businesses accountable for poor performance by downloading a competitor’s solution with a few simple clicks.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Aug 2018 16:04:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/rising-tide-icts-for-accountability.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/rising-tide-icts-for-accountability.html</guid>
+        
+        <category>Governance</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <title>Getting Started with RStudio, Part 2</title>
@@ -189,28 +207,6 @@
         
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <title>Trends in Digital Health: 4 Takeaways From Our UK Event</title>
-        <description>&lt;p&gt;In comparison to other development sectors, health programs have historically been early adopters of digital tools. What have we learned over the last 10 years, and where are we heading? How can we build systems that integrate data from independent actors across the health ecosystem? How can we use lessons learned to support innovation? How can we adapt to expanding digital access and support the growth of local capacity?&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Jun 2018 14:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/anand-varghese/">Anand Varghese</a>
-</author>
-        <link>https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/trends-in-digital-health-four-take-aways-from-our-second-uk-event.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Health</category>
-        
-        <category>Human-centered design</category>
-        
-        
-        <category>Health</category>
         
       </item>
     

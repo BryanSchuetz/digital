@@ -1,4 +1,14 @@
 
+- title: "The Rising Tide of ICTs for Accountability"
+  pub: "Digital"
+  date: 2018-08-13
+  link: "https://dai-global-digital.com/rising-tide-icts-for-accountability.html?utm_source=daidotcom"
+  summary: "A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the sound of the sledgehammer falling upon formerly protected industries. Customers in the many business-to-consumer verticals (admittedly not all) have more bargaining power than ever before, and can hold businesses accountable for poor performance by downloading a competitor’s solution with a few simple clicks."
+  tags:
+    - digital 
+    - Governance 
+    - Think Piece 
+
 - title: "Getting Started with RStudio, Part 2"
   pub: "Digital"
   date: 2018-08-06
@@ -213,20 +223,4 @@ As a data scientist, I spend a lot of my time working in a programming language 
     - digital 
     - Innovation 
     - Governance 
-
-- title: "Forking a Live Tool with Design Thinking in Guatemala"
-  pub: "Digital"
-  date: 2018-04-18
-  link: "https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html?utm_source=daidotcom"
-  summary: "Esta publicación también está disponible en español
-
-This past February I was back in Guatemala, working with the fine people of Chiantla to improve and iterate Somos Chiantla. I was also in two new municipalities—Sacapulas and San Rafael Pie de la Cuesta—helping them create their own, personalized, forked versions of the app.
-
-
-A participant in Sacapulas votes for the best ways to update Somos Chiantla"
-  tags:
-    - digital 
-    - Human-centered design 
-    - Guatemala 
-    - Governace 
 
