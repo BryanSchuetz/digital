@@ -5,11 +5,12 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Aug 2018 14:16:17 -0400</pubDate>
-    <lastBuildDate>Fri, 31 Aug 2018 14:16:17 -0400</lastBuildDate>
+    <pubDate>Fri, 31 Aug 2018 14:29:05 -0400</pubDate>
+    <lastBuildDate>Fri, 31 Aug 2018 14:29:05 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/summer-reads1.jpg" medium="image"> 
         <title>August Roundup: Leapfrogging Technology, ICT4E in Conflict, and Facebook in Myanmar</title>
         <description>&lt;p&gt;Ah, the &lt;a href=&quot;https://en.wikipedia.org/wiki/Dog_days&quot;&gt;dog days&lt;/a&gt; of summer. Usually a slow time for work, that means there’s extra time to sit at your computer looking for good stuff to read, struggling with either being uncomfortably warm from the summer heat or excruciatingly cold from over-aggressive office air-conditioning. We get it. We got you. Fresh ICT4D reads from our August Roundup below!&lt;/p&gt;
 
@@ -28,6 +29,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/top%205-6b4a86.jpg" medium="image"> 
         <title>5 Top Resources for Digital Access Data</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/top%205-ed0419.jpg&quot; alt=&quot;top 5-ed0419.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
 
@@ -48,6 +50,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/Ray.png" medium="image"> 
         <title>The Rising Tide of ICTs for Accountability</title>
         <description>&lt;p&gt;A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the sound of the sledgehammer falling upon formerly protected industries. Customers in the many business-to-consumer verticals (&lt;a href=&quot;https://www.washingtonpost.com/news/theworldpost/wp/2018/08/13/middle-class/?hpid=hp_no-name_opinion-card-f-2%3Ahomepage%2Fstory&quot;&gt;admittedly not all&lt;/a&gt;) have more bargaining power than ever before, and can hold businesses accountable for poor performance by downloading a competitor’s solution with a few simple clicks.&lt;/p&gt;
 
@@ -66,6 +69,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/RStudio-59a8d9.png" medium="image"> 
         <title>Getting Started with RStudio, Part 2</title>
         <description>&lt;p&gt;&lt;em&gt;This article is part 2 of a series exploring the basics of importing and analyzing data in RStudio.&lt;/em&gt;&lt;/p&gt;
 
@@ -86,6 +90,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/Simprints1-copy.jpg" medium="image"> 
         <title>Essential Actions: A Human-Centred, Global Approach to Privacy Rights</title>
         <description>&lt;p&gt;We’ve read the headlines: large-scale breaches of highly sensitive information in the &lt;a href=&quot;https://www.wired.com/2015/09/opm-now-admits-5-6m-feds-fingerprints-stolen-hackers/&quot;&gt;United States&lt;/a&gt;, in the &lt;a href=&quot;http://blog.trendmicro.com/trendlabs-security-intelligence/55m-registered-voters-risk-philippine-commission-elections-hacked/&quot;&gt;Philippines&lt;/a&gt;, in &lt;a href=&quot;https://www.devex.com/news/new-security-concerns-raised-for-redrose-digital-payment-systems-91619&quot;&gt;Nigeria&lt;/a&gt;, in &lt;a href=&quot;https://www.theguardian.com/world/2018/jan/04/india-national-id-database-data-leak-bought-online-aadhaar&quot;&gt;India&lt;/a&gt; … the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the &lt;a href=&quot;https://www.eugdpr.org/&quot;&gt;General Data Protection Regulations (GDPR)&lt;/a&gt;, the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We’re in the age of blockchain and AI; you tell me how to exercise &lt;a href=&quot;https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/&quot;&gt;right to erasure&lt;/a&gt; here.) Either way, GDPR concepts are useful to international development contexts.&lt;/p&gt;
 
@@ -106,6 +111,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/FAW_img1_SM.png/uploads/FAW_img1_SM.png" medium="image"> 
         <title>Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation</title>
         <description>&lt;p&gt;Along with human-centered design and lean startup, co-creation is an approach arising to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without  understanding what it means, simply assuming it was an event that brings together a variety of partners to brainstorm ideas to solve a problem. Only when I attended the &lt;a href=&quot;https://fallarmywormtech.challenges.org/&quot;&gt;Fall Armyworm Tech Prize&lt;/a&gt; co-creation workshop from June 26 to 29 in Kampala, Uganda, did I grasp the nuances of co-creation and realize the significant benefits it holds for the end users of co-created products.&lt;/p&gt;
 
@@ -128,6 +134,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/Bomb-attack-Addis-Ababa.jpg" medium="image"> 
         <title>A Time of Change. And Reflection.</title>
         <description>&lt;p&gt;I can’t remember exactly what I was doing when the grenade went off up the street—probably brushing my teeth or something mundane like that. I was halfway through my two-week visit to Ethiopia and looking forward to getting out in the field. I was also completely unaware of what had just happened. It was a sobering day. I spent all afternoon watching the news. First one person confirmed dead, then two. &lt;a href=&quot;https://www.npr.org/2018/06/23/622855931/grenade-attack-tears-through-rally-for-ethiopian-prime-minister&quot;&gt;One-hundred and fifty or so wounded&lt;/a&gt;. Fear on the faces of a populace that had recently been so full of hope.&lt;/p&gt;
 
@@ -148,6 +155,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/blog%20header.PNG" medium="image"> 
         <title>DAI’s Center for Digital Acceleration Featured on Podcast</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://www.thsishcd.com/&quot;&gt;This is HCD&lt;/a&gt;—a podcast that explores what human-centered design (HCD) looks like in practice—featured DAI’s Center for Digital Acceleration &lt;a href=&quot;https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html&quot;&gt;work in Guatemala&lt;/a&gt; on its &lt;a href=&quot;https://www.thisishcd.com/episodes/24-adam-fiveson-using-a-human-centered-design-approach-to-design-foreign-aid-programs/&quot;&gt;most recent episode&lt;/a&gt;.&lt;/p&gt;
 
@@ -168,6 +176,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png" medium="image"> 
         <title>Digital Health in International Development: Using Tried &amp; Tested Technology Innovatively</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Abi-7981e9.jpg&quot; alt=&quot;Abi-7981e9.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
 
@@ -190,6 +199,7 @@
       </item>
     
       <item>
+        <media:content url="https://dai-global-digital.com/uploads/happy%20phone-c06e04.jpg" medium="image"> 
         <title>Deadline Extended! Apply Now: Support USAID Missions to Improve Broadband Connectivity</title>
         <description>&lt;p&gt;DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project has extended the deadline to &lt;strong&gt;July 3&lt;/strong&gt; for proposals from interested organizations to help the U.S. Agency for International Development implement the &lt;a href=&quot;https://www.usaid.gov/sites/default/files/documents/15396/Better_Connectivity_Better_Programs_April2018.pdf&quot;&gt;Better Connectivity, Better Programs: How to Implement a Demand Aggregation Program (How-to Guide)&lt;/a&gt;. The initial Request for Proposals (RFP) and related information can be found &lt;a href=&quot;https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
