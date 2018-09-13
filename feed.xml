@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Sep 2018 08:25:22 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Sep 2018 08:25:22 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Sep 2018 11:16:28 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Sep 2018 11:16:28 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ux_ui.jpg" medium="image" /> 
+        <title>Thinking About the User Part I: Design Considerations for Mobile Apps</title>
+        <description>&lt;p&gt;Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, and frankly, most users probably never notice (or maybe don’t realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 11 Sep 2018 09:56:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/app-ui.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/app-ui.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>UI/UX series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg" medium="image" /> 
@@ -192,29 +211,6 @@
         <category>Human-centered design</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png" medium="image" /> 
-        <title>Digital Health in International Development: Using Tried &amp; Tested Technology Innovatively</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Abi-7981e9.jpg&quot; alt=&quot;Abi-7981e9.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I recently took part in the DAI panel discussion on “Digital Health in International Development: Current Realities and Future Trends” in London. It delivered fascinating perspectives from across the health, tech, and development sectors. Here’s a few key points I shared during the discussion and hope to stimulate a continued conversation.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Jul 2018 13:00:00 -0400</pubDate>
-        <author>Abi Gleek
-</author>
-        <link>https://dai-global-digital.com/digital-health-in-international-development-using-tried-and-tested-technology-innovatively.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-health-in-international-development-using-tried-and-tested-technology-innovatively.html</guid>
-        
-        <category>Global Health</category>
-        
-        <category>Innovation</category>
-        
-        <category>Human-centered design</category>
         
         
       </item>

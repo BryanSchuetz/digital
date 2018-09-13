@@ -9,12 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="I Made a Facebook Chatbot (And You Can, Too)">
-  <meta name="twitter:description" content="When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to junior high summers. Back then I was spending a lot of time in my ...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta name="twitter:title" content="Thinking About the User Part I: Design Considerations for Mobile Apps">
+  <meta name="twitter:description" content="Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, a...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/ux_ui.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>I Made a Facebook Chatbot (And You Can, Too)</title>
-  <meta name="description" content="When I first heard that Facebook Messenger was introducing chatbots, I immediately thought back to junior high summers. Back then I was spending a lot of tim...">
+  <title>Thinking About the User Part I: Design Considerations for Mobile Apps</title>
+  <meta name="description" content="Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. T...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://dai-global-digital.com/facebook-chatbot.html">
+  <link rel="canonical" href="https://dai-global-digital.com/app-ui.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,113 +98,66 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">I Made a Facebook Chatbot (And You Can, Too)</h1>
+    <h1 class="post-title">Thinking About the User Part I: Design Considerations for Mobile Apps</h1>
       
       
     <div class="post-details">
-      <p class="post-details--date">Feb 14, 2017</p>
+      <p class="post-details--date">Sep 11, 2018</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/adam-fivenson/" class="without-style">Adam Fivenson
+      <p class="post-details--byline">By <a href="/authors/trevor-olexy/" class="without-style">Trevor Olexy
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=innovation" class="without-style">Innovation</a></span> • <span class="post-topic"><a href="/tags/?tag=think-piece" class="without-style">Think Piece</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=human-centered-design" class="without-style">Human-centered design</a></span> • <span class="post-topic"><a href="/tags/?tag=ui/ux-series" class="without-style">UI/UX series</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>When I first heard that <a href="https://techcrunch.com/2016/04/12/agents-on-messenger/">Facebook Messenger was introducing</a> chatbots, I immediately thought back to junior high summers. Back then I was spending a lot of time in my parents’ basement on the computer–safe from harmful things like sunshine and other people–getting into flame wars with people on <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a> that (more often than not) turned out to be chatbots. Not my greatest summer. Fast forward some 20 years, and chatbots are back with a vengence, this time with a significantly improved value proposition: (near) last mile access to native language information and services.</p>
-
-<p><img src="/uploads/pixabey.PNG" alt="pixabey.PNG" /></p>
-
-<blockquote>
-  <p><a href="https://blog.hubspot.com/marketing/facebook-bots-guide">Primer: What is a Facebook chatbot?</a></p>
-</blockquote>
-
-<p>Our <a href="https://dai-global-digital.com/tags/?tag=digital-insights">Digital Insights</a> research in <a href="https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html">Indonesia</a>, <a href="https://dai-global-digital.com/mobiles-in-central-america-digital-insights-honduras-part-2.html">Honduras</a>, and <a href="https://dai-global-digital.com/consumer-insights-palestine-e-governance-readiness.html">Palestine</a> emphasized the popularity of Facebook and FB Messenger in the marginalized communities where DAI and other development implementers work. In Indonesia, 77 percent of the people we interviewed said they use Facebook on their phones; in Palestine that number was <strong>95 percent</strong>. In Honduras, 80 percent of our respondents across urban and rural areas said they use Facebook. If development projects want to reach people with information and services, we must meet them on the platforms where they already spend time: in more and more cases, as access to the internet, smartphones, and social media grow, that means on Facebook. (No, not exclusively and not in all instances. read our <a href="https://dai-global-digital.com/where-whatsapp-is-just-another-bbm-clone-digital-insights-indonesia.html">Indonesia post</a>, and see which social media messaging app is king there.)</p>
+    <p>Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, and frankly, most users probably never notice (or maybe don’t realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies.</p>
 
 <!--more-->
 
-<h2 id="why-chatbots">Why Chatbots?</h2>
+<p><img src="/uploads/business%20design.jpg" alt="business design.jpg" /></p>
 
-<p>A chatbot presents some distinct advantages as an outreach and engagement tool:</p>
+<p>I think fast, I click fast, and I want my app to move fast, too. I want to go where I want as fast as possible, and I don’t want to have to work too hard to find what I’m looking for. Too often I find that icons don’t make sense or are placed in a location on the screen that is not necessarily intuitive.</p>
 
-<ol>
-  <li>
-    <p>As users move <a href="http://www.businessinsider.com/the-messaging-app-report-2015-11">from traditional broadcast social media to private messaging apps</a>, the challenge for the Facebooks of the world (OK, there’s only one) is how to stay relevant in a Snapchat world. Facebook’s answer, as of April 2014, was to grandfather Messenger in as a replacement to the traditional Facebook private messaging function on mobile phones, pushing users to download Messenger. The result is that <strong>a lot</strong> of people have Messenger on their phones: somewhere around a billion, in fact. Only Facebook’s other messaging app, WhatsApp, rivals Messenger in terms of global uptake.</p>
-  </li>
-  <li>
-    <p>The need to download and install apps is a barrier to entry for many people. Many phones come pre-loaded with Facebook and WhatsApp, many users only have spotty access to mobile data and WiFi, and many have limited on-board memory, making it difficult to introduce and install an entirely new app. As <a href="http://www.economist.com/news/business-and-finance/21696477-market-apps-maturing-now-one-text-based-services-or-chatbots-looks-poised">The Economist duly notes,</a> “Building apps and promoting them is getting more costly. Meanwhile, users’ enthusiasm is waning, as they find downloading apps and navigating between them a hassle. A quarter of all downloaded apps are abandoned after a single use.” As an app designer myself (see the <a href="https://dai-global-digital.com/citizen-centered-design-guatemala.html">municipal budget transparency app</a> we just launched in Guatemala), my experience has been that there are instances where it does make sense to develop an app, but often times it’s easier to introduce a new service through a familiar interface and platform (i.e., FB Messenger) than trying to introduce an entirely new app or web site.</p>
-  </li>
-  <li>
-    <p>Chatbots generally require less bandwidth than loading a web page or downloading an app to your phone, and mobile data is expensive! According to <a href="http://a4ai.org/affordability-report/report/2015/#the_affordability_drivers_index_(adi)">A4AI’s 2015 Internet Affordability Report</a>, people in some countries pay upwards of 40 percent of their income for mobile access. In that context, every kilobyte counts! Lighter data usage lowers the cost of <a href="https://www.facebook.com/messages/t/pizzahutus">ordering food</a>, <a href="https://www.facebook.com/messages/t/hiponcho">checking the weather</a>, or <a href="https://www.facebook.com/HealthTap/">diagnosing an illness</a>.</p>
-  </li>
-  <li>
-    <p>I don’t know about you, but any time I have to spend more than 2 minutes on an IVR or automated call-in line, I mash the 0 key until I get a human on the line. Similarly, if they’re well designed, chatbots can be a more intuitive form of interaction than a web page or app for a user (or call-in line). From the perspective of the average concerned citizen, it’s probably easier to open up Facebook Messenger and have a conversation with a municipal “representative” (chatbot) to report a downed telephone pole than it is to use even even the best-designed SeeClickFix-style system.</p>
-  </li>
-  <li>
-    <p>From a management perspective, a chatbot is essentially a nearly-free way to take the burden off staff for answering clients’/citizens’ questions, take orders, and provide information, freeing up staff time to focus on other work.</p>
-  </li>
-</ol>
+<p><a href="https://uxdesign.cc/">UXdesign.cc</a> has wonderful articles about user experience (UX) and user interface (UI) design that are worth reading if you are curious about UI design (here’s one of my <a href="https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c">favorite case studies</a>). Aside from personal experience and intuition of the designer, it is important to incorporate research into the design process, particularly into the psychology of human interactions with technology.</p>
 
-<h2 id="building-a-bot">Building a Bot</h2>
+<h2 id="human-technology-interaction">Human-Technology Interaction</h2>
 
-<p><a href="http://www.chatfuel.com">Chatfuel</a>, <a href="https://botsify.com/">Botsify</a>, and <a href="https://www.onsequel.com/">OnSequal</a> (among others) all make the process of creating a chatbot simple enough even for a code dunce like myself, as a recent posting in Social Media Examiner–<a href="http://www.socialmediaexaminer.com/how-to-create-facebook-messenger-chatbot/">How to Create Facebook Messenger Chatbots–</a>showed. I chose Chatfuel because the tutorial in Social Media Examiner gave detailed instructions on the platform and it seemed easy enough to follow.</p>
+<p>Humans vary greatly—even though our DNA doesn’t. What I expect from an app can, and likely will, be worlds apart from what the next user wants from an app, and different from the next user, and the next, and so on. However, there are also ways, by virtue of human physiology, that users are very much alike. By utilizing behavioral research, designers can hone in on aspects of the human-technology interaction that neither designers nor users would ever have expected to affect their decisions. This facilitates designing to target specific aspects of the user’s attention, tailored to what the app has to offer.</p>
 
-<h2 id="siti-job-search-bot-for-indonesia">Siti, Job Search Bot for Indonesia</h2>
+<p>This isn’t the platform to dive deep into each psychological or perceptual mechanism that well-thought-out UI can address, but check out the list of high-level considerations below, borrowed from a <a href="http://www.methodsandtools.com/archive/archive.php?id=126">well-written article</a> about psychology and UX:</p>
 
-<p>What did I build? My chatbot uses natural language (yeah, it’s in English; my Bahasa game is weak) to make it quick and easy for Indonesians to scan three popular job web sites: 1) <a href="http://www.jobstreet.co.in">JobStreet</a>, 2) <a href="http://www.jobsinjakarta">Jobs in Jakarta</a>, and 3) <a href="http://www.jobrank.org/id/">JobRank</a> for jobs in their town. It asks the user to enter a location and job interest, which it turns into a Google query. The bot presents the results as a gallery of clickable sliders, which take the user directly to the job listing. Check it out: <a href="https://www.youtube.com/watch?v=LS32bAUT1CM">https://www.youtube.com/watch?v=LS32bAUT1CM</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LS32bAUT1CM" frameborder="0" allowfullscreen=""></iframe>
-
-<h2 id="now-try-siti-live">Now, Try Siti Live</h2>
-
-<p><a href="https://www.messenger.com/t/1276881939061378"><img src="/uploads/blue-button-hi2.png" alt="blue-button-hi2.png" /></a></p>
-
-<p><em>Click the button or search for Siti in Messenger</em></p>
-
-<p>How did I make this bot? It was surprisingly easy.</p>
+<h2 id="10-things-to-about-human-psychology-that-should-inform-ux-design">10 Things to About Human Psychology That Should Inform UX Design:</h2>
 
 <ol>
-  <li>
-    <p>I made a <a href="http://www.chatfuel.com">Chatfuel</a> account and linked it to my Facebook account.</p>
-  </li>
-  <li>
-    <p>I made a <a href="https://www.facebook.com/Siti-1276881939061378">Facebook page</a> for my chatbot. Frankly, it’s not a landing page, and few people will ever see it, so I didn’t worry about what it would look like.</p>
-  </li>
-  <li>
-    <p>I learned how to design a simple chatbot by setting up a few choose-your-own-adventure style bots and testing them. I won’t embarrass myself (or the platform) by sharing them, but Chatfuel’s GUI is excellent, very intuitive, and they have <a href="https://help.chatfuel.com/facebook-messenger/">tutorials</a> that walk you through the process step-by-step. It’s a relatively easy system to learn once you start to play around a bit.</p>
-  </li>
-  <li>
-    <p>I checked Google to figure out which job sites were most popular in Indonesia and built them into my search engine (see step 7).</p>
-  </li>
-  <li>
-    <p>I looked through those job sites, categorized the jobs, selected the most popular locations and put them into the app’s workflow as lists of choices (the app also allows the user to type in their location and preferred job if either is not on the list). I also wanted to ensure that the list options’ syntax was consistent to what the job pages I included used, as the list options are what the bot uses to design the Google search string.</p>
-  </li>
-  <li>
-    <p>The most difficult part was setting up the Google search function within the chatbot. But, once again Chatfuel provided an <a href="https://help.chatfuel.com/facebook-messenger/plugins/google-search/">excellent tutorial</a> on how to handle it.</p>
-  </li>
-  <li>
-    <p>Lots of user testing! I spent a lot of time running through the app to make sure that its responses actually made sense throughout the conversation. I also reviewed the job results provided and removed a few of the pages I had initially included for the search engine because they provided poor results. Finally, I finagled a few friends into trying it out, helping me suss out typos and non-natural language, and general errors in flow.</p>
-  </li>
-  <li>
-    <p>There are many more features and plugins that I haven’t even tried yet in the Chatfuel platform, including an option to include natural language processing and machine learning. I haven’t incorporated those features yet, but I’ll be looking to do so with my next bot.</p>
-  </li>
+  <li>People don’t want to work or think more than they have to.</li>
+  <li>People have limitations.</li>
+  <li>People make mistakes.</li>
+  <li>Human memory is complicated.</li>
+  <li>People are social.</li>
+  <li>People are easily distracted.</li>
+  <li>People crave information.</li>
+  <li>Most mental processing is unconscious.</li>
+  <li>People create mental models.</li>
+  <li>People understand visual systems.</li>
 </ol>
 
-<h2 id="relevance-to-ict4d">Relevance to ICT4D</h2>
+<h2 id="human-centered-design-for-apps-is-still-lacking">Human-Centered Design for Apps is Still Lacking</h2>
 
-<p>Chatbots are a rapidly growing medium as businesses, governments, civil society organizations, and businesses come to understand the their potential. Meanwhile, citizens/customers/constituents are becoming more comfortable communicating with the concept of chatbots through Facebook’s active efforts to promote successful bots. This rapid confluence of interest and opportunity is the reason why big companies like Barclays are <a href="http://www.bankingtech.com/483822/barclays-africa-to-trial-first-bank-chatbot-in-africa/">taking risks and developing chatbots</a> for their overseas audiences.</p>
+<p>The consideration of users in the design process has definitely increased in the design discipline, but personally, the more I use mobile apps, the less I want to use mobile technology at all. I am human; where is the human-centered design for apps?</p>
 
-<p>While Siti is simplistic, it’s a useful minimum viable product for the type of innovations–grounded in local tech usage patterns and easy to design and update–that will likely dominate the nexus of technology and international development during the coming years.</p>
+<p>This is largely reactionary and comes from my own previous experiences and reflections, but my impression is that app designers tend to build products that satisfy their own view of their product’s potential role in the market segment they are engaging in rather than the most useful product that address the real concerns of the potential users. For example, a programmer creating an agriculture app might design based on what they know, or think they know, about the sector and can easily miss out on (or extraneously add) key features or functionality that users truly need (or don’t need at all). Some of the best apps spend the extra time getting into the details: Airbnb’s app focuses on providing the most important information at first view. These companies are more often than not beyond startup stage. User research often takes a significant amount of money and time—assets startups don’t usually have.</p>
 
-<h2 id="chatbot-live">Chatbot Live</h2>
-<p>ICTworks is re-publishing this post, so I thought it would be interesting to track usage of Siti. Each time someone completes a job search, the bot pulls data on the job and location of the search as well as the user’s gender, location, and timezone. No name or personally identifying information is collected. See the graphic below, updated every 5 minutes.</p>
+<h2 id="the-insider-perspective">The Insider Perspective</h2>
 
-<script id="infogram_0_8a7b2bcc-3012-4ed1-afd3-ccd9ff2fef29" title="Chatbot" src="//e.infogram.com/js/dist/embed.js?LoO" type="text/javascript"></script>
+<p>To be fair, I would venture to say that all app designers think about the usability of their apps, but few achieve ideal and smooth operation. Enter graphic designers and UI experts. I can build web applications all day long, but I (really we, as in our development team) always iteratively defer to users for feedback on design, because once you are on the inside of project, it can be difficult to isolate your intimate knowledge of a platform from the idea that a first-time user may have no idea what they are looking at—despite your best efforts. The need for this exercise in humility and human-centered design cannot be understated.</p>
 
-<p><em>Do you have an idea for a cool chatbot for international development? Have you seen a good chatbot in action? Let us know on <a href="http://www.twitter.com/DAIGlobal">Twitter</a> or <a href="https://www.facebook.com/DAIGlobal/">Facebook</a>.</em></p>
+<p>If we as designers and programmers can remove ourselves from the internal plumbing of applications and come face to face with the user experience, we just may be able to create more inclusive and useful applications. Thankfully, an ever-increasing number of designers are focused on this. Not all achieve perfect UI (is that possible?) but we are on the right track. Unfortunately, I come across apps with lacking UI more often than I should.</p>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/facebook-chatbot.html" data-width="100%" data-numposts="5"></div> -->
+<p>Part two of this post will have a few examples of my (very subjective) opinion on well-designed apps and those that I often—or always—get hung up using. Stay tuned.</p>
+
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/app-ui.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -232,18 +185,6 @@
   
   
     
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
     
   
   
@@ -254,12 +195,10 @@
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/fortnite-for-international-development.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/fortnite-superhero-art-01-ps4-us-27apr18.jpg);"></div><span class="related-item-text">Fortnite for International Development?</span></a></li>
-            
-            
-            
+        
+          
+          
+        
       
     
     
@@ -307,9 +246,38 @@
         
           
           
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/rising-tide-icts-for-accountability.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Ray.png);"></div><span class="related-item-text">The Rising Tide of ICTs for Accountability</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Simprints1-copy.jpg);"></div><span class="related-item-text">Essential Actions: A Human-Centred, Global Approach to Privacy Rights</span></a></li>
             
             
             
@@ -359,7 +327,25 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/take-it-to-the-farmer-behind-the-scenes-of-the-fall-armyworm-tech-prize-co-creation.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/FAW_img1_SM.png);"></div><span class="related-item-text">Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/dai-featured-on-this-is-hcd-podcast.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/blog%20header.PNG);"></div><span class="related-item-text">DAI’s Center for Digital Acceleration Featured on Podcast</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/digital-health-in-international-development-using-tried-and-tested-technology-innovatively.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Screen%20Shot%202018-07-05%20at%202.16.25%20PM.png);"></div><span class="related-item-text">Digital Health in International Development: Using Tried & Tested Technology Innovatively</span></a></li>
             
             
             
@@ -378,9 +364,38 @@
         
           
           
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/a-time-of-change-and-reflection.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Bomb-attack-Addis-Ababa.jpg);"></div><span class="related-item-text">A Time of Change. And Reflection.</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/coffee-cloud-the-digital-project-for-central-american-coffee-growers.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Screen%20Shot%202018-06-12%20at%201.48.35%20PM.png);"></div><span class="related-item-text">Coffee Cloud: The Digital Project for  Central American Coffee Growers</span></a></li>
             
             
             

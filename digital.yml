@@ -1,4 +1,14 @@
 
+- title: "Thinking About the User Part I: Design Considerations for Mobile Apps"
+  pub: "Digital"
+  date: 2018-09-11
+  link: "https://dai-global-digital.com/app-ui.html?utm_source=daidotcom"
+  summary: "Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, and frankly, most users probably never notice (or maybe don’t realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+    - UI/UX series 
+
 - title: "Fortnite for International Development?"
   pub: "Digital"
   date: 2018-09-06
@@ -212,14 +222,4 @@ As a data scientist, I spend a lot of my time working in a programming language 
     - digital acceleration 
     - Coding 
     - Open Source Series 
-
-- title: "ICT4D Conference: Unpacking the Complexities of Integrated Health Data and Data Ownership"
-  pub: "Digital"
-  date: 2018-05-15
-  link: "https://dai-global-digital.com/ict4d-conference-unpacking-the-complexities-of-integrated-health-data-and-data-ownership.html?utm_source=daidotcom"
-  summary: "“We are at an inflection point in digital development!” Lauren Woodman, CEO of NetHope, boomed over the crowd of 750-plus participants the first day of the recent ICT4D Conference in Lusaka, Zambia. It may indeed be a critical time for technology, but the means of reaching our collective goals can create healthy disagreements, ones that should be unpacked in exactly the kind of setting the ICT4D Conference creates."
-  tags:
-    - digital acceleration 
-    - Think Piece 
-    - Global Health 
 
