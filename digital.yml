@@ -1,4 +1,14 @@
 
+- title: "Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital Development"
+  pub: "Digital"
+  date: 2018-09-19
+  link: "https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=daidotcom"
+  summary: "We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and subscribe to our newsletter if this topic interests you!"
+  tags:
+    - digital acceleration 
+    - Cyber Security 
+    - Digital Inclusion 
+
 - title: "Fortnite for International Development?"
   pub: "Digital"
   date: 2018-09-14
@@ -210,16 +220,4 @@ Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chi
     - Human-centered design 
     - Guatemala 
     - Governance 
-
-- title: "Getting Started With RStudio, Part 1"
-  pub: "Digital"
-  date: 2018-05-24
-  link: "https://dai-global-digital.com/getting-started-with-rstudio.html?utm_source=daidotcom"
-  summary: "This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.
-
-As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R."
-  tags:
-    - digital acceleration 
-    - Coding 
-    - Open Source Series 
 
