@@ -1,14 +1,4 @@
 
-- title: "Kosmos Innovation Center wins 2018 P3 Impact Award"
-  pub: "Digital"
-  date: 2018-09-26
-  link: "https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html?utm_source=daidotcom"
-  summary: "We’re so excited that the Kosmos Innovation Center—the Kosmos Energy-funded project DAI helps implement in Ghana—was announced the winner of the 2018 P3 Impact Award at the annual Concordia Summit in New York, that takes place alongside the United Nations General Assembly."
-  tags:
-    - digital acceleration 
-    - Agriculture 
-    - Entrepreneurship 
-
 - title: "Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital Development"
   pub: "Digital"
   date: 2018-09-19
@@ -214,4 +204,20 @@ To help address this challenge, the U.S. Agency for International Development (U
     - Digital Inclusion 
     - Human-centered design 
     - Digital Financial Services 
+
+- title: "Replicando la App de Transparencia en Guatemala"
+  pub: "Digital"
+  date: 2018-05-25
+  link: "https://dai-global-digital.com/replicando-app-transparencia-guatemala.html?utm_source=daidotcom"
+  summary: "Note this post is also available in English
+
+El pasado mes de febrero del año en curso, retorné a Guatemala con el fin de dar seguimiento a una iniciativa tecnológica denominada Somos Chiantla, que promueve la participación ciudadana y la rendición de cuentas en el municipio de Chiantla, en el departamento de Huehuetenango. De igual manera visité los municipios de Sacapulas y San Rafael Pie de la Cuesta, con el fin de replicar esta herramienta en estos dos municipios, con un enfoque eminentemente participativo y colaborativo, considerando propuestas de autoridades de gobierno local y representantes de la sociedad civil para personalizar la aplicación atendiendo a sus gustos y preferencias.
+
+
+Un participante en Sacapulas vota por las mejores formas de actualizar Somos Chiantla."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+    - Guatemala 
+    - Governance 
 
