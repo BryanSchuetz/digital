@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Sep 2018 08:48:21 -0400</pubDate>
-    <lastBuildDate>Thu, 27 Sep 2018 08:48:21 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Sep 2018 08:51:00 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Sep 2018 08:51:00 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -42,14 +42,10 @@
         <link>https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</guid>
         
-        <category>open data</category>
-        
-        <category>knowledge management</category>
-        
-        <category>geospatial</category>
-        
-        
         <category>Data</category>
+        
+        <category>GIS</category>
+        
         
       </item>
     
