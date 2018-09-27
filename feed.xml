@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Sep 2018 14:44:13 -0400</pubDate>
-    <lastBuildDate>Wed, 26 Sep 2018 14:44:13 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Sep 2018 08:48:21 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Sep 2018 08:48:21 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -25,6 +25,31 @@
         
         <category>Entrepreneurship</category>
         
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202018-09-17%20at%2011.31.37%20AM.png" medium="image" /> 
+        <title>The Americas’ Effort to Integrate, Distribute, and Use Open Data to Make Decisions</title>
+        <description>&lt;p&gt;I was happy to represent DAI’s Center for Digital Acceleration in the &lt;a href=&quot;https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html&quot;&gt;AmeriGEOSS week&lt;/a&gt; recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png&quot; alt=&quot;Screen Shot 2018-09-12 at 2.14.19 PM.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Sep 2018 16:11:00 -0400</pubDate>
+        <author>Alejandro Solis
+</author>
+        <link>https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</guid>
+        
+        <category>open data</category>
+        
+        <category>knowledge management</category>
+        
+        <category>geospatial</category>
+        
+        
+        <category>Data</category>
         
       </item>
     
@@ -184,29 +209,6 @@
         <category>Data</category>
         
         <category>Human-centered design</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FAW_img1_SM.png/uploads/FAW_img1_SM.png" medium="image" /> 
-        <title>Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation</title>
-        <description>&lt;p&gt;Along with human-centered design and lean startup, co-creation is an approach arising to prominence in the development lexicon over the past five years. Some of us (myself included) have used “co-creation” without  understanding what it means, simply assuming it was an event that brings together a variety of partners to brainstorm ideas to solve a problem. Only when I attended the &lt;a href=&quot;https://fallarmywormtech.challenges.org/&quot;&gt;Fall Armyworm Tech Prize&lt;/a&gt; co-creation workshop from June 26 to 29 in Kampala, Uganda, did I grasp the nuances of co-creation and realize the significant benefits it holds for the end users of co-created products.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 16 Jul 2018 15:34:00 -0400</pubDate>
-        <author>Talia Dweck
-</author>
-        <link>https://dai-global-digital.com/take-it-to-the-farmer-behind-the-scenes-of-the-fall-armyworm-tech-prize-co-creation.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/take-it-to-the-farmer-behind-the-scenes-of-the-fall-armyworm-tech-prize-co-creation.html</guid>
-        
-        <category>Co-creation</category>
-        
-        <category>Fall Armyworm</category>
-        
-        <category>Innovation</category>
-        
-        <category>Agriculture</category>
         
         
       </item>
