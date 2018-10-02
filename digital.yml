@@ -102,6 +102,16 @@ In a previous post we introduced the R programming language, RStudio as a develo
     - Data 
     - Human-centered design 
 
+- title: "Coffee Cloud: El proyecto digital para los caficultores de Centroamérica"
+  pub: "Digital"
+  date: 2018-07-25
+  link: "https://dai-global-digital.com/coffee-cloud-el-proyecto-digital-para-los-caficultores-de-centroamerica.html?utm_source=daidotcom"
+  summary: "Del 2010 al 2014, el grano de café de América Central sufrió una enfermedad que sacudió las economías de la región. Las exportaciones disminuyeron en un 55 por ciento. De 2012 a 2013, se perdieron 374,000 empleos correspondiente al 17 por ciento de la fuerza de trabajo.  La Roya, o roya del café, amenazaba los medios de subsistencia de casi 2 millones."
+  tags:
+    - digital acceleration 
+    - diseño centrado en el humano 
+    - agricultura 
+
 - title: "Take it to the Farmer: Behind the Scenes of the Fall Armyworm Tech Prize Co-Creation"
   pub: "Digital"
   date: 2018-07-16
@@ -203,14 +213,4 @@ To help address this challenge, the U.S. Agency for International Development (U
   tags:
     - digital acceleration 
     - Digital Inclusion 
-
-- title: "Working With Tech Service Providers: It’s About More Than Tech"
-  pub: "Digital"
-  date: 2018-06-04
-  link: "https://dai-global-digital.com/working-with-tech-service-providers-its-about-more-than-tech.html?utm_source=daidotcom"
-  summary: "Are you a nonprofit focused on improving maternal health outcomes? Or maybe you’re a civic engagement organization that encourages young people to become more involved with their local governments. No matter the objective, technology can both help you be more efficient internally and more impactful externally. The idea of tech is often easy: “Oh, we’ll just build an app for that!” But relationships with technical service providers are fraught with pitfalls that can jeopardize outcomes and derail even the best intentions."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Digital Principles 
 
