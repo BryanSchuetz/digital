@@ -5,28 +5,9 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 09:08:43 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 09:08:43 -0400</lastBuildDate>
+    <pubDate>Wed, 10 Oct 2018 09:11:13 -0400</pubDate>
+    <lastBuildDate>Wed, 10 Oct 2018 09:11:13 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/ict4drinks2.jpg" medium="image" /> 
-        <title>September 2018 ICT4D Happy Hour Roundup: Were You There?</title>
-        <description>&lt;p&gt;Happy hours are the sinew of the ICT4D community: They are how we connect. For a few hours each month, we put aside the titles, affiliations, competition, and enjoy each other’s company over a few drinks.&lt;/p&gt;
-
-&lt;p&gt;September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 03 Oct 2018 18:14:00 -0400</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</guid>
-        
-        <category>ICT</category>
-        
-        
-      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/blog.PNG" medium="image" /> 
@@ -79,7 +60,7 @@
 
 &lt;p&gt;Clima Pesca is available at &lt;a href=&quot;http://www.climapesca.org&quot;&gt;www.climapesca.org&lt;/a&gt;, &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.climapesca.app&quot;&gt;Google Play&lt;/a&gt;, and &lt;a href=&quot;https://itunes.apple.com/cr/app/clima-pesca-digital/id1384684221?mt=8&quot;&gt;Apple Store&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 01 Oct 2018 16:00:00 -0400</pubDate>
+        <pubDate>Wed, 10 Oct 2018 04:00:00 -0400</pubDate>
         <author>Alejandro Solis
 </author>
         <link>https://dai-global-digital.com/fishing-with-smartphones.html</link>
@@ -93,6 +74,25 @@
         
         
         <category>Innovation</category>
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ict4drinks2.jpg" medium="image" /> 
+        <title>September 2018 ICT4D Happy Hour Roundup: Were You There?</title>
+        <description>&lt;p&gt;Happy hours are the sinew of the ICT4D community: They are how we connect. For a few hours each month, we put aside the titles, affiliations, competition, and enjoy each other’s company over a few drinks.&lt;/p&gt;
+
+&lt;p&gt;September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Oct 2018 18:14:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</guid>
+        
+        <category>ICT</category>
+        
         
       </item>
     
