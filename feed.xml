@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Oct 2018 15:10:12 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Oct 2018 15:10:12 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Oct 2018 10:14:19 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Oct 2018 10:14:19 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/trevor%201.jpg" medium="image" /> 
+        <title>DFID and DAI Host Malawi’s First Digital Development Forum</title>
+        <description>&lt;p&gt;Over the last few weeks, DAI’s Center for Digital Acceleration has been working closely with the U.K. Department for International Development (DFID)’s Malawi office to conduct a digital scoping study of its portfolio. Building on some of the &lt;a href=&quot;https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html&quot;&gt;user research&lt;/a&gt; we’ve conducted in Malawi, we’re identifying areas where DFID can make small, focused investments in digital innovations to improve the impact of its programs. And we’re also helping the team build relationships with the small, but growing, group of Malawian technologists tackling development challenges with digital tools. As part of this effort, we put together DFID’s first-ever Malawi Digital Development Forum last week, which brought together local technologists, development implementers, government decision-makers, and DFID staff for a day-long technology exchange.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Oct 2018 10:39:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/anand-varghese/">Anand Varghese</a>
+</author>
+        <link>https://dai-global-digital.com/dfid-and-dai-host-malawis-first-digital-development-forum.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/dfid-and-dai-host-malawis-first-digital-development-forum.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/blog.PNG" medium="image" /> 
@@ -184,25 +203,6 @@
         <category>Digital Inclusion</category>
         
         <category>Digital Principles</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Ray.png" medium="image" /> 
-        <title>The Rising Tide of ICTs for Accountability</title>
-        <description>&lt;p&gt;A tectonic shift is taking place in commerce, and we’re all a part of it. At its core, it boils down to one concept: accountability. The accelerating movement toward web-based management tools, data analytics, and automation among businesses—coupled with the rapid growth in mobile phone technology—has reduced the cost of doing business, slashed barriers to entry, and reduced the time elapsed from concept to market-ready solution. The result is increased competition, more customer choice, greater accountability to the customer, and the sound of the sledgehammer falling upon formerly protected industries. Customers in the many business-to-consumer verticals (&lt;a href=&quot;https://www.washingtonpost.com/news/theworldpost/wp/2018/08/13/middle-class/?hpid=hp_no-name_opinion-card-f-2%3Ahomepage%2Fstory&quot;&gt;admittedly not all&lt;/a&gt;) have more bargaining power than ever before, and can hold businesses accountable for poor performance by downloading a competitor’s solution with a few simple clicks.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Aug 2018 16:04:00 -0400</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/rising-tide-icts-for-accountability.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/rising-tide-icts-for-accountability.html</guid>
-        
-        <category>Governance</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
