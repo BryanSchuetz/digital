@@ -21,6 +21,15 @@ In Central America, some of those ‘left behind’ include more than 135,000 fi
     - Human-centered design 
     - Data Visualization 
 
+- title: "Cyber Security Series Part 2: Understanding Cyber Security as Part of the Digital Development Conversation"
+  pub: "Digital"
+  date: 2018-10-09
+  link: "https://dai-global-digital.com/cyber-security-2.html?utm_source=daidotcom"
+  summary: "In our first post in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development."
+  tags:
+    - digital acceleration 
+    - Cyber Security Series 
+
 - title: "September 2018 ICT4D Happy Hour Roundup: Were You There?"
   pub: "Digital"
   date: 2018-10-03
@@ -202,14 +211,4 @@ Have questions? Email DigitalFrontiers@dai.com."
   tags:
     - digital acceleration 
     - Digital Inclusion 
-
-- title: "Catching Up with the Winners of MIT’s Grand Hack for Health"
-  pub: "Digital"
-  date: 2018-06-26
-  link: "https://dai-global-digital.com/MIT-hacking-health-winners.html?utm_source=daidotcom"
-  summary: "Let me start by saying that the Massachusetts Institute of Technology’s (MIT) Grand Hack is kind of a big deal. I don’t make the point as an affront to other hackathons—certainly not DAI’s own—but not many other hackathons can claim to have generated more than $150 million in venture capital and spawned more than 40 viable companies. Those two facts qualify the Grand Hack for royalty status among hackathons, which makes it even more surprising that the event is run entirely by students, MIT’s Hacking Health group. It’s also the reason why I was so excited to get a taste of MIT’s secret innovation sauce from the inside—as a mentor, alongside my colleague Kristen Roggemann."
-  tags:
-    - digital acceleration 
-    - Global Health 
-    - Innovation 
 

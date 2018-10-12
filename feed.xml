@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Oct 2018 10:14:19 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Oct 2018 10:14:19 -0400</lastBuildDate>
+    <pubDate>Fri, 12 Oct 2018 12:23:39 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Oct 2018 12:23:39 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -45,6 +45,23 @@
         <category>Human-centered design</category>
         
         <category>Data Visualization</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Puzzle%20Cyber.jpg" medium="image" /> 
+        <title>Cyber Security Series Part 2: Understanding Cyber Security as Part of the Digital Development Conversation</title>
+        <description>&lt;p&gt;In our &lt;a href=&quot;https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box&quot;&gt;first post&lt;/a&gt; in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 09 Oct 2018 12:16:00 -0400</pubDate>
+        <author>Galia Nurko
+</author>
+        <link>https://dai-global-digital.com/cyber-security-2.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cyber-security-2.html</guid>
+        
+        <category>Cyber Security Series</category>
         
         
       </item>
@@ -182,27 +199,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/august-round-up-top-number-ict4d-reads-you-may-have-missed.html</guid>
         
         <category>ICT</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/top%205-6b4a86.jpg" medium="image" /> 
-        <title>5 Top Resources for Digital Access Data</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/top%205-ed0419.jpg&quot; alt=&quot;top 5-ed0419.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The global community has recognized the importance of digital equality—affordable, universal internet access as one of the Sustainable Development Goals. When we are implementing digital programs, access and inclusion are key concerns: We don’t want to leave anyone behind.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 20 Aug 2018 10:12:00 -0400</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/5-top-resources-for-digital-access-data.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/5-top-resources-for-digital-access-data.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Principles</category>
         
         
       </item>
