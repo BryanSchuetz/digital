@@ -1,4 +1,13 @@
 
+- title: "Cyber Security Series Part 2: Understanding Cyber Security as Part of the Digital Development Conversation"
+  pub: "Digital"
+  date: 2018-10-12
+  link: "https://dai-global-digital.com/cyber-security-2.html?utm_source=daidotcom"
+  summary: "In our first post in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development."
+  tags:
+    - digital acceleration 
+    - Cyber Security Series 
+
 - title: "DFID and DAI Host Malawi’s First Digital Development Forum"
   pub: "Digital"
   date: 2018-10-10
@@ -20,15 +29,6 @@ In Central America, some of those ‘left behind’ include more than 135,000 fi
     - digital acceleration 
     - Human-centered design 
     - Data Visualization 
-
-- title: "Cyber Security Series Part 2: Understanding Cyber Security as Part of the Digital Development Conversation"
-  pub: "Digital"
-  date: 2018-10-09
-  link: "https://dai-global-digital.com/cyber-security-2.html?utm_source=daidotcom"
-  summary: "In our first post in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development."
-  tags:
-    - digital acceleration 
-    - Cyber Security Series 
 
 - title: "September 2018 ICT4D Happy Hour Roundup: Were You There?"
   pub: "Digital"
