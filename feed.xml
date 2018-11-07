@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 04:38:59 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 04:38:59 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 04:42:16 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 04:42:16 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ReportCover.PNG" medium="image" /> 
+        <title>Digital Inclusion and a Trusted Internet</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/ReportCover-d03d70.PNG&quot; alt=&quot;ReportCover-d03d70.PNG&quot; class=&quot;float-right&quot; /&gt; Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Nov 2018 08:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/jonathanjdolan">Jonathan Dolan</a>
+</author>
+        <link>https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/abacus-2-1529691-1278x730.jpg" medium="image" /> 
@@ -186,25 +205,6 @@
         <category>Agriculture</category>
         
         <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Cybersecurity.jpg" medium="image" /> 
-        <title>Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital Development</title>
-        <description>&lt;p&gt;We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and &lt;a href=&quot;https://confirmsubscription.com/h/r/066AFBA15492935C&quot;&gt;subscribe to our newsletter&lt;/a&gt; if this topic interests you!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 19 Sep 2018 15:15:00 -0400</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Cyber Security Series</category>
         
         
       </item>
