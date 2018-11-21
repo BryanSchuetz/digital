@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 10:57:43 -0500</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 10:57:43 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Nov 2018 09:22:53 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Nov 2018 09:22:53 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Group%20Photo%20GIZ.jpg" medium="image" /> 
+        <title>Human-Centered Design for a Digital Farmer Business School Application: A One-Day Roadmap</title>
+        <description>&lt;p&gt;Human-centered design (HCD) is a central focus of DAI’s. We’ve written extensively about how we work with our partners to follow this complex and time-consuming (but very important) process and even came up with a more concise, budget-friendly &lt;a href=&quot;https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html&quot;&gt;Lean HCD approach.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As part of our continued commitment to the approach, &lt;a href=&quot;https://dai-global-digital.com/authors/&quot;&gt;Karim Bin-Humam&lt;/a&gt; and I recently traveled to Ghana to run a workshop on HCD for the &lt;a href=&quot;https://www.ssab-africa.net/&quot;&gt;Sustainable Smallholder Agribusiness Programme (SSAB),&lt;/a&gt; implemented by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.&lt;/p&gt;
+
+&lt;p&gt;This was lean HCD on steroids: We asked participants to produce a HCD roadmap in just one day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/GIZ%20blog%201.jfif&quot; alt=&quot;GIZ blog 1.jfif&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Participants chose their methods from the ideo.org design kit.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 19 Nov 2018 09:36:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/human-centered-design-for-a-digital-farmer-business-school-application-a-strategy-built-within-1-day.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/human-centered-design-for-a-digital-farmer-business-school-application-a-strategy-built-within-1-day.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/WomenConnectSmall-e39657.jpg" medium="image" /> 
@@ -186,27 +211,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</guid>
         
         <category>ICT</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202018-09-12%20at%202.58.24%20PM.png" medium="image" /> 
-        <title>The Americas’ Effort to Integrate, Distribute, and Use Open Data to Make Decisions</title>
-        <description>&lt;p&gt;I was happy to represent DAI’s Center for Digital Acceleration at &lt;a href=&quot;https://www.amerigeoss.org/amerigeoss-events/amerigeoss-week-2018/index_html&quot;&gt;AmeriGEOSS week&lt;/a&gt; recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Screen%20Shot%202018-09-12%20at%202.14.19%20PM.png&quot; alt=&quot;Screen Shot 2018-09-12 at 2.14.19 PM.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 Sep 2018 08:11:00 -0400</pubDate>
-        <author>Alejandro Solis
-</author>
-        <link>https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html</guid>
-        
-        <category>Data</category>
-        
-        <category>GIS</category>
         
         
       </item>
