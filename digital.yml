@@ -1,14 +1,4 @@
 
-- title: "Powering Women’s Entrepreneurship in Cambodia"
-  pub: "Digital"
-  date: 2018-11-29
-  link: "https://dai-global-digital.com/powering-women-entrepreneurs-in-cambodia.html?utm_source=daidotcom"
-  summary: "Meet Lida Loem. She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of SHE Investments, a social enterprise helping Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10)."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-    - Entrepreneurship 
-
 - title: "Human-Centered Design for a Digital Farmer Business School Application: A One-Day Roadmap"
   pub: "Digital"
   date: 2018-11-19
@@ -214,4 +204,14 @@ In a previous post we introduced the R programming language, RStudio as a develo
     - digital acceleration 
     - Open Source Series 
     - Coding 
+
+- title: "Essential Actions: A Human-Centred, Global Approach to Privacy Rights"
+  pub: "Digital"
+  date: 2018-07-31
+  link: "https://dai-global-digital.com/beyond-good-intentions-a-human-centred-approach-to-privacy-rights.html?utm_source=daidotcom"
+  summary: "We’ve read the headlines: large-scale breaches of highly sensitive information in the United States, in the Philippines, in Nigeria, in India … the list goes on. The message is consistent: somebody, somewhere, needs to do something to protect us. Enter the General Data Protection Regulations (GDPR), the EU’s (in)famous answer to protecting the personal data of its citizens. Some applaud it as the world’s strictest privacy standards; others consider it outdated from the start. (We’re in the age of blockchain and AI; you tell me how to exercise right to erasure here.) Either way, GDPR concepts are useful to international development contexts."
+  tags:
+    - digital acceleration 
+    - Data 
+    - Human-centered design 
 

@@ -5,28 +5,9 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Nov 2018 12:06:28 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Nov 2018 12:06:28 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Nov 2018 12:40:38 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Nov 2018 12:40:38 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/lida%202.PNG" medium="image" /> 
-        <title>Powering Women’s Entrepreneurship in Cambodia</title>
-        <description>&lt;p&gt;Meet Lida Loem. She might look like a typical 20-something year old; however, she’s anything but. Lida is the co-founder of &lt;a href=&quot;https://www.sheinvestments.com/&quot;&gt;SHE Investments&lt;/a&gt;, a social enterprise helping Cambodian women turn their entrepreneurship skills up to 11 (yes, out of 10).&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Nov 2018 02:47:00 -0500</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/powering-women-entrepreneurs-in-cambodia.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/powering-women-entrepreneurs-in-cambodia.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Entrepreneurship</category>
-        
-        
-      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Group%20Photo%20GIZ.jpg" medium="image" /> 
@@ -211,6 +192,25 @@
         <category>Human-centered design</category>
         
         <category>Data Visualization</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ict4drinks2.jpg" medium="image" /> 
+        <title>September 2018 ICT4D Happy Hour Roundup: Were You There?</title>
+        <description>&lt;p&gt;Happy hours are the sinew of the ICT4D community: They are how we connect. For a few hours each month, we put aside the titles, affiliations, competition, and enjoy each other’s company over a few drinks.&lt;/p&gt;
+
+&lt;p&gt;September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Oct 2018 18:14:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html</guid>
+        
+        <category>ICT</category>
         
         
       </item>
