@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Dec 2018 15:13:22 -0500</pubDate>
-    <lastBuildDate>Mon, 03 Dec 2018 15:13:22 -0500</lastBuildDate>
+    <pubDate>Tue, 04 Dec 2018 13:01:41 -0500</pubDate>
+    <lastBuildDate>Tue, 04 Dec 2018 13:01:41 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png" medium="image" /> 
+        <title>Coming Soon: Global Digital Health Forum 2018 &amp; ICT4Drinks</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;http://www.cvent.com/events/2018-global-digital-health-forum/event-summary-a8f2c247c810491ca434c825e1e21d89.aspx?dvce=1&quot;&gt;Global Digital Health Forum&lt;/a&gt;—an annual meeting of health-focused government stakeholders, technologists, researchers, and donors from across the globe—is coming up December 10 through 11.&lt;/p&gt;
+
+&lt;p&gt;Three experts from DAI’s Center for Digital Acceleration will be featured at four separate events, so come find us! Full list below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/gdaaa.jpg&quot; alt=&quot;gdaaa.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 04 Dec 2018 09:00:00 -0500</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/Global-Digital-Health-Forum-2018-and-ICT4Drinks.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/Global-Digital-Health-Forum-2018-and-ICT4Drinks.html</guid>
+        
+        <category>Events</category>
+        
+        <category>Global Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/lida%202.PNG" medium="image" /> 
@@ -193,27 +216,6 @@ Meet Lida Loem. Lida is the co-founder of &lt;a href=&quot;https://www.sheinvest
         <category>Innovation</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/blog.PNG" medium="image" /> 
-        <title>Fishing with Smartphones</title>
-        <description>&lt;p&gt;Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President &lt;a href=&quot;https://www.worldbank.org/en/news/speech/2018/02/26/speech-by-world-bank-group-president-jim-yong-kim-at-the-gsma-2018-mobile-world-congress&quot;&gt;Jim Kim says&lt;/a&gt;, “We must continue to connect all people so that no one is left behind … because the loss of opportunities has a very high cost.”&lt;/p&gt;
-
-&lt;p&gt;In Central America, some of those ‘left behind’ include more than 135,000 fishermen. Without access to vital information about how climate change affects fishing, their very livelihoods are &lt;a href=&quot;https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-golpea-pesca-artesanal-en-litorales-centroamericanos/PMD2I4PAQRAJVPHFR6MCYBDDCY/story/&quot;&gt;under threat&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 10 Oct 2018 04:00:00 -0400</pubDate>
-        <author>Alejandro Solis
-</author>
-        <link>https://dai-global-digital.com/fishing-with-smartphones.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/fishing-with-smartphones.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Data Visualization</category>
         
         
       </item>
