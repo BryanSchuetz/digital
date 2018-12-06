@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Dec 2018 15:51:27 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Dec 2018 15:51:27 -0500</lastBuildDate>
+    <pubDate>Thu, 06 Dec 2018 14:08:50 -0500</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 14:08:50 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/headData.jpg" medium="image" /> 
+        <title>Data, Analysis, and Information (Not as Boring as It Sounds)</title>
+        <description>&lt;p&gt;If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -&amp;gt; analytics -&amp;gt; insights/information flow, but this blog is simply an opportunity for me to share my own thoughts. After all, what are we as good data stewards and scientists without proper debate?&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 05 Dec 2018 10:50:00 -0500</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/data-analysis-and-information.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/data-analysis-and-information.html</guid>
+        
+        <category>Data Management Series</category>
+        
+        <category>Digital Principles</category>
+        
+        
+        <category>Data Analysis</category>
+        
+        <category>Information</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/https%20_cdn.evbuc.com_images_53299219_143298100909_1_original.jpg.png" medium="image" /> 
@@ -197,25 +220,6 @@ Meet Lida Loem. Lida is the co-founder of &lt;a href=&quot;https://www.sheinvest
         <guid isPermaLink="true">https://dai-global-digital.com/cyber-security-2.html</guid>
         
         <category>Cyber Security Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/trevor%201.jpg" medium="image" /> 
-        <title>DFID and DAI Host Malawi’s First Digital Development Forum</title>
-        <description>&lt;p&gt;Over the last few weeks, DAI’s Center for Digital Acceleration has been working closely with the U.K. Department for International Development (DFID)’s Malawi office to conduct a digital scoping study of its portfolio. Building on some of the &lt;a href=&quot;https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html&quot;&gt;user research&lt;/a&gt; we’ve conducted in Malawi, we’re identifying areas where DFID can make small, focused investments in digital innovations to improve the impact of its programs. And we’re also helping the team build relationships with the small, but growing, group of Malawian technologists tackling development challenges with digital tools. As part of this effort, we put together DFID’s first-ever Malawi Digital Development Forum last week, which brought together local technologists, development implementers, government decision-makers, and DFID staff for a day-long technology exchange.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 10 Oct 2018 10:39:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/anand-varghese/">Anand Varghese</a>
-</author>
-        <link>https://dai-global-digital.com/dfid-and-dai-host-malawis-first-digital-development-forum.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/dfid-and-dai-host-malawis-first-digital-development-forum.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
