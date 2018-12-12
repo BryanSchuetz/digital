@@ -19,7 +19,7 @@ The [first post](https://dai-global-digital.com/cybersecurity-series-part-1-trus
 
 Software is used every day by billions of people to conduct tasks for businesses, government, civil society organizations, and academia. It is just another part of people’s routine; arrive to the office, turn on your computer, run a variety of programs, and get to work.
 
-![Pirated Software.png](/uploads/Pirated%20Software.png "image source credit here"){:.float-right style="width: 45%;"} Each program we use is built by software, a set of protocols that tell the program how to operate. To use software, we pay a fee and run updates to ensure we have access to the latest version. But not everyone pays a fee to gain access. Many around the world pirate software or content to gain access to a myriad of services for free.
+![Pirated Software.png](/uploads/Pirated%20Software.png "image from Nexiolaw"){:.float-right style="width: 45%;"} Each program we use is built by software, a set of protocols that tell the program how to operate. To use software, we pay a fee and run updates to ensure we have access to the latest version. But not everyone pays a fee to gain access. Many around the world pirate software or content to gain access to a myriad of services for free.
 
 In many low- and middle-income countries, purchasing and installing pirated software to conduct everyday business is common. Reasons for this vary and include high cost, lack of repercussions due to limited regulation, and lack of awareness. Regardless of the explanation, the threats of using pirated software, whether to help run a business or the daily operations of a government, should sound alarms for anyone concerned about cyber security.
 
