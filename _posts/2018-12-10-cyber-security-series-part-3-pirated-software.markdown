@@ -54,7 +54,7 @@ Take for example, [LibreOffice](https://www.libreoffice.org/about-us/who-are-we/
 
 These types of tools give users better choices, and in theory can help prevent the use of pirated software. All that said, using open source tools might not be the best option for government or excuse government from addressing the issue of piracy through legislation. If anything, open source software may just help build a more resilient digital economy, which can be critical when facing cyber security risks.
 
-***Lack of Awareness***
+## Lack of Awareness
 
 Lack of awareness can take several forms, but it boils down to limited knowledge. When it comes to software it might mean being unaware that the software you were sold was pirated or not understanding the risks associated with buying and installing pirated programs. Addressing this requires building the skills of people about the risks of pirated software. This is particularly critical for the government, civil society, academia, or the private sector, which might have access to sensitive information.
 
