@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Dec 2018 09:06:31 -0500</pubDate>
-    <lastBuildDate>Thu, 13 Dec 2018 09:06:31 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Dec 2018 09:50:27 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Dec 2018 09:50:27 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Pirated%20Software-161a1c.png" medium="image" /> 
+        <title>Cyber Security Series Part 3: Pirated Software</title>
+        <description>&lt;p&gt;It’s been about two months since I last contributed to the Cyber Security Series, but don’t let the time fool you into thinking we haven’t been engaging extensively on the topic. As many of you might remember, the Center for Digital Acceleration (CDA) published the &lt;em&gt;&lt;a href=&quot;https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html&quot;&gt;Digital Inclusion and a Trusted Internet&lt;/a&gt;&lt;/em&gt; report in October on the topic. For those of you who have not read it, I highly recommend it, particularly if you’re interested in cyber security or data privacy.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box&quot;&gt;first post&lt;/a&gt; in this series focused on the issue of trust and the &lt;a href=&quot;https://dai-global-digital.com/cyber-security-2.html&quot;&gt;second post&lt;/a&gt; argued that investment in regulations that support the enabling environment, strong institutions, and skills of the population are key to integrating cyber security across a country’s economy. This post focuses on a more micro-level challenge—pirated software—and how addressing it is key to responding to cyber security overall.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Dec 2018 08:30:00 -0500</pubDate>
+        <author>Galia Nurko
+</author>
+        <link>https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html</guid>
+        
+        <category>Cyber Security Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/headData.jpg" medium="image" /> 
@@ -203,23 +222,6 @@ Meet Lida Loem. Lida is the co-founder of &lt;a href=&quot;https://www.sheinvest
         <category>Entrepreneurship</category>
         
         <category>Economic Growth</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Puzzle%20Cyber.jpg" medium="image" /> 
-        <title>Cyber Security Series Part 2: Understanding Cyber Security as Part of the Digital Development Conversation</title>
-        <description>&lt;p&gt;In our &lt;a href=&quot;https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box&quot;&gt;first post&lt;/a&gt; in the 2018 Cyber Security Series, I discussed why cyber security should be a key consideration in the design of digital tools that help support sustainable development efforts. I highlighted that trust in digital tools should not be taken for granted, but rather constantly invested in by designing digital tools with user input, but also with security in mind. Now I will take a look at some of the other key analog complements that need to be considered when deploying secure, integrated digital systems for sustainable development.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Oct 2018 12:16:00 -0400</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/cyber-security-2.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cyber-security-2.html</guid>
-        
-        <category>Cyber Security Series</category>
         
         
       </item>
