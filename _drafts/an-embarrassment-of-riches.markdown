@@ -1,6 +1,11 @@
 ---
 title: An Embarrassment of Riches
-date: 2018-12-18 12:26:00 -05:00
+date: 2018-12-20 09:00:00 -05:00
+categories:
+- Global Health
+tags:
+- Digital Health
+- Digital Inclusion
 Author: Rachel Clad
 social-image: "/uploads/DigitalHealth-9b50d6.jpg"
 thumbnail: "/uploads/DigitalHealth-9b50d6.jpg"
