@@ -2,7 +2,8 @@
 title: An Embarrassment of Riches
 date: 2018-12-18 12:26:00 -05:00
 Author: Rachel Clad
-social-image: "/uploads/IQVIA-digital-health-diagram-06f2b9.jpg"
+social-image: "/uploads/DigitalHealth-9b50d6.jpg"
+thumbnail: "/uploads/DigitalHealth-9b50d6.jpg"
 ---
 
 Years ago, yours truly was struggling with a major life decision, one that had catalyzed many a sleepless night: Where to go to grad school? I’d been accepted into a number of programs and was agonizing over my options. My dad had graciously taken on the role of my sounding board until one day he blurted out in frustration, “you have an embarrassment of riches, Rachel. Just decide!”
@@ -14,7 +15,6 @@ Years ago, yours truly was struggling with a major life decision, one that had c
 It’s a perfectly weird and wonderful phrase, don’t you think? An “embarrassment of riches.” It popped into my brain at last week’s meeting of the Digital Health & Interoperability (DG&I) Working Group There I was, sitting in a room of folks from USAID, PATH, CDC, WHO, JSI, various Ministries of Health – a veritable smorgasbord of digital excellence – all of whom were saying virtually the same thing: We have an embarrassment of riches in digital health. An exciting trove of interventions that is having the unintended effect of paralyzing governments and others looking to harness the power of digital to overcome gaps in health services and achieve much needed positive health outcomes.
 
 ![DigitalHealth.jpg](/uploads/DigitalHealth.jpg)`Image from Eye for Pharma.`
-![IQVIA-digital-health-diagram.jpg](/uploads/IQVIA-digital-health-diagram.jpg)`Image from Healthpopuli.`
 
 This comes as no surprise, really. There were 325,000 mobile health apps available at the end of 2017, and the global mHealth app market is expected to be reach US$102.3 billion in 2023. There IS an app for that, I guarantee it.
 
