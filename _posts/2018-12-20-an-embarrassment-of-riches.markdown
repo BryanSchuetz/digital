@@ -20,7 +20,7 @@ Years ago, yours truly was struggling with a major life decision, one that had l
 
 It’s a perfectly weird and wonderful phrase, don’t you think? An “embarrassment of riches.” It popped into my brain at last week’s meeting of the [Digital Health & Interoperability (DG&I) Working Group](https://www.healthdatacollaborative.org/how-we-work/digital-health-interoperability-working-group/). There I was, sitting in a room of folks from USAID, PATH, CDC, WHO, JSI, various ministries of health—a veritable smorgasbord of digital excellence—all of whom were saying virtually the same thing: We have an embarrassment of riches in digital health. An exciting trove of interventions that is having the unintended effect of paralyzing governments and others looking to harness the power of digital to overcome gaps in health services and achieve much needed positive health outcomes.
 
-![DigitalHealth.jpg](/uploads/DigitalHealth.jpg)`Image from Eye for Pharma.`
+![DigitalHealth.jpg](/uploads/DigitalHealth.jpg)`Image from Eye for Pharma`
 
 This comes as no surprise, really. There were [325,000 mobile health apps](https://research2guidance.com/325000-mobile-health-apps-available-in-2017/) available at the end of 2017, and the global mHealth app market is expected to reach [US$102.3 billion in 2023](https://liquid-state.com/mhealth-apps-market-snapshot/). There *IS* an app for that, I guarantee it.
 
