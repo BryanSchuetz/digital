@@ -15,7 +15,7 @@ Years ago, yours truly was struggling with a major life decision, one that had l
 
 <!--more-->
 
-## Digital Health's Opportunity
+## Digital Health’s Opportunity
 
 It’s a perfectly weird and wonderful phrase, don’t you think? An “embarrassment of riches.” It popped into my brain at last week’s meeting of the [Digital Health & Interoperability (DG&I) Working Group](https://www.healthdatacollaborative.org/how-we-work/digital-health-interoperability-working-group/). There I was, sitting in a room of folks from USAID, PATH, CDC, WHO, JSI, various Ministries of Health – a veritable smorgasbord of digital excellence – all of whom were saying virtually the same thing: We have an embarrassment of riches in digital health. An exciting trove of interventions that is having the unintended effect of paralyzing governments and others looking to harness the power of digital to overcome gaps in health services and achieve much needed positive health outcomes.
 
