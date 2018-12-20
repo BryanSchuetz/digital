@@ -1,6 +1,6 @@
 ---
 title: An Embarrassment of Riches
-date: 2018-12-20 09:00:00 -05:00
+date: 2018-12-20 08:45:00 -05:00
 categories:
 - Global Health
 tags:
