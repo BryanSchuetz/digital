@@ -15,7 +15,7 @@ social-image: "/uploads/2018YearDAIDig-17b95e.PNG"
 thumbnail: "/uploads/2018YearDAIDig-17b95e.PNG"
 ---
 
-This year Digital@DAI published more than 50 posts, covering everything from women’s entrepreneurship in Cambodia to cyber security for development to smartphone apps for fisheries in Central America.
+This year, Digital@DAI published more than 50 posts covering everything from women’s entrepreneurship in Cambodia to cyber security for development to smartphone apps for fisheries in Central America.
 
 We featured digital experts from organizations such as [John’s Hopkins University](https://twitter.com/alabriqu), [Simprints](https://www.simprints.com/), [Every1Mobile](https://www.every1mobile.com/), [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/), and [Panoply Digital](https://www.panoplydigital.com/), and generated nearly 47,000 page views. The blog continues to explore the potential of digital technology across sectors, geographies, clients, and constituents, reflecting the work that we do. As we continue to engage with all of you—and with the ICT4D community through DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration)—our focus on research and products will expand as we continue to ensure that our field-focused  deployments of digital solutions are responsible, inclusive, and dynamic.
 
@@ -25,7 +25,7 @@ In our [final post of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
 ![2018YearDAIDig-17b95e.PNG](/uploads/2018YearDAIDig-17b95e.PNG)
 
- 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people from age 8 to 80 and comments on how we can harness it for digital for development.
+ 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people ages 8 to 80 and comments on how we can harness it for digital for development.
 
  2. [Apply Now: Support USAID Missions to Improve Broadband Connectivity](https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html). Through the U.S. Agency for International Development-funded Digital Frontiers Program, we have identified providers who can work toward efficiently aggregating demand for broadband across country programs, thus lowering costs so more people can obtain affordable access to the internet. We are thrilled to see how many people want to be involved with this Digital Frontiers initiative and work with NetHope and Alaurus  going forward.
 
