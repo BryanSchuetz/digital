@@ -37,13 +37,13 @@ In our [final blog of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
  6. [Why is DAI Investing in a Coding School?](https://dai-global-digital.com/why-is-dai-investing-in-a-coding-school.html). DAI’s partnership with Code Partners and United Solutions aligns with our global mission to improve economic opportunity.  Stay tuned for how we are expanding and evolving our commitment to the Code Fellow program in 2019.
 
- 7. [Blockchain for Development Part 1: Understanding the Tech](https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html). Blockchain is likely one of the most Googled terms in our sector this past year.  This post debunks the term and provides a brief overview and additional resources about blockchain.
+ 7. [Blockchain for Development Part 1: Understanding the Tech](https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html). Blockchain is likely one of the most Googled terms in 2018.  This post debunks the term and provides a brief overview of the technology. It also shares additional resources about blockchain.
 
  8. [Digital Insights Malawi: Information and Communication in Rural Communities](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html). This post features our research into the digital lives of rural communities in Northern, Central and Southern Malawi.
 
- 9. [“S3” Site Selection System: A Data-Driven Decision-Making Tool for Effective Engagement](https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html). CDA’s S3 tool delivers a data-informed approach to determining “how can we be certain we are targeting the right communities?”
+ 9. [“S3” Site Selection System: A Data-Driven Decision-Making Tool for Effective Engagement](https://dai-global-digital.com/sit-selection-data-driven-decision-making-for-effective-beneficiary-targeting.html). CDA’s S3 tool delivers a data-informed approach to determining “how can we be certain we are targeting the right communities.”
 
-10. [ DFID’s Digital Strategy: What Does it Mean for DAI?](https://dai-global-digital.com/dfids-digital-strategy-what-does-it-mean-for-dai.html). Rather than simply reading and reviewing DFID’s digital strategy when it was launched early in 2018, we wanted to get a sense of project level impacts. Therefore, we interviewed key project staff to tell us how it impacts their work.
+10. [ DFID’s Digital Strategy: What Does it Mean for DAI?](https://dai-global-digital.com/dfids-digital-strategy-what-does-it-mean-for-dai.html). Rather than simply reading and reviewing DFID’s digital strategy when it  launched in early 2018, we wanted to understand the impacts of the strategy at the project level. To get a sense of some of the impacts, we interviewed key project staff.
 
 Stay tuned for what 2019 brings. We will continue to use this blog to investigate emerging trends in digital technologies for global development, hold conversations with some of the field’s foremost experts, and deliver informative and engaging content to you on a weekly basis.
 
