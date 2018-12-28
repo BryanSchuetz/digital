@@ -12,7 +12,7 @@ In our [final blog of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
 <!--more-->
 
-[2018YearDAIDig.PNG](/uploads/2018YearDAIDig.PNG)
+![2018YearDAIDig-17b95e.PNG](/uploads/2018YearDAIDig-17b95e.PNG)
 
  1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people from 8 to 80 and how we can harness it for digital for development activities.
 
