@@ -31,9 +31,9 @@ In our [final blog of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
  3. [Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). Growing our ability to build tools and products has been a big part of our work in 2018. This post breaks down how to build a chatbot, in an approachable way, for those of us who don’t code all day.
 
- 4. [Getting Started With RStudio, Part 1](https://dai-global-digital.com/getting-started-with-rstudio.html). For those of us who spend more of our day coding, this post gets into the tech ad explores RStudio. Look for more potsts like this in 2019!
+ 4. [Getting Started With RStudio, Part 1](https://dai-global-digital.com/getting-started-with-rstudio.html). For those of us who do code all day, this post gets into the tech and explores RStudio. Look for more posts like this in 2019!
 
- 5. [We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways](https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html). This post from Dr. Alain Labrique, which  highlights how we should think differently about the path forward in digital health.
+ 5. [We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways](https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html). This post from Dr. Alain Labrique highlights how we should think differently about the path forward for digital health.
 
  6. [Why is DAI Investing in a Coding School?](https://dai-global-digital.com/why-is-dai-investing-in-a-coding-school.html). DAI’s partnership with Code Partners and United Solutions aligns with our global mission to improve economic opportunity.  Stay tuned for how we are expanding and evolving our commitment to the Code Fellow program in 2019.
 
