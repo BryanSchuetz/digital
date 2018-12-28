@@ -25,15 +25,15 @@ In our [final blog of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
 ![2018YearDAIDig-17b95e.PNG](/uploads/2018YearDAIDig-17b95e.PNG)
 
- 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people from 8 to 80 and how we can harness it for digital for development activities.
+ 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people from age 8 to 80 and comments on how we can harness it for digital for development.
 
- 2. [Apply Now: Support USAID Missions to Improve Broadband Connectivity](https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html). Through the USAID funded Digital Frontiers Program, we have been able to identify providers who can work towards efficiently aggregating demand for broadband across country programs to drive down costs and get more people affordable access to the internet.  We are thrilled to see how many people want to be involved with Digital Frontiers and to work with NetHope and Alaurus on this activity going forward.
+ 2. [Apply Now: Support USAID Missions to Improve Broadband Connectivity](https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html). Through the USAID funded Digital Frontiers Program, we have been able to identify providers who can work towards efficiently aggregating demand for broadband across country programs, resulting in lower costs that help  more people obtain affordable access to the internet.  We are thrilled to see how many people want to be involved with this Digital Frontiers initiative, and work with NetHope and Alaurus on this activity going forward.
 
- 3. [Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). Growing our ability to build tools and products has been a big part of our year in 2018. This post breaks down how to build a chatbot in an approachable way for those of us who don’t code all day.
+ 3. [Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). Growing our ability to build tools and products has been a big part of our work in 2018. This post breaks down how to build a chatbot, in an approachable way, for those of us who don’t code all day.
 
- 4. [Getting Started With RStudio, Part 1](https://dai-global-digital.com/getting-started-with-rstudio.html). For those of us who spend more of our days coding, this post gets into the tech in a big way. Look for more like this from us in 2019!
+ 4. [Getting Started With RStudio, Part 1](https://dai-global-digital.com/getting-started-with-rstudio.html). For those of us who spend more of our day coding, this post gets into the tech ad explores RStudio. Look for more potsts like this in 2019!
 
- 5. [We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways](https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html). This post from Dr. Alain Labrique highlights how we should think differently about the path forward for digital health.
+ 5. [We Don’t Need to Reinvent the Wheel, But it’s Time to Invest in Roads and Highways](https://dai-global-digital.com/time-to-invest-in-roads-and-highways.html). This post from Dr. Alain Labrique, which  highlights how we should think differently about the path forward in digital health.
 
  6. [Why is DAI Investing in a Coding School?](https://dai-global-digital.com/why-is-dai-investing-in-a-coding-school.html). DAI’s partnership with Code Partners and United Solutions aligns with our global mission to improve economic opportunity.  Stay tuned for how we are expanding and evolving our commitment to the Code Fellow program in 2019.
 
