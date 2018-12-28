@@ -25,7 +25,7 @@ In our [final post of 2017](https://dai-global-digital.com/digital-at-dai-year-i
 
 ![2018YearDAIDig-17b95e.PNG](/uploads/2018YearDAIDig-17b95e.PNG)
 
- 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people ages 8 to 80 and comments on how we can harness it for digital for development.
+ 1. [Fortnite for International Development](https://dai-global-digital.com/fortnite-for-international-development.html). This post captures some of the magic of the game that captivates people ages 8 to 80 and comments on how we can harness it for Digital for Development.
 
  2. [Apply Now: Support USAID Missions to Improve Broadband Connectivity](https://dai-global-digital.com/apply-now-support-usaid-missions-to-improve-broadband-connectivity.html). Through the U.S. Agency for International Development-funded Digital Frontiers Program, we have identified providers who can work toward efficiently aggregating demand for broadband across country programs, thus lowering costs so more people can obtain affordable access to the internet. We are thrilled to see how many people want to be involved with this Digital Frontiers initiative and work with NetHope and Alaurus  going forward.
 
