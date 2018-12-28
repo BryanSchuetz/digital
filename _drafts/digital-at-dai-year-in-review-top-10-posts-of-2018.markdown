@@ -15,7 +15,7 @@ social-image: "/uploads/2018YearDAIDig-17b95e.PNG"
 thumbnail: "/uploads/2018YearDAIDig-17b95e.PNG"
 ---
 
-This year Digital@DAI published more than 50 posts, covering everything from women’s entrepreneurship in Cambodia, to Cybersecurity for development, to smartphone apps for fisheries in Central America.
+This year Digital@DAI published more than 50 posts, covering everything from women’s entrepreneurship in Cambodia, to cyber security for development, to smartphone apps for fisheries in Central America.
 
 We featured digital experts from organizations such as [John’s Hopkins University](https://twitter.com/alabriqu), [Simprints](https://www.simprints.com/), [Every1Mobile](https://www.every1mobile.com/), [Humanitarian OpenStreetMap Team](https://www.hotosm.org/) (HOT), and [Panoply Digital](https://www.panoplydigital.com/), and reached nearly 47,000 page views. The blog continues to explore the potential of digital technology across sectors, geographies, clients, and constituents, reflecting the work that we do.  As we continue to engage with all of you, and with the ICT4D community through DAI’s Center for Digital Acceleration, our focus on research and products will expand, as we continue to ensure that  our field-focused  deployments of digital solutions are responsible, inclusive, and dynamic.
 
