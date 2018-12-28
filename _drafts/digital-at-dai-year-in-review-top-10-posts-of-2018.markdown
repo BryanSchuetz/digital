@@ -2,6 +2,8 @@
 title: 'Digital@DAI Year in Review: Top 10 Posts of 2018'
 date: 2018-12-28 10:23:00 -05:00
 Author: Krista Baptista
+social-image: "/uploads/2018YearDAIDig-17b95e.PNG"
+thumbnail: "/uploads/2018YearDAIDig-17b95e.PNG"
 ---
 
 This year Digital@DAI published more than 50 posts, covering everything from women’s entrepreneurship in Cambodia, to Cybersecurity for development, to smartphone apps for fisheries in Central America.
