@@ -1,6 +1,15 @@
 ---
 title: 'Digital@DAI Year in Review: Top 10 Posts of 2018'
 date: 2018-12-28 10:23:00 -05:00
+categories:
+- Innovation
+tags:
+- Cybersecurity
+- Digital Insights
+- Digital Principles
+- Digital Health
+- Digital Inclusion
+- Data
 Author: Krista Baptista
 social-image: "/uploads/2018YearDAIDig-17b95e.PNG"
 thumbnail: "/uploads/2018YearDAIDig-17b95e.PNG"
