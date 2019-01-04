@@ -9,17 +9,17 @@ social-image: "/uploads/2019LookAhead.PNG"
 thumbnail: "/uploads/2019LookAhead.PNG"
 ---
 
-Last week we reviewed the [top posts of 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html). The most-read articles covered a lot of ground – from [Fortnite for development](https://dai-global-digital.com/fortnite-for-international-development.html) to [digital lives in rural Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) to [making your own chatbot](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). We equally expect 2019 to be full of interesting projects, engaging conversations with digital development colleagues, and, as always, meaningful opportunities to keep learning and doing better, more impactful work.
+In our last post, we reviewed our [top posts of 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html). The most-read articles covered a lot of ground—from [Fortnite for development](https://dai-global-digital.com/fortnite-for-international-development.html) to [digital lives in rural Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) to [making your own chatbot](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). We equally expect 2019 to be full of interesting projects, engaging conversations with colleagues, and, as always, meaningful opportunities to keep learning and doing better, more impactful work.
 
-Here are a few topics we’re thinking about as we dive into the year. [Let us know](https://twitter.com/DAIGlobal) if you want to collaborate with us as we explore where they’ll take us – and [stay tuned to our blog](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) for updates throughout the year!
+Here are a few topics we’re thinking about as we dive into the year. [Let us know](https://twitter.com/DAIGlobal) if you want to collaborate as we explore where they’ll take us—and [stay tuned to our blog](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) for updates throughout the year!
 
 <!--more-->
 
 ![2019.PNG](/uploads/2019.PNG)
 
-## Applying Lean Human Centered Design (HCD)
+## Applying Lean Human-Centered Design 
 
-In 2018 we tailored traditional HCD to the types of projects we typically work on in emerging and developing markets amid unique funding and time constraints through a process we call [Lean HCD](https://www.dai.com/hcd.pdf). We honed our HCD chops in Guatemala on the USAID funded Nexos Locales project with the [launch of the MiMuni app](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) in two new municipalities. In 2019, we are scaling this app to Afghanistan (or forking it, as the kids these days say). By systematically incorporating aspects of applied HCD – including our frontier insights methods and design thinking approaches – into digital activities and projects, we create digital tools that meet people’s needs and scale across geographies.
+In 2018 we tailored traditional human-centered design (HCD) to the types of projects we typically work on in emerging and developing markets amid unique funding and time constraints through a process we call [Lean HCD](https://www.dai.com/hcd.pdf). We honed our HCD chops in Guatemala on the USAID funded Nexos Locales project with the [launch of the MiMuni app](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) in two new municipalities. In 2019, we are scaling this app to Afghanistan (or forking it, as the kids these days say). By systematically incorporating aspects of applied HCD – including our frontier insights methods and design thinking approaches – into digital activities and projects, we create digital tools that meet people’s needs and scale across geographies.
 
 ## Getting beyond the digital hype faster
 
