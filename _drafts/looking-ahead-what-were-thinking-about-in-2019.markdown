@@ -6,7 +6,7 @@ tags:
 - Think Piece
 Author: Krista Baptista
 social-image: "/uploads/2019LookAhead.PNG"
-thumbnail: "/uploads/2019LookAhead.PNG"
+thumbnail: "/uploads/2019.PNG"
 ---
 
 In our last post, we reviewed our [top posts of 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html). The most-read articles covered a lot of ground—from [Fortnite for development](https://dai-global-digital.com/fortnite-for-international-development.html) to [digital lives in rural Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) to [making your own chatbot](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). We equally expect 2019 to be full of interesting projects, engaging conversations with colleagues, and, as always, meaningful opportunities to keep learning and doing better, more impactful work.
