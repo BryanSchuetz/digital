@@ -4,13 +4,18 @@ date: 2019-01-04 10:39:00 -05:00
 tags:
 - Innovation
 - Think Piece
+Author: Krista Baptista
+social-image: "/uploads/2019LookAhead.PNG"
+thumbnail: "/uploads/2019LookAhead.PNG"
 ---
 
 Last week we reviewed the [top posts of 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html). The most-read articles covered a lot of ground – from [Fortnite for development](https://dai-global-digital.com/fortnite-for-international-development.html) to [digital lives in rural Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) to [making your own chatbot](https://dai-global-digital.com/facebook-messenger-chatbot-1.html). We equally expect 2019 to be full of interesting projects, engaging conversations with digital development colleagues, and, as always, meaningful opportunities to keep learning and doing better, more impactful work.
 
+Here are a few topics we’re thinking about as we dive into the year. [Let us know](https://twitter.com/DAIGlobal) if you want to collaborate with us as we explore where they’ll take us – and [stay tuned to our blog](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) for updates throughout the year!
+
 <!--more-->
 
-Here are a few topics we’re thinking about as we dive into the year. [Let us know](https://twitter.com/DAIGlobal) if you want to collaborate with us as we explore where they’ll take us – and [stay tuned to our blog](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) for updates throughout the year!
+![2019LookAhead.PNG](/uploads/2019LookAhead.PNG)
 
 ## Applying Lean Human Centered Design (HCD)
 
