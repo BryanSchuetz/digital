@@ -15,7 +15,7 @@ Here are a few topics we’re thinking about as we dive into the year. [Let us k
 
 <!--more-->
 
-![2019LookAhead.PNG](/uploads/2019LookAhead.PNG)
+![2019.PNG](/uploads/2019.PNG)
 
 ## Applying Lean Human Centered Design (HCD)
 
