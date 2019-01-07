@@ -35,7 +35,7 @@ Most viewers scan the web starting at the top left of the page. Go back to think
 
 ## 6. Remember some General Rules About Visualizations
 
-Remember to **keep it simple**. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice. 
+Remember to **keep it simple**. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice.
 
 * Indicators containing targets and actuals are typically best ​displayed using gauges, bar charts, and line charts
 
@@ -51,4 +51,4 @@ Remember to **keep it simple**. Most people can only manage a few visuals per pa
 
 In the end, remember the dashboard is just a data visualization tool and will only be successful when connected to a project's communication, evaluation, or learning strategy. Keep this in mind when creating dashboards and constantly look for ways to simplify your report design. ​
 
-* This guest blog was written by [John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/). John currently works as a Data Scientist with DAI’s Monitoring for Development Results (MfDR) team. John has a diverse background in data analytics, foreign policy, and regional planning. Prior to joining DAI, he built predictive models and analyzed data sets for the International Commission on Missing Persons in Bosnia, covered political and economic issues for the U.S. Department of State in India, and created data-driven economic development plans for the Metropolitan Washington Region. John enjoys telling stories and discovering new insights in data sets.*
+*This guest blog was written by [John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/). John currently works as a Data Scientist with DAI’s Monitoring for Development Results (MfDR) team. He has a diverse background in data analytics, foreign policy, and regional planning. Prior to joining DAI, he built predictive models and analyzed data sets for the International Commission on Missing Persons in Bosnia, covered political and economic issues for the U.S. Department of State in India, and created data-driven economic development plans for the Metropolitan Washington Region. John enjoys telling stories and discovering new insights in data sets.*
