@@ -1,9 +1,17 @@
 ---
 title: 6 Tips for Making Great Monitoring and Evaluation Dashboards
 date: 2019-01-07 11:04:00 -05:00
+tags:
+- Data Visualization
+- Data
+Author: "[John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/)"
+social-image: "/uploads/Dashboard-b07795.png"
+thumbnail: "/uploads/Dashboard-b07795.png"
 ---
 
 Technology and data are converging in ways that allow monitoring and evaluation (M&E) professionals to more effectively monitor, evaluate, learn, and adapt on their projects. Dashboards are one of the key tools contributing to this trend, having become more accessible and user friendly through platforms like [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_bHb24t0B&lnkd=Google_PowerBI_Brand&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQBWS9woBxKkiDNWqYJ1QffUY7fpDoUDQTRkOS4N15amKTJGVg8EmGMaAkDrEALw_wcB). Dashboards are **an information management tool that visually track, analyze, and display metrics and data points to monitor the status of a project.**  DAI is creating dashboards for all new projects to enable teams to learn, evaluate, and adapt to project realities in near real-time.  Ultimately, these dashboards make for better monitoring and evaluation and in turn better projects.  Therefore, it's important to get it right.  So where should you start?
+
+<!--more-->
 
 ## 1. Define the purpose for the dashboard
 
@@ -42,3 +50,5 @@ Remember to **keep it simple**. Most people can only manage a few visuals per pa
 * Make sure colors fit diverging or sequential data. When choosing colors check [color brewer](http://colorbrewer2.org/) for guidance on color palates for plots and maps
 
 In the end, remember the dashboard is just a data visualization tool and will only be successful when connected to a project's communication, evaluation, or learning strategy. Keep this in mind when creating dashboards and constantly look for ways to simplify your report design. ​
+
+* This guest blog was written by [John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/). John currently works as a Data Scientist with DAI’s Monitoring for Development Results (MfDR) team. John has a diverse background in data analytics, foreign policy, and regional planning. Prior to joining DAI, he built predictive models and analyzed data sets for the International Commission on Missing Persons in Bosnia, covered political and economic issues for the U.S. Department of State in India, and created data-driven economic development plans for the Metropolitan Washington Region. John enjoys telling stories and discovering new insights in data sets.*
