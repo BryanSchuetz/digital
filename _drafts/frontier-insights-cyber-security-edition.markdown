@@ -11,9 +11,9 @@ Frontier Insights: Cyber Security Edition
  
 The headline says it all: “[Over a billion people’s data was compromised in 2018](https://nordvpn.com/blog/biggest-data-breaches-2018/),” according to a year-end post on NordVPN’s blog, and among the most egregious offenders were some of the most popular tech platforms in the world. Facebook, for example, admitted it had leaked the personal data of nearly 150 million users; Twitter leaked the passwords of nearly all 330 million of its users; and even mighty Google had two of its products hacked: Firebase (an app monitoring tool) leaked the data of more than 100 million users, and Google+ leaked 500,000 users’ personal info.
 
-[HEADER IMAGE]
-
+![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)
 <!--more-->
+`DAI's Jean Succar carries out Frontier Insights in Haiti, 2017`
 
 NordVPN’s unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remains weak in 2018; likely a fact that escaped only those living under very heavy rocks. It certainly didn’t escape Congress, which called in the CEOs of Facebook and Google to testify in a series of highly-charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security. 
 
