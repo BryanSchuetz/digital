@@ -11,7 +11,7 @@ The headline says it all: “[Over a billion people’s data was compromised in 
 
 ![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)
 <!--more-->
-`DAI's Jean Succar carries out Frontier Insights in Haiti, 2017`
+`DAI's Jean Succar carries out Frontier Insights research in Haiti, 2017`
 
 NordVPN’s unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remains weak in 2018; likely a fact that escaped only those living under very heavy rocks. It certainly didn’t escape Congress, which called in the CEOs of Facebook and Google to testify in a series of highly-charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security. 
 
