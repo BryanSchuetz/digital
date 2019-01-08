@@ -1,6 +1,10 @@
 ---
 title: 'Frontier Insights: Cyber Security Edition'
 date: 2019-01-08 01:00:00 -05:00
+tags:
+- Cyber Security Series
+- Digital Insights
+Author: Adam Fivenson & Kristen Roggemann
 ---
 
 Frontier Insights: Cyber Security Edition
