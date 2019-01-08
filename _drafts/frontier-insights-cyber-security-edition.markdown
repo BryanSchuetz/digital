@@ -5,6 +5,8 @@ tags:
 - Cyber Security Series
 - Digital Insights
 Author: Adam Fivenson & Kristen Roggemann
+social-image: "/uploads/FI%20hairi2.jpg"
+thumbnail: "/uploads/FI%20hairi2.jpg"
 ---
 
 The headline says it all: “[Over a billion people’s data was compromised in 2018](https://nordvpn.com/blog/biggest-data-breaches-2018/),” according to a year-end post on NordVPN’s blog, and among the most egregious offenders were some of the most popular tech platforms in the world. Facebook, for example, admitted it had leaked the personal data of nearly 150 million users; Twitter leaked the passwords of nearly all 330 million of its users; and even mighty Google had two of its products hacked: Firebase (an app monitoring tool) leaked the data of more than 100 million users, and Google+ leaked 500,000 users’ personal info.
