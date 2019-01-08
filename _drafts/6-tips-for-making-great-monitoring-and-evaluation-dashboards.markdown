@@ -37,24 +37,21 @@ Cluttered dashboards are hard to read and understand. Your dashboard needs to co
 
 ## 5. Leverage the Most-viewed Spot
 
-Most viewers scan the web starting at the top left of the page. Go back to thinking about your audience, message, and purpose. Then place your most important information so that it occupies or spans the **upper left-corner of your dashboard**. In the example below, the dashboard includes the most important information at the top and can be viewed from left to right.![dash2.PNG](/uploads/dash2.PNG)
+Most viewers scan the web starting at the top left of the page. Go back to thinking about your audience, message, and purpose. Then place your most important information so that it occupies or spans the upper left-corner of your dashboard. In the example below, the dashboard includes the most important information at the top and can be viewed from left to right.
 
-## 6. Remember Some General Rules About Visualizations
+![dash2.PNG](/uploads/dash2.PNG)
 
-Remember to **keep it simple**. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice.
+## 6. Some General Rules About Visualizations
 
-* Indicators containing targets and actuals are typically best ​displayed using gauges, bar charts, and line charts
+Remember to keep it simple. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice.
 
-* Bar charts should be used rather than pie charts – you cannot see the difference between pie fields which have similar values
-
-* Horizontal bars work best for rankings
-
-* Line plots are usually for time series plots comparing multiple series like a targets or actuals
-
-* Bubble plots are used when presenting three different values (x-axis, y-axis, and bubble size)
-
-* Make sure colors fit diverging or sequential data. When choosing colors check [color brewer](http://colorbrewer2.org/) for guidance on color palates for plots and maps
+* Indicators containing targets and actuals are typically best ​displayed using gauges, bar charts, and line charts.
+* Bar charts should be used rather than pie charts—you cannot see the difference between pie fields which have similar values.
+* Horizontal bars work best for rankings.
+* Line plots are usually for time series plots comparing multiple series like a targets or actuals.
+* Bubble plots are used when presenting three different values (x-axis, y-axis, and bubble size).
+* Make sure colors fit diverging or sequential data. When choosing colors check [color brewer](http://colorbrewer2.org/) for guidance on color palates for plots and maps.
 
 In the end, remember the dashboard is just a data visualization tool and will only be successful when connected to a project's communication, evaluation, or learning strategy. Keep this in mind when creating dashboards and constantly look for ways to simplify your report design. ​
 
-*This guest blog was written by [John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/). John currently works as a Data Scientist with DAI’s Monitoring for Development Results (MfDR) team. He has a diverse background in data analytics, foreign policy, and regional planning. Prior to joining DAI, he built predictive models and analyzed data sets for the International Commission on Missing Persons in Bosnia, covered political and economic issues for the U.S. Department of State in India, and created data-driven economic development plans for the Metropolitan Washington Region. John enjoys telling stories and discovering new insights in data sets.*
+*This guest blog was written by [John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/). John works as a Data Scientist with DAI’s Monitoring for Development Results (MfDR) team.*
