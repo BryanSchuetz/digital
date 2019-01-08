@@ -13,6 +13,8 @@ The headline says it all: “[Over a billion people’s data was compromised in 
 
 [HEADER IMAGE]
 
+<!--more-->
+
 NordVPN’s unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remains weak in 2018; likely a fact that escaped only those living under very heavy rocks. It certainly didn’t escape Congress, which called in the CEOs of Facebook and Google to testify in a series of highly-charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security. 
 
 <p><aside>This post is part of Digital@DAI’s [Cyber Security Series](https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html) which focuses on how our work </aside></p>
