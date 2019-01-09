@@ -16,7 +16,7 @@ The headline says it all: “[Over a billion people’s data was compromised in 
 
 <!--more-->
 
-The unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remained weak in 2018. It certainly didn’t escape Congress, which called in the CEOs of Facebook and Google to testify in a series of highly-charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security.
+The unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remained weak in 2018. It certainly didn’t escape Congress, which called in the leaders of Facebook and Google to testify in a series of highly charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security.
 
 Media coverage of these high-profile data breaches and the subsequent congressional hearings are one of the main ways we generate greater public awareness and scrutiny of digital services in the US. Hopefully this additional scrutiny will lead better practices on the part of the platforms and increased trust and accountability  (Facebook’s [stock price](https://www.newsweek.com/facebook-stock-price-fb-messenger-sharing-private-messages-netflix-spotify-1265319), if not the size of its [user base](https://www.aljazeera.com/news/2018/04/number-active-facebook-users-increased-scandals-180426073628185.html), would seem to depend on it), but what about people in the places where USAID and DAI work?
 
