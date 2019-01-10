@@ -12,8 +12,6 @@ thumbnail: "/uploads/FI%20hairi2.jpg"
 
 The headline says it all: “[Over a billion people’s data was compromised in 2018](https://nordvpn.com/blog/biggest-data-breaches-2018/).” Among the most egregious offenders were some of the most popular tech platforms in the world: Facebook, for example, admitted it had leaked the personal data of nearly 150 million users; Twitter leaked the passwords of nearly all 330 million of its users; and even mighty Google had two of its products hacked: Firebase (an app monitoring tool) leaked the data of more than 100 million users, and Google+ leaked 500,000 users’ personal info.
 
-![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)`DAI's Jean Succar carries out Frontier Insights research in Haiti.`
-
 <!--more-->
 
 The unmistakable message is that the state of cyber security within some of the world’s most prominent organizations remained weak in 2018. It certainly didn’t escape Congress, which called in the leaders of Facebook and Google to testify in a series of highly charged (and sometimes hilariously [ham-handed](https://www.youtube.com/watch?v=t-lMIGV-dUI)) hearings about privacy and data security.
@@ -21,6 +19,8 @@ The unmistakable message is that the state of cyber security within some of the 
 Media coverage of these high-profile data breaches and the subsequent congressional hearings are some of the main ways to generate greater public awareness and scrutiny of digital services in the United States. Hopefully the spotlight will lead to better practices on the part of the platforms and increased trust and accountability.  Facebook’s [stock price](https://www.newsweek.com/facebook-stock-price-fb-messenger-sharing-private-messages-netflix-spotify-1265319), if not the size of its [user base](https://www.aljazeera.com/news/2018/04/number-active-facebook-users-increased-scandals-180426073628185.html), would seem to depend on it—but what about people in the places where we work?
 
 DAI’s [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research is about understanding how people are using technology, and how they’re sharing and seeking information via digital tools. Given the growing awareness of significant data protection and privacy concerns with the big social media platforms, we took a look through the last two years of data on topics related to cyber security to see if we could pull out any patterns or key learnings on this issue. Turns out, we’ve learned quite a lot about how the people we engage with think about cyber security. Our key findings:
+
+![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)`DAI's Jean Succar carries out Frontier Insights research in Haiti.`
 
 ## People Still Love Facebook...For Now
 
