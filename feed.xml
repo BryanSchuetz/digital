@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Jan 2019 08:45:38 -0500</pubDate>
-    <lastBuildDate>Thu, 10 Jan 2019 08:45:38 -0500</lastBuildDate>
+    <pubDate>Thu, 10 Jan 2019 12:11:51 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 12:11:51 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -81,27 +81,6 @@
         
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/DigitalHealth-9b50d6.jpg" medium="image" /> 
-        <title>An Embarrassment of Riches</title>
-        <description>&lt;p&gt;Years ago, yours truly was struggling with a major life decision, one that had led to many a sleepless night: Where to go to grad school? I’d been accepted into a number of programs and was agonizing over my options. My dad had graciously taken on the role of my sounding board until one day he blurted out in frustration, “you have an embarrassment of riches, Rachel. Just decide!”&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Dec 2018 08:45:00 -0500</pubDate>
-        <author>Rachel Clad
-</author>
-        <link>https://dai-global-digital.com/an-embarrassment-of-riches.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/an-embarrassment-of-riches.html</guid>
-        
-        <category>Digital Health</category>
-        
-        <category>Digital Inclusion</category>
-        
-        
-        <category>Global Health</category>
         
       </item>
     
@@ -234,6 +213,25 @@ Meet Lida Loem. Lida is the co-founder of &lt;a href=&quot;https://www.sheinvest
         <category>Digital Inclusion</category>
         
         <category>Entrepreneurship</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ReportCover.PNG" medium="image" /> 
+        <title>Digital Inclusion and a Trusted Internet</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/ReportCover-d03d70.PNG&quot; alt=&quot;ReportCover-d03d70.PNG&quot; class=&quot;float-right&quot; /&gt; Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Nov 2018 08:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/jonathanjdolan">Jonathan Dolan</a>
+</author>
+        <link>https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
         
         
       </item>

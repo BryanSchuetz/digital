@@ -41,16 +41,6 @@ In our final post of 2017 we reviewed the 10 most-read articles of the year. Wit
     - Digital Inclusion 
     - Data 
 
-- title: "An Embarrassment of Riches"
-  pub: "Digital"
-  date: 2018-12-20
-  link: "https://dai-global-digital.com/an-embarrassment-of-riches.html?utm_source=daidotcom"
-  summary: "Years ago, yours truly was struggling with a major life decision, one that had led to many a sleepless night: Where to go to grad school? I’d been accepted into a number of programs and was agonizing over my options. My dad had graciously taken on the role of my sounding board until one day he blurted out in frustration, “you have an embarrassment of riches, Rachel. Just decide!”"
-  tags:
-    - digital acceleration 
-    - Digital Health 
-    - Digital Inclusion 
-
 - title: "Cyber Security Series Part 3: Pirated Software"
   pub: "Digital"
   date: 2018-12-13
@@ -230,4 +220,14 @@ September was a particularly busy month on the ICT4D happy hour calendar, so let
     - digital acceleration 
     - Agriculture 
     - Entrepreneurship 
+
+- title: "Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital Development"
+  pub: "Digital"
+  date: 2018-09-19
+  link: "https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=daidotcom"
+  summary: "We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and subscribe to our newsletter if this topic interests you!"
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+    - Cyber Security Series 
 
