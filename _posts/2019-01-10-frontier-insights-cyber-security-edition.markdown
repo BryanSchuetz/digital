@@ -22,7 +22,7 @@ Media coverage of these high-profile data breaches and the subsequent congressio
 
 DAI’s [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research is about understanding how people are using technology, and how they’re sharing and seeking information via digital tools. Given the growing awareness of significant data protection and privacy concerns with the big social media platforms, we took a look through the last two years of data on topics related to cyber security to see if we could pull out any patterns or key learnings on this issue. Turns out, we’ve learned quite a lot about how the people we engage with think about cyber security. Our key findings:
 
-![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)`DAI's Jean Succar carries out Frontier Insights research in Haiti.`
+![FI hairi2.jpg](/uploads/FI%20hairi2.jpg)`DAI's Jean Succar carries out Frontier Insights research in Haiti in 2018.`
 
 ## People Still Love Facebook...For Now
 
