@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Insights: Cyber Security Edition'
-date: 2019-01-08 01:00:00 -05:00
+date: 2019-01-10 07:00:00 -05:00
 tags:
 - Cyber Security Series
 - Digital Insights
