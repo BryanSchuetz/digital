@@ -41,12 +41,12 @@ Taking a step back,  *Frontier Insights* is a key component of our design approa
 
 ![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
 
-In Kabul, we carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result.
+In Kabul, we carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so they agree, would rather be interviewed by another woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
 
 ![photo 3.jpg](/uploads/photo%203.jpg)
 `Frontier Insights in Kabul`
 
-In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts; once again, we didn’t hit them all, but we have broad sample. Is this a scientifically representative sample of everyone in Kabul? No, but keep in mind that Frontier Insights is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design thinking sessions and user testing.
+In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts. Once again, we didn’t hit them all, but we gathered a broad sample. Is this a scientifically representative sample of everyone in Kabul? No, but keep in mind that Frontier Insights is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design thinking sessions and user testing.
 
 So what did we find?
 
