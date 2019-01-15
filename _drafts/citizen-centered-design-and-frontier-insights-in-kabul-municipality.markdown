@@ -70,7 +70,7 @@ We asked our respondents to name their three favorite apps. Unsurprisingly, thei
 
 ## 4. People visit the municipality to pay property tax or get a business license
 
-The property, or safaye, tax was by far the most common reason people visit the municipality, followed by getting a business license, getting an ID and other housing documents. Based on this, we’re exploring the possibility of building in the capability to make safaye payments via our tool, though we’ve been told that the business license process will no longer sit with the municipality, so at we’ll simply provide some information about how to get the license.
+The property, or safaye, tax was by far the most common reason people visit the municipality. Respondents also mentioned visiting the municipality to get a business license, get an ID, and other housing documents. Based on this, we’re exploring the possibility of building in the capability to make safaye payments via our tool, though we’ve been told that the business license process will no longer sit with the municipality, so at we’ll simply provide some information about how to get the license.
 
 <script id="infogram_0_f9fcda60-4f34-47a0-8d03-da60d2b21d0a" title="Why visit municipality?" src="https://e.infogram.com/js/dist/embed.js?Tw8" type="text/javascript"></script>
 
