@@ -73,7 +73,7 @@ Only 29 of the 120 citizens we spoke to have submitted a formal complaint about 
 We ran these sessions much the same way as the workshops we [facilitated in Guatemala](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) last year, having small groups generate and vote on ideas, present those to the full group, and then having the full group vote on the best ideas. Beyond the opportunity to surface ideas from the bottom-up, we view these sessions as an a chance to have the actors and institutions to meet each other face-to-face and understand each others’ interests and preferences. Like Frontier Insights, none of the suggestions or ideas we collect are definitive; instead we triangulate and put together a draft concept that will pass muster for our own gatekeepers within the SHAHAR project and within the municipality (principally the mayor himself, who is only one voice, but an important one).
 
 ![IMG_3618.jpg](/uploads/IMG_3618.jpg)
-`Design thinking participants discuss their ideas for the Kabul app`
+`Participants discuss their ideas for the Kabul app`
 
 In terms of appearance, we’ll need to use the municipality’s current color scheme, dark blue and gold, as a base, but we wanted citizens to make some suggestions for additional colors to use. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product, generating ownership. In the end they chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Nice colors, but we’ll have to think on how to artfully incorporate them with a base color scheme of blue and gold. 
 
