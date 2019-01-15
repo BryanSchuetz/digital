@@ -90,12 +90,12 @@ We ran these sessions much the same way as the workshops we [facilitated in Guat
 ![IMG_3618.jpg](/uploads/IMG_3618.jpg)
 `Participants discuss their ideas for the Kabul app`
 
-In terms of appearance, we’ll use the municipality’s current color scheme, dark blue and gold, as a base, but we wanted citizens to make some suggestions for additional colors to use. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product, generating ownership. In the end they chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Nice colors, but we’ll have to think on how to artfully incorporate them with a base color scheme of blue and gold.
+In terms of appearance, we’ll use the municipality’s current color scheme, dark blue and gold, as a base, but we also wanted citizens to make suggestions for additional colors to use. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product and generate ownership. At the end of the design thinking sessions, the participants chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Eventually, we’ll have to think on how to artfully incorporate these with a base color scheme of blue and gold.
 
 ![IMG_3648.jpg](/uploads/IMG_3648.jpg)
 `A participants votes on ideas during a plenary session`
 
-In terms of content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can since most of it is static content that doesn’t require a back-end connection to a database.
+For content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can since most of it is static content that doesn’t require a back-end connection to a database.
 
 ![IMG_3711.jpg](/uploads/IMG_3711.jpg)
 `A participant votes on her favorite ideas`
