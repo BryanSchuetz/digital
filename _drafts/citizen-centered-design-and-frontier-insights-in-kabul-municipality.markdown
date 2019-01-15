@@ -9,7 +9,7 @@ Author: Adam Fivenson
 
 The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan though he [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. The first iteration will be with the Municipality of Kabul.
 
-![IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
+![FI1 (1).jpg](/uploads/FI1%20(1).jpg)
 `Frontier Insights in Kabul, part of DAI's citizen-centered design process`
 
 <!--more-->
@@ -22,7 +22,7 @@ You may ow be asking yourself, “but how can a tool built for Guatemala work in
 
 First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker, and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each.
 
-![photo4.jpg](/uploads/photo4.jpg)
+![FI2 (1).jpg](/uploads/FI2%20(1).jpg)
 `Frontier Insights in Kabul`
 
 Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to each other, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
@@ -34,12 +34,14 @@ Once we've made adjustments based on feedback from stakeholders, the design prop
 
 ## Frontier Insights Kabul
 
-![20181124_102937.jpg](/uploads/20181124_102937.jpg)
+![FI 4 (1).jpg](/uploads/FI%204%20(1).jpg)
 `Frontier Insights in Kabul`
 
 Taking a step back,  *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
 
-![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
+![FI5 (1).jpg](/uploads/FI5%20(1).jpg)
+
+ `Frontier Insights in Kabul`
 
 In Kabul, we carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so they agree, would rather be interviewed by another woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
 
