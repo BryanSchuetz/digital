@@ -10,12 +10,13 @@ Author: Adam Fivenson
 
 The Center for Digital Acceleration is excited to announce that we’re taking the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation app that we developed for Guatemalan municipalities and replicating it for Kabul and four other Afghan municipalities through the [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. 
 
-[IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
+![IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
 `Frontier Insights in Kabul, part of DAI's citizen-centered design process`
 
 <!--more-->
 
 ## Replicating Half Way Around the World
+
 “But how can a tool built for Guatemala work in Afghanistan?” you may ask. This is a fair question given the inherent risks: differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances; in fact, they are the foundations of our entire approach, which we’re calling [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from Guatemala, but through our design process, we’re applying an ethnographic lens to develop our understanding of local culture, technology adoption and application, as well as the relationship that citizens have to their local government. 
 
 ## Citizen-Centered Design in Afghanistan
