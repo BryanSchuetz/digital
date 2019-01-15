@@ -7,7 +7,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan though he [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. The first iteration will be with the Municipality of Kabul. 
+The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan though he [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. The first iteration will be with the Municipality of Kabul.
 
 ![IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
 `Frontier Insights in Kabul, part of DAI's citizen-centered design process`
@@ -16,7 +16,7 @@ The Center for Digital Acceleration is excited to announce that we’re taking *
 
 ## Replicating Half Way Around the World
 
-You may ow be asking yourself, “but how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks: differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances.  In fact, they are the foundations of our entire approach, which we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the *MiMuni *app in Guatemala, but through our design process,  applying an ethnographic lens to create a new application the represents Afghani local culture, technology adoption and application, as well as the relationship between citizens and their local government.
+You may ow be asking yourself, “but how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks: differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances.  In fact, they are the foundations of our entire approach, which we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the \*MiMuni \*app in Guatemala, but through our design process,  applying an ethnographic lens to create a new application the represents Afghani local culture, technology adoption and application, as well as the relationship between citizens and their local government.
 
 ## Citizen-Centered Design in Afghanistan
 
@@ -52,7 +52,7 @@ So what did we find?
 
 ## 1. In Kabul, the incidence of both mobile phones and smartphones is high, but not universal
 
- 97% of respondents had a mobile phone of some type or another, and 56% had a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how an SMS component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
+97% of respondents had a mobile phone of some type or another, and 56% had a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how an SMS component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
 
 <script id="infogram_0_fae6008e-c755-441b-b585-5448aa56028d" title="Type of phone w/ gender" src="https://e.infogram.com/js/dist/embed.js?9RJ" type="text/javascript"></script>
 
@@ -70,7 +70,7 @@ We asked our respondents to name their three favorite apps. Unsurprisingly, thei
 
 ## 4. People visit the municipality to pay property tax or get a business license
 
-The property, or safaye, tax was by far the most common reason people visit the municipality. Respondents also mentioned visiting the municipality to get a business license, get an ID, and other housing documents. Based on this, we’re exploring the possibility of building into the app a capability to make safaye payments. Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process. 
+The property, or safaye, tax was by far the most common reason people visit the municipality. Respondents also mentioned visiting the municipality to get a business license, get an ID, and other housing documents. Based on this, we’re exploring the possibility of building into the app a capability to make safaye payments. Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process.
 
 <script id="infogram_0_f9fcda60-4f34-47a0-8d03-da60d2b21d0a" title="Why visit municipality?" src="https://e.infogram.com/js/dist/embed.js?Tw8" type="text/javascript"></script>
 
@@ -104,6 +104,8 @@ In terms of functions, participants asked for the ability to share reports direc
 
 ## Where to go from here?
 
-Based on the result from Frontier Insights and our design thinking session we’re putting together our design proposal and socializing it with all the key actors. In the next week or so, we hope to have a finalized scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement of our four provincial municipalities, where we’ll conduct Frontier Insights and host some design thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October of this year, and possibly earlier, since we are starting with pre-existing source code. We’ll keep you updated on the progress of our process!
+Based on the results from *Frontier Insights* and our design thinking session, we’re putting together our design proposal and socializing it with all the key actors. In the next week or so, we hope to finalize the scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October of this year, and possibly earlier, since we are starting with pre-existing source code. 
+
+We’ll keep you updated on the progress of our process!
 
 *Subscribe to [Digital@DAI](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) for more on the work of DAI’s Center for Digital Acceleration*
