@@ -9,7 +9,7 @@ social-image: "/uploads/Dashboard-b07795.png"
 thumbnail: "/uploads/Dashboard-b07795.png"
 ---
 
-Technology and data are converging in ways that allow monitoring and evaluation (M&E) professionals to more effectively monitor, evaluate, learn, and adapt on their projects. Dashboards are one of the key tools contributing to this trend, having become more accessible and user friendly through platforms such as [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_bHb24t0B&lnkd=Google_PowerBI_Brand&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQBWS9woBxKkiDNWqYJ1QffUY7fpDoUDQTRkOS4N15amKTJGVg8EmGMaAkDrEALw_wcB). 
+Technology and data are converging in ways that allow monitoring and evaluation (M&E) professionals to more effectively monitor, evaluate, learn, and adapt on their projects. Dashboards are one of the key tools contributing to this trend, having become more accessible and user friendly through platforms such as [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_bHb24t0B&lnkd=Google_PowerBI_Brand&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQBWS9woBxKkiDNWqYJ1QffUY7fpDoUDQTRkOS4N15amKTJGVg8EmGMaAkDrEALw_wcB).
 
 Dashboards are an information management tool that visually track, analyze, and display metrics and data points to monitor the status of a project. DAI is creating dashboards for all new projects to enable teams to learn, evaluate, and adapt to project realities in near real-time. Ultimately, these dashboards make for better monitoring and evaluation and—in turn—better projects. Therefore, it's important to get it right. So where should you start?
 
@@ -46,10 +46,15 @@ Most viewers scan the web starting at the top left of the page. Go back to think
 Remember to keep it simple. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice.
 
 * Indicators containing targets and actuals are typically best ​displayed using gauges, bar charts, and line charts.
+
 * Bar charts should be used rather than pie charts—you cannot see the difference between pie fields which have similar values.
+
 * Horizontal bars work best for rankings.
+
 * Line plots are usually for time series plots comparing multiple series like a targets or actuals.
+
 * Bubble plots are used when presenting three different values (x-axis, y-axis, and bubble size).
+
 * Make sure colors fit diverging or sequential data. When choosing colors check [color brewer](http://colorbrewer2.org/) for guidance on color palates for plots and maps.
 
 In the end, remember the dashboard is just a data visualization tool and will only be successful when connected to a project's communication, evaluation, or learning strategy. Keep this in mind when creating dashboards and constantly look for ways to simplify your report design. ​
