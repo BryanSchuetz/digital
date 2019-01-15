@@ -21,19 +21,13 @@ The Center for Digital Acceleration is excited to announce that we’re taking t
 
 ## Citizen-Centered Design in Afghanistan
 
-![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
+First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each. 
 
-First of all, we’ve recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each. 
-
-![photo 3.jpg](/uploads/photo%203.jpg)
-`Frontier Insights with a shop owner in Kabul`
-
-Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to one another, and surface specific ideas for the app’s appearance, content, and functions. 
 
 ![photo4.jpg](/uploads/photo4.jpg)
 `Frontier Insights in Kabul`
 
-With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
+Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to one another, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
 
 ![photo5.JPG](/uploads/photo5.JPG)
 `Frontier Insights in Kabul`
@@ -47,7 +41,17 @@ Once we've made adjustments based on feedback from stakeholders, the design prop
 
 Frontier Insights is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
 
-We carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result. In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts; once again, we didn’t hit them all, but we have broad sample. Is it a scientifically representative sample of everyone in Kabul? No, but keep in mind that Frontier Insights is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design thinking sessions and user testing. So what did we find? 
+![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
+
+We carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result. 
+
+![photo 3.jpg](/uploads/photo%203.jpg)
+`Frontier Insights with a shop owner in Kabul`
+
+In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts; once again, we didn’t hit them all, but we have broad sample. Is this a scientifically representative sample of everyone in Kabul? No, but keep in mind that Frontier Insights is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design thinking sessions and user testing. 
+
+
+So what did we find? 
 
 ## 1. In Kabul, the incidence of both mobile phones and smartphones is high, but not universal
 
