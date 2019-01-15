@@ -1,8 +1,6 @@
 ---
 title: Citizen-Centered Design & Frontier Insights in Kabul Municipality
 date: 2019-01-15 12:16:00 -05:00
-categories:
-- Innovation
 tags:
 - Digital Insights
 - Afghanistan
