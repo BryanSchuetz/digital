@@ -23,7 +23,6 @@ The Center for Digital Acceleration is excited to announce that we’re taking t
 
 First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each. 
 
-
 ![photo4.jpg](/uploads/photo4.jpg)
 `Frontier Insights in Kabul`
 
@@ -39,7 +38,7 @@ Once we've made adjustments based on feedback from stakeholders, the design prop
 ![20181124_102937.jpg](/uploads/20181124_102937.jpg)
 `Frontier Insights in Kabul`
 
-Frontier Insights is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
+Taking a step back; Frontier Insights is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
 
 ![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
 
