@@ -52,7 +52,7 @@ So what did we find?
 
 ## 1. In Kabul, the incidence of both mobile phones and smartphones is high, but not universal
 
-Our 97% of our respondents had a mobile phone of some type or another, and 56% had a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how an SMS component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
+ 97% of respondents had a mobile phone of some type or another, and 56% had a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how an SMS component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
 
 <script id="infogram_0_fae6008e-c755-441b-b585-5448aa56028d" title="Type of phone w/ gender" src="https://e.infogram.com/js/dist/embed.js?9RJ" type="text/javascript"></script>
 
