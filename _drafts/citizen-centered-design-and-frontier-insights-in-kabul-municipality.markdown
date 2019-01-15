@@ -25,7 +25,7 @@ First of all, we recruited a dynamite local project manager, who is quick to lea
 ![photo4.jpg](/uploads/photo4.jpg)
 `Frontier Insights in Kabul`
 
-Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to one another, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
+Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to each other, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
 
 ![photo5.JPG](/uploads/photo5.JPG)
 `Frontier Insights in Kabul`
