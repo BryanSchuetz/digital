@@ -65,7 +65,7 @@ Only 29 of the 120 citizens we spoke to have submitted a formal complaint about 
 
 <script id="infogram_0_76f0a6dc-10f1-4907-b074-54d3947c65a4" title="Complaint" src="https://e.infogram.com/js/dist/embed.js?K7J" type="text/javascript"></script>
 
-## Triangulation via design thinking 
+## Design Thinking as Triangulation
 
 ![IMG_3614.jpg](/uploads/IMG_3614.jpg)
 `Design thinking in Kabul`
