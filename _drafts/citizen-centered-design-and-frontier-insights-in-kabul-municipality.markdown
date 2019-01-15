@@ -21,8 +21,7 @@ The Center for Digital Acceleration is excited to announce that we’re taking t
 
 ## Citizen-Centered Design in Afghanistan
 
-![IMG-20181125-WA0013.jpg](/uploads/IMG-20181125-WA0013.jpg)
-`An enumerator from the USAID SHAHAR project interviews a local shop owner in Kabul`
+![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
 
 First of all, we’ve recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each. Subsequently, we carried out Frontier Insights face-to-face research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to one another, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that we’ve shared with all the same key actors to get their buy-in and ensure that they feel ownership of the process, and soon we’ll turn that design proposal into a scope of work for a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly. 
 
