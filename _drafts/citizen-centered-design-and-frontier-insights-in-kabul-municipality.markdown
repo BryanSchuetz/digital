@@ -8,7 +8,7 @@ tags:
 Author: Adam Fivenson
 ---
 
-The Center for Digital Acceleration is excited to announce that we’re taking the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation app that we developed for Guatemalan municipalities and replicating it for Kabul and four other Afghan municipalities through the [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. 
+The Center for Digital Acceleration is excited to announce that we’re taking the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation app that we developed for Guatemalan municipalities and replicating it for Kabul and four other Afghan municipalities. This work is taking place under the auspices of the [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. 
 
 ![IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
 `Frontier Insights in Kabul, part of DAI's citizen-centered design process`
