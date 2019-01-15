@@ -3,7 +3,6 @@ title: Citizen-Centered Design & Frontier Insights in Kabul
 date: 2019-01-15 12:16:00 -05:00
 tags:
 - Digital Insights
-- Afghanistan
 - Human-centered design
 Author: Adam Fivenson
 ---
