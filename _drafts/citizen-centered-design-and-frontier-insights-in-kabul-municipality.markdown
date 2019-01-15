@@ -41,7 +41,7 @@ Taking a step back,  *Frontier Insights* is a key component of our design approa
 
 ![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
 
-We carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result.
+In Kabul, we carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result.
 
 ![photo 3.jpg](/uploads/photo%203.jpg)
 `Frontier Insights in Kabul`
