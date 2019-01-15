@@ -58,7 +58,7 @@ So what did we find?
 
 ## 2. TV, radio and Facebook are popular sources of news
 
-Among our respondents, almost everyone said that they got their news from television, while about half said that they used the radio and Facebook on their mobile phone to get news. To us, this gives us a sense of how to reach people when we get the promotion stage. It’s also interesting to see Facebook rival radio as the second most popular news source; this is the case in many of the places where we’ve carried out [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research, as it is at home in the US.
+Among our respondents, almost everyone said that they got their news from television, while about half said that they used the radio and Facebook on their mobile phone to get news. To us, this gives us a sense of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second most popular news source; this is the case in many of the places where we’ve carried out [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) research, as it is at home in the US.
 
 <script id="infogram_0_b47d1f5a-a7bd-4386-ae80-9451a9c32a9c" title="How do you get news?" src="https://e.infogram.com/js/dist/embed.js?bCA" type="text/javascript"></script>
 
