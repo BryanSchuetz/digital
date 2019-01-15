@@ -38,7 +38,7 @@ Once we've made adjustments based on feedback from stakeholders, the design prop
 ![20181124_102937.jpg](/uploads/20181124_102937.jpg)
 `Frontier Insights in Kabul`
 
-Taking a step back; Frontier Insights is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
+Taking a step back; Frontier Insights is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
 
 ![IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG](/uploads/IMG-75d2447b39872111db9bc85b83b9f6c7-V.JPG) `Frontier Insights in Kabul`
 
