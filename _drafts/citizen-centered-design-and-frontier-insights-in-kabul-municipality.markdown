@@ -68,7 +68,7 @@ Only 29 of the 120 citizens we spoke to have submitted a formal complaint about 
 ## Design Thinking as Triangulation
 
 ![IMG_3614.jpg](/uploads/IMG_3614.jpg)
-`Design thinking in Kabul`
+`Our design thinking session at the SHAHAR office`
 
 We ran these sessions much the same way as the workshops we [facilitated in Guatemala](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) last year, having small groups generate and vote on ideas, present those to the full group, and then having the full group vote on the best ideas. Beyond the opportunity to surface ideas from the bottom-up, we view these sessions as an a chance to have the actors and institutions to meet each other face-to-face and understand each others’ interests and preferences. Like Frontier Insights, none of the suggestions or ideas we collect are definitive; instead we triangulate and put together a draft concept that will pass muster for our own gatekeepers within the SHAHAR project and within the municipality (principally the mayor himself, who is only one voice, but an important one).
 
