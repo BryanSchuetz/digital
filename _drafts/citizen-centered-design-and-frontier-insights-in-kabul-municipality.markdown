@@ -10,22 +10,25 @@ Author: Adam Fivenson
 
 The Center for Digital Acceleration is excited to announce that we’re taking the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency & citizen participation app that we developed for Guatemalan municipalities and replicating it for Kabul and four other Afghan municipalities through the [USAID SHAHAR](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project. 
 
-[Photo]
+[IMG-1cebd64f842ca6e290609447b81a883f-V.JPG](/uploads/IMG-1cebd64f842ca6e290609447b81a883f-V.JPG)
+`Frontier Insights in Kabul, part of DAI's citizen-centered design process`
 
 <!--more-->
 
-## Replicating half way around the world
+## Replicating Half Way Around the World
 “But how can a tool built for Guatemala work in Afghanistan?” you may ask. This is a fair question given the inherent risks: differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances; in fact, they are the foundations of our entire approach, which we’re calling [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from Guatemala, but through our design process, we’re applying an ethnographic lens to develop our understanding of local culture, technology adoption and application, as well as the relationship that citizens have to their local government. 
 
-## Citizen-Centered Design for Afghanistan
+## Citizen-Centered Design in Afghanistan
 
-[Photo]
+![IMG-20181125-WA0013.jpg](/uploads/IMG-20181125-WA0013.jpg)
+`An enumerator from the USAID SHAHAR project interviews a local shop owner in Kabul`
 
 First of all, we’ve recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each. Subsequently, we carried out Frontier Insights face-to-face research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to one another, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that we’ve shared with all the same key actors to get their buy-in and ensure that they feel ownership of the process, and soon we’ll turn that design proposal into a scope of work for a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly. 
 
 ## Frontier Insights Kabul
 
-[Photo]
+![20181124_102937.jpg](/uploads/20181124_102937.jpg)
+`Frontier Insights in Kabul`
 
 Returning to Frontier Insights, this is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
 
@@ -63,19 +66,23 @@ Only 29 of the 120 citizens we spoke to have submitted a formal complaint about 
 
 ## Triangulation via design thinking 
 
-[Photo]
+![IMG_3614.jpg](/uploads/IMG_3614.jpg)
+`Design thinking in Kabul`
 
 We ran these sessions much the same way as the workshops we [facilitated in Guatemala](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) last year, having small groups generate and vote on ideas, present those to the full group, and then having the full group vote on the best ideas. Beyond the opportunity to surface ideas from the bottom-up, we view these sessions as an a chance to have the actors and institutions to meet each other face-to-face and understand each others’ interests and preferences. Like Frontier Insights, none of the suggestions or ideas we collect are definitive; instead we triangulate and put together a draft concept that will pass muster for our own gatekeepers within the SHAHAR project and within the municipality (principally the mayor himself, who is only one voice, but an important one).
 
-[Photo]
+![IMG_3618.jpg](/uploads/IMG_3618.jpg)
+`Design thinking participants discuss their ideas for the Kabul app`
 
 In terms of appearance, we’ll need to use the municipality’s current color scheme, dark blue and gold, as a base, but we wanted citizens to make some suggestions for additional colors to use. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product, generating ownership. In the end they chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Nice colors, but we’ll have to think on how to artfully incorporate them with a base color scheme of blue and gold. 
 
-[Photo]
+![IMG_3648.jpg](/uploads/IMG_3648.jpg)
+`A participants votes on ideas during a plenary session`
 
 In terms of content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can since most of it is static content that doesn’t require a back-end connection to a database. 
 
-[Photo]
+![IMG_3711.jpg](/uploads/IMG_3711.jpg)
+`A participant votes on her favorite ideas`
 
 In terms of functions, participants asked for the ability to share reports directly to the municipality, but also to get feedback on their report. They wanted a safaye and business tax calculator, the ability to pay the safaye tax directly, and access to municipal job listings. As mentioned above, we are confident that we’ll be able to integrate the app into the citizen reporting mechanism that SHAHAR is developing for Kabul. We’re also confident that we can do a tax calculator. The municipal job listing will depend on the municipality’s current processes for posting jobs online and if there is already a place where this information is available. As for the safaye payment component, we have seen significant interest in this component also from the mayor’s office, and are exploring the technical challenges involved.  We’ve heard that UN HABITAT is building a database of safaye payments, which we would need to leverage, but we’re not sure when it will be ready, so we may end up pushing this component to a round 2 of development.
 
