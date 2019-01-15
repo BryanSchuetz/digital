@@ -20,7 +20,7 @@ You may ow be asking yourself, “but how can a tool built for Guatemala work in
 
 ## Citizen-Centered Design in Afghanistan
 
-First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each.
+First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker, and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each.
 
 ![photo4.jpg](/uploads/photo4.jpg)
 `Frontier Insights in Kabul`
