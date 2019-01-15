@@ -95,7 +95,7 @@ In terms of appearance, we’ll use the municipality’s current color scheme, d
 ![IMG_3648.jpg](/uploads/IMG_3648.jpg)
 `A participants votes on ideas during a plenary session`
 
-For content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can since most of it is static content that doesn’t require a back-end connection to a database.
+For content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can, since most of it is static content that doesn’t require a back-end connection to a database.
 
 ![IMG_3711.jpg](/uploads/IMG_3711.jpg)
 `A participant votes on her favorite ideas`
