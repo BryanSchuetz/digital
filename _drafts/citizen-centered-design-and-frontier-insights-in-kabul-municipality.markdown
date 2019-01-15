@@ -31,7 +31,7 @@ First of all, we’ve recruited a dynamite local project manager, who is quick t
 ![20181124_102937.jpg](/uploads/20181124_102937.jpg)
 `Frontier Insights in Kabul`
 
-Returning to Frontier Insights, this is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
+Frontier Insights is a key step in our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of how what they think about and expect from their municipal authorities. 
 
 We carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so, only by another woman. We accounted for this by building our interview team of half men and half women and while it’s not 50/50, we’re happy with the result. In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts; once again, we didn’t hit them all, but we have broad sample. Is it a scientifically representative sample of everyone in Kabul? No, but keep in mind that Frontier Insights is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design thinking sessions and user testing. So what did we find? 
 
