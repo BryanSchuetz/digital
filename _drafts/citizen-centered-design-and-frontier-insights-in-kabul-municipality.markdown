@@ -63,13 +63,13 @@ We asked our respondents to name their three favorite apps. Unsurprisingly, thei
 
 <script id="infogram_0_a8bf5dba-7f0d-4eb7-9a97-bc6ce9c7a595" title="Favorite apps" src="https://e.infogram.com/js/dist/embed.js?kc0" type="text/javascript"></script>
 
-## 4. People visit the municipality to pay property tax or get a business license
+## 4. People Visit the Municipality to Pay Property Tax or Get a Business License
 
-The property, or safaye, tax was by far the most common reason people visit the municipality. Respondents also mentioned visiting the municipality to get a business license, get an ID, and other housing documents. Based on this, we’re exploring the possibility of building into the app a capability to make safaye payments. Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process.
+The property, or *safaye,* tax was by far the most common reason people visit the municipality. Respondents also mentioned visiting the municipality to get a business license, an ID, and housing documents. Based on this, we’re exploring the possibility of building into the app a capability to make *safaye* payments. Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process.
 
 <script id="infogram_0_f9fcda60-4f34-47a0-8d03-da60d2b21d0a" title="Why visit municipality?" src="https://e.infogram.com/js/dist/embed.js?Tw8" type="text/javascript"></script>
 
-## 5. The municipality’s current citizen feedback and request mechanisms need work
+## 5. Municipality’s Current Citizen Feedback and Request Mechanisms Need Work
 
 Of our 120 respondents, only 29 reported previously submitting a formal complaint about a local issue (bad roads, trash pick-up, etc…) to their municipality. Of those 29, only 5 felt that their issue was resolved. Improving citizen engagement is a core objective of the SHAHAR project, therefore, as part of the app design we’ll be working with the project team (that’s helping improve the municipality’s citizen report mechanisms) to incorporate a feature allowing SHAHAR staff to send and integrate reports, from the app, directly to the systems  SHAHAR is building.  Our goal is that the app-based reports will look the same to municipal staff as reports shared in person, over the phone, or any other way.
 
