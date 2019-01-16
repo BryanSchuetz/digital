@@ -93,7 +93,7 @@ In terms of functions, participants asked for the ability to share reports direc
 
 ## Where To Go From Here?
 
-Based on the results from *Frontier Insights* and our design-thinking session, we’re putting together our design proposal and preparing to socialize it with key actors. In the next week or so, we hope to finalize the scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design-thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October, and possibly earlier, since we are starting with pre-existing source code.
+Based on the results from *Frontier Insights* and our design-thinking session, we’re putting together our design proposal and preparing to socialize it with key actors. In the next week or so, we'll finalize our design and get started with the process of hiring a local software developer. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design-thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October, and possibly earlier, since we are starting with pre-existing source code.
 
 We’ll keep you updated on the progress of our process!
 
