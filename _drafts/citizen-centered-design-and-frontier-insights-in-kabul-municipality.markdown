@@ -9,7 +9,7 @@ social-image: "/uploads/FI2%20(1).jpg"
 thumbnail: "/uploads/FI2%20(1).jpg"
 ---
 
-The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency and citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan through the [Strong Hubs for Afghan Hope and Resilience (SHAHAR)](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project funded by the U.S. Agency for International Development. The first iteration will be with the Municipality of Kabul.
+The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency and citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan through the [Strong Hubs for Afghan Hope and Resilience (SHAHAR)](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project, which is funded by the U.S. Agency for International Development. The first iteration will be with the Municipality of Kabul.
 
 ![FI1 (1).jpg](/uploads/FI1%20(1).jpg)`Frontier Insights in Kabul, part of DAI's citizen-centered design process.`
 
@@ -17,7 +17,7 @@ The Center for Digital Acceleration is excited to announce that we’re taking *
 
 ## Replicating Half Way Around the World
 
-You may be asking yourself, “But how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks—differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances. In fact, they are the foundations of our entire approach—what we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the *MiMuni* app in Guatemala, but through our design process, applying an ethnographic lens to create a new application that represents Afghan local culture, technology adoption and application, as well as the relationship between citizens and their local government.
+You may be asking yourself, “But how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks inherent in the differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances. In fact, they are the foundations of our entire approach—what we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the *MiMuni* app in Guatemala, but through our design process, applying an ethnographic lens to create a new application that represents Afghan local culture, technology adoption and application, as well as the relationship between citizens and their local government.
 
 ## Citizen-Centered Design in Afghanistan
 
