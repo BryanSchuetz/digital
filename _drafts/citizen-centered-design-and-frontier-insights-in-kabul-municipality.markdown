@@ -15,14 +15,13 @@ The Center for Digital Acceleration is excited to announce that we’re taking *
 
 ## Replicating Half Way Around the World
 
-You may be asking yourself, “but how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks: differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances.  In fact, they are the foundations of our entire approach, which we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the \*MiMuni \*app in Guatemala, but through our design process,  applying an ethnographic lens to create a new application the represents Afghani local culture, technology adoption and application, as well as the relationship between citizens and their local government.
+You may be asking yourself, “But how can a tool built for Guatemala work in Afghanistan?” This is a fair question, given the inherent risks—differences in language, culture, expectations of an interface, and from an institutional standpoint, a totally distinct system of incentives, governance, and decision-making. We view these differences as features of the process as opposed to hindrances. In fact, they are the foundations of our entire approach—what we call [citizen-centered design](https://dai-global-digital.com/citizen-centered-design-guatemala.html). In essence, we’re taking the core architecture from the *MiMuni* app in Guatemala, but through our design process, applying an ethnographic lens to create a new application that represents Afghan local culture, technology adoption and application, as well as the relationship between citizens and their local government.
 
 ## Citizen-Centered Design in Afghanistan
 
-First of all, we recruited a dynamite local project manager, who is quick to learn, a skilled networker, and a strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society, Afghan’s ecosystem of innovators and technology companies, and made contact with each.
+First of all, we recruited a dynamite local project manager, who is a quick learner, skilled networker, and strong relationship manager. Working with him, we’ve mapped the key actors and stakeholders within the SHAHAR project, Kabul Municipality, the Afghan Deputy Ministry of Municipalities (DMM), local civil society groups, Afghan’s ecosystem of innovators and technology companies, and made contact with each.
 
-![FI2 (1).jpg](/uploads/FI2%20(1).jpg)
-`Frontier Insights in Kabul`
+![FI2 (1).jpg](/uploads/FI2%20(1).jpg)`Frontier Insights in Kabul.`
 
 Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to each other, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
 
