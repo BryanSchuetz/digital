@@ -47,11 +47,11 @@ So what did we find?
 
 ## 1. Use of Mobile Phones and Smartphones is High, but not Universal
 
-Some 97 percent of respondents have a mobile phone of some type or another, and 56 percent have a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how an SMS component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
+Some 97 percent of respondents have a mobile phone of some type or another, and 56 percent have a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how a simple text-messaging component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
 
 <script id="infogram_0_fae6008e-c755-441b-b585-5448aa56028d" title="Type of phone w/ gender" src="https://e.infogram.com/js/dist/embed.js?9RJ" type="text/javascript"></script>
 
-## 2. TV, radio and Facebook are popular sources of news
+## 2. TV, Radio, and Facebook are Popular Sources of News
 
 Among our respondents, almost everyone said that they got their news from television, while about half said that they used the radio and Facebook on their mobile phone to get news. To us, this gives us a sense of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the US.
 
