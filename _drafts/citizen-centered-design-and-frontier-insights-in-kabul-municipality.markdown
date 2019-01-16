@@ -65,7 +65,7 @@ We asked our respondents to name their three favorite apps. Unsurprisingly, thei
 
 ## 4. People Visit the Municipality to Pay Property Tax or Get a Business License
 
-The property tax, or *safaye*, was by far the most common reason people cited for visiting the municipality. Respondents also mentioned visiting the municipality to get a business license, an ID, and housing documents. Based on this, we’re exploring the possibility of building into the app a capability to make *safaye* payments. Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process.
+The property tax, or *safaye*, was by far the most common reason people cited for visiting the municipality. Respondents also mentioned visiting the municipality to get a business license, an ID, and housing documents. Based on this, we’re exploring the possibility of making *safaye* payments through the app, . Separately, we’ve been told that the business license process will no longer sit with the municipality, so we plan to provide some information about how to get the license in the app, rather than a digital license process.
 
 <script id="infogram_0_f9fcda60-4f34-47a0-8d03-da60d2b21d0a" title="Why visit municipality?" src="https://e.infogram.com/js/dist/embed.js?Tw8" type="text/javascript"></script>
 
