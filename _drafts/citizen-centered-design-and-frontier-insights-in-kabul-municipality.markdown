@@ -53,13 +53,13 @@ Some 97 percent of respondents have a mobile phone of some type or another, and 
 
 ## 2. TV, Radio, and Facebook are Popular Sources of News
 
-Among our respondents, almost everyone said that they got their news from television, while about half said that they used the radio and Facebook on their mobile phone to get news. To us, this gives us a sense of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the US.
+Among our respondents, almost everyone said they get their news from television, while about half said they use the radio and Facebook on their mobile phones for news. This gives us a sense of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second-most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the United States.
 
 <script id="infogram_0_b47d1f5a-a7bd-4386-ae80-9451a9c32a9c" title="How do you get news?" src="https://e.infogram.com/js/dist/embed.js?bCA" type="text/javascript"></script>
 
-## 3. People love Facebook and Viber
+## 3. People Love Facebook and Viber
 
-We asked our respondents to name their three favorite apps. Unsurprisingly, their favorite app was Facebook, followed by—surprisingly—Viber. In most places we work, WhatsApp is a close second, but in this case it came in third, followed closely by Messenger, Instagram, and (another surprise) imo. Our respondents also reported using Facebook an average of 77 minutes per day. Based on these findings, we’ll be looking for ways to promote our app via Facebook, Viber and Whatsapp, but also  look for some simple ways to integrate our app with these social popular social tools. We designed something similar in Guatemala, where citizens are able share what they find in the budget section of the application with their friends via popular messaging tools or choose post them to Facebook.
+We asked our respondents to name their three favorite apps. Unsurprisingly, their favorite app is Facebook, followed by—surprisingly—Viber. In most places we work, WhatsApp is a close second, but in this case it came in third, followed closely by Messenger, Instagram. Our respondents also reported using Facebook an average of 77 minutes per day. Based on these findings, we’ll be looking for ways to promote our app via Facebook, Viber, and Whatsapp, but also look for some simple ways to integrate our app with these social popular social tools. We designed something similar in Guatemala, where citizens are able share what they find in the budget section of the application with their friends via popular messaging tools or choose post them to Facebook.
 
 <script id="infogram_0_a8bf5dba-7f0d-4eb7-9a97-bc6ce9c7a595" title="Favorite apps" src="https://e.infogram.com/js/dist/embed.js?kc0" type="text/javascript"></script>
 
