@@ -53,7 +53,7 @@ Some 97 percent of respondents have a mobile phone of some type \\ and 56 percen
 
 ## 2. TV, Radio, and Facebook are Popular Sources of News
 
-Among our respondents, almost everyone said they get their news from television, while about half said they use the radio and Facebook on their mobile phones for news. This gives us a sense of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second-most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the United States.
+Among our respondents, almost everyone said they get their news from television, while about half said they use the radio and Facebook on their mobile phones for news. This gives us an idea of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second-most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the United States.
 
 <script id="infogram_0_b47d1f5a-a7bd-4386-ae80-9451a9c32a9c" title="How do you get news?" src="https://e.infogram.com/js/dist/embed.js?bCA" type="text/javascript"></script>
 
