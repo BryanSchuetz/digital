@@ -85,7 +85,7 @@ In terms of appearance, we’ll use the municipality’s current color scheme, d
 
 ![FI 6 (1).jpg](/uploads/FI%206%20(1).jpg)`Participants discuss their ideas for the Kabul app.`
 
-For content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can, since most of it is static content that doesn’t require a back-end connection to a database.
+Content-wise, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, so we are proposing to include as much of it as we can, since most of it is static content that doesn’t require a back-end connection to a database. In short, whatever the municipality can furnish will be included. 
 
 ![IMG_3648.jpg](/uploads/IMG_3648.jpg)`A participants votes on ideas during a plenary session.`
 
