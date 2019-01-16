@@ -47,7 +47,7 @@ So what did we find?
 
 ## 1. Use of Mobile Phones and Smartphones is High, but not Universal
 
-Some 97 percent of respondents have a mobile phone of some type or another, and 56 percent have a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how a simple text-messaging component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
+Some 97 percent of respondents have a mobile phone of some type \\ and 56 percent have a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how a simple text-messaging component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
 
 <script id="infogram_0_fae6008e-c755-441b-b585-5448aa56028d" title="Type of phone w/ gender" src="https://e.infogram.com/js/dist/embed.js?9RJ" type="text/javascript"></script>
 
