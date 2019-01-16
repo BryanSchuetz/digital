@@ -71,7 +71,7 @@ The property tax, or *safaye*, was by far the most common reason people cited fo
 
 ## 5. Municipality’s Current Citizen Feedback and Request Mechanisms Need Work
 
-Of our 120 respondents, only 29 reported previously submitting a formal complaint about a local issue (bad roads, trash pick-up, etc…) to their municipality. Of those 29, only five felt that their issue was resolved. Improving citizen engagement is a core objective of SHAHAR, therefore, as part of the app design we’ll be working with the team to incorporate a feature allowing SHAHAR staff to send and integrate reports, from the app, directly to the system SHAHAR is building. Our goal is that the app-based reports will look the same to municipal staff as reports shared in person, over the phone, or any other way.
+Of our 120 respondents, only 29 reported previously submitting a formal complaint about a local issue (bad roads, trash pick-up, etc…) to their municipality. Of those 29, only five felt that their issue was resolved. Improving citizen engagement is a core objective of SHAHAR, as part of our design process we’ll be working with the project team to incorporate a feature allowing citizens to send issue reports from the app, directly to the back-end system SHAHAR is already building with municipal staff. Our goal is that the app-based reports will look the same to municipal staff as reports shared in person, over the phone, or any other way.
 
 <script id="infogram_0_76f0a6dc-10f1-4907-b074-54d3947c65a4" title="Complaint" src="https://e.infogram.com/js/dist/embed.js?K7J" type="text/javascript"></script>
 
