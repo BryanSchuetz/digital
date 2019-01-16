@@ -23,12 +23,11 @@ First of all, we recruited a dynamite local project manager, who is a quick lear
 
 ![FI2 (1).jpg](/uploads/FI2%20(1).jpg)`Frontier Insights in Kabul.`
 
-Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design thinking session to bring together our stakeholders, get them to talk to each other, and surface specific ideas for the app’s appearance, content, and functions. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
+Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design-thinking session to bring together our stakeholders and surface specific ideas for the app’s appearance, content, and functionality. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
 
-![photo5.JPG](/uploads/photo5.JPG)
-`Frontier Insights in Kabul`
+![photo5.JPG](/uploads/photo5.JPG)`Frontier Insights in Kabul.`
 
-Once we've made adjustments based on feedback from stakeholders, the design proposal will become a scope of work that SHAHAR's procurement team will use to help us hire a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly.
+Once we’ve made adjustments based on feedback from stakeholders, the design proposal will become a scope of work that SHAHAR's procurement team will use to help us hire a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly.
 
 ## Frontier Insights Kabul
 
