@@ -41,7 +41,7 @@ In Kabul, we carried out 120 interviews-including 70 men and 50 women. We made a
 
 ![photo 3.jpg](/uploads/photo%203.jpg)`Frontier Insights in Kabul.`
 
-In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts. Once again, we didn’t hit them all, but we gathered a broad sample. Is the data collected a scientifically representative sample of everyone in Kabul? No, but keep in mind that *Frontier Insights* is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design-thinking sessions and user testing. This is the difference between design research and, for example, M&E. 
+In terms of geographic diversity, we interviewed people in 15 of Kabul’s 22 districts. Once again, we didn’t hit them all, but we gathered a broad sample. Is the data collected a scientifically representative sample of everyone in Kabul? No, but keep in mind that *Frontier Insights* is designed to help us make early decisions in our design process; we’ll keep researching, iterating, and improving our solution throughout the process through our design-thinking sessions and user testing. This is the difference between design research and, for example, research for monitoring and evaluation. 
 
 So what did we find?
 
