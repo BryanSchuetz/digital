@@ -23,7 +23,7 @@ First of all, we recruited a dynamite local project manager, who is a quick lear
 
 ![FI2 (1).jpg](/uploads/FI2%20(1).jpg)`Frontier Insights in Kabul.`
 
-Subsequently, we carried out Frontier Insights research with citizens across 15 of Kabul’s 22 districts, and hosted a design-thinking session to bring together our stakeholders and surface specific ideas for the app’s appearance, content, and functionality. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
+Subsequently, we carried out *Frontier Insights* research with citizens across 15 of Kabul’s 22 districts, and hosted a design-thinking session to bring together our stakeholders and surface specific ideas for the app’s appearance, content, and functionality. With this information, we put together a design proposal that will be shared with all the same key actors to ensure buy-in and a feeling of ownership of the process.
 
 ![photo5.JPG](/uploads/photo5.JPG)`Frontier Insights in Kabul.`
 
@@ -34,8 +34,6 @@ Once we’ve made adjustments based on feedback from stakeholders, the design pr
 ![FI 4 (1).jpg](/uploads/FI%204%20(1).jpg)`Frontier Insights in Kabul.`
 
 Taking a step back, *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
-
-![FI5 (1).jpg](/uploads/FI5%20(1).jpg)`Frontier Insights in Kabul.`
 
 In Kabul, we carried out 120 interviews—with 70 men and 50 women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so they agree, would prefer to be interviewed by a woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
 
@@ -91,11 +89,9 @@ For content, participants asked us to include municipal contacts, development pl
 
 In terms of functions, participants asked for the ability to share reports directly to the municipality, but also to get feedback on their report. They wanted a *safaye* and business tax calculator, the ability to pay the tax directly, and access to municipal job listings. As mentioned above, we are confident that we’ll be able to integrate the app into the citizen reporting mechanism that SHAHAR is developing for Kabul. We’re also confident we can do a tax calculator. The municipal job listing will depend on the current processes for posting jobs online and if there is already a place where this information is available. As for the *safaye* payment component, we have saw significant interest in this feature also from the mayor’s office, and are exploring the technical challenges involved. We’ve heard that UN HABITAT is building a database of *safaye* payments, which we would need to leverage to build out the payment's feature, but as of today we’re not sure when it will be ready, so we may end up pushing this component to a round two of development.
 
-![IMG_3711.jpg](/uploads/IMG_3711.jpg)`A participant votes on her favorite ideas.`
-
 ## Where To Go From Here?
 
-Based on the results from *Frontier Insights* and our design-thinking session, we’re putting together our design proposal and socializing it with all the key actors. In the next week or so, we hope to finalize the scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design-thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October, and possibly earlier, since we are starting with pre-existing source code. 
+Based on the results from *Frontier Insights* and our design-thinking session, we’re putting together our design proposal and socializing it with all the key actors. In the next week or so, we hope to finalize the scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design-thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October, and possibly earlier, since we are starting with pre-existing source code.
 
 We’ll keep you updated on the progress of our process!
 
