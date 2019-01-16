@@ -31,8 +31,7 @@ Once we’ve made adjustments based on feedback from stakeholders, the design pr
 
 ## Frontier Insights Kabul
 
-![FI 4 (1).jpg](/uploads/FI%204%20(1).jpg)
-`Frontier Insights in Kabul`
+![FI 4 (1).jpg](/uploads/FI%204%20(1).jpg)`Frontier Insights in Kabul.`
 
 Taking a step back,  *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
 
