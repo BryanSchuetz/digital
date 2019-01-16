@@ -27,17 +27,15 @@ Subsequently, we carried out Frontier Insights research with citizens across 15 
 
 ![photo5.JPG](/uploads/photo5.JPG)`Frontier Insights in Kabul.`
 
-Once we’ve made adjustments based on feedback from stakeholders, the design proposal will become a scope of work that SHAHAR's procurement team will use to help us hire a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly.
+Once we’ve made adjustments based on feedback from stakeholders, the design proposal will become a scope of work that SHAHAR’s procurement team will use to help us hire a local software developer. That developer will take our open source code from Guatemala and replicate it accordingly.
 
 ## Frontier Insights Kabul
 
 ![FI 4 (1).jpg](/uploads/FI%204%20(1).jpg)`Frontier Insights in Kabul.`
 
-Taking a step back,  *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
+Taking a step back, *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
 
-![FI5 (1).jpg](/uploads/FI5%20(1).jpg)
-
- `Frontier Insights in Kabul`
+![FI5 (1).jpg](/uploads/FI5%20(1).jpg)`Frontier Insights in Kabul.`
 
 In Kabul, we carried out 120 interviews, of which 70 were men and 50 were women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so they agree, would rather be interviewed by another woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
 
