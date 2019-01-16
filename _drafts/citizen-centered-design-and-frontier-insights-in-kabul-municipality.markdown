@@ -37,7 +37,7 @@ Once we’ve made adjustments based on feedback from stakeholders, the design pr
 
 Taking a step back, *Frontier Insights* is a key component of our design approach. It helps us understand how citizens communicate, how they seek and share information, how they use technology, and gives us a sense of what they expect from their municipal authorities.
 
-In Kabul, we carried out 120 interviews—with 70 men and 50 women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if so they agree, would prefer to be interviewed by a woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
+In Kabul, we carried out 120 interviews—with 70 men and 50 women. We made a push for gender equality, which—as we learned—is a challenge in a place where women are less likely to agree to be interviewed in the street, and if they agree, would prefer to be interviewed by a woman. We accounted for this by building our interview team of both men and women. While the interviewees did not turn out to be 50/50, we’re happy with the result.
 
 ![photo 3.jpg](/uploads/photo%203.jpg)`Frontier Insights in Kabul.`
 
