@@ -71,33 +71,29 @@ The property, or *safaye,* tax was by far the most common reason people visit th
 
 ## 5. Municipality’s Current Citizen Feedback and Request Mechanisms Need Work
 
-Of our 120 respondents, only 29 reported previously submitting a formal complaint about a local issue (bad roads, trash pick-up, etc…) to their municipality. Of those 29, only 5 felt that their issue was resolved. Improving citizen engagement is a core objective of the SHAHAR project, therefore, as part of the app design we’ll be working with the project team (that’s helping improve the municipality’s citizen report mechanisms) to incorporate a feature allowing SHAHAR staff to send and integrate reports, from the app, directly to the systems  SHAHAR is building.  Our goal is that the app-based reports will look the same to municipal staff as reports shared in person, over the phone, or any other way.
+Of our 120 respondents, only 29 reported previously submitting a formal complaint about a local issue (bad roads, trash pick-up, etc…) to their municipality. Of those 29, only five felt that their issue was resolved. Improving citizen engagement is a core objective of SHAHAR, therefore, as part of the app design we’ll be working with the team to incorporate a feature allowing SHAHAR staff to send and integrate reports, from the app, directly to the systems SHAHAR is building. Our goal is that the app-based reports will look the same to municipal staff as reports shared in person, over the phone, or any other way.
 
 <script id="infogram_0_76f0a6dc-10f1-4907-b074-54d3947c65a4" title="Complaint" src="https://e.infogram.com/js/dist/embed.js?K7J" type="text/javascript"></script>
 
 ## Design Thinking as Triangulation
 
-![IMG_3614.jpg](/uploads/IMG_3614.jpg)
-`Our design thinking session at the SHAHAR office`
-
 We ran these sessions much the same way as the workshops we [facilitated in Guatemala](https://dai-global-digital.com/forking-with-design-thinking-in-guatemala.html) last year. We had small groups generate and vote on ideas, present those to the full group, and then the full group vote on the best ideas. Beyond the opportunity to surface ideas from the bottom-up, we view these sessions as an a chance to have the actors and institutions to meet each other face-to-face and understand each others’ interests and preferences. Like *Frontier Insights*, none of the suggestions or ideas we collect are definitive; instead we triangulate and put together a draft concept that will pass muster for our own gatekeepers within the SHAHAR project and within the municipality (principally the mayor himself, who is only one voice, but an important one).
 
-![FI 6 (1).jpg](/uploads/FI%206%20(1).jpg)
-`Participants discuss their ideas for the Kabul app`
+![IMG_3614.jpg](/uploads/IMG_3614.jpg)`Our design thinking session at the SHAHAR office.`
 
 In terms of appearance, we’ll use the municipality’s current color scheme, dark blue and gold, as a base, but we also wanted citizens to make suggestions for additional colors to use. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product and generate ownership. At the end of the design thinking sessions, the participants chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Eventually, we’ll have to think on how to artfully incorporate these with a base color scheme of blue and gold.
 
-![IMG_3648.jpg](/uploads/IMG_3648.jpg)
-`A participants votes on ideas during a plenary session`
+![FI 6 (1).jpg](/uploads/FI%206%20(1).jpg)`Participants discuss their ideas for the Kabul app.`
 
 For content, participants asked us to include municipal contacts, development plans, some information about budgets, some statistics about Kabul, an organizational chart, information on key laws and local ordinances, as well as news updates and information on touristic and historic sites in Kabul. Of course, our ability to incorporate this information will hinge on its availability, but we are proposing to include as much of it as we can, since most of it is static content that doesn’t require a back-end connection to a database.
 
-![IMG_3711.jpg](/uploads/IMG_3711.jpg)
-`A participant votes on her favorite ideas`
+![IMG_3648.jpg](/uploads/IMG_3648.jpg)`A participants votes on ideas during a plenary session.`
 
 In terms of functions, participants asked for the ability to share reports directly to the municipality, but also to get feedback on their report. They wanted a safaye and business tax calculator, the ability to pay the safaye tax directly, and access to municipal job listings. As mentioned above, we are confident that we’ll be able to integrate the app into the citizen reporting mechanism that SHAHAR is developing for Kabul. We’re also confident that we can do a tax calculator. The municipal job listing will depend on the municipality’s current processes for posting jobs online and if there is already a place where this information is available. As for the safaye payment component, we have saw significant interest in this feature also from the mayor’s office, and are exploring the technical challenges involved.  We’ve heard that UN HABITAT is building a database of safaye payments, which we would need to leverage to build out the payment's feature, but as of today we’re not sure when it will be ready, so we may end up pushing this component to a round 2 of development.
 
-## Where to go from here?
+![IMG_3711.jpg](/uploads/IMG_3711.jpg)`A participant votes on her favorite ideas.`
+
+## Where To Go From Here?
 
 Based on the results from *Frontier Insights* and our design thinking session, we’re putting together our design proposal and socializing it with all the key actors. In the next week or so, we hope to finalize the scope of work, which we’ll use to hire a local software developer and get to work. At the same time, our local project manager is starting his engagement with the other four provincial municipalities, where we’ll conduct *Frontier Insights* and host design thinking sessions so we can develop their municipal apps as well. We expect to finish the development of the Kabul app and the four provincial apps by October of this year, and possibly earlier, since we are starting with pre-existing source code. 
 
