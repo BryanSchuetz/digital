@@ -47,19 +47,19 @@ So what did we find?
 
 ## 1. Use of Mobile Phones and Smartphones is High, but not Universal
 
-Some 97 percent of respondents have a mobile phone of some type \\ and 56 percent have a smartphone of some type. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how a simple text-messaging component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
+Some 97 percent of respondents have a mobile phone of some type and 56 percent have a smartphone. This gives us confidence that a smartphone app will have an audience, but it also pushes us to think about how a simple text-messaging component might complement the app to help the municipality reach those who do not own a smartphone and vice versa.
 
 <script id="infogram_0_fae6008e-c755-441b-b585-5448aa56028d" title="Type of phone w/ gender" src="https://e.infogram.com/js/dist/embed.js?9RJ" type="text/javascript"></script>
 
 ## 2. TV, Radio, and Facebook are Popular Sources of News
 
-Among our respondents, almost everyone said they get their news from television, while about half said they use the radio and Facebook on their mobile phones for news. This gives us an idea of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second-most popular news source, since this is also the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research, and mirrors realities at home in the United States.
+Among our respondents, almost everyone said they get their news from television, while about half said they use the radio and Facebook on their mobile phones for news. This gives us an idea of how to reach people when we get to the promotion stage. It’s also interesting to see Facebook rival radio as the second-most popular news source. This is the case in many of the places where we’ve carried out *[Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights)* research.
 
 <script id="infogram_0_b47d1f5a-a7bd-4386-ae80-9451a9c32a9c" title="How do you get news?" src="https://e.infogram.com/js/dist/embed.js?bCA" type="text/javascript"></script>
 
 ## 3. People Love Facebook and Viber
 
-We asked our respondents to name their three favorite apps. Unsurprisingly, their favorite app is Facebook, followed by—surprisingly—Viber. In most places we work, WhatsApp is a close second, but in this case it came in third, followed closely by Messenger, Instagram. Our respondents also reported using Facebook an average of 77 minutes per day. Based on these findings, we’ll be looking for ways to promote our app via Facebook, Viber, and Whatsapp, but also look for some simple ways to integrate our app with these popular social tools. We designed something similar in Guatemala, where citizens are able to share what they find in the budget section of the application with their friends via popular messaging tools or choose post them to Facebook.
+We asked our respondents to name their three favorite apps. Unsurprisingly, their favorite app is Facebook, followed by—surprisingly—Viber. In most places we work WhatsApp is a close second, but in this case it dropped to third place followed closely by Messenger, and Instagram. Our respondents also reported using Facebook an average of 77 minutes per day. Based on these findings, we’ll be looking for ways to promote our app via Facebook, Viber, and Whatsapp, but also look for some simple ways to integrate our app with these popular social tools. We designed something similar in Guatemala, where citizens are able to share what they find in the budget section of the application with their friends via popular messaging tools or choose post them to Facebook.
 
 <script id="infogram_0_a8bf5dba-7f0d-4eb7-9a97-bc6ce9c7a595" title="Favorite apps" src="https://e.infogram.com/js/dist/embed.js?kc0" type="text/javascript"></script>
 
