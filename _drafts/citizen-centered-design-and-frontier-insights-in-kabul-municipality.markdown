@@ -81,7 +81,7 @@ We ran these sessions much the same way as the workshops we [facilitated in Guat
 
 ![IMG_3614.jpg](/uploads/IMG_3614.jpg)`Our design thinking session at the SHAHAR office.`
 
-In terms of appearance, we’ll use the municipality’s current color scheme, dark blue and gold, as a base, but we also wanted citizens to make suggestions for additional colors. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product and generate ownership. At the end of the design thinking sessions, the participants chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Eventually, we’ll have to think on how to artfully incorporate these with a base color scheme of blue and gold.
+In terms of appearance, we’ll use the municipality’s current color scheme, dark blue and gold, as a base, but we also wanted citizens to make suggestions for additional colors. While this may not seem important, we view it as a simple way to incorporate feedback and ideas from citizens that will be highly visible in the final product and generate ownership. At the end of the design-thinking sessions, the participants chose orange and green as accent colors; orange for the color of the vests the municipal employees wear, and green to represent vegetation. Eventually, we’ll have to think on how to artfully incorporate these with a base color scheme of blue and gold.
 
 ![FI 6 (1).jpg](/uploads/FI%206%20(1).jpg)`Participants discuss their ideas for the Kabul app.`
 
