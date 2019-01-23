@@ -9,7 +9,7 @@ social-image: "/uploads/hanson%20head%20shot-0bcd9c-d7d5b5.png"
 thumbnail: "/uploads/hanson%20head%20shot-0bcd9c-d7d5b5.png"
 ---
 
-On January 5, 2019, I posted the message below on Facebook to hold myself accountable to my new years resolution. 
+On January 5, I posted the message below on Facebook to hold myself accountable to my New Year’s resolution. 
 
 ![hanson blog pic-3811e6.png](/uploads/hanson%20blog%20pic-3811e6.png)
 
