@@ -23,7 +23,7 @@ In the tech industry in Nigeria, similar to other countries, the rural to urban 
 
 ## So What Advice Would I Give Uyo Businesses I Plan to Support?
 
-* **Learn from others:** Pay attention to what others are doing and learn from their successes and failures. In Uyo, we may not always be on the cutting edge in the tech sector, but being a few steps behind can work to our advantage. It means we are able to learn from the failures of others. For example, I have worked with multiple businesses both in Kenya and India that are not longer in existence because they were dependent on donor funds. This knowledge informed Start Innovation Hub’s business model that generates revenue without donor funds, making our work more sustainable.
+* **Learn from others:** Pay attention to what others are doing and learn from their successes and failures. In Uyo, we may not always be on the cutting edge in the tech sector, but being a few steps behind can work to our advantage. It means we are able to learn from the failures of others. For example, I have worked with multiple businesses both in Kenya and India that are not longer in existence because they were dependent on donor funds. This knowledge informed Start Innovation Hub’s business model that now generates revenue without donor funds.
 
 * **Work with what you have:** It’s true a faster internet makes my job easier, but a fast connection is not always guaranteed in Uyo. Don’t let a slow connection discourage you. The first rocket that went to the moon did not have internet and my computer is more powerful than that. You can do a lot more than you think with inconsistent WiFi or 2G.
 
