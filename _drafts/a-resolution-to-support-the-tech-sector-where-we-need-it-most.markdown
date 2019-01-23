@@ -33,6 +33,6 @@ In the tech industry in Nigeria, similar to other countries, the rural to urban 
 
 So, if you are a small business in Uyo, or a struggling entrepreneur with a great idea, please contact me. Together, we can solve the problems happening around us and prove that tech companies can thrive anywhere.
 
-![hanson head shot-0bcd9c-962d3a.png](/uploads/hanson%20head%20shot-0bcd9c-962d3a.png){:.float-right style="width: 45%;"}
+![hanson head shot-0bcd9c-962d3a.png](/uploads/hanson%20head%20shot-0bcd9c-962d3a.png){:.float-right style="width: 35%;"}
 
 *Hanson Johnson is the founder and CEO of Start Innovation Hub. He is also the country mentor for Google Developers in Nigeria, where he works with the Developer Relations Team at Google to ensure developer welfare and supports local developers to build sustainable technology ecosystems in their local communities. Since 2010, he has contributed to the development of the technology ecosystem in Nigeria as a software engineer, ecosystem builder, manager, and mentor. To reach out to him, feel free to message him on [Facebook](https://www.facebook.com/nextdeegit) or[ Twitter](https://twitter.com/nextdeegit).*
