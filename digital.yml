@@ -35,6 +35,79 @@ Frontier Insights in Kabul, part of DAI's citizen-centered design process."
     - Digital Insights 
     - Human-centered design 
 
+- title: "6 Tips for Making Great Monitoring and Evaluation Dashboards"
+  pub: "Digital"
+  date: 2019-01-15
+  link: "https://dai-global-digital.com/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html?utm_source=daidotcom"
+  summary: "Technology and data are converging in ways that allow monitoring and evaluation (M&amp;E) professionals to more effectively monitor, evaluate, learn, and adapt on their projects. Dashboards are one of the key tools contributing to this trend, having become more accessible and user friendly through platforms such as Microsoft PowerBI.
+
+Dashboards are an information management tool that visually track, analyze, and display metrics and data points to monitor the status of a project. DAI is creating dashboards for all new projects to enable teams to learn, evaluate, and adapt to project realities in near real-time. Ultimately, these dashboards make for better monitoring and evaluation and—in turn—better projects. Therefore, it’s important to get it right. So where should you start?"
+  tags:
+    - digital acceleration 
+    - Data Visualization 
+    - Data 
+
+- title: "Frontier Insights: Cyber Security Edition"
+  pub: "Digital"
+  date: 2019-01-10
+  link: "https://dai-global-digital.com/frontier-insights-cyber-security-edition.html?utm_source=daidotcom"
+  summary: "The headline says it all: “Over a billion people’s data was compromised in 2018.” Among the most egregious offenders were some of the most popular tech platforms in the world: Facebook, for example, admitted it had leaked the personal data of nearly 150 million users; Twitter leaked the passwords of nearly all 330 million of its users; and even mighty Google had two of its products hacked: Firebase (an app monitoring tool) leaked the data of more than 100 million users, and Google+ leaked 500,000 users’ personal info."
+  tags:
+    - digital acceleration 
+    - Cyber Security Series 
+    - Digital Insights 
+
+- title: "Looking Ahead: What We’re Thinking About in 2019"
+  pub: "Digital"
+  date: 2019-01-04
+  link: "https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2019.html?utm_source=daidotcom"
+  summary: "In our last post, we reviewed our top posts of 2018. The most-read articles covered a lot of ground—from Fortnite for development to digital lives in rural Malawi to making your own chatbot. We equally expect 2019 to be full of interesting projects, engaging conversations with colleagues, and, as always, meaningful opportunities to keep learning and doing better, more impactful work.
+
+Here are a few topics we’re thinking about as we dive into the year. Let us know if you want to collaborate as we explore where they’ll take us—and stay tuned to our blog for updates throughout the year!"
+  tags:
+    - digital acceleration 
+    - Innovation 
+    - Think Piece 
+
+- title: "Digital@DAI Year in Review: Top 10 Posts of 2018"
+  pub: "Digital"
+  date: 2018-12-28
+  link: "https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html?utm_source=daidotcom"
+  summary: "This year, Digital@DAI published more than 50 posts covering everything from women’s entrepreneurship in Cambodia to cyber security for development to smartphone apps for fisheries in Central America.
+
+We featured digital experts from organizations such as John’s Hopkins University, Simprints, Every1Mobile, Humanitarian OpenStreetMap Team (HOT), and Panoply Digital, and generated nearly 47,000 page views. The blog continues to explore the potential of digital technology across sectors, geographies, clients, and constituents, reflecting the work that we do. As we continue to engage with all of you—and with the ICT4D community through DAI’s Center for Digital Acceleration (CDA)—our focus on research and products will expand as we ensure that our field-focused  deployments of digital solutions are responsible, inclusive, and dynamic.
+
+In our final post of 2017 we reviewed the 10 most-read articles of the year. With our audience and number of blog posts continuing to grow, we now present our top 10 for 2018. These posts showcase a range of topics, content, and writers. Going into 2019, we hope you will connect with us, read the blog, and subscribe to Digital@DAI so you don’t miss any updates in the coming year."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Digital Insights 
+    - Digital Principles 
+    - Digital Health 
+    - Digital Inclusion 
+    - Data 
+
+- title: "An Embarrassment of Riches"
+  pub: "Digital"
+  date: 2018-12-20
+  link: "https://dai-global-digital.com/an-embarrassment-of-riches.html?utm_source=daidotcom"
+  summary: "Years ago, yours truly was struggling with a major life decision, one that had led to many a sleepless night: Where to go to grad school? I’d been accepted into a number of programs and was agonizing over my options. My dad had graciously taken on the role of my sounding board until one day he blurted out in frustration, “you have an embarrassment of riches, Rachel. Just decide!”"
+  tags:
+    - digital acceleration 
+    - Digital Health 
+    - Digital Inclusion 
+
+- title: "Cyber Security Series Part 3: Pirated Software"
+  pub: "Digital"
+  date: 2018-12-13
+  link: "https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html?utm_source=daidotcom"
+  summary: "It’s been about two months since I last contributed to the Cyber Security Series, but don’t let the time fool you into thinking we haven’t been engaging extensively on the topic. As many of you might remember, the Center for Digital Acceleration (CDA) published the Digital Inclusion and a Trusted Internet report in October on the topic. For those of you who have not read it, I highly recommend it, particularly if you’re interested in cyber security or data privacy.
+
+The first post in this series focused on the issue of trust and the second post argued that investment in regulations that support the enabling environment, strong institutions, and skills of the population are key to integrating cyber security across a country’s economy. This post focuses on a more micro-level challenge—pirated software—and how addressing it is key to responding to cyber security overall."
+  tags:
+    - digital acceleration 
+    - Cyber Security Series 
+
 - title: "Data, Analysis, and Information (Not as Boring as It Sounds)"
   pub: "Digital"
   date: 2018-12-05
@@ -160,67 +233,4 @@ Here’s a run-down of each team’s business concepts for technology-driven Gha
     - digital acceleration 
     - Innovation 
     - Digital Inclusion 
-
-- title: "Fishing with Smartphones"
-  pub: "Digital"
-  date: 2018-10-10
-  link: "https://dai-global-digital.com/fishing-with-smartphones.html?utm_source=daidotcom"
-  summary: "Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President Jim Kim says, “We must continue to connect all people so that no one is left behind … because the loss of opportunities has a very high cost.”
-
-In Central America, some of those ‘left behind’ include more than 135,000 fishermen. Without access to vital information about how climate change affects fishing, their very livelihoods are under threat."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - Data Visualization 
-
-- title: "September 2018 ICT4D Happy Hour Roundup: Were You There?"
-  pub: "Digital"
-  date: 2018-10-03
-  link: "https://dai-global-digital.com/september-2018-ict4d-happy-hour-roundup.html?utm_source=daidotcom"
-  summary: "Happy hours are the sinew of the ICT4D community: They are how we connect. For a few hours each month, we put aside the titles, affiliations, competition, and enjoy each other’s company over a few drinks.
-
-September was a particularly busy month on the ICT4D happy hour calendar, so let’s take a quick look back on what happened. Hopefully, you’ll join us for the next one!"
-  tags:
-    - digital acceleration 
-    - ICT 
-
-- title: "The Americas’ Effort to Integrate, Distribute, and Use Open Data to Make Decisions"
-  pub: "Digital"
-  date: 2018-09-27
-  link: "https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html?utm_source=daidotcom"
-  summary: "I was happy to represent DAI’s Center for Digital Acceleration at AmeriGEOSS week recently in Brazil, sharing experiences of how DAI has developed platforms and tools for decision-making in Central America."
-  tags:
-    - digital acceleration 
-    - Data 
-    - GIS 
-
-- title: "Kosmos Innovation Center wins 2018 P3 Impact Award"
-  pub: "Digital"
-  date: 2018-09-26
-  link: "https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html?utm_source=daidotcom"
-  summary: "We’re so excited that the Kosmos Innovation Center—the Kosmos Energy-funded project DAI helps implement in Ghana—was announced the winner of the 2018 P3 Impact Award at the annual Concordia Summit in New York, that takes place alongside the United Nations General Assembly."
-  tags:
-    - digital acceleration 
-    - Agriculture 
-    - Entrepreneurship 
-
-- title: "Cyber Security Series Part 1: Trust is Why Cyber Security Matters to Digital Development"
-  pub: "Digital"
-  date: 2018-09-19
-  link: "https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=daidotcom"
-  summary: "We’re launching one of our final series for 2018 on cyber security with this post on why it matters to international development. Stay tuned and subscribe to our newsletter if this topic interests you!"
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-    - Cyber Security Series 
-
-- title: "Thinking About the User Part I: Design Considerations for Mobile Apps"
-  pub: "Digital"
-  date: 2018-09-11
-  link: "https://dai-global-digital.com/app-ui.html?utm_source=daidotcom"
-  summary: "Think back to the last time you used a mobile app(lication) with unwieldy menu placement, indecipherable icons, and inconvenient user-configurable options. These may seem like minor nuisances in the everyday life of app interaction, and frankly, most users probably never notice (or maybe don’t realize that they notice) or hardly care. But user experience in application design is critical to ease of use, efficient navigation, and longevity of mobile-based application technologies."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
-    - UI/UX series 
 
