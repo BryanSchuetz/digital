@@ -17,13 +17,11 @@ Knowing who will use the dashboard is critical to informing its design. **People
 
 **Having a clear message,** you want to communicate will help guide your dashboard design. Not every indicator, survey question, or data point is created equal. Prior to creating a dashboard, it is critical that you do a little exploratory data analysis (EDA) to understand the key insights you ultimately want to communicate in the dashboard. This message or story should align to your visualization choices, such as maps and other plots.
 
-
 ![Dashboard.png](/uploads/Dashboard.png)
 
 ## 4. Reduce Clutter with the 10-15 Rule
 
 Cluttered dashboards are hard to read and understand.  Your dashboard needs to convey information clearly and quickly.  If your audience can't understand what your dashboard is telling them in **10-15 seconds**, then you need to go back and revise it – doing whatever it takes to get below that number.  Remember your choice of visualizations and information should always clearly fit the dashboard's purpose and should connect to your audience.  If the visual or information doesn't do both, it should be rethought or removed.  When designing dashboards, you should be coming back and regularly referencing the dashboard.  Achieving the 10-15 rule will ensure the dashboard is used often.
-
 
 ![Dash1.png](/uploads/Dash1.png)
 
@@ -32,5 +30,22 @@ Cluttered dashboards are hard to read and understand.  Your dashboard needs to c
 Most viewers scan the web starting at the top left of the page.  Go back to thinking about your audience, message, and purpose. Then place your most important information so that it occupies or spans the **upper left-corner of your dashboard**.  In the example below, the dashboard includes the most important information at the top and can be viewed from left to right.
 
 ![dash2-d160cb.PNG](/uploads/dash2-d160cb.PNG)
-
 *Source: www.looker.com*
+
+## 6. Remember some General Rules About Visualizations
+
+Remember to **keep it simple**. Most people can only manage a few visuals per page and in most cases basic bar or line charts will suffice.
+
+* ​Indicators containing targets and actuals are typically best ​displayed using gauges, bar charts, and line charts
+
+* Bar charts should be used rather than pie charts – you cannot see the difference between pie fields which have similar values
+
+* Horizontal bars work best for rankings
+
+* Line plots are usually for time series plots comparing multiple series like a targets or actuals
+
+* Bubble plots are used when presenting three different values (x-axis, y-axis, and bubble size)
+
+* Make sure colors fit diverging or sequential data. When choosing colors check [color brewer](http://colorbrewer2.org/) for guidance on color palates for plots and maps
+
+In the end, remember the dashboard is just a data visualization tool and will only be successful when connected to a project's communication, evaluation, or learning strategy. Keep this in mind when creating dashboards and constantly look for ways to simplify your report design. ​
