@@ -17,19 +17,16 @@ Dashboards can be designed for different purposes, and it's important to clarify
 Knowing who will use the dashboard is critical to informing its design. **People interact with data differently** depending on their roles, responsibilities, and connection to the project. For example, the Chief of Party might only want a high-level summary of key findings, while the M&E team is likely to want more detail. Alternatively, a client may have a different perspective you want to consider when designing the dashboard. PowerBI allows you to design dashboards for various audiences through features like "drill-through," which moves a user from high-level insights to more detailed information. Knowing what is important to your audience is the best way to ensure their needs are met at each step of the design process.
 
 ## 3. What is the message or story we are trying to communicate?
-
 **Having a clear message,** you want to communicate will help guide your dashboard design. Not every indicator, survey question, or data point is created equal. Prior to creating a dashboard, it is critical that you do a little exploratory data analysis (EDA) to understand the key insights you ultimately want to communicate in the dashboard. This message or story should align to your visualization choices, such as maps and other plots.
 
 ![Dashboard.png](/uploads/Dashboard.png)
 
 ## 4. Reduce Clutter with the 10-15 Rule
-
 Cluttered dashboards are hard to read and understand.  Your dashboard needs to convey information clearly and quickly.  If your audience can't understand what your dashboard is telling them in **10-15 seconds**, then you need to go back and revise it – doing whatever it takes to get below that number.  Remember your choice of visualizations and information should always clearly fit the dashboard's purpose and should connect to your audience.  If the visual or information doesn't do both, it should be rethought or removed.  When designing dashboards, you should be coming back and regularly referencing the dashboard.  Achieving the 10-15 rule will ensure the dashboard is used often.
 
 ![Dash1.png](/uploads/Dash1.png)
 
 ## 5. Leverage the most-viewed spot
-
 Most viewers scan the web starting at the top left of the page.  Go back to thinking about your audience, message, and purpose. Then place your most important information so that it occupies or spans the **upper left-corner of your dashboard**.  In the example below, the dashboard includes the most important information at the top and can be viewed from left to right.
 
 ![dash2-d160cb.PNG](/uploads/dash2-d160cb.PNG)
