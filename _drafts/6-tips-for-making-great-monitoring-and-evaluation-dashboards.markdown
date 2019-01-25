@@ -1,6 +1,6 @@
 ---
 title: 6 Tips for Making Great Monitoring and Evaluation Dashboards
-date: 2019-01-25 11:33:00 -05:00
+date: 2019-01-15 11:33:00 -05:00
 tags:
 - Data Visualization
 Author: "[John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/)"
