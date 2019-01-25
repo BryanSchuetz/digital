@@ -1,6 +1,9 @@
 ---
 title: 6 Tips for Making Great Monitoring and Evaluation Dashboards
 date: 2019-01-25 11:33:00 -05:00
+Author: "[John Mataya](https://www.linkedin.com/in/john-mataya-6a53373/)"
+social-image: "/uploads/Dashboard.png"
+thumbnail: "/uploads/Dashboard.png"
 ---
 
 Technology and data are converging in ways that allow monitoring and evaluation (M&E) professionals to more effectively monitor, evaluate, learn, and adapt on their projects. Dashboards are one of the key tools contributing to this trend, having become more accessible and user friendly through platforms like [Microsoft PowerBI. ](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_bHb24t0B&lnkd=Google_PowerBI_Brand&gclid=Cj0KCQjw08XeBRC0ARIsAP_gaQBWS9woBxKkiDNWqYJ1QffUY7fpDoUDQTRkOS4N15amKTJGVg8EmGMaAkDrEALw_wcB)Dashboards are **an information management tool that visually track, analyze, and display metrics and data points to monitor the status of a project**. DAI is creating dashboards for all new projects to enable teams to learn, evaluate, and adapt to project realities in near real-time. Ultimately, these dashboards make for better monitoring and evaluation and in turn better projects. Therefore, it's important to get it right. So where should you start?
