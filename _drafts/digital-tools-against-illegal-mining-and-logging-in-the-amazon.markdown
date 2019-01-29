@@ -1,5 +1,5 @@
 ---
-title: Digital tools , how they help combat illegal mining and logging in the Amazon
+title: How Digital Tools Can Combat Illegal Mining and Logging in the Amazon
 date: 2019-01-31 09:00:00 -05:00
 tags:
 - Data
