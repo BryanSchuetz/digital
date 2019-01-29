@@ -13,13 +13,13 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 From the [interactive map](https://mineria.amazoniasocioambiental.org/), we can see where the illegal mining is taking place. Most of the reported activity is in Venezuela (1899), followed by Brazil (321), Ecuador (68) and then Peru (24).
 
-On this surface this interactive map, as a digital tool seems incredibly useful
+On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions. 
 
-It is time to ask ourselves to what extent new information and communication tools streamline access to information? And is political will from countries limiting the response to illegal mining?
+Before discussing why, 
 
 ## Use of Remote Sensing for Illegal Activity Identification and Alerts
 
-In short, with the proliferation of satellite imagery services, we have access to high definition images and almost in real time to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
+With the proliferation of satellite imagery services, we have access to high definition images and almost in real time to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
 Experiences in Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) within the Ministry of Environment, show that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
 
