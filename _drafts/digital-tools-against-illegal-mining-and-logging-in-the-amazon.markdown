@@ -15,13 +15,13 @@ From the [interactive map](https://mineria.amazoniasocioambiental.org/), we can 
 
 On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions. 
 
-Before discussing why, 
+Before discussing why, its important to understand the different types of innovative tools currently employed to help address the challenge. 
 
 ## Use of Remote Sensing for Illegal Activity Identification and Alerts
 
 With the proliferation of satellite imagery services, we have access to high definition images and almost in real time to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
-Experiences in Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) within the Ministry of Environment, show that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
+Experiences from Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) (within the Ministry of Environment), shows that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
 
 ![Screen Shot 2019-01-28 at 9.57.06 AM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.57.06%20AM.png)`GeoBosques, provides an alert system in areas that could be deforested.`
 
