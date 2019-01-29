@@ -17,7 +17,7 @@ It is time to ask ourselves to what extent such communication tools streamline a
 
 ## Use of Remote Sensing for Illegal Activity ID and Alerts
 
-In short, with the proliferation of satellite imagery services, we have access to high definition images and almost in real time to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
+In short, with the proliferation of satellite imagery services, we have access to high-definition images to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
 Experiences in Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) within the Ministry of Environment, show that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
 
