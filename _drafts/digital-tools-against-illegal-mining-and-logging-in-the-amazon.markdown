@@ -21,7 +21,7 @@ It is time to ask ourselves to what extent communication tools streamline access
 
 In short, with the proliferation of satellite imagery services, we have access to high-definition images to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
-Experiences in Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) within the Ministry of Environment, show that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
+Experiences in Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) (within the Ministry of Environment) show that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
 
 ![Screen Shot 2019-01-28 at 9.57.06 AM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.57.06%20AM.png)`GeoBosques, provides an alert system in areas that could be deforested.`
 
