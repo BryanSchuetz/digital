@@ -13,6 +13,8 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 From the [interactive map](https://mineria.amazoniasocioambiental.org/), we can see where the illegal mining is taking place. Most of the reported activity is in Venezuela (1899), followed by Brazil (321), Ecuador (68) and then Peru (24).
 
+On this surface this interactive map, as a digital tool seems incredibly useful
+
 It is time to ask ourselves to what extent new information and communication tools streamline access to information? And is political will from countries limiting the response to illegal mining?
 
 ## Use of Remote Sensing for Illegal Activity Identification and Alerts
