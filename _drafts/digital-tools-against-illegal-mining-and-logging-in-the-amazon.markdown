@@ -15,7 +15,7 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 Using the [map](https://mineria.amazoniasocioambiental.org/), you can see see most of the illegal mining is taking place in Venezuela (1,899), followed by Brazil (321), Ecuador (68), and Peru (24).
 
-It is time to ask ourselves to what extent such communication tools streamline access to information? And is political will from countries limiting the response to illegal mining?
+It is time to ask ourselves to what extent communication tools streamline access to information? And is political will from countries limiting the response to illegal mining?
 
 ## Use of Remote Sensing for Illegal Activity ID and Alerts
 
