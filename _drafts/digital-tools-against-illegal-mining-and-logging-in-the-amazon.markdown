@@ -23,7 +23,7 @@ The[ National Institute of Spaces Research ](http://www.obt.inpe.br/OBT/assuntos
 
 ![Screen Shot 2019-01-28 at 9.57.06 AM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.57.06%20AM.png)`GeoBosques, provides an alert system in areas that could be deforested.`
 
-According to conversations I've held with the authorities in Peru, the tool is quite useful. Nevertheless, there is a lack of human capital to intervene in a timely fashion to prevent the illegal activity from continuing. In addition, there are required political procedures that need to be followed, which makes it difficult for authorities to respond quickly.
+According to conversations I've held with the authorities in Peru, the tool is quite useful, because it can provide nearly real-time alerts of where illegal activity is occurring. Nevertheless, from these conversations, it became clear that these authorities monitoring illegal activity lack the human resources to react to the information. As a result, they are unable to respond to or prevent illegal activity destroying the Amazon.  In addition, the required political procedures that need to be followed before responding to an alert of illegal activity, further limit the ability of authorities to respond quickly.
 
 That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), demonstrates both capacity to analyze the data and respond to illegal activity occurring in protected regions.
 
