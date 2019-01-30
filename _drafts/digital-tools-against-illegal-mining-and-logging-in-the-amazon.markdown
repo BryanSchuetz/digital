@@ -13,7 +13,7 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 <!--more-->
 
-Before discussing why that is the case, I wanted to share some different types of digital tools currently being employed to help protect the Amazon.
+Before discussing why I think this is the case, I wanted to share some different types of digital tools currently being employed to help protect the Amazon.
 
 ## # 1 Use of Remote Sensing for Illegal Activity Identification and Alerts
 
