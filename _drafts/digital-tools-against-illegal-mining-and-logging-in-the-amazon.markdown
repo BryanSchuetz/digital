@@ -39,7 +39,7 @@ That said, the benefit of using drone technology to help validate whether illega
 
 Mobile and web applications are also critical to helping combat illegal mining or logging throughout the Amazon. For instance, tools such as the [Spatial Monitoring and Reporting Tool (SMART)](http://smartconservationtools.org/),used in [Colombia](https://colombia.wcs.org/es-es/WCS-Colombia/Noticias/articleType/ArticleView/articleId/11116/Entrenamiento-en-la-herramienta-SMART.aspx), help record data from Amazon deforestation monitoring tours in real-time. This helps improve the management of a protected areas. The SMART toolkit is based on open source software, and is therefore a great tool to consider using if you're looking for the best way to provide medium to long term support to a project.
 
-In Peru, the Forest Service (SERFOR) encourages people to use a web-based application called "[Alerta SERFOR](http://appweb.serfor.gob.pe/denunciasserfor/)." Alerta SERFOR allows any citizen to report any illegal activity harming wildlife or the Amazon's fauna. 
+In Peru, the Forest Service (SERFOR) encourages people to use a web-based application called "[Alerta SERFOR](http://appweb.serfor.gob.pe/denunciasserfor/)." Alerta SERFOR allows any citizen to report illegal activity causing harm to the Amazon's wildlife or fauna directly to authorities.  harming wildlife or the Amazon's fauna. 
 
 ![Screen Shot 2019-01-28 at 9.25.04 PM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.25.04%20PM.png) `Alerta SERFOR is a web app publicly available to report.`
 
