@@ -18,7 +18,7 @@ Before discussing why I think this is the case, I wanted to share some different
 
 ## # 1 Use of Remote Sensing for Illegal Activity Identification and Alerts
 
-With the proliferation of satellite imagery services, we have access to high definition images, which can provide an almost  real-time picture of change in land use at a resolution of up to 30 meters.  
+With the proliferation of satellite imagery services, we now have access to high definition images, which can provide an almost  real-time picture of change in land use at a resolution of up to 30 meters.  
 
 The[ National Institute of Spaces Research ](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)([INPE)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes) in Brazil and the [National Program for Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) in Peru, are two initiatives that demonstrate how the use of satellite imagery, remote sensing, and spatial analysis can alert authorities where illegal mining is occurring.  
 
