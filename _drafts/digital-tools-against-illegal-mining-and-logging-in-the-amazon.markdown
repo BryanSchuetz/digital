@@ -9,9 +9,11 @@ Author: Alejandro Solis
 social-image: "/uploads/peru-mercury-emergency.jpg"
 ---
 
-A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) ](https://www.amazoniasocioambiental.org/es/)and [InfoAmazonia](https://infoamazonia.org/es/), in coordination with eight other Latin American institutions, shows on a [map of](https://mineria.amazoniasocioambiental.org/) more than 2000 points in which illegal activity is occurring throughout the Amazon in South America. From the data, its clear that in 96 protected natural areas there is presence of illegal activity.
+A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) ](https://www.amazoniasocioambiental.org/es/)and [InfoAmazonia](https://infoamazonia.org/es/), in coordination with eight other Latin American institutions,  published a [map](https://mineria.amazoniasocioambiental.org/) that shows more than 2,000 points across the Amazon where illegal activity is occurring. Some of the most shocking conclusions are that in 96 protected areas, illegal mining or logging is ongoing. 
 
-From the [interactive map](https://mineria.amazoniasocioambiental.org/), we can see where the illegal mining is taking place. Most of the reported activity is in Venezuela (1899), followed by Brazil (321), Ecuador (68) and then Peru (24).
+Most of the illegal activity is taking place in [Venezuela](https://mineria.amazoniasocioambiental.org/) where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68 and in Peru 24. 
+
+<!--more-->
 
 On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions.
 
