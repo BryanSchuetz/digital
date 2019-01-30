@@ -15,11 +15,11 @@ Most of the illegal activity is taking place in [Venezuela](https://mineria.amaz
 
 <!--more-->
 
-On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions.
+For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet,  based on my experience its unclear whether these information streamlining tools are actually helping limit illegal activity. 
 
-Before discussing why, its important to understand the different types of innovative tools currently employed to help address the challenge.
+Before discussing why that is the case, I wanted to share some different types of digital tools currently being employed to help protect the Amazon.
 
-## Use of Remote Sensing for Illegal Activity Identification and Alerts
+## # 1 Use of Remote Sensing for Illegal Activity Identification and Alerts
 
 With the proliferation of satellite imagery services, we have access to high definition images and almost in real-time to monitor change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
@@ -31,15 +31,15 @@ According to conversations I've held with the authorities in Peru, the tool is q
 
 That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), demonstrates both capacity to analyze the data and respond to illegal activity occurring in protected regions.
 
-## Drones, a Useful Tool for Local Challenges
+## # 2 Drones, a Useful Tool for Local Challenges
 
 Drones have revolutionized the use of aerial photographs and maps for civil society. Companies like [Terra-i](http://www.terra-i.org/terra-i.html) have promoted the use of drones to [validate satellite information](https://amazonlandscapes.org/drone-monitoring-of-land-cover-changes-detected-by-terra-i-in-yurimaguas-peru/). For instance, imagery from Landsat 7 satellite only provides an image with resolution of 30 meters, meaning its hard to confirm what is occurring within the image. Drones can capture images at closer distances and can help confirm whether illegal activity is occurring in the area photographed by a satellite.
 
-The most common drone models used for these types of activities are the [Ebee](https://www.sensefly.com/drone/ebee-mapping-drone/) or the [Phantom 4](https://www.dji.pe/producto/phantom-4-pro/?gclid=Cj0KCQiAkMDiBRDNARIsACKP1FFNnhxDKS0LPG-QFSEcTipATuFx4CSg38WpMumQJv-2cjg_Vke0-9IaAo7REALw_wcB). The only downside of these models is that neither can fly for very long distances. The Ebee, for example, can only fly for a radius of 4km. The Phantom 4 can only cover a distance of 25ha. These limitations are due to their battery life. Another drawback for many initiatives looking to deploy drones in their cost.  A Phantom 4 costs around $2,160 and an Ebee costs around $27,000. Purchasing either model, is no small investment. 
+The most common drone models used for these types of activities are the [Ebee](https://www.sensefly.com/drone/ebee-mapping-drone/) or the [Phantom 4](https://www.dji.pe/producto/phantom-4-pro/?gclid=Cj0KCQiAkMDiBRDNARIsACKP1FFNnhxDKS0LPG-QFSEcTipATuFx4CSg38WpMumQJv-2cjg_Vke0-9IaAo7REALw_wcB). The only downside of these models is that neither can fly for very long distances. The Ebee, for example, can only fly for a radius of 4km. The Phantom 4 can only cover a distance of 25ha. These limitations are due to their battery life, meaning that deploying a drone to validate satellite imagery is probably best used to help address local challenges. Another drawback for many initiatives looking to deploy drones in their cost.  A Phantom 4 costs around $2,160 and an Ebee costs around $27,000. Purchasing either model, is no small investment. 
 
 That said, the benefit of using drone technology to help validate whether illegal activity is occurring in protected areas of the Amazon is clear. The question is whether investing in a drone will then lead to concrete steps by authorities to prevent future illegal actions, like mining or logging. 
 
-## Web and Mobile Applications to Inform and Report
+## #3 Web and Mobile Applications to Inform and Report
 
 Mobile and web applications are also critical to helping combat illegal mining or logging throughout the Amazon. For instance, tools such as the [Spatial Monitoring and Reporting Tool (SMART) ](http://smartconservationtools.org/)are used in [Colombia ](https://colombia.wcs.org/es-es/WCS-Colombia/Noticias/articleType/ArticleView/articleId/11116/Entrenamiento-en-la-herramienta-SMART.aspx)to record data from surveillance tours in real-time and  to improve the management of a protected Amazon areas. The SMART toolkit is based on open software and is therefore a great tool to consider using if you're looking for the best way to provide medium to long term support to a project.
 
