@@ -39,9 +39,9 @@ That said, the benefit of using drone technology to help validate whether illega
 
 ## Web and Mobile Applications to Inform and Report
 
-Mobile and web applications are also critical to helping combat illegal mining or logging throughout the Amazon. For instance, tools such as the [Spatial Monitoring and Reporting Tool (SMART) ](http://smartconservationtools.org/)are used in [Colombia ](https://colombia.wcs.org/es-es/WCS-Colombia/Noticias/articleType/ArticleView/articleId/11116/Entrenamiento-en-la-herramienta-SMART.aspx)to record data from surveillance tours in real time and exchange information to improve the management of a protected areas. This set of tools (SMART) has an open software approach,leveraging a development community around the world. Therefore its a great tool to consider for anyone looking to provide medium to long term support to a project looking to help address these challenges.
+Mobile and web applications are also critical to helping combat illegal mining or logging throughout the Amazon. For instance, tools such as the [Spatial Monitoring and Reporting Tool (SMART) ](http://smartconservationtools.org/)are used in [Colombia ](https://colombia.wcs.org/es-es/WCS-Colombia/Noticias/articleType/ArticleView/articleId/11116/Entrenamiento-en-la-herramienta-SMART.aspx)to record data from surveillance tours in real-time and  to improve the management of a protected Amazon areas. The SMART toolkit is based on open software and is therefore a great tool to consider using if you're looking for the best way to provide medium to long term support to a project.
 
-In Peru, the Forest Service (SERFOR) promotes a web application called “[Alerta SERFOR](http://appweb.serfor.gob.pe/denunciasserfor/)”, used to make forest or wildlife complaints. The application that can be used by any citizen.
+In Peru, the Forest Service (SERFOR) encourages people to use a web-based application called "[Alerta SERFOR](http://appweb.serfor.gob.pe/denunciasserfor/)." Alerta SERFOR allows any citizen to report any illegal activity harming wildlife or complaints to the  used to make forest or wildlife complaints. The application that can be used by any citizen.
 
 ![Screen Shot 2019-01-28 at 9.25.04 PM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.25.04%20PM.png) `Alerta SERFOR is a web app publicly available to report.`
 
