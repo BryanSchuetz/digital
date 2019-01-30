@@ -13,9 +13,9 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 From the [interactive map](https://mineria.amazoniasocioambiental.org/), we can see where the illegal mining is taking place. Most of the reported activity is in Venezuela (1899), followed by Brazil (321), Ecuador (68) and then Peru (24).
 
-On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions. 
+On this surface this interactive map, as a digital tool seems incredibly useful, but based on my experience its unclear whether these information streamlining tools are actually helping address illegal activities, like mining and logging, in the protected Amazon regions.
 
-Before discussing why, its important to understand the different types of innovative tools currently employed to help address the challenge. 
+Before discussing why, its important to understand the different types of innovative tools currently employed to help address the challenge.
 
 ## Use of Remote Sensing for Illegal Activity Identification and Alerts
 
@@ -25,15 +25,15 @@ Experiences from Brazil with the [INPE (National Institute of Spaces Research)](
 
 ![Screen Shot 2019-01-28 at 9.57.06 AM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.57.06%20AM.png)`GeoBosques, provides an alert system in areas that could be deforested.`
 
-According to conversations I've held with the authorities in Peru, the tool is quite useful. Nevertheless, there is a lack of human capital to intervene in a timely fashion to prevent the illegal activity from continuing. In addition, there are required political procedures that need to be followed, which makes it difficult for authorities to respond quickly. 
+According to conversations I've held with the authorities in Peru, the tool is quite useful. Nevertheless, there is a lack of human capital to intervene in a timely fashion to prevent the illegal activity from continuing. In addition, there are required political procedures that need to be followed, which makes it difficult for authorities to respond quickly.
 
-That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), demonstrates both capacity to analyze the data and respond to illegal activity occurring in protected regions. 
+That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), demonstrates both capacity to analyze the data and respond to illegal activity occurring in protected regions.
 
 ## Drones, a Useful Tool for Local Challenges
 
-Drones have revolutionized the use of aerial photographs and maps for civil society. Companies like [Terra-i](http://www.terra-i.org/terra-i.html) have promoted the use of drones to [validate satellite information](https://amazonlandscapes.org/drone-monitoring-of-land-cover-changes-detected-by-terra-i-in-yurimaguas-peru/). For instance, imagery from Landsat 7 satellite only provides an image with resolution of 30 meters, meaning its hard to confirm what is occurring within the image. Drones can capture images at closer distances and can help confirm whether illegal activity is occurring in the area photographed by a satellite. 
+Drones have revolutionized the use of aerial photographs and maps for civil society. Companies like [Terra-i](http://www.terra-i.org/terra-i.html) have promoted the use of drones to [validate satellite information](https://amazonlandscapes.org/drone-monitoring-of-land-cover-changes-detected-by-terra-i-in-yurimaguas-peru/). For instance, imagery from Landsat 7 satellite only provides an image with resolution of 30 meters, meaning its hard to confirm what is occurring within the image. Drones can capture images at closer distances and can help confirm whether illegal activity is occurring in the area photographed by a satellite.
 
-The most common drone models used for these types of activities are the [Ebee](https://www.sensefly.com/drone/ebee-mapping-drone/) or the [Phantom 4](https://www.dji.pe/producto/phantom-4-pro/?gclid=Cj0KCQiAkMDiBRDNARIsACKP1FFNnhxDKS0LPG-QFSEcTipATuFx4CSg38WpMumQJv-2cjg_Vke0-9IaAo7REALw_wcB). a major challenge is the distance that these drones can fly. The Ebee can fly a radius of up to 4km and the Phantom can cover up to 25ha. These distance limitations are due to battery life with each lasting between 20-30 minutes depending on the model.  Cost is another factor to consider. A Phantom 4 is around 2,160 USD and the Ebee costs around 27,000 USD.
+The most common drone models used for these types of activities are the [Ebee](https://www.sensefly.com/drone/ebee-mapping-drone/) or the [Phantom 4](https://www.dji.pe/producto/phantom-4-pro/?gclid=Cj0KCQiAkMDiBRDNARIsACKP1FFNnhxDKS0LPG-QFSEcTipATuFx4CSg38WpMumQJv-2cjg_Vke0-9IaAo7REALw_wcB). The only downside of these models is that neither can fly for very long distances. The Ebee, for example, can only fly for a radius of 4km. The Phantom 4 can only cover a distance of 25ha. These limitations are due to their battery life. Another drawback for many initiatives looking to deploy drones in their cost.  A Phantom 4 costs around $2,160 and an Ebee costs around $27,000. Purchasing either model, is no small investment. 
 
 It is clear that drones can be useful to detect illegal activity. Yet, due to cost and limited battery life their use is will be more effective if applied locally and as a secondary option to identifying illegal activity.
 
