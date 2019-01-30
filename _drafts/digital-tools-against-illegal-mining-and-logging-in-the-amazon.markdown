@@ -35,7 +35,7 @@ Drones have revolutionized the use of aerial photographs and maps for civil soci
 
 The most common drone models used for these types of activities are the [Ebee](https://www.sensefly.com/drone/ebee-mapping-drone/) or the [Phantom 4](https://www.dji.pe/producto/phantom-4-pro/?gclid=Cj0KCQiAkMDiBRDNARIsACKP1FFNnhxDKS0LPG-QFSEcTipATuFx4CSg38WpMumQJv-2cjg_Vke0-9IaAo7REALw_wcB). The only downside of these models is that neither can fly for very long distances. The Ebee, for example, can only fly for a radius of 4km. The Phantom 4 can only cover a distance of 25ha. These limitations are due to their battery life. Another drawback for many initiatives looking to deploy drones in their cost.  A Phantom 4 costs around $2,160 and an Ebee costs around $27,000. Purchasing either model, is no small investment. 
 
-It is clear that drones can be useful to detect illegal activity. Yet, due to cost and limited battery life their use is will be more effective if applied locally and as a secondary option to identifying illegal activity.
+That said, the benefit of using drone technology to help validate whether illegal activity is occurring in protected areas of the Amazon is clear. The question is whether investing in a drone will then lead to concrete steps by authorities to prevent future illegal actions, like mining or logging. 
 
 ## Web and Mobile Applications to Inform and Report
 
