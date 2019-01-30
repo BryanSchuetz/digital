@@ -16,7 +16,7 @@ A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental In
 
 Before explaining my skepticism, I want to share some different types of digital tools currently being employed to help protect the Amazon.
 
-## Remote Sensing for Illegal Activity Identification and Alerts
+### Remote Sensing for Illegal Activity Identification and Alerts
 
 With the proliferation of satellite imagery services, we now have access to high-definition images that can provide an almost real-time picture of change in land use at a resolution of up to 30 meters.
 
@@ -28,7 +28,7 @@ According to conversations I’ve had with the authorities in Peru, the tool is 
 
 That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), which collects data from five different satellites, continues to raise awareness across the Amazon region of trends in illegal activity by country. For example, according to the project’s latest report, the principal drivers causing deforestation include gold mining, palm oil, cacao, small-scale agriculture, cattle pasture, logging, roads, and dam construction. This type of information is critical to informing governments and activists and can help develop future initiatives to protect the Amazon.
 
-## Drones, a Useful Tool for Local Challenges
+### Drones, a Useful Tool for Local Challenges
 
 Drones have revolutionized the use of aerial photographs and maps for civil society. Companies such as [Terra-i](http://www.terra-i.org/terra-i.html) have promoted the use of drones to [validate satellite information](https://amazonlandscapes.org/drone-monitoring-of-land-cover-changes-detected-by-terra-i-in-yurimaguas-peru/). For instance, imagery from Landsat 7 satellite only provides an image with resolution of 30 meters, meaning it’s hard to confirm what exactly is occurring within an image and where. Drones can capture images at closer distances, and therefore can help confirm whether illegal activity is occurring in the area photographed by a satellite.
 
@@ -36,7 +36,7 @@ The most common drone models used for these types of activities are the [eBee](h
 
 That said, the benefit of using drone technology to help validate whether illegal activity is occurring in protected areas of the Amazon is clear. The question is whether investing in a drone will then lead to concrete steps by authorities to prevent future illegal activity.
 
-## Web and Mobile Applications to Inform and Report
+### Web and Mobile Applications to Inform and Report
 
 Mobile and web applications are also critical to helping combat illegal mining or logging throughout the Amazon. For instance, tools such as the [Spatial Monitoring and Reporting Tool (SMART)](http://smartconservationtools.org/), used in [Colombia](https://colombia.wcs.org/es-es/WCS-Colombia/Noticias/articleType/ArticleView/articleId/11116/Entrenamiento-en-la-herramienta-SMART.aspx), help record data from Amazon deforestation monitoring tours in real-time. This helps improve the management of protected areas. The SMART toolkit is based on open source software, and is therefore a great tool to consider using if you’re looking for the best way to provide medium- to long-term support to a project.
 
@@ -44,7 +44,7 @@ In Peru, the Forest Service (SERFOR) encourages people to use a web-based applic
 
 ![Screen Shot 2019-01-28 at 9.25.04 PM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.25.04%20PM.png) `Alerta SERFOR is a web app publicly available to report.`
 
-## Using Acoustic Monitoring
+### Using Acoustic Monitoring
 
 Acoustic monitoring devices are another tool used to monitor the presence of species, biological corridors, and illegal logging. The [Open Acoustic Devices](https://www.openacousticdevices.info) research group developed the AudioMoth, which monitors anthropogenic disturbances based on changes in acoustics. Devices such as the AudioMoth can help authorities identify where the illegal activity is taking place. Additionally, this type of technology is relatively cheap. On average it costs about $43, making it attractive to projects with limited budgets.
 
