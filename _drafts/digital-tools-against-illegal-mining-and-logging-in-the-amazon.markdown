@@ -9,13 +9,9 @@ Author: Alejandro Solis
 social-image: "/uploads/peru-mercury-emergency.jpg"
 ---
 
-A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) ](https://www.amazoniasocioambiental.org/es/)and [InfoAmazonia](https://infoamazonia.org/es/), in coordination with eight other Latin American institutions,  published a [map](https://mineria.amazoniasocioambiental.org/) that shows more than 2,000 data points across the Amazon where illegal activity is occurring. Some of the most shocking conclusions are that in 96 protected areas, illegal mining or logging is ongoing. 
-
-Most of the illegal activity is taking place in [Venezuela](https://mineria.amazoniasocioambiental.org/) where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68 and in Peru 24. 
+A recent report prepared by the [Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) ](https://www.amazoniasocioambiental.org/es/)and [InfoAmazonia](https://infoamazonia.org/es/), in coordination with eight other Latin American institutions,  published a [map](https://mineria.amazoniasocioambiental.org/) that shows more than 2,000 data points across the Amazon where illegal activity is occurring. This includes illegal mining and logging in 96 protected areas. Most of the illegal activity is taking place in [Venezuela](https://mineria.amazoniasocioambiental.org/) where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68 and in Peru 24. For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet,  based on my experience its unclear whether these information streamlining tools are actually helping limit illegal activity. 
 
 <!--more-->
-
-For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet,  based on my experience its unclear whether these information streamlining tools are actually helping limit illegal activity. 
 
 Before discussing why that is the case, I wanted to share some different types of digital tools currently being employed to help protect the Amazon.
 
