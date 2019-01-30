@@ -19,7 +19,7 @@ Before discussing why, its important to understand the different types of innova
 
 ## Use of Remote Sensing for Illegal Activity Identification and Alerts
 
-With the proliferation of satellite imagery services, we have access to high definition images and almost in real-time to monitor the change in land use through photographs that have a spatial resolution of up to 30 centimeters.
+With the proliferation of satellite imagery services, we have access to high definition images and almost in real-time to monitor change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
 Experiences from Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) (within the Ministry of Environment), shows that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
 
