@@ -51,9 +51,9 @@ Acoustic monitoring devices are another tools used to monitor the presence of sp
 
 ![Screen Shot 2019-01-28 at 9.17.08 PM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.17.08%20PM.png)`AudioMoth, a small hardware that identify anthropogenic sounds in the forest.`
 
-## Social Challenges and Opportunities Facing Technological Advances
+## Technology Alone Can't Solve the Challenge 
 
-So far in this blog, I've reviewed four specific uses of digital tools to combat illegal logging and mining in the Amazon, but finding tech solutions is never the end of the conversation. Rather, for the tools to be truly effective in combating illegal mining or logging, it is important that these countries also address other societal challenges that will allow these efforts to be more efficient. To me, there are four major areas:
+So far in this blog, I've reviewed four specific digital tools used to combat illegal logging and mining in the Amazon. Although each hold great promise in helping authorities protect the Amazon, technology alone will not help solve the problem of illegal mining and logging. In addition to the deployment of these tech-based tools, there needs to be political will from South American countries to invest in addressing the issue.  but finding tech solutions is never the end of the conversation. Rather, for the tools to be truly effective in combating illegal mining or logging, it is important that these countries also address other societal challenges that will allow these efforts to be more efficient. To me, there are four major areas:
 
 1. **Interoperability:** Interoperability is defined as the capacity of a System or systems whose interfaces are available, to work with other existing or future products or systems and without restriction of access or implementation. By means of the creation of the SDI (Spatial Data Infrastructure) it is possible to have the standardized data for the consumption of other platforms, in fact the interactive RAISG [map](https://mineria.amazoniasocioambiental.org/) I mentioned works because it is fed by the [Regional SDIs ](https://mineria.amazoniasocioambiental.org/sobre/)in different countries.
 
