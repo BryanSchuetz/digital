@@ -21,13 +21,13 @@ Before discussing why, its important to understand the different types of innova
 
 With the proliferation of satellite imagery services, we have access to high definition images and almost in real-time to monitor change in land use through photographs that have a spatial resolution of up to 30 centimeters.
 
-Experiences from Brazil through the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) (within the Ministry of Environment), shows that there is use of remote sensing and spatial analysis to identify areas of mining exploitation and changes across the Amazon.
+Experiences from Brazil with the [INPE (National Institute of Spaces Research)](http://www.obt.inpe.br/OBT/assuntos/programas/amazonia/prodes)and in Peru with the [National Program of Forest Conservation for the Mitigation of Climate Change](http://geobosques.minam.gob.pe/geobosque/view/index.php) (within the Ministry of Environment), show that there is use for remote sensing and spatial analysis to identify areas of mining exploitation.
 
 ![Screen Shot 2019-01-28 at 9.57.06 AM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.57.06%20AM.png)`GeoBosques, provides an alert system in areas that could be deforested.`
 
-According to conversations we've held with the authorities in Peru, the tool is quite useful,  but the lack of human resources to intervene, in addition to required political procedures, make it difficult to respond quickly.
+According to conversations I've held with the authorities in Peru, the tool is quite useful. Nevertheless, there is a lack of human capital to intervene in a timely fashion to prevent the illegal activity from continuing. In addition, there are required political procedures that need to be followed, which makes it difficult for authorities to respond quickly. 
 
-Initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe), with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), reveal that agility in analysis and local capacity exists and that steps are being to join efforts between organizations and authorities to address the illegal mining issue.
+That said, initiatives such as the [Association for the Conservation of the Amazon Account (ACCA)](http://www.acca.org.pe) with their [Monitoring of the Andean Amazon Project (MAAP)](https://maaproject.org/es/), demonstrates both capacity to analyze the data and respond to illegal activity occurring in protected regions. that agility in analysis and local capacity exists and that steps are being to join efforts between organizations and authorities to address the illegal mining issue.
 
 ## Drones, a Useful but Very Local Tool
 
