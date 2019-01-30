@@ -47,7 +47,7 @@ In Peru, the Forest Service (SERFOR) encourages people to use a web-based applic
 
 ## Using Acoustic Monitoring
 
-Acoustic monitoring devices have been used to monitor the presence of species, biological corridors, and to monitor illegal logging. The [Open Acoustic Devices](https://www.openacousticdevices.info) research group has developed devices such as the AudioMoth that attempts to acoustically monitor anthropogenic disturbances. These devices are not incredibly expensive and on average sell at a price around 43 USD each. This type of innovative technology can help people looking to combat illegal logging at a lower cost than some other tech-based approaches.
+Acoustic monitoring devices are another tools used to monitor the presence of species, biological corridors, and to monitor illegal logging. The [Open Acoustic Devices](https://www.openacousticdevices.info) research group developed devices, like the AudioMoth, that  monitor anthropogenic disturbances based on changes in acoustics. Devices like the AudioMoth can be used to are relatively cheap in comparison to drone and cost on average about $43. 
 
 ![Screen Shot 2019-01-28 at 9.17.08 PM.png](/uploads/Screen%20Shot%202019-01-28%20at%209.17.08%20PM.png)`AudioMoth, a small hardware that identify anthropogenic sounds in the forest.`
 
