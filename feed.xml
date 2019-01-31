@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Jan 2019 13:24:32 -0500</pubDate>
-    <lastBuildDate>Fri, 25 Jan 2019 13:24:32 -0500</lastBuildDate>
+    <pubDate>Thu, 31 Jan 2019 09:30:32 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Jan 2019 09:30:32 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/peru-mercury-emergency.jpg" medium="image" /> 
+        <title>How Digital Tools Help Combat Illegal Mining and Logging in the Amazon</title>
+        <description>&lt;p&gt;A recent report prepared by the &lt;a href=&quot;https://www.amazoniasocioambiental.org/es/&quot;&gt;Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) &lt;/a&gt;and &lt;a href=&quot;https://infoamazonia.org/es/&quot;&gt;InfoAmazonia&lt;/a&gt;, in coordination with eight other Latin American institutions, published a &lt;a href=&quot;https://mineria.amazoniasocioambiental.org/&quot;&gt;map&lt;/a&gt; that shows more than 2,000 data points across the Amazon where illegal activity is occurring. This includes illegal mining and logging in 96 protected areas. Most of the illegal activity is taking place in &lt;a href=&quot;https://mineria.amazoniasocioambiental.org/&quot;&gt;Venezuela&lt;/a&gt; where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68, and in Peru, 24. For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet, based on my experience it’s unclear whether these information-streamlining tools are actually limiting illegal activity.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 31 Jan 2019 09:00:00 -0500</pubDate>
+        <author>Alejandro Solis
+</author>
+        <link>https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html</guid>
+        
+        <category>Data</category>
+        
+        <category>Satellite</category>
+        
+        <category>Digital</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/hanson%20head%20shot-0bcd9c-d7d5b5.png" medium="image" /> 
@@ -205,29 +226,6 @@
         
         <category>Cyber Security Series</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/headData.jpg" medium="image" /> 
-        <title>Data, Analysis, and Information (Not as Boring as It Sounds)</title>
-        <description>&lt;p&gt;If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -&amp;gt; analytics -&amp;gt; insights/information flow, but this blog is simply an opportunity for me to share my own thoughts. After all, what are we as good data stewards and scientists without proper debate?&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Dec 2018 10:50:00 -0500</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/data-analysis-and-information.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/data-analysis-and-information.html</guid>
-        
-        <category>Data Management Series</category>
-        
-        <category>Digital Principles</category>
-        
-        
-        <category>Data Analysis</category>
-        
-        <category>Information</category>
         
       </item>
     
