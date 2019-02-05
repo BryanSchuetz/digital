@@ -24,7 +24,7 @@ But can we be going further? Even if 100% of your focus group say they have acce
 
 So we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we never implement tools with universal access as an assumption.
 
-![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi,March 2018`
+![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi, March 2018`
 
 ## 2. Augment the Online with the Offline/Don’t Prioritise the Use of Technology
 
