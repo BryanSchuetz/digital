@@ -2,6 +2,12 @@
 title: 'Access as an Assumption: The Unintended Consequence of Increasing Digital
   Access'
 date: 2019-02-05 03:52:00 -05:00
+tags:
+- Digital Inclusion
+- Human-centered design
+- Think Piece
+Author: Chloe Messenger
+social-image: "/uploads/SDG9%20small-f44723.jpg"
 ---
 
 ![SDG9 small.jpg](/uploads/SDG9%20small.jpg){:.float-left} In our quest to increase digital we tend to focus on the digital dividends, rather than the negatives that could arise from digital access. We are understandably excited about [edging closer to universal access](https://www.un.org/sustainabledevelopment/blog/2018/01/worlds-vulnerable-countries-track-achieve-universal-internet-access-2020-un-report/), or the new business opportunities and improvements to service provision that accompany it. But while we are good at focusing on safety and security, the gender digital divide, and are increasingly considering how to not leave out PWDs (all great stuff!), there could be more negative consequences of increased digital access that are overlooked. 
