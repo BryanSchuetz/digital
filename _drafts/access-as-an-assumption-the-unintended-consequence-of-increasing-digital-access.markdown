@@ -38,7 +38,7 @@ Even when we get to a point where a vast majority of the global population has a
 
 Often cited as the main concern by non-developmenters I speak to is, "what if that village meeting is their main social activity and that is being replaced with technology?" This concern likely echoes their own feeling that Facebook means they meet up with friends less or that WhatsApp replaces good old phone calls. It is obviously a concern for people who have had access to apps and smartphone since inception, but is this concern something we overlook  for relatively new users in development programming?
 
-This is where human-centered design comes in again. Asking people not just what apps they use, but how they feel about that, [do they trust it](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), how would they feel if a certain service was digitised. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries.
+This is where human-centered design comes in again. Asking people not just what apps they use, but how they feel about using it, [do they trust it](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), how they might feel if a certain service was digitised, is important. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries. This is a lesson, we as digital development practitioners, should continue to keep in mind. 
 
 ## Final Remarks
 
