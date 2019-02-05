@@ -46,4 +46,4 @@ This is where human-centered design comes in again. Asking people not just what 
 
 ## Final Remarks
 
-As proponents of human-centered design and the digital principles more generally, we hope that our attention to the user can help us avoid some of these pitfalls. However, many of these are not exclusive to developing countries and I think we sometimes forget that technology isn’t the golden ticket- we all have our own problems with it.
+As proponents of human-centered design and the [digital principles](https://digitalprinciples.org/), we hope that our attention to the user can help us avoid some of these pitfalls. However, many of these are not exclusive to developing countries and I think we sometimes forget that technology isn’t the golden ticket- we all have our own problems with it.
