@@ -10,7 +10,7 @@ Author: Chloe Messenger
 social-image: "/uploads/SDG9%20small-f44723.jpg"
 ---
 
-![SDG9 small.jpg](/uploads/SDG9%20small.jpg){:.float-left} In our quest to increase digital we tend to focus on the digital dividends, rather than the negatives that could arise from digital access. We are understandably excited about [edging closer to universal access](https://www.un.org/sustainabledevelopment/blog/2018/01/worlds-vulnerable-countries-track-achieve-universal-internet-access-2020-un-report/), or the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to ensure safety and security, combat the gender digital divide, and ensure not to leave out PWDs (all great stuff!), we could be overlooking more negative consequences of increased digital access.
+![SDG9 small.jpg](/uploads/SDG9%20small.jpg){:.float-left} In our quest to increase digital we tend to focus on the digital dividends, rather than the negatives that could arise from digital access. We are understandably excited about [edging closer to universal access](https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx), or the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to ensure safety and security, combat the gender digital divide, and ensure not to leave out PWDs (all great stuff!), we could be overlooking more negative consequences of increased digital access.
 
 Let’s imagine that it is 2030 and we have achieved the goal under [SDG 9](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/): universal access. In a future where access is “universal”, how can we balance being excited about the digital dividends whilst ensuring we are not making assumptions about access that are potentially detrimental?
 
@@ -24,7 +24,7 @@ But can we be going further? Even if 100% of your focus group say they have acce
 
 So we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we never implement tools with universal access as an assumption.
 
-![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)
+![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi,March 2018`
 
 ## 2. Augment the Online with the Offline/Don’t Prioritise the Use of Technology
 
