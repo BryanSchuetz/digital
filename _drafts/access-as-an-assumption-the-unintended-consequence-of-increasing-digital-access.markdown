@@ -16,7 +16,7 @@ social-image: "/uploads/SDG9%20small-f44723.jpg"
 
 Let’s imagine it is 2030 and we have achieved universal access, the goal under [SDG 9](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/). In a future where access is “universal,” how can we balance being excited about the benefits while ensuring we are not making assumptions that are potentially detrimental?
 
-## 1. Do Design Properly
+## Do Design Properly
 
 There was a time when we thought: “rural Nigeria—surely no one will have a mobile phone there.” Nowadays when I speak to colleagues about upcoming projects, they are more likely to say they “know” that everyone has a mobile phone in rural Rwanda or that WhatsApp is “clearly” the most used app in urban Bangladesh. To make sure we aren’t basing our project on assumptions, we—and many other good ICT4D practitioners—are proponents of [designing with the user](https://digitalprinciples.org/principle/design-with-the-user/): meeting the users where they are to find out the who, what, when, where, why, and how they use technology.
 
@@ -26,13 +26,13 @@ So that we really don’t [leave anyone behind](https://www.gov.uk/government/pu
 
 ![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi, March 2018.`
 
-## 2. Augment the Online with the Offline
+## Augment the Online with the Offline
 
 This was the point that sparked my interest and desire to write this post: What if we become so biased towards technology that we marginalise nontech users? We can already see this happening in countries like the United Kingdom, where digital access is so prevalent, that we often forget not everyone has a smart phone or knows how to use them. In the United Kingdom, there is a controversy over [Settled Status applications ](https://www.wired.co.uk/article/brexit-app-settled-status-applications)for European Union citizens, with the application only available on an Android device and using it requires quite a high level of digital literacy. Furthermore, if you’re looking to get help in person with the application process, the nearest centre could be a few hours drive away.
 
 Even when access to digital is universal, we should still strive to ensure offline services are also available. [Marco Haenssgen](https://www.oii.ox.ac.uk/blog/the-tyranny-of-digital-inclusion/?utm_content=buffer27318&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) warns of the risks of technological advancement in the health sector without complementary offline services. He says that if patients are required to make appointments with doctors online to receive treatment, the health sector may assume that all their patients have access to a digital tool, therefore inadvertently marginalising those with limited or no access to mobile phones from healthcare services. Indeed, many current projects with digital initiatives have complementary in-person services, or a telephone hotline. Our [DIALOGO programme](https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html) in Mozambique, for example, combined a multitude of approaches to increase citizen engagement from Facebook reporting, to radio phone-ins.
 
-## 3. Don’t Assume Technology is What People Want
+## Don’t Assume Technology is What People Want
 
 Even when we get to a point where a vast majority of the global population has access to mobile phones and the internet, we will still need to consider whether it is always in the best interest of the potential user.
 
