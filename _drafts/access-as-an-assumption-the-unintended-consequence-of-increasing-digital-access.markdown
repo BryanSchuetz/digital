@@ -22,7 +22,7 @@ There was a time when we thought “ rural Nigeria- surely no one will have a mo
 
 But can we be going further? Even if 100% of a focus group says they have access to digital tools, it might be worth digging a little deeper or expanding your pool of interviewees. Do they have a grandmother that doesn’t have a phone or wouldn’t use it? For instance, in [Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) we found that older women were likely to express they had access to a phone, but when we dug deeper we found that what they really meant is that they have occasional access when they us their grandson’s mobile phone. Therefore access is on his terms and with his oversight, rather than available to the grandmother to use at will. 
 
-So we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we never implement tools with universal access as an assumption.
+So we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we avoid implementing tools with universal access as an underlying assumption and rather truly dig into when, where and how a person uses or has access to a digital tool. 
 
 ![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi, March 2018`
 
