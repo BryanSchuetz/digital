@@ -12,7 +12,7 @@ social-image: "/uploads/SDG9%20small-f44723.jpg"
 
 ![SDG9 small.jpg](/uploads/SDG9%20small.jpg "image from www.sdgldnont.ca"){:.float-left}In our quest to increase digital access, we tend to focus on the dividends, rather than the negatives that can arise. We are understandably excited about [edging closer to universal access](https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx) and the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to promote online safety and security, bridge the gender digital divide, and include people with disabilities (all great stuff!), we could be overlooking some negative consequences of increased digital access.
 
-Let’s imagine that it is 2030 and we have achieved the goal under [SDG 9](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/), which calls for universal access. In a future where access is “universal”, how can we balance being excited about the digital dividends whilst ensuring we are not making assumptions about access that are potentially detrimental?
+Let’s imagine it is 2030 and we have achieved the goal under [SDG 9](https://www.un.org/sustainabledevelopment/infrastructure-industrialization/), which calls for universal access. In a future where access is “universal”, how can we balance being excited about the digital dividends whilst ensuring we are not making assumptions about access that are potentially detrimental?
 
 <!--more-->
 
