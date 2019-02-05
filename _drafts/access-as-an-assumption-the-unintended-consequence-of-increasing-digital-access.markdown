@@ -36,7 +36,7 @@ Even when access to digital is universal, we should still strive to ensure offli
 
 Even when we get to a point where a vast majority of the global population has access to mobile phones and the internet,  we will still need to consider if this is in the best interest of the potential user.
 
-Often cited as the main concern by non-developmenters I speak to: but what if that village meeting is their main social activity and that is being replaced with technology? This likely echoes their own feeling that Facebook is meaning they meet up with friends less or WhatsApp replaces good old phone calls. It is obviously a concern for people who have had access to apps and smartphone since inception, but is it something we overlook in for relatively new users in development programming?
+Often cited as the main concern by non-developmenters I speak to is, "what if that village meeting is their main social activity and that is being replaced with technology?" This concern likely echoes their own feeling that Facebook is meaning they meet up with friends less or WhatsApp replaces good old phone calls. It is obviously a concern for people who have had access to apps and smartphone since inception, but is it something we overlook in for relatively new users in development programming?
 
 This is where human-centered design comes in again. Asking people not just what apps they use, but how they feel about that, [do they trust it](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), how would they feel if a certain service was digitised. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries.
 
