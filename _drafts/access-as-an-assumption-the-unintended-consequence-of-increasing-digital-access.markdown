@@ -20,3 +20,25 @@ For instance, in [Malawi](https://dai-global-digital.com/digital-insights-malawi
 So we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we never implement tools with universal access as an assumption.
 
 ![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)
+
+## 2. Augment the Online with the Offline
+Even when access to digital is universal, we would still expect offline services to be available. Indeed, many current projects with digital initiatives will have complementary in-person services, or a telephone hotline for example. Our DIALOGO[](https://dai-global-digital.com/icts-for-citizen-engagement-and-advocacy-lessons-learned-from-mozambique-dialogo.html) programme in Mozambique combined a multitude of approaches to increase citizen engagement from Facebook reporting, to radio phone-ins.  
+
+We are already seeing the lack of these services being an issue in countries where access is considered to be universal, but in reality, there are those that cannot afford the internet, elderly people who are not digitally literate. For example, in a country with strong digital finance models, it might be difficult to find a bank with a teller available. In the UK, there is a current controversy over [Settled Status applications ](https://www.wired.co.uk/article/brexit-app-settled-status-applications)for EU citizens in the UK, with the application having to be on the Android app, requiring quite a high level of digital literacy. And if you do want help in person, the nearest centre could be a few hours drive away. 
+
+## 3. Don’t Prioritise the Use of Technology. 
+This was the point that sparked my interest and desire to write a blog: what if we become so biased towards technology that we marginalise non-technology users?  We can already see this happening in countries like the UK, where digital access is so prevalent, we have a tendency to get all excited about shiny new apps, that we often forget not everyone has a smart phone or can use them. the UK Settled Status service is not designed for the digitally illiterate or those that don’t have access to an Android phone, and so has ended up being exclusive.
+
+[Marco Haenssgen](https://www.oii.ox.ac.uk/blog/the-tyranny-of-digital-inclusion/?utm_content=buffer27318&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) outlines the risks of technological advancement in the health sector, such as making it necessary to make appointments with doctors in order to receive treatment can create expectations that everyone has a phone mean people are marginalised from healthcare services via mobile. 
+
+## 4. Don’t Assume Technology is What People Want
+Even when we get to a point where a vast majority have access to mobile phones and the internet, do we still need to consider if this is in the best interest of the potential user. 
+
+Often cited as the main concern by non-developmenters I speak to: but what if that village meeting is their main social activity and that is being replaced with technology? This likely echoes their own feeling that Facebook is meaning they meet up with friends less or WhatsApp replaces good old phone calls. It is obviously a concern for people who have had access to apps and smartphone since inception, but is it something we overlook in for relatively new users in development programming? 
+This is where human-centered design comes in again. Asking people not just what apps they use, but how they feel about that, [do they trust it](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), how would they feel if a certain service was digitised. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries.
+
+## Final Remarks
+As proponents of human-centered design and the digital principles more generally, we hope that our attention to the user can help us avoid some of these pitfalls. However, many of these are not exclusive to developing countries and I think we sometimes forget that technology isn’t the golden ticket- we all have our own problems with it. 
+
+
+
