@@ -2,7 +2,11 @@
 title: Working in Agriculture? Please Full Out This Survey for USAID!
 date: 2019-02-07 15:57:00 -05:00
 Author: Kristen Roggemann
+social-image: "/uploads/_MG_2115.JPG"
+thumbnail: "/uploads/_MG_2115.JPG"
 ---
+
+[_MG_2115.JPG](/uploads/_MG_2115.JPG)
 
 [USAID ](https://www.usaid.gov/)has worked with Missions to integrate digital tools and technologies into their Feed the Future activities since 2015, first through the Global Development Lab-led [Digital Development for Feed the Future ](https://www.usaid.gov/digitalag)(D2FTF) initiative and now through the [Bureau for Food Security ](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-food-security)(BFS). BFS works with DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, a buy-in mechanism that allows USAID Missions to receive digital solutions for resilience and food security assessments as well as program, project, and activity design and implementation support.
 
