@@ -1,7 +1,7 @@
 ---
 title: 'Access as an Assumption: The Unintended Consequence of Increasing Digital
   Access'
-date: 2019-02-07 09:00:00 -05:00
+date: 2019-02-07 08:30:00 -05:00
 tags:
 - Digital Inclusion
 - Human-centered design
@@ -11,7 +11,7 @@ social-image: "/uploads/SDG9%20small-f44723.jpg"
 thumbnail: "/uploads/SDG9%20small-f44723.jpg"
 ---
 
-![SDG9 small.jpg](/uploads/SDG9%20small.jpg "image from www.sdgldnont.ca"){:.float-left} In our quest to increase digital access, we tend to focus on the dividends, rather than the negatives that can arise. We are understandably excited about [edging closer to universal access](https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx) and the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to promote online safety and security, bridge the gender digital divide, and include people with disabilities (all great stuff!), we could be overlooking some negative consequences of increased digital access.
+![SDG9 small.jpg](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/SDG9%20small.jpg?download "image from www.sdgldnont.ca"){:.float-left} In our quest to increase digital access, we tend to focus on the dividends, rather than the negatives that can arise. We are understandably excited about [edging closer to universal access](https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx) and the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to promote online safety and security, bridge the gender digital divide, and include people with disabilities (all great stuff!), we could be overlooking some negative consequences of increased digital access.
 
 <!--more-->
 
@@ -21,9 +21,9 @@ Let’s imagine it is 2030 and we have achieved universal access, the goal under
 
 There was a time when we thought: “rural Nigeria—surely no one will have a mobile phone there.” Nowadays when I speak to colleagues about upcoming projects, they are more likely to say they “know” that everyone has a mobile phone in rural Rwanda or that WhatsApp is “clearly” the most used app in urban Bangladesh. To make sure we aren’t basing our project on assumptions, we—and many other good ICT4D practitioners—are proponents of [designing with the user](https://digitalprinciples.org/principle/design-with-the-user/): meeting the users where they are to find out the who, what, when, where, why, and how they use technology.
 
-But can we be going further? Even if 100 percent of focus group participants say they have access to digital tools, it might be worth digging a little deeper or expanding your pool of interviewees. Do they have a grandmother who doesn’t have a phone or wouldn’t use it? For instance, in [Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) we found that older women were likely to say they had access to a phone, but when we dug deeper we found that what they really meant is that they have occasional access to their grandson’s mobile phone, for example. Therefore, access is on his terms and with his oversight, rather than available to the grandmother to use at will. 
+But can we be going further? Even if 100 percent of focus group participants say they have access to digital tools, it might be worth digging a little deeper or expanding your pool of interviewees. Do they have a grandmother who doesn’t have a phone or wouldn’t use it? For instance, in [Malawi](https://dai-global-digital.com/digital-insights-malawi-communication-among-rural-communities.html) we found that older women were likely to say they had access to a phone, but when we dug deeper we found that what they really meant is that they have occasional access to their grandson’s mobile phone, for example. Therefore, access is on his terms and with his oversight, rather than available to the grandmother to use at will.
 
-So that we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we avoid implementing tools with universal access as an underlying assumption and rather truly dig into when, where, and how a person uses or has access to a digital tool. 
+So that we really don’t [leave anyone behind](https://www.gov.uk/government/publications/leaving-no-one-behind-our-promise/leaving-no-one-behind-our-promise), we need to make sure we avoid implementing tools with universal access as an underlying assumption and rather truly dig into when, where, and how a person uses or has access to a digital tool.
 
 ![058- Mzimba TA Chindi_approval.jpg](/uploads/058-%20Mzimba%20TA%20Chindi_approval.jpg)`Frontier Insights Malawi, March 2018.`
 
@@ -37,9 +37,9 @@ Even when access to digital is universal, we should still strive to ensure offli
 
 Even when we get to a point where a vast majority of the global population has access to mobile phones and the internet, we will still need to consider whether it is always in the best interest of the potential user.
 
-Often cited as a main concern by non-techie people I speak with is: "What if that village meeting is the main social activity and that is being replaced with technology?" This concern likely echoes their own feeling that Facebook means they meet up with friends less or that WhatsApp replaces good old phone calls. 
+Often cited as a main concern by non-techie people I speak with is: "What if that village meeting is the main social activity and that is being replaced with technology?" This concern likely echoes their own feeling that Facebook means they meet up with friends less or that WhatsApp replaces good old phone calls.
 
-This is where human-centered design comes in again. Asking people not just about the apps they use, but how they feel about using them, [do they trust them](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), and how might they feel if a certain service was digitised. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries. This is a lesson we as digital development practitioners should continue to keep in mind. 
+This is where human-centered design comes in again. Asking people not just about the apps they use, but how they feel about using them, [do they trust them](https://dai-global-digital.com/frontier-insights-cyber-security-edition.html), and how might they feel if a certain service was digitised. The pitfalls of ever-growing digitisation are not surprising, nor are they unique to developing countries. This is a lesson we as digital development practitioners should continue to keep in mind.
 
 ## Avoiding Pitfalls
 
