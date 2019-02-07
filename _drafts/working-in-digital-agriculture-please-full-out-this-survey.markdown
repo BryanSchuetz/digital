@@ -6,7 +6,9 @@ Author: Kristen Roggemann
 
 [USAID ](https://www.usaid.gov/)has worked with Missions to integrate digital tools and technologies into their Feed the Future activities since 2015, first through the Global Development Lab-led [Digital Development for Feed the Future ](https://www.usaid.gov/digitalag)(D2FTF) initiative and now through the [Bureau for Food Security ](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-food-security)(BFS). BFS works with DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, a buy-in mechanism that allows USAID Missions to receive digital solutions for resilience and food security assessments as well as program, project, and activity design and implementation support.
 
-As part of this work, DAI/Digital Frontiers is conducting a [survey of agriculture projects](https://www.surveymonkey.com/r/QSMW65V) to understand their experiences using digital tools in their work. These findings will be used to inform the Bureau's digital strategy. If you are working on an agriculture project, please take 10 minutes to fill out our survey [here](https://www.surveymonkey.com/r/QSMW65V).
+As part of this work, DAI/Digital Frontiers is conducting a [survey of agriculture projects](https://www.surveymonkey.com/r/QSMW65V) to understand their experiences using digital tools in their work. These findings will be used to inform the Bureau's digital strategy. If you are working on an agriculture project, we re very interested in hearing from you. 
+
+Please take 10 minutes to fill out our survey [here:] (https://www.surveymonkey.com/r/QSMW65V).
 
 We thank you in advance for taking the time to complete this survey.
 
