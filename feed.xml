@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Jan 2019 16:26:43 -0500</pubDate>
-    <lastBuildDate>Thu, 31 Jan 2019 16:26:43 -0500</lastBuildDate>
+    <pubDate>Thu, 07 Feb 2019 08:43:10 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Feb 2019 08:43:10 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/SDG9%20small-f44723.jpg" medium="image" /> 
+        <title>Access as an Assumption: The Unintended Consequence of Increasing Digital Access</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/SDG9%20small.jpg?download&quot; alt=&quot;SDG9 small.jpg&quot; title=&quot;image from www.sdgldnont.ca&quot; class=&quot;float-left&quot; /&gt; In our quest to increase digital access, we tend to focus on the dividends, rather than the negatives that can arise. We are understandably excited about &lt;a href=&quot;https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx&quot;&gt;edging closer to universal access&lt;/a&gt; and the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to promote online safety and security, bridge the gender digital divide, and include people with disabilities (all great stuff!), we could be overlooking some negative consequences of increased digital access.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Feb 2019 08:30:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/access-as-an-assumption-the-unintended-consequence-of-increasing-digital-access.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/access-as-an-assumption-the-unintended-consequence-of-increasing-digital-access.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Human-centered design</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/peru-mercury-emergency.jpg" medium="image" /> 
@@ -207,25 +228,6 @@
         
         
         <category>Global Health</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Pirated%20Software-161a1c.png" medium="image" /> 
-        <title>Cyber Security Series Part 3: Pirated Software</title>
-        <description>&lt;p&gt;It’s been about two months since I last contributed to the Cyber Security Series, but don’t let the time fool you into thinking we haven’t been engaging extensively on the topic. As many of you might remember, the Center for Digital Acceleration (CDA) published the &lt;em&gt;&lt;a href=&quot;https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html&quot;&gt;Digital Inclusion and a Trusted Internet&lt;/a&gt;&lt;/em&gt; report in October on the topic. For those of you who have not read it, I highly recommend it, particularly if you’re interested in cyber security or data privacy.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box&quot;&gt;first post&lt;/a&gt; in this series focused on the issue of trust and the &lt;a href=&quot;https://dai-global-digital.com/cyber-security-2.html&quot;&gt;second post&lt;/a&gt; argued that investment in regulations that support the enabling environment, strong institutions, and skills of the population are key to integrating cyber security across a country’s economy. This post focuses on a more micro-level challenge—pirated software—and how addressing it is key to responding to cyber security overall.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Dec 2018 08:30:00 -0500</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html</guid>
-        
-        <category>Cyber Security Series</category>
-        
         
       </item>
     
