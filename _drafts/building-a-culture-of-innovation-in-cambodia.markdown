@@ -9,7 +9,6 @@ Many in international development want to be “innovative,” but how do workpl
 <!--more-->
 
 A cohort of young Cambodians have worked directly for DI since its inception, and nearly half of DI’s current staff are under 30 years old. Attracted by its culture of innovation, DI has created a positive workplace where staff, visitors, and clients learn from each other and promote exchange, creativity, and outreach. As described by Setha Rath, a project manager: “We adapt, we are flexible, we test new things out—that’s innovation to me.”
-![CamDI.jpg](/uploads/CamDI.jpg)`Image taken during a brainstorming session at the Cambodia DI office`
 
 DI’s results for Cambodian society have been impressive. Among them, the DI team has helped:
 
@@ -26,6 +25,8 @@ To date, the DI team has trained more than 900 Cambodians to use the most in-dem
 ## Letting Young People Lead
 
 When Rath joined the DI team at age 26, she was struck by how it purposely created a culture of innovation to give rise to fresh ideas, noting the team’s bottom-up approach to proposing, piloting, receiving feedback, and refining or rejecting. “I could talk to my supervisor, get their feedback, improve my ideas, and take ownership of my work,” Rath said.
+
+![CamDI.jpg](/uploads/CamDI.jpg)`Image taken during a brainstorming session at the Cambodia DI office`
 
 For example, Rath was tasked to produce a [case study](https://www.development-innovations.org/wp-content/uploads/2018/07/WEIs-TEST-App-Case-Study.pdf) for USAID about DI and World Education’s co-development of a literacy assessment app. The app has helped more than 600 Cambodian elementary school teachers assess their students’ needs faster and more precisely than the slow and inaccurate paper-based assessment used previously. Rath’s expertise in design and illustration helped her craft a powerful story to help others develop *user-centered* education technology products. “Innovative ideas, especially about how to solve problems that young Cambodians have, are not always going to come from senior management,” said DAI’s Kate Heuisler, Chief of Party of the Developments Innovation program. “It is our job to listen, and to help those youth-led ideas to come to life.”
 
