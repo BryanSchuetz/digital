@@ -19,4 +19,4 @@ As part of this work, DAI-led Digital Frontiers is conducting a [survey of agric
 
 We thank you in advance for taking the time to complete this survey.
 
-Questions? Please email DigitalFrontiers@dai.com
+Questions? Please email DigitalFrontiers@dai.com.
