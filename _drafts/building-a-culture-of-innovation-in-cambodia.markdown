@@ -1,6 +1,7 @@
 ---
 title: Building a Culture of Innovation in Cambodia
 date: 2019-02-08 09:56:00 -05:00
+Author: "[Tiffany Tsang]"
 ---
 
 Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
@@ -31,7 +32,7 @@ Research shows businesses with [diverse teams](https://www.mckinsey.com/business
 
 Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” she explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
 
-**Making “Good” Mistakes**
+## Making “Good” Mistakes
 
 “Lessons learned” and admitting mistakes are new concepts in Cambodia; “saving face” is the prevailing cultural virtue and appearances are tantamount. Of course, this attitude does not facilitate risk taking. “Promoting a culture of innovation in a team means acknowledging ideas that fail and being prepared to pivot,” said Vibol Theng, DI’s former Deputy Chief of Party, now a consultant to the project. “Personally, admitting to the team that mistakes were made, detailing what went wrong, and learning from failure ultimately promotes ownership of ideas, taking responsibility for how they are implemented, and enjoying success when it comes.”
 
@@ -43,4 +44,4 @@ DI’s co-working space and technology resource center flourished in the project
 
 USAID/Cambodia remains essential in ensuring the DI team can pivot and adapt, and in supporting our demand-driven model by quickly approving workplan changes. In 2017, the USAID Learning Lab [recognized](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia) DI’s adaptive management excellence. “When our strategy shifts, we talk about why we are changing as a project, which is often because the ecosystem has grown and we want to support local service providers whenever possible,” said Heuisler. “All of that has helped us garner trust across Cambodia.”
 
-***Tiffany Tsang is a communications advisor with the USAID/Cambodia Development Innovations project.***
+*Tiffany Tsang is a communications advisor with the USAID/Cambodia Development Innovations project.*
