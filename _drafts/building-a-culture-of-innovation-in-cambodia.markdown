@@ -1,7 +1,7 @@
 ---
 title: Building a Culture of Innovation in Cambodia
 date: 2019-02-08 09:56:00 -05:00
-Author: "[Tiffany Tsang] (https://www.linkedin.com/in/tiffany-tsang-05b33241/)"
+Author: "[Tiffany Tsang](https://www.linkedin.com/in/tiffany-tsang-05b33241/)"
 ---
 
 Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
