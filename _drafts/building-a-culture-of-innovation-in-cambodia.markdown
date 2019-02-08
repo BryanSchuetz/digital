@@ -37,7 +37,7 @@ Sharing is part of DI’s culture. Externally, we publicize grant and scholarshi
 
 Heuisler agrees: “At Development Innovations, we need to keep asking ourselves *why* things didn’t work, and to make sure our end-users define our priorities, so our ideas succeed and our activities make positive and lasting impacts.”
 
-**Thoughtful Support from USAID**
+## Thoughtful Support from USAID
 
 DI’s co-working space and technology resource center flourished in the project’s first three years. Known as the 5D Lab, the space helped spawn market research that revealed rapid growth in the tech and entrepreneurship ecosystem in Phnom Penh. With market-driven coworking spaces opening across the city, DI relaunched its space as The Lab@DI. The re-designed space provided training and coaching in basic technology to help individuals and civil society organizations use appropriate and accessible tools in Cambodia’s native Khmer language.
 
