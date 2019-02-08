@@ -9,17 +9,17 @@ A cohort of young Cambodians have worked directly for DI since its inception, an
 
 DI’s results for Cambodian society have been impressive. Among them, the DI team has helped:
 
-· Build generational capacity in Cambodia’s tech ecosystem by engaging more than 400 girls in the global [Technovation](https://dai-global-developments.com/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/) competition.
+* Build generational capacity in Cambodia’s tech ecosystem by engaging more than 400 girls in the global [Technovation](https://dai-global-developments.com/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/) competition.
 
-· Female entrepreneurs numbering in the thousands by working with [SHE Investments](https://www.sheinvestments.com/) to launch and refine a [web portal](http://ngeayngeay.co/) that gives entrepreneurs information to help register and grow their businesses.
+* Female entrepreneurs numbering in the thousands by working with [SHE Investments](https://www.sheinvestments.com/) to launch and refine a [web portal](http://ngeayngeay.co/) that gives entrepreneurs information to help register and grow their businesses.
 
-· Nongovernmental organizations like Children in Families and technical partner Rotati Consulting serve children in need and keep them in safe family care by funding [case management databases](https://www.development-innovations.org/success-stories/scaling-user-friendly-child-care-case-management-system/).
+* Nongovernmental organizations like Children in Families and technical partner Rotati Consulting serve children in need and keep them in safe family care by funding [case management databases](https://www.development-innovations.org/success-stories/scaling-user-friendly-child-care-case-management-system/).
 
 USAID has twice extended DI’s contract, in part because of results that enabled more than 70 problem-driven ICT solutions such as those cited above. These solutions have benefited 1.5 million users—from the 40 users of an electronic medical record system to the 700,000 users of a [mobile application](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/) that speeds typing in the native Khmer language by two to three times.
 
 To date, the DI team has trained more than 900 Cambodians to use the most in-demand information and communications technologies, such as smartphone video tools and the social media site Facebook—which is used by 6.9 million Cambodians, covering nearly half the country’s population. Training sessions at the DI Lab have been so successful that Cambodia-based nongovernmental organizations are taking over teaching the most in-demand courses.
 
-**Letting Young People Lead**
+## Letting Young People Lead
 
 When Rath joined the DI team at age 26, she was struck by how it purposely created a culture of innovation to give rise to fresh ideas, noting the team’s bottom-up approach to proposing, piloting, receiving feedback, and refining or rejecting. “I could talk to my supervisor, get their feedback, improve my ideas, and take ownership of my work,” Rath said.
 
@@ -27,13 +27,11 @@ For example, Rath was tasked to produce a [case study](https://www.development-i
 
 Research shows businesses with [diverse teams](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity) make better and faster [decisions](https://www.forbes.com/sites/eriklarson/2017/09/21/new-research-diversity-inclusion-better-decision-making-at-work/#522d73e34cbf) and are more profitable than teams more homogenous in gender, race, or expertise. The DI team feels the same goes for innovation. “Whether they are creatives from the communications team, or the finance and administration team, or from our partner organizations—they all get involved with our brainstorming and activity design,” said Sotheavy At, DI’s Senior Innovation Program Manager.
 
-#### Sharing Not Just for Facebook
+## Sharing Not Just for Facebook
 
 Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” she explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
 
 **Making “Good” Mistakes**
-
-#### 
 
 “Lessons learned” and admitting mistakes are new concepts in Cambodia; “saving face” is the prevailing cultural virtue and appearances are tantamount. Of course, this attitude does not facilitate risk taking. “Promoting a culture of innovation in a team means acknowledging ideas that fail and being prepared to pivot,” said Vibol Theng, DI’s former Deputy Chief of Party, now a consultant to the project. “Personally, admitting to the team that mistakes were made, detailing what went wrong, and learning from failure ultimately promotes ownership of ideas, taking responsibility for how they are implemented, and enjoying success when it comes.”
 
