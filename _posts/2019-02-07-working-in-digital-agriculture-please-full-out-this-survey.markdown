@@ -8,7 +8,7 @@ social-image: "/uploads/aphone.JPG"
 thumbnail: "/uploads/aphone.JPG"
 ---
 
-The [U.S. Agency for International Development (USAID)](https://www.usaid.gov/)has worked with Missions to integrate digital tools and technologies into Feed the Future activities since 2015, first through the U.S. Global Development Lab-led [Digital Development for Feed the Future ](https://www.usaid.gov/digitalag)(D2FTF) initiative and now through the [Bureau for Food Security (BFS)](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-food-security)(BFS). BFS works with DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, a buy-in mechanism that allows Missions to receive digital solutions for resilience and food security assessments as well as program, project, activity design, and implementation support.
+The [U.S. Agency for International Development (USAID)](https://www.usaid.gov/) has worked with Missions to integrate digital tools and technologies into Feed the Future activities since 2015, first through the U.S. Global Development Lab-led [Digital Development for Feed the Future](https://www.usaid.gov/digitalag)(D2FTF) initiative and now through the [Bureau for Food Security (BFS)](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-food-security) (BFS). BFS works with DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, a buy-in mechanism that allows Missions to receive digital solutions for resilience and food security assessments as well as program, project, activity design, and implementation support.
 
 ![a phone](/uploads/aphone.JPG)`Photo credit: CABI`
 
