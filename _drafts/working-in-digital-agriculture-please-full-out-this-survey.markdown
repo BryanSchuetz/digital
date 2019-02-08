@@ -15,7 +15,7 @@ The [U.S. Agency for International Development (USAID)](https://www.usaid.gov/)h
 
 As part of this work, DAI-led Digital Frontiers is conducting a [survey of agriculture projects](https://www.surveymonkey.com/r/QSMW65V) to understand their experiences using digital tools in their work. These findings will be used to inform BFS's digital strategy. If you are working on an agriculture project, we are very interested in hearing from you.
 
-Please take 10 minutes to fill out our survey which can be found [here](https://www.surveymonkey.com/r/QSMW65V).
+> Please take 10 minutes to [fill out our survey](https://www.surveymonkey.com/r/QSMW65V).
 
 We thank you in advance for taking the time to complete this survey.
 
