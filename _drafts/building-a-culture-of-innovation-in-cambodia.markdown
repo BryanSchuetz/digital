@@ -8,7 +8,7 @@ social-image: "/uploads/3%20USAID%20Development%20Innovations%20project.JPG"
 thumbnail: "/uploads/3%20USAID%20Development%20Innovations%20project.JPG"
 ---
 
-Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
+Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched [Development Innovations (DI)](https://www.dai.com/our-work/projects/cambodia-development-innovations) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
 
 <!--more-->
 
@@ -17,9 +17,7 @@ A cohort of young Cambodians have worked directly for DI since its inception, an
 DI’s results for Cambodian society have been impressive. Among them, the DI team has helped:
 
 * Build generational capacity in Cambodia’s tech ecosystem by engaging more than 400 girls in the global [Technovation](https://dai-global-developments.com/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/) competition.
-
 * Female entrepreneurs numbering in the thousands by working with [SHE Investments](https://www.sheinvestments.com/) to launch and refine a [web portal](http://ngeayngeay.co/) that gives entrepreneurs information to help register and grow their businesses.
-
 * Nongovernmental organizations like Children in Families and technical partner Rotati Consulting serve children in need and keep them in safe family care by funding [case management databases](https://www.development-innovations.org/success-stories/scaling-user-friendly-child-care-case-management-system/).
 
 USAID has twice extended DI’s contract, in part because of results that enabled more than 70 problem-driven ICT solutions such as those cited above. These solutions have benefited 1.5 million users—from the 40 users of an electronic medical record system to the 700,000 users of a [mobile application](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/) that speeds typing in the native Khmer language by two to three times.
@@ -32,7 +30,7 @@ When Rath joined the DI team at age 26, she was struck by how it purposely creat
 
 ![CamDI.jpg](/uploads/CamDI.jpg)`Image taken during a brainstorming session at the USAID Development Innovations office in Cambodia.`
 
-For example, Rath was tasked to produce a [case study](https://www.development-innovations.org/wp-content/uploads/2018/07/WEIs-TEST-App-Case-Study.pdf) for USAID about DI and World Education’s co-development of a literacy assessment app. The app has helped more than 600 Cambodian elementary school teachers assess their students’ needs faster and more precisely than the slow and inaccurate paper-based assessment used previously. Rath’s expertise in design and illustration helped her craft a powerful story to help others develop *user-centered* education technology products. “Innovative ideas, especially about how to solve problems that young Cambodians have, are not always going to come from senior management,” said DAI’s Kate Heuisler, Chief of Party of the Developments Innovation program. “It is our job to listen, and to help those youth-led ideas to come to life.”
+For example, Rath was tasked to produce a [case study](https://www.development-innovations.org/wp-content/uploads/2018/07/WEIs-TEST-App-Case-Study.pdf) for USAID about DI and World Education’s co-development of a literacy assessment app. The app has helped more than 600 Cambodian elementary school teachers assess their students’ needs faster and more precisely than the slow and inaccurate paper-based assessment used previously. Rath’s expertise in design and illustration helped her craft a powerful story to help others develop *user-centered* education technology products. “Innovative ideas, especially about how to solve problems that young Cambodians have, are not always going to come from senior management,” said DAI’s [Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler), Chief of Party of the Developments Innovation program. “It is our job to listen, and to help those youth-led ideas to come to life.”
 
 Research shows businesses with [diverse teams](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity) make better and faster [decisions](https://www.forbes.com/sites/eriklarson/2017/09/21/new-research-diversity-inclusion-better-decision-making-at-work/#522d73e34cbf) and are more profitable than teams more homogenous in gender, race, or expertise. The DI team feels the same goes for innovation. “Whether they are creatives from the communications team, or the finance and administration team, or from our partner organizations—they all get involved with our brainstorming and activity design,” said Sotheavy At, DI’s Senior Innovation Program Manager.
 
@@ -56,6 +54,4 @@ USAID/Cambodia remains essential in ensuring the DI team can pivot and adapt, an
 
 ![TiffanyTsang_CambodiaDI.png](/uploads/TiffanyTsang_CambodiaDI.png){:.float-left style="width: 35%;"}
 
-
-
-*Tiffany Tsang is a communications advisor with the USAID/Cambodia Development Innovations project.*
+*Tiffany Tsang is a communications advisor with the DI project.*
