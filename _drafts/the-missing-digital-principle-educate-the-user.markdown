@@ -1,6 +1,9 @@
 ---
 title: 'The (Missing) Digital Principle: Educate the User'
 date: 2019-02-12 17:23:00 -05:00
+tags:
+- Think Piece
+- Digital Principles
 ---
 
 We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of [consent around data collection](https://lindaraftree.com/2017/02/06/responsible-data-case-studies/). There’s even an [entire digital principle](https://digitalprinciples.org/principle/address-privacy-security) about it.
@@ -17,7 +20,7 @@ Through our digital development programming we touch millions of lives and suppo
 
 But in addition to meeting users where they are and teaching the people we are working with how to use and employ the digital tools we create, we should also commit to educating users on digital literacy and digital resilience more broadly, especially given the prominent role social media plays in their digital lives and how vulnerable these platforms are to digital malfeasance. That way, users will not only know how to leverage the sustainable digital tools developed during a specific development initiative, but will also be aware of what it means to share data online, how to critically engage with information shared digitally, how to safeguard digital accounts, and how to protect their privacy online. In the end, this additional education component will mean that as people gain greater access to the digital ecosystem, their participation will be responsible, both as an individual user and as part of the community of users globally. If anything, more mature digital ecosystems could benefit from a similar approach.
 
-!\[\](file:///C:/Users/GNurko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif) `Karim Bin-Humam during Frontier Insights in Haiti, teaching people how to use mobile money applications.`
+![KarimFI.png](/uploads/KarimFI.png) `Karim Bin-Humam during Frontier Insights in Haiti, teaching people how to use mobile money applications.`
 
 ## Who is responsible?
 
