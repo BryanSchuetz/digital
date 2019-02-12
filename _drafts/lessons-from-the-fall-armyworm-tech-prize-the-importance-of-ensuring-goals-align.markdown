@@ -2,6 +2,9 @@
 title: 'Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals
   Align'
 date: 2019-02-12 10:43:00 -05:00
+Author: "[Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/)"
+social-image: "/uploads/FAW.png"
+thumbnail: "/uploads/FAW.png"
 ---
 
 One of the attractions of awarding prizes in global development is that the prize sponsor shifts the responsibility of achieving results onto competitors. While this approach can inspire a range of creative solutions and spur a nascent market, it also means many finalists will develop something valuable whether they win the award or not. For a prize to be valuable to both sponsors and competitors, sponsors must clearly communicate prize objectives so that competitors have the best chance at success and can assess whether devoting resources to achieve those objectives makes sense for them, win or lose.
