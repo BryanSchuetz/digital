@@ -4,14 +4,12 @@ title: 'Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Go
 date: 2019-02-12 10:43:00 -05:00
 ---
 
-
-**![https://lh3.googleusercontent.com/-a4bTOANwdJXrnWKVJO67qlhO44g_EmPeM99v05EukH-oRpRNjO4uHeWNcrRBpEGhlfkP2fCwBtQXkX7ZQ1Kp76pm5sBLsok5ad5J9o_1pJWpHhM2Zjmt0WGGa2LkjyOqpHC-UnP](file:///C:/Users/GNurko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)**
-
-*Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes with Grand Prize Winners Adam Wills and Georgia Barrie of Farm.Ink at the AfricaCom awards ceremony. Photo credit: KNect365.*
-
 One of the attractions of awarding prizes in global development is that the prize sponsor shifts the responsibility of achieving results onto competitors. While this approach can inspire a range of creative solutions and spur a nascent market, it also means many finalists will develop something valuable whether they win the award or not. For a prize to be valuable to both sponsors and competitors, sponsors must clearly communicate prize objectives so that competitors have the best chance at success and can assess whether devoting resources to achieve those objectives makes sense for them, win or lose.
 
 Feed the Future, through the U.S. Agency for International Development (USAID), took this measured approach in the Fall Armyworm Tech Prize. This prize was created to incentivize new digital tools and approaches to help African farmers identify and treat the invasive agricultural pest that is [threatening the food security](https://www.scidev.net/sub-saharan-africa/farming/news/global-actions-combat-fall-armyworm.html) of about 200 million people. Following a rigorous application process that included 228 proposals, we selected a cadre of 20 promising teams to create and test digital solutions to sustain farmer productivity in the face of the pest. After field testing and expert evaluations, we convened our finalists to showcase their work and announce the winners at the November [AfricaCom](https://tmt.knect365.com/africacom/) conference.
+
+![FAW.png](/uploads/FAW.png)
+`Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes with Grand Prize Winners Adam Wills and Georgia Barrie of Farm.Ink at the AfricaCom awards ceremony. Photo credit: KNect365.`
 
 ## Learning at AfricaCom
 
@@ -19,9 +17,9 @@ In a room of 20 teams buzzing with anticipation over whether they won one of the
 
 Prize winners, unsurprisingly, assured us that competing was worth it. Notably, they explained that they entered the competition because the prize matched their strategic interests, so even if they lost, the experience would still be worthwhile. For Grand Prize winner [Farm.ink](https://farm.ink/) and Runners-Up [Akorion](https://akorion.com/) and [Project Concern International](https://www.pciglobal.org/) (PCI), in partnership with [Dimagi](https://www.dimagi.com/), competing not only allowed them to respond to growing customer demand for innovative solutions to address the destructive pest, it also incentivized them to respond to that demand in a way that reflected their organizations’ strategic goals.
 
-![https://lh6.googleusercontent.com/IpDyA96cX7uEuGGcX6eAdwp5vGfPo-Z9-iFyeke80nPaCJToK_0N0wVgeoK7vPW2-DqoJbFT1kJR4YcEE7IsbUVnBHOxypOyQz0NHINC86oEO2H_bbgyDiWYqJsQRAUQDOXmyhOF](file:///C:/Users/GNurko/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
+![FAW1.png](/uploads/FAW1.png)
 
-*The second place teams, Akorion (on the left, Zilla Mary Arach and Richard Nuwenyesiga) and PCI and Dimagi team (on the right, Delphine Pedeboy, Jennifer Waugaman, and Nick Ford) with USAID Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes at the AfricaCom awards ceremony. Photo credit: KNect365.*
+`The second place teams, Akorion (on the left, Zilla Mary Arach and Richard Nuwenyesiga) and PCI and Dimagi team (on the right, Delphine Pedeboy, Jennifer Waugaman, and Nick Ford) with USAID Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes at the AfricaCom awards ceremony. Photo credit: KNect365.`
 
 ## The Case for Competing
 
