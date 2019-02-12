@@ -1,11 +1,13 @@
 ---
 title: 'The (Missing) Digital Principle: Educate the User'
-date: 2019-02-12 17:23:00 -05:00
+date: 2019-02-14 09:00:00 -05:00
 tags:
 - Think Piece
 - Digital Principles
 Author: "[Kristen Roggemann](https://dai-global-digital.com/authors/kristen-roggemann/)
   & [Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
+social-image: "/uploads/KarimFI.png"
+thumbnail: "/uploads/KarimFI.png"
 ---
 
 We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of [consent around data collection](https://lindaraftree.com/2017/02/06/responsible-data-case-studies/). There’s even an [entire digital principle](https://digitalprinciples.org/principle/address-privacy-security) about it.
