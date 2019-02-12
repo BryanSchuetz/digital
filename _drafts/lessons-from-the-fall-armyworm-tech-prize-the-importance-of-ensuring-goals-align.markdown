@@ -2,6 +2,9 @@
 title: 'Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals
   Align'
 date: 2019-02-12 10:43:00 -05:00
+tags:
+- Innovation
+- Think Piece
 Author: "[Meredith Perry](https://www.linkedin.com/in/meredith-beth-perry-01882236/)"
 social-image: "/uploads/FAW.png"
 thumbnail: "/uploads/FAW.png"
