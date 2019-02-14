@@ -21,13 +21,11 @@ Feed the Future, through the U.S. Agency for International Development (USAID), 
 
 ## Learning at AfricaCom
 
-In a room of 20 teams buzzing with anticipation over whether they won one of the six Fall Armyworm Tech Prize awards, the question, “did we do a good job?” was top of everyone’s mind. But it wasn’t simply competitors wrestling with that question in our focus groups and interviews. The team behind the Fall Armyworm Tech Prize wondered the same thing. Did we clearly communicate our objectives, process, and incentives, allowing competitors to assess whether participating was appropriate for their organizations?
+In a room of 20 teams buzzing with anticipation over whether they won one of the six awards, the question, “Did we do a good job?” was top of everyone’s mind. But it wasn’t simply competitors wrestling with that question in our focus groups and interviews. The team behind the Fall Armyworm Tech Prize wondered the same thing. Did we clearly communicate our objectives, process, and incentives, allowing competitors to assess whether participating was appropriate for their organizations?
 
 Prize winners, unsurprisingly, assured us that competing was worth it. Notably, they explained that they entered the competition because the prize matched their strategic interests, so even if they lost, the experience would still be worthwhile. For Grand Prize winner [Farm.ink](https://farm.ink/) and Runners-Up [Akorion](https://akorion.com/) and [Project Concern International](https://www.pciglobal.org/) (PCI), in partnership with [Dimagi](https://www.dimagi.com/), competing not only allowed them to respond to growing customer demand for innovative solutions to address the destructive pest, it also incentivized them to respond to that demand in a way that reflected their organizations’ strategic goals.
 
-![FAW1.png](/uploads/FAW1.png)
-
-`The second place teams, Akorion (on the left, Zilla Mary Arach and Richard Nuwenyesiga) and PCI and Dimagi team (on the right, Delphine Pedeboy, Jennifer Waugaman, and Nick Ford) with USAID Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes at the AfricaCom awards ceremony. Photo credit: KNect365.`
+![FAW1.png](/uploads/FAW1.png)`The second place teams, Akorion (on the left, Zilla Mary Arach and Richard Nuwenyesiga) and PCI and Dimagi team (on the right, Delphine Pedeboy, Jennifer Waugaman, and Nick Ford) with USAID Center for Digital Development Director Chris Burns, and Foundation for Food and Agriculture Research COO Julie Reynes at the AfricaCom awards ceremony. Photo credit: KNect365.`
 
 ## The Case for Competing
 
