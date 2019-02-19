@@ -11,13 +11,13 @@ But machine learning can also be put to less scrupulous uses just as easily. Soc
 
 While exact figures for developing markets can be hard to obtain for many of the same reasons they’re a tempting target, research suggests that these attacks are surprisingly common. A security firm recently reported in their yearly phishing study that [83 percent of global respondents](https://www.proofpoint.com/us/newsroom/press-releases/global-state-phish-report-finds-social-engineering-cyberattacks-and) experienced phishing attacks in 2018, which represents a 9 percent increase year over year. The impact of these incidents can be profound; another report focused on cybersecurity in Africa found that social engineering and phishing combined amounted to a [$274 million loss](https://digital4africa.com/wp-content/uploads/2018/04/Africa-Cyber-Security-Report-2017.pdf) across Africa in 2017, or 25% of total losses due to cyberattacks.
 
-**How Does Machine Learning Impact Social Engineering?**
+## How Does Machine Learning Impact Social Engineering?
 
 With more data available than ever before, significant progress has been made in teaching computers to [understand and mimic human communication](http://news.mit.edu/2018/machines-learn-language-human-interaction-1031). While anyone who has tried to have a conversation with their Alexa or Google Home can attest to the fact that they aren’t exactly stimulating conversationalists, it’s hard to deny that it’s getting more difficult to tell a computer from a human simply based on communication. A number of companies have been using AI and machine learning to [analyze and generate marketing copy](https://www.persado.com/resources/dell-case-study) for email and social media ad campaigns, and these campaigns have been outperforming traditional tactics by fairly large margins.
 
 At the moment, the only thing holding back social engineering attacks from more widespread deployment is the time it takes to execute them. By their very nature, these attacks require a human on the other end for any meaningful chance of success, and while initial phishing messages can often be automated and sent en masse, the careful, coaxing follow-up is typically with another human. This applies even more so for pretexting attacks, which are often similar to phishing but involve doing research upfront to identify potential weaknesses in a target’s communications.
 
-**Real-World Examples**
+## Real-World Examples
 
 Recently, a number of organizations have been hit with a phishing attack that looks something like this:
 
@@ -29,7 +29,7 @@ Fortunately, a more experienced employee at the company noticed that the owner�
 
 As it turns out, these emails were automatically generated and sent out by a group that created a rudimentary machine learning program to skim company websites for employee profiles, specifically the kind that include contact information, and then logged that data to be used for sending out these personalized phishing attacks. It was even able to guess which of the profiles was most likely to prompt compliance and selected that name to be used as the fake sender.
 
-**What can we do?**
+## What can we do?
 
 The most important thing right now is to be aware. It’s not important to understand how the data is being gathered, but what’s important to know is that machine learning provides the capability to parse information listed on your website and link it together with information from your social networks, including your employees listed on LinkedIn, and utilize it to create phishing attacks with much higher rates of success.
 
