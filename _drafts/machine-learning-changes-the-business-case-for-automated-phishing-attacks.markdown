@@ -22,7 +22,7 @@ At the moment, the only thing holding back social engineering attacks from more 
 
 Recently, a number of organizations have been hit with a phishing attack that looks something like this:
 
-![Phish.png](/uploads/Phish.png)
+![Phish.png](/uploads/Phish.png)`Screenshot taken by Zach of a phishing attack.`
 
 This email was sent to all employees at a company, personally addressed to each, and listing the owner’s name as the sender. It doesn’t even feature email spoofing, the perpetrators simply used automatically generated Gmail addresses. On its face this is not a particularly sophisticated phishing attack; a seasoned user could come up with no less than eight reasons for why it should have been deleted. But personalization -- using the business owner’s and employees’ names -- is what makes it unique. Organizations were previously unlikely to be hit with a phishing attack of this nature since it requires collecting and inputting personal information and you were protected primarily by virtue of the number of targets available. The odds are quite low that malicious actors will choose to research and target you out of the millions listed online.
 
