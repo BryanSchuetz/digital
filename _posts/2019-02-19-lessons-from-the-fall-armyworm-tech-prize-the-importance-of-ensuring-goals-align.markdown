@@ -1,7 +1,7 @@
 ---
 title: 'Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals
   Align'
-date: 2019-02-12 10:43:00 -05:00
+date: 2019-02-19 09:00:00 -05:00
 tags:
 - Innovation
 - Think Piece
