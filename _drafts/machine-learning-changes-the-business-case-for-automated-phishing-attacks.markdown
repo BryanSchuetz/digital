@@ -7,7 +7,7 @@ Researchers have demonstrated the capability of machine learning to help with ev
 
 But machine learning can also be put to less scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often termed phishing), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is likely to become a global problem, but developing markets are often at the [highest risk for cyberattacks](https://www.nytimes.com/2017/07/02/technology/hackers-find-ideal-testing-ground-for-attacks-developing-countries.html) due to the lack of capacity to defend against and track such attacks. As such, and as such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets.
 
-*\[more\]*
+<!--more-->
 
 While exact figures for developing markets can be hard to obtain for many of the same reasons they’re a tempting target, research suggests that these attacks are surprisingly common. A security firm recently reported in their yearly phishing study that [83 percent of global respondents](https://www.proofpoint.com/us/newsroom/press-releases/global-state-phish-report-finds-social-engineering-cyberattacks-and) experienced phishing attacks in 2018, which represents a 9 percent increase year over year. The impact of these incidents can be profound; another report focused on cybersecurity in Africa found that social engineering and phishing combined amounted to a [$274 million loss](https://digital4africa.com/wp-content/uploads/2018/04/Africa-Cyber-Security-Report-2017.pdf) across Africa in 2017, or 25% of total losses due to cyberattacks.
 
