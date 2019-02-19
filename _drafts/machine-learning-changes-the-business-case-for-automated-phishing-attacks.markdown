@@ -1,7 +1,12 @@
 ---
 title: Machine learning changes the business case for automated phishing attacks
-date: 2019-02-19 15:11:00 -05:00
+date: 2019-02-21 09:00:00 -05:00
+tags:
+- Cybersecurity
+- Machine Learning
 Author: "[Zach Gieske](https://www.linkedin.com/in/zachgieske/)"
+social-image: "/uploads/Phish.png"
+thumbnail: "/uploads/Phish.png"
 ---
 
 Researchers have demonstrated the capability of machine learning to help with everything from [saving honeybees](https://techcrunch.com/2019/02/01/lets-save-the-bees-with-machine-learning/) and [tracking flu vaccine uptake](https://bmjopen.bmj.com/content/9/1/e024018.abstract), to [aiding in the fight against bioterrorism](https://www.scientificamerican.com/article/how-machine-learning-could-keep-dangerous-dna-out-of-terrorists-hands/), and [plenty in between](http://www.bbc.com/future/story/20181219-what-to-do-with-your-leftover-christmas-food).
