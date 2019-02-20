@@ -33,9 +33,9 @@ This email was sent to all employees at a company, personally addressed to each,
 
 Fortunately, a more experienced employee at the company noticed that the owner’s name was not formatted the same as on his actual account. This fake email used all capital letters and included a middle initial, which is exactly how the owner’s name is listed on his website profile page.
 
-As it turns out, these emails were automatically generated and sent out by a group that created a rudimentary machine learning program to skim company websites for employee profiles, specifically the kind that include contact information, and then logged that data to be used for sending out these personalized phishing attacks. It was even able to guess which of the profiles was most likely to prompt compliance and selected that name to be used as the fake sender.
+As it turns out, these emails were automatically generated and sent out by a group that created a rudimentary machine learning program to skim company websites for employee profiles, specifically the kind that include contact information, and then logged that data to be used for sending out these personalized phishing attacks. It was even able to guess which of the profiles were most likely to prompt compliance and selected that name to be used as the fake sender.
 
-## What can we do?
+## What Can We Do?
 
 The most important thing right now is to be aware. It’s not important to understand how the data is being gathered, but what’s important to know is that machine learning provides the capability to parse information listed on your website and link it together with information from your social networks, including your employees listed on LinkedIn, and utilize it to create phishing attacks with much higher rates of success.
 
