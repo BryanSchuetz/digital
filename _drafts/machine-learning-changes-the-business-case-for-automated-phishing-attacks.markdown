@@ -1,5 +1,5 @@
 ---
-title: Machine learning changes the business case for automated phishing attacks
+title: Machine Learning Changes the Business Case for Automated Phishing Attacks
 date: 2019-02-21 09:00:00 -05:00
 tags:
 - Cybersecurity
