@@ -1,4 +1,16 @@
 
+- title: "Machine Learning Changes the Business Case for Automated Phishing Attacks"
+  pub: "Digital"
+  date: 2019-02-21
+  link: "https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html?utm_source=daidotcom"
+  summary: "Researchers have demonstrated the capability of machine learning to help with everything from saving honeybees and tracking flu vaccine uptake, to aiding in the fight against bioterrorism, and plenty in between.
+
+But machine learning can also be put to less-scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often called ‘phishing’), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is a global problem, but developing markets are often at the highest risk for cyberattacks due to the lack of capacity to defend against and track such attacks. As such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Machine Learning 
+
 - title: "Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals Align"
   pub: "Digital"
   date: 2019-02-19
@@ -234,14 +246,4 @@ Participants chose their methods from the ideo.org design kit."
     - digital acceleration 
     - Digital Inclusion 
     - Entrepreneurship 
-
-- title: "Digital Inclusion and a Trusted Internet"
-  pub: "Digital"
-  date: 2018-11-06
-  link: "https://dai-global-digital.com/digital-inclusion-and-a-trusted-internet.html?utm_source=daidotcom"
-  summary: "Back in 2014, when I was leading USAID’s Digital Inclusion Practice, I was invited by the U.S Department of State to present on the importance of information and communication technology (ICT) in driving economic growth. The cyber training was intended to equip foreign service officers with the knowledge and tools to represent the broad range of policy priorities enumerated in the President’s International Strategy for Cyberspace: Prosperity, Security, and Openness in a Networked World."
-  tags:
-    - digital acceleration 
-    - Privacy 
-    - Cybersecurity 
 

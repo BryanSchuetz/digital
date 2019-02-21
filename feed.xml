@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Feb 2019 08:47:50 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Feb 2019 08:47:50 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Feb 2019 08:37:31 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Feb 2019 08:37:31 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Phish.png" medium="image" /> 
+        <title>Machine Learning Changes the Business Case for Automated Phishing Attacks</title>
+        <description>&lt;p&gt;Researchers have demonstrated the capability of machine learning to help with everything from &lt;a href=&quot;https://techcrunch.com/2019/02/01/lets-save-the-bees-with-machine-learning/&quot;&gt;saving honeybees&lt;/a&gt; and &lt;a href=&quot;https://bmjopen.bmj.com/content/9/1/e024018.abstract&quot;&gt;tracking flu vaccine uptake&lt;/a&gt;, to &lt;a href=&quot;https://www.scientificamerican.com/article/how-machine-learning-could-keep-dangerous-dna-out-of-terrorists-hands/&quot;&gt;aiding in the fight against bioterrorism&lt;/a&gt;, and &lt;a href=&quot;http://www.bbc.com/future/story/20181219-what-to-do-with-your-leftover-christmas-food&quot;&gt;plenty in between&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But machine learning can also be put to less-scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often called ‘phishing’), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is a global problem, but developing markets are often at the &lt;a href=&quot;https://www.nytimes.com/2017/07/02/technology/hackers-find-ideal-testing-ground-for-attacks-developing-countries.html&quot;&gt;highest risk for cyberattacks&lt;/a&gt; due to the lack of capacity to defend against and track such attacks. As such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Feb 2019 08:20:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/zachgieske/">Zach Gieske</a>
+</author>
+        <link>https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Machine Learning</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/FAW.png" medium="image" /> 
@@ -199,27 +220,6 @@
         <category>Data Visualization</category>
         
         <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FI%20hairi2.jpg" medium="image" /> 
-        <title>Frontier Insights: Cyber Security Edition</title>
-        <description>&lt;p&gt;The headline says it all: “&lt;a href=&quot;https://nordvpn.com/blog/biggest-data-breaches-2018/&quot;&gt;Over a billion people’s data was compromised in 2018&lt;/a&gt;.” Among the most egregious offenders were some of the most popular tech platforms in the world: Facebook, for example, admitted it had leaked the personal data of nearly 150 million users; Twitter leaked the passwords of nearly all 330 million of its users; and even mighty Google had two of its products hacked: Firebase (an app monitoring tool) leaked the data of more than 100 million users, and Google+ leaked 500,000 users’ personal info.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/cartography-3244166_640.png&quot; alt=&quot;cartography-3244166_640.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 10 Jan 2019 07:00:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/adam-fivenson/">Adam Fivenson</a> &amp; <a href="https://dai-global-digital.com/authors/kristen-roggemann/">Kristen Roggemann</a>
-</author>
-        <link>https://dai-global-digital.com/frontier-insights-cyber-security-edition.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/frontier-insights-cyber-security-edition.html</guid>
-        
-        <category>Cyber Security Series</category>
-        
-        <category>Digital Insights</category>
         
         
       </item>
