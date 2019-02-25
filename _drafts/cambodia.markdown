@@ -21,7 +21,7 @@ USAID has twice extended DI’s contract, in part because of results that enable
 
 To date, the DI team has trained more than 900 Cambodians to use the most in-demand information and communications technologies, such as smartphone video tools and the social media site Facebook—which is used by 6.9 million Cambodians, covering nearly half the country’s population. Training sessions at the DI Lab have been so successful that Cambodia-based nongovernmental organizations are taking over teaching the most in-demand courses. Importantly, local partners continue to use DI’s customer satisfaction ratings as key metrics of success, rather than only counting attendees.
 
-**Letting Young People Lead**
+## Letting Young People Lead
 
 When Rath joined the DI team at age 26, she was struck by how it purposely created a culture of innovation to give rise to fresh ideas, noting the team’s bottom-up approach to proposing, piloting, receiving feedback, and refining or rejecting. “I could talk to my supervisor, get their feedback, improve my ideas, and take ownership of my work,” Rath said.
 
@@ -29,7 +29,7 @@ For example, Rath was tasked to produce a [case study](https://www.development-i
 
 Research shows businesses with [diverse teams](https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity) make better and faster [decisions](https://www.forbes.com/sites/eriklarson/2017/09/21/new-research-diversity-inclusion-better-decision-making-at-work/#522d73e34cbf) and are more profitable than teams more homogenous in gender, race, or expertise. The DI team feels the same goes for innovation. “Whether they are creatives from the communications team, or the finance and administration team, or from our partner organizations—they all get involved with our brainstorming and activity design,” said Sotheavy At, DI’s Senior Innovation Program Manager.
 
-#### Sharing Not Just for Facebook
+## Sharing Not Just for Facebook
 
 Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” she explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
 
