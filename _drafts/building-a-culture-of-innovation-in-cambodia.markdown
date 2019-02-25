@@ -8,7 +8,7 @@ social-image: "/uploads/3%20USAID%20Development%20Innovations%20project.JPG"
 thumbnail: "/uploads/3%20USAID%20Development%20Innovations%20project.JPG"
 ---
 
-Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched [Development Innovations (DI)](https://www.dai.com/our-work/projects/cambodia-development-innovations) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
+Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
 
 <!--more-->
 
@@ -17,7 +17,9 @@ A cohort of young Cambodians have worked directly for DI since its inception, an
 DI’s results for Cambodian society have been impressive. Among them, the DI team has helped:
 
 * Build generational capacity in Cambodia’s tech ecosystem by engaging more than 400 girls in the global [Technovation](https://dai-global-developments.com/articles/its-not-all-about-the-app-narrowing-the-digital-gender-gap-usaid-program-propels-cambodia-girls-into-global-technology-contest-finals/) competition.
+
 * Female entrepreneurs numbering in the thousands by working with [SHE Investments](https://www.sheinvestments.com/) to launch and refine a [web portal](http://ngeayngeay.co/) that gives entrepreneurs information to help register and grow their businesses.
+
 * Nongovernmental organizations like Children in Families and technical partner Rotati Consulting serve children in need and keep them in safe family care by funding [case management databases](https://www.development-innovations.org/success-stories/scaling-user-friendly-child-care-case-management-system/).
 
 USAID has twice extended DI’s contract, in part because of results that enabled more than 70 problem-driven ICT solutions such as those cited above. These solutions have benefited 1.5 million users—from the 40 users of an electronic medical record system to the 700,000 users of a [mobile application](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/) that speeds typing in the native Khmer language by two to three times.
