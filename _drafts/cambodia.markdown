@@ -1,6 +1,8 @@
 ---
 title: Cambodia
-date: 2019-02-25 09:09:00 -05:00
+date: 2019-02-26 09:00:00 -05:00
+tags:
+- Innovation
 ---
 
 Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
