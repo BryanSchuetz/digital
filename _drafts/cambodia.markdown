@@ -38,7 +38,7 @@ Research shows businesses with [diverse teams](https://www.mckinsey.com/business
 
 ## Sharing Not Just for Facebook
 
-Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” she explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
+Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” At explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
 
 ![3 USAID Development Innovations project.JPG](/uploads/3%20USAID%20Development%20Innovations%20project.JPG)`The USAID Development Innovation project team creates a video story.`
 
