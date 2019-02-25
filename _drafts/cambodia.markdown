@@ -20,11 +20,11 @@ DI’s results for Cambodian society have been impressive. Among them, the DI te
 * Female entrepreneurs numbering in the thousands by working with [SHE Investments](https://www.sheinvestments.com/) to launch and refine a [web portal](http://ngeayngeay.co/) that gives entrepreneurs information to help register and grow their businesses.
 * Nongovernmental organizations such as Children in Families and technical partner Rotati Consulting serve children in need and keep them in safe family care by funding [case management databases](https://www.development-innovations.org/success-stories/scaling-user-friendly-child-care-case-management-system/).
 
+<iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 USAID has twice extended DI’s contract, in part because of results that enabled more than 70 problem-driven ICT solutions such as those cited above. These solutions have benefited 1.5 million users—from the 40 users of an electronic medical record system to the 700,000 users of a [mobile application](https://dai-global-developments.com/articles/300-000-downloads-and-counting-how-i-created-a-top-khmer-smartphone-app/) that speeds typing in the native Khmer language by two to three times. DI’s most successful partners use market research and regular user and “customer” feedback to ensure tools and projects add value for users, and are refined regularly.
 
 To date, the DI team has trained more than 900 Cambodians to use the most in-demand information and communications technologies, such as smartphone video tools and the social media site Facebook—which is used by 6.9 million Cambodians, covering nearly half the country’s population. Training sessions at the DI Lab have been so successful that Cambodia-based nongovernmental organizations are taking over teaching the most in-demand courses. Importantly, local partners continue to use DI’s customer satisfaction ratings as key metrics of success, rather than only counting attendees.
-
-<iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Letting Young People Lead
 
