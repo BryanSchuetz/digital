@@ -26,6 +26,7 @@ USAID has twice extended DI’s contract, in part because of results that enable
 
 To date, the DI team has trained more than 900 Cambodians to use the most in-demand information and communications technologies, such as smartphone video tools and the social media site Facebook—which is used by 6.9 million Cambodians, covering nearly half the country’s population. Training sessions at the DI Lab have been so successful that Cambodia-based nongovernmental organizations are taking over teaching the most in-demand courses. Importantly, local partners continue to use DI’s customer satisfaction ratings as key metrics of success, rather than only counting attendees.
 <iframe src="https://player.vimeo.com/video/318202536" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>`A video giving more insight into the work of Development Innovations.`
+
 ## Letting Young People Lead
 
 When Rath joined the DI team at age 26, she was struck by how it purposely created a culture of innovation to give rise to fresh ideas, noting the team’s bottom-up approach to proposing, piloting, receiving feedback, and refining or rejecting. “I could talk to my supervisor, get their feedback, improve my ideas, and take ownership of my work,” Rath said.
