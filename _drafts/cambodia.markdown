@@ -5,6 +5,8 @@ date: 2019-02-25 09:09:00 -05:00
 
 Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would *require* new ways of thinking to create new ways for solving problems.
 
+<!--more-->
+
 A cohort of young Cambodians have worked directly for DI since its inception, and nearly half of DI’s current staff are under 30 years old. Attracted by its culture of innovation, DI has created a positive workplace where staff, visitors, and clients learn from each other and promote exchange, creativity, and outreach. As described by Setha Rath, a senior program manager: “We adapt, we are flexible, we test new things out—that’s innovation to me.”
 
 DI’s results for Cambodian society have been impressive. Among them, the DI team has helped:
