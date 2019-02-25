@@ -33,7 +33,7 @@ Research shows businesses with [diverse teams](https://www.mckinsey.com/business
 
 Sharing is part of DI’s culture. Externally, we publicize grant and scholarship opportunities, video stories about end users, and stories about our tech partners’ successes; internally, our “sharing sessions” addendum to regular team meetings give all attendees a chance to have the floor. The team is genuine about learning what other innovators and entrepreneurs are doing in the digital ecosystem and how people are engaging with new technologies to get results around the world. “It is not forced sharing,” she explained. “It comes from a good place. People who share and learn just want to do it, and when I learn something new, I share it with the team.”
 
-**Making “Good” Mistakes**
+## Making “Good” Mistakes
 
 “Lessons learned” and admitting mistakes are new concepts in Cambodia; “saving face” is the prevailing cultural virtue and appearances are tantamount. Of course, this attitude does not facilitate risk taking. “Promoting a culture of innovation in a team means acknowledging ideas that fail and being prepared to pivot,” said Vibol Theng, DI’s former Deputy Chief of Party. “Personally, admitting to the team that mistakes were made, detailing what went wrong, and learning from failure ultimately promotes ownership of ideas, taking responsibility for how they are implemented, and enjoying success when it comes.”
 
