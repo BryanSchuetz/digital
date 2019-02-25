@@ -45,4 +45,4 @@ DI’s co-working space and technology resource center flourished in the project
 
 USAID/Cambodia remains essential in ensuring the DI team can pivot and adapt, and in supporting our demand-driven model by quickly approving workplan changes. In 2017, the USAID Learning Lab [recognized](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia) DI’s adaptive management excellence. “When our strategy shifts, we talk about why we are changing as a project, which is often because the ecosystem has grown and we want to support Cambodia-based service providers whenever possible,” said Heuisler. “All of that has helped us garner trust across Cambodia.”
 
-***Tiffany Tsang is a communications advisor with the USAID/Cambodia Development Innovations project.***
+*Tiffany Tsang is a communications advisor with the USAID/Cambodia Development Innovations project.*
