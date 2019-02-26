@@ -4,10 +4,14 @@ date: 2019-02-26 16:23:00 -05:00
 ---
 
 Since 2016, DAI has been supporting the Kosmos Innovation Center (KIC), which got its start in Ghana and expanded its work Mauritania in 2018.  Last week, KIC Mauritania’s 2018 cohort of young entrepreneurs pitched their concepts to a panel of judges, competing for over $85,000 in total seed funding. Unlike KIC Ghana, which focuses solely on support agritech startups, KIC’s Mauritanian startups have built a wide range of solutions across various sectors, from waste recycling to healthcare. Here’s an overview of this year’s finalists, their business concepts, and the final winners of the competition. 
-[more]
-Winners
-Daadoo BTP: Recycles plastic by mixing it with cement to make salt-resistant paving and bricks for construction. They won $20,000 of seed funding from Kosmos Energy Mauritania. 
-Smart Trash: A waste management software, with the aim of collecting and locating waste and garbage around the capital city of Nouakchott. They too won $20,000 of seed funding from Kosmos Energy Mauritania. 
+
+<!--more-->
+
+## Winners
+
+**Daadoo BTP:** Recycles plastic by mixing it with cement to make salt-resistant paving and bricks for construction. They won $20,000 of seed funding from Kosmos Energy Mauritania. 
+
+**Smart Trash:** A waste management software, with the aim of collecting and locating waste and garbage around the capital city of Nouakchott. They too won $20,000 of seed funding from Kosmos Energy Mauritania. 
 
 **Smart Remit:** A secure online payment service that will allows users to make money transfers in Mauritania and send money abroad. They consider themselves a Mauritanian PayPal alternative. They received $15,000 in seed funding from Kosmos. 
 
