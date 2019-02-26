@@ -26,6 +26,8 @@ Since 2016, DAI has been [supporting the Kosmos Innovation Center](https://dai-g
 
 **Hadanat:** A language education platform that enables children to improve their skills. The platform focuses specifically on Mauritanian children born or raised abroad, but who do not speak their mother tongue (Poular, Wolof, Soninké or Hassanya) fluently.  They too received $5,000 from Kosmos.
 
+![KIC-Mauritiana.jpg](/uploads/KIC-Mauritiana.jpg)
+
 ## Finalists
 
 **Co Skills:** A platform for connecting companies seeking to recruit both full-time job-seekers and freelance consultants.
