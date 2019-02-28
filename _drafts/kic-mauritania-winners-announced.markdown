@@ -40,4 +40,4 @@ Since 2016, DAI has provided [support to the Kosmos Innovation Center](https://d
 
 **Pisciculture et Maraichage:** A local fresh fish production business that focuses on freshwater fish.
 
-The seven startups that received seed funding will receive continued technical assistance from KIC Mauritania as they grow their businesses. KIC is now working on launching its 2019 cohort of their startup competition. Stay tuned!
+The seven startups that received seed funding will receive continued technical assistance from KIC Mauritania as they grow their businesses. KIC is now working on launching its 2019 cohort! Stay tuned!
