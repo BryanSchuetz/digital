@@ -34,7 +34,7 @@ Since 2016, DAI has provided [support to the Kosmos Innovation Center](https://d
 
 **Amre Production:** An agribusiness that combines production, transport, and delivery of agricultural products (fruit, vegetables, and eggs) from the producer to consumers at home.
 
-**Bioway:** An agribusiness that produces organic fruit and vegetables, preserves them in modern packaging, which avoids denaturing the food and maintains their nutritional value.
+**Bioway:** An agribusiness that produces organic fruit and vegetables, and preserves them in modern packaging, avoiding denaturing the food and maintaining their nutritional value.
 
 **SaveMe:** A security mobile app that alerts neighbors, police, and authorities in case of assault, burglary, assault or other incidents of crime.
 
