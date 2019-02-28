@@ -4,6 +4,9 @@ date: 2019-02-28 09:00:00 -05:00
 tags:
 - Innovation
 - Entrepreneurship
+Author: Anand Varghese
+social-image: "/uploads/KIC-Mauritiana.jpg"
+thumbnail: "/uploads/KIC-Mauritiana.jpg"
 ---
 
 Since 2016, DAI has provided [support to the Kosmos Innovation Center](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) (KIC), which got its start in Ghana and [expanded its work Mauritania in 2018](https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html). Last week, KIC Mauritania’s 2018 cohort of young entrepreneurs pitched concepts to a panel of judges, competing for more than $85,000 in total seed funding. Unlike KIC Ghana, which focuses solely on support to agritech startups, KIC’s Mauritanian startups have built a wide range of solutions across various sectors, from waste recycling to healthcare. Here’s an overview of this year’s finalists, their business concepts, and the final winners of the competition.
