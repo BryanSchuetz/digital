@@ -36,7 +36,7 @@ Since 2016, DAI has provided [support to the Kosmos Innovation Center](https://d
 
 **Bioway:** An agribusiness that produces organic fruit and vegetables, and preserves them in modern packaging, avoiding denaturing the food and maintaining their nutritional value.
 
-**SaveMe:** A security mobile app that alerts neighbors, police, and authorities in case of assault, burglary, assault or other incidents of crime.
+**SaveMe:** A security mobile app that alerts neighbors, police, and authorities in case of assault, burglary, assault or other crimes.
 
 **Pisciculture et Maraichage:** A local fresh fish production business that focuses on freshwater fish.
 
