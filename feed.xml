@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 08:07:24 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 08:07:24 -0500</lastBuildDate>
+    <pubDate>Thu, 28 Feb 2019 09:59:22 -0500</pubDate>
+    <lastBuildDate>Thu, 28 Feb 2019 09:59:22 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/KIC-Mauritiana.jpg" medium="image" /> 
+        <title>KIC Mauritania: Winners Announced!</title>
+        <description>&lt;p&gt;Since 2016, DAI has provided &lt;a href=&quot;https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html&quot;&gt;support to the Kosmos Innovation Center&lt;/a&gt; (KIC), which got its start in Ghana and &lt;a href=&quot;https://dai-global-digital.com/kic-expands-its-support-of-tech-driven-entrepreneurship-to-mauritania.html&quot;&gt;expanded its work Mauritania in 2018&lt;/a&gt;. Last week, KIC Mauritania’s 2018 cohort of young entrepreneurs pitched concepts to a panel of judges, competing for more than $85,000 in total seed funding. Unlike KIC Ghana, which focuses solely on support to agritech startups, KIC’s Mauritanian startups have built a wide range of solutions across various sectors, from waste recycling to healthcare. Here’s an overview of this year’s finalists, their business concepts, and the final winners of the competition.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Feb 2019 09:00:00 -0500</pubDate>
+        <author>Anand Varghese
+</author>
+        <link>https://dai-global-digital.com/kic-mauritania-winners-announced.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/kic-mauritania-winners-announced.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Entrepreneurship</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/3%20USAID%20Development%20Innovations%20project.JPG" medium="image" /> 
@@ -195,27 +214,6 @@
         <category>Human-centered design</category>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FI2%20(1).jpg" medium="image" /> 
-        <title>Citizen-Centered Design and Frontier Insights in Kabul</title>
-        <description>&lt;p&gt;The Center for Digital Acceleration is excited to announce that we’re taking &lt;em&gt;MiMuni&lt;/em&gt;, the &lt;a href=&quot;https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla&quot;&gt;open-source&lt;/a&gt; transparency and citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan through the &lt;a href=&quot;https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar&quot;&gt;Strong Hubs for Afghan Hope and Resilience (SHAHAR)&lt;/a&gt; project, which is funded by the U.S. Agency for International Development. The first iteration will be with the Municipality of Kabul.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/FI1%20(1).jpg&quot; alt=&quot;FI1 (1).jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Frontier Insights in Kabul, part of DAI's citizen-centered design process.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 17 Jan 2019 09:00:00 -0500</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html</guid>
-        
-        <category>Digital Insights</category>
-        
-        <category>Human-centered design</category>
         
         
       </item>
