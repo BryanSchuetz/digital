@@ -6,7 +6,7 @@ published: false
 
 Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/view?usp=sharing)
 
-**Why bother with games: they’re big**
+## Why bother with games: they’re big
 
 **📱Smartphone connections continue to rise and people (globally) love to game:** GSMA estimate that[ by 2025 78% of all developing market mobile connections will be smart](https://www.gsma.com/r/mobileeconomy/sub-saharan-africa/). Interestingly, India is among the top 5 mobile gaming countries globally,[ expected to surge to 368 million gamers in 2022](https://www.mmaglobal.com/files/casestudies/kantar_imrb_x_mma_x_pokkt_india_market_study.pdf). If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south.
 
@@ -14,7 +14,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 **🔑 The key** **is that the learning outcome of the game is determined by the product designer**, and that’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for…’, and start thinking of them as design patterns to inform better product design...
 
-**How games informed a farming challenge: Fall Army Worm Tech Prize**
+## How games informed a farming challenge: Fall Army Worm Tech Prize
 
 🐛 **The prize started us off** on an unexpected path to more deeply incorporating game design into our work. The[ Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
 
@@ -28,7 +28,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 **😁** **A beaming smile** when a user tries something out, you really can’t miss it. Incidentally, some of the FAW solution prototypes we developed used simple games, and we found an abundance of these beaming reactions (the example above comes from a recorded user test of our FAW prototype). This type of consistent positive reaction, is what got us researching game design more thoroughly.
 
-**Taking game mechanics forward in digital product design: focus on the fun**
+## Taking game mechanics forward in digital product design: focus on the fun
 
 **🚫 What we're not interested in here is ‘gamification.’** This was a key learning for us early on, and the point is put nicely by Raph Koster in his book,[ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
@@ -54,7 +54,7 @@ If any of the ideas above interest you I’d recommend reading these:
 
 * [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
 
-**Want to stay updated?**
+## Want to stay updated?
 
 📩 **Get more info:** want to keep tabs on our thinking on topics like this, and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
 
