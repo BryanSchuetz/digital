@@ -16,7 +16,7 @@ To start, our data is like water. It brings sustenance to our businesses and the
 
 Maybe your data lake is the reservoir where things are cold-stored. However, lakes don’t deliver water to users. They don’t deal with water quality. They can be a single part of the larger delivery network. But what if your data comes from groundwater? What if it’s a rainwater collection system as data drops from the sky into your business? We need to embrace the entire system that takes our raw resource and delivers it through pipes and systems to end users.
 
-## Data Lakes are actually water treatment plants.
+## Data Lakes Are Actually Water Treatment Plants
 
 The boardroom picture of a scuba diver in a lake does no justice to the complexities of making a data lake functional in today’s business intelligence and machine learning world. As [@OneAngryPenguin ](https://twitter.com/oneangrypenguin)explained during a recent overview of the Azure Data Lake Store, it’s really three components/parts under the hood: Raw Data Storage, Data Cleaning & Transformation (ETL), and Processed Data. Just like a multi-stage water treatment plant. We take in whatever raw data we can, clean it up, and send it out for consumption by households, businesses, or the public. Primary, secondary, tertiary treatment- we scrub out Personally Identifiable information, filter for nulls and missing values, and bring together data from different sources to meet the supply demands downstream.
 
