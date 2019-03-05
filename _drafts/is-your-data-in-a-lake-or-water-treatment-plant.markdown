@@ -3,6 +3,7 @@ title: Is Your Data in a Lake or Water Treatment Plant?
 date: 2019-03-05 12:34:00 -05:00
 Author: "[Ben Mann](https://www.linkedin.com/in/ben-mann-13012513/)"
 social-image: "/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png"
+thumbnail: "/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png"
 ---
 
 They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. It’s glamorous stuff- pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knew about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all.
