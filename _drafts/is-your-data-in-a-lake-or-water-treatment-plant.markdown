@@ -1,6 +1,8 @@
 ---
 title: Is Your Data in a Lake or Water Treatment Plant?
 date: 2019-03-05 12:34:00 -05:00
+Author: "[Ben Mann](https://www.linkedin.com/in/ben-mann-13012513/)"
+social-image: "/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png"
 ---
 
 They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. It’s glamorous stuff- pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knew about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all.
@@ -26,3 +28,5 @@ Tools like Hadoop, SalesForces, or MongoDB may seem complicated to anyone who do
 Ultimately, no one wants to drink raw sewage, right? End users want clean water, in their kitchen, available at a moments notice from the tap. They don’t need access to the main trunk line- they need fit-for-purpose data and insights that are accessible and usable. The effectiveness of the water treatment plant is judged by those at the end of the line- be it a VP, project manager, client, or major distribution hub Data Warehouse. Some of our data will be used for cooking or for putting out fires. The route it takes may vary. But the principles to get raw data through the system to safely meet demand are almost always the same.
 
 Because in the end, our data is just like water.
+
+*Ben Mann is a Global Practice Lead for Development Results at DAI. *
