@@ -18,7 +18,7 @@ Maybe your data lake is the reservoir where things are cold-stored. However, lak
 
 The boardroom picture of a scuba diver in a lake does no justice to the complexities of making a data lake functional in today’s business intelligence and machine learning world. As [@OneAngryPenguin ](https://twitter.com/oneangrypenguin)explained during a recent overview of the Azure Data Lake Store, it’s really three components/parts under the hood: Raw Data Storage, Data Cleaning & Transformation (ETL), and Processed Data. Just like a multi-stage water treatment plant. We take in whatever raw data we can, clean it up, and send it out for consumption by households, businesses, or the public. Primary, secondary, tertiary treatment- we scrub out Personally Identifiable information, filter for nulls and missing values, and bring together data from different sources to meet the supply demands downstream.
 
-![](https://cdn-images-1.medium.com/max/2000/1\*KiGsfO6WD6_sn1Qx70w3vA.png)
+![1_KiGsfO6WD6_sn1Qx70w3vA.png](/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png)
 
 `Image created by Ben Mann.`
 
