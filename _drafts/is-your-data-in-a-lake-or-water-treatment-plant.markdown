@@ -14,3 +14,15 @@ Maybe your data lake is the reservoir where things are cold-stored. However, lak
 ## Data Lakes are actually water treatment plants.
 
 The boardroom picture of a scuba diver in a lake does no justice to the complexities of making a data lake functional in today’s business intelligence and machine learning world. As [@OneAngryPenguin ](https://twitter.com/oneangrypenguin)explained during a recent overview of the Azure Data Lake Store, it’s really three components/parts under the hood: Raw Data Storage, Data Cleaning & Transformation (ETL), and Processed Data. Just like a multi-stage water treatment plant. We take in whatever raw data we can, clean it up, and send it out for consumption by households, businesses, or the public. Primary, secondary, tertiary treatment- we scrub out Personally Identifiable information, filter for nulls and missing values, and bring together data from different sources to meet the supply demands downstream.
+
+![](https://cdn-images-1.medium.com/max/2000/1\*KiGsfO6WD6_sn1Qx70w3vA.png)
+
+`Image created by Ben Mann.`
+
+Data architects and system engineers are the designers and city planners who help draw up the infrastructure and route water to new neighborhoods. DBAs, SysAdmins, and developers are the O&M utility crew who maintain the pipes and keep the water flowing. Data Scientists are the water quality team, helping clean and pull insights out that customers drink. Everyone has a role to play in keeping data flowing from source to tap.
+
+Tools like Hadoop, SalesForces, or MongoDB may seem complicated to anyone who doesn’t work with them daily, but our data systems really are eerily similar to other municipal infrastructure we’ve dealt with for decades and know all too well. And just like when we don’t plan/govern/regulate water systems, our data systems can end up with price-gouging private wells and data-hogs who tap aquifers dry. Data Governance teams make sure we’re consistent in how we treat the water and ensure equity in access for all. They keep the rest of the process in check. Like the EPA and city inspectors, our data needs quality assurance checks and periodic audits to make sure no one will get sick from our insights and that our businesses won’t die of water borne diseases.
+
+Ultimately, no one wants to drink raw sewage, right? End users want clean water, in their kitchen, available at a moments notice from the tap. They don’t need access to the main trunk line- they need fit-for-purpose data and insights that are accessible and usable. The effectiveness of the water treatment plant is judged by those at the end of the line- be it a VP, project manager, client, or major distribution hub Data Warehouse. Some of our data will be used for cooking or for putting out fires. The route it takes may vary. But the principles to get raw data through the system to safely meet demand are almost always the same.
+
+*Because in the end, our data is just like water.*
