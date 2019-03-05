@@ -25,4 +25,4 @@ Tools like Hadoop, SalesForces, or MongoDB may seem complicated to anyone who do
 
 Ultimately, no one wants to drink raw sewage, right? End users want clean water, in their kitchen, available at a moments notice from the tap. They don’t need access to the main trunk line- they need fit-for-purpose data and insights that are accessible and usable. The effectiveness of the water treatment plant is judged by those at the end of the line- be it a VP, project manager, client, or major distribution hub Data Warehouse. Some of our data will be used for cooking or for putting out fires. The route it takes may vary. But the principles to get raw data through the system to safely meet demand are almost always the same.
 
-*Because in the end, our data is just like water.*
+Because in the end, our data is just like water.
