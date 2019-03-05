@@ -32,4 +32,4 @@ Ultimately, no one wants to drink raw sewage, right? End users want clean water,
 
 Because in the end, our data is just like water.
 
-*Ben Mann is a Global Practice Lead for Development Results at DAI. *
+*Ben Mann is a Global Practice Lead for Development Results at DAI.*
