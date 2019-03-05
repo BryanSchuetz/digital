@@ -3,7 +3,7 @@ title: Kristen Roggemann
 date: 2016-01-07 15:34:00 -05:00
 position: 8
 Job: Principal Mobile Solutions Specialist
-Image: "/uploads/KristenInner.jpg"
+Image: "/uploads/Kristen%20Roggeman.jpg"
 layout: author
 ---
 
