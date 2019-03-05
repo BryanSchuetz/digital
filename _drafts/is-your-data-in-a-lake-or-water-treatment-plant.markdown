@@ -1,6 +1,8 @@
 ---
 title: Is Your Data in a Lake or Water Treatment Plant?
-date: 2019-03-05 12:34:00 -05:00
+date: 2019-03-07 09:00:00 -05:00
+tags:
+- Data
 Author: "[Ben Mann](https://www.linkedin.com/in/ben-mann-13012513/)"
 social-image: "/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png"
 thumbnail: "/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png"
