@@ -30,4 +30,4 @@ DAI is looking for qualified organizations with:
 
 ● A successful working experience with USAID Missions, programs, and implementing partners.
 
-More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1Atd0tcejz_ZTd4Y-HxAIeX51fGM9BLiB/view?usp=sharing). Proposals are due **March 26, 2019 to** DigitalFrontiers@dai.com. Questions regarding the RFP \[INSERT LINK\] are due **March 12, 2019** to **DigitalFrontiers@dai.com**.
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1Atd0tcejz_ZTd4Y-HxAIeX51fGM9BLiB/view?usp=sharing). Proposals are due **March 26, 2019 to** DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1Atd0tcejz_ZTd4Y-HxAIeX51fGM9BLiB/view?usp=sharing) are due **March 12, 2019** to **DigitalFrontiers@dai.com**.
