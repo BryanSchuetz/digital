@@ -11,6 +11,8 @@ thumbnail: "/uploads/CABI%20Group%20photo.jpg"
 
 Rapidly changing access to digital tools such as basic mobile phones is changing the landscape globally for how we can address the challenges to ending global hunger, undernutrition, and extreme poverty. “Despite our collective progress in global food security and nutrition over recent years, a projected 702 million people still live in extreme poverty, nearly 800 million people around the world are chronically undernourished, and 159 million children under five are stunted. Food security is not just an economic and humanitarian issue; it is also a matter of security, as growing concentrations of poverty and hunger leave countries and communities vulnerable to increased instability, conflict, and violence.” (U.S. Government Global Food Security Strategy 2017-2021).
 
+<!--more-->
+
 To help address these challenges, the U.S. Agency for International Development (USAID)’s Bureau for Food Security (BFS) is working with [DAI’s Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project to help integrate digital tools and approaches into their programs. USAID is scaling the use of digital tools by providing technical assistance to Feed the Future and other Agency programs, providing capacity building for Feed the Future teams, and strengthening the knowledge base of best practices in digital agriculture and food security under the Global Food Security Strategy.
 
 ![CABI Group photo.jpg](/uploads/CABI%20Group%20photo.jpg)
