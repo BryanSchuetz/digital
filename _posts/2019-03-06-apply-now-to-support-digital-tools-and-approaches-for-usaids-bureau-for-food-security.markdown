@@ -1,7 +1,7 @@
 ---
 title: Apply Now to Support Digital Tools and Approaches for USAID’s Bureau for Food
   Security
-date: 2019-03-06 13:15:00 -05:00
+date: 2019-03-06 12:00:00 -05:00
 tags:
 - Agriculture
 Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
