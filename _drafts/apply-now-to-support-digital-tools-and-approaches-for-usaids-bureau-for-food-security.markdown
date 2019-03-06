@@ -2,6 +2,9 @@
 title: Apply Now to Support Digital Tools and Approaches for USAID’s Bureau for Food
   Security
 date: 2019-03-06 13:15:00 -05:00
+Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
+social-image: "/uploads/CABI%20Group%20photo.jpg"
+thumbnail: "/uploads/CABI%20Group%20photo.jpg"
 ---
 
 Rapidly changing access to digital tools such as basic mobile phones is changing the landscape globally for how we can address the challenges to ending global hunger, undernutrition, and extreme poverty. “Despite our collective progress in global food security and nutrition over recent years, a projected 702 million people still live in extreme poverty, nearly 800 million people around the world are chronically undernourished, and 159 million children under five are stunted. Food security is not just an economic and humanitarian issue; it is also a matter of security, as growing concentrations of poverty and hunger leave countries and communities vulnerable to increased instability, conflict, and violence.” (U.S. Government Global Food Security Strategy 2017-2021).
