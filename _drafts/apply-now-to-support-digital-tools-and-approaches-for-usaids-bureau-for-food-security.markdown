@@ -8,7 +8,7 @@ Rapidly changing access to digital tools such as basic mobile phones is changing
 
 To help address these challenges, the U.S. Agency for International Development (USAID)’s Bureau for Food Security (BFS) is working with [DAI’s Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project to help integrate digital tools and approaches into their programs. USAID is scaling the use of digital tools by providing technical assistance to Feed the Future and other Agency programs, providing capacity building for Feed the Future teams, and strengthening the knowledge base of best practices in digital agriculture and food security under the Global Food Security Strategy.
 
-*![CABI Group photo.jpg](/uploads/CABI%20Group%20photo.jpg)*
+![CABI Group photo.jpg](/uploads/CABI%20Group%20photo.jpg)
 `Picture taken by CABI.`
 
 Today, [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) releases a request for proposals (RFP) to develop a network of experienced organizations with a diversity of regional experience, technical knowledge, and consulting and program management skills that the Bureau and USAID Missions can easily access to meet immediate and long-term digital support needs. DAI anticipates awarding this opportunity as an indefinite quantity contract with issuance of cost-reimbursable or time-and-materials task orders.
@@ -25,4 +25,4 @@ DAI is looking for qualified organizations with:
 
 ● A successful working experience with USAID Missions, programs, and implementing partners.
 
-More information on qualifications and how to apply can be found here \[INSERT LINK\]. Proposals are due **March 26, 2019 to** DigitalFrontiers@dai.com. Questions regarding the RFP \[INSERT LINK\] are due **March 12, 2019** to **DigitalFrontiers@dai.com**.
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1Atd0tcejz_ZTd4Y-HxAIeX51fGM9BLiB/view?usp=sharing). Proposals are due **March 26, 2019 to** DigitalFrontiers@dai.com. Questions regarding the RFP \[INSERT LINK\] are due **March 12, 2019** to **DigitalFrontiers@dai.com**.
