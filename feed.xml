@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 15:10:56 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 15:10:56 -0500</lastBuildDate>
+    <pubDate>Thu, 07 Mar 2019 10:33:16 -0500</pubDate>
+    <lastBuildDate>Thu, 07 Mar 2019 10:33:16 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png" medium="image" /> 
+        <title>Is Your Data in a Lake or Water Treatment Plant?</title>
+        <description>&lt;p&gt;They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. Glamorous stuff—pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made for great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knows about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Mar 2019 09:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/ben-mann-13012513/">Ben Mann</a>
+</author>
+        <link>https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html</guid>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/CABI%20Group%20photo.jpg" medium="image" /> 
@@ -189,29 +206,6 @@
         <category>Satellite</category>
         
         <category>Digital</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/hanson%20head%20shot-0bcd9c-d7d5b5.png" medium="image" /> 
-        <title>A Resolution to Support the Tech Sector Where We Need It Most</title>
-        <description>&lt;p&gt;On January 5, I posted the message below on Facebook to hold myself accountable to my New Year’s resolution.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/hanson%20blog%20pic-3811e6.png&quot; alt=&quot;hanson blog pic-3811e6.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s simple. I want tech businesses to grow and thrive in Nigeria &lt;em&gt;outside&lt;/em&gt; of Lagos. I want to support someone who grew up in, works in, and wants to continue working in my hometown, Uyo. This is not just my resolution, but has been my life’s work since I started &lt;a href=&quot;https://starthub.com.ng/&quot;&gt;Start Innovation Hub&lt;/a&gt; five years ago. Start Innovation Hub is an ICT firm and innovation lab that works to expand the tech industry by supporting tech startups and talented individuals in Uyo. We build skills and connect entrepreneurs to economic opportunities, as well as support local businesses by developing software solutions. You can’t deny that the tech sector in Nigeria is growing rapidly, but the concentration of firms in Lagos means that places like Uyo are left behind. Through Start Innovation Hub, I hope to change that.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jan 2019 09:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/nextdeegit/">Hanson Johnson</a>
-</author>
-        <link>https://dai-global-digital.com/a-resolution-to-support-the-tech-sector-where-we-need-it-most.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/a-resolution-to-support-the-tech-sector-where-we-need-it-most.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Entrepreneurship</category>
         
         
       </item>
