@@ -5,7 +5,7 @@ date: 2019-03-12 14:02:00 -04:00
 
 Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs object oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the end goal.
 
-<!--more-->)
+<!--more-->
 
 I wouldn’t claim there’s anything wrong with it, tools make our jobs easier and there’s nothing wrong with searching for the best one. Yet the problem lies when these discussions dominate the conversation. We seem to care more about what we use to develop the product instead of the focus being on what the product actually is. What is the going to be the end result for the user that improves their lives or gives them an enjoyable experience.
 
