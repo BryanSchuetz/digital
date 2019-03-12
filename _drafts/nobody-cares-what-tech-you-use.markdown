@@ -1,6 +1,8 @@
 ---
 title: Nobody Cares What Tech You Use
-date: 2019-03-12 14:02:00 -04:00
+date: 2019-03-14 09:00:00 -04:00
+tags:
+- Human-centered design
 Author: "[Zach Diehl](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzachary-diehl-7b466b174&data=01%7C01%7CGalia_Nurko%40dai.com%7Cf67a56aa590843a77e1b08d6a72fbf8e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=AzUi%2BFO6MhNA7fBkVFoMVM%2F8vH8tuOQ1S38SioYFncc%3D&reserved=0)"
 social-image: "/uploads/computers.jpeg"
 thumbnail: "/uploads/computers.jpeg"
