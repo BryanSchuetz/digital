@@ -5,6 +5,8 @@ date: 2019-03-12 14:02:00 -04:00
 
 Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs object oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the end goal.
 
+<!--more-->)
+
 I wouldn’t claim there’s anything wrong with it, tools make our jobs easier and there’s nothing wrong with searching for the best one. Yet the problem lies when these discussions dominate the conversation. We seem to care more about what we use to develop the product instead of the focus being on what the product actually is. What is the going to be the end result for the user that improves their lives or gives them an enjoyable experience.
 
 Yes, UX has become a heavy focus for many companies, but it has also formed into its own silo. You can find many UX specialists now that know everything about user research and creating amazing user experiences, but don’t have the ability to build that experience in an application. At the same time you have plenty of developers and engineers who have the ability to create complex and high performance applications, but little of their time is spent connecting with the user.
