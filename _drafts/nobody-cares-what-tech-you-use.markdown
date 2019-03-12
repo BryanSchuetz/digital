@@ -1,6 +1,9 @@
 ---
 title: Nobody Cares What Tech You Use
 date: 2019-03-12 14:02:00 -04:00
+Author: "[Zach Diehl](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzachary-diehl-7b466b174&data=01%7C01%7CGalia_Nurko%40dai.com%7Cf67a56aa590843a77e1b08d6a72fbf8e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=AzUi%2BFO6MhNA7fBkVFoMVM%2F8vH8tuOQ1S38SioYFncc%3D&reserved=0)"
+social-image: "/uploads/computers.jpeg"
+thumbnail: "/uploads/computers.jpeg"
 ---
 
 Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs object oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the end goal.
@@ -24,3 +27,5 @@ Yet that wouldn’t stop most development teams from believing they could create
 Looking at job boards for technologists makes this extremely apparent. Companies make their chosen technology such a heavy focus that I’m really unsure how they expect to get quality individuals who can connect with the users they are trying to reach. Does it matter if I use React instead of Angular if I understand how Javascript works? Will I be a less skilled project manager if I use Trello instead of Jira, but understand Agile? Are my designs going to suffer because I use Framer vs Sketch, but have an incredible imagination for visual design?
 
 The point of all this is that as technologists, we should start putting heavier focus on connecting with and understanding our users. As companies we should start putting heavier focus on the potential of candidates instead of their current skills. The end result is not the technology itself, the end result is creating a world that makes the human existence not just tolerable, but truly enjoyable.
+
+*[Zach Diehl](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmedium.com%2F%40zdiehlio&data=01%7C01%7CGalia_Nurko%40dai.com%7Cf67a56aa590843a77e1b08d6a72fbf8e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=hisy7P73DPw09T8YneQDna9lmjiB4kqRFh%2FojmW%2Bivg%3D&reserved=0) is technology enthusiast and creative coder with passion for teaching others how technology can improve our daily lives. He is also the Lead Instructor for Code Partners. *
