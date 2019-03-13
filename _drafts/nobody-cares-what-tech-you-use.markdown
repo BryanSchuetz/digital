@@ -16,7 +16,7 @@ There’s nothing wrong with these techie debates; tools make our jobs easier an
 
 Yes, user experience (UX) has become a heavy focus for many companies, but it has also become its own silo. You can find many UX specialists now who know everything about user research and creating amazing experiences for users, but don’t have the ability to build that experience into an application. At the same time you have plenty of developers and engineers who have the ability to create complex and high-performance applications, but little of their time is spent connecting with the people who will use these applications to improve their lives.
 
-![computers.jpeg](/uploads/computers.jpeg)`Photo by [Farzad Nazifi](https://unsplash.com/photos/p-xSl33Wxyc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)`
+![computers.jpeg](/uploads/computers.jpeg)`Photo by Farzad Nazifi on Unsplash.`
 
 Notice I said *connecting*—not *thinking*. Agile practices on may software development teams put high priority on thinking about the user and attempting to create applications that benefit the experience. Yet so much time is spent on the technology itself, how much mental energy do you think is spent truly understanding what the user wants. If we are constantly debating technology or improving our processes and tools, how much time can we really claim is spent on the user.
 
