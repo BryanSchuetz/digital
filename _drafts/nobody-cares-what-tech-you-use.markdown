@@ -12,9 +12,9 @@ Technologists and developers love to talk about the best tools for building new 
 
 <!--more-->
 
-There’s nothing wrong with these techie debates; tools make our jobs easier and there’s nothing wrong with searching for the best one. Yet the problem lies when these discussions dominate the conversation. We seem to care more about what we use to develop the product instead of the focus being on what the product actually is. What is the going to be the end result for the user that improves their lives or gives them an enjoyable experience.
+There’s nothing wrong with these techie debates; tools make our jobs easier and there’s nothing wrong with searching for the best one. Yet the problem lies when these discussions dominate the conversation. We seem to care more about what we *use* to develop the product instead of the *actual product*. 
 
-Yes, UX has become a heavy focus for many companies, but it has also formed into its own silo. You can find many UX specialists now that know everything about user research and creating amazing user experiences, but don’t have the ability to build that experience in an application. At the same time you have plenty of developers and engineers who have the ability to create complex and high performance applications, but little of their time is spent connecting with the user.
+Yes, user experience (UX) has become a heavy focus for many companies, but it has also become its own silo. You can find many UX specialists now who know everything about user research and creating amazing experiences for users, but don’t have the ability to build that experience into an application. At the same time you have plenty of developers and engineers who have the ability to create complex and high-performance applications, but little of their time is spent connecting with the people who will use these applications to improve their lives.
 
 ![computers.jpeg](/uploads/computers.jpeg)
 
