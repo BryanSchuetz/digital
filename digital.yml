@@ -1,4 +1,13 @@
 
+- title: "Nobody Cares What Tech You Use"
+  pub: "Digital"
+  date: 2019-03-14
+  link: "https://dai-global-digital.com/nobody-cares-what-tech-you-use.html?utm_source=daidotcom"
+  summary: "Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal."
+  tags:
+    - digital acceleration 
+    - Human-centered design 
+
 - title: "Is Your Data in a Lake or Water Treatment Plant?"
   pub: "Digital"
   date: 2019-03-07
@@ -221,14 +230,4 @@ The first post in this series focused on the issue of trust and the second post 
   tags:
     - digital acceleration 
     - Cyber Security Series 
-
-- title: "Data, Analysis, and Information (Not as Boring as It Sounds)"
-  pub: "Digital"
-  date: 2018-12-05
-  link: "https://dai-global-digital.com/data-analysis-and-information.html?utm_source=daidotcom"
-  summary: "If you aren’t excited by the headline—you should be! In this blog I will highlight a few issues I run across when discussing projects or planning data analytics solutions. Going into the details of each of them would take quite some time, so I will keep the anecdotes (data?) brief. There will undoubtedly be many interpretations of the data -&gt; analytics -&gt; insights/information flow, but this blog is simply an opportunity for me to share my own thoughts. After all, what are we as good data stewards and scientists without proper debate?"
-  tags:
-    - digital acceleration 
-    - Data Management Series 
-    - Digital Principles 
 

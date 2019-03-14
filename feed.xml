@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Mar 2019 10:33:16 -0500</pubDate>
-    <lastBuildDate>Thu, 07 Mar 2019 10:33:16 -0500</lastBuildDate>
+    <pubDate>Thu, 14 Mar 2019 08:56:03 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Mar 2019 08:56:03 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/computers.jpeg" medium="image" /> 
+        <title>Nobody Cares What Tech You Use</title>
+        <description>&lt;p&gt;Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Mar 2019 08:20:00 -0400</pubDate>
+        <author><a href="https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzachary-diehl-7b466b174&amp;data=01%7C01%7CGalia_Nurko%40dai.com%7Cf67a56aa590843a77e1b08d6a72fbf8e%7C7107113de20b4c20a4ce553cabbf686d%7C0&amp;sdata=AzUi%2BFO6MhNA7fBkVFoMVM%2F8vH8tuOQ1S38SioYFncc%3D&amp;reserved=0">Zach Diehl</a>
+</author>
+        <link>https://dai-global-digital.com/nobody-cares-what-tech-you-use.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/nobody-cares-what-tech-you-use.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png" medium="image" /> 
@@ -185,27 +202,6 @@
         <category>Human-centered design</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/peru-mercury-emergency.jpg" medium="image" /> 
-        <title>How Digital Tools Help Combat Illegal Mining and Logging in the Amazon</title>
-        <description>&lt;p&gt;A recent report prepared by the &lt;a href=&quot;https://www.amazoniasocioambiental.org/es/&quot;&gt;Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) &lt;/a&gt;and &lt;a href=&quot;https://infoamazonia.org/es/&quot;&gt;InfoAmazonia&lt;/a&gt;, in coordination with eight other Latin American institutions, published a &lt;a href=&quot;https://mineria.amazoniasocioambiental.org/&quot;&gt;map&lt;/a&gt; that shows more than 2,000 data points across the Amazon where illegal activity is occurring. This includes illegal mining and logging in 96 protected areas. Most of the illegal activity is taking place in &lt;a href=&quot;https://mineria.amazoniasocioambiental.org/&quot;&gt;Venezuela&lt;/a&gt; where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68, and in Peru, 24. For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet, based on my experience it’s unclear whether these information-streamlining tools are actually limiting illegal activity.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 31 Jan 2019 09:00:00 -0500</pubDate>
-        <author>Alejandro Solis
-</author>
-        <link>https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Satellite</category>
-        
-        <category>Digital</category>
         
         
       </item>
