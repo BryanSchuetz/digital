@@ -18,7 +18,7 @@ Yes, user experience (UX) has become a heavy focus for many companies, but it ha
 
 ![computers.jpeg](/uploads/computers.jpeg)`Photo by Farzad Nazifi on Unsplash.`
 
-Notice I said *connecting*—not *thinking*. Agile practices on many software development teams put high priority on thinking about the user and attempting to create applications that benefit the experience. Yet so much time is spent on the technology itself, how much mental energy do you think is spent truly understanding what the user wants. If we are constantly debating technology or improving our processes and tools, how much time can we really claim is spent on the user.
+Notice I said *connecting*—not *thinking*. Agile practices on many software development teams put high priority on thinking about the user and attempting to create applications that benefit the experience. Yet so much time is spent on the technology itself, how much mental energy do you think is spent truly understanding what the user wants. If we are constantly debating technology or improving our processes and tools, how much time can we really claim is spent on the user?
 
 Let’s say my team is creating an application targeting young women who enjoy shopping. I could write a user story that says: "As a I woman, I want to see daily deals based on my shopping history so I can see new outfit options without searching." This sounds great, but what if we have no young women on our team who like to shop?
 
