@@ -12,7 +12,7 @@ social-image: "/uploads/Digital%20ID1-20ce5a.jpg"
 
 Over the next few months, we will be looking at some of the key issues and opportunities of Digital ID in the development space. Today we look at informed consent. We think about what it means to us in the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data.
 
-\(<!--more-->)
+\<!--more-->
 
 \**What is Informed Consent? \**
 
