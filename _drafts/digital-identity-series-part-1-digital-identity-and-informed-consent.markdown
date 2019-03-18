@@ -5,7 +5,7 @@ tags:
 - Digital Inclusion
 - Data
 Author: Chloe Messenger
-social-image: "/uploads/Digital%20ID1-20ce5a.jpg"
+social-image: "/uploads/Digital%20ID1-e80035.jpg"
 ---
 
 ![Digital ID1.jpg](/uploads/Digital%20ID1.jpg){:.float-left}This blog marks the launch of a Digital Identity series here on Digital@DAI. It is a topic we have been increasingly engaging on, as a pivotal one to many of our technical areas: from health service provision, to cash transfers, to voter registration. It is also a topic that is garnering increasing attention with the boom in debate over privacy and data security; and the global refugee crisis reinforcing the opinion that there is “no single factor that affects a person’s ability to share in the gains of global development as much as having an official identity” ([World Bank](http://documents.worldbank.org/curated/en/213581486378184357/pdf/112614-REVISED-English-ID4D-IdentificationPrinciples-Folder-web-English-ID4D-IdentificationPrinciples.pdf)).
