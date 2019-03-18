@@ -26,7 +26,7 @@ Informed consent is also vital for [transparency and accountability](http://tech
 
 But there seems to be a gap in the unequivocal need for informed consent, and assertions of the difficulty of getting it in the development and humanitarian sectors. So if this is the case, what could we be doing to bridge this gap?
 
-\## Educating the User: Getting to Informed
+# ## Educating the User: Getting to Informed
 
 Providing digital identity recipients with education on the who, what, when, where and why of their data collection is a great first step. But where does our responsibility end? Is it enough to provide someone with information and hope they read/listen and understand it?
 
