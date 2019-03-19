@@ -16,9 +16,9 @@ Over the next few months, we will look at some of the issues and opportunities a
 
 ## What is Informed Consent?
 
-Informed consent is an ethical (and in some cases legal) mechanism that ensures that individuals *voluntarily* provide information with *full knowledge* of relevant risks ([UNOCHA). ](https://www.unocha.org/sites/unocha/files/Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.pdf)In the case of digital identity, this means that the individual is aware of the use of her digital identity and its associated data trails, informed and able to understand the decisions made through the use of her data.
+Informed consent is an ethical (and in some cases, legal) mechanism that ensures that individuals *voluntarily* provide information with *full knowledge* of relevant risks ([UNOCHA). ](https://www.unocha.org/sites/unocha/files/Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.pdf)In the case of digital identity, this means that the individual is aware of the use of her digital identity and its associated data trails, informed and able to understand the decisions made through the use of her data.
 
-## Why do we care about informed consent? 
+## Why do we care about informed consent?
 
 Of course, the principal answer relates to ethical considerations and good development practice: like with the collection of any personal data, we would ensure we have the full consent of the individual as data is theirs to give.
 
