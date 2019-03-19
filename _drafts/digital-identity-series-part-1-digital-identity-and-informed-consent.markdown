@@ -26,7 +26,7 @@ Informed consent is also vital for [transparency and accountability](http://tech
 
 But there seems to be a gap in the unequivocal need for informed consent, and assertions of the difficulty of getting it in the development and humanitarian sectors. So if this is the case, what could we be doing to bridge this gap?
 
-# Educating the User: Getting to Informed
+## Educating the User: Getting to Informed
 
 Providing digital identity recipients with education on the who, what, when, where, and why of their data collection is a great first step. But where does our responsibility end? Is it enough to provide someone with information and hope they read, listen, and understand it?
 
@@ -36,9 +36,9 @@ This gives us an idea of how our project beneficiaries might feel when presented
 
 Perhaps it is up to digital identity providers and project implementers to make sure the information is understood, not just provided. This would make sense, considering that only by having a full grasp of the implications on giving their data can people give truly informed consent. If you read our [recent post](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) on the missing Digital Principle, you will know we care deeply about educating the user.
 
-Of course, providing meaningful education be a real challenge in contexts where the beneficiaries may not be digitally literate or are in a situation that makes it hard for them to say no. UNOCHA outline this in their [cybersecurity report](https://www.unocha.org/sites/unocha/files/Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.pdf): they argue that informed consent cannot be obtained in humanitarian emergencies due to both the urgency and the technology illiteracy and complexity of digital identity data. Imagine how hard it would be to give informed consent if you have no experience with technology yet are asked to understand what biometric data is and what the implications are of it being shared with different types of organisations. If that stands in the way of you getting aid, you can imagine where your priorities might lie.
+Of course, providing meaningful education be a real challenge in contexts where the beneficiaries may not be digitally literate or are in a situation that makes it hard for them to say no. The United Nations Office for the Coordination of Humanitarian Affairs outlines this in its [cybersecurity report](https://www.unocha.org/sites/unocha/files/Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.pdf). It argues that informed consent cannot be obtained in humanitarian emergencies due to both the urgency and the technology illiteracy and complexity of digital identity data. Imagine how hard it would be to give informed consent if you have no experience with technology yet are asked to understand what biometric data is and what the implications are of it being shared with different types of organizations. If that stands in the way of you getting aid, you can imagine where your priorities might lie.
 
-# Closing Remarks
+## Closing Remarks
 
 What “informed” truly means in practice may be different dependent on the context. There is so much to consider and getting informed consent can often seem impracticable or even impossible.
 
