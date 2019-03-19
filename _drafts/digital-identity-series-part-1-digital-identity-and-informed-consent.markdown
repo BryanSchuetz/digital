@@ -22,7 +22,7 @@ Informed consent is an ethical (and in some cases, legal) mechanism ensuring tha
 
 Of course, the principal answer relates to ethical considerations and good development practice: like with the collection of any personal data, we would ensure we have the full consent of the individual as data is theirs to give.
 
-Informed consent is also vital for [transparency and accountability](http://technologysalon.org/digital-identity-social-good/): if we - as a development or humanitarian organisation – are collecting personal data, informed consent support us in our quest to being open and honest with beneficiaries and confident that we are accountable to our actions. As the [World Bank ID4D principles](http://id4d.worldbank.org/principles) state, ensuring user literacy regarding legal identification systems can also foster a culture of understanding and trust.
+Informed consent is also vital for [transparency and accountability](http://technologysalon.org/digital-identity-social-good/): if we—as a development or humanitarian organisation—are collecting personal data, informed consent support us in our quest to being open and honest with beneficiaries and confident that we are accountable to our actions. As the [World Bank ID4D principles](http://id4d.worldbank.org/principles) state, ensuring user literacy regarding legal identification systems can also foster a culture of understanding and trust.
 
 But there seems to be a gap in the unequivocal need for informed consent, and assertions of the difficulty of getting it in the development and humanitarian sectors. So if this is the case, what could we be doing to bridge this gap?
 
