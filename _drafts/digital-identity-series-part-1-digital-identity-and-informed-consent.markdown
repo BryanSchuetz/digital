@@ -12,9 +12,9 @@ social-image: "/uploads/Digital%20ID1-e80035.jpg"
 
 Over the next few months, we will be looking at some of the key issues and opportunities of Digital ID in the development space. Today we look at informed consent. We think about what it means to us in the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data.
 
-\<!--more-->
+<!--more-->
 
-\**What is Informed Consent? \**
+## What is Informed Consent?
 
 Informed consent is an ethical (and in some cases legal) mechanism that ensures that individuals *voluntarily* provide information with *full knowledge* of relevant risks ([UNOCHA). ](https://www.unocha.org/sites/unocha/files/Humanitarianism%20in%20the%20Cyberwarfare%20Age%20-%20OCHA%20Policy%20Paper%2011.pdf)In the case of digital identity, this means that the individual is aware of the use of her digital identity and its associated data trails, informed and able to understand the decisions made through the use of her data.
 
