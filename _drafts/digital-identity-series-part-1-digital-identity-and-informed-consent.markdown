@@ -1,5 +1,5 @@
 ---
-title: 'Digital Identity Series Part 1: Digital Identity & Informed Consent'
+title: 'Digital Identity Series Part 1: Digital Identity and Informed Consent'
 date: 2019-03-18 05:34:00 -04:00
 tags:
 - Digital Inclusion
