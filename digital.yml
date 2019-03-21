@@ -1,4 +1,17 @@
 
+- title: "Digital Identity Series Part 1: Digital Identity and Informed Consent"
+  pub: "Digital"
+  date: 2019-03-18
+  link: "https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=daidotcom"
+  summary: "This post marks the launch of a Digital Identity series here on Digital@DAI. It is a pivotal topic to many of our technical areas: from health service provision, to cash transfers, and voter registration. It is also a topic garnering increased attention with the debate over privacy and data security—and the global refugee crisis reinforcing the opinion that there is “no single factor that affects a person’s ability to share in the gains of global development as much as having an official identity.”
+
+Over the next few months, we will look at some of the issues and opportunities around Digital ID in the development space. Today, we look at informed consent: what it means to the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data."
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+    - Data 
+    - Digital Identity Series 
+
 - title: "Nobody Cares What Tech You Use"
   pub: "Digital"
   date: 2019-03-14
@@ -219,15 +232,4 @@ In our final post of 2017 we reviewed the 10 most-read articles of the year. Wit
     - digital acceleration 
     - Digital Health 
     - Digital Inclusion 
-
-- title: "Cyber Security Series Part 3: Pirated Software"
-  pub: "Digital"
-  date: 2018-12-13
-  link: "https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html?utm_source=daidotcom"
-  summary: "It’s been about two months since I last contributed to the Cyber Security Series, but don’t let the time fool you into thinking we haven’t been engaging extensively on the topic. As many of you might remember, the Center for Digital Acceleration (CDA) published the Digital Inclusion and a Trusted Internet report in October on the topic. For those of you who have not read it, I highly recommend it, particularly if you’re interested in cyber security or data privacy.
-
-The first post in this series focused on the issue of trust and the second post argued that investment in regulations that support the enabling environment, strong institutions, and skills of the population are key to integrating cyber security across a country’s economy. This post focuses on a more micro-level challenge—pirated software—and how addressing it is key to responding to cyber security overall."
-  tags:
-    - digital acceleration 
-    - Cyber Security Series 
 

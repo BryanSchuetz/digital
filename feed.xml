@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Mar 2019 13:30:40 -0400</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 13:30:40 -0400</lastBuildDate>
+    <pubDate>Thu, 21 Mar 2019 09:34:41 -0400</pubDate>
+    <lastBuildDate>Thu, 21 Mar 2019 09:34:41 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Digital%20ID1-e80035.jpg" medium="image" /> 
+        <title>Digital Identity Series Part 1: Digital Identity and Informed Consent</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Digital%20ID1.jpg&quot; alt=&quot;Digital ID1.jpg&quot; class=&quot;float-left&quot; /&gt;This post marks the launch of a Digital Identity series here on Digital@DAI. It is a pivotal topic to many of our technical areas: from health service provision, to cash transfers, and voter registration. It is also a topic garnering increased attention with the debate over privacy and data security—and the global refugee crisis reinforcing the &lt;a href=&quot;http://documents.worldbank.org/curated/en/213581486378184357/pdf/112614-REVISED-English-ID4D-IdentificationPrinciples-Folder-web-English-ID4D-IdentificationPrinciples.pdf&quot;&gt;opinion&lt;/a&gt; that there is “no single factor that affects a person’s ability to share in the gains of global development as much as having an official identity.”&lt;/p&gt;
+
+&lt;p&gt;Over the next few months, we will look at some of the issues and opportunities around Digital ID in the development space. Today, we look at informed consent: what it means to the development sector, the difficulty of getting it, and what we can do to make sure we aren’t leaving people behind, while respecting their privacy and the security of their data.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 18 Mar 2019 05:34:00 -0400</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Data</category>
+        
+        <category>Digital Identity Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/computers.jpeg" medium="image" /> 
@@ -181,27 +204,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/working-in-digital-agriculture-please-full-out-this-survey.html</guid>
         
         <category>Digital Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/SDG9%20small-f44723.jpg" medium="image" /> 
-        <title>Access as an Assumption: The Unintended Consequence of Increasing Digital Access</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/SDG9%20small-23e62a.jpg&quot; alt=&quot;SDG9 small-23e62a.jpg&quot; class=&quot;float-left&quot; /&gt; In our quest to increase digital access, we tend to focus on the dividends, rather than the negatives that can arise. We are understandably excited about &lt;a href=&quot;https://www.itu.int/en/mediacentre/Pages/2018-PR40.aspx&quot;&gt;edging closer to universal access&lt;/a&gt; and the new business opportunities and improvements to service provision that accompany it. But while we are improving in our endeavor to promote online safety and security, bridge the gender digital divide, and include people with disabilities (all great stuff!), we could be overlooking some negative consequences of increased digital access.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Feb 2019 08:30:00 -0500</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/access-as-an-assumption-the-unintended-consequence-of-increasing-digital-access.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/access-as-an-assumption-the-unintended-consequence-of-increasing-digital-access.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Human-centered design</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
