@@ -1,7 +1,6 @@
 ---
 title: Game Mechanics, Maize Pests and Prize Inspiration
 date: 2019-03-04 15:29:00 -05:00
-published: false
 ---
 
 Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/view?usp=sharing)
