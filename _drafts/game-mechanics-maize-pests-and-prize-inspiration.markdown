@@ -53,7 +53,7 @@ If any of the ideas above interest you, I’d recommend reading the following:
 
 * [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
 
-**Want to stay updated?**
+## Want to stay updated?
 
 📩 **Get more info:** want to keep tabs on our thinking on topics like this, and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
 
