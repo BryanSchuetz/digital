@@ -19,13 +19,13 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 <Please Embed Video [https://vimeo.com/266649686](https://vimeo.com/266649686)>
 
-**🔧 User testing has been our secret sauce** when designing our digital products with farmers. Our product prototyping is heavily influenced by***[ Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)***, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)***[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)***, which describes our DIY approach to user testing. These books go into detail of what is needed ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in either book, to look out for this… 👇
+**🔧 User testing has been our secret sauce** when designing our digital products with farmers. Our product prototyping is heavily influenced by\*\*\*[ Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)***, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)***[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)\*\*\*, which describes our DIY approach to user testing. These books go into detail of what is needed ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in either book, to look out for this… 👇
 
 ![adam blog pic.png](/uploads/adam%20blog%20pic.png)
 
-\`An example screen recording from our user testing of the FAW prototype (with some additional annotations)\`
+`An example screen recording from our user testing of the FAW prototype (with some additional annotations)`
 
-**😁** …**a beaming SMILE. **When a user tries something out, you really can’t miss their smile. Incidentally, some of the FAW solution prototypes we developed used simple games, and we found an abundance of smiling reactions (the example above comes from a recorded user test of our FAW prototype). This type of consistent positive reaction is what got us researching game design more thoroughly.
+**😁** …\*\*a beaming SMILE. \*\*When a user tries something out, you really can’t miss their smile. Incidentally, some of the FAW solution prototypes we developed used simple games, and we found an abundance of smiling reactions (the example above comes from a recorded user test of our FAW prototype). This type of consistent positive reaction is what got us researching game design more thoroughly.
 
 **Taking game mechanics forward in digital product design: focus on the fun**
 
@@ -35,11 +35,11 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 *"Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes…” \[if you are going to make a game\] "your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson.”*
 
-**👾 Instead, think about a 'game atom'. **Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes "the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model - which a product designer can make use of - is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
+\*\*👾 Instead, think about a 'game atom'. \*\*Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes "the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model - which a product designer can make use of - is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
 
 ![adam blog pic 2.png](/uploads/adam%20blog%20pic%202.png)
 
-\`Diagram of “game atom” (my adaptation of Koster’s diagram)\`
+`Diagram of “game atom” (my adaptation of Koster’s diagram)`
 
 **🖇 How can we practically incorporate this?** At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics which can be used in the sphere of digital development. If you want to get a flavour of what core mechanics look like in games, check out this[ 160 slides on understanding game mechanics for social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges
 
@@ -47,11 +47,11 @@ Of course, this isn’t a panacea, it’s just one element to our approach to bu
 
 If any of the ideas above interest you, I’d recommend reading the following:
 
-- [A theory of fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20), Koster
+* [A theory of fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20), Koster
 
-- [Rocket surgery made easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292), Krug
+* [Rocket surgery made easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292), Krug
 
-- [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
+* [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
 
 **Want to stay updated?**
 
