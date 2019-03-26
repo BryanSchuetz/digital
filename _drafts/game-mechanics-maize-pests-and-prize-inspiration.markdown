@@ -27,7 +27,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 **😁** …\*\*a beaming SMILE. \*\*When a user tries something out, you really can’t miss their smile. Incidentally, some of the FAW solution prototypes we developed used simple games, and we found an abundance of smiling reactions (the example above comes from a recorded user test of our FAW prototype). This type of consistent positive reaction is what got us researching game design more thoroughly.
 
-**Taking game mechanics forward in digital product design: focus on the fun**
+## Taking game mechanics forward in digital product design: focus on the fun
 
 **🚫 What we're not interested in here is ‘gamification.’** This was a key learning for us early on, and the point is put nicely by Raph Koster in his book,[ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
