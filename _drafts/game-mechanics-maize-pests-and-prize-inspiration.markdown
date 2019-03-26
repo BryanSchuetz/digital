@@ -5,7 +5,7 @@ date: 2019-03-04 15:29:00 -05:00
 
 Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/view?usp=sharing)
 
-**Why bother with games?**
+## Why bother with games?
 
 **📱Smartphone connections continue to rise and people (globally) love to game:** GSMA estimate that[ by 2025 78% of all developing market mobile connections will be smart](https://www.gsma.com/r/mobileeconomy/sub-saharan-africa/). By that time they expect India to be the second largest smartphone market by adoption globally (ahead of the US), with 1 billion smartphone connections. Interestingly, India is already among the top 5 mobile gaming countries globally,[ expected to surge to 368 million gamers in 2022](https://www.mmaglobal.com/files/casestudies/kantar_imrb_x_mma_x_pokkt_india_market_study.pdf). If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south.
 
