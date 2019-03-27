@@ -1,5 +1,5 @@
 ---
-title: Game mechanics- a great tool for designing digital development services
+title: Game Mechanics—Great Tool for Designing Digital Development Services
 date: 2019-03-28 09:00:00 -04:00
 tags:
 - Innovation
