@@ -20,7 +20,7 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 🐛 The [Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) (FAW) started us off on an unexpected path to more deeply incorporating game design into our work. The FAW prize gave us a solid agronomic basis—notably the [IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf)—on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
 
-🔧 User testing has been our secret sauce. When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books detail the 'how-to' of user testing. I recommend both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
+🔧 User testing has been our secret sauce. When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books detail the ‘how-to’ of user testing. I recommend both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
 
 ![adam blog pic.png](/uploads/adam%20blog%20pic.png)
 
@@ -28,9 +28,9 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 😁 …a beaming SMILE. When a user tries something out, you really can’t miss their smile. Incidentally, some of the FAW solution prototypes we developed used simple games, and we found an abundance of smiling reactions (the example above comes from a recorded user test of our FAW prototype). This type of consistent positive reaction is what got us researching game design more thoroughly.
 
-## Taking game mechanics forward in digital product design: focus on the fun
+## Focus on the Fun
 
-🚫 What we're not interested in here is ‘gamification.’ This was a key learning for us early on, and the point is laid out nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
+🚫 What we’re not interested in here is ‘gamification.’ This was a key learning for us early on, and the point is laid out nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
 *"There is a design practice called “gamification” which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings… A reward structure alone does not a game make…"*
 
