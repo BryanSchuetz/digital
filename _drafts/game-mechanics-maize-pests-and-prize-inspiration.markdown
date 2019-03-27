@@ -47,9 +47,7 @@ Of course, games are not a panacea, they are just one element to our approach to
 If any of the ideas interest you, I’d recommend reading the following:
 
 * [A theory of fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20), Koster
-
 * [Rocket surgery made easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292), Krug
-
 * [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
 
 ## Want to Stay Updated?
