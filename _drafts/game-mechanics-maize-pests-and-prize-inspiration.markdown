@@ -1,5 +1,5 @@
 ---
-title: Game Mechanics, Maize Pests and Prize Inspiration
+title: Game mechanics- a great tool for designing digital development tools
 date: 2019-03-28 09:00:00 -04:00
 tags:
 - Innovation
