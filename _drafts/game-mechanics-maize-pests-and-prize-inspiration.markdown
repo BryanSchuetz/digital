@@ -60,8 +60,6 @@ If any of the ideas  interest you, I’d recommend reading the following:
 
 ## Want to stay updated?
 
-📩 **Get more info. ** 
-
-Interested in  keeping tabs on our thinking on topics like this and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
+📩 Interested in  keeping tabs on our thinking on topics like this and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
 
 *Adam is one of the co-founders of [farm.ink](https://farm.ink/) Having worked in mobile tech across Africa and Asia for over 6 years he currently spends his time coding and designing digital products for farmers. To follow his thoughts on emerging market digital tech check out [viewsouth.](http://viewsouth.co/)*
