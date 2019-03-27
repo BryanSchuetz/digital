@@ -31,7 +31,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 ## Taking game mechanics forward in digital product design: focus on the fun
 
-**🚫 What we're not interested in here is ‘gamification.’** This was a key learning for us early on, and the point is put nicely by Raph Koster in his book,[ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
+**🚫 What we're not interested in here is ‘gamification.’** This was a key learning for us early on, and the point is put nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
 *"There is a design practice called “gamification” which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings… A reward structure alone does not a game make…"*
 
@@ -41,7 +41,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 ![adam blog pic 2.png](/uploads/adam%20blog%20pic%202.png)
 
-`Diagram of “game atom” (my adaptation of Koster’s diagram)`
+`Diagram of “game atom” (my adaptation of Koster’s diagram).`
 
 **🖇 How can we practically incorporate this?** At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics which can be used in the sphere of digital development. If you want to get a flavour of what core mechanics look like in games, check out this[ 160 slides on understanding game mechanics for social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges
 
