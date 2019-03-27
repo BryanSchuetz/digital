@@ -32,7 +32,7 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 🚫 What we’re not interested in here is ‘gamification.’ This was a key learning for us early on, and the point is laid out nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
-*"There is a design practice called “gamification” which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings… A reward structure alone does not a game make…"*
+*"There is a design practice called 'gamification,' which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings… A reward structure alone does not a game make…"*
 
 *"Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes…” \[if you are going to make a game\] "your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson.”*
 
