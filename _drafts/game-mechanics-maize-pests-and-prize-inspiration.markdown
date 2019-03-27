@@ -46,7 +46,9 @@ When a user tries something out, you really can’t miss their smile. Incidental
 
 ## Taking game mechanics forward in digital product design: focus on the fun
 
-**🚫 What we're not interested in here is ‘gamification.’** This was a key learning for us early on, and the point is put nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
+**🚫 What we're not interested in here is ‘gamification.’** 
+
+This was a key learning for us early on, and the point is laid out nicely by Raph Koster in his book, [ ](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***[A Theory of Fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20)***:
 
 *"There is a design practice called “gamification” which attempts to use the trappings of games (reward structures, points, etc.) to make people engage more with product offerings… A reward structure alone does not a game make…"*
 
