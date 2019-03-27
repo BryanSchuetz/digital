@@ -34,7 +34,7 @@ That’s where the potential to address international development challenges com
 
 **🔧 User testing has been our secret sauce.** 
 
-When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books go into detail of the ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in either book, to look out for this… 👇
+When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books go into detail of the ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
 
 ![adam blog pic.png](/uploads/adam%20blog%20pic.png)
 
