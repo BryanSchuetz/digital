@@ -22,8 +22,6 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 🐛 The [Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) (FAW) started us off on an unexpected path to more deeply incorporating game design into our work. The FAW Prize gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
 
-<iframe src="https://vimeo.com/266649686\](https://vimeo.com/266649686)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 **🔧 **User testing has been our secret sauce. When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books go into detail of the ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
 
 ![adam blog pic.png](/uploads/adam%20blog%20pic.png)
