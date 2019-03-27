@@ -10,31 +10,21 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 ## Why bother with games?
 
-**📱 Smartphone connections continue to rise and people, globally, love to game.** 
+**📱 **Smartphone connections continue to rise and people, globally, love to game. GSMA estimate that[ by 2025 78% of all developing market mobile connections will be smart](https://www.gsma.com/r/mobileeconomy/sub-saharan-africa/). By that time they expect India to be the second largest smartphone market by adoption globally (ahead of the US), with 1 billion smartphone connections. Interestingly, India is already among the top 5 mobile gaming countries globally,[ expected to surge to 368 million gamers in 2022](https://www.mmaglobal.com/files/casestudies/kantar_imrb_x_mma_x_pokkt_india_market_study.pdf). If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south.
 
-GSMA estimate that[ by 2025 78% of all developing market mobile connections will be smart](https://www.gsma.com/r/mobileeconomy/sub-saharan-africa/). By that time they expect India to be the second largest smartphone market by adoption globally (ahead of the US), with 1 billion smartphone connections. Interestingly, India is already among the top 5 mobile gaming countries globally,[ expected to surge to 368 million gamers in 2022](https://www.mmaglobal.com/files/casestudies/kantar_imrb_x_mma_x_pokkt_india_market_study.pdf). If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south.
-
-**🕹 Game users are empowered learners.** 
-
-In 2010, game designer [Jane McGonigal argued we need “21 billion hours of gameplay per week”](https://www.youtube.com/watch?v=dE1DuBesGYM) to help solve some of humanity’s toughest challenges Why? Because gamers are “super empowered hopeful individuals,” who are amazing at collaborating online and learning new things. There are some fascinating examples, such as [blockbyblock which uses Minecraft to help urban planning in Nairobi](https://www.blockbyblock.org/projects/nairobi), or[ GRID](https://gamingfordev.com/about-us/) which sets out to affect social change with interactive apps catered to “the bottom billion.” These trends seem to get most attention in the[ education technology sphere when it comes to major funding and policy making decisions](http://blogs.worldbank.org/edutech/new-research-hub-use-technology-education-developing-countries), but capitalising on the power of games can cut across almost all sustainable development sectors.
+**🕹 **Game users are empowered learners. In 2010, game designer [Jane McGonigal argued we need “21 billion hours of gameplay per week”](https://www.youtube.com/watch?v=dE1DuBesGYM) to help solve some of humanity’s toughest challenges Why? Because gamers are “super empowered hopeful individuals,” who are amazing at collaborating online and learning new things. There are some fascinating examples, such as [blockbyblock which uses Minecraft to help urban planning in Nairobi](https://www.blockbyblock.org/projects/nairobi), or[ GRID](https://gamingfordev.com/about-us/) which sets out to affect social change with interactive apps catered to “the bottom billion.” These trends seem to get most attention in the[ education technology sphere when it comes to major funding and policy making decisions](http://blogs.worldbank.org/edutech/new-research-hub-use-technology-education-developing-countries), but capitalising on the power of games can cut across almost all sustainable development sectors.
 
 <!--more-->
 
-**🔑 The key** **is,  the learning outcome of the game is determined by the product designer**. 
-
-That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for X’, and start thinking of them as design patterns to inform better product design.
+**🔑** The key is,  the learning outcome of the game is determined by the product designer. That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for X’, and start thinking of them as design patterns to inform better product design.
 
 ## How games informed a farming challenge: Fall Armyworm Tech Prize
 
-🐛 **An Unexpected Path.**
-
- The [Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) (FAW) started us off on an unexpected path to more deeply incorporating game design into our work. The FAW Prize gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
+🐛 The [Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) (FAW) started us off on an unexpected path to more deeply incorporating game design into our work. The FAW Prize gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
 
 <iframe src="https://vimeo.com/266649686\](https://vimeo.com/266649686)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-**🔧 User testing has been our secret sauce.** 
-
-When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books go into detail of the ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
+**🔧 **User testing has been our secret sauce. When designing our digital products with farmers, user testing has always been central. Our product prototyping is heavily influenced by the books *[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)*, and[ ](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)*. These books go into detail of the ‘how to’ of user testing. I’d recommend reading both. But here’s a secret we learned above and beyond anything we read in a book. To look out for this… 👇
 
 ![adam blog pic.png](/uploads/adam%20blog%20pic.png)
 
