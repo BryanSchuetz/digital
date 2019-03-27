@@ -36,17 +36,15 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 *"Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes…” \[if you are going to make a game\] "your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson.”*
 
-👾 Instead, think about a 'game atom.' Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes "the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model - which a product designer can make use of - is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
+👾 Instead, think about a 'game atom.' Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes, "The part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model, which a product designer can make use of, is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
 
-![adam blog pic 2.png](/uploads/adam%20blog%20pic%202.png)
+![adam blog pic 2.png](/uploads/adam%20blog%20pic%202.png)`Diagram of “game atom” (my adaptation of Koster’s diagram).`
 
-`Diagram of “game atom” (my adaptation of Koster’s diagram).`
+🖇How can we practically incorporate this concept? At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics that can be used in the sphere of digital development. If you want to get a flavor of what core mechanics look like in games, check out these slides on understanding game mechanics for [social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges.
 
-🖇How can we practically incorporate this? At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics which can be used in the sphere of digital development. If you want to get a flavour of what core mechanics look like in games, check out this[ 160 slides on understanding game mechanics for social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges
+Of course, games are not a panacea, they are just one element to our approach to build better products for a digital farming audience. But they are powerful, and something with great cross-cutting potential into the area of digital development.
 
-Of course, this isn’t a panacea, it’s just one element to our approach to build better products for a digital farming audience. But it’s powerful, and something with great cross-cutting potential into the area of digital development.
-
-If any of the ideas  interest you, I’d recommend reading the following:
+If any of the ideas interest you, I’d recommend reading the following:
 
 * [A theory of fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20), Koster
 
@@ -54,8 +52,8 @@ If any of the ideas  interest you, I’d recommend reading the following:
 
 * [Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683), Knapp, Zeratsky, Kowitz
 
-## Want to stay updated?
+## Want to Stay Updated?
 
-📩 Interested in  keeping tabs on our thinking on topics like this and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
+📩 Interested in keeping tabs on our thinking on topics like this and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
 
-*Adam is one of the co-founders of [farm.ink](https://farm.ink/) Having worked in mobile tech across Africa and Asia for over 6 years, he currently spends his time coding and designing digital products for farmers. To follow his thoughts on emerging market digital tech check out [viewsouth.](http://viewsouth.co/)*
+*Adam is one of the co-founders of [farm.ink](https://farm.ink/).*
