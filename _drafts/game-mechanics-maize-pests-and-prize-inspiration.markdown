@@ -26,7 +26,9 @@ That’s where the potential to address international development challenges com
 
 ## How games informed a farming challenge: Fall Armyworm Tech Prize
 
-🐛 **The prize started us off** on an unexpected path to more deeply incorporating game design into our work. The[ Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
+🐛 **An Unexpected Path.**
+
+ The [Fall Army Worm Tech Prize](https://fallarmywormtech.challenges.org/) prize started us off on an unexpected path to more deeply incorporating game design into our work. The Prize gave us a solid agronomic basis - notably the[ IPM guide](https://www.usaid.gov/sites/default/files/documents/1867/Fall-Armyworm-IPM-Guide-for-Africa-Jan_30-2018.pdf) - on which to research a solution for our existing base of 100,000 farmers. The availability of this research and the detailed design challenges it articulated enabled us to move faster on prototyping a digital solution.
 
 <iframe src="https://vimeo.com/266649686\](https://vimeo.com/266649686)" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
