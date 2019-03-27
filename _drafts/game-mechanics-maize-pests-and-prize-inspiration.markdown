@@ -40,9 +40,7 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 *"Fun, as I define it, is the feedback the brain gives us when we are absorbing patterns for learning purposes…” \[if you are going to make a game\] "your sole responsibility is to know what the game is about and to ensure that the game teaches that thing. That one thing, the theme, the core, the heart of the game, might require many systems or it might require few. But no system should be in the game that does not contribute towards that lesson.”*
 
-👾 **Instead, think about a 'game atom'.** 
-
-Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes "the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model - which a product designer can make use of - is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
+👾 Instead, think about a 'game atom.' Being inspired by game design patterns doesn’t mean everything has to look or feel like a canonical game, as Koster notes "the part of games that is least understood is the formal abstract system portion of it, the mathematical part of it, the chunky part of it.” The basic model - which a product designer can make use of - is illustrated below. But, if you want to learn more, I recommend watching this talk starting from the 30’ mark, to understand the notion of a “game atom.”
 
 ![adam blog pic 2.png](/uploads/adam%20blog%20pic%202.png)
 
