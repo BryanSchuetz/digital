@@ -3,6 +3,9 @@ title: Game Mechanics, Maize Pests and Prize Inspiration
 date: 2019-03-28 09:00:00 -04:00
 tags:
 - Innovation
+Author: "(Adam Wills)[https://www.linkedin.com/in/adjwills/]"
+social-image: "/uploads/adam%20blog%20pic%202-2754dc.png"
+thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 ---
 
 ## Why bother with games?
