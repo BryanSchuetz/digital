@@ -20,7 +20,9 @@ In 2010, game designer [Jane McGonigal argued we need “21 billion hours of gam
 
 <!--more-->
 
-**🔑 The key** **is,  the learning outcome of the game is determined by the product designer**. That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for X’, and start thinking of them as design patterns to inform better product design.
+**🔑 The key** **is,  the learning outcome of the game is determined by the product designer**. 
+
+That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for X’, and start thinking of them as design patterns to inform better product design.
 
 ## How games informed a farming challenge: Fall Armyworm Tech Prize
 
