@@ -68,7 +68,7 @@ At the heart of Koster’s talk, is that games are best understood mathematicall
 
 Of course, this isn’t a panacea, it’s just one element to our approach to build better products for a digital farming audience. But it’s powerful, and something with great cross-cutting potential into the area of digital development.
 
-If any of the ideas above interest you, I’d recommend reading the following:
+If any of the ideas  interest you, I’d recommend reading the following:
 
 * [A theory of fun](https://www.amazon.com/gp/product/1449363210/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449363210&linkCode=as2&tag=atheoroffunfo-20), Koster
 
@@ -78,6 +78,8 @@ If any of the ideas above interest you, I’d recommend reading the following:
 
 ## Want to stay updated?
 
-📩 **Get more info:** want to keep tabs on our thinking on topics like this, and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
+📩 **Get more info. ** 
+
+Interested in  keeping tabs on our thinking on topics like this and our journey incorporating these ideas into our digital farming products? [Subscribe to our newsletter here](http://viewsouth.co/).
 
 *Adam is one of the co-founders of [farm.ink](https://farm.ink/) Having worked in mobile tech across Africa and Asia for over 6 years he currently spends his time coding and designing digital products for farmers. To follow his thoughts on emerging market digital tech check out [viewsouth.](http://viewsouth.co/)*
