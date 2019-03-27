@@ -1,6 +1,8 @@
 ---
 title: Game Mechanics, Maize Pests and Prize Inspiration
 date: 2019-03-04 15:29:00 -05:00
+tags:
+- Innovation
 ---
 
 Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/view?usp=sharing)
@@ -11,7 +13,7 @@ Insert GIF (https://drive.google.com/file/d/1W7KAUkSNyzVSPzXyQ6AGSFiUuAwd3VLC/vi
 
 **🕹 Game users are empowered learners.** In 2010, game designer [Jane McGonigal argued we need “21 billion hours of gameplay per week”](https://www.youtube.com/watch?v=dE1DuBesGYM) to help solve some of humanity’s toughest challenges Why? Because gamers are “super empowered hopeful individuals,” who are amazing at collaborating online and learning new things. There are some fascinating examples, such as [blockbyblock which uses Minecraft to help urban planning in Nairobi](https://www.blockbyblock.org/projects/nairobi), or[ GRID](https://gamingfordev.com/about-us/) which sets out to affect social change with interactive apps catered to “the bottom billion.” These trends seem to get most attention in the[ education technology sphere when it comes to major funding and policy making decisions](http://blogs.worldbank.org/edutech/new-research-hub-use-technology-education-developing-countries), but capitalising on the power of games can cut across almost all sustainable development sectors.
 
-**🔑 The key** **is that the learning outcome of the game is determined by the product designer**. That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for…’, and start thinking of them as design patterns to inform better product design.
+**🔑 The key** **is that the learning outcome of the game is determined by the product designer**. That’s where the potential to address international development challenges comes in. Stop thinking of games in terms of ‘making Candy Crush for X’, and start thinking of them as design patterns to inform better product design.
 
 ## How games informed a farming challenge: Fall Armyworm Tech Prize
 
