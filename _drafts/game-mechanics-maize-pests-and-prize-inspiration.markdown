@@ -1,6 +1,6 @@
 ---
 title: Game Mechanics, Maize Pests and Prize Inspiration
-date: 2019-03-04 15:29:00 -05:00
+date: 2019-03-28 09:00:00 -04:00
 tags:
 - Innovation
 ---
