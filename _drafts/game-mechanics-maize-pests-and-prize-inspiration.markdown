@@ -46,9 +46,7 @@ thumbnail: "/uploads/adam%20blog%20pic%202-2754dc.png"
 
 `Diagram of “game atom” (my adaptation of Koster’s diagram).`
 
-**🖇 How can we practically incorporate this?** 
-
-At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics which can be used in the sphere of digital development. If you want to get a flavour of what core mechanics look like in games, check out this[ 160 slides on understanding game mechanics for social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges
+**🖇 **How can we practically incorporate this? At the heart of Koster’s talk, is that games are best understood mathematically. There is a wealth of understanding already developed around such mathematics and game mechanics which can be used in the sphere of digital development. If you want to get a flavour of what core mechanics look like in games, check out this[ 160 slides on understanding game mechanics for social games](https://www.raphkoster.com/games/presentations/social-mechanics-the-engines-behind-everything-multiplayer/) (note: social here means many players together, not socio-economic impact). This just scratches the surface, but can start us on the path to a deeper understanding of games and how games can be used to address global sustainable development challenges
 
 Of course, this isn’t a panacea, it’s just one element to our approach to build better products for a digital farming audience. But it’s powerful, and something with great cross-cutting potential into the area of digital development.
 
