@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Mar 2019 08:43:46 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Mar 2019 08:43:46 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Mar 2019 08:49:00 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2019 08:49:00 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/adam%20blog%20pic%202-2754dc.png" medium="image" /> 
+        <title>Game Mechanics—Great Tool for Designing Digital Development Services</title>
+        <description>&lt;p&gt;📱 Smartphone connections continue to rise and people, globally, love to game. The Global Systems for Mobile Communications Association (GSMA) estimates that by 2025 78 percent of all developing market mobile connections &lt;a href=&quot;https://www.gsma.com/r/mobileeconomy/sub-saharan-africa/&quot;&gt;will be smart&lt;/a&gt;. By that time GSMA predicts that India will be the second-largest smartphone market by adoption globally (ahead of the United States), with 1 billion smartphone connections. Interestingly, India is already among the top five mobile gaming countries globally, expected to surge to &lt;a href=&quot;https://www.mmaglobal.com/files/casestudies/kantar_imrb_x_mma_x_pokkt_india_market_study.pdf&quot;&gt;368 million gamers in 2022&lt;/a&gt;. If this is a bellwether for developing markets, we can expect gaming to be a significant force across the global south.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Mar 2019 08:30:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/adjwills/">Adam Wills</a>
+</author>
+        <link>https://dai-global-digital.com/game-mechanics-maize-pests-and-prize-inspiration.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/game-mechanics-maize-pests-and-prize-inspiration.html</guid>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Digital%20ID1-e80035.jpg" medium="image" /> 
@@ -176,34 +193,6 @@
         <category>Think Piece</category>
         
         <category>Digital Principles</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/aphone.JPG" medium="image" /> 
-        <title>Working in Agriculture? Using Digital Ag Tools? Please Fill Out This Survey!</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://www.usaid.gov/&quot;&gt;U.S. Agency for International Development (USAID)&lt;/a&gt; has worked with Missions to integrate digital tools and technologies into Feed the Future activities since 2015, first through the U.S. Global Development Lab-led &lt;a href=&quot;https://www.usaid.gov/digitalag&quot;&gt;Digital Development for Feed the Future&lt;/a&gt;(D2FTF) initiative and now through the &lt;a href=&quot;https://www.usaid.gov/who-we-are/organization/bureaus/bureau-food-security&quot;&gt;Bureau for Food Security (BFS)&lt;/a&gt; (BFS). BFS works with DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project, a buy-in mechanism that allows Missions to receive digital solutions for resilience and food security assessments as well as program, project, activity design, and implementation support.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/aphone.JPG&quot; alt=&quot;a phone&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Photo credit: CABI&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;As part of this work, DAI-led Digital Frontiers is conducting a &lt;a href=&quot;https://www.surveymonkey.com/r/QSMW65V&quot;&gt;survey of agriculture projects&lt;/a&gt; to understand their experiences using digital tools in their work. These findings will be used to inform BFS’s digital strategy. If you are working on an agriculture project, we are very interested in hearing from you.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Please take 10 minutes to &lt;a href=&quot;https://www.surveymonkey.com/r/QSMW65V&quot;&gt;fill out our survey&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We thank you in advance for taking the time to complete this survey.&lt;/p&gt;
-
-&lt;p&gt;Questions? Please email DigitalFrontiers@dai.com.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Feb 2019 15:57:00 -0500</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/working-in-digital-agriculture-please-full-out-this-survey.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/working-in-digital-agriculture-please-full-out-this-survey.html</guid>
-        
-        <category>Digital Insights</category>
         
         
       </item>
