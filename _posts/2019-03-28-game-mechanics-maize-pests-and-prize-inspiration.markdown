@@ -1,6 +1,7 @@
 ---
 title: Game Mechanics—Great Tool for Designing Digital Development Services
 date: 2019-03-28 08:30:00 -04:00
+published: false
 tags:
 - Innovation
 Author: "[Adam Wills](https://www.linkedin.com/in/adjwills/)"
