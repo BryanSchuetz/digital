@@ -1,6 +1,7 @@
 ---
 title: 'From One Qualie to Another: Insights from Qual360 2019'
 date: 2019-04-02 13:03:00 -04:00
+Author: Rachel Clad
 ---
 
 I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism used to define people who are really into qualitative research. I swear, it’s a thing.
