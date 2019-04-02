@@ -22,7 +22,7 @@ Cue the trend of taking an iterative approach – which seems to be what we mean
 
 ## 2. Discrete, passive data collection yields more accurate – and thus actionable – insights
 
-The Hawthorn effect can be a killer in qualitative research. People make assertions about their behavior in a focus group or on surveys yet act completely differently when observed in the field. This has a direct, often negative impact on the way a tool is developed and its efficacy in changing behavior and quelling various societal ills.
+The Hawthorn effect can be a killer in qualitative research. People make assertions about their behavior in a focus group or on surveys, yet act completely differently when observed in the field. This has a direct, often negative impact on the way a tool is developed and its efficacy in changing behavior and quelling various societal ills.
 
 Market research firms are moving toward passive data collection to overcome this challenge. New tech is springing up to fill this gap – [Adrich](http://www.adrich.io/) and [QualSights](https://www.qualsights.com/) being great examples – allowing users to engage with products and tools in their natural environment without the presence of researchers that make them feel uncomfortable or unnatural. Smartphones and Smart Glasses are being used to record a consumer’s journey throughout the productsphere (it’s possible I just made up that term, although I’m sure someone beat me to it) and provide an opportunity for researchers to ask questions to clarify the motivations behind behavior via text, for example. Amazing.
 
