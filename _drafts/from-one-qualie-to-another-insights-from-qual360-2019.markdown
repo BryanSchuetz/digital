@@ -17,8 +17,6 @@ So yes, I am a qualie. I have been involved in conducting qualitative, ethnograp
 
 Fairly recently, I  transitioned into the world of digital. Sure, I’ve been using digital tools for years to conduct and analyze both qualitative and quantitative research. But this burgeoning field of digital tool development to solve urgent global challenges and the concomitant rise in [internet penetration](https://wearesocial.com/us/blog/2018/01/global-digital-report-2018) and smart phone usage worldwide – [albeit unequally](https://www.pewglobal.org/2019/02/05/smartphone-ownership-is-growing-rapidly-around-the-world-but-not-always-equally/) – more than ever begs the need for qualitative research. Why are some tools taking off while the adoption of others flounders? What do people really want and need – does developing a digital tool for a specific community even make sense, for example? How can we best gather this information? I have so many questions. 
 
-![Qual360Rach.jpg](/uploads/Qual360Rach.jpg)`Picture taken by Rachel Clad at the Qual360 Conference in Washington, D.C.`
-
 I’m also a true believer in the value of thinking outside the box and applying insights from other, parallel fields in problem solving. Naturally, when the opportunity arose to attend the [Qual360 conference](https://qual360.com/) – the leading global conference focusing on qualitative research and insight, predominantly in the market research space (and possibly the originators of the term “qualie”…unclear) – I jumped at the chance. Below are three of the themes that arose over the course of the two days it was held here in DC.
 
 ## 1. Agile research is the name of the game…but does it come at a cost?
@@ -26,6 +24,8 @@ I’m also a true believer in the value of thinking outside the box and applying
 Traditional, more rigorous qualitative research takes time. Yes more and more, companies are looking for quick insights to drive solutions to problems. Research needs to be timely, flexible and adaptive because the problem is not necessarily static and, frankly, time is of the essence. This is absolutely true in international development, where the solutions we design can literally mean life or death and the environment in which they are applied is ever-changing.
 
 Cue the trend of taking an iterative approach – which seems to be what we mean when we say “agile,” although this isn’t always the case. Companies like Expedia have adopted a “1% better philosophy,” where their goal is to make constant, incremental improvements to user experience over time that, at aggregate, lead to significant improvements to a larger problem. They employ the [RITE method](http://uxpamagazine.org/get_it_rite/), for example, to test and evaluate their products. Unsurprisingly, research firms are using smaller and smaller sample sizes to better allow for agility, but I wonder: is there such a thing as too agile? Are we sacrificing research depth and rigor by touting “agile” and does that even matter if we’re getting results? Could we be more iterative as we design tools to solve international development problems, or does the sensitive nature of what we do demand more rigor?
+
+![Qual360Rach.jpg](/uploads/Qual360Rach.jpg)`Picture taken by Rachel Clad at the Qual360 Conference in Washington, D.C.`
 
 ## 2. Discrete, passive data collection yields more accurate – and thus actionable – insights
 
