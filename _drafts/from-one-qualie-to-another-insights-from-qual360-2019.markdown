@@ -9,7 +9,7 @@ social-image: "/uploads/Qual360Rach.jpg"
 thumbnail: "/uploads/Qual360Rach.jpg"
 ---
 
-I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism used to define people who are really into qualitative research. I swear, it’s a thing.
+I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism to define people who are really into qualitative research. I swear, it’s a thing.
 
 So yes, I am a qualie. I have been involved in conducting qualitative, ethnographic research in some way or another throughout the course of my sinuous career. I get jazzed by learning about people’s lived experiences - the barriers they encounter when attempting to improve their health and well being; the things that make changing behavior a snap; all of it. Throw some neuroscience in there to understand what’s happening in the brain and the ways in which emotional responses catalyze behavior change? Yes. Yes please. I am in heaven.
 
