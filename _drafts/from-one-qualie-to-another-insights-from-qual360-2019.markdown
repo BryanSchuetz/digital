@@ -5,6 +5,8 @@ tags:
 - Think Piece
 - Data
 Author: Rachel Clad
+social-image: "/uploads/Qual360Rach.jpg"
+thumbnail: "/uploads/Qual360Rach.jpg"
 ---
 
 I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism used to define people who are really into qualitative research. I swear, it’s a thing.
