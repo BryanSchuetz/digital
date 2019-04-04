@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Apr 2019 08:44:34 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Apr 2019 08:44:34 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2019 08:48:38 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2019 08:48:38 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Qual360Rach.jpg" medium="image" /> 
+        <title>From One Qualie to Another: Insights from Qual360 2019</title>
+        <description>&lt;p&gt;I have a confession to make: I am a bonafide, card-carrying qualie. For those of you who aren’t familiar with this term, it’s a (nerdy) colloquialism to define people who are really into qualitative research. I swear, it’s a thing.&lt;/p&gt;
+
+&lt;p&gt;So yes, I am a qualie. I have been involved in conducting qualitative, ethnographic research in some way or another throughout the course of my sinuous career. I get jazzed by learning about people’s lived experiences—the barriers they encounter when attempting to improve their health and well being; the things that make changing behavior a snap; all of it. Throw some neuroscience in there to understand what’s happening in the brain and the ways in which emotional responses catalyze behavior change? Yes. Yes, please. I am in heaven.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Apr 2019 08:00:00 -0400</pubDate>
+        <author>Rachel Clad
+</author>
+        <link>https://dai-global-digital.com/from-one-qualie-to-another-insights-from-qual360-2019.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/from-one-qualie-to-another-insights-from-qual360-2019.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/adam%20blog%20pic%202-2754dc.png" medium="image" /> 
@@ -172,27 +193,6 @@
         <category>Innovation</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/KarimFI.png" medium="image" /> 
-        <title>The (Missing) Digital Principle: Educate the User</title>
-        <description>&lt;p&gt;We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of &lt;a href=&quot;https://lindaraftree.com/2017/02/06/responsible-data-case-studies/&quot;&gt;consent around data collection&lt;/a&gt;. There’s an &lt;a href=&quot;https://digitalprinciples.org/principle/address-privacy-security&quot;&gt;entire digital principle&lt;/a&gt; about it.&lt;/p&gt;
-
-&lt;p&gt;In discussions like these, privacy and security are framed entirely in terms of the paradigm of extraction—collecting and gathering data &lt;em&gt;from end users&lt;/em&gt; to organizations. This is an entirely valid and important discussion to continue having. However, there’s a discussion we’re not having that’s arguably even more important, and that’s around the privacy and security of users.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Feb 2019 09:00:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/kristen-roggemann/">Kristen Roggemann</a> &amp; <a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a>
-</author>
-        <link>https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>Digital Principles</category>
         
         
       </item>
