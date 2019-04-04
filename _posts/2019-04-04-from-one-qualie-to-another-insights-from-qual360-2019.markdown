@@ -1,6 +1,6 @@
 ---
 title: 'From One Qualie to Another: Insights from Qual360 2019'
-date: 2019-04-04 09:00:00 -04:00
+date: 2019-04-04 08:00:00 -04:00
 tags:
 - Think Piece
 - Data
