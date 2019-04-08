@@ -12,7 +12,7 @@ Here at the Center for Digital Acceleration (CDA), we believe in the power of et
 * Build ownership of the solution among the population of interest; and...
 * Enlist those who participate as promoters of the solution among both their personal and professional networks. 
 
-<--!more-->
+<!--more-->
  
 With those benefits in mind, CDA developed the [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) (FI) methodology to help us build our understanding and engagement of the marginalized populations in the places we work, be they age/gender-defined, hyper-local, or both. FI is a type of formative user research that borrows from traditional qualitative and quantitative research approaches. For CDA, FI is one of the most important research tools in our toolbox because we often work with populations we aren’t already familiar with who live in rural areas far from communications infrastructure. The information and communications profile of communities changes from one week to the next as mobile network operators build out their cell towers networks and capture new customers with deals on data and budget smartphones. 
 
