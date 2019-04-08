@@ -1,6 +1,9 @@
 ---
 title: 5 Tips for Doing International Design Research
 date: 2019-04-11 08:00:00 -04:00
+tags:
+- Digital Insights
+- Human-centered design
 Author: Adam Fivenson
 social-image: "/uploads/CambodiaDI_Adam.jpg"
 thumbnail: "/uploads/CambodiaDI_Adam.jpg"
