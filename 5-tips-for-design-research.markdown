@@ -5,6 +5,7 @@ published: false
 ---
 
 Here at the Center for Digital Acceleration (CDA), we use ethnographic design research when we create digital tools to help marginalized people and institutions around the globe. Why? It is our experience that by working closely with those we seek to help throughout the design and development process, we:
+
 * Define the problem in their terms, not ours; 
 * Learn of and about previous attempts to solve the problem; 
 * Develop our understanding of local culture and history, as well as how people seek and share information and use mobile technology so we can meet them where they are;
@@ -12,7 +13,7 @@ Here at the Center for Digital Acceleration (CDA), we use ethnographic design re
 * Build ownership of the solution among the population of interest; and...
 * Enlist those who participate as promoters of the solution among both their personal and professional networks. 
 
-![New1.jpg](/uploads/New1.jpg)`Teaching Design Research in Cambodia`
+![New1.jpg](/uploads/New1.jpg)`The author teaching design research in Cambodia`
 
 <!--more-->
  
