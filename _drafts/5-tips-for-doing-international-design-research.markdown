@@ -28,7 +28,7 @@ With those benefits in mind, CDA developed the [Frontier Insights](https://dai-g
 
 I was lucky to have the opportunity to teach formative user research to a cohort of Cambodian innovators this past September in Phnom Penh with the [USAID Development Innovations project](https://www.dai.com/our-work/projects/cambodia-development-innovations), which works with local entrepreneurs and civil society to [build a culture of innovation](https://dai-global-digital.com/cambodia.html), particularly among young Cambodians (check out their new [Clean Energy Pre-Incubation Program](https://energylab.asia/cepreincubation)). From the perspective of an entrepreneur or civil society advocate in Cambodia, formative user research has a slightly different focus. Since the subjects of their research—other Cambodians—are all around them, their task is to find a way to challenge their assumptions about the world to generate new insights and approaches to solving age-old social, economic, and political challenges.
 
-![new3.jpg](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/new3.jpg?download)`Teaching design research in Cambodia`
+![CambodiaDI_Adam.jpg](/uploads/CambodiaDI_Adam.jpg)`Teaching design research in Cambodia`
 
 While the full course lasted three days and included significant experiential learning, there are a few points about conducting user research that I consider fundamental and that everyone should know when they head to the field. Here they are:
 
