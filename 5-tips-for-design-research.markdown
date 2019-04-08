@@ -1,5 +1,5 @@
 ---
-title: 5 Quick Tips for Doing Design Research
+title: 5 Tips for Doing Design Research
 date: 2019-04-08 10:17:00 -04:00
 published: false
 ---
