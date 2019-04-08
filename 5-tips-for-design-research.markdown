@@ -30,3 +30,4 @@ While the full course lasted three days and included significant experiential le
 
 5. *Download ASAP.* We generally record on paper, which we find better for qualitative, open-answer questions than trying to type long responses quickly into a phone or tablet. Working with paper does create some additional risks though, in particular the fact that can get lost, spilled on, or otherwise destroyed, so we encourage our enumerators to enter their paper data into our database as quickly as possible after data collection finishes; preferably at the end of each day. This way we ensure that the data we’ve worked so hard to collect is safe, secure, and ready for cleaning and analysis. 
 
+**For more on our design and digital innovation work, subscribe to [Digital@DAI](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98)**
