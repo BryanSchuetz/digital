@@ -1,7 +1,9 @@
 ---
 title: 5 Tips for Doing International Design Research
-date: 2019-04-08 14:29:00 -04:00
+date: 2019-04-11 08:00:00 -04:00
 Author: Adam Fivenson
+social-image: "/uploads/CambodiaDI_Adam.jpg"
+thumbnail: "/uploads/CambodiaDI_Adam.jpg"
 ---
 
 Here at the Center for Digital Acceleration (CDA), we use ethnographic design research when we create digital tools to help marginalized people and institutions around the globe. Why? It is our experience that by working closely with those we seek to help throughout the design and development process, we:
