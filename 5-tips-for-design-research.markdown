@@ -13,7 +13,7 @@ Here at the Center for Digital Acceleration (CDA), we use ethnographic design re
 * Build ownership of the solution among the population of interest; and...
 * Enlist those who participate as promoters of the solution among both their personal and professional networks. 
 
-![New1.jpg](/uploads/New1.jpg)`The author teaching design research in Cambodia`
+![New1.jpg](/uploads/New1.jpg)`The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project`
 
 <!--more-->
  
