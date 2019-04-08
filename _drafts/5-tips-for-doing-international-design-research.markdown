@@ -20,7 +20,7 @@ At the Center for Digital Acceleration (CDA), we use ethnographic design researc
 
 * Enlist those who participate as promoters of the solution among both their personal and professional networks.
 
-![New1.jpg](/api/v2/sites/568d4cf73aaede128400000b/source/_uploads/New1.jpg?download)`The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project`
+![New1.jpg](/uploads/New1.jpg)`The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project`
 
 <!--more-->
 
