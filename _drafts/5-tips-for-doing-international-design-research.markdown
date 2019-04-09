@@ -6,7 +6,7 @@ social-image: "/uploads/CambodiaDI_Adam.jpg"
 thumbnail: "/uploads/CambodiaDI_Adam.jpg"
 ---
 
-At the Center for Digital Acceleration (CDA), we use ethnographic design research when we create digital tools to help marginalized people and institutions around the globe. Why? It is our experience that by working closely with those we seek to help throughout the design and development process, we:
+At DAI’s Center for Digital Acceleration (CDA), we use ethnographic design research when we create digital tools to help marginalized people and institutions around the globe. Why? It is our experience that by working closely with those we seek to help throughout the design and development process, we:
 
 * Define the problem in their terms, not ours;
 
