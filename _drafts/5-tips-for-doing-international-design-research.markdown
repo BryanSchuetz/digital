@@ -25,7 +25,7 @@ I was lucky to have the opportunity to teach formative user research to a group 
 
 ![CambodiaDI_Adam.jpg](/uploads/CambodiaDI_Adam.jpg)`Teaching design research in Cambodia.`
 
-While the full course lasted three days and included significant experiential learning, there are a few points about conducting user research that I consider fundamental and that everyone should know when they head to the field. They are:
+While the full course lasted three days and included significant experiential learning, there are a few points about conducting user research that I consider fundamental and that everyone should know when they head to the field. They include:
 
 1. *Get access.* Think through who you need to talk to, how you can access that population, and whether it’s better for you to carry out your interviews in the street or whether you’ll need a local partner to convene people for you. Either approach makes sense depending on the circumstances and expectations. This also ties back to the sampling method; since we do design-oriented research we aren’t as worried about statistical significance (we’ll be re-validating our problem definition and solution throughout the entire process) but we do want a sample that includes diversity in the form of a broad swathe of ages, an even gender split, and people from different corners of the geographic area to increase the likelihood that our data are representative.
 
