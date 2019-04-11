@@ -5,9 +5,39 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 08:53:01 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 08:53:01 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 09:01:20 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 09:01:20 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/CambodiaDI_Adam.jpg" medium="image" /> 
+        <title>5 Tips for Doing International Design Research</title>
+        <description>&lt;p&gt;At DAI’s Center for Digital Acceleration (CDA), we use ethnographic design research when we create digital tools to help marginalized people and institutions around the globe. Why? By working closely with those we seek to help throughout the design and development process, we:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Define the problem in their terms, not ours;&lt;/li&gt;
+  &lt;li&gt;Learn of, and about, previous attempts to solve the problem;&lt;/li&gt;
+  &lt;li&gt;Develop our understanding of local culture and history, as well as how people seek and share information and use mobile technology so we can meet them where they are;&lt;/li&gt;
+  &lt;li&gt;Mitigate the risks inherent to spending limited resources developing software or building digital tools, given the costs of doing so;&lt;/li&gt;
+  &lt;li&gt;Build ownership of the solution among the population; and…&lt;/li&gt;
+  &lt;li&gt;Enlist those who participate as promoters of the solution among their personal and professional networks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/New1.jpg&quot; alt=&quot;New1.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;The author teaching design research in Phnom Penh with the Cambodia Development Innovations project.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 -0400</pubDate>
+        <author>Adam Fivenson
+</author>
+        <link>https://dai-global-digital.com/5-tips-for-doing-international-design-research.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/5-tips-for-doing-international-design-research.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>Digital Insights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Qual360Rach.jpg" medium="image" /> 
@@ -174,25 +204,6 @@
         <category>Cybersecurity</category>
         
         <category>Machine Learning</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FAW.png" medium="image" /> 
-        <title>Lessons from the Fall Armyworm Tech Prize: The Importance of Ensuring Goals Align</title>
-        <description>&lt;p&gt;One of the attractions of awarding prizes in global development is that the prize sponsor shifts the responsibility of achieving results onto competitors. While this approach can inspire a range of creative solutions and spur a nascent market, it also means many finalists will develop something valuable whether they win the award or not. For a prize to be valuable to both sponsors and competitors, sponsors must clearly communicate prize objectives so that competitors have the best chance at success and can assess whether devoting resources to achieve those objectives makes sense for them, win or lose.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 19 Feb 2019 09:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/meredith-beth-perry-01882236/">Meredith Perry</a>
-</author>
-        <link>https://dai-global-digital.com/lessons-from-the-fall-armyworm-tech-prize-the-importance-of-ensuring-goals-align.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/lessons-from-the-fall-armyworm-tech-prize-the-importance-of-ensuring-goals-align.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
