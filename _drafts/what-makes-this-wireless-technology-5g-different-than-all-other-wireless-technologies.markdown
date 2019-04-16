@@ -22,7 +22,7 @@ Why? Over the last few years, three models of internet governance have come to d
 
 **(3) The Chinese** model, which puts the state at its center and sees internet governance as an extension of government control.
 
-The concern for the security community is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
+The concern for the [security community](https://www.atlanticcouncil.org/images/acevents/BrentScowcroftCenter/Strategic_Insights_Memo_vF_2.11.pdf) is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
 
 ![Connect.jpg](/uploads/Connect.jpg)
 
