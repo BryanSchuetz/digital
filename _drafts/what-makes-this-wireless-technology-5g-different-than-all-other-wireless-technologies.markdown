@@ -16,9 +16,9 @@ Why? Over the last few years, three models of internet governance have come to d
 
 The concern for the security community is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
 
-![Earth, Globalisation, Network, Worldwide, Global, Globe](file:///C:/Users/GNurko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg) \`Global connectivity. Picture shared by TheDigitalArtist on Pixabay.com.\`
+![Earth, Globalisation, Network, Worldwide, Global, Globe](file:///C:/Users/GNurko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)`Global connectivity. Picture shared by TheDigitalArtist on Pixabay.com.`
 
-**What is 5G?**
+## What is 5G?
 
 5G is fifth-generation wireless technology (i.e. what comes after 4G). Those who have experienced several versions of wireless technology can attest that with each new generation there are significant improvements, including reduced lag time. 5G will be another update to wireless technology, yet this upgrade is expected to be significantly different than all previous upgrades. How?
 
@@ -30,7 +30,7 @@ The concern for the security community is that with the deployment of 5G the bal
 
 Put simply, 5G is set to change the way we work, communicate, make decisions, commute, and participate in the economy. Some even [believe](http://www.politico.com/sponsor-content/2018/11/5g-explained) that it’s deployment will be as transformational as the rollout of electric grid.
 
-**What does this mean for the digital development community?**
+## What does this mean for the digital development community?
 
 5G has enormous potential to unlock economic opportunity and access to digital services for underserved or unserved populations. Therefore, it has the potential to enable the digital development community to deliver on our goal of bridging the digital divide. At the same time, it poses a serious challenge.
 
