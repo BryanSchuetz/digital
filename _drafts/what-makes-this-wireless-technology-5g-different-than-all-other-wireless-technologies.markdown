@@ -6,6 +6,8 @@ date: 2019-04-16 14:26:00 -04:00
 
 When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population has come online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G.
 
+<!--more-->
+
 Why? Over the last few years, three models of internet governance have come to dominate how users interact with the Internet:
 
 **(1) The U.S. **model, which puts the market at its center, by promoting an open, interoperable, and secure internet.
