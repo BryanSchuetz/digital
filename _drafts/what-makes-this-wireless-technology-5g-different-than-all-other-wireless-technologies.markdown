@@ -1,7 +1,13 @@
 ---
 title: What Makes This Wireless Technology (5G) Different Than All Other Wireless
   Technologies?
-date: 2019-04-16 14:26:00 -04:00
+date: 2019-04-18 09:00:00 -04:00
+tags:
+- Think Piece
+- Innovation
+Author: Galia
+social-image: "/uploads/Connect.jpg"
+thumbnail: "/uploads/Connect.jpg"
 ---
 
 When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population has come online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G.
