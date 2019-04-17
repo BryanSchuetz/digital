@@ -16,11 +16,9 @@ When thinking about the internet in an ideal world, I often think of an independ
 
 Why? Over the last few years, three models of internet governance have come to dominate how users interact with the Internet:
 
-**(1) The U.S.** model, which puts the market at its center, by promoting an open, interoperable, and secure internet.
-
-**(2) The European** model, which puts the individual user at its center, by promoting social good, such as combatting inequality and protecting individual privacy. The [General Data Protection Regulation (GDPR)](https://eugdpr.org/) reflects these values.
-
-**(3) The Chinese** model, which puts the state at its center and sees internet governance as an extension of government control.
+1. **The U.S.** model, which puts the market at its center, by promoting an open, interoperable, and secure internet.
+2. **The European** model, which puts the individual user at its center, by promoting social good, such as combatting inequality and protecting individual privacy. The [General Data Protection Regulation (GDPR)](https://eugdpr.org/) reflects these values.
+3. **The Chinese** model, which puts the state at its center and sees internet governance as an extension of government control.
 
 The concern for the [security community](https://www.atlanticcouncil.org/images/acevents/BrentScowcroftCenter/Strategic_Insights_Memo_vF_2.11.pdf) is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
 
