@@ -18,7 +18,7 @@ Why? Over the last few years, three models of internet governance have come to d
 
 **(1) The U.S.** model, which puts the market at its center, by promoting an open, interoperable, and secure internet.
 
-**(2) The European** model, which puts the individual user at its center, by promoting social good, such as combatting inequality and protecting individual privacy. GDPR reflects these values.
+**(2) The European** model, which puts the individual user at its center, by promoting social good, such as combatting inequality and protecting individual privacy. The [General Data Protection Regulation (GDPR)](https://eugdpr.org/) reflects these values.
 
 **(3) The Chinese** model, which puts the state at its center and sees internet governance as an extension of government control.
 
