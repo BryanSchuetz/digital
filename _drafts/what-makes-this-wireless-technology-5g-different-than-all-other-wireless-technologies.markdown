@@ -1,5 +1,5 @@
 ---
-title: What Makes This Wireless Technology (5G) Different Than All Other Wireless
+title: What Makes This Wireless Technology (5G) Different From All Other Wireless
   Technologies?
 date: 2019-04-18 09:00:00 -04:00
 tags:
