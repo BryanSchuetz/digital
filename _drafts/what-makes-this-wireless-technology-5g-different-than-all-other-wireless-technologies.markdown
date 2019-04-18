@@ -17,7 +17,9 @@ When thinking about the internet in an ideal world, I often think of an independ
 Why? Over the last few years, three models of internet governance have come to dominate how users interact with the Internet:
 
 1. **The U.S.** model, which puts the market at its center, by promoting an open, interoperable, and secure internet.
+
 2. **The European** model, which puts the individual user at its center, by promoting social good, such as combatting inequality and protecting individual privacy. The [General Data Protection Regulation (GDPR)](https://eugdpr.org/) reflects these values.
+
 3. **The Chinese** model, which puts the state at its center and sees internet governance as an extension of government control.
 
 The concern for the [security community](https://www.atlanticcouncil.org/images/acevents/BrentScowcroftCenter/Strategic_Insights_Memo_vF_2.11.pdf) is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
@@ -31,10 +33,12 @@ The concern for the [security community](https://www.atlanticcouncil.org/images/
 5G is fifth-generation wireless technology (i.e., what comes after 4G). Those who have experienced several versions of wireless technology can attest that with each new generation there are significant improvements, including reduced lag time. 5G will be another update to wireless technology, yet this upgrade is expected to be significantly different from all previous upgrades. How?
 
 * 5G is 100 times faster than 4G.
+
 * 5G operates wirelessly, and over time could reduce the need for fiber-optic cables in cities.
+
 * 5G will enable the Internet of Things (IOT) and smart cities, by establishing the technological backbone for all connected devices to communicate with each other in near real-time.
 
-Put simply, 5G is set to change the way we work, communicate, make decisions, commute, and participate in the economy. Some even [believe](http://www.politico.com/sponsor-content/2018/11/5g-explained) that it’s deployment will be as transformational as the rollout of the electric grid.
+Put simply, 5G is set to change our way of life. It will likely change the way we work, communicate, make decisions, commute, and participate in the economy. Some even [believe](http://www.politico.com/sponsor-content/2018/11/5g-explained) that it’s deployment will be as transformational as the rollout of the electric grid.
 
 ## What does this mean for the digital development community?
 
