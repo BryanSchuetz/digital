@@ -38,7 +38,7 @@ The concern for the [security community](https://www.atlanticcouncil.org/images/
 
 * 5G will enable the Internet of Things (IOT) and smart cities, by establishing the technological backbone for all connected devices to communicate with each other in near real-time.
 
-Put simply, 5G is set to change our way of life. It will likely change the way we work, communicate, make decisions, commute, and participate in the economy. Some even [believe](http://www.politico.com/sponsor-content/2018/11/5g-explained) that it’s deployment will be as transformational as the rollout of the electric grid.
+Put simply, 5G is set to change our way of life. It will likely change the way we work, communicate, make decisions, commute, and participate in the economy. Some even [believe](http://www.politico.com/sponsor-content/2018/11/5g-explained) that its deployment will be as transformational as the rollout of the electric grid.
 
 ## What does this mean for the digital development community?
 
