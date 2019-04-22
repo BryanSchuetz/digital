@@ -24,9 +24,7 @@ Why? Over the last few years, three models of internet governance have come to d
 
 The concern for the [security community](https://www.atlanticcouncil.org/images/acevents/BrentScowcroftCenter/Strategic_Insights_Memo_vF_2.11.pdf) is that with the deployment of 5G the balance between these three governance models could tip the scale to favor one model over others. This is because at its foundation, 5G is different than all previous versions of wireless technology.
 
-![Connect.jpg](/uploads/Connect.jpg)
-
-`Global connectivity. Picture shared by TheDigitalArtist on Pixabay.com.`
+![Connect.jpg](/uploads/Connect.jpg)`Global connectivity. Picture shared by TheDigitalArtist on Pixabay.com.`
 
 ## What is 5G?
 
