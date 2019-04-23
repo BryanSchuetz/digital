@@ -19,6 +19,9 @@ There is an assumption that if only we could get people to sign up for a Digital
 While it is true that there are benefits to formalising an identity (digitally or otherwise), historically a formal identity has just as often been used to persecute as to benefit: it can both give and take away. In this blog we consider: even if people give consent, how can we be sure that their digital identity will work for them in light of the political climate in which they live?
 
 <!--more-->
+
+## The Risks of Digital Identity 
+
 The USAID Identity in a Digital Age report recognises that Digital ID sits as the interface between the power and prerogatives of institutions and the rights and needs of individuals. A digital identity system – specifically a centralised system - poses risks in terms of a) data security and b) centralised control.
 
 
