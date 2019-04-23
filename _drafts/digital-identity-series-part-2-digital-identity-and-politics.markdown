@@ -6,7 +6,7 @@ tags:
 - Data
 - Cybersecurity
 Author: Chloe Messenger
-social-image: "/uploads/Digital%20ID1-f9d110.jpg"
+social-image: "/uploads/Digital%20ID%20small-1.jpg"
 ---
 
 ![Digital ID1.jpg](/uploads/Digital%20ID1.jpg){:.float-left} Welcome back to the Digital Identity series here on Digital@DAI. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
