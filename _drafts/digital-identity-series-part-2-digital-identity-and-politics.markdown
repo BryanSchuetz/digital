@@ -13,7 +13,7 @@ social-image: "/uploads/Digital%20ID%20small-1.jpg"
 
 Let’s start with a recognition that a formal identity is often a starting point for inclusion: without it, a person may not be able to access services such as health care, banking or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine.
 
-There is an assumption that if only we can get people to sign up for a Digital ID, then they can reap the benefits, whether this be social cash transfer, participation in a humanitarian programme, or a formal government identity that leads to other benefits. In the first blog of the series we discussed informed consent - that people have the right to not only choose whether they want to have Digital ID, but to choose whether and how their data is collected, stored and used.
+There is an assumption that if only we can get people to sign up for a Digital ID, then they can reap the benefits, whether this be social cash transfer, participation in a humanitarian programme, or a formal government identity that leads to other benefits. In the first blog of the series we discussed informed consent - that people have the right to not only choose whether they want to have Digital ID, but to choose whether and how their data is collected, stored, and used.
 While it is true that there are benefits to formalising an identity (digitally or otherwise), historically a formal identity has just as often been used to persecute as to benefit: it can both give and take away. In this blog we consider: even if people give consent, how can we be sure that their digital identity will work for them in light of the political climate in which they live?
 
 <!--more-->
