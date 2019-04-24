@@ -34,9 +34,9 @@ When the government has a central role in generating and managing formal identit
 
 Amid risks of data insecurity and persecution, how can we ensure that digital identity systems are considerate of the political climate and not putting populations at risk?
 
-## 1. Understand the political ecosystem
+## 1. Understand Political Ecosystem
 
-As with any development programme, having a deep understanding of the local context is vital. By understanding the political context, you can ensure your system – particularly if it will be a national ID – has wider political and citizen support. The new Malawi National ID was supported by different Ministries, and so has been linked up to the revenue authority, national voting register, reserve bank, Ministry of Justice and others. There is strong sense of what the identity is for, as well as what it can achieve: seen to be promoting good governance and reducing corruption, which is perceived to a problem in Malawi; as well as solving the widespread issue of ghost workers.
+As with any development program, having a deep understanding of the local context is vital. By understanding the political context, you can ensure your system – particularly if it will be a national ID – has wider political and citizen support. The new Malawi National ID was supported by different Ministries, and so has been linked up to the revenue authority, national voting register, reserve bank, Ministry of Justice and others. There is strong sense of what the identity is for, as well as what it can achieve: seen to be promoting good governance and reducing corruption, which is perceived to a problem in Malawi; as well as solving the widespread issue of ghost workers.
 
 Understanding the ecosystem also extends to being cognizant of where digital identity may and may not help – for instance where making refugees, ethnicity or health status identifiable by the state may hinder progress. Understanding national and local tensions and citizen perception/fears/concerns can help us delineate the limits of data collection or access to the data.
 
