@@ -9,37 +9,30 @@ Author: Chloe Messenger
 social-image: "/uploads/Digital%20ID%20small-1.jpg"
 ---
 
-![Digital ID1.jpg](/uploads/Digital%20ID1.jpg){:.float-left} Welcome back to the Digital Identity series here on Digital@DAI. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
-
+![Digital ID1.jpg](/uploads/Digital%20ID1.jpg){:.float-left} Welcome back to the Digital Identity series here on [Digital@DAI.](https://dai-global-digital.com/) This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
 
 Let’s start with a recognition that a formal identity is often a starting point for inclusion: without it, a person may not be able to access services such as health care, banking or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water and medicine.
-
 
 There is an assumption that if only we could get people to sign up for a Digital ID, then they can reap the benefits, whether this be social cash transfer, participation in a humanitarian programme, or a formal government identity that leads to other benefits. In the first blog of the series we discussed informed consent - that people have the right to not only choose whether they want to have Digital ID, but to choose whether and how their data is collected, stored and used.
 While it is true that there are benefits to formalising an identity (digitally or otherwise), historically a formal identity has just as often been used to persecute as to benefit: it can both give and take away. In this blog we consider: even if people give consent, how can we be sure that their digital identity will work for them in light of the political climate in which they live?
 
 <!--more-->
 
-## The Risks of Digital Identity 
+## The Risks of Digital Identity
 
 The USAID Identity in a Digital Age report recognises that Digital ID sits as the interface between the power and prerogatives of institutions and the rights and needs of individuals. A digital identity system – specifically a centralised system - poses risks in terms of a) data security and b) centralised control.
 
-
 The WEF Digital Identity paper recognises that centralised digital identity systems are attractive targets to hackers, due to the wide-ranging types of data and the sheer scale. In India, the Aadhar system ID is to be used for a plethora of services, from welfare benefits to banking, and as such the risk of profiling is increased and individuals are more vulnerable to identity theft. There have to date been hundreds of cases of identity theft related to the system.
-
 
 However, the main fear with centralised digital identity systems – particularly in undemocratic or transitioning countries, or for populations that are at risk of persecution -  digital identity systems give owners power that, if unchecked, leaves the door open for abuses such as surveillance, tracking and profiling; exclusion and discrimination. In January 2019, Kenya Parliament passed an amendment to the National ID law, making it a requirement that all Kenyan nationals, immigrants and refugees to turn over their DNA, GPS coordinates of their residence, retina scans, iris pattern, voice waves and earlobe geometry before they are issued identity documents. As it is a centralised system, this data will be entirely held by the GoK and so – in the right (read: wrong) political climate, the opportunity and temptation are there to use this data to monitor the population, even to identify a person’s ethnicity (e.g. using DNA) or status as a refugee (based on GPS location) as a basis for political repression. The Government of Kenya has opened the door- giving itself the data it needs to monitor its people - but has not yet collected all this data. An extreme case where a significant amount of data has been collected from individuals and used for surveillance is in China, where biometric data is being combined with AI to monitor and persecute the Muslim Uighur population.
 
-
 When the government has a central role in generating and managing formal identity, it also gives them a power over their citizens to give or take away identity. A formal national ID can divide or unify a country and can take away identity from those not recognised. For instance, in Afghanistan the e-Tazkera biometric ID card caused controversy and fuelled ethnic tension due to its sole recognition of certain ethnic groups. The ID card contained the ethnicity “Afghan”, which many believe is synonymous with Pashtun, one of the country's several ethnic groups who make up around 40% of the population. It was rejected by many of the other ethnic groups in Afghanistan who did not want to identify as “Afghan”. Rollout has been stalled amid ethnic tensions- seemingly for good.
-
 
 Amid risks of data insecurity and persecution, how can we ensure that digital identity systems are considerate of the political climate and not putting populations at risk?
 
 ## 1. Understand the political ecosystem
 
 As with any development programme, having a deep understanding of the local context is vital. By understanding the political context, you can ensure your system – particularly if it will be a national ID – has wider political and citizen support. The new Malawi National ID was supported by different Ministries, and so has been linked up to the revenue authority, national voting register, reserve bank, Ministry of Justice and others. There is strong sense of what the identity is for, as well as what it can achieve: seen to be promoting good governance and reducing corruption, which is perceived to a problem in Malawi; as well as solving the widespread issue of ghost workers.
-
 
 Understanding the ecosystem also extends to being cognisant of where digital identity may and may not help – for instance where making refugees, ethnicity or health status identifiable by the state may hinder progress. Understanding national and local tensions and citizen perception/fears/concerns can help us delineate the limits of data collection or access to the data.
 
