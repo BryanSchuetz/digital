@@ -1,12 +1,13 @@
 ---
 title: 'Digital Identity Series Part 2: Digital Identity and Politics'
-date: 2019-04-23 07:06:00 -04:00
+date: 2019-04-25 08:00:00 -04:00
 tags:
 - Digital Identity Series
 - Data
 - Cybersecurity
 Author: Chloe Messenger
 social-image: "/uploads/Digital%20ID%20small-1.jpg"
+thumbnail: "/uploads/Digital%20ID%20small-1.jpg"
 ---
 
 ![Digital ID1.jpg](/uploads/Digital%20ID1.jpg){:.float-left} Welcome back to the Digital Identity series here on [Digital@DAI.](https://dai-global-digital.com/) This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
@@ -26,7 +27,7 @@ The WEF Digital Identity paper recognises that centralised digital identity syst
 
 However, the main fear with centralised digital identity systems – particularly in undemocratic or transitioning countries, or for populations that are at risk of persecution -  is that they give owners power that, if unchecked, leaves the door open for abuses such as surveillance, tracking, and profiling. In other words, tools to exclude and discriminate. Kenya can provide an interesting case study. In January 2019, Kenyan Parliament passed an amendment to the National ID law, requiring  all Kenyan nationals, immigrants, and refugees turn over their DNA, GPS coordinates of their residence, retina scans, iris pattern, voice waves, and earlobe geometry before being issued identity documents. As it is a centralised system, this data will be entirely held by the Government of Kenya (GoK) and so – in the right (read: wrong) political climate, the opportunity and temptation to use this data to monitor the population by ethnicity (e.g. using DNA) or status as a refugee (based on GPS location) could be used as a tool for political repression. The GoK has opened the door- giving itself the data it needs to monitor its people - but has not yet collected all this data. An extreme case where a significant amount of data has been collected from individuals and used for surveillance is in China, where biometric data is being combined with AI to monitor and persecute the Muslim Uighur population.
 
-When the government has a central role in generating and managing formal identity, it also gives them a power over their citizens to give or take away identity. A formal national ID can divide or unify a country and can take away identity from those not recognised. For instance, in Afghanistan the e-Tazkera biometric ID card caused controversy and fuelled ethnic tension due to its sole recognition of certain ethnic groups. The ID card contained the ethnicity “Afghan”, which many believe is synonymous with Pashtun, one of the country's several ethnic groups who make up around 40% of the population. It was rejected by many of the other ethnic groups in Afghanistan who did not want to identify as “Afghan”. Rollout has been stalled amid ethnic tensions- seemingly for good.
+When the government has a central role in generating and managing formal identity, it also gives them a power over their citizens to give or take away identity. A formal national ID can divide or unify a country and can take away identity from those not recognised. For instance, in Afghanistan the e-Tazkera biometric ID card caused controversy and fueled ethnic tension due to its sole recognition of certain ethnic groups. The ID card contained the ethnicity “Afghan”, which many believe is synonymous with Pashtun, one of the country's several ethnic groups who make up around 40% of the population. It was rejected by many of the other ethnic groups in Afghanistan who did not want to identify as “Afghan”. Rollout has been stalled amid ethnic tensions- seemingly for good.
 
 Amid risks of data insecurity and persecution, how can we ensure that digital identity systems are considerate of the political climate and not putting populations at risk?
 
@@ -38,7 +39,7 @@ Understanding the ecosystem also extends to being cognisant of where digital ide
 
 ## 2. Only collect information that is absolutely required
 
-This links back to the topic of informed consent: data should only be shared when consistent with the initial purpose or context under which the person consented to its use. This is also known as contextual integrity. For instance, information on someone’s HIV status shouldn’t be necessary for the purposes of election data. In the case of the e-Tazkera ID, ethnicity wasn’t a requirement for what the National ID was to be used for. In Kenya the change in rules to allow the GoK to collect such a variety of biometric and identifying information is gaining backlash, as it is not clear what it will be used for and why such comprehensive data is necessary.
+This links back to the topic of informed consent: data should only be shared when consistent with the initial purpose or context under which the person consented to its use. This is also known as contextual integrity. For instance, information on someone’s HIV status shouldn’t be necessary for the purposes of election data. In the case of the e-Tazkera ID, ethnicity wasn’t a requirement for what the National ID was to be used for. In Kenya the change in rules allowing the GoK to collect  a variety of biometric and identifying information is gaining backlash, as it is not clear what it will be used for and why such comprehensive data is necessary.
 
 ## 3.   Provide appropriate layers of protection
 
