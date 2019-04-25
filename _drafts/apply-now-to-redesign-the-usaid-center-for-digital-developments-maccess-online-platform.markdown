@@ -1,7 +1,7 @@
 ---
 title: Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online
   Platform
-date: 2019-04-25 15:06:00 -04:00
+date: 2019-04-26 09:00:00 -04:00
 Author: "[Diego Valencia](https://www.linkedin.com/in/diegovalencia/)"
 social-image: "/uploads/Map%20picture.png"
 thumbnail: "/uploads/Map%20picture.png"
