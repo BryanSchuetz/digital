@@ -9,7 +9,7 @@ A digital ecosystem is the how and why users interact with government services, 
 
 <!--more-->
 
-Today, Digital Frontiers releases a request for proposals (RFP) to redesign and administer the mAccess online platform diagnostic tool to increase its use and value within USAID. Staff from USAID’s CDD team and Digital Frontiers will work closely with the selected contractor to design and implement a redesigned mAccess online platform. The contractor will lead the redesign process including: visioning, redesign and testing, website hosting, administration, and support with input and approval of USAID and Digital Frontiers. DAI anticipates awarding this opportunity as time and materials or cost reimbursable contract.![Map picture.png](/uploads/Map%20picture.png)
+Today, Digital Frontiers releases a request for proposals (RFP) to redesign and administer the mAccess online platform diagnostic tool to increase its use and value within USAID. Staff from USAID’s CDD team and Digital Frontiers will work closely with the selected contractor to design and implement a redesigned mAccess online platform. The contractor will lead the redesign process including: visioning, redesign and testing, website hosting, administration, and support with input and approval of USAID and Digital Frontiers. DAI anticipates awarding this opportunity as time and materials or cost reimbursable contract.![Map picture.png](/uploads/Map%20picture.png)`30-Second Guide to the mACCESS Diagnostic Tool`
 
 ## Who Should Apply?
 
