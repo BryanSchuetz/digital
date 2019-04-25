@@ -32,4 +32,4 @@ We are looking for qualified organizations with the following experience:
 
 To access the RFP and get more information on qualifications and how to apply, click [here](https://drive.google.com/file/d/1CVAzUpAB4uXIsUNyG_eP72yHQlicjnxP/view?usp=sharing). 
 
-Proposals are due **May 15 at 5:30pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for proposals are due **May 2, by 12pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email [DigitalFrontiers@dai.com ](mailto:DigitalFrontiers@dai.com)
+Proposals are due **May 15 at 5:30pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for proposals are due **May 2 by 12pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email [DigitalFrontiers@dai.com ](mailto:DigitalFrontiers@dai.com)
