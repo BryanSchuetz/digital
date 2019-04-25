@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Apr 2019 08:51:31 -0400</pubDate>
-    <lastBuildDate>Thu, 25 Apr 2019 08:51:31 -0400</lastBuildDate>
+    <pubDate>Thu, 25 Apr 2019 08:53:24 -0400</pubDate>
+    <lastBuildDate>Thu, 25 Apr 2019 08:53:24 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Digital%20ID%20small-1.jpg" medium="image" /> 
+        <title>Digital Identity Series Part 2: Digital Identity and Politics</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Digital%20ID1.jpg&quot; alt=&quot;Digital ID1.jpg&quot; class=&quot;float-left&quot; /&gt; Welcome back to the Digital Identity series. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.&lt;/p&gt;
+
+&lt;p&gt;Let’s start with the recognition that a formal identity is often a starting point for inclusion—without it, a person may not be able to access services such as health care, banking, or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Apr 2019 08:00:00 -0400</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html</guid>
+        
+        <category>Digital Identity Series</category>
+        
+        <category>Data</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Connect.jpg" medium="image" /> 
@@ -185,23 +208,6 @@
         <category>Innovation</category>
         
         <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/3%20USAID%20Development%20Innovations%20project.JPG" medium="image" /> 
-        <title>Building a Culture of Innovation in Cambodia</title>
-        <description>&lt;p&gt;Many in international development want to be “innovative,” but how do workplaces develop cultures that promote useful innovation? The U.S. Agency for International Development (USAID) launched Development Innovations (DI) in 2013 to help Cambodian civil society organizations and tech companies leverage technology to address social needs. This objective would &lt;em&gt;require&lt;/em&gt; new ways of thinking to create new ways for solving problems.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 26 Feb 2019 09:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/tiffany-tsang-05b33241/">Tiffany Tsang</a>
-</author>
-        <link>https://dai-global-digital.com/cambodia.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cambodia.html</guid>
-        
-        <category>Innovation</category>
         
         
       </item>
