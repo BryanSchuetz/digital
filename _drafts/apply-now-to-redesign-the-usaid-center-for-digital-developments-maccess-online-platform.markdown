@@ -9,7 +9,7 @@ A digital ecosystem is the how and why users interact with government services, 
 
 <!--more-->
 
-Today, Digital Frontiers releases a request for proposals (RFP) to redesign and administer the mAccess online platform diagnostic tool to increase its use and value within USAID. Staff from USAID’s CDD team and Digital Frontiers will work closely with the selected contractor to design and implement a redesigned mAccess online platform. The contractor will lead the redesign process including: visioning, redesign and testing, website hosting, administration, and support with input and approval of USAID and Digital Frontiers. DAI anticipates awarding this opportunity as time and materials or cost reimbursable contract.
+Today, Digital Frontiers releases a request for proposals (RFP) to redesign and administer the mAccess online platform diagnostic tool to increase its use and value within USAID. Staff from USAID’s CDD team and Digital Frontiers will work closely with the selected contractor to design and implement a redesigned mAccess online platform. The contractor will lead the redesign process including: visioning, redesign and testing, website hosting, administration, and support with input and approval of USAID and Digital Frontiers. DAI anticipates awarding this opportunity as time and materials or cost reimbursable contract.![Map picture.png](/uploads/Map%20picture.png)
 
 ## Who Should Apply?
 
@@ -23,4 +23,4 @@ DAI is looking for qualified organizations with the following experience:
 
 * Previous experience hosting/administering websites/platforms which include customer support in the form of help desk support and user guides (or similar relevant tools).
 
-To access the RFP and get more information on qualifications and how to apply click [here](https://drive.google.com/file/d/1CVAzUpAB4uXIsUNyG_eP72yHQlicjnxP/view?usp=sharing). Proposals are due May 15, 2019 at 5:30 pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for proposals are due May 2, 2019 at 12:00pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please inform us by emailing [DigitalFrontiers@dai.com ](mailto:DigitalFrontiers@dai.com)
+To access the RFP and get more information on qualifications and how to apply click [here](https://drive.google.com/file/d/1CVAzUpAB4uXIsUNyG_eP72yHQlicjnxP/view?usp=sharing). Proposals are due **May 15, 2019 at 5:30** pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for proposals are due **May 2, 2019 at 12:00pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please inform us by emailing [DigitalFrontiers@dai.com ](mailto:DigitalFrontiers@dai.com)
