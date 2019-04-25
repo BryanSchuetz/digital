@@ -2,6 +2,7 @@
 title: Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online
   Platform
 date: 2019-04-25 15:06:00 -04:00
+Author: "[Diego Valencia](https://www.linkedin.com/in/diegovalencia/)"
 ---
 
 A digital ecosystem is the how and why users interact with government services, digital financial tools, and each other using mobile devices. A single data point alone may not tell the whole story for digital inclusion and how to best reach those in low-connectivity settings globally. To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD) developed the mAccess diagnostic site, an online tool for global decision makers to analyze the availability, cost of connectivity, and number of users for over 100 countries. The mAccess tool was launched in early 2016 and has been shared and used across USAID.
