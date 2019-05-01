@@ -52,9 +52,9 @@ So, we consider ourselves to be fairly in shape (emphasis on “fairly”). But 
 
    \*\*Unfortunately, we could not shadow enforcement officers due to the dangerous nature of their jobs. Le sigh.
 
-We learned so much during our trek with the park rangers that we would not have known otherwise. While we often field test the tools we develop, doing field work in the design stage is as important, if not more. Below are some quick points to remember, courtesy of the [Foolproof Team](https://www.foolproof.co.uk/journal/experience-design-walk-a-mile-immersion/):
+We learned so much during our trek with the park rangers that we would not have known otherwise. While we often field test the tools we develop, doing field work in the design stage is as important. Below are some quick points to remember, courtesy of the [Foolproof Team](https://www.foolproof.co.uk/journal/experience-design-walk-a-mile-immersion/):
 
-* Ensure that the journey is evaluated through multiple eyes: different customers see the world through a different lens and may even follow a different path on a complex journey with multiple entry points.
+* Ensure that the journey is evaluated through multiple eyes.  Different customers see the world through a different lens and may even follow a different path on a complex journey with multiple entry points.
 
 * Ensure the consultants conducting the review are naïve to the product or service and have no prior brand exposure or allegiance that may bias their experience.
 
