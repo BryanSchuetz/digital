@@ -1,13 +1,8 @@
 ---
 title: Designing a Wildlife Identification Tool in Philippines
 date: 2019-04-30 19:16:00 -04:00
-categories:
-- Information
 tags:
-- wildlife
-- hcd
 - Human-centered design
-- Philippines
 Author:
 - Rachel Clad
 - Alejandro Solis
