@@ -14,12 +14,13 @@ Human-centered design (HCD) – the design and management framework pioneered by
 
 \*It is possible there is a bit of hyperbole inserted here. Possibly.
 
-## Setting the Scene 
-Let us start at the beginning and set the scene. Close your eyes and picture a country comprised of thousands of islands (7,641 to be exact), each teeming with wildlife. Picture beautiful sandy beaches, tropical rainforests, and active volcanoes. 
+## Setting the Scene
+
+Let us start at the beginning and set the scene. Close your eyes and picture a country comprised of thousands of islands (7,641 to be exact), each teeming with wildlife. Picture beautiful sandy beaches, tropical rainforests, and active volcanoes.
 
 Glorious. Welcome to the Philippines.
 
-The Philippines is home to a vast array of flora and fauna and is recognized by Conservation International as one of only[17 mega-diverse countries](http://www.biodiversitya-z.org/content/megadiverse-countries.pdf)which harbor wildlife species found nowhere else in the world. [The International Union for the Conservation of Nature and Natural Resources (IUCN)](https://www.iucn.org/)has declared 418 animal species in the Philippines to be threatened, meaning they are either vulnerable, endangered, or critically endangered, according to the [IUCN red list criteria](https://www.iucnredlist.org/). The illegal wildlife trade is a major threat to these species and is valued at the equivalent of [US$1 billion](http://pubdocs.worldbank.org/en/997621542735912298/Illegal-Wildlife-trade-brochure-ADBDENR18NovforWEB.pdf). Species like the Philippine eagle (*Pithecophaga jefferyi*), tarsier (*Carlito syrichta*) and pangolin (*Manis culionensis*) are highly trafficked and critically endangered.
+The Philippines is home to a vast array of flora and fauna and is recognized by Conservation International as one of only [17 mega-diverse countries ](http://www.biodiversitya-z.org/content/megadiverse-countries.pdf)which harbor wildlife species found nowhere else in the world. [The International Union for the Conservation of Nature and Natural Resources (IUCN)](https://www.iucn.org/)has declared 418 animal species in the Philippines to be threatened, meaning they are either vulnerable, endangered, or critically endangered, according to the [IUCN red list criteria](https://www.iucnredlist.org/). The illegal wildlife trade is a major threat to these species and is valued at the equivalent of [US$1 billion](http://pubdocs.worldbank.org/en/997621542735912298/Illegal-Wildlife-trade-brochure-ADBDENR18NovforWEB.pdf). Species like the Philippine eagle (*Pithecophaga jefferyi*), tarsier (*Carlito syrichta*) and pangolin (*Manis culionensis*) are highly trafficked and critically endangered.
 
 ![Screen Shot 2019-04-30 at 5.18.49 PM.png](/uploads/Screen%20Shot%202019-04-30%20at%205.18.49%20PM.png)
 
