@@ -48,7 +48,7 @@ So, we consider ourselves to be fairly in shape (emphasis on “fairly”). But 
 
 6. The patrols last for many hours. We stopped after 4 hours (due to the near-deathedness of it all), but these rangers would normally have continued for 6\+ hours. This has implications for battery life and, again, feature development.
 
-7. In conversation with the rangers, we discovered that their local government unit (LGU) was planning to try to adapt the LAWIN app to include a wildlife identification component. Though this LGU is not our primary user\*\*, this information was incredibly valuable. It validates the prioritization of a wildlife identification feature, as well as lets us know of possible overlap in activities, pointing to the need for additional meetings and partnerships.
+7. In conversation with the park rangers, we discovered that their local government unit (LGU) was planning to try to adapt the LAWIN app to include a wildlife identification component. Though this LGU is not our primary user\*\*, this information was incredibly valuable. It validates the prioritization of a wildlife identification feature, as well as lets us know of possible overlap in activities, pointing to the need for additional meetings and partnerships.
 
    \*\*Unfortunately, we could not shadow enforcement officers due to the dangerous nature of their jobs. Le sigh.
 
