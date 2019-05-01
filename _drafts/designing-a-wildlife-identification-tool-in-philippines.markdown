@@ -12,6 +12,7 @@ Author:
 - Rachel Clad
 - Alejandro Solis
 social-image: "/uploads/phillipines-fauna.png"
+thumbnail: https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html
 ---
 
 Human-centered design (HCD) – the design and management framework pioneered by greats like IDEO.org and taught in countless design and business schools – is taking the development world by storm. And rightly so, in our opinion. HCD’s focus on empathy and creativity helps us design better, more sustainable solutions to some of the most difficult development challenges. We won’t go into too much detail on the broader HCD process or its application in digital development; my colleagues have written extensively on the excellent design work they’ve facilitated in places like [Cambodia](https://dai-global-digital.com/5-tips-for-doing-international-design-research.html), [Nepal](https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html), and [Guatemala](https://dai-global-digital.com/governance-app-guatemala.html). What we’d like to do today, rather, is to tell you about the time we almost perished shadowing rangers in the forests of the Philippines\*, and what we learned in the process.
