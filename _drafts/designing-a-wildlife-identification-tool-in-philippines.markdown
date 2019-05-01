@@ -14,7 +14,8 @@ Human-centered design (HCD) – the design and management framework pioneered by
 
 \*It is possible there is a bit of hyperbole inserted here. Possibly.
 
-**Setting the Scene**: Let us start at the beginning and set the scene. Close your eyes and picture a country comprised of thousands of islands (7,641 to be exact), each teeming with wildlife. Picture beautiful sandy beaches, tropical rainforests, and active volcanoes. 
+## Setting the Scene 
+Let us start at the beginning and set the scene. Close your eyes and picture a country comprised of thousands of islands (7,641 to be exact), each teeming with wildlife. Picture beautiful sandy beaches, tropical rainforests, and active volcanoes. 
 
 Glorious. Welcome to the Philippines.
 
