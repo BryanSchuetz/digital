@@ -5,8 +5,8 @@ tags:
 - Human-centered design
 - Digital Insights
 Author:
-- Rachel Clad
-- Alejandro Solis
+- "[Rachel Clad]( https://dai-global-digital.com/authors/rachel-clad/) and [Alejandro
+  Solis]( https://dai-global-digital.com/authors/alejandro-solis/)"
 social-image: "/uploads/phillipines-fauna.png"
 thumbnail: "/uploads/phillipines-fauna.png"
 ---
