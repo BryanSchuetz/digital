@@ -4,8 +4,9 @@ date: 2019-04-30 19:16:00 -04:00
 tags:
 - Human-centered design
 - Digital Insights
-Author: |
-  "[Rachel Clad](/authors/rachel-clad/) and [Alejandro Solis]( /authors/alejandro-solis/)"
+Author: '"[Rachel Clad](/authors/rachel-clad/) and [Alejandro Solis]( /authors/alejandro-solis/)"
+
+'
 social-image: "/uploads/phillipines-fauna.png"
 thumbnail: "/uploads/phillipines-fauna.png"
 ---
