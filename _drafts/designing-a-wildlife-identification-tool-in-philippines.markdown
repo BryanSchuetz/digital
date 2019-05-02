@@ -4,8 +4,8 @@ date: 2019-04-30 19:16:00 -04:00
 tags:
 - Human-centered design
 Author: |
-  "[Rachel Clad](https://dai-global-digital.com/authors/rachel-clad/), and [Alejandro
-  Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
+  [Rachel Clad](https://dai-global-digital.com/authors/rachel-clad/), and [Alejandro
+  Solis](https://dai-global-digital.com/authors/alejandro-solis/)
 social-image: "/uploads/phillipines-fauna.png"
 thumbnail: "/uploads/phillipines-fauna.png"
 ---
