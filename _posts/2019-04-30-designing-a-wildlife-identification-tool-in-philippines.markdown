@@ -1,5 +1,5 @@
 ---
-title: Designing a Wildlife Identification Tool in Philippines
+title: Designing A Wildlife Identification Tool in the Philippines
 date: 2019-04-30 19:16:00 -04:00
 tags:
 - Human-centered design
