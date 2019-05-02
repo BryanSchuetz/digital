@@ -3,7 +3,9 @@ title: Designing a Wildlife Identification Tool in Philippines
 date: 2019-04-30 19:16:00 -04:00
 tags:
 - Human-centered design
-Author: 'Rache Clad and Alejandro Solis '
+Author:
+- Rachel Clad
+- Alejandro Solis
 social-image: "/uploads/phillipines-fauna.png"
 thumbnail: "/uploads/phillipines-fauna.png"
 ---
