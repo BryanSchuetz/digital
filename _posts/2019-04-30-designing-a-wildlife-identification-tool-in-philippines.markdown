@@ -1,7 +1,6 @@
 ---
 title: Designing a Wildlife Identification Tool in Philippines
 date: 2019-04-30 19:16:00 -04:00
-published: false
 tags:
 - Human-centered design
 - Digital Insights
