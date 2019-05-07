@@ -11,6 +11,8 @@ thumbnail: "/uploads/nclimate1908-f1.jpg"
 ---
 
 ![7-July2017_flooded-751x580.jpg](/uploads/7-July2017_flooded-751x580.jpg)
+
+`GIS image developed by the author when he was working for the Amazon Conservation Association.`
 Geographic Information Systems (GIS) are (is) often misunderstood, or unknown to many. This is less likely in the development space, but once the deeper dive into methodologies and use cases begins, the shallowness of the understanding can quickly rear its head. This is often the case with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand beyond just their names, the available tools, their strengths, and their shortcomings.
 
 For the purpose of this article GIS and remote sensing are respectively (and respectfully) over-simplified such that the former tends to focus more on spatial analysis and cartography while the latter reigns in the realm of collecting data about the environment from remote vehicles. For this piece, I will focus on the remote sensing of Earth (which we can feed into a GIS and analyze later).\
