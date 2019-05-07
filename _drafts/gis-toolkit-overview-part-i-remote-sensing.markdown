@@ -13,7 +13,6 @@ Author: Trevor Olexy
 social-image: "/uploads/nclimate1908-f1.jpg"
 ---
 
-# **GIS Toolkit Overview Part I: Remote Sensing**
 ![7-July2017_flooded-751x580.jpg](/uploads/7-July2017_flooded-751x580.jpg)
 Geographic Information Systems (GIS) are (is) often misunderstood, or unknown to many. This is less likely in the development space, but once the deeper dive into methodologies and use cases begins, the shallowness of the understanding can quickly rear its head. This is often the case with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand beyond just their names, the available tools, their strengths, and their shortcomings. 
 
