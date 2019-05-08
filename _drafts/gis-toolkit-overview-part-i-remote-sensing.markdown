@@ -1,10 +1,17 @@
 ---
 title: 'GIS Toolkit Overview Part I: Remote Sensing'
 date: 2019-05-09 09:00:00 -04:00
+categories:
+- Data
+- Data Analysis
+- Information
 tags:
 - GIS
-- Satellite
 - Imagery Analysis
+- Remote
+- Remote Sensing Series
+- Agriculture
+- Environment & Energy
 Author: Trevor Olexy
 social-image: "/uploads/nclimate1908-f1.jpg"
 thumbnail: "/uploads/nclimate1908-f1.jpg"
