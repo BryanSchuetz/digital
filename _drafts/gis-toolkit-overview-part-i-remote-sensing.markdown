@@ -31,8 +31,6 @@ When I first heard of remote sensing around 15 years ago, I immediately imagined
 
 Remote sensing can be used to support research in far too many fields to list here (but to name a few, satellites allow scientists and analysts to track deforestation or [illegal mining ](https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=related-box)on a near daily basis, analyze dissolved solids in lakes and oceans, discern atmospheric particulate matter, identify soil composition, estimate crop health and yield, track global temperatures and sea ice extent, and allow for more complex statistical analysis of the coincidence of seemingly unrelated datasets (including economic and demographic) with these geographic data.
 
-check out another blog from CDA about GIS tech in development [here](https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=related-box),
-
 A quick internet search will quickly show you how this list barely scratches the surface, but it also provides a quick overview of the breadth of areas where remote sensing plays a major and fundamental role.
 
 ## **One Size Never Fits All**
