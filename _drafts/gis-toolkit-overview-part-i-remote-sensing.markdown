@@ -22,15 +22,15 @@ Geographic information systems (GIS) are often misunderstood, or unknown to many
 
 For this article, GIS and remote sensing are, respectively (and respectfully), over-simplified such that the former tends to focus more on spatial analysis and cartography, while the latter on the realm of collecting data about the environment from remote vehicles. In Part 1, I will focus on the remote sensing of Earth (which we can feed into a GIS and analyze later).
 
-Remote sensing can be used to support research in far too many fields to list here (but to name a few, satellites allow scientists and analysts to track deforestation or [illegal mining ](https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=related-box)on a near daily basis, analyze dissolved solids in lakes and oceans, discern atmospheric particulate matter, identify soil composition, estimate crop health and yield, track global temperatures and sea ice extent, and allow for more complex statistical analysis of the coincidence of seemingly unrelated datasets (including economic and demographic) with these geographic data.
+Remote sensing can be used to support research in far too many fields to list here (but to name a few—satellites allow scientists and analysts to track deforestation or [illegal mining ](https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=related-box)on a near daily basis, analyze dissolved solids in lakes and oceans, discern atmospheric particulate matter, identify soil composition, estimate crop health and yield, track global temperatures and sea ice extent, and allow for more complex statistical analysis of the coincidence of seemingly unrelated datasets, including economic and demographic, with these geographic data.)
 
-A quick internet search will quickly show you how this list barely scratches the surface, but it also provides a quick overview of the breadth of areas where remote sensing plays a major and fundamental role.
+A quick internet search will quickly show you how this list barely scratches the surface, but it also provides an overview of the breadth of areas where remote sensing plays a major and fundamental role.
 
-## **One Size Never Fits All**
+## One Size Never Fits All
 
 At this point you may think that remote sensing is only spaced-based, but before we had space-borne vehicles we had airplanes, and before we had airplanes we had drones. Wait. Or is it the other way around?
-![FBVinImage.jpg](/uploads/FBVinImage.jpg)`Image from [Aerial Services Inc](https://aerialservicesinc.com/drones-qa-mike-tully/fbvinimage/).`
 
+![FBVinImage.jpg](/uploads/FBVinImage.jpg)`Image from [Aerial Services Inc](https://aerialservicesinc.com/drones-qa-mike-tully/fbvinimage/).`
 
 Drones (or unmanned aerial vehicles) are the newest entrant into remote sensing our environment. With the increase in quality in drone and camera technology, we can not only achieve fantastic cinematic flyover scenes, but can also capture incredibly high-resolution imagery of agricultural fields or flooded areas inaccessible by larger manned vehicles. Using drones allows for hyper-specific, high resolution analysis of a small area, but the challenge is that using them can be be expensive.
 
