@@ -8,10 +8,7 @@ categories:
 tags:
 - GIS
 - Imagery Analysis
-- Remote
 - Remote Sensing Series
-- Agriculture
-- Environment & Energy
 Author: Trevor Olexy
 social-image: "/uploads/nclimate1908-f1.jpg"
 thumbnail: "/uploads/nclimate1908-f1.jpg"
@@ -51,8 +48,8 @@ Radar imagery is much more difficult to process, but is immune to cloud cover. T
 
 Demographics, socioeconomic indicators, and other satellite-unrelated data are oft forgotten when it comes to answering research questions with spatial technologies. Sub-national data can be further rasterized (creating a grid or cell-based dataset  from continuous data). Think digitization of analog signals. For instance, an analyst can spatially overlay a grid on several datasets that have a spatial component and combine them such that each grid cell aggregates all data that falls within its bounds. This new dataset could include data for number of conflict events, population, economic output, elevation, average temperature, ethnicity percentages, crop health, or nighttime light brightness. When appropriately aggregated, these data can be statistically analyzed and offer new insights.
 
-Remote sensing has such wide-ranging applications (technical method to access remote sensing data [here](https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html)) that is likely that given your problem set (i.e. project in the international development space), there is a spatial component that can be addressed by using remotely sensed data. Where should I plant more trees or focus forest conservation efforts? Well let’s take a look at where forest loss is occurring, figure out how to curtail it, and plant more trees there. If only it were that simple, but I think you get the idea.
+Remote sensing has such [wide-ranging applications](https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html) that most likely there is a spatial component that can be addressed by using remote sensed data across Internationale development initiatives. For example, if you're working on an agriculture project and asking:  Where should I plant more trees or focus forest conservation efforts? Remote sensed data can help provide insights into where  where forest loss is occurring. 
 
-Remote sensing and GIS are not the hammer for all nails, but it is good practice to consider if using spatial methodologies can add to a project before getting too far into implementation before realizing, “oops, I wish I had collected and mapped this data!” As a professional GIS analyst, I cannot count how many times this has happened.
+Remote sensing and GIS are not the hammer for all nails, but it is good practice to consider if using spatial methodologies can add value to your project before getting too far into implementation. You want to avoid thinking, “oops, I wish I had collected and mapped this data!” 
 
 *Stay tuned for the follow up to this blog which will discuss basic GIS tools used to answer your spatial questions.*
