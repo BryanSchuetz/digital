@@ -27,7 +27,7 @@ For the purpose of this article GIS and remote sensing are respectively (and res
 
 <!--more-->
 
-When I first heard of remote sensing around 15 years ago, I immediately jumped to the image of sensors placed in agricultural fields used remotely collect data, my field at the time. In the context of this article, I speak to the task of using planet-orbiting sensors to take pictures of the Earth or otherwise “sense” the reflected energy from the surface of the planet.
+When I first heard of remote sensing around 15 years ago, I immediately imagined sensors placed in agricultural fields used remotely collect data, my field at the time. In the context of this article, I speak to the task of using planet-orbiting sensors to take pictures of the Earth or otherwise “sense” the reflected energy from the surface of the planet.
 
 Remote sensing can be used to support research in far too many fields to list here (check out another blog from CDA about GIS tech in development [here](https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=related-box), but to name a few, satellites allow scientists and analysts to track deforestation on a near daily basis, analyze dissolved solids in lakes and oceans, discern atmospheric particulate matter, identify soil composition, estimate crop health and yield, track global temperatures and sea ice extent, and allow for more complex statistical analysis of the coincidence of seemingly unrelated datasets (including economic and demographic) with these geographic data.
 
