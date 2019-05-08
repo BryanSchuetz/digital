@@ -20,7 +20,7 @@ Geographic information systems (GIS) are often misunderstood, or unknown to many
 
 <!--more-->
 
-For this article, GIS and remote sensing are, respectively (and respectfully), over-simplified such that the former tends to focus more on spatial analysis and cartography, while the latter reigns in the realm of collecting data about the environment from remote vehicles. For this piece, I will focus on the remote sensing of Earth (which we can feed into a GIS and analyze later).
+For this article, GIS and remote sensing are, respectively (and respectfully), over-simplified such that the former tends to focus more on spatial analysis and cartography, while the latter on the realm of collecting data about the environment from remote vehicles. In Part 1, I will focus on the remote sensing of Earth (which we can feed into a GIS and analyze later).
 
 When I first heard of remote sensing around 15 years ago, I immediately imagined sensors placed in agricultural fields used  collect data remotely. Yet, in the context of this article, I speak to the task of using planet-orbiting sensors to take pictures of the Earth or otherwise “sense” the reflected energy from the surface of the planet.
 
