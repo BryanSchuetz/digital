@@ -53,6 +53,6 @@ Demographics, socioeconomic indicators, and other satellite-unrelated data are o
 
 Remote sensing has such wide-ranging applications (technical method to access remote sensing data [here](https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html)) that is likely that given your problem set (i.e. project in the international development space), there is a spatial component that can be addressed by using remotely sensed data. Where should I plant more trees or focus forest conservation efforts? Well let’s take a look at where forest loss is occurring, figure out how to curtail it, and plant more trees there. If only it were that simple, but I think you get the idea.
 
-Remote sensing and GIS are not the hammer for all nails, but it is good practice to consider if using spatial methodologies can add to a project before getting too far into implementation before realizing, “oops, I wish I had collected and mapped this data!” As a professional GIS analyst, I cannot count how many times this has happened.\\
+Remote sensing and GIS are not the hammer for all nails, but it is good practice to consider if using spatial methodologies can add to a project before getting too far into implementation before realizing, “oops, I wish I had collected and mapped this data!” As a professional GIS analyst, I cannot count how many times this has happened.
 
 *Stay tuned for the follow up to this blog which will discuss basic GIS tools used to answer your spatial questions.*
