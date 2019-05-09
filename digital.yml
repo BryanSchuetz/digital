@@ -1,4 +1,17 @@
 
+- title: "GIS Toolkit Overview Part I: Remote Sensing"
+  pub: "Digital"
+  date: 2019-05-09
+  link: "https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=daidotcom"
+  summary: "Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.
+
+GIS image developed by the author when he was working for the Amazon Conservation Association."
+  tags:
+    - digital acceleration 
+    - GIS 
+    - Imagery Analysis 
+    - Remote Sensing Series 
+
 - title: "Designing A Wildlife Identification Tool in the Philippines"
   pub: "Digital"
   date: 2019-04-30
@@ -222,18 +235,4 @@ Questions? Please email DigitalFrontiers@dai.com."
     - Data 
     - Satellite 
     - Digital 
-
-- title: "A Resolution to Support the Tech Sector Where We Need It Most"
-  pub: "Digital"
-  date: 2019-01-24
-  link: "https://dai-global-digital.com/a-resolution-to-support-the-tech-sector-where-we-need-it-most.html?utm_source=daidotcom"
-  summary: "On January 5, I posted the message below on Facebook to hold myself accountable to my New Year’s resolution.
-
-
-
-It’s simple. I want tech businesses to grow and thrive in Nigeria outside of Lagos. I want to support someone who grew up in, works in, and wants to continue working in my hometown, Uyo. This is not just my resolution, but has been my life’s work since I started Start Innovation Hub five years ago. Start Innovation Hub is an ICT firm and innovation lab that works to expand the tech industry by supporting tech startups and talented individuals in Uyo. We build skills and connect entrepreneurs to economic opportunities, as well as support local businesses by developing software solutions. You can’t deny that the tech sector in Nigeria is growing rapidly, but the concentration of firms in Lagos means that places like Uyo are left behind. Through Start Innovation Hub, I hope to change that."
-  tags:
-    - digital acceleration 
-    - Innovation 
-    - Entrepreneurship 
 

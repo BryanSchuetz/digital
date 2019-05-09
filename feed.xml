@@ -5,9 +5,38 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 May 2019 08:47:07 -0400</pubDate>
-    <lastBuildDate>Thu, 09 May 2019 08:47:07 -0400</lastBuildDate>
+    <pubDate>Thu, 09 May 2019 08:50:57 -0400</pubDate>
+    <lastBuildDate>Thu, 09 May 2019 08:50:57 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/nclimate1908-f1.jpg" medium="image" /> 
+        <title>GIS Toolkit Overview Part I: Remote Sensing</title>
+        <description>&lt;p&gt;Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/7-July2017_flooded-751x580.jpg&quot; alt=&quot;7-July2017_flooded-751x580.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GIS image developed by the author when he was working for the Amazon Conservation Association.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 May 2019 08:00:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</guid>
+        
+        <category>GIS</category>
+        
+        <category>Imagery Analysis</category>
+        
+        <category>Remote Sensing Series</category>
+        
+        
+        <category>Data</category>
+        
+        <category>Data Analysis</category>
+        
+        <category>Information</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/phillipines-fauna.png" medium="image" /> 
@@ -197,23 +226,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/nobody-cares-what-tech-you-use.html</guid>
         
         <category>Human-centered design</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/1_KiGsfO6WD6_sn1Qx70w3vA.png" medium="image" /> 
-        <title>Is Your Data in a Lake or Water Treatment Plant?</title>
-        <description>&lt;p&gt;They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. Glamorous stuff—pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made for great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knows about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Mar 2019 09:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/ben-mann-13012513/">Ben Mann</a>
-</author>
-        <link>https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html</guid>
-        
-        <category>Data</category>
         
         
       </item>
