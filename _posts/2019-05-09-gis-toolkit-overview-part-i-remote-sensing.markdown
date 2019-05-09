@@ -1,6 +1,6 @@
 ---
 title: 'GIS Toolkit Overview Part I: Remote Sensing'
-date: 2019-05-09 09:00:00 -04:00
+date: 2019-05-09 08:00:00 -04:00
 categories:
 - Data
 - Data Analysis
