@@ -14,5 +14,5 @@ My five key takeaways, in no particular order, can be found below.
 
 2. **New types of (somewhat Dystopian) challenges need new (citizen-empowering) solutions:** There are some really big challenges out there: large-scale electricity outages, internet black outs, surveillance state use of AI, for example. These are things that we may need to deal with more as the number of autocratic leaders grow globally and China and Russia export their internet governance model. The ICT4D community will need to work more closely with our colleagues in both infrastructure and governance to really develop solutions that tackle these complex times. 
 
-3. Building bottom up support and movement can create positive change for digital policy at the national level
+3. **Data is meaningless without data culture:** Building bottom up support and movement can create positive change for digital policy at the national level
   o   Demonstrating demand from CSOs, businesses, other for open data and getting govt to open data/ invest in this
