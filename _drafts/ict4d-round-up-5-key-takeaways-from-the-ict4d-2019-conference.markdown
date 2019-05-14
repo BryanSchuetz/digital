@@ -17,7 +17,7 @@ If you were paying attention on Twitter during the conference, you'll know there
 
 My five key takeaways, in no particular order, can be found below.
 
-1. **The importance of investing in digital literacy:** I was super pleased to see that, in addition to the one panel I organized on this topic, speaker across the conference were raising the issue of digital literacy and how crucial it is to our efforts in the digital for development field. I'm thrilled that this was one of the key conversations at the conference and hope we can hear more about it - including progress made! - in 2019.
+1. **The importance of investing in digital literacy:** I was super pleased to see that, in addition to the one panel I organized on this topic, speakers across the conference were raising the issue of digital literacy and how crucial it is to our efforts in the digital for development field. I'm thrilled that this was one of the key conversations at the conference and hope we can hear more about it - including progress made! - in 2019.
 
 2. **New types of (somewhat Dystopian) challenges need new (citizen-empowering) solutions:** There are some really big challenges out there: large-scale electricity outages, internet black outs, surveillance state use of AI, for example. These are things that we may need to deal with more as the number of autocratic leaders grow globally and China and Russia export their internet governance model. The ICT4D community will need to work more closely with our colleagues in both infrastructure and governance to really develop solutions that tackle these complex times.
 
