@@ -9,7 +9,7 @@ social-image: "![Main_logo.png](/uploads/Main_logo.png)"
 thumbnail: "![Main_logo.png](/uploads/Main_logo.png)"
 ---
 
-This year's [ICT4D Conference](https://www.ict4dconference.org/) took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is now than when I first joined it in late 2010 and [Ken Banks](https://twitter.com/kiwanja) held my champagne at a super-fancy telecoms summit in London, where we had both been invited to speak on the *one* mobile for social good panel (true story!).
+This year's [ICT4D Conference](https://www.ict4dconference.org/) took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new)  and marvel at how much bigger the ICT4D sector is in comparison to when I   first joined it in late 2010 and [Ken Banks](https://twitter.com/kiwanja) held my champagne at a super-fancy telecoms summit in London, where we had both been invited to speak on the *one* mobile for social good panel (true story!).
 
 ![Main_logo.png](/uploads/Main_logo.png)
 
