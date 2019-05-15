@@ -17,10 +17,11 @@ If you were following this latest ICT4D conference Twitter chatter, you'll know 
 
 My five key takeaways, in no particular order, include
 
-## 1. It's important to invest in digital literacy
+**1. It's important to invest in digital literacy**
+
 I was super pleased to see that, in addition to the one panel I organized on this topic, speakers across the conference raised the issue of digital literacy and how crucial it is to our efforts. I'm thrilled that this was one of the key conversations at the conference and hope we can hear more about it—including progress made!
 
-## 2. **New types of (somewhat dystopian) challenges need new (citizen-empowering) solutions:** There are some really big challenges out there. For example, large-scale electricity outages, internet blackouts, surveillance state use of artificial intelligence. These are things that we may need to deal with more as the number of autocratic leaders grows globally and China and Russia export their internet governance models. The ICT4D community needs to work more closely with colleagues in both infrastructure and governance to tackle these complex dynamics.
+**2. New types of (somewhat dystopian) challenges need new (citizen-empowering) solutions:** There are some really big challenges out there. For example, large-scale electricity outages, internet blackouts, surveillance state use of artificial intelligence. These are things that we may need to deal with more as the number of autocratic leaders grows globally and China and Russia export their internet governance models. The ICT4D community needs to work more closely with colleagues in both infrastructure and governance to tackle these complex dynamics.
 
 3. **Data is meaningless without data culture:** Despite the obsession with data that has defined a lot of the ICT4D universe over the past few years, there are still real challenges around getting decision-makers at the highest levels to actually use the data that last-mile stakeholders, such as village health workers, are working incredibly hard to collect. Building bottom-up support and movement at mid-level bureaucracies can create positive change for digital policy at the national level.
 
