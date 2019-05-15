@@ -13,11 +13,11 @@ This year's [ICT4D Conference](https://www.ict4dconference.org/) took place alon
 
 ![Main_logo.png](/uploads/Main_logo.png)
 
-If you were following this latest ICT4D conference Twitter chatter, you'll know there was some criticism about how [every ICT4D conference is the same](https://twitter.com/kiwanja/status/1123839831136718850). I hear that criticism, but to me this one felt different. The promise—and terror—of advanced technologies like artificial intelligence and 5G raised new conversations, and the availability of data has largely shifted the discussion from 'how do we get data?' to 'how do we make this abundance of data useful?'.
+If you were following this latest ICT4D conference Twitter chatter, you'll know there was some criticism about how [every ICT4D conference is the same](https://twitter.com/kiwanja/status/1123839831136718850). I hear that criticism, but to me this one felt different. The promise—and terror—of advanced technologies such as artificial intelligence and 5G raised new conversations, and the availability of data has largely shifted the discussion from 'how do we get data?' to 'how do we make this abundance of data useful?'
 
-My five key takeaways, in no particular order, can be found below.
+My five key takeaways, in no particular order, include
 
-1. **The importance of investing in digital literacy:** I was super pleased to see that, in addition to the one panel I organized on this topic, speakers across the conference were raising the issue of digital literacy and how crucial it is to our efforts in the digital for development field. I'm thrilled that this was one of the key conversations at the conference and hope we can hear more about it - including progress made! - in 2019.
+1. **It's important to invest in digital literacy:** I was super pleased to see that, in addition to the one panel I organized on this topic, speakers across the conference were raising the issue of digital literacy and how crucial it is to our efforts in the digital for development field. I'm thrilled that this was one of the key conversations at the conference and hope we can hear more about it - including progress made! - in 2019.
 
 2. **New types of (somewhat Dystopian) challenges need new (citizen-empowering) solutions:** There are some really big challenges out there. For example, large-scale electricity outages, internet black outs, surveillance state use of AI. These are things that we may need to deal with more as the number of autocratic leaders grow globally and China and Russia export their internet governance model. The ICT4D community will need to work more closely with our colleagues in both infrastructure and governance to develop solutions that tackle these complex dynamics.
 
