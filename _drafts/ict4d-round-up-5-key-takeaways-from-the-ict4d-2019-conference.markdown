@@ -13,7 +13,7 @@ This year's [ICT4D Conference](https://www.ict4dconference.org/) took place alon
 
 ![Main_logo.png](/uploads/Main_logo.png)
 
-If you were paying attention on Twitter during the conference, you'll know there was some criticism about how [every ICT4D conference is the same](https://twitter.com/kiwanja/status/1123839831136718850). I hear that criticism, but to me this one felt different. The promise - and terror - of advanced technologies like Artificial Intelligence and 5G raised new conversations, and the availability of data has largely shifted the discussion from 'how do we get data?' to 'how do we make this abundance of data useful?'.
+If you were following the latest ICT4D conference Twitter chatter, you'll know there was some criticism about how [every ICT4D conference is the same](https://twitter.com/kiwanja/status/1123839831136718850). I hear that criticism, but to me this one felt different. The promise - and terror - of advanced technologies like Artificial Intelligence and 5G raised new conversations, and the availability of data has largely shifted the discussion from 'how do we get data?' to 'how do we make this abundance of data useful?'.
 
 My five key takeaways, in no particular order, can be found below.
 
