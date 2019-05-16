@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 May 2019 09:58:50 -0400</pubDate>
-    <lastBuildDate>Wed, 15 May 2019 09:58:50 -0400</lastBuildDate>
+    <pubDate>Thu, 16 May 2019 07:04:51 -0400</pubDate>
+    <lastBuildDate>Thu, 16 May 2019 07:04:51 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com![Main_logo.png](/uploads/Main_logo.png)" medium="image" /> 
+        <title>5 Takeaways From ICT4D 2019</title>
+        <description>&lt;p&gt;This year’s &lt;a href=&quot;https://www.ict4dconference.org/&quot;&gt;ICT4D Conference&lt;/a&gt; took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and &lt;a href=&quot;https://twitter.com/kiwanja&quot;&gt;Ken Banks&lt;/a&gt; and I been invited to speak on the &lt;em&gt;one&lt;/em&gt; mobile for social good panel (true story!) at a telecoms event.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 May 2019 07:00:00 -0400</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/nclimate1908-f1.jpg" medium="image" /> 
@@ -209,23 +228,6 @@
         <category>Data</category>
         
         <category>Digital Identity Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/computers.jpeg" medium="image" /> 
-        <title>Nobody Cares What Tech You Use</title>
-        <description>&lt;p&gt;Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Mar 2019 08:20:00 -0400</pubDate>
-        <author><a href="https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzachary-diehl-7b466b174&amp;data=01%7C01%7CGalia_Nurko%40dai.com%7Cf67a56aa590843a77e1b08d6a72fbf8e%7C7107113de20b4c20a4ce553cabbf686d%7C0&amp;sdata=AzUi%2BFO6MhNA7fBkVFoMVM%2F8vH8tuOQ1S38SioYFncc%3D&amp;reserved=0">Zach Diehl</a>
-</author>
-        <link>https://dai-global-digital.com/nobody-cares-what-tech-you-use.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/nobody-cares-what-tech-you-use.html</guid>
-        
-        <category>Human-centered design</category>
         
         
       </item>

@@ -1,4 +1,14 @@
 
+- title: "5 Takeaways From ICT4D 2019"
+  pub: "Digital"
+  date: 2019-05-16
+  link: "https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html?utm_source=daidotcom"
+  summary: "This year’s ICT4D Conference took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and Ken Banks and I been invited to speak on the one mobile for social good panel (true story!) at a telecoms event."
+  tags:
+    - digital acceleration 
+    - Think Piece 
+    - Data 
+
 - title: "GIS Toolkit Overview Part I: Remote Sensing"
   pub: "Digital"
   date: 2019-05-09
@@ -224,15 +234,4 @@ Questions? Please email DigitalFrontiers@dai.com."
     - Digital Inclusion 
     - Human-centered design 
     - Think Piece 
-
-- title: "How Digital Tools Help Combat Illegal Mining and Logging in the Amazon"
-  pub: "Digital"
-  date: 2019-01-31
-  link: "https://dai-global-digital.com/digital-tools-against-illegal-mining-and-logging-in-the-amazon.html?utm_source=daidotcom"
-  summary: "A recent report prepared by the Amazonian Geo-referenced Socio-Environmental Information Network (RAISG) and InfoAmazonia, in coordination with eight other Latin American institutions, published a map that shows more than 2,000 data points across the Amazon where illegal activity is occurring. This includes illegal mining and logging in 96 protected areas. Most of the illegal activity is taking place in Venezuela where there are a reported 1,899 data points documenting illegal mining or logging. Venezuela is followed by Brazil where 321 cases of illegal activity are recorded. In Ecuador, the number drops to 68, and in Peru, 24. For organizations, governments, or advocates looking to protect the Amazon, this digital tool seems like a blessing. Yet, based on my experience it’s unclear whether these information-streamlining tools are actually limiting illegal activity."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Satellite 
-    - Digital 
 
