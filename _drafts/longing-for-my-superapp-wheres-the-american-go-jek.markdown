@@ -8,6 +8,8 @@ Author: Addie Ryan
 
 Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda office.
 
+![Jakarta skyline - resize.jpg](/uploads/Jakarta%20skyline%20-%20resize.jpg)
+
 ## Predictable Contrasts
 
 Upon return to the Washington D.C. area, many of my initial joys and longings were what one might expect. I relaxed into a renewed sense of confidence walking along sidewalks and crossing intersections; my biggest risk awkwardly bumping into other pedestrians as I gravitated to the wrong side of walkways. I relished my ease of access to American enterprises like Netflix, Target, and Trader Joe’s. And of course, I delighted in being 10,000 miles and 12 time-zone-hours closer to my U.S.-based family, friends and previously-long-distance boyfriend.
@@ -19,6 +21,8 @@ At the same time, I missed my Jakarta community: friends willing to hop on a pla
 What may be more surprising – given my transition from emerging middle-income country to global superpower – is a void that lingers to this day: missing my Go-Jek app. If you’re not familiar, Go-Jek launched as a motorbike ride-hailing app, digitizing and disrupting Indonesia’s previously informal and territorial ojek (motorbike taxi) system. From 2015-2018, I witnessed and enjoyed Go-Jek’s steady expansion of services linking users not only to ojeks, but also to cars (quickly surpassing Uber and [rivaling](http://fortune.com/longform/grab-gojek-super-apps/) competitor Grab), then rolling out features for food delivery, grocery shopping, moving, and courier services. That was just the beginning. In a megalopolis known for making lists like “cities with the worst traffic in the world” (receiving the [crown title](http://time.com/3695068/worst-cities-traffic-jams/) by TIME in 2015), an app that provided services from fingertip to doorstep was truly groundbreaking.  The surge in usage of apps like Go-Jek and Grab in recent years is even credited by some as a factor in Indonesia’s [recent dethroning of the “worst traffic” title](https://www.ozy.com/fast-forward/worlds-most-congested-city-finally-shifts-gears/89573).
 
 Today it’s hard to keep up with the number of services available via this [SuperApp](https://blog.gojekengineering.com/what-is-a-super-app-4f2d889451e6) (a term spurred by China’s full-service WeChat app). They currently include same day online shopping delivery, auto and home repair, event ticketing, medication, spa and salon services, house cleaning, laundry-washing, airtime top-up, and frankly, almost anything you can imagine. (Or at least that’s that I keep thinking, until without fail, yet another new feature – such as [in-car shopping](https://twitter.com/gojek24jam/status/1100972099022118912?lang=en) – appears.)
+
+![go-jek app 1_resize.jpg](/uploads/go-jek%20app%201_resize.jpg)
 
 ## Go-Jek’s Increasing Presence in the Fintech Space
 
