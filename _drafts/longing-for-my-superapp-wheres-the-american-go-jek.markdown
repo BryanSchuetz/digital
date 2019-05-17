@@ -15,7 +15,9 @@ Earlier this year I underwent a major life transition. After over four years liv
 ## Predictable Contrasts
 
 Upon return to the Washington D.C. area, many of my initial joys and longings were what one might expect. I relaxed into a renewed sense of confidence walking along sidewalks and crossing intersections; my biggest risk awkwardly bumping into other pedestrians as I gravitated to the wrong side of walkways. I relished my ease of access to American enterprises like Netflix, Target, and Trader Joe’s. And of course, I delighted in being 10,000 miles and 12 time-zone-hours closer to my U.S.-based family, friends and previously-long-distance boyfriend.
+
 <!--more-->
+
 At the same time, I missed my Jakarta community: friends willing to hop on a plane for a last-minute island getaway; wonderful colleagues who had become like a family; an amazing yoga teacher whose class I attended every possible Saturday. Oh, and let’s not forget my favorite spa serving up 90 minutes of reflexi (foot reflexology combined with a body massage) for the equivalent of $12.
 
 ## A Surprising Lack: Go-Jek, Indonesia’s Revolutionary SuperApp
@@ -25,6 +27,7 @@ What may be more surprising – given my transition from emerging middle-income 
 Today it’s hard to keep up with the number of services available via this [SuperApp](https://blog.gojekengineering.com/what-is-a-super-app-4f2d889451e6) (a term spurred by China’s full-service WeChat app). They currently include same day online shopping delivery, auto and home repair, event ticketing, medication, spa and salon services, house cleaning, laundry-washing, airtime top-up, and frankly, almost anything you can imagine. (Or at least that’s that I keep thinking, until without fail, yet another new feature – such as [in-car shopping](https://twitter.com/gojek24jam/status/1100972099022118912?lang=en) – appears.)
 
 ![go-jek app 1_resize.jpg](/uploads/go-jek%20app%201_resize.jpg)
+`Screenshot of the Go-Jek app's service offerings, May 2019`
 
 ## Go-Jek’s Increasing Presence in the Fintech Space
 
