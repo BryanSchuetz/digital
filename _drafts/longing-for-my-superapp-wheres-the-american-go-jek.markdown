@@ -24,6 +24,7 @@ What may be more surprising – given my transition from emerging middle-income 
 Today it’s hard to keep up with the number of services available via this [SuperApp](https://blog.gojekengineering.com/what-is-a-super-app-4f2d889451e6) (a term spurred by China’s full-service WeChat app). They currently include same day online shopping delivery, auto and home repair, event ticketing, medication, spa and salon services, house cleaning, laundry-washing, airtime top-up, and frankly, almost anything you can imagine. (Or at least that’s that I keep thinking, until without fail, yet another new feature – such as [in-car shopping](https://twitter.com/gojek24jam/status/1100972099022118912?lang=en) – appears.)
 
 ![go-jek app 1_resize.jpg](/uploads/go-jek%20app%201_resize.jpg)
+`Screenshot of Go-jek service offerings, May 2019`
 
 ## Go-Jek’s Increasing Presence in the Fintech Space
 
