@@ -9,14 +9,14 @@ social-image: "/uploads/go-jek%20app%201_resize-3fe73d.jpg"
 
 Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda office.
 
+<!--more-->
+
 ![Jakarta skyline - resize.jpg](/uploads/Jakarta%20skyline%20-%20resize.jpg)
 `Jakarta skyline at dusk. Photo credit: Author`
 
 ## Predictable Contrasts
 
 Upon return to the Washington D.C. area, many of my initial joys and longings were what one might expect. I relaxed into a renewed sense of confidence walking along sidewalks and crossing intersections; my biggest risk awkwardly bumping into other pedestrians as I gravitated to the wrong side of walkways. I relished my ease of access to American enterprises like Netflix, Target, and Trader Joe’s. And of course, I delighted in being 10,000 miles and 12 time-zone-hours closer to my U.S.-based family, friends and previously-long-distance boyfriend.
-
-<!--more-->
 
 At the same time, I missed my Jakarta community: friends willing to hop on a plane for a last-minute island getaway; wonderful colleagues who had become like a family; an amazing yoga teacher whose class I attended every possible Saturday. Oh, and let’s not forget my favorite spa serving up 90 minutes of reflexi (foot reflexology combined with a body massage) for the equivalent of $12.
 
