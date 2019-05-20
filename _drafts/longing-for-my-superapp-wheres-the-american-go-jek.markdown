@@ -5,6 +5,7 @@ tags:
 - Digital Financial Services
 Author: Addie Ryan
 social-image: "/uploads/go-jek%20app%201_resize-3fe73d.jpg"
+thumbnail: "/uploads/go-jek%20app%201_resize-3fe73d.jpg"
 ---
 
 Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s [ASEAN-U.S. PROGRESS](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda office.
