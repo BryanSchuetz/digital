@@ -2,7 +2,6 @@
 title: 'Longing for my SuperApp: Where’s the American Go-Jek?'
 date: 2019-05-23 07:00:00 -04:00
 tags:
-- Digital Financial Services
 - Innovation
 Author: Addie Ryan
 social-image: "/uploads/go-jek%20app%201_resize-3fe73d.jpg"
