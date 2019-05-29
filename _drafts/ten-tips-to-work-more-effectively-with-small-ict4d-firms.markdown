@@ -18,7 +18,7 @@ Working iteratively and collaboratively is the key to a successful relationship 
 
 The best relationships between ICT4D firms and their partners are those built on mutual trust, and – like I said before – the best projects are those that were developed iteratively and collaboratively. However, small ICT4D firms are the experts in their own technology. If they tell you that something will not work, listen to them. If they suggest another way of getting to the same outcome, listen to them. If they say they need more time to do a project justice, listen to them. If it’s not going to work --- it’s just not going to work.
 
-\[Mobile Expo 2 (1).JPG\](/uploads/Mobile%20Expo%202%20(1).JPG  `Picture taken by DAI at a Mobile Expo.`
+![Mobile Expo 2 (1).JPG](/uploads/Mobile%20Expo%202%20(1).JPG)  `Picture taken by DAI at a Mobile Expo.`
 
 * ***Tip:** you are not the expert in your partner’s tech solution. Trust your partner and take their advice.*
 
@@ -36,9 +36,9 @@ Small businesses in ICT4D are incredibly agile. They can turn around proposals o
 
 At the end of the day, small businesses specializing in ICT4D are just that: businesses. Don’t get me wrong, these firms want to improve development outcomes, but they also need to make payroll and cover their expenses. Particularly for firms that run a high volume of smaller, shorter projects, time is money. If you meet with a firm and you know that their products and services really do not fit your needs, say so. Even if you like a firm and want to work with them, try not to ask for too many free pilots. And remember that projects need to generate revenue in order to keep the lights on.
 
-* \*\*\*Tip: \*\*\*Don’t leave these firms hanging – let them know as early as possible if you do not intend to use their services.
+* ***Tip:** don’t leave these firms hanging – let them know as early as possible if you do not intend to use their services.*
 
-* ***Tip:*** Technology is expensive, so budget accordingly.
+* ***Tip:** technology is expensive, so budget accordingly.*
 
 ## Contract mechanisms matter:
 
