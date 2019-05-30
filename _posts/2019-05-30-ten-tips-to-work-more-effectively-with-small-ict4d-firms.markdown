@@ -22,8 +22,8 @@ Working iteratively and collaboratively is the key to a successful relationship 
 
 The best relationships between ICT4D firms and their partners are those built on mutual trust, and—as I said before—the best projects are those that were developed iteratively and collaboratively. However, small ICT4D firms are the experts in their own technology. If they tell you that something will not work, listen to them. If they suggest another way of getting to the same outcome, listen to them. If they say they need more time to do a project justice, listen to them. If it’s not going to work—it’s just not going to work.
 
-* ***Tip:** you are not the expert in your partner’s tech solution. Trust your partner and take their advice.*
-* ***Tip:*** *invest in building a longer-term relationship with an ICT4D partner and build a compelling track record together.*
+* ***Tip:*** You are not the expert in your partner’s tech solution. Trust your partner and take their advice.*
+* ***Tip:*** Invest in building a longer-term relationship with an ICT4D partner and build a compelling track record together.*
 
 ![Mobile Expo 2 (1).JPG](/uploads/Mobile%20Expo%202%20(1).JPG)`Participants at a mobile expo hosted by the USAID Cambodia Development Innovations project.`
 
