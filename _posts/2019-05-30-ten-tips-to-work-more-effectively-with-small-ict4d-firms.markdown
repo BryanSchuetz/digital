@@ -47,12 +47,11 @@ Smaller ICT4D firms may only implement fixed price, deliverable-based contracts 
 
 * ***Tip:*** *Consider the full spectrum of contract/award mechanisms, including deliverable-based mechanisms, as you design RFPs—and consult with your small business partners.*
 
-## And finally –ICT4D firms are *not* all the same:
+## ICT4D Firms Are *Not* All The Same
 
-Even though these companies all work under the broader ICT4D umbrella, they do different things, possess different strengths, and bring different value adds – [GeoPoll](https://www.geopoll.com/) is not [Viamo](https://viamo.io/) is not E[very1Mobile](https://www.every1mobile.com/) is not [Premise Data](https://www.premise.com/international-development/) is not [Frontline SMS](https://www.frontlinesms.com/) is not [Dimagi](https://www.dimagi.com/) is not [Praekelt](https://www.praekelt.org/), and so on. Bottom line – Think about the \*needs \*these firms can fill, not the *means* they use to do that. Once you identify your needs, reach out to a partner (or several) that can deliver on those capabilities.
+Even though these companies all work under the broader ICT4D umbrella, they do different things, possess different strengths, and bring different value—[GeoPoll](https://www.geopoll.com/) is not [Viamo](https://viamo.io/) is not E[very1Mobile](https://www.every1mobile.com/) is not [Premise Data](https://www.premise.com/international-development/) is not [Frontline SMS](https://www.frontlinesms.com/) is not [Dimagi](https://www.dimagi.com/) is not [Praekelt](https://www.praekelt.org/), and so on. Bottomline: Think about the *needs* these firms can fill, not the *means* they use to do that. Once you identify your needs, reach out to a partner (or several) that can deliver on those capabilities.
 
-* ***Tip:** it’s okay to use more than one ICT4D firm on a project!*
-
-* ***Tip:*** *Don’t say “Oh, we already have an ICT4D partner” to a small ICT4D firm – because a strong team can still have multiple ICT4D partners if they fill different needs and bring unique capabilities.*
+* ***Tip:** It’s okay to use more than one ICT4D firm on a project!*
+* ***Tip:*** *Don’t say “Oh, we already have an ICT4D partner” to a small ICT4D firm—because a strong team can still have multiple ICT4D partners if they fill different needs and bring unique capabilities.*
 
 Small tech firms are the backbone of the ICT4D community. Engaging with smaller, specialized ICT4D firms in smart, appropriate, innovative ways allows you to make the most of your tech dollars. The more we [invest in the innovation ecosystem](https://dai-global-digital.com/hey-usaid-want-to-promote-innovation.html) and the more that larger development organizations [take data seriously](https://dai-global-digital.com/getting-the-basics-right.html), the better.
