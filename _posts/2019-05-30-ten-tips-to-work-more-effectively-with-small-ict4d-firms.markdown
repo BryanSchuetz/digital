@@ -1,14 +1,18 @@
 ---
-title: Ten tips to work more effectively with small ICT4D firms
-date: 2019-05-29 09:29:00 -04:00
+title: 10 Tips to Work Better with Small ICT4D Firms
+date: 2019-05-30 08:00:00 -04:00
+tags:
+- Entrepreneurship
 Author: Inta Plostins
+social-image: "/uploads/Mobile%20Expo%202%20(1).JPG"
+thumbnail: "/uploads/Mobile%20Expo%202%20(1).JPG"
 ---
 
-Hi, Digital@DAI readers! My name is Inta, and I am the newest staff member at DAI’s Center for Digital Acceleration. I come to DAI from GeoPoll, a U.S. registered small business in the mobile for development space. Making the transition from a small business specializing in ICT4D to a large business with a rockstar ICT4D team has given me some unique insights on the needs of small businesses. It has also provided me a big platform (thank you, Digital@DAI!) to share them with others, particularly people working for other major players in the international development sector. Below are some tips for using smaller, specialized technology firms – particularly U.S.-registered small businesses – more effectively in your development projects:
+Hi, Digital@DAI readers! My name is Inta, and I am the newest staff member at DAI’s Center for Digital Acceleration. I come to DAI from GeoPoll, a U.S. registered small business in the mobile for development space. Making the transition from a small business specializing in ICT4D to a large business with a rockstar ICT4D team has given me some unique insights on the needs of small businesses. It has also provided me a big platform (thank you, Digital@DAI!) to share them with others, particularly people working for other major players in the international development sector. Below are some tips for using smaller, specialized technology firms—particularly U.S.-registered small businesses—more effectively in your development projects:
 
 <!--more-->
 
-## Get creative…:
+## Get Creative…
 
 Working iteratively and collaboratively is the key to a successful relationship with any partner. Smaller, scrappier ICT4D firms are often willing to take bigger risks and try new things, which opens up a whole world of potential innovations. If you have an idea about how to use your partner’s technology in a new way, bring it up! They will listen to your off-the-wall ideas – and if it makes sense, they will make it happen. Who knows, you might have just thought up a whole new product line for your partner.
 
@@ -18,11 +22,11 @@ Working iteratively and collaboratively is the key to a successful relationship 
 
 The best relationships between ICT4D firms and their partners are those built on mutual trust, and – like I said before – the best projects are those that were developed iteratively and collaboratively. However, small ICT4D firms are the experts in their own technology. If they tell you that something will not work, listen to them. If they suggest another way of getting to the same outcome, listen to them. If they say they need more time to do a project justice, listen to them. If it’s not going to work --- it’s just not going to work.
 
-![Mobile Expo 2 (1).JPG](/uploads/Mobile%20Expo%202%20(1).JPG)  `Picture taken by DAI at a Mobile Expo.`
-
 * ***Tip:** you are not the expert in your partner’s tech solution. Trust your partner and take their advice.*
 
 * ***Tip:*** *invest in building a longer-term relationship with an ICT4D partner and build a compelling track record together.*
+
+![Mobile Expo 2 (1).JPG](/uploads/Mobile%20Expo%202%20(1).JPG)  `Picture of participants at a Mobile Expo hosted by the USAID Cambodia DI project in August 2015. Picture taken by DAI.`
 
 ## The more time, the better:
 
@@ -46,7 +50,7 @@ Smaller ICT4D firms may only implement fixed price, deliverable-based contracts 
 
 * ***Tip:*** *consider the full spectrum of contract/award mechanisms, including deliverable-based mechanisms, as you design RFPs – and consult with your small business partners.*
 
-## And finally –ICT4D firms are \*not \*all the same:
+## And finally –ICT4D firms are *not* all the same:
 
 Even though these companies all work under the broader ICT4D umbrella, they do different things, possess different strengths, and bring different value adds – [GeoPoll](https://www.geopoll.com/) is not [Viamo](https://viamo.io/) is not E[very1Mobile](https://www.every1mobile.com/) is not [Premise Data](https://www.premise.com/international-development/) is not [Frontline SMS](https://www.frontlinesms.com/) is not [Dimagi](https://www.dimagi.com/) is not [Praekelt](https://www.praekelt.org/), and so on. Bottom line – Think about the \*needs \*these firms can fill, not the *means* they use to do that. Once you identify your needs, reach out to a partner (or several) that can deliver on those capabilities.
 
