@@ -29,25 +29,23 @@ The best relationships between ICT4D firms and their partners are those built on
 
 ## The More Time, the Better
 
-Small businesses in ICT4D are incredibly agile. They can turn around proposals or get projects off the ground sometimes in as little as 24 hours! However, more lead time always yields higher quality proposals and projects. It allows your partner to think through which product or service might best solve your problem. It also leads to more tailored pricing, smoother project start-up, realistic project implementation timelines, and ultimately a higher quality result.
+Small businesses in ICT4D are incredibly agile. They can turn around proposals or get projects off the ground sometimes in as little as 24 hours! However, more lead time always yields higher quality proposals and projects. It allows your partner to think through which product or service might best solve your problem. It also leads to more tailored pricing, smoother project startup, realistic project implementation timelines, and ultimately a higher quality result.
 
-* ***Tip:** to maximize your ICT4D investments with U.S. registered small businesses, contact them early on.*
+* ***Tip:** To maximize your ICT4D investments with U.S. registered small businesses, contact them early on.*
+* ***Tip:** Build in realistic timelines for deploying their tech solutions.*
 
-* ***Tip:** build in realistic timelines for deploying their tech solutions.*
+## Revenue Generation is Key
 
-## Revenue generation is key…:
+At the end of the day, small businesses specializing in ICT4D are just that: businesses. Don’t get me wrong, these firms want to improve development outcomes, but they also need to make payroll and cover their expenses. Particularly for firms that run a high volume of smaller, shorter projects, time is money. If you meet with a firm and you know that their products and services really do not fit your needs, say so. Even if you like a firm and want to work with them, try not to ask for too many free pilots. And remember that projects need to generate revenue to keep the lights on.
 
-At the end of the day, small businesses specializing in ICT4D are just that: businesses. Don’t get me wrong, these firms want to improve development outcomes, but they also need to make payroll and cover their expenses. Particularly for firms that run a high volume of smaller, shorter projects, time is money. If you meet with a firm and you know that their products and services really do not fit your needs, say so. Even if you like a firm and want to work with them, try not to ask for too many free pilots. And remember that projects need to generate revenue in order to keep the lights on.
+* ***Tip:** Don’t leave these firms hanging—let them know as early as possible if you do not intend to use their services.*
+* ***Tip:** Technology is expensive, so budget accordingly.*
 
-* ***Tip:** don’t leave these firms hanging – let them know as early as possible if you do not intend to use their services.*
+## Contract Mechanisms Matter
 
-* ***Tip:** technology is expensive, so budget accordingly.*
+Smaller ICT4D firms may only implement fixed price, deliverable-based contracts instead of the cost reimbursable, level of effort-based contract mechanisms standard for larger firms. Why? They may want to reduce their management burden, may not have the rigorous internal systems that donors require, and may not even have timesheets! Because their management structures are not necessarily optimized to meet donor reporting requirements, something as simple as the choice of contract mechanism could inform whether a small, innovative tech firm will implement your project.
 
-## Contract mechanisms matter:
-
-Smaller ICT4D firms may only implement fixed price, deliverable-based contracts instead of the cost reimbursable, level of effort-based contract mechanisms standard for larger firms. Why? They may want to reduce their management burden, may not have the rigorous internal systems that donors require, and may not even have time sheets! Because their management structures are not necessarily optimized to meet donor reporting requirements, something as simple as the choice of contract mechanism could inform whether a small, innovative tech firm will implement your project.
-
-* ***Tip:*** *consider the full spectrum of contract/award mechanisms, including deliverable-based mechanisms, as you design RFPs – and consult with your small business partners.*
+* ***Tip:*** *Consider the full spectrum of contract/award mechanisms, including deliverable-based mechanisms, as you design RFPs—and consult with your small business partners.*
 
 ## And finally –ICT4D firms are *not* all the same:
 
