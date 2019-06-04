@@ -1,7 +1,10 @@
 ---
 title: 'Access for All in a Digital Economy: A reflection on DAI Development Matters
   Roundtables in Nigeria'
-date: 2019-06-04 12:07:00 -04:00
+date: 2019-06-06 07:00:00 -04:00
+tags:
+- Innovation
+- Digital Inclusion
 Author:
 - Talia Dweck
 - 
