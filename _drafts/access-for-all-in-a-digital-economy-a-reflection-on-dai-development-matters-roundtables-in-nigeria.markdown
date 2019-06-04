@@ -7,14 +7,16 @@ tags:
 - Digital Inclusion
 Author:
 - Talia Dweck
-- 
+- "[Chidera Agwu](https://www.linkedin.com/in/chidera-agwu/)"
 ---
 
-The technology revolution in Nigeria is remarkable compared to that of many other countries in Africa (the continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech start-ups that provide a conducive and innovative environment for entrepreneurs in several sectors including business, ICT, health, and more. The Nigerian government recognizes the power of the technology sector and has  made a commitment to increase digital access.
+The technology revolution in Nigeria is remarkable compared to that of many other countries in Africa (the continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech start-ups that provide a conducive and innovative environment for entrepreneurs across sectors. Powered by the Nigerian government's commitment to digital access, the digital ecosystem in Nigeria is likely to evolve further. Within this context, DAI Nigeria hosted two roundtables in Lagos and Abuja on April 3 and May 2. The focus of the discussions included current trends in the Nigerian digital ecosystem within the framework of  DAI’s VP of Technical Services Brigit Helms’ new book, [Access for All: Building Inclusive  Economic Systems.](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion)   
 
-On April 30 and May 2, DAI Nigeria hosted two roundtables in Lagos and Abuja. The discussions focused on the current trends in technological innovation in Nigeria and tied it to DAI’s VP of Technical Services Brigit Helms’ new book, [Access for All: Building Inclusive  Economic Systems.](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion) The Lagos roundtable centered around the lack of social inclusivity of digital access in Nigeria. It  highlighted the inspirational growth of tech start-ups by young people through hubs like the [Co-Creation Hub](https://cchubnigeria.com/) in Yaba and [Stonebricks](http://stonebrickshub.com/) Hub in Abuja, as well as a discussion on government action needed to support the needs of the small business in the technology sector.
+<!--more-->
 
-The panelists in Abuja included influential individuals like Dr. Isa Ali Ibrahim Pantami, the Director General and CEO of the [National Information Technology Development Agency ](https://nitda.gov.ng/nit/)and Deputy Director and Head of the Macroeconomic Policy Division of the [Central Bank Nigeria](https://www.cbn.gov.ng/), Ms. Ladi Bala Keffi. Their conversation focused on a call for greater IT development, regulation and policy, data ownership, cyber security, privacy, digital job creation, and financial access and inclusion.![nigeria pic.jpeg](/uploads/nigeria%20pic.jpeg)
+The Lagos roundtable on April 30 centered around the lack of social inclusivity of digital access in Nigeria. It  highlighted the inspirational growth of tech start-ups by young people through hubs like the [Co-Creation Hub](https://cchubnigeria.com/) in Yaba and [Stonebricks](http://stonebrickshub.com/) Hub in Abuja, as well as a discussion on government action needed to support the needs of the small business in the technology sector.
+
+The panelists in Abuja included influential individuals like Dr. Isa Ali Ibrahim Pantami, the Director General and CEO of the [National Information Technology Development Agency ](https://nitda.gov.ng/nit/)and Deputy Director and Head of the Macroeconomic Policy Division of the [Central Bank Nigeria](https://www.cbn.gov.ng/), Ms. Ladi Bala Keffi. Their conversation focused on a call for greater IT development, regulation and policy, data ownership, cyber security, privacy, digital job creation, and financial access and inclusion.![nigeria pic.jpeg](/uploads/nigeria%20pic.jpeg)`Picture from the Abuja Roundtable on May 2, 2019.`
 
 ## Key Take-Aways
 
