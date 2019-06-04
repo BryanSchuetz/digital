@@ -13,7 +13,7 @@ On April 30 and May 2, DAI Nigeria hosted two roundtables in Lagos and Abuja. Th
 
 The panelists in Abuja included influential individuals like Dr. Isa Ali Ibrahim Pantami, the Director General and CEO of the [National Information Technology Development Agency ](https://nitda.gov.ng/nit/)and Deputy Director and Head of the Macroeconomic Policy Division of the [Central Bank Nigeria](https://www.cbn.gov.ng/), Ms. Ladi Bala Keffi. Their conversation focused on a call for greater IT development, regulation and policy, data ownership, cyber security, privacy, digital job creation, and financial access and inclusion.![nigeria pic.jpeg](/uploads/nigeria%20pic.jpeg)
 
-**Key Take-Aways**
+## Key Take-Aways
 There were several key takeaways from the discussions, and while not revolutionary findings for digital development practitioners, it’s important to continue highlighting these issues and their persistence especially in countries like Nigeria, where the technological advancement is far beyond most other countries on the continent.
 
 * **Gender inequality** in Nigeria is a significant barrier to digital access for Nigerian women. Women, especially those who are lower income, less educated, and live in rural areas, are tacitly discouraged from having personal bank accounts, land ownership, and educational training that grant them benefits from technology like digital banking services and e-commerce. However, 60 percent of Nigeria’s GDP is represented by the unpaid work that women do. For example, the domestic work that many women are socially/culturally responsibly for constitutes a significant portion of household budgets. This issue calls for a widespread shift towards gender inclusion, especially in digital access.
