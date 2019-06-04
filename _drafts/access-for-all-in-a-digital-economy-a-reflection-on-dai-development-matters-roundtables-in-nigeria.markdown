@@ -8,6 +8,8 @@ tags:
 Author:
 - Talia Dweck
 - "[Chidera Agwu](https://www.linkedin.com/in/chidera-agwu/)"
+social-image: "/uploads/nigeria%20pic-941182.jpeg"
+thumbnail: "/uploads/nigeria%20pic-941182.jpeg"
 ---
 
 The technology revolution in Nigeria is remarkable compared to that of many other countries in Africa (the continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech start-ups that provide a conducive and innovative environment for entrepreneurs across sectors. Powered by the Nigerian government's commitment to digital access, the digital ecosystem in Nigeria is likely to evolve further. Within this context, DAI Nigeria hosted two roundtables in Lagos and Abuja on April 3 and May 2. The focus of the discussions included current trends in the Nigerian digital ecosystem within the framework of  DAI’s VP of Technical Services Brigit Helms’ new book, [Access for All: Building Inclusive  Economic Systems.](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion)
