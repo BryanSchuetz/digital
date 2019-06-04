@@ -16,7 +16,7 @@ The technology revolution in Nigeria is remarkable compared to that of many othe
 
 <!--more-->
 
-The Lagos roundtable on April 30 centered around the lack of social inclusivity of digital access in Nigeria. It  highlighted the inspirational growth of tech start-ups by young people through hubs like the [Co-Creation Hub](https://cchubnigeria.com/) in Yaba and [Stonebricks](http://stonebrickshub.com/) Hub in Abuja, as well as a discussion on government action needed to support the needs of the small business in the technology sector.
+The Lagos roundtable on April 30 centered around the lack of social inclusivity of digital access in Nigeria. It highlighted the inspirational growth of tech start-ups by young people through hubs like the [Co-Creation Hub](https://cchubnigeria.com/) in Yaba and [Stonebricks](http://stonebrickshub.com/) Hub in Abuja, as well as a discussion on government action needed to support the needs of the small business in the technology sector.
 
 The panelists at the Abuja roundtable on May 2 included influential individuals like Dr. Isa Ali Ibrahim Pantami, the Director General and CEO of the [National Information Technology Development Agency ](https://nitda.gov.ng/nit/)and Deputy Director and Head of the Macroeconomic Policy Division of the [Central Bank Nigeria](https://www.cbn.gov.ng/), Ms. Ladi Bala Keffi. Their conversation focused on a call for greater IT development, regulation and policy, data ownership, cyber security, privacy, digital job creation, and financial access and inclusion.![nigeria pic.jpeg](/uploads/nigeria%20pic.jpeg)`Picture from the Abuja Roundtable on May 2, 2019.`
 
