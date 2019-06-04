@@ -2,6 +2,9 @@
 title: 'Access for All in a Digital Economy: A reflection on DAI Development Matters
   Roundtables in Nigeria'
 date: 2019-06-04 12:07:00 -04:00
+Author:
+- Talia Dweck
+- 
 ---
 
 The technology revolution in Nigeria is remarkable compared to that of many other countries in Africa (The continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech start-ups that provide a conducive and innovative environment for entrepreneurs in several sectors including business, ICT, health, and more. Additionally, the federal government recognizes the power of the technology sector and made a commitment to increasing digital access.
