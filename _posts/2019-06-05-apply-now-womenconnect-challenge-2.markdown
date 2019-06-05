@@ -7,14 +7,10 @@ categories:
 - Innovation
 tags:
 - Digital Inclusion
-Author: "[Alana McGinty]"
+Author: Alana McGinty
 social-image: "/uploads/WomenConnect%20logo%202.png"
 thumbnail: "/uploads/WomenConnect%20logo%202.png"
 ---
-
-*Bridging the gender digital divide so that women can fully participate in the global economy*
-
-## THE GENDER DIGITAL DIVIDE
 
 Digital technology is revolutionizing the world by providing access to information, finance and networks — all of which are necessary for women to reach their full economic potential and create more self-reliant communities.
 
