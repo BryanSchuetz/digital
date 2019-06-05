@@ -1,5 +1,5 @@
 ---
-title: 'Access for All in a Digital Economy: A reflection on DAI Development Matters
+title: 'Access for All in a Digital Economy: A Reflection on DAI Development Matters
   Roundtables in Nigeria'
 date: 2019-06-06 07:00:00 -04:00
 tags:
