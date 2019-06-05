@@ -26,11 +26,13 @@ At the [2019 Global Entrepreneurship Summit](https://www.ges2019.org/), Presiden
 The W-GDP WomenConnect Challenge seeks to bridge the gender digital divide so that women can fully participate in the global economy. [USAID](https://www.usaid.gov/wcc) will disburse approximately three grants globally. Winning solutions will support the W-GDP’s three pillars:
 
 1. Advance workforce development and vocational education for women.
+
 2. Provide access to capital, markets, and networks for women entrepreneurs.
+
 3. Remove restrictive regulatory, legal, workplace, and social barriers to enable women in the economy.
 
 ## [Apply Now](https://app.reviewr.com/s1/site/WomenConnectChallenge19)
 
-To learn more and apply to the W-GDP WomenConnect Challenge go to the  [WomenConnect Challenge Application Platform](https://app.reviewr.com/s1/site/WomenConnectChallenge19)and download and read the Request for Applications (RFA) available in the Downloads section.
+To learn more and apply to the W-GDP WomenConnect Challenge go to the  [WomenConnect Challenge Application Platform ](https://app.reviewr.com/s1/site/WomenConnectChallenge19)and download and read the Request for Applications (RFA) available in the Downloads section. The W-GDP WomenConnect Challenge is open to registered US or non-US organizations regardless of type.
 
 If you have questions about the RFA, submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdVGepAww9C_HfE-7YsNEKW1LR4-IvqGEKROEzWTgyR2Leseg/viewform) by June 17 at 12pm ET. Make sure to submit your WomenConnect Challenge application by July 26 at 12pm ET.
