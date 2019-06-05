@@ -13,7 +13,7 @@ thumbnail: "/uploads/WomenConnect%20logo%202.png"
 
 Digital technology has revolutionized the world by providing instant access to information, finance, and networks—all of which are necessary for women to reach their full economic potential and create more self-reliant communities.
 
-Today, 1.7 billion women in low- and middle-income countries still [do not own mobile phones](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf). The internet user gender gap is greater than 40 percent in some countries. The persistent gender digital divide is reinforcing, and even exacerbating, existing socioeconomic gaps between men and women.
+Today, 1.7 billion women in low- and middle-income countries still [do not own mobile phones](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf). The internet user gender gap is greater than 40 percent in some countries. The persistent gender digital divide is reinforcing—and even exacerbating—existing socioeconomic gaps between men and women.
 
 Advancing women’s digital connectivity is key to promoting their empowerment in an increasingly digital world.
 
