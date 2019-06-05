@@ -7,7 +7,7 @@ categories:
 - Innovation
 tags:
 - Digital Inclusion
-Author: Alana McGinty
+Author: "[Alana McGinty]"
 social-image: "/uploads/WomenConnect%20logo%202.png"
 thumbnail: "/uploads/WomenConnect%20logo%202.png"
 ---
