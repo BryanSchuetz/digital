@@ -2,7 +2,6 @@
 title: Apply Now! Women’s Global Development and Prosperity Initiative WomenConnect
   Challenge
 date: 2019-06-05 08:47:00 -04:00
-published: false
 tags:
 - Digital Inclusion
 - Innovation
