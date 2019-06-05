@@ -1,37 +1,4 @@
 
-- title: "Apply Now! Women’s Global Development and Prosperity Initiative WomenConnect Challenge"
-  pub: "Digital"
-  date: 2019-06-05
-  link: "https://dai-global-digital.com/apply-now-womenconnect-challenge-2.html?utm_source=daidotcom"
-  summary: "*Bridging the gender digital divide so that women can fully participate in the global economy *
-
-THE GENDER DIGITAL DIVIDE
-
-Digital technology is revolutionizing the world by providing access to information, finance and networks — all of which are necessary for women to reach their full economic potential and create more self-reliant communities.
-
-Today, 1.7 billion women in low- and middle-income countries still do not own mobile phones. The internet user gender gap is more than 40 percent in some countries. The persistent gender digital divide is reinforcing, and even exacerbating, existing socioeconomic gaps between men and women.
-
-Advancing women’s digital connectivity is key to promoting their empowerment in an increasingly digital world.
-
-WOMEN’S GLOBAL DEVELOPMENT AND PROSPERITY WOMENCONNECT CHALLENGE
-
-At the 2019 Global Entrepreneurship Summit, Advisor to the President Ivanka Trump and USAID Deputy Administrator Bonnie Glick announced the second round of the WomenConnect Challenge under the White House-led Women’s Global Development and Prosperity (W-GDP) initiative. W-GDP is a U.S. Government wide effort to economically empower 50 million women in the developing world by 2025. By investing in women, USAID is enabling countries to progress beyond assistance by unlocking human potential on a transformational scale.
-
-The W-GDP WomenConnect Challenge seeks to bridge the gender digital divide so that women can fully participate in the global economy. USAID will disburse approximately three grants globally. Winning solutions will support the W-GDP’s three Pillars:
-
-  Advance workforce development and vocational education for women
-  Provide access to capital, markets and networks for women entrepreneurs
-  Remove restrictive regulatory, legal, workplace, and social barriers to enable women in the economy
-
-
-APPLY NOW
-
-To learn more and apply to the W-GDP WomenConnect Challenge go to the  WomenConnect Challenge Application Platform and download and read the Request for Applications (RFA) available in the Downloads section.
-If you have questions about the RFA, submit them here by June 17 at 12:00pm ET. Make sure to submit your WomenConnect Challenge application by July 26 at 12:00pm ET."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-
 - title: "10 Tips to Work Better with Small ICT4D Firms"
   pub: "Digital"
   date: 2019-05-30
@@ -241,4 +208,16 @@ But machine learning can also be put to less-scrupulous uses just as easily. Soc
     - digital acceleration 
     - Innovation 
     - Think Piece 
+
+- title: "The (Missing) Digital Principle: Educate the User"
+  pub: "Digital"
+  date: 2019-02-14
+  link: "https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html?utm_source=daidotcom"
+  summary: "We in the international development community talk a lot about privacy and security in digital development. We try to think through privacy and security in terms of the data we collect, what we do with it, and even how we address issues of consent around data collection. There’s an entire digital principle about it.
+
+In discussions like these, privacy and security are framed entirely in terms of the paradigm of extraction—collecting and gathering data from end users to organizations. This is an entirely valid and important discussion to continue having. However, there’s a discussion we’re not having that’s arguably even more important, and that’s around the privacy and security of users."
+  tags:
+    - digital acceleration 
+    - Think Piece 
+    - Digital Principles 
 
