@@ -6,8 +6,9 @@ categories:
 - Innovation
 tags:
 - Digital Inclusion
-Author: Alana McGinty
+Author: Greg Maly
 social-image: "/uploads/WomenConnect%20logo%202.png"
+thumbnail: "/uploads/WomenConnect%20logo%202.png"
 ---
 
 ## Bridging the gender digital divide so that women can fully participate in the global economy 
