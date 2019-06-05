@@ -12,7 +12,7 @@ social-image: "/uploads/nigeria%20pic-941182.jpeg"
 thumbnail: "/uploads/nigeria%20pic-941182.jpeg"
 ---
 
-The technology revolution in Nigeria is remarkable compared to other countries in Africa (the continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech startups that provide a collaborative environment for entrepreneurs across sectors. Powered by the Nigerian government's commitment to digital access, the digital ecosystem in Nigeria is likely to evolve further. Within this context, [DAI's office in Nigeria](http://) recently hosted two roundtables—one in Lagos and one in Abuja, both featuring insights from DAI’s Vice President of Technical Services, Brigit Helms, who recently published ["Access for All: Building Inclusive  Economic Systems."](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion)
+The technology revolution in Nigeria is remarkable compared to other countries in Africa (the continent completely skipped the landline stage of development!). As one of the top destinations for investment in Africa, Nigeria is home to booming tech startups that provide a collaborative environment for entrepreneurs across sectors. Powered by the Nigerian government's commitment to digital access, the digital ecosystem in Nigeria is likely to evolve further. Within this context, [DAI’s office in Nigeria](http://) recently hosted two roundtables—one in Lagos and one in Abuja, both featuring insights from DAI’s Vice President of Technical Services, Brigit Helms, who recently published ["Access for All: Building Inclusive  Economic Systems."](https://www.dai.com/news/access-for-all-dais-brigit-helms-launches-her-new-book-on-economic-inclusion)
 
 <!--more-->
 
@@ -24,7 +24,7 @@ Panelists at the Abuja roundtable included Isa Ali Ibrahim Pantami, the Director
 
 ## Key Takeaways
 
-There were several key takeaways from the discussions, and while not revolutionary findings for digital development practitioners, it’s important to continue highlighting these issues and their persistence especially in countries like Nigeria, where the technological advancement is far beyond most other countries on the continent.
+While not revolutionary findings for digital development practitioners, it’s important to continue highlighting these issues and their persistence especially in countries like Nigeria, where the technological advancement is far beyond most other countries on the continent.
 
 * **Gender inequality** in Nigeria is a significant barrier to digital access for Nigerian women. Women, especially those who are lower income, less educated, and live in rural areas, are tacitly discouraged from having personal bank accounts, land ownership, and educational training , This limits them from benefiting from digital services like digital banking and e-commerce. However, 60 percent of Nigeria’s GDP is represented by the unpaid work that women do. For example, the domestic work that many women are socially/culturally responsible for constitutes a significant portion of household budgets. This issue calls for a widespread shift towards gender inclusion, especially in digital access.
 
