@@ -2,6 +2,8 @@
 title: Apply Now! Women’s Global Development and Prosperity Initiative WomenConnect
   Challenge
 date: 2019-06-05 08:47:00 -04:00
+Author: Alana McGinty
+social-image: "/uploads/WomenConnect%20logo%202.png"
 ---
 
 ## Bridging the gender digital divide so that women can fully participate in the global economy 
