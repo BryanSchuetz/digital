@@ -31,5 +31,6 @@ The W-GDP WomenConnect Challenge seeks to bridge the gender digital divide so th
 
 ## [Apply Now](https://app.reviewr.com/s1/site/WomenConnectChallenge19)
 
-To learn more and apply to the W-GDP WomenConnect Challenge go to the  [WomenConnect Challenge Application Platform](https://app.reviewr.com/s1/site/WomenConnectChallenge19) and download and read the Request for Applications (RFA) available in the Downloads section.
-If you have questions about the RFA, submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdVGepAww9C_HfE-7YsNEKW1LR4-IvqGEKROEzWTgyR2Leseg/viewform) by June 17 at 12:00pm ET. Make sure to submit your WomenConnect Challenge application by July 26 at 12:00pm ET.
+To learn more and apply to the W-GDP WomenConnect Challenge go to the  [WomenConnect Challenge Application Platform](https://app.reviewr.com/s1/site/WomenConnectChallenge19)and download and read the Request for Applications (RFA) available in the Downloads section.
+
+If you have questions about the RFA, submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdVGepAww9C_HfE-7YsNEKW1LR4-IvqGEKROEzWTgyR2Leseg/viewform) by June 17 at 12pm ET. Make sure to submit your WomenConnect Challenge application by July 26 at 12pm ET.
