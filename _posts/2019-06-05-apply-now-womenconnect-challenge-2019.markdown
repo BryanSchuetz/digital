@@ -19,17 +19,15 @@ Advancing women’s digital connectivity is key to promoting their empowerment i
 
 <!--more-->
 
-## [WOMEN’S GLOBAL DEVELOPMENT AND PROSPERITY WOMENCONNECT CHALLENGE](https://www.womenconnectchallenge.org/)
+## [Women’s Global Development and Prosperity WomenConnect Challenge](https://www.womenconnectchallenge.org/)
 
-At the 2019 Global Entrepreneurship Summit, Advisor to the President Ivanka Trump and USAID Deputy Administrator Bonnie Glick announced the second round of the WomenConnect Challenge under the White House-led [Women’s Global Development and Prosperity (W-GDP) initiative](https://www.whitehouse.gov/wgdp/). W-GDP is a U.S. Government wide effort to economically empower 50 million women in the developing world by 2025. By investing in women, USAID is enabling countries to progress beyond assistance by unlocking human potential on a transformational scale.
+At the [2019 Global Entrepreneurship Summit](https://www.ges2019.org/), President Advisor [Ivanka Trump](https://www.youtube.com/watch?v=M00bRgV1kOA) and Deputy Administrator of the U.S. Agency for International Development (USAID) Bonnie Glick announced the second round of the WomenConnect Challenge under the White House-led [Women’s Global Development and Prosperity (W-GDP) initiative](https://www.whitehouse.gov/wgdp/). W-GDP is a U.S. Government effort to economically empower 50 million women in the developing world by 2025. By investing in women, USAID aims to enable countries to progress beyond assistance by unlocking human potential on a transformational scale.
 
 The W-GDP WomenConnect Challenge seeks to bridge the gender digital divide so that women can fully participate in the global economy. [USAID](https://www.usaid.gov/wcc) will disburse approximately three grants globally. Winning solutions will support the W-GDP’s three Pillars:
 
-1. Advance workforce development and vocational education for women
-
-2. Provide access to capital, markets and networks for women entrepreneurs
-
-3. Remove restrictive regulatory, legal, workplace, and social barriers to enable women in the economy
+1. Advance workforce development and vocational education for women.
+2. Provide access to capital, markets and networks for women entrepreneurs.
+3. Remove restrictive regulatory, legal, workplace, and social barriers to enable women in the economy.
 
 ## [APPLY NOW](https://app.reviewr.com/s1/site/WomenConnectChallenge19)
 
