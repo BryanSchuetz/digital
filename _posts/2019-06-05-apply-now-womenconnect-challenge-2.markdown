@@ -5,7 +5,7 @@ date: 2019-06-05 08:47:00 -04:00
 published: false
 tags:
 - Digital Inclusion
-Author: Greg Maly
+Author: "[Alana McGinty]"
 social-image: "/uploads/WomenConnect%20logo%202.png"
 thumbnail: "/uploads/WomenConnect%20logo%202.png"
 ---
