@@ -9,7 +9,6 @@ tags:
 Author: Talia Dweck
 social-image:
 - "/uploads/FAW_img1_SM.png"
-- "/uploads/FAW_img1_SM.png"
 thumbnail: "/uploads/FAW_img1_SM.png"
 ---
 
