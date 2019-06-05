@@ -1,5 +1,5 @@
 ---
-title: Apply Now! Women’s Global Development and Prosperity Initiative WomenConnect
+title: Apply Now to the Women’s Global Development and Prosperity Initiative WomenConnect
   Challenge
 date: 2019-06-05 08:47:00 -04:00
 published: false
@@ -11,9 +11,9 @@ social-image: "/uploads/WomenConnect%20logo%202.png"
 thumbnail: "/uploads/WomenConnect%20logo%202.png"
 ---
 
-Digital technology is revolutionizing the world by providing access to information, finance and networks — all of which are necessary for women to reach their full economic potential and create more self-reliant communities.
+Digital technology has revolutionized the world by providing instant access to information, finance, and networks—all of which are necessary for women to reach their full economic potential and create more self-reliant communities.
 
-Today, 1.7 billion women in low- and middle-income countries still do not own mobile phones. The internet user gender gap is more than 40 percent in some countries. The persistent gender digital divide is reinforcing, and even exacerbating, existing socioeconomic gaps between men and women.
+Today, 1.7 billion women in low- and middle-income countries still [do not own mobile phones](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf). The internet user gender gap is greater than 40 percent in some countries. The persistent gender digital divide is reinforcing, and even exacerbating, existing socioeconomic gaps between men and women.
 
 Advancing women’s digital connectivity is key to promoting their empowerment in an increasingly digital world.
 
