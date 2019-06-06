@@ -22,7 +22,7 @@ Panelists at the Abuja roundtable included Isa Ali Ibrahim Pantami, the Director
 
 ## Key Takeaways
 
-There were several key takeaways from the discussions, and while not revolutionary findings for digital development practitioners, it’s important to continue highlighting these issues and their persistence especially in countries like Nigeria, where the technological advancement is far beyond most other countries on the continent.
+There were several key takeaways from the discussions, and while not revolutionary findings for digital development practitioners, it’s important to continue highlighting these issues and their persistence especially in countries like Nigeria, where the technological advancement is beyond most countries in the region.
 
 * **Gender inequality** in Nigeria is a significant barrier to digital access for women. Women—especially those who have lower incomes, less education, and live in rural areas—are tacitly discouraged from having personal bank accounts, land ownership, and educational training, limiting them from benefiting from digital services such as digital banking and e-commerce. However, 60 percent of Nigeria’s GDP is represented by the unpaid work that women do. For example, the domestic work that many women are socially and culturally responsible for constitutes a significant portion of household budgets. This issue calls for a widespread shift towards gender inclusion, especially in digital access.
 
