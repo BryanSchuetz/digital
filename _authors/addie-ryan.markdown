@@ -1,8 +1,0 @@
----
-title: Addie Ryan
-date: 2019-05-16 07:27:00 -04:00
-Job: Strategic Projects Manager
-Image: "/uploads/Addie%20bio_photo.jpg"
----
-
-Addie is a Strategic Projects Manager within DAI’s Center for Digital Acceleration, providing new business and project management support, often for new and non-traditional donors. During her seven-year tenure with DAI, she has also supported a diverse portfolio of USAID-funded governance and economic growth projects in Asia and sub-Saharan Africa. From 2014-2018, Addie served as Program and Operations Manager in Jakarta for the regional [ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security](https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable) (PROGRESS) project in Indonesia, managing a team of staff to oversee project operations, compliance and financial management. Addie earned a B.A. in International Management and French from Gustavus Adolphus College in Minnesota and then launched her career in international development through a Fulbright Scholarship to examine the impact of micro-lending on women’s economic empowerment in Morocco. A native English-speaker, she is also proficient in French and conversational in Spanish, Moroccan Arabic and Indonesian.
