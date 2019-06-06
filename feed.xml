@@ -1,232 +1,33 @@
+---
+layout: 
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Digital@DAI</title>
-    <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
-    <link>https://dai-global-digital.com/</link>
-    <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jun 2019 14:39:30 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Jun 2019 14:39:30 -0400</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
-    
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for post in site.posts limit:10 %}
       <item>
-        <media:content url="https://dai-global-digital.com/uploads/WomenConnect%20logo%202.png" medium="image" /> 
-        <title>Apply Now to the Women’s Global Development and Prosperity Initiative WomenConnect Challenge</title>
-        <description>&lt;p&gt;Digital technology has revolutionized the world by providing instant access to information, finance, and networks—all of which are necessary for women to reach their full economic potential and create more self-reliant communities.&lt;/p&gt;
-
-&lt;p&gt;Today, 1.7 billion women in low- and middle-income countries still &lt;a href=&quot;https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf&quot;&gt;do not own mobile phones&lt;/a&gt;. The internet user gender gap is greater than 40 percent in some countries. The persistent gender digital divide is reinforcing—and even exacerbating—existing socioeconomic gaps between men and women.&lt;/p&gt;
-
-&lt;p&gt;Advancing women’s digital connectivity is key to promoting their empowerment in an increasingly digital world.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Jun 2019 08:47:00 -0400</pubDate>
-        <author>Alana McGinty
-</author>
-        <link>https://dai-global-digital.com/apply-now-womenconnect-challenge-2019.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-womenconnect-challenge-2019.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Innovation</category>
-        
-        
+        <media:content url="https://dai-global-digital.com{{ post.social-image }}" medium="image" /> 
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.excerpt | xml_escape | replace:'&lt;p&gt;&lt;img src=&quot;','&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com' }}</description>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <author>{% if post.Author %}{{ post.Author | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}</author>
+        <link>{{ post.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        {% for tag in post.tags %}
+        <category>{{ tag | xml_escape }}</category>
+        {% endfor %}
+        {% for cat in post.categories %}
+        <category>{{ cat | xml_escape }}</category>
+        {% endfor %}
       </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Mobile%20Expo%202%20(1).JPG" medium="image" /> 
-        <title>10 Tips to Work Better with Small ICT4D Firms</title>
-        <description>&lt;p&gt;Hi, Digital@DAI readers! My name is Inta, and I am the newest staff member at DAI’s Center for Digital Acceleration. I come to DAI from GeoPoll, a U.S. registered small business in the mobile for development space. Making the transition from a small business specializing in ICT4D to a large business with a rockstar ICT4D team has given me some unique insights on the needs of small businesses. It has also provided me a big platform (thank you, Digital@DAI!) to share them with others, particularly people working for other major players in the international development sector. Below are some tips for using smaller, specialized technology firms—particularly U.S.-registered small businesses—more effectively in your development projects:&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 30 May 2019 08:00:00 -0400</pubDate>
-        <author>Inta Plostins
-</author>
-        <link>https://dai-global-digital.com/ten-tips-to-work-more-effectively-with-small-ict4d-firms.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/ten-tips-to-work-more-effectively-with-small-ict4d-firms.html</guid>
-        
-        <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/go-jek%20app%201_resize-3fe73d.jpg" medium="image" /> 
-        <title>Longing for my SuperApp: Where’s the American Go-Jek?</title>
-        <description>&lt;p&gt;Earlier this year I underwent a major life transition. After over four years living in Southeast Asia while supporting DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/southeast-asia-asean-us-partnership-good-governance-equitable-and-sustainable&quot;&gt;ASEAN-U.S. PROGRESS&lt;/a&gt; project, I packed up my Jakarta apartment, shipped my belongings, and said farewell to the people and place that had become my home. The year 2019 was certain to be one of adjustment and inescapable reverse culture shock as I transitioned to life in America and a new position at DAI’s Bethesda, Maryland, office.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 May 2019 07:00:00 -0400</pubDate>
-        <author>Addie Ryan
-</author>
-        <link>https://dai-global-digital.com/longing-for-my-superapp-wheres-the-american-go-jek.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/longing-for-my-superapp-wheres-the-american-go-jek.html</guid>
-        
-        <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com![Main_logo.png](/uploads/Main_logo.png)" medium="image" /> 
-        <title>5 Takeaways From ICT4D 2019</title>
-        <description>&lt;p&gt;This year’s &lt;a href=&quot;https://www.ict4dconference.org/&quot;&gt;ICT4D Conference&lt;/a&gt; took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and &lt;a href=&quot;https://twitter.com/kiwanja&quot;&gt;Ken Banks&lt;/a&gt; and I had been invited to speak on the &lt;em&gt;one&lt;/em&gt; mobile for social good panel (true story!) at a telecoms event.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 May 2019 07:00:00 -0400</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/nclimate1908-f1.jpg" medium="image" /> 
-        <title>GIS Toolkit Overview Part I: Remote Sensing</title>
-        <description>&lt;p&gt;Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/7-July2017_flooded-751x580.jpg&quot; alt=&quot;7-July2017_flooded-751x580.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GIS image developed by the author when he was working for the Amazon Conservation Association.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 09 May 2019 08:00:00 -0400</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</guid>
-        
-        <category>GIS</category>
-        
-        <category>Imagery Analysis</category>
-        
-        <category>Remote Sensing Series</category>
-        
-        
-        <category>Data</category>
-        
-        <category>Data Analysis</category>
-        
-        <category>Information</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/phillipines-fauna.png" medium="image" /> 
-        <title>Designing A Wildlife Identification Tool in the Philippines</title>
-        <description>&lt;p&gt;Human-centered design (HCD)—the design and management framework pioneered by greats like IDEO.org and taught in countless design and business schools—is taking the development world by storm. And rightly so, in our opinion. HCD’s focus on empathy and creativity helps us design better, more sustainable solutions to some of the most difficult development challenges. We won’t go into too much detail on the broader HCD process or its application in digital development; my colleagues have written extensively on the excellent design work they’ve facilitated in places like &lt;a href=&quot;https://dai-global-digital.com/5-tips-for-doing-international-design-research.html&quot;&gt;Cambodia&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html&quot;&gt;Nepal&lt;/a&gt;, and &lt;a href=&quot;https://dai-global-digital.com/governance-app-guatemala.html&quot;&gt;Guatemala&lt;/a&gt;. What we’d like to do today, rather, is tell you about the time we almost perished while shadowing rangers in the forests of the Philippines, and what we learned in the process.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It is possible there is a bit of hyperbole inserted here. Possibly.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Apr 2019 19:16:00 -0400</pubDate>
-        <author><a href="/authors/rachel-clad/">Rachel Clad</a> and <a href="/authors/alejandro-solis/">Alejandro Solis</a>
-</author>
-        <link>https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Digital Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Map%20picture.png" medium="image" /> 
-        <title>Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online Platform</title>
-        <description>&lt;p&gt;A digital ecosystem is the how and why users interact with government services, digital financial tools, and each other using mobile devices. A single data point alone may not tell the whole story for digital inclusion and how to best reach those in low-connectivity settings globally. To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD) developed the mAccess diagnostic site, an online tool for global decision makers to analyze the availability, cost of connectivity, and number of users for more than 100 countries. The mAccess tool was launched in early 2016 and has been shared across USAID.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 26 Apr 2019 09:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/diegovalencia/">Diego Valencia</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html</guid>
-        
-        <category>RFP</category>
-        
-        <category>USAID</category>
-        
-        <category>Digital</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Digital%20ID%20small-1.jpg" medium="image" /> 
-        <title>Digital Identity Series Part 2: Digital Identity and Politics</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Digital%20ID1.jpg&quot; alt=&quot;Digital ID1.jpg&quot; class=&quot;float-left&quot; /&gt; Welcome back to the Digital Identity series. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.&lt;/p&gt;
-
-&lt;p&gt;Let’s start with the recognition that a formal identity is often a starting point for inclusion—without it, a person may not be able to access services such as health care, banking, or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Apr 2019 08:00:00 -0400</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html</guid>
-        
-        <category>Digital Identity Series</category>
-        
-        <category>Data</category>
-        
-        <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Connect.jpg" medium="image" /> 
-        <title>What Makes This Wireless Technology (5G) Different From All Other Wireless Technologies?</title>
-        <description>&lt;p&gt;When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population comes online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Apr 2019 09:00:00 -0400</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/CambodiaDI_Adam.jpg" medium="image" /> 
-        <title>5 Tips for Doing International Design Research</title>
-        <description>&lt;p&gt;DAI’s Center for Digital Acceleration (CDA) relies heavily on ethnographic design research in our work. By focusing our efforts on people &lt;em&gt;and&lt;/em&gt; the institutions around them, we:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Define the problem in their terms, not ours;&lt;/li&gt;
-  &lt;li&gt;Learn of, and about, previous attempts to solve the problem;&lt;/li&gt;
-  &lt;li&gt;Develop our understanding of local culture and history, as well as how people seek and share information and use mobile technology so we can meet them where they are;&lt;/li&gt;
-  &lt;li&gt;Mitigate the risks inherent to spending limited resources developing software or building digital tools, given the costs of doing so;&lt;/li&gt;
-  &lt;li&gt;Build ownership of the solution among the population; and…&lt;/li&gt;
-  &lt;li&gt;Enlist those who participate as promoters of the solution among their personal and professional networks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/New1.jpg&quot; alt=&quot;New1.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;The author teaching design research in Phnom Penh with the USAID Cambodia Development Innovations project.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Apr 2019 09:00:00 -0400</pubDate>
-        <author>Adam Fivenson
-</author>
-        <link>https://dai-global-digital.com/5-tips-for-doing-international-design-research.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/5-tips-for-doing-international-design-research.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Digital Insights</category>
-        
-        
-      </item>
-    
+    {% endfor %}
   </channel>
 </rss>
