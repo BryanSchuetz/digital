@@ -5,7 +5,7 @@ date: 2019-06-06 07:00:00 -04:00
 tags:
 - Innovation
 - Digital Inclusion
-Author: Talia Dweck, [Chidera Agwu](https://www.linkedin.com/in/chidera-agwu/)
+Author: "[Talia Dweck](/authors/talia-dweck/), [Chidera Agwu](https://www.linkedin.com/in/chidera-agwu/)"
 social-image: "/uploads/nigeria%20pic-941182.jpeg"
 thumbnail: "/uploads/nigeria%20pic-941182.jpeg"
 ---
