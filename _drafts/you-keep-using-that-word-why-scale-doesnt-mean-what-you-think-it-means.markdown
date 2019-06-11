@@ -10,6 +10,8 @@ thumbnail: "/uploads/Tepmachcha%20flood%20early%20warning.jpg"
 
 The Merriam-Webster Dictionary offers seven definitions of “scale”, involving variously weight, fish, climbing, maps, music, and – unexpectedly – lumber. Notably, none of these meanings is a synonym for “to embiggen”, the usage favored in both the tech and development worlds. In these environments, which share little else, taking something “to scale” always seems to evoke Carl Sagan-esque notions of quantity. What this reductionist approach to vocabulary loses (in addition to small stiff plates that cover much of the body of some animals) is the range that makes this word truly useful. In English, if not in Silicon Valley, you can scale *up*, but you can also scale *down*.
 
+<!--more-->
+
 It is true that both in software and hardware, scaling up is often the challenging part, so perhaps it is natural that this is where the focus would lie. But one of the most interesting tech developments of the last 10-15 years has been the emergence of tools and approaches that enable the affordable fabrication of hardware in small quantities – say, less than 1,000. And at these small scales we find a wealth of opportunity.
 
 It may seem like there is not much you can do with less than 1,000 units of a thing, but because hardware production has traditionally been the prisoner of economies of – yes – scale, this is precisely the level where many needs remain unmet. Particularly in developing countries, the ability to address problems with hardware without the infrastructure traditionally necessary to bring those economies of scale to bear has the potential to be a game changer.
