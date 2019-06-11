@@ -8,7 +8,7 @@ social-image: "/uploads/Tepmachcha%20flood%20early%20warning.jpg"
 thumbnail: "/uploads/Tepmachcha%20flood%20early%20warning.jpg"
 ---
 
-The Merriam-Webster Dictionary offers seven definitions of “scale,” involving variously weight, fish, climbing, maps, music, and—unexpectedly—lumber. Notably, none of these meanings is a synonym for “to embiggen,” the usage favored in the tech and development worlds. In these environments, which share little else, taking something “to scale” always seems to evoke Carl Sagan-esque notions of quantity. What this reductionist approach to vocabulary loses (in addition to small stiff plates that cover much of the body of some animals) is the range that makes this word truly useful. In English, if not in Silicon Valley, you can scale *up*, but you can also scale *down*.
+The Merriam-Webster Dictionary offers [seven](https://www.merriam-webster.com/dictionary/scale) definitions of “scale,” involving variously weight, fish, climbing, maps, music, and—unexpectedly—lumber. Notably, none of these meanings is a synonym for “to embiggen,” the usage favored in the tech and development worlds. In these environments, which share little else, taking something “to scale” always seems to evoke Carl Sagan-esque notions of quantity. What this reductionist approach to vocabulary loses (in addition to small stiff plates that cover much of the body of some animals) is the range that makes this word truly useful. In English, if not in Silicon Valley, you can scale *up*, but you can also scale *down*.
 
 <!--more-->
 
