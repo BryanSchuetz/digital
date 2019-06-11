@@ -1,6 +1,7 @@
 ---
 title: Rob Ryan-Sylva
 date: 2019-06-11 12:34:00 -04:00
+Job: Global Practice Specialist, Governance, and Director, DAI Maker Lab
 ---
 
 Rob Ryan-Silva is an international development professional with nearly 25 years of experience using systems approaches to achieve development results. Rob joined DAI in 2002.
