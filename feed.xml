@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Jun 2019 13:44:58 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2019 13:44:58 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Jun 2019 08:57:52 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Jun 2019 08:57:52 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Tepmachcha%20flood%20early%20warning.jpg" medium="image" /> 
+        <title>You Keep Using That Word: Why “Scale” Doesn’t Mean What You Think It Means</title>
+        <description>&lt;p&gt;The Merriam-Webster Dictionary offers &lt;a href=&quot;https://www.merriam-webster.com/dictionary/scale&quot;&gt;seven&lt;/a&gt; definitions of “scale,” involving variously weight, fish, climbing, maps, music, and—unexpectedly—lumber. Notably, none of these meanings is a synonym for “to embiggen,” the usage favored in the tech and development worlds. In these environments, which share little else, taking something “to scale” always seems to evoke Carl Sagan-esque notions of quantity. What this reductionist approach to vocabulary loses (in addition to small stiff plates that cover much of the body of some animals) is the range that makes this word truly useful. In English, if not in Silicon Valley, you can scale &lt;em&gt;up&lt;/em&gt;, but you can also scale &lt;em&gt;down&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Jun 2019 07:00:00 -0400</pubDate>
+        <author>Rob Ryan-Sylva
+</author>
+        <link>https://dai-global-digital.com/you-keep-using-that-word-why-scale-doesnt-mean-what-you-think-it-means.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/you-keep-using-that-word-why-scale-doesnt-mean-what-you-think-it-means.html</guid>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/nigeria%20pic-941182.jpeg" medium="image" /> 
@@ -194,25 +211,6 @@
         <category>Data</category>
         
         <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Connect.jpg" medium="image" /> 
-        <title>What Makes This Wireless Technology (5G) Different From All Other Wireless Technologies?</title>
-        <description>&lt;p&gt;When thinking about the internet in an ideal world, I often think of an independent platform that provides a mechanism for free expression, commerce, and the exchange of ideas. Yet, as more and more of the global population comes online, the internet has become a reflection of global dynamics and geopolitical undercurrents. Today, this reality is manifesting itself around the impending roll out of 5G.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Apr 2019 09:00:00 -0400</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-makes-this-wireless-technology-5g-different-than-all-other-wireless-technologies.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>Innovation</category>
         
         
       </item>

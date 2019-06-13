@@ -1,4 +1,13 @@
 
+- title: "You Keep Using That Word: Why “Scale” Doesn’t Mean What You Think It Means"
+  pub: "Digital"
+  date: 2019-06-13
+  link: "https://dai-global-digital.com/you-keep-using-that-word-why-scale-doesnt-mean-what-you-think-it-means.html?utm_source=daidotcom"
+  summary: "The Merriam-Webster Dictionary offers seven definitions of “scale,” involving variously weight, fish, climbing, maps, music, and—unexpectedly—lumber. Notably, none of these meanings is a synonym for “to embiggen,” the usage favored in the tech and development worlds. In these environments, which share little else, taking something “to scale” always seems to evoke Carl Sagan-esque notions of quantity. What this reductionist approach to vocabulary loses (in addition to small stiff plates that cover much of the body of some animals) is the range that makes this word truly useful. In English, if not in Silicon Valley, you can scale up, but you can also scale down."
+  tags:
+    - digital acceleration 
+    - Innovation 
+
 - title: "Access for All in a Digital Economy: A Reflection on DAI Development Matters Roundtables in Nigeria"
   pub: "Digital"
   date: 2019-06-06
@@ -210,16 +219,4 @@ Over the next few months, we will look at some of the issues and opportunities a
   tags:
     - digital acceleration 
     - Innovation 
-
-- title: "Machine Learning Changes the Business Case for Automated Phishing Attacks"
-  pub: "Digital"
-  date: 2019-02-21
-  link: "https://dai-global-digital.com/machine-learning-changes-the-business-case-for-automated-phishing-attacks.html?utm_source=daidotcom"
-  summary: "Researchers have demonstrated the capability of machine learning to help with everything from saving honeybees and tracking flu vaccine uptake, to aiding in the fight against bioterrorism, and plenty in between.
-
-But machine learning can also be put to less-scrupulous uses just as easily. Social engineering is a type of cyber attack that deceives users into creating security breaches, typically through emails and phone calls (often called ‘phishing’), and the marriage of machine learning with social engineering is poised to be a burgeoning issue in the near future. This issue is a global problem, but developing markets are often at the highest risk for cyberattacks due to the lack of capacity to defend against and track such attacks. As such, they often find themselves as the testing grounds for novel attack methods before they reach more developed markets."
-  tags:
-    - digital acceleration 
-    - Cybersecurity 
-    - Machine Learning 
 
