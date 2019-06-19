@@ -25,7 +25,7 @@ Coffee Cloud was built using a [human-centered design](https://dai-global-digita
 * Is a data collection tool: Farmers input information to get customized advice, and this data is taken into account by an early warning system for the entire coffee industry.
 
 Today, Coffee Cloud is being used by more than 5,000 farmers across Central America. This white paper shares the lessons we learned building and deploying the tool, with a focus on fundamental questions of design and implementation:
-* How we decided to build an app instead of a web site or other engagement platform.
+* How we decided to build an app instead of a website or other engagement platform.
 * How the functions and visual elements were chosen from an list of possibilities, through direct engagement with prospective users from government ministries to farmers in the field.
 * How we assembled a consortium of stakeholders and contributors from across government, the scientific community, agribusiness, and farmers themselves. 
 * How DAI was involved, and how the consortium collaborated to leverage each player’s unique strengths.
