@@ -7,13 +7,15 @@ tags:
 - Agriculture
 - Human-centered design
 Author: Alejandro Solis & Adam Fivenson
+social-image: "/uploads/cover1.png"
+thumbnail: "/uploads/cover1.png"
 ---
 
 Coffee rust has menaced the global coffee industry for more than a century, but particularly in the era of climate change. Nevertheless, effective, coordinated action between coffee producing countries across Central America has remained elusive, and as a result the disease has spread—to devastating effect. In 2012 and 2013, coffee rust reduced the region’s coffee production by 15 percent, including a staggering 31 percent in Honduras. The figure below shows the losses each country suffered during that season. 
 
 ![chart image-658d85.PNG](/uploads/chart%20image-658d85.PNG)`Data provided by the coffee institutes or agriculture ministries of the relevant countries (IHCAFE, ANACAFE, ICAFE, MAGFOR, and PROCAFÉ) for a project titled “Controlling Coffee Rust in Mesoamerica,” implemented by CATIE, CIRAD, and PROMECAFÉ, and financed by the Government of Norway. Graphic: Jennifer Geib`
 
-##Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
 
 According to the Inter-American Institute for Agricultural Cooperation, the decline in regional coffee production meant the loss of 265,000 jobs between 2012 and 2013, causing lasting damage to Central America’s already-fragile economies, particularly in rural areas.
 
@@ -33,4 +35,4 @@ Today, Coffee Cloud is being used by more than 5,000 farmers across Central Amer
 
 ![cover1.png](/uploads/cover1.png)
 
-##Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
