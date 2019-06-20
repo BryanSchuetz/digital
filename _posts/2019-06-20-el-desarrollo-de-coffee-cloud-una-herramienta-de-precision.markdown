@@ -6,6 +6,8 @@ published: false
 tags:
 - Agriculture
 - diseño centrado en el humano
+Author: "[Alejandro Solis](https://dai-global-digital.com/authors/alejandro-solis/)
+  y [Adam Fivenson](https://dai-global-digital.com/authors/adam-fivenson/)"
 social-image: "/uploads/cover1.png"
 thumbnail: "/uploads/cover1.png"
 ---
