@@ -1,7 +1,7 @@
 ---
 title: 'Building Coffee Cloud: A Precision Ag Tool Used by Farmers Across Central
   America'
-date: 2019-06-19 15:06:00 -04:00
+date: 2019-06-20 08:00:00 -04:00
 tags:
 - Agriculture
 - Human-centered design
