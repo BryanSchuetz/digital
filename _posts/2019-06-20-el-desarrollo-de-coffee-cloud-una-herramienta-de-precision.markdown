@@ -2,6 +2,7 @@
 title: 'El desarrollo de Coffee Cloud: Una herramienta de precisión utilizada por
   agricultores en la región centroamericana'
 date: 2019-06-20 13:57:00 -04:00
+published: false
 tags:
 - Agriculture
 - diseño centrado en el humano
