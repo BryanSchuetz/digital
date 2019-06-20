@@ -5,8 +5,7 @@ date: 2019-06-20 08:00:00 -04:00
 tags:
 - Agriculture
 - Human-centered design
-Author:
-- "[Adam Fivenson](https://dai-global-digital.com/authors/adam-fivenson/) and [Alejandro
+Author: "[Adam Fivenson](https://dai-global-digital.com/authors/adam-fivenson/) and [Alejandro
   Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
 social-image: "/uploads/cover1.png"
 thumbnail: "/uploads/cover1.png"
