@@ -16,8 +16,12 @@ Durante más de un siglo, la roya ha representado una seria amenaza para la indu
 
 ![chart image-658d85.PNG](/uploads/chart%20image-658d85.PNG)`Datos suministrados por los institutos de café o los ministerios de agricultura de los países relevantes (IHCAFE, ANACAFE, ICAFE, MAGFOR, y PROCAFÉ), en el marco del proyecto de CATIE, CIRAD y PROMECAFÉ titulado “Control de la roya del café en Mesoamérica”, financiado por el gobierno de Noruega. Gráfico de Jennifer Geib.`
 
-Según el Instituto Interamericano de Cooperación para la Agricultura (IICA), entre 2012 y 2013, la disminución de la producción cafetalera en Centroamérica dio como resultado la pérdida de 265 000 puestos de empleos, lo cual ocasionó daños perdurables en las economías de la región, las cuales ya eran frágiles, especialmente en las zonas rurales. 
-Como respuesta a este creciente reto, al igual que para aprovechar la rápida ampliación del ecosistema digital de la región, DAI, a través del Programa Regional de Cambio Climático, financiado por USAID, desarrolló una aplicación que ayudaría a los agricultores a combatir la roya del café y a mejorar el rendimiento de sus cultivos.
+Según el Instituto Interamericano de Cooperación para la Agricultura (IICA), entre 2012 y 2013, la disminución de la producción cafetalera en Centroamérica dio como resultado la pérdida de 265 000 puestos de empleos, lo cual ocasionó daños perdurables en las economías de la región, las cuales ya eran frágiles, especialmente en las zonas rurales.
+ 
+Como respuesta a este creciente reto, al igual que para aprovechar la rápida ampliación del ecosistema digital de la región, DAI, a través del Programa Regional de Cambio Climático, financiado por USAID, desarrolló una aplicación-Coffee Cloud-que ayudaría a los agricultores a combatir la roya del café y a mejorar el rendimiento de sus cultivos.
+
+## Download the new white paper Coffee Cloud: Precision Ag at the Touch of a Button in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+
 Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano] (https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
 * Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
 * Permite una comunicación de doble vía. La aplicación establece una comunicación en tiempo real entre los caficultores y los institutos gubernamentales de café de sus respectivos países. 
