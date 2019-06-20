@@ -7,8 +7,8 @@ tags:
 - Agriculture
 - Human-centered design
 Author:
-- Alejandro Solis
-- Adam Fivenson
+- "[Adam Fivenson](https://dai-global-digital.com/authors/adam-fivenson/) and [Alejandro
+  Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
 social-image: "/uploads/cover1.png"
 thumbnail: "/uploads/cover1.png"
 ---
