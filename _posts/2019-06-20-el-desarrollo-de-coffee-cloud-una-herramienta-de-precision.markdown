@@ -20,9 +20,9 @@ Según el Instituto Interamericano de Cooperación para la Agricultura (IICA), e
  
 Como respuesta a este creciente reto, al igual que para aprovechar la rápida ampliación del ecosistema digital de la región, DAI, a través del Programa Regional de Cambio Climático, financiado por USAID, desarrolló una aplicación-Coffee Cloud-que ayudaría a los agricultores a combatir la roya del café y a mejorar el rendimiento de sus cultivos.
 
-## Download the new white paper Coffee Cloud: Precision Ag at the Touch of a Button in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+## Descarga el nuevo reporte Coffee Cloud: Una necesidad regional con un enfoque nacional en [español](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf) o [inglés](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf).
 
-Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano] (https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
+Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
 * Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
 * Permite una comunicación de doble vía. La aplicación establece una comunicación en tiempo real entre los caficultores y los institutos gubernamentales de café de sus respectivos países. 
 * Establece nexos entre la información generada por los servicios meteorológicos y los institutos de café, por un lado, y el sector cafetalero y los productores individuales, por otro, y utiliza información meteorológica histórica para la creación de un modelo predictivo. 
@@ -36,4 +36,5 @@ Actualmente, más de 5000 agricultores de toda la región centroamericana ya est
 * Cómo se involucró DAI en esta iniciativa y la forma en que el consorcio colaboró para poder potenciar las fortalezas singulares de cada uno de los grupos participantes. 
 * Cómo se obtuvo la voluntad política entre los gobiernos y otras contrapartes, y la manera en que se potenció este aspecto. 
 
-Descargue el documento en [inglés] o en [español]
+## Descarga el nuevo reporte Coffee Cloud: Una necesidad regional con un enfoque nacional en [español](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf) o [inglés](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf).
+![cover1.png](/uploads/cover1.png)
