@@ -36,4 +36,4 @@ Today, Coffee Cloud is being used by more than 5,000 farmers across Central Amer
 
 ![cover1.png](/uploads/cover1.png)
 
-## Download the report in [English.](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish.](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
