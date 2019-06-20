@@ -19,17 +19,17 @@ Durante más de un siglo, la roya ha representado una seria amenaza para la indu
 Según el Instituto Interamericano de Cooperación para la Agricultura (IICA), entre 2012 y 2013, la disminución de la producción cafetalera en Centroamérica dio como resultado la pérdida de 265 000 puestos de empleos, lo cual ocasionó daños perdurables en las economías de la región, las cuales ya eran frágiles, especialmente en las zonas rurales. 
 Como respuesta a este creciente reto, al igual que para aprovechar la rápida ampliación del ecosistema digital de la región, DAI, a través del Programa Regional de Cambio Climático, financiado por USAID, desarrolló una aplicación que ayudaría a los agricultores a combatir la roya del café y a mejorar el rendimiento de sus cultivos.
 Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano] (https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
-•	Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
-•	Permite una comunicación de doble vía. La aplicación establece una comunicación en tiempo real entre los caficultores y los institutos gubernamentales de café de sus respectivos países. 
-•	Establece nexos entre la información generada por los servicios meteorológicos y los institutos de café, por un lado, y el sector cafetalero y los productores individuales, por otro, y utiliza información meteorológica histórica para la creación de un modelo predictivo. 
-•	Es una herramienta para recopilar datos. Los agricultores ingresan información para obtener asesoría adaptada a sus necesidades. Asimismo, estos datos se tienen en cuenta dentro de un sistema de alerta temprana para toda la industria cafetalera. 
+* Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
+* Permite una comunicación de doble vía. La aplicación establece una comunicación en tiempo real entre los caficultores y los institutos gubernamentales de café de sus respectivos países. 
+* Establece nexos entre la información generada por los servicios meteorológicos y los institutos de café, por un lado, y el sector cafetalero y los productores individuales, por otro, y utiliza información meteorológica histórica para la creación de un modelo predictivo. 
+* Es una herramienta para recopilar datos. Los agricultores ingresan información para obtener asesoría adaptada a sus necesidades. Asimismo, estos datos se tienen en cuenta dentro de un sistema de alerta temprana para toda la industria cafetalera. 
 
-Actualmente, más de 5 000 agricultores de toda la región centroamericana ya están utilizando Coffee Cloud. Este informe técnico comparte las lecciones que aprendimos durante el desarrollo y el uso de la herramienta, centrándose en diversos asuntos fundamentales relativos a su diseño e implementación: 
+Actualmente, más de 5000 agricultores de toda la región centroamericana ya están utilizando Coffee Cloud. Este informe técnico comparte las lecciones que aprendimos durante el desarrollo y el uso de la herramienta, centrándose en diversos asuntos fundamentales relativos a su diseño e implementación: 
 
-•	Cómo decidimos desarrollar una aplicación, en lugar de una página de Internet u otra plataforma de participación. 
-•	La forma en que se escogieron las funciones y los elementos visuales, a partir de una lista de posibilidades y a través de la participación directa de diversos usuarios posibles, desde ministerios gubernamentales hasta agricultores en el campo. 
-•	Cómo establecimos un consorcio de grupos interesados y colaboradores de los gobiernos, la comunidad científica, la agroindustria y hasta los propios agricultores. 
-•	Cómo se involucró DAI en esta iniciativa y la forma en que el consorcio colaboró para poder potenciar las fortalezas singulares de cada uno de los grupos participantes. 
-•	Cómo se obtuvo la voluntad política entre los gobiernos y otras contrapartes, y la manera en que se potenció este aspecto. 
+* Cómo decidimos desarrollar una aplicación, en lugar de una página de Internet u otra plataforma de participación. 
+* La forma en que se escogieron las funciones y los elementos visuales, a partir de una lista de posibilidades y a través de la participación directa de diversos usuarios posibles, desde ministerios gubernamentales hasta agricultores en el campo. 
+* Cómo establecimos un consorcio de grupos interesados y colaboradores de los gobiernos, la comunidad científica, la agroindustria y hasta los propios agricultores. 
+* Cómo se involucró DAI en esta iniciativa y la forma en que el consorcio colaboró para poder potenciar las fortalezas singulares de cada uno de los grupos participantes. 
+* Cómo se obtuvo la voluntad política entre los gobiernos y otras contrapartes, y la manera en que se potenció este aspecto. 
 
 Descargue el documento en [inglés] o en [español]
