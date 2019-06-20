@@ -24,6 +24,7 @@ According to the Inter-American Institute for Agricultural Cooperation, the decl
 To respond to the growing challenge, and to take advantage of the region’s rapidly expanding digital ecosystem, DAI—working through the U.S. Agency for International Development-funded [Regional Climate Change Program](https://www.dai.com/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de)—developed an application--Coffee Cloud--that would help farmers fight coffee rust and improve their crop yields.
 
 ## Download the new white paper Coffee Cloud: Precision Ag at the Touch of a Button in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+![cover1.png](/uploads/cover1.png)
 
 Coffee Cloud was built using a [human-centered design](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) approach, bringing together government institutions, research institutes, and coffee producers in a collaborative, creative fashion. The application produces information specific to each farmer’s crop to facilitate data-driven decision making about the management of those crops. This app:
 * Was created with and for coffee farmers: Its design process focused on user input to create a customized, demand-driven solution.
@@ -39,4 +40,3 @@ Today, Coffee Cloud is being used by more than 5,000 farmers across Central Amer
 * How political will among governments and other partners was secured and leveraged.  
 
 ## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
-![cover1.png](/uploads/cover1.png)

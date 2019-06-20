@@ -26,6 +26,8 @@ Como respuesta a este creciente reto, al igual que para aprovechar la rápida am
 
 ## Descarga el nuevo reporte Coffee Cloud: Una necesidad regional con un enfoque nacional en [español](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf) o [inglés](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf).
 
+![cover1.png](/uploads/cover1.png)
+
 Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
 * Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
 * Permite una comunicación de doble vía. La aplicación establece una comunicación en tiempo real entre los caficultores y los institutos gubernamentales de café de sus respectivos países. 
@@ -41,4 +43,3 @@ Actualmente, más de 5000 agricultores de toda la región centroamericana ya est
 * Cómo se obtuvo la voluntad política entre los gobiernos y otras contrapartes, y la manera en que se potenció este aspecto. 
 
 ## Descarga el nuevo reporte Coffee Cloud: Una necesidad regional con un enfoque nacional en [español](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf) o [inglés](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf).
-![cover1.png](/uploads/cover1.png)
