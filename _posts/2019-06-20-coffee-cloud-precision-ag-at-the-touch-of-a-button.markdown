@@ -13,6 +13,8 @@ thumbnail: "/uploads/cover1.png"
 
 Coffee rust has menaced the global coffee industry for more than a century, but particularly in the era of climate change. Nevertheless, effective, coordinated action between coffee producing countries across Central America has remained elusive, and as a result the disease has spread—to devastating effect. In 2012 and 2013, coffee rust reduced the region’s coffee production by 15 percent, including a staggering 31 percent in Honduras. The figure below shows the losses each country suffered during that season. 
 
+<!--more-->
+
 ![chart image-658d85.PNG](/uploads/chart%20image-658d85.PNG)`Data provided by the coffee institutes or agriculture ministries of the relevant countries (IHCAFE, ANACAFE, ICAFE, MAGFOR, and PROCAFÉ) for a project called “Controlling Coffee Rust in Mesoamerica,” implemented by CATIE, CIRAD, and PROMECAFÉ, and financed by the Government of Norway. Graphic: Jennifer Geib`
 
 ## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
