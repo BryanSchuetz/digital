@@ -5,14 +5,37 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2019 15:14:45 -0400</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 15:14:45 -0400</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2019 15:55:41 -0400</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2019 15:55:41 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/cover1.png" medium="image" /> 
+        <title>El desarrollo de Coffee Cloud: Una herramienta de precisión utilizada por agricultores en la región centroamericana</title>
+        <description>&lt;p&gt;&lt;em&gt;This post is also available in &lt;a href=&quot;https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html&quot;&gt;English&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Durante más de un siglo, la roya ha representado una seria amenaza para la industria cafetalera mundial, especialmente en la era del cambio climático. No obstante, la toma de acciones eficaces y de forma coordinada entre los países centroamericanos productores de café ha sido una tarea difícil de lograr. En consecuencia, esta enfermedad ha continuado propagándose y sus efectos han sido devastadores. Entre 2012 y 2013, la roya ocasionó que la región centroamericana experimentara una reducción del 15 por ciento de su producción de café, lo que incluyó un alarmante 31 por ciento en Honduras. El gráfico siguiente muestra las pérdidas que experimentó cada país durante este período.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Jun 2019 13:57:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/alejandro-solis/">Alejandro Solis</a> y <a href="https://dai-global-digital.com/authors/adam-fivenson/">Adam Fivenson</a>
+</author>
+        <link>https://dai-global-digital.com/el-desarrollo-de-coffee-cloud-una-herramienta-de-precision.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/el-desarrollo-de-coffee-cloud-una-herramienta-de-precision.html</guid>
+        
+        <category>Agriculture</category>
+        
+        <category>diseño centrado en el humano</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/cover1.png" medium="image" /> 
         <title>Building Coffee Cloud: A Precision Ag Tool Used by Farmers Across Central America</title>
-        <description>&lt;p&gt;Coffee rust has menaced the global coffee industry for more than a century, but particularly in the era of climate change. Nevertheless, effective, coordinated action between coffee producing countries across Central America has remained elusive, and as a result the disease has spread—to devastating effect. In 2012 and 2013, coffee rust reduced the region’s coffee production by 15 percent, including a staggering 31 percent in Honduras. The figure below shows the losses each country suffered during that season.&lt;/p&gt;
+        <description>&lt;p&gt;Esta entrada también está disponible en &lt;a href=&quot;dai-global-digital.com/el-desarrollo-de-coffee-cloud-una-herramienta-de-precision.html&quot;&gt;español&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Coffee rust has menaced the global coffee industry for more than a century, but particularly in the era of climate change. Nevertheless, effective, coordinated action between coffee producing countries across Central America has remained elusive, and as a result the disease has spread—to devastating effect. In 2012 and 2013, coffee rust reduced the region’s coffee production by 15 percent, including a staggering 31 percent in Honduras. The figure below shows the losses each country suffered during that season.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 20 Jun 2019 08:00:00 -0400</pubDate>
@@ -186,27 +209,6 @@
         <category>Human-centered design</category>
         
         <category>Digital Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Map%20picture.png" medium="image" /> 
-        <title>Apply Now to Redesign the USAID Center for Digital Development’s mAccess Online Platform</title>
-        <description>&lt;p&gt;A digital ecosystem is the how and why users interact with government services, digital financial tools, and each other using mobile devices. A single data point alone may not tell the whole story for digital inclusion and how to best reach those in low-connectivity settings globally. To help address this challenge, the U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD) developed the mAccess diagnostic site, an online tool for global decision makers to analyze the availability, cost of connectivity, and number of users for more than 100 countries. The mAccess tool was launched in early 2016 and has been shared across USAID.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 26 Apr 2019 09:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/diegovalencia/">Diego Valencia</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-to-redesign-the-usaid-center-for-digital-developments-maccess-online-platform.html</guid>
-        
-        <category>RFP</category>
-        
-        <category>USAID</category>
-        
-        <category>Digital</category>
         
         
       </item>
