@@ -2,7 +2,6 @@
 title: 'El desarrollo de Coffee Cloud: Una herramienta de precisión utilizada por
   agricultores en la región centroamericana'
 date: 2019-06-20 13:57:00 -04:00
-published: false
 tags:
 - Agriculture
 - diseño centrado en el humano
@@ -26,7 +25,7 @@ Como respuesta a este creciente reto, al igual que para aprovechar la rápida am
 
 ## Descarga el nuevo reporte Coffee Cloud: Una necesidad regional con un enfoque nacional en [español](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf) o [inglés](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf).
 
-![cover1.png](/uploads/cover1.png)
+![cover image spanish1.png](/uploads/cover%20image%20spanish1.png)
 
 Coffee Cloud se desarrolló mediante el uso de un enfoque de [diseño centrado en el ser humano](https://dai-global-digital.com/dai-launches-human-centered-design-whitepaper.html) y se aunaron esfuerzos de forma colaborativa y creativa con instituciones gubernamentales, centros investigativos y caficultores. La aplicación genera información específica para los cultivos de cada agricultor, a fin de facilitar la toma de decisiones en función de los datos obtenidos sobre su gestión. Esta aplicación:
 * Se creó con y para los caficultores. Su proceso de diseño se centró en los insumos de los usuarios para establecer una solución personalizada e impulsada por la demanda. 
