@@ -29,11 +29,11 @@ Coffee Cloud was built using a [human-centered design](https://dai-global-digita
 
 Today, Coffee Cloud is being used by more than 5,000 farmers across Central America. This white paper shares the lessons we learned building and deploying the tool, with a focus on fundamental questions of design and implementation:
 * How we decided to build an app instead of a website or other engagement platform.
-* How the functions and visual elements were chosen from an list of possibilities, through direct engagement with prospective users from government ministries to farmers in the field.
+* How the functions and visual elements were chosen from a list of possibilities, through direct engagement with prospective users from government ministries to farmers in the field.
 * How we assembled a consortium of stakeholders and contributors from across government, the scientific community, agribusiness, and farmers themselves. 
 * How DAI was involved, and how the consortium collaborated to leverage each player’s unique strengths.
 * How political will among governments and other partners was secured and leveraged.  
 
 ![cover1.png](/uploads/cover1.png)
 
-## Download the report in [English](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
+## Download the report in [English.](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf) or [Spanish](https://assetify-dai.com/pdfs/digital-coffee-cloud-esp.pdf)
