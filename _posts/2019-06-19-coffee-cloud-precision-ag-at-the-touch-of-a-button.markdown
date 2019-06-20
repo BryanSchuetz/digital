@@ -6,7 +6,9 @@ published: false
 tags:
 - Agriculture
 - Human-centered design
-Author: Alejandro Solis & Adam Fivenson
+Author:
+- Alejandro Solis
+- Adam Fivenson
 social-image: "/uploads/cover1.png"
 thumbnail: "/uploads/cover1.png"
 ---
