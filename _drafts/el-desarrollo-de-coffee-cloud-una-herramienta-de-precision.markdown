@@ -2,6 +2,11 @@
 title: 'El desarrollo de Coffee Cloud: Una herramienta de precisión utilizada por
   agricultores en la región centroamericana'
 date: 2019-06-20 13:57:00 -04:00
+tags:
+- Agriculture
+- diseño centrado en el humano
+social-image: "/uploads/cover1.png"
+thumbnail: "/uploads/cover1.png"
 ---
 
 Durante más de un siglo, la roya ha representado una seria amenaza para la industria cafetalera mundial, especialmente en la era del cambio climático. No obstante, la toma de acciones eficaces y de forma coordinada entre los países centroamericanos productores de café ha sido una tarea difícil de lograr. En consecuencia, esta enfermedad ha continuado propagándose y sus efectos han sido devastadores. Entre 2012 y 2013, la roya ocasionó que la región centroamericana experimentara una reducción del 15 por ciento de su producción de café, lo que incluyó un alarmante 31 por ciento en Honduras. El gráfico siguiente muestra las pérdidas que experimentó cada país durante este período. 
@@ -26,4 +31,4 @@ Actualmente, más de 5 000 agricultores de toda la región centroamericana ya es
 •	Cómo se involucró DAI en esta iniciativa y la forma en que el consorcio colaboró para poder potenciar las fortalezas singulares de cada uno de los grupos participantes. 
 •	Cómo se obtuvo la voluntad política entre los gobiernos y otras contrapartes, y la manera en que se potenció este aspecto. 
 
-
+Descargue el documento en [inglés] o en [español]
