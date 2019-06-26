@@ -4,11 +4,13 @@ date: 2019-06-26 06:54:00 -04:00
 Author: Anand Varghese
 ---
 
-Since 2016, Digital at DAI has kept its readers up-to-date on the latest from Kosmos Innovation Center (KIC) Ghana, from young entrepreneurs’ agritech [product concepts](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) to international [awards](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) that KIC has received. In the three years since the Center’s launch, funders of all sorts, from bilateral donors to corporate social investors, have embraced the potential of Africa’s growing startup ecosystem to support socio-economic development and create new solutions to some of the continent’s most persistent challenges. In that time, KIC and DAI have learned a lot about what it means to support youth-led technology entrepreneurship. We compiled our findings in the latest [CDA Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights) paper entitled ‘Building the Future of Tech-Enabled Agriculture.’ In addition to providing a series of lessons for both funders and implementers in this sector, we created profiles of select KIC entrepreneurs, captures their journeys and their reflections on the KIC experience.
+> > > Since 2016, Digital at DAI has kept its readers up-to-date on the latest from Kosmos Innovation Center (KIC) Ghana, from young entrepreneurs’ agritech [product concepts](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) to international [awards](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) that KIC has received. In the three years since the Center’s launch, funders of all sorts, from bilateral donors to corporate social investors, have embraced the potential of Africa’s growing startup ecosystem to support socio-economic development and create new solutions to some of the continent’s most persistent challenges. In that time, KIC and DAI have learned a lot about what it means to support youth-led technology entrepreneurship. We compiled our findings in the latest [CDA Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights) paper entitled ‘[Building the Future of Tech-Enabled Agriculture.](https://www.dai.com/uploads/kic-27672d.pdf)’ In addition to providing a series of lessons for both funders and implementers in this sector, we created profiles of select KIC entrepreneurs, captures their journeys and their reflections on the KIC experience.
 
 <!--more-->
 
-## Download the full report here.
+## Download the full report [here](https://www.dai.com/uploads/kic-27672d.pdf).
+
+![KICPaper.JPG](/uploads/KICPaper.JPG)
 
 ## Insights from three years of KIC
 
@@ -34,7 +36,7 @@ Funders have an opportunity to invest more than capital into technology entrepre
 
 ## Insights for Implementers
 
-***#1 Invest time and resources to recruit a diverse, high quality cohort*.**
+***#1 Invest time and resources to recruit a diverse, high quality cohort*****.**
 
 KIC aims to create cohorts with a diverse mixture of skills, experience, and backgrounds, so that entrepreneurs with complementary strengths can form teams. KIC has successfully recruited attendees with varying skillsets and from all 10 regions of Ghana, but achieving diversity in other traits has been an ongoing challenge. For example, attracting women to a program focused on agriculture and technology has been difficult. Similarly, the vast majority of KIC participants are university graduates, so representation from Ghana’s low-income communities is low.
 
@@ -42,7 +44,7 @@ KIC aims to create cohorts with a diverse mixture of skills, experience, and bac
 
 Traditional capacity building—lectures, workshops, and mentorship—does not an entrepreneur make. KIC focuses attention and resources on giving its entrepreneurs hands-on experience in the field. These engagements with users, prospective clients, and agricultural industry experts shape their design and business concepts throughout the program and beyond.
 
-***# 3 Engage local and sector-specific technical expertise and networks.*******
+***# 3 Engage local and sector-specific technical expertise and networks.***\*\*\*\*
 
 KIC draws heavily on the insights of local experts in agriculture and technology, as well as the local entrepreneurship ecosystem. KIC gives its entrepreneurs the encouragement and the resources needed to tackle long-standing challenges in new ways. This locally driven approach also connects KIC entrepreneurs directly with prospective customers and partners, and opens doors at institutions such as the Ministry of Agriculture, whose support can be critical in a sector in which the government is so deeply involved.
 
@@ -50,4 +52,4 @@ KIC draws heavily on the insights of local experts in agriculture and technology
 
 KIC matches its technical assistance with training on soft skills such as leadership, team-building, discipline, and others. These skills are indispensable as entrepreneurs go through their journeys, helping them tackle The stresses and overcome the challenges inherent to the startup life.
 
-## Download the full report here.
+## Download the full report [here](https://www.dai.com/uploads/kic-27672d.pdf).
