@@ -48,7 +48,7 @@ Traditional capacity building—lectures, workshops, and mentorship—does not a
 
 ***#3. Engage local and sector-specific technical expertise and networks.***
 
-KIC draws heavily on the insights of local experts in agriculture and technology, as well as the local entrepreneurship ecosystem. KIC gives its entrepreneurs the encouragement and the resources needed to tackle long-standing challenges in new ways. This locally driven approach also connects KIC entrepreneurs directly with prospective customers and partners, and opens doors at institutions such as the Ministry of Agriculture, whose support can be critical in a sector in which the government is so deeply involved.
+KIC draws heavily on the insights of local experts in agriculture and technology, as well as the local entrepreneurship ecosystem. KIC gives its entrepreneurs the encouragement and the resources needed to tackle longstanding challenges in new ways. This locally driven approach also connects KIC entrepreneurs directly with prospective customers and partners, and opens doors at institutions such as ministries of agriculture, whose support can be critical in a sector in which the government is so deeply involved.
 
 ***# 4 Emphasize soft skills as much as hard skills or sector knowledge.***
 
