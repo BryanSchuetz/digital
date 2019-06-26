@@ -1,7 +1,12 @@
 ---
 title: Building the Future of Tech-Enabled Agriculture
-date: 2019-06-26 06:54:00 -04:00
+date: 2019-06-27 08:00:00 -04:00
+tags:
+- Innovation
+- Think Piece
 Author: Anand Varghese
+social-image: "/uploads/KICPaper.JPG"
+thumbnail: "/uploads/KICPaper.JPG"
 ---
 
 Since 2016, Digital@DAI has kept its readers updated on the latest from the Kosmos Innovation Center (KIC) in Ghana, from young entrepreneurs’ agritech [product concepts](https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html) to international [awards](https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html) it has received. In the three years since the KIC’s launch, funders of all sorts—from bilateral donors to corporate social investors—have embraced the potential of Africa’s growing startup ecosystem to support socio-economic development and create new solutions to some of the continent’s most persistent challenges. In that time, KIC and DAI have learned a lot about what it means to support youth-led technology entrepreneurship. 
