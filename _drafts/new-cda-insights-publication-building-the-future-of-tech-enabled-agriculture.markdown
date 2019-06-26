@@ -15,7 +15,9 @@ We’ve compiled our findings in the latest [CDA Insights](https://www.dai.com/o
 
 <!--more-->
 
-## Download the full report [here](https://www.dai.com/uploads/kic-27672d.pdf).
+<aside id="download-the-full-report-here" style="
+    text-align: center;
+"><a href="https://www.dai.com/uploads/kic-27672d.pdf">Download the Full Report</a></aside>
 
 ![KICPaper.JPG](/uploads/KICPaper.JPG)
 
@@ -59,4 +61,6 @@ KIC draws heavily on the insights of local experts in agriculture and technology
 
 KIC matches its technical assistance with training on soft skills such as leadership, team-building, discipline, and others. These skills are indispensable as entrepreneurs go through their journeys, helping them tackle The stresses and overcome the challenges inherent to the startup life.
 
-## Download the full report [here](https://www.dai.com/uploads/kic-27672d.pdf).
+<aside id="download-the-full-report-here" style="
+    text-align: center;
+"><a href="https://www.dai.com/uploads/kic-27672d.pdf">Download the Full Report</a></aside>
