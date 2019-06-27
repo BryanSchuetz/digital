@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jun 2019 15:59:56 -0400</pubDate>
-    <lastBuildDate>Thu, 20 Jun 2019 15:59:56 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Jun 2019 10:21:51 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Jun 2019 10:21:51 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/KICPaper.JPG" medium="image" /> 
+        <title>Building the Future of Tech-Enabled Agriculture</title>
+        <description>&lt;p&gt;Since 2016, Digital@DAI has kept its readers updated on the latest from the Kosmos Innovation Center (KIC) in Ghana, from young entrepreneurs’ agritech &lt;a href=&quot;https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html&quot;&gt;product concepts&lt;/a&gt; to international &lt;a href=&quot;https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html&quot;&gt;awards&lt;/a&gt; it has received. In the three years since the KIC’s launch, funders of all sorts—from bilateral donors to corporate social investors—have embraced the potential of Africa’s growing startup ecosystem to support socio-economic development and create new solutions to some of the continent’s most persistent challenges. In that time, KIC and DAI have learned a lot about what it means to support youth-led technology entrepreneurship.&lt;/p&gt;
+
+&lt;p&gt;We’ve compiled our findings in the latest &lt;a href=&quot;https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights&quot;&gt;CDA Insights&lt;/a&gt; paper titled, ‘&lt;a href=&quot;https://www.dai.com/uploads/kic-27672d.pdf&quot;&gt;Building the Future of Tech-Enabled Agriculture.&lt;/a&gt;’ In addition to providing lessons for both funders and implementers in this sector, we created profiles of select KIC entrepreneurs and captured their journeys.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Jun 2019 08:00:00 -0400</pubDate>
+        <author>Anand Varghese
+</author>
+        <link>https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/cover1.png" medium="image" /> 
@@ -189,27 +210,6 @@
         <category>Data Analysis</category>
         
         <category>Information</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/phillipines-fauna.png" medium="image" /> 
-        <title>Designing A Wildlife Identification Tool in the Philippines</title>
-        <description>&lt;p&gt;Human-centered design (HCD)—the design and management framework pioneered by greats like IDEO.org and taught in countless design and business schools—is taking the development world by storm. And rightly so, in our opinion. HCD’s focus on empathy and creativity helps us design better, more sustainable solutions to some of the most difficult development challenges. We won’t go into too much detail on the broader HCD process or its application in digital development; my colleagues have written extensively on the excellent design work they’ve facilitated in places like &lt;a href=&quot;https://dai-global-digital.com/5-tips-for-doing-international-design-research.html&quot;&gt;Cambodia&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/hcd-in-the-field-trading-counterfeit-rupees-for-real-insights.html&quot;&gt;Nepal&lt;/a&gt;, and &lt;a href=&quot;https://dai-global-digital.com/governance-app-guatemala.html&quot;&gt;Guatemala&lt;/a&gt;. What we’d like to do today, rather, is tell you about the time we almost perished while shadowing rangers in the forests of the Philippines, and what we learned in the process.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;It is possible there is a bit of hyperbole inserted here. Possibly.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Apr 2019 19:16:00 -0400</pubDate>
-        <author><a href="/authors/rachel-clad/">Rachel Clad</a> and <a href="/authors/alejandro-solis/">Alejandro Solis</a>
-</author>
-        <link>https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/designing-a-wildlife-identification-tool-in-philippines.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Digital Insights</category>
-        
         
       </item>
     
