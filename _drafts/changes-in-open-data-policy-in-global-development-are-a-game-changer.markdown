@@ -1,6 +1,7 @@
 ---
 title: Changes in Open-Data Policy in Global Development are a Game Changer
 date: 2019-07-02 11:56:00 -04:00
+Author: "[Carmen Tedesco] (https://www.linkedin.com/in/carmentedesco/)"
 ---
 
 You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country.
@@ -13,9 +14,9 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 
 ## 5 Ways This Will Change the Way We Think About Our Data
 
-**1. Others have already collected the data you need, and it’s (hopefully soon to be) available—**The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
+\*\*1. Others have already collected the data you need, and it’s (hopefully soon to be) available—\*\*The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
 
-**2. Metadata Rules—**No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
+\*\*2. Metadata Rules—\*\*No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
 
 **3. Building infrastructure from within**—In producing these standards, USAID is taking a step toward centralizing country-level standards, which is super exciting! Missions will now be able to provide guidance on which datasets to use locally within a country so you don’t have to decide which of the five agencies you should get your admin boundaries from, or which one is the “correct” authoritative source. While these new regs don’t explicitly lay out this guidance (yet) they do put the onus on Mission staff to help guide in this process and suggest that local authoritative data should be used when possible.
 
@@ -28,13 +29,13 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 * **Not all datasets are equal—why treat them like they are?** As the regulations currently stand, we should be reporting everything. In some cases, we need to be reporting all the datasets used to derive the layers we use in our findings or maps so that the analysis could be replicated like a scientific study. This could literally mean uploading hundreds of layers to the DDL. We should be reporting activity locations for every event. Every activity. EVERYTHING. The amount of time and management this will require is daunting and it seems unlikely that this is the spirit with which the reg was intended.
 
 
-* **Costs for all this new managing—**This is going to cost implementing partners extra money to manage. Full stop. While it is an allowable expense, there would potentially be competitive reasons to eliminate these costs from any proposal budget. Clarity from USAID on this would be helpful for all implementing partners since a level playing field would benefit the ability to comply with the changes.
+* \*\*Costs for all this new managing—\*\*This is going to cost implementing partners extra money to manage. Full stop. While it is an allowable expense, there would potentially be competitive reasons to eliminate these costs from any proposal budget. Clarity from USAID on this would be helpful for all implementing partners since a level playing field would benefit the ability to comply with the changes.
 
 
-* **Assumption of data literacy where it may not exist—**These changes will require a real culture shift in how we think about and manage data. The regs set high expectations on data management, but the realities within Missions and local partners are that data literacy is sometimes a struggle.
+* \*\*Assumption of data literacy where it may not exist—\*\*These changes will require a real culture shift in how we think about and manage data. The regs set high expectations on data management, but the realities within Missions and local partners are that data literacy is sometimes a struggle.
 
-**Why it Could Be Great**
+## Why it Could Be Great
 
 Imagine a new project is starting up in Country X. Your team is preparing the workplan and starting activities. You search the DDL and discover several reliable datasets submitted by another USAID partner in the region. In talking to the Mission, you realize they have established a platform to host and share data locally. You are excited because these 30 minutes of searching just saved you months of discussions and back-and-forth emails. You hit the ground running, and you have the standards needed to add your own project’s contributions to the mix. We are not quite there yet, but these new regs open up a world of possibilities for what is to come for spatial data down the road.
 
-Carmen is the Data and Tech Lead for DAI's Managing for Development Results team.
+*Carmen is the Data and Tech Lead for DAI's Managing for Development Results team.*
