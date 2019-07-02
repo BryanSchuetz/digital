@@ -5,6 +5,8 @@ date: 2019-07-02 11:56:00 -04:00
 
 You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country.
 
+<!--more-->
+
 Now someone has done something to fix that. It may take a bit more work to prep your data. You may need to think more about how you document it, where you store it, and how you report it—but at least we can stop reinventing the wheel. And, you are helping improve humanity. One shapefile at a time.
 
 In case you aren’t familiar with data policies of the U.S. Agency for International Development (USAID), the important one to know about in this context is [ADS, Chapter 579](https://www.usaid.gov/ads/policy/500/579). The Automated Directives System (ADS) simply refers to the policies and procedures that guide USAID's programs and operations. Launched in 2014, it is USAID’s nod to federal open-data laws providing guidance on data sharing for contracts and cooperative agreements. It also established the process for submitting this data to the Development Data Library (DDL). Last July, USAID quietly released an update with new supplemental and additional resources for geo-located data. These have the exciting names of [579 SAA: Geographic Data Collection and Submission Standards](https://www.usaid.gov/sites/default/files/documents/15396/579saa.pdf) and [579MAB: Activity Location Data](https://www.usaid.gov/sites/default/files/documents/15396/579mab.pdf). The short version is: All activities and programs will require activity location data, and that data will need to be reported to the DDL.
@@ -34,3 +36,5 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 **Why it Could Be Great**
 
 Imagine a new project is starting up in Country X. Your team is preparing the workplan and starting activities. You search the DDL and discover several reliable datasets submitted by another USAID partner in the region. In talking to the Mission, you realize they have established a platform to host and share data locally. You are excited because these 30 minutes of searching just saved you months of discussions and back-and-forth emails. You hit the ground running, and you have the standards needed to add your own project’s contributions to the mix. We are not quite there yet, but these new regs open up a world of possibilities for what is to come for spatial data down the road.
+
+Carmen is the Data and Tech Lead for DAI's Managing for Development Results team.
