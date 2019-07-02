@@ -11,15 +11,16 @@ You saw it coming. You’ve been collecting geospatial data on your projects for
 <!--more-->
 
 Now someone has done something to fix that. It may take a bit more work to prep your data. You may need to think more about how you document it, where you store it, and how you report it—but at least we can stop reinventing the wheel. And, you are helping improve humanity. One shapefile at a time.
+
 ![iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg](/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg)`Picture from pxhere.`
 
 In case you aren’t familiar with data policies of the U.S. Agency for International Development (USAID), the important one to know about in this context is [ADS, Chapter 579](https://www.usaid.gov/ads/policy/500/579). The Automated Directives System (ADS) simply refers to the policies and procedures that guide USAID's programs and operations. Launched in 2014, it is USAID’s nod to federal open-data laws providing guidance on data sharing for contracts and cooperative agreements. It also established the process for submitting this data to the Development Data Library (DDL). Last July, USAID quietly released an update with new supplemental and additional resources for geo-located data. These have the exciting names of [579 SAA: Geographic Data Collection and Submission Standards](https://www.usaid.gov/sites/default/files/documents/15396/579saa.pdf) and [579MAB: Activity Location Data](https://www.usaid.gov/sites/default/files/documents/15396/579mab.pdf). The short version is: All activities and programs will require activity location data, and that data will need to be reported to the DDL.
 
 ## 5 Ways This Will Change the Way We Think About Our Data
 
-\*\*1. Others have already collected the data you need, and it’s (hopefully soon to be) available—\*\*The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
+**1. Others have already collected the data you need, and it’s (hopefully soon to be) available—\*\*The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
 
-\*\*2. Metadata Rules—\*\*No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
+**2. Metadata Rules—\*\*No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
 
 **3. Building infrastructure from within**—In producing these standards, USAID is taking a step toward centralizing country-level standards, which is super exciting! Missions will now be able to provide guidance on which datasets to use locally within a country so you don’t have to decide which of the five agencies you should get your admin boundaries from, or which one is the “correct” authoritative source. While these new regs don’t explicitly lay out this guidance (yet) they do put the onus on Mission staff to help guide in this process and suggest that local authoritative data should be used when possible.
 
@@ -32,10 +33,9 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 * **Not all datasets are equal—why treat them like they are?** As the regulations currently stand, we should be reporting everything. In some cases, we need to be reporting all the datasets used to derive the layers we use in our findings or maps so that the analysis could be replicated like a scientific study. This could literally mean uploading hundreds of layers to the DDL. We should be reporting activity locations for every event. Every activity. EVERYTHING. The amount of time and management this will require is daunting and it seems unlikely that this is the spirit with which the reg was intended.
 
 
-* \*\*Costs for all this new managing—\*\*This is going to cost implementing partners extra money to manage. Full stop. While it is an allowable expense, there would potentially be competitive reasons to eliminate these costs from any proposal budget. Clarity from USAID on this would be helpful for all implementing partners since a level playing field would benefit the ability to comply with the changes.
+* **Costs for all this new managing—**This is going to cost implementing partners extra money to manage. Full stop. While it is an allowable expense, there would potentially be competitive reasons to eliminate these costs from any proposal budget. Clarity from USAID on this would be helpful for all implementing partners since a level playing field would benefit the ability to comply with the changes.
 
-
-* \*\*Assumption of data literacy where it may not exist—\*\*These changes will require a real culture shift in how we think about and manage data. The regs set high expectations on data management, but the realities within Missions and local partners are that data literacy is sometimes a struggle.
+* **Assumption of data literacy where it may not exist—**These changes will require a real culture shift in how we think about and manage data. The regs set high expectations on data management, but the realities within Missions and local partners are that data literacy is sometimes a struggle.
 
 ## Why it Could Be Great
 
