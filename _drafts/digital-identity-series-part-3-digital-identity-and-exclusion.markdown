@@ -1,6 +1,10 @@
 ---
 title: 'Digital Identity Series Part 3:  Digital Identity and Exclusion'
 date: 2019-07-02 10:42:00 -04:00
+tags:
+- Digital Identity Series
+- Digital Inclusion
+- Privacy
 Author: Chloe Messenger
 social-image: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 ---
