@@ -21,9 +21,9 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 
 ## 5 Ways This Will Change the Way We Think About Our Data
 
-**1. Others have already collected the data you need, and it’s (hopefully soon to be) available—\*\*The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
+**1. Others have already collected the data you need, and it’s (hopefully soon to be) available—**The ideal situation coming from these new regs is that with all this great collecting and reporting comes sharing. So, in theory, down the line, we will all benefit from USAID’s investments and stop reinventing the data wheel in every country. This will be especially meaningful for countries with a large USAID presence where many partners operate.
 
-**2. Metadata Rules—\*\*No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
+**2. Metadata Rules—**No, really, there are now rules governing all the metadata for the features you are collecting. While in some cases these can be a little prescriptive, they also provide clear and concise standards beyond just what datum to collect your lat/long!
 
 **3. Building infrastructure from within**—In producing these standards, USAID is taking a step toward centralizing country-level standards, which is super exciting! Missions will now be able to provide guidance on which datasets to use locally within a country so you don’t have to decide which of the five agencies you should get your admin boundaries from, or which one is the “correct” authoritative source. While these new regs don’t explicitly lay out this guidance (yet) they do put the onus on Mission staff to help guide in this process and suggest that local authoritative data should be used when possible.
 
