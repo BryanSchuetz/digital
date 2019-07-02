@@ -44,4 +44,4 @@ In case you aren’t familiar with data policies of the U.S. Agency for Internat
 
 Imagine a new project is starting up in Country X. Your team is preparing the workplan and starting activities. You search the DDL and discover several reliable datasets submitted by another USAID partner in the region. In talking to the Mission, you realize they have established a platform to host and share data locally. You are excited because these 30 minutes of searching just saved you months of discussions and back-and-forth emails. You hit the ground running, and you have the standards needed to add your own project’s contributions to the mix. We are not quite there yet, but these new regs open up a world of possibilities for what is to come for spatial data down the road.
 
-*[Carmen Tedesco](https://www.dai.com/who-we-are/our-team/carmen-tedesco) is the Data and Tech Lead for DAI's Managing for Development Results team.*
+*[Carmen Tedesco](https://www.dai.com/who-we-are/our-team/carmen-tedesco) is the Data and Technology Lead for DAI's Managing for Development Results team.*
