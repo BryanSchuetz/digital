@@ -14,14 +14,13 @@ social-image: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 In this blog we look at a number of ways in which bias can manifest in digital identities in the hope that this kicks off some thinking and a step towards solutions. While reading this, we encourage you to think how can we make sure digital ID systems are inclusive? How can we be thinking about all the different groups that can be excluded? 
 <!--more-->
 
-## 1.	Technology that is inherently biased
 ![tech1.jpg](/uploads/tech1.jpg)
 Some technologies such as biometrics and AI can be inherently technologically biased. Bias in facial recognition technology is well documented: often with a broad inability to recognise the faces of certain ethnic groups, and more difficulty recognising women than men. Having been designed largely by a tech sector dominated by white men, the resultant technologies struggle to recognise other ethnicities – and particularly women within those - with alarming inaccuracy.
 
 Fingerprints can be worn by manual labour, rendering them unreadable; age-related issues like cataracts can mean older peoples irises cannot be read. These changes present challenges to those relying on their biometrics to identify them for services such as voting, receipt of cash transfers or food aid. Bias or inaccuracies in biometrics can be overcome by regular biometric taking, checking data at regular intervals to identify gradual changes. However, where biometrics form part of an identity card, regular checks are unlikely to happen among the marginalised/rural/harder for IDPs and refugees who are often mobile. This can create further marginalisation of these groups.
 Whether it is ethnicity, age or gender, more errors take place among minorities where systems are built for the majority. 
 
-## 2.	Reflecting bias in society
+![soc3.jpg](/uploads/soc3.jpg)
 Technology – however smart – is not exempt from human bias. Often the implementation of technology acts as a mirror image or amplifier of divides and biases in society. 
 
 The write-up from a recent Tech Salon  in DC summarises this succinctly: “ID is embedded in your relationships and networks.”  We need to understand what is going on at the individual level and how becoming more identifiable - and the systems by which this takes place - could impact on and be defined by a person’s relationships and networks.
@@ -34,14 +33,14 @@ Marginalised communities such as migrants are also often at the blunt end of bia
 
 In the first blog on informed consent we spoke about how cultural beliefs can be a barrier to some biometric data collection. Barriers such as time, being expected to stay near home can also play a part in reinforcing social norms into the ID space. 
 
-## 3.	Bureaucratic bias 
+![burea4.jpg](/uploads/burea4.jpg) 
 In my mental map of these biases, bureaucratic bias sits somewhere between biased tech and reflecting societal bias. It covers the way in which implementers collect and process the identity data and how this can reflect or exacerbate existing bias. 
 
 Data society define it as including the classification of vulnerable communities and the inconsistent collection of migrants’ identity information.  By talking about classification, we refer to cases whereby individuals are classified by political or economic identifiers – for instance someone identified as an economic migrant may be treated completely differently to someone fleeing conflict. The inclusion of such a description as part of ones digital identity can alter the way they are perceived and treated. Additionally, many migrants perceive biometric data collection as inherently connected to government and law enforcement—which many have learned to treat with scepticism, often rightly so. 
 
 Practicalities of the bureaucracies associated with registering for a formal identity can also exacerbate inequalities. GenderIT research in Kenya found that strict deadlines and the extensive travel required mean many women aren’t able to get the ID card.   In a situation where someone feels unsafe travelling into the city, cannot afford to, or do not have permission from their head of household, the time taken to register and collect an identity card or sign up for biometrics may be too much.
 
-## 4.	Biased policies and regulations
+![reg3.jpg](/uploads/reg3.jpg)
 The Digital ID series blog 2 focused on Digital ID and politics, but I wanted to mention here an example of how regulations can exacerbate inequality. 
 Digital identity systems that rely on mobile technology are restricted by KYC requirements and biased towards those with ID cards – i.e. citizens. For instance, in Bangladesh, Rohingya refugees lack the required forms of ID to be registered with a digital identity. The BTRC has reportedly banned the sale of SIMs to Rohingya refugees and individuals have been arrested for selling mobile devices and SIMs to Rohingya.   Also in Bangladesh, individuals can register up to 15 sim cards, so many women rely on men to register for them, thus perpetuating gender barriers. This is not an isolated issue: 173 countries are hosts to 19.9 million refugees, yet according to the GSMA, 75 per cent of these countries legally require people to present an acceptable proof of identity in order to register for a mobile SIM card. 
 
