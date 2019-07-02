@@ -15,6 +15,7 @@ In this blog we look at a number of ways in which bias can manifest in digital i
 <!--more-->
 
 ## 1.	Technology that is inherently biased
+![tech1.jpg](/uploads/tech1.jpg)
 Some technologies such as biometrics and AI can be inherently technologically biased. Bias in facial recognition technology is well documented: often with a broad inability to recognise the faces of certain ethnic groups, and more difficulty recognising women than men. Having been designed largely by a tech sector dominated by white men, the resultant technologies struggle to recognise other ethnicities – and particularly women within those - with alarming inaccuracy.
 
 Fingerprints can be worn by manual labour, rendering them unreadable; age-related issues like cataracts can mean older peoples irises cannot be read. These changes present challenges to those relying on their biometrics to identify them for services such as voting, receipt of cash transfers or food aid. Bias or inaccuracies in biometrics can be overcome by regular biometric taking, checking data at regular intervals to identify gradual changes. However, where biometrics form part of an identity card, regular checks are unlikely to happen among the marginalised/rural/harder for IDPs and refugees who are often mobile. This can create further marginalisation of these groups.
