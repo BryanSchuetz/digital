@@ -2,6 +2,8 @@
 title: Changes in Open-Data Policy in Global Development are a Game Changer
 date: 2019-07-02 11:56:00 -04:00
 Author: "[Carmen Tedesco] (https://www.linkedin.com/in/carmentedesco/)"
+social-image: "/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg"
+thumbnail: "/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg"
 ---
 
 You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country.
