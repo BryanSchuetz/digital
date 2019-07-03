@@ -3,7 +3,6 @@ title: Changes in Open-Data Policy in Global Development are a Game Changer
 date: 2019-07-02 11:56:00 -04:00
 tags:
 - Data
-- USAID
 Author: "[Carmen Tedesco](https://www.dai.com/who-we-are/our-team/carmen-tedesco)"
 social-image: "/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg"
 thumbnail: "/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg"
