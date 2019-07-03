@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jul 2019 14:23:40 -0400</pubDate>
-    <lastBuildDate>Tue, 02 Jul 2019 14:23:40 -0400</lastBuildDate>
+    <pubDate>Wed, 03 Jul 2019 15:07:57 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Jul 2019 15:07:57 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg" medium="image" /> 
+        <title>Changes in Open-Data Policy in Global Development are a Game Changer</title>
+        <description>&lt;p&gt;You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Jul 2019 09:00:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/carmen-tedesco">Carmen Tedesco</a>
+</author>
+        <link>https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html</guid>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/KICPaper.JPG" medium="image" /> 
@@ -181,35 +198,6 @@
         
         <category>Data</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/nclimate1908-f1.jpg" medium="image" /> 
-        <title>GIS Toolkit Overview Part I: Remote Sensing</title>
-        <description>&lt;p&gt;Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/7-July2017_flooded-751x580.jpg&quot; alt=&quot;7-July2017_flooded-751x580.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GIS image developed by the author when he was working for the Amazon Conservation Association.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 09 May 2019 08:00:00 -0400</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html</guid>
-        
-        <category>GIS</category>
-        
-        <category>Imagery Analysis</category>
-        
-        <category>Remote Sensing Series</category>
-        
-        
-        <category>Data</category>
-        
-        <category>Data Analysis</category>
-        
-        <category>Information</category>
         
       </item>
     

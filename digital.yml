@@ -1,4 +1,13 @@
 
+- title: "Changes in Open-Data Policy in Global Development are a Game Changer"
+  pub: "Digital"
+  date: 2019-07-03
+  link: "https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html?utm_source=daidotcom"
+  summary: "You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country."
+  tags:
+    - digital acceleration 
+    - Data 
+
 - title: "Building the Future of Tech-Enabled Agriculture"
   pub: "Digital"
   date: 2019-06-27
@@ -218,13 +227,4 @@ Over the next few months, we will look at some of the issues and opportunities a
   tags:
     - digital acceleration 
     - Human-centered design 
-
-- title: "Is Your Data in a Lake or Water Treatment Plant?"
-  pub: "Digital"
-  date: 2019-03-07
-  link: "https://dai-global-digital.com/is-your-data-in-a-lake-or-water-treatment-plant.html?utm_source=daidotcom"
-  summary: "They say to write about what you know. For the first part of my career and through my formal education, my work was all based in the world of water and sanitation. Glamorous stuff—pipes and pumps, fecal coli-forms and treatment options, toilets and activated sludge. It made for great dinner conversation (or so says my wife). At some point, I made the transition from a water guy who worked with a lot of data to a data scientist who knows about water. And as I dive deeper into the analogies and lingo of modern data systems and tools, I lean on my engineering training to make sense of it all."
-  tags:
-    - digital acceleration 
-    - Data 
 
