@@ -1,6 +1,6 @@
 ---
 title: Changes in Open-Data Policy in Global Development are a Game Changer
-date: 2019-07-02 11:56:00 -04:00
+date: 2019-07-03 09:00:00 -04:00
 tags:
 - Data
 Author: "[Carmen Tedesco](https://www.dai.com/who-we-are/our-team/carmen-tedesco)"
