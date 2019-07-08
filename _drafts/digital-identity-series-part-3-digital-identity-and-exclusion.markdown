@@ -30,7 +30,7 @@ In their paper [Identity at the Margins](https://assets.publishing.service.gov.u
 
 Marginalised communities such as migrants are also often at the blunt end of bias when it comes to digital ID. For instance, faith in the robustness and reliability of the biometric system could mean marginalised groups are not trusted when it doesn’t work for them- reinforcing existing inequalities. [GenderIT research ](https://www.genderit.org/feminist-talk/what-lies-behind-fears-digital-identity-experience-huduma-number-kenya)in Kenya found a perception of your “last name betrays you" in terms of tribal politics, so the risks of this being embedded in a digital ID is scary for some in terms of the security of that data and who has access to it.
 
-In the first blog on informed consent we spoke about how cultural beliefs can be a barrier to some biometric data collection. Barriers such as time, being expected to stay near home can also play a part in reinforcing social norms into the ID space.
+In the [first blog on informed consent](https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=related-box) we spoke about how cultural beliefs can be a barrier to some biometric data collection. Barriers such as time, being expected to stay near home can also play a part in reinforcing social norms into the ID space.
 
 ![burea4.jpg](/uploads/burea4.jpg)
 In my mental map of these biases, bureaucratic bias sits somewhere between biased tech and reflecting societal bias. It covers the way in which implementers collect and process the identity data and how this can reflect or exacerbate existing bias.
