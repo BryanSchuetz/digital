@@ -11,7 +11,7 @@ social-image: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 
 ![Digital ID small-1-97efcb.jpg](/uploads/Digital%20ID%20small-1-97efcb.jpg){:.float-left}Any ID - whether state-issued or purpose-made for services such as cash transfers - in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, [GSMA research](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf) in Nigeria, Bangladesh, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women.  If a biometric-based ID card is created within a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender or ethnicity.
 
-In this blog we look at a number of ways in which bias can manifest in digital identities in the hope that this kicks off some thinking and a step towards solutions. While reading this, we encourage you to think how can we make sure digital ID systems are inclusive? How can we be thinking about all the different groups that can be excluded?
+In this blog we look at a number of ways in which bias can manifest in digital identities in the hope that this kicks off some thinking and a step towards identifying solutions. While reading this, I encourage you to think how can we make sure digital ID systems are inclusive? How can we be thinking about all the different groups that can be excluded?
 <!--more-->
 
 ![tech1.jpg](/uploads/tech1.jpg)
