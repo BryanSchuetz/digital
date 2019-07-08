@@ -1,12 +1,13 @@
 ---
 title: 'Digital Identity Series Part 3:  Digital Identity and Exclusion'
-date: 2019-07-02 10:42:00 -04:00
+date: 2019-07-11 08:00:00 -04:00
 tags:
 - Digital Identity Series
 - Digital Inclusion
 - Privacy
 Author: Chloe Messenger
 social-image: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
+thumbnail: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 ---
 
 ![Digital ID small-1-97efcb.jpg](/uploads/Digital%20ID%20small-1-97efcb.jpg){:.float-left}Any ID - whether state-issued or purpose-made for services such as cash transfers - in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, [GSMA research](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf) in Nigeria, Bangladesh, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women.  If a biometric-based ID card is created within a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender or ethnicity.
@@ -45,4 +46,4 @@ The [Digital ID series blog 2 ](https://dai-global-digital.com/digital-identity-
 
 Digital identity systems that rely on mobile technology are restricted by know-your-customer (KYC) requirements and biased towards those with ID cards – i.e. citizens. For instance, in Bangladesh, Rohingya refugees lack the required forms of ID to be registered with a digital identity. The BTRC has reportedly banned the sale of SIMs to Rohingya refugees and individuals have been arrested for selling mobile devices and [SIMs to Rohingy](https://www.unhcr.org/innovation/displaced-and-disconnected/)a.   Also in Bangladesh, individuals can register up to 15 sim cards, so many women rely on men to register for them, thus perpetuating gender barriers. This is not an isolated issue: 173 countries are hosts to 19.9 million refugees, yet [according to the GSMA,](https://www.gsma.com/mobilefordevelopment/blog/access-to-mobile-services-and-proof-of-identity-2019-assessing-the-impact-on-digital-and-financial-inclusion/) 75 per cent of these countries legally require people to present an acceptable proof of identity in order to register for a mobile SIM card.
 
-My recent reading on the subject has flagged up these four “buckets” of barriers to inclusion in the digital ID space, but the list is by no means exhaustive. Research being done by thought leaders such as GSMA, Caribou Digital and the Omidyar network are always bringing us a step closer to understanding how we can design inclusive digital identity programmes. Are you working on digital ID? Please share your lessons with us on Twitter @DAIGlobal
+My recent reading on the subject has flagged up these four “buckets” of barriers to inclusion in the digital ID space, but the list is by no means exhaustive. Research being done by thought leaders such as GSMA, Caribou Digita,l and the Omidyar network are always bringing us a step closer to understanding how we can design inclusive digital identity programmes. If your working on digital ID, we'd love to hear from you! Please share your lessons with us on Twitter @DAIGlobal.
