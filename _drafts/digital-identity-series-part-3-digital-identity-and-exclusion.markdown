@@ -1,5 +1,5 @@
 ---
-title: 'Digital Identity Series Part 3: How to Fight Exclusion'
+title: 'Digital Identity Series Part 3: Barriers to Inclusion for All'
 date: 2019-07-11 08:00:00 -04:00
 tags:
 - Digital Identity Series
@@ -46,8 +46,8 @@ Practicalities of the bureaucracies associated with registering for a formal ide
 
 ![reg3.jpg](/uploads/reg3.jpg)
 
-The [Digital ID series blog 2 ](https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=related-box)focused on Digital ID and politics, but I wanted to mention here an example of how regulations can exacerbate inequality.
+The [Digital ID series blog 2 ](https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=related-box) focused on politics, but I wanted to mention here an example of how regulations can exacerbate inequality.
 
-Digital identity systems that rely on mobile technology are restricted by know-your-customer (KYC) requirements and biased towards those with ID cards – i.e. citizens. For instance, in Bangladesh, Rohingya refugees lack the required forms of ID to be registered with a digital identity. The BTRC has reportedly banned the sale of SIMs to Rohingya refugees and individuals have been arrested for selling mobile devices and [SIMs to Rohingy](https://www.unhcr.org/innovation/displaced-and-disconnected/)a.   Also in Bangladesh, individuals can register up to 15 sim cards, so many women rely on men to register for them, thus perpetuating gender barriers. This is not an isolated issue: 173 countries are hosts to 19.9 million refugees, yet [according to the GSMA,](https://www.gsma.com/mobilefordevelopment/blog/access-to-mobile-services-and-proof-of-identity-2019-assessing-the-impact-on-digital-and-financial-inclusion/) 75 per cent of these countries legally require people to present an acceptable proof of identity in order to register for a mobile SIM card.
+Digital identity systems that rely on mobile technology are restricted by know-your-customer (KYC) requirements and biased towards those with ID cards—i.e. citizens. For instance, in Bangladesh, Rohingya refugees lack the required forms of ID to be registered with a digital identity. The Bangladesh Telecommunication Regulatory Commission has reportedly banned the sale of subscriber identity module (SIM) cards to Rohingya refugees and individuals have been arrested for selling mobile devices and [SIMs to Rohingya](https://www.unhcr.org/innovation/displaced-and-disconnected/).   Also in Bangladesh, individuals can register up to 15 SIM cards, so many women rely on men to register for them, thus perpetuating gender barriers. This is not an isolated issue: 173 countries are hosts to 19.9 million refugees, yet [according to the GSMA,](https://www.gsma.com/mobilefordevelopment/blog/access-to-mobile-services-and-proof-of-identity-2019-assessing-the-impact-on-digital-and-financial-inclusion/) 75 percent of these countries legally require people to present an acceptable proof of identity in order to register for a mobile SIM card.
 
 My recent reading on the subject has flagged up these four “buckets” of barriers to inclusion in the digital ID space, but the list is by no means exhaustive. Research being done by thought leaders such as GSMA, Caribou Digita,l and the Omidyar network are always bringing us a step closer to understanding how we can design inclusive digital identity programmes. If your working on digital ID, we'd love to hear from you! Please share your lessons with us on Twitter @DAIGlobal.
