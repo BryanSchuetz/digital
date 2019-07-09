@@ -12,17 +12,17 @@ thumbnail: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 
 ![Digital ID small-1-97efcb.jpg](/uploads/Digital%20ID%20small-1-97efcb.jpg){:.float-left}Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, [research from the GSM Association (GSMA)](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf) in Bangladesh, Nigeria, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women. If a biometric-based ID card is created in a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender, or ethnicity.
 
-We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive. 
+We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive.
 
 <!--more-->
 
-![tech1.jpg](/uploads/tech1.jpg)
+## Technological Bias
 
 Some technology, such as biometrics and artificial intelligence (AI), can be inherently biased. Bias in facial recognition technology is [well documented](https://www.media.mit.edu/articles/facial-recognition-software-is-biased-towards-white-men-researcher-finds/). Having been designed largely by a tech sector dominated by white men, the resultant technologies struggle to recognise other ethnicities—and particularly women within those—with [alarming inaccuracy](https://www.theverge.com/2019/1/25/18197137/amazon-rekognition-facial-recognition-bias-race-gender).
 
 Fingerprints can be worn down by manual labour, rendering them unreadable; age-related issues like cataracts can mean older peoples’ irises cannot be read. These changes present challenges to those relying on their biometrics to identify them for services such as voting, receipt of cash transfers, or accepting food aid. Bias or inaccuracies in biometrics can be overcome by regular biometric tracking, or checking data at regular intervals to identify gradual changes. However, where biometrics form part of an identity card, regular checks are unlikely to happen among the marginalised, rural, and internally displaced people (IDPs) and refugees who are often mobile. Whether it is ethnicity, age, or gender, more errors take place among minorities where systems are built for the majority.
 
-![soc3.jpg](/uploads/soc3.jpg)
+## Societal Bias
 
 Technology, however smart, is not exempt from human bias. Often the implementation of technology acts as a mirror image or amplifier of divides and biases in society.
 
@@ -36,15 +36,14 @@ Marginalised communities such as migrants are also often at the blunt end of bia
 
 In our [first blog on informed consent](https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=related-box) we spoke about how cultural beliefs can be a barrier to some biometric data collection. Barriers such as time, being expected to stay near home can also play a part in reinforcing social norms into the ID space.
 
-![burea4.jpg](/uploads/burea4.jpg)
+## Bureaucratic Bias
 
 In my mental map of these biases, bureaucratic bias sits somewhere between biased tech and reflecting societal bias. It covers the way in which implementers collect and process the identity data and how this can reflect or exacerbate existing bias.
 
 [Data Society](https://datasociety.net/wp-content/uploads/2019/04/DataSociety_DigitalIdentity.pdf) defines it as including the classification of vulnerable communities and the inconsistent collection of migrants’ identity information. By talking about classification, we refer to cases whereby individuals are classified by political or economic identifiers—for instance someone identified as an economic migrant may be treated completely differently to someone fleeing conflict. The inclusion of such a description as part of one’s digital identity can alter the way he or she is perceived and treated. Additionally, many migrants perceive biometric data collection as inherently connected to government and law enforcement—which many have learned to treat with skepticism, often rightly so.
 
 Practicalities of the bureaucracies associated with registering for a formal identity can also exacerbate inequalities. [GenderIT research](https://www.genderit.org/feminist-talk/what-lies-behind-fears-digital-identity-experience-huduma-number-kenya) in Kenya found that strict deadlines and the extensive travel required mean many women aren’t able to get the ID card. In a situation where someone feels unsafe traveling into the city, cannot afford to, or does not have permission from their head of household, the time taken to register and collect an identity card or sign up for biometrics may be too much.
-
-![reg3.jpg](/uploads/reg3.jpg)
+## Regulatory Bias
 
 The [Digital Identity Series Part 2 ](https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=related-box) focused on politics, but I wanted to mention here an example of how regulations can exacerbate inequality.
 
