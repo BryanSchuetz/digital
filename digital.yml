@@ -1,4 +1,17 @@
 
+- title: "Digital Identity Series Part 3: Barriers to Inclusion for All"
+  pub: "Digital"
+  date: 2019-07-11
+  link: "https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html?utm_source=daidotcom"
+  summary: "Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, research from the GSM Association (GSMA) in Bangladesh, Nigeria, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women. If a biometric-based ID card is created in a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender, or ethnicity.
+
+We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive."
+  tags:
+    - digital acceleration 
+    - Digital Identity Series 
+    - Digital Inclusion 
+    - Privacy 
+
 - title: "Changes in Open-Data Policy in Global Development are a Game Changer"
   pub: "Digital"
   date: 2019-07-03
@@ -218,13 +231,4 @@ Over the next few months, we will look at some of the issues and opportunities a
     - Digital Inclusion 
     - Data 
     - Digital Identity Series 
-
-- title: "Nobody Cares What Tech You Use"
-  pub: "Digital"
-  date: 2019-03-14
-  link: "https://dai-global-digital.com/nobody-cares-what-tech-you-use.html?utm_source=daidotcom"
-  summary: "Technologists and developers love to talk about the best tools for building new technology. MERN or MEAN stack, functional vs. object-oriented programming, vanilla development or frameworks. The internet is ripe with these discussions and attend any tech meetup and you’ll easily find multiple discussions comparing one tool to another. The performance and usability of one over the other, as if that is the goal."
-  tags:
-    - digital acceleration 
-    - Human-centered design 
 

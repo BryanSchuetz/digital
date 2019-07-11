@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jul 2019 04:01:04 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Jul 2019 04:01:04 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2019 08:32:24 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2019 08:32:24 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Digital%20ID%20small-1-ab2324.jpg" medium="image" /> 
+        <title>Digital Identity Series Part 3: Barriers to Inclusion for All</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Digital%20ID%20small-1-97efcb.jpg&quot; alt=&quot;Digital ID small-1-97efcb.jpg&quot; class=&quot;float-left&quot; /&gt;Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, &lt;a href=&quot;https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf&quot;&gt;research from the GSM Association (GSMA)&lt;/a&gt; in Bangladesh, Nigeria, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women. If a biometric-based ID card is created in a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender, or ethnicity.&lt;/p&gt;
+
+&lt;p&gt;We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jul 2019 08:00:00 -0400</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html</guid>
+        
+        <category>Digital Identity Series</category>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Privacy</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg" medium="image" /> 
@@ -178,25 +201,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/longing-for-my-superapp-wheres-the-american-go-jek.html</guid>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com![Main_logo.png](/uploads/Main_logo.png)" medium="image" /> 
-        <title>5 Takeaways From ICT4D 2019</title>
-        <description>&lt;p&gt;This year’s &lt;a href=&quot;https://www.ict4dconference.org/&quot;&gt;ICT4D Conference&lt;/a&gt; took place alongside Lake Victoria in gorgeous Kampala, Uganda. It was my first time attending, and it was great to catch up with friends and colleagues (old and new) and marvel at how much bigger the ICT4D sector is since I first joined it in late 2010 and &lt;a href=&quot;https://twitter.com/kiwanja&quot;&gt;Ken Banks&lt;/a&gt; and I had been invited to speak on the &lt;em&gt;one&lt;/em&gt; mobile for social good panel (true story!) at a telecoms event.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 May 2019 07:00:00 -0400</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>Data</category>
         
         
       </item>

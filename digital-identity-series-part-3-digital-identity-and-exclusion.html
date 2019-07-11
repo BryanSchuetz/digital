@@ -9,12 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)">
-  <meta name="twitter:description" content="In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is ...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/logo_evolution.png">
+  <meta name="twitter:title" content="Digital Identity Series Part 3: Barriers to Inclusion for All">
+  <meta name="twitter:description" content="Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, wh...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/Digital%20ID%20small-1-ab2324.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)</title>
-  <meta name="description" content="In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history...">
+  <title>Digital Identity Series Part 3: Barriers to Inclusion for All</title>
+  <meta name="description" content="Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the te...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html">
+  <link rel="canonical" href="https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,67 +98,64 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Open Source Series Part 2: Spatial Analysis with QGIS (Article 1/2)</h1>
+    <h1 class="post-title">Digital Identity Series Part 3: Barriers to Inclusion for All</h1>
       
       
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=digital-identity-series">series of posts</a> on Digital Identity.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Aug 23, 2017</p>
+      <p class="post-details--date">Jul 11, 2019</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
+      <p class="post-details--byline">By <a href="/authors/chloe-messenger/" class="without-style">Chloe Messenger
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=gis" class="without-style">GIS</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span> • <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=digital-identity-series" class="without-style">Digital Identity Series</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-inclusion" class="without-style">Digital Inclusion</a></span> • <span class="post-topic"><a href="/tags/?tag=privacy" class="without-style">Privacy</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p><em>In part one of this two-part article, we’ll explore the open source geographic information system (GIS) software package, QGIS, through a look at its history, and take a sneak peek at the upcoming release of Version 3.0, which is scheduled for release this fall.</em></p>
+    <p><img src="/uploads/Digital%20ID%20small-1-97efcb.jpg" alt="Digital ID small-1-97efcb.jpg" class="float-left" />Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, <a href="https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf">research from the GSM Association (GSMA)</a> in Bangladesh, Nigeria, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women. If a biometric-based ID card is created in a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender, or ethnicity.</p>
 
-<p><img src="/uploads/logo_evolution.png" alt="logo_evolution.png" /></p>
-
-<p>There’s been a buzz around the release of QGIS version 3.0 for a couple of years now. QGIS has been my go-to desktop GIS application for the past five years, so I was thrilled to receive an e-mail from the <a href="https://www.linkedin.com/groups/2290177">QGIS LinkedIn user group</a> with a link to beta test QGIS 2.99, a pre-release copy of the version 3.0. No hesitation there, it was finally a time to give it a whirl.</p>
+<p>We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive.</p>
 
 <!--more-->
 
-<h2 id="what-is-qgis">What is QGIS?</h2>
+<h2 id="technological-bias">Technological Bias</h2>
 
-<p><a href="http://www.qgis.org/">QGIS</a>, formerly known as Quantum GIS, is a powerful desktop software application that puts spatial analysis and cartographic capabilities in the hands of anyone with a computer capable of rendering large files, and the willingness to learn. It is arguably the most powerful open source desktop GIS available today, is currently translated into more than 40 languages, and is backed by some very dedicated developers. QGIS version 0.0.1 was originally developed and released by Gary Sherman in July 2002, and was adopted as an incubator project of the <a href="http://www.osgeo.org/">Open Source Geospatial Foundation</a> in 2007. Version 1.0, called Kore, was released in early 2009.</p>
+<p>Some technology, such as biometrics and artificial intelligence (AI), can be inherently biased. Bias in facial recognition technology is <a href="https://www.media.mit.edu/articles/facial-recognition-software-is-biased-towards-white-men-researcher-finds/">well documented</a>. Having been designed largely by a tech sector dominated by white men, the resultant technologies struggle to recognise other ethnicities—and particularly women within those—with <a href="https://www.theverge.com/2019/1/25/18197137/amazon-rekognition-facial-recognition-bias-race-gender">alarming inaccuracy</a>.</p>
 
-<p>While I used the application throughout releases of Version 1, Version 2.0, called Dufour, is when I started to rely on the software for everyday GIS tasks. The application was capable of functions you could previously only expect to find in proprietary software. You can take a look at the change-logs <a href="http://www.qgis.org/en/site/forusers/visualchangelog200/index.html">here</a>, but that new release introduced smarter labeling functions, improved heat maps, a visual process modeling function, new features for raster analysis, a layer panel that was easier to navigate, a better print composer, and much more. Each new release along the 2.x series brought improvements, and new converts to the QGIS world. So, what can we expect in Version 3.0?</p>
+<p>Fingerprints can be worn down by manual labour, rendering them unreadable; age-related issues like cataracts can mean older peoples’ irises cannot be read. These changes present challenges to those relying on their biometrics to identify them for services such as voting, receipt of cash transfers, or accepting food aid. Bias or inaccuracies in biometrics can be overcome by regular biometric tracking, or checking data at regular intervals to identify gradual changes. However, where biometrics form part of an identity card, regular checks are unlikely to happen among the marginalised, rural, and internally displaced people (IDPs) and refugees who are often mobile. Whether it is ethnicity, age, or gender, more errors take place among minorities where systems are built for the majority.</p>
 
-<p>Per the website <a href="https://geogeek.xyz/">GeoGeek</a>, QGIS 3.0 includes access to the newest version of Qt and Python, a higher quality user interface, improved geometry editing and processor dialogs, new symbols, better search functions within layers, custom image sizes, and support for 3D analysis. That’s a lot. But what does that mean in practice? Let’s have a look.</p>
+<h2 id="societal-bias">Societal Bias</h2>
 
-<h2 id="putting-qgis-30-to-the-test">Putting QGIS 3.0 to the Test</h2>
+<p>Technology, however smart, is not exempt from human bias. Often the implementation of technology acts as a mirror image or amplifier of divides and biases in society.</p>
 
-<p>With full recognition that the software is still in beta, I booted up version 2.99 to put some very basic functions to the test.</p>
+<p>The writeup from a recent <a href="http://technologysalon.org/how-we-can-control-our-digital-identities/?utm_source=dlvr.it&amp;utm_medium=twitter">Tech Salon </a>in Washington, D.C., summarises this succinctly: “ID is embedded in your relationships and networks.” We need to understand what is going on at the individual level and how becoming more identifiable—and the systems by which this takes place—could impact on and be defined by a person’s relationships and networks.</p>
 
-<p>The first thing I noticed was a redesigned Data Source Manager toolbar. The data import and export function, which has always been one of QGIS’s greatest strengths, has been revamped. The software is prepared to ingest almost any kind of spatial data and database available today.</p>
+<p>It is no surprise that there is a complex gender narrative associated with identity. The above-mentioned <a href="https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/05/Digital-identity-opportunities-for-women-Insights-from-Nigeria-Bangladesh-and-Rwanda-Web.pdf">GSMA study</a> found a perception that men need the ID more than women, with ID being seen as something that professionals and business people have. Indeed, women and girls are often seen to have less need for an ID, as they can rely on their husbands’ or fathers’ ID for access to services. Caribou Digital’s <a href="https://medium.com/caribou-digital/when-id-works-for-women-initial-findings-from-bangladesh-56898724f792">research</a> in Bangladesh found that the job a woman hoped to hold greatly affected her perception of the need for an ID card.</p>
 
-<p>I loaded up the Admin0 global dataset from the <a href="http://www.gadm.org/">Global Administrative Areas website,</a> and a .csv of child mortality rates by country over time from the <a href="http://data.worldbank.org/">World Bank’s Open Data portal</a>. A quick glance at the Attributes Table view showed a very similar interface. The Field Calculator and sorting functions were all familiar. Not much changed here.</p>
+<p>In its paper <a href="https://assets.publishing.service.gov.uk/media/5cecedd6ed915d2475aca8c5/Identity-At-The-Margins-Identification-Systems-for-Refugees.pdf">Identity at the Margins</a>, Caribou Digital also outlines how systems that record beneficiaries at a household rather than individual level can impact household power dynamics. It cites the case of Uganda, where South Sudanese women who fled before male relatives were registered as the head of the household, giving them the title of official recipient of aid, but bringing violence to them from male heads of household who saw this as a disruption to the patriarchy (<a href="https://assets.publishing.service.gov.uk/media/5cecedd6ed915d2475aca8c5/Identity-At-The-Margins-Identification-Systems-for-Refugees.pdf">War Child research in Bidi Bidi</a>).</p>
 
-<p>Opening the Layer Properties panel, I noticed a couple of new features, including a new “Information” page, improved access to meta data, and maybe most interestingly, a section on “Dependencies,” which enables the user to control how data sets interact when changes are made to the underlying data. I can see this being incredibly useful when joining multiple layers, or running spatial calculations across multiple layers.</p>
+<p>Marginalised communities such as migrants are also often at the blunt end of bias when it comes to digital ID. For instance, faith in the robustness and reliability of the biometric system could mean marginalised groups are not trusted when it doesn’t work for them—reinforcing existing inequalities. <a href="https://www.genderit.org/feminist-talk/what-lies-behind-fears-digital-identity-experience-huduma-number-kenya">GenderIT research </a> in Kenya found a perception of your “last name betrays you” in terms of tribal politics, so the risk of this being embedded in a digital ID is scary for some in terms of the security of that data and who has access to it.</p>
 
-<p><img src="/uploads/Data%20Source%20Manager.png" alt="Data Source Manager.png" /></p>
+<p>In our <a href="https://dai-global-digital.com/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=related-box">first blog on informed consent</a> we spoke about how cultural beliefs can be a barrier to some biometric data collection. Barriers such as time, being expected to stay near home can also play a part in reinforcing social norms into the ID space.</p>
 
-<p>The next thing I looked at was the Processing Toolbox, which includes a host of analytical functions. This interface had been totally overhauled from version 2.18, and is arguably where the power of GIS begins. I won’t go into much detail on these functions here, but will just compliment the design team on making the section much more inviting.</p>
+<h2 id="bureaucratic-bias">Bureaucratic Bias</h2>
 
-<p>Back to the mapping…</p>
+<p>In my mental map of these biases, bureaucratic bias sits somewhere between biased tech and reflecting societal bias. It covers the way in which implementers collect and process the identity data and how this can reflect or exacerbate existing bias.</p>
 
-<p>I quickly joined the World Bank data to the Global Boundaries, created a <a href="https://en.wikipedia.org/wiki/Choropleth_map">choropleth map</a> based on 2015 child mortality projections using Equal Intervals as the color ramp mode, and rendered the polygons as a sphere using the <a href="https://en.wikipedia.org/wiki/Azimuthal_equidistant_projection">Azimuthal Equidistant projection</a>.</p>
+<p><a href="https://datasociety.net/wp-content/uploads/2019/04/DataSociety_DigitalIdentity.pdf">Data Society</a> defines it as including the classification of vulnerable communities and the inconsistent collection of migrants’ identity information. By talking about classification, we refer to cases whereby individuals are classified by political or economic identifiers—for instance someone identified as an economic migrant may be treated completely differently to someone fleeing conflict. The inclusion of such a description as part of one’s digital identity can alter the way he or she is perceived and treated. Additionally, many migrants perceive biometric data collection as inherently connected to government and law enforcement—which many have learned to treat with skepticism, often rightly so.</p>
 
-<p>The whole process took no more than an hour (including poking around at the new buttons), and rendered the following map, which displays child mortality rates (under age 5) per 1,000 live births.</p>
+<p>Practicalities of the bureaucracies associated with registering for a formal identity can also exacerbate inequalities. <a href="https://www.genderit.org/feminist-talk/what-lies-behind-fears-digital-identity-experience-huduma-number-kenya">GenderIT research</a> in Kenya found that strict deadlines and the extensive travel required mean many women aren’t able to get the ID card. In a situation where someone feels unsafe traveling into the city, cannot afford to, or does not have permission from their head of household, the time taken to register and collect an identity card or sign up for biometrics may be too much.</p>
+<h2 id="regulatory-bias">Regulatory Bias</h2>
 
-<p><img src="/uploads/Child%20Mortality%20Rates_2015.png" alt="Child Mortality Rates_2015.png" /></p>
+<p>The <a href="https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=related-box">Digital Identity Series Part 2 </a> focused on politics, but I wanted to mention here an example of how regulations can exacerbate inequality.</p>
 
-<p>While there may be a package or function that already accomplishes this, I’d like to highlight that the histogram included in the map is a screen grab from the Properties - &gt; Symbology box. As we increasingly see data visualization software like Tableau and PowerBI take root in offices around the world, I think it would be useful to integrate more accessible graphing/charting functionality. Maps are great, but in my experience they’re best explained when paired with another visual form.</p>
+<p>Digital identity systems that rely on mobile technology are restricted by know-your-customer (KYC) requirements and biased towards those with ID cards—i.e. citizens. For instance, in Bangladesh, Rohingya refugees lack the required forms of ID to be registered with a digital identity. The Bangladesh Telecommunication Regulatory Commission has reportedly banned the sale of subscriber identity module (SIM) cards to Rohingya refugees and individuals have been arrested for selling mobile devices and <a href="https://www.unhcr.org/innovation/displaced-and-disconnected/">SIMs to Rohingya</a>.   Also in Bangladesh, individuals can register up to 15 SIM cards, so many women rely on men to register for them, thus perpetuating gender barriers. This is not an isolated issue: 173 countries are hosts to 19.9 million refugees, yet <a href="https://www.gsma.com/mobilefordevelopment/blog/access-to-mobile-services-and-proof-of-identity-2019-assessing-the-impact-on-digital-and-financial-inclusion/">according to the GSMA,</a> 75 percent of these countries legally require people to present an acceptable proof of identity in order to register for a mobile SIM card.</p>
 
-<p>What we’ve done here is just scratch the surface of QGIS, but hopefully it provides a glimpse into the power of this tool, and may encourage you to try using this free software. So what GIS tools do you use in your organization? We’d love to hear from you. If you have 10 seconds, check out the survey below. If we get enough responses we’ll report on them in another post, where we’ll compare QGIS to proprietary applications, and make recommendations on which is best suited for your organization.</p>
+<p>My recent reading on the subject has flagged up these four “buckets” of barriers to inclusion in the digital ID space, but the list is by no means exhaustive. Research being done by thought leaders such as GSMA, Caribou Digital, and the Omidyar Network are always bringing us a step closer to understanding how we can design inclusive digital identity programmes. If you are working on digital ID, we’d love to hear from you! Please share your lessons with us on Twitter @DAIGlobal.</p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSenKhci6-nWy6GVwj7ZXgGI4zq_7DAEbyaMhdbqqm_PNlVKxw/viewform?embedded=true" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -186,99 +183,6 @@
   
   
     
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/changes-in-open-data-policy-in-global-development-are-a-game-changer.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg);"></div><span class="related-item-text">Changes in Open-Data Policy in Global Development are a Game Changer</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
     
   
   
@@ -389,25 +293,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/ict4d-round-up-5-key-takeaways-from-the-ict4d-2019-conference.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(![Main_logo.png](/uploads/Main_logo.png));"></div><span class="related-item-text">5 Takeaways From ICT4D 2019</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/nclimate1908-f1.jpg);"></div><span class="related-item-text">GIS Toolkit Overview Part I: Remote Sensing</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/access-for-all-in-a-digital-economy-a-reflection-on-dai-development-matters-roundtables-in-nigeria.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/nigeria%20pic-941182.jpeg);"></div><span class="related-item-text">Access for All in a Digital Economy: A Reflection on DAI Development Matters Roundtables in Nigeria</span></a></li>
             
             
             
@@ -426,10 +312,12 @@
         
           
           
-        
-          
-          
-        
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/apply-now-womenconnect-challenge-2019.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/WomenConnect%20logo%202.png);"></div><span class="related-item-text">Apply Now to the Women’s Global Development and Prosperity Initiative WomenConnect Challenge</span></a></li>
+            
+            
+            
       
     
     
@@ -461,12 +349,198 @@
         
           
           
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
         
           
           
             
             
             <li class="related-list-item"><a class="related-item-link" href="/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Digital%20ID%20small-1.jpg);"></div><span class="related-item-text">Digital Identity Series Part 2: Digital Identity and Politics</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/digital-identity-series-part-1-digital-identity-and-informed-consent.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Digital%20ID1-e80035.jpg);"></div><span class="related-item-text">Digital Identity Series Part 1: Digital Identity and Informed Consent</span></a></li>
             
             
             
