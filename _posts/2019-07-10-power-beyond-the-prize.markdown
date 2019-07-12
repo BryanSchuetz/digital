@@ -5,7 +5,10 @@ published: false
 tags:
 - Co-creation
 - Fall Armyworm
-Author: Talia Dweck
+Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) [Komal
+  Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/)"
+social-image: "/uploads/convening%201-a4e466.jpg"
+thumbnail: "/uploads/convening%201-a4e466.jpg"
 ---
 
 On May 8 – 9, 2019, the Bill & Melinda Gates Foundation hosted a convening between the Feed the Future, through the U.S. Agency for International Development (USAID), *[Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/)* finalists and the Grand Challenges Explorations (GCE) *[Tools and Technologies for Broad-Scale Pest and Disease Surveillance of Crop Plants in Low-Income Countries](https://gcgh.grandchallenges.org/challenge/tools-and-technologies-broad-scale-disease-surveillance-crop-plants-low-income-countries)*[ ](https://gcgh.grandchallenges.org/challenge/tools-and-technologies-broad-scale-disease-surveillance-crop-plants-low-income-countries)winners. The objective was to connect and catalyze collaboration between the two groups of innovators working in digital agriculture, engineering, modelling, remote sensing, pathology, and chemistry for the benefit of farmers.
