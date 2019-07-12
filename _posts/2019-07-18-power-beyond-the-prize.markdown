@@ -1,6 +1,6 @@
 ---
 title: Power Beyond the Prize
-date: 2019-07-10 12:08:00 -04:00
+date: 2019-07-18 08:00:00 -04:00
 published: false
 tags:
 - Co-creation
