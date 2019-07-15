@@ -13,7 +13,7 @@ It is no surprise then that Brazil recently launched its national IoT plan. As t
 
 That said, the conference was truly inspiring and exposed us to the versatile digital market across Latin America. The conference was also an opportunity for innovative companies to present about their work. Companies like Napify, winner of the 4YFN Pitch, showed their advances in the gamification theme to promote safe behavior of the population while driving. Others, like Buro de Identidad Digital (biometrics) showed the push makes the digitization of identifications in the region. In addition, there was also a cohort of regional and international companies that are advancing IoT in LAC. The combination of these companies generates greater pressure on operators and telecommunications companies to improve their infrastructure and take steps towards rolling out a 5G network.
 
-Opportunities for the region
+##Opportunities for the region
 
 As the Center for Digital Acceleration, the Mobile 360 Conference was a reminder of the immense opportunities in the region in terms of social impact. Some of these opportunities include:
 
