@@ -11,6 +11,8 @@ The digital ecosystem in the Latin American region is pushing countries to accel
 
 At [GSMA’s Mobile 360 LATAM conference](https://www.mobile360series.com/latin-america/agenda/), we constantly heard about how 5G networks are expected to bring a technological, economic and social revolution around the world. The question that was posed by many speakers, including Mat Granryd, CEO of GSMA who urged authorities and industry to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
 
+<!--more-->
+
 Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a study by Frost & Sullivan, the trend in Latin America is that in the next four years there will growth of more than 300% in IoT devices, increasing from 313.3 million devices today, to having almost 1 billion in the 2023. In the region, Brazil, Mexico and Colombia are the leading in the IoT revolution.
 
 It is no surprise then that Brazil recently launched its [national IoT plan](https://dig.watch/updates/brazil-launch-national-iot-plan). As the first in the region, it seems likely that other countries will follow. Although this is a great accomplishment and shows a focus to the future, when compared to other regions, its seems like Latin America is already falling behind. For instance, South Korea launched its national IoT plan in 2009.

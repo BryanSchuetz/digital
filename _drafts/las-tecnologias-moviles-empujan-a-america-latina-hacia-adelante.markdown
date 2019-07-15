@@ -11,6 +11,8 @@ El ecosistema digital en la región de América Latina está presionando a los p
 
 En la [conferencia Mobile 360 LATAM de GSMA](https://www.mobile360series.com/latin-america/agenda/), escuchamos constantemente cómo se espera que las redes 5G traigan una revolución tecnológica, económica y social en todo el mundo. La pregunta fue planteada por muchos oradores, entre ellos Mat Granryd, CEO de GSMA, quien instó a las autoridades y la industria a trabajar conjuntamente para acelerar la adopción de redes 5G en la región para que América Latina no se quede atrás.
 
+<!--more-->
+
 La cuestión de la Internet de las cosas (IoT) está directamente relacionada con el tema de 5G. Según un estudio realizado por Frost & Sullivan, la tendencia en América Latina es que en los próximos cuatro años habrá un crecimiento de más del 300% en dispositivos IoT, que aumentará de 313.3 millones de dispositivos hoy en día, a casi 1.000 millones en el 2023. En La región, Brasil, México y Colombia son los líderes en la revolución de IoT.
 
 No es de extrañar entonces que Brasil haya lanzado recientemente su [plan nacional de IoT](https://dig.watch/updates/brazil-launch-national-iot-plan). Como el primero en la región, parece probable que otros países lo sigan. Si bien este es un gran logro y muestra un enfoque hacia el futuro, en comparación con otras regiones, parece que América Latina ya se está quedando atrás. Por ejemplo, Corea del Sur lanzó su plan nacional de IoT en 2009.
