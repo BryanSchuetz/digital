@@ -5,7 +5,7 @@ date: 2019-07-15 14:36:00 -04:00
 
 The digital ecosystem in the Latin American region is pushing countries to accelerate public-private collaboration on digital transformation.
 
-At GSMA’s Mobile 360 LATAM conference, we constantly heard about how 5G networks are expected to bring a technological, economic and social revolution around the world. The question that was posed by many speakers, including Mat Granryd, CEO of GSMA who urged authorities and industry to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
+At [GSMA’s Mobile 360 LATAM conference](https://www.mobile360series.com/latin-america/agenda/), we constantly heard about how 5G networks are expected to bring a technological, economic and social revolution around the world. The question that was posed by many speakers, including Mat Granryd, CEO of GSMA who urged authorities and industry to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
 
 Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a study by Frost & Sullivan, the trend in Latin America is that in the next four years there will growth of more than 300% in IoT devices, increasing from 313.3 million devices today, to having almost 1 billion in the 2023. In the region, Brazil, Mexico and Colombia are the leading in the IoT revolution.
 
@@ -13,7 +13,7 @@ It is no surprise then that Brazil recently launched its national IoT plan. As t
 
 That said, the conference was truly inspiring and exposed us to the versatile digital market across Latin America. The conference was also an opportunity for innovative companies to present about their work. Companies like Napify, winner of the 4YFN Pitch, showed their advances in the gamification theme to promote safe behavior of the population while driving. Others, like Buro de Identidad Digital (biometrics) showed the push makes the digitization of identifications in the region. In addition, there was also a cohort of regional and international companies that are advancing IoT in LAC. The combination of these companies generates greater pressure on operators and telecommunications companies to improve their infrastructure and take steps towards rolling out a 5G network.
 
-##Opportunities for the region
+\##Opportunities for the region
 
 As the Center for Digital Acceleration, the Mobile 360 Conference was a reminder of the immense opportunities in the region in terms of social impact. Some of these opportunities include:
 
