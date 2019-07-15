@@ -13,7 +13,7 @@ No es de extrañar entonces que Brasil haya lanzado recientemente su plan nacion
 
 Dicho esto, la conferencia fue realmente inspiradora y nos expuso al versátil mercado digital en América Latina. La conferencia también fue una oportunidad para que las empresas innovadoras presenten su trabajo. Compañías como Napify, ganadora de 4YFN Pitch, mostraron sus avances en el tema de la gamificación para promover un comportamiento seguro de la población mientras conducen. Otros, como Buro de Identidad Digital (biometría) mostró que el impulso hace que la digitalización de las identificaciones en la región. Además, también hubo una cohorte de compañías regionales e internacionales que están avanzando en IoT en ALC. La combinación de estas empresas genera una mayor presión sobre los operadores y las compañías de telecomunicaciones para mejorar su infraestructura y tomar medidas para avanzar en la implementación una red 5G.
 
-Oportunidades para la región.
+##Oportunidades para la región.
 
 Como Centro para la Aceleración Digital, la Conferencia Mobile 360 fue un recordatorio de las inmensas oportunidades en la región en términos de impacto social. Algunas de estas oportunidades incluyen:
 
