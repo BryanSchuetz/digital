@@ -5,7 +5,7 @@ Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) y [A
   Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
 ---
 
-*This post is also available in \[English\]*
+*![GSMA.jpeg](/uploads/GSMA.jpeg)*
 
 El ecosistema digital en la región de América Latina está presionando a los países para acelerar la colaboración público-privada en la transformación digital.
 
