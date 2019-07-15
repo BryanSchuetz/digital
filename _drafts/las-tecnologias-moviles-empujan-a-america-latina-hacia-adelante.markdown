@@ -5,7 +5,7 @@ date: 2019-07-15 14:44:00 -04:00
 
 El ecosistema digital en la región de América Latina está presionando a los países para acelerar la colaboración público-privada en la transformación digital.
 
-En la conferencia Mobile 360 LATAM de GSMA, escuchamos constantemente cómo se espera que las redes 5G traigan una revolución tecnológica, económica y social en todo el mundo. La pregunta fue planteada por muchos oradores, entre ellos Mat Granryd, CEO de GSMA, quien instó a las autoridades y la industria a trabajar conjuntamente para acelerar la adopción de redes 5G en la región para que América Latina no se quede atrás.
+En la [conferencia Mobile 360 LATAM de GSMA](https://www.mobile360series.com/latin-america/agenda/), escuchamos constantemente cómo se espera que las redes 5G traigan una revolución tecnológica, económica y social en todo el mundo. La pregunta fue planteada por muchos oradores, entre ellos Mat Granryd, CEO de GSMA, quien instó a las autoridades y la industria a trabajar conjuntamente para acelerar la adopción de redes 5G en la región para que América Latina no se quede atrás.
 
 La cuestión de la Internet de las cosas (IoT) está directamente relacionada con el tema de 5G. Según un estudio realizado por Frost & Sullivan, la tendencia en América Latina es que en los próximos cuatro años habrá un crecimiento de más del 300% en dispositivos IoT, que aumentará de 313.3 millones de dispositivos hoy en día, a casi 1.000 millones en el 2023. En La región, Brasil, México y Colombia son los líderes en la revolución de IoT.
 
