@@ -5,7 +5,7 @@ Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) & [A
   Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
 ---
 
-*Esta entrada también está disponible en [español]
+*Esta entrada también está disponible en \[español\]*
 
 The digital ecosystem in the Latin American region is pushing countries to accelerate public-private collaboration on digital transformation.
 
