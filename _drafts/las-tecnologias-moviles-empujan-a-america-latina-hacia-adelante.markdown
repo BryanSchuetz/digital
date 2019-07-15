@@ -1,6 +1,6 @@
 ---
 title: Las Tecnologías Móviles Empujan a América Latina Hacia Adelante
-date: 2019-07-15 14:44:00 -04:00
+date: 2019-07-18 14:44:00 -04:00
 Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) y [Alejandtro
   Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
 ---
