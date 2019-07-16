@@ -10,7 +10,7 @@ social-image: "/uploads/GSMA.jpeg"
 thumbnail: "/uploads/GSMA.jpeg"
 ---
 
-*Esta entrada también está disponible en \[español\]*
+*Esta entrada también está disponible en [Español](dai-global-digital.com/las-tecnologias-moviles-empujan-a-america-latina-hacia-adelante.html).*
 
 The digital ecosystem in the Latin American region is pushing countries to accelerate public-private collaboration on digital transformation.
 
