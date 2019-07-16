@@ -36,7 +36,7 @@ Project management continues to be a priority over technology management.
 * It’s possible that your data is in a system that only really talks to itself, and you don’t have a lot of control over how to get it out later.
 * If your project comes to an end, you can’t hand over aspects of the system without finding funding for annual licenses fees.
 
-### Group B: Build it
+## Group B: Build it
 You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed Open Data Kit (ODK) on cloud servers, and are running a PostgreSQL with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn D3, or you’ve learned or hired some Python or R developers who can build you dashboards in Shiny or Dash. Instead of ArcGIS, you’ve made use of QGIS for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through Apache, Nginx, and OAuth, trying to get your dashboards shared discreetly across your users. 
 
 ### Pros
