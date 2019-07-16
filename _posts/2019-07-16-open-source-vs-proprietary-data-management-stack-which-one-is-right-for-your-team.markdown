@@ -20,7 +20,9 @@ As a product development team, we spend a lot of time listening to the needs of 
 Most importantly, these tools should be easy to use, and ideally not too expensive to build or maintain.
 
 All of these are reasonable requests. If prioritized, organizations should be able to develop and maintain highly functional data management and analysis solutions. So why do so many organizations struggle to maintain these kinds of systems?
-In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions vs 2) open source technologies. 
+In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions vs 2) custom or open source technologies. 
+
+<!--more-->
 
 ## Group A: Buy It
 
