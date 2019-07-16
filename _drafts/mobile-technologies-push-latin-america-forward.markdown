@@ -37,5 +37,3 @@ As the Center for Digital Acceleration, the Mobile 360 Conference was a reminder
 3. Lastly, at the conference there was a serious concern from private sector actors in the region that without the support of national and local governments to enact legislation that enables the rollout of 5G, Latin America will be left behind in comparison to the rest of the world. This will be because without government support, 5G rollout will likely be slower.
 
 For Latin America, the rollout of 5G offers an opportunity to leverage the digital economy to expand into markets that previously were unreachable to many countries. Furthermore, if rolled out with the goal of bridging the digital divide, it offers an opportunity to provide access to critical services to previously excluded populations.
-
-[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) and [Alejandro Solis](https://dai-global-digital.com/authors/alejandro-solis/)
