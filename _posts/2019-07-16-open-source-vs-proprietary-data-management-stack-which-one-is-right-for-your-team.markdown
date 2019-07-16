@@ -2,6 +2,11 @@
 title: Open Source vs Proprietary Data Management Stack - Which one is right for your
   team?
 date: 2019-07-16 10:44:00 -04:00
+categories:
+- Data Analysis
+tags:
+- Open Source Series
+- Data Management Series
 Author: Greg Maly
 ---
 
