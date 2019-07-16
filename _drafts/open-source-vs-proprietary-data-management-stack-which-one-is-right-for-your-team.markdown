@@ -22,8 +22,6 @@ Most importantly, these tools should be easy to use, and ideally not too expensi
 All of these are reasonable requests. If prioritized, organizations should be able to develop and maintain highly functional data management and analysis solutions. So why do so many organizations struggle to maintain these kinds of systems?
 In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions vs 2) open source technologies. 
 
-<!--more-->
-
 ## Group A: Buy It
 
 You’ve made the decision to buy the toolkit of your dreams. Maybe you purchased licenses to mobile data collection tools that run offline on both Android and iOS devices, and paid to have that data cleaned and migrated to a knowledge management system inside of Salesforce. Sure, Salesforce has built in dashboards, but you’re hoping to learn as much as you can from your data, so you’ve purchase Tableau licenses for your staff, and an ArcGIS license for your spatial analyst. And because you want to host your results online and share them with people, you’ve purchased a copy of Tableau Server. 
