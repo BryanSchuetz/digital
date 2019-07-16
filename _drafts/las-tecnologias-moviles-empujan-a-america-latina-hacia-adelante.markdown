@@ -1,8 +1,13 @@
 ---
 title: Las Tecnologías Móviles Empujan a América Latina Hacia Adelante
 date: 2019-07-18 14:44:00 -04:00
+tags:
+- Innovation
+- Internet of Things
 Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) y [Alejandtro
   Solis](https://dai-global-digital.com/authors/alejandro-solis/)"
+social-image: "/uploads/GSMA.jpeg"
+thumbnail: "/uploads/GSMA.jpeg"
 ---
 
 El ecosistema digital en la región de América Latina está presionando a los países para acelerar la colaboración público-privada en la transformación digital.
