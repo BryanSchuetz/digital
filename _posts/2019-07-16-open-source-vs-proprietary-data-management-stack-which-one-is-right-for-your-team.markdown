@@ -43,7 +43,7 @@ You’ve made the decision to buy the toolkit of your dreams. Maybe you purchase
 * If your project comes to an end, you can’t hand over aspects of the system without finding funding for annual licenses fees.
 
 ## Group B: Build it
-You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed Open Data Kit (ODK) on cloud servers, and are running a PostgreSQL with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn D3, or you’ve learned or hired some Python or R developers who can build you dashboards in Shiny or Dash. Instead of ArcGIS, you’ve made use of QGIS for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through Apache, Nginx, and OAuth, trying to get your dashboards shared discreetly across your users. 
+You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed [Open Data Kit](https://dai-global-digital.com/data-collection-with-opendatakit.html) (ODK) on cloud servers, and are running a [PostgreSQL](https://www.postgresql.org/) with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn [D3](https://d3js.org/), or you’ve learned or hired some R developers who can build you dashboards in [Shiny](https://shiny.rstudio.com/). Instead of ArcGIS, you’ve made use of [QGIS](https://qgis.org/en/site/) for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through [Apache](https://httpd.apache.org/), [NGINX](https://www.nginx.com/), and [OAuth](https://oauth.net/), trying to get your dashboards shared discreetly across your users. 
 
 ### Pros
 * You’ve just exponentially upped your potential data management game.
@@ -54,7 +54,7 @@ You’ve made the decision to build your own or leverage open source tools as mu
 ### Cons
 * You’ve just spent months of your life looking at documentation.
 * Every time something goes wrong, you and your team need to figure out how to fix it.
-* You’ve become reliant on a whole series of dependent packages, which leaves you at risk for system failure if someone creates a package update without your knowledge.
+* You’ve become reliant on a whole series of [dependent packages](https://en.wikipedia.org/wiki/Dependency_hell), which leaves you at risk for system failure if someone creates a package update without your knowledge.
 * Technology keeps changing, so you often spend the weekend learning how to build something in a new way.
 * You are now in a world where you manage technology as much as you manage your projects.
 
