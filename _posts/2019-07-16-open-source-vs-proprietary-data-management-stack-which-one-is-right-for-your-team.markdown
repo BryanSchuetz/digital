@@ -2,9 +2,10 @@
 title: Open Source vs Proprietary Data Management Stack - Which one is right for your
   team?
 date: 2019-07-16 10:44:00 -04:00
+Author: Greg Maly
 ---
 
-As a product development team, we spend a lot of time listening to the needs of users. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:
+As a product development team, we spend a lot of time listening to the needs of users, particularly when it comes to their desire to collect and analyze data. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:
 
 1. Collect and manage data, often offline or online as necessary.
 2. Learn as much as they can from their data, often through a series a dashboards or reports.
