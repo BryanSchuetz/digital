@@ -10,6 +10,8 @@ social-image: "/uploads/GSMA.jpeg"
 thumbnail: "/uploads/GSMA.jpeg"
 ---
 
+*This blog is also available in [English](dai-global-digital.com/mobile-technologies-push-latin-america-forward.html).*
+
 El ecosistema digital en la región de América Latina está presionando a los países para acelerar la colaboración público-privada en la transformación digital.
 
 En la [conferencia Mobile 360 LATAM de GSMA](https://www.mobile360series.com/latin-america/agenda/), escuchamos constantemente cómo se espera que las redes 5G traigan una revolución tecnológica, económica y social en todo el mundo. La pregunta fue planteada por muchos oradores, entre ellos Mat Granryd, CEO de GSMA, quien instó a las autoridades y la industria a trabajar conjuntamente para acelerar la adopción de redes 5G en la región para que América Latina no se quede atrás.
