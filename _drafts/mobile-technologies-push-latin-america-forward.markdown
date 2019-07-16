@@ -12,7 +12,7 @@ thumbnail: "/uploads/GSMA.jpeg"
 
 *Esta entrada también está disponible en [Español](dai-global-digital.com/las-tecnologias-moviles-empujan-a-america-latina-hacia-adelante.html).*
 
-The digital ecosystem in the Latin American region is pushing countries to accelerate public-private collaboration on digital transformation.
+The digital ecosystem in Latin America is pushing countries to accelerate public-private collaboration on digital transformation.
 
 At [GSMA’s Mobile 360 LATAM conference](https://www.mobile360series.com/latin-america/agenda/), we constantly heard about how 5G networks are expected to bring a technological, economic and social revolution around the world. The question that was posed by many speakers, including Mat Granryd, CEO of GSMA who urged authorities and industry to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
 
