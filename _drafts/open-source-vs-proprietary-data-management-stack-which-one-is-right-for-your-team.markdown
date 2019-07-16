@@ -8,6 +8,8 @@ tags:
 - Open Source Series
 - Data Management Series
 Author: Greg Maly
+social-image: "/uploads/PhoneUse.JPG"
+thumbnail: "/uploads/PhoneUse.JPG"
 ---
 
 As a product development team, we spend a lot of time listening to the needs of users, particularly when it comes to their desire to collect and analyze data. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:
