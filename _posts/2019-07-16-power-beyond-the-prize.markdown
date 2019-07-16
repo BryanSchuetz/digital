@@ -18,7 +18,7 @@ The Bill & Melinda Gates Foundation recently hosted a convening between two sets
 
 Over the past year, both USAID and the foundation ran competitions to solicit technology solutions to agricultural problems in low-income countries.
 
-GCE solicited innovative tools and technologies for crop pests and disease surveillance over large geographic regions. The [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/news-and-blogs/) sourced digital tools and approaches to provide timely, context-specific information that enables smallholder farmers and those who support them to identify, treat, and track incidence of fall armyworm in Africa.
+GCE solicited innovative tools and technologies for crop pests and disease surveillance over large geographic regions. The [Fall Armyworm Tech Prize](https://fallarmywormtech.challenges.org/news-and-blogs/) sourced digital tools and approaches to provide timely, context-specific information that enables smallholder farmers and those who support them to identify, treat, and track the incidence of fall armyworm in Africa.
 
 Though similar, the two competitions attracted two very different applicant pools. The Fall Armyworm (FAW) Tech Prize mostly comprised of small tech companies, social enterprises, and nongovernmental organizations based in, or operating in Africa, while GCE mostly comprised of researchers from academic institutions.
 
