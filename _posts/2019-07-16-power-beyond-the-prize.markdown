@@ -1,6 +1,6 @@
 ---
 title: Power Beyond the Prize
-date: 2019-07-18 08:00:00 -04:00
+date: 2019-07-16 08:00:00 -04:00
 tags:
 - Co-creation
 - Fall Armyworm
