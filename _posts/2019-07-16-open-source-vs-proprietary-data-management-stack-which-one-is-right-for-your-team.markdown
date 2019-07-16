@@ -45,6 +45,7 @@ You’ve made the decision to build your own or leverage open source tools as mu
 * You’re not paying license fees and can give people access to your system without paying for additional users.
 * You’ve hired seasoned analysts and developers to build your system, so your data analysis and reporting dashboards are put together by people trained in research methods and quantitative analysis. 
 * You’ve learned an absolute ton about technology, and there are no limitations to what your team can have assuming you have enough time to work on it.
+
 ### Cons
 * You’ve just spent months of your life looking at documentation.
 * Every time something goes wrong, you and your team need to figure out how to fix it.
