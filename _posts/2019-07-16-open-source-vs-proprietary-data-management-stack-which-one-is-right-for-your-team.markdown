@@ -23,10 +23,10 @@ You’ve made the decision to buy the toolkit of your dreams. Maybe you purchase
 
 ### Pros
 
-You’ve just exponentially upped your potential data management game.
-You can build beautiful dashboards without having to keep a team of developers on staff.
-If something breaks, you can rely on one of your vendors to investigate the problem. 
-Project management continues to be a priority over technology management.
+* You’ve just exponentially upped your potential data management game.
+* You can build beautiful dashboards without having to keep a team of developers on staff.
+* If something breaks, you can rely on one of your vendors to investigate the problem. 
+* Project management continues to be a priority over technology management.
 
 ### Cons
 
