@@ -18,7 +18,7 @@ At the recent [GSMA Mobile 360 LATAM conference](https://www.mobile360series.com
 
 <!--more-->
 
-Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a [study by Frost & Sullivan](https://www.principalglobal.com/knowledge/insights/5g-latin-america-a-regions-global-competitiveness-stake), the trend in Latin America is that in the next four years there will growth of more than 300 percent in IoT devices, increasing from 313.3 million devices today, to almost 1 billion in the 2023. In the region, Brazil, Colombia, and Mexico are the leading the IoT revolution.
+Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a [study by Frost & Sullivan](https://www.principalglobal.com/knowledge/insights/5g-latin-america-a-regions-global-competitiveness-stake), the trend in Latin America is that in the next four years there the number of IoT devices in the region will grow by 300%, increasing from 313.3 million devices today to almost 1 billion in the 2023. In the region, Brazil, Colombia, and Mexico are the leading the IoT revolution.
 
 It is no surprise then that Brazil recently launched its [national IoT plan](https://dig.watch/updates/brazil-launch-national-iot-plan). As the first in the region, it seems likely that other countries will follow. Although this is a great accomplishment and shows a focus to the future, when compared to other regions, it seems like Latin America is already falling behind. For instance, South Korea launched its national IoT plan in 2009.
 
@@ -34,6 +34,6 @@ For us at the Center for Digital Acceleration, the conference was a reminder of 
 
 2. If the hype around 5G and IoT devices is true, new solutions to old problems such as unemployment, poor education, low inclusion, human insecurity, and food insecurity, will enter the market.
 
-3. Lastly, private sector actors in the region are seriously concerned that without the support of national and local governments to enact legislation that enables the rollout of 5G, Latin America will be left behind in comparison to the rest of the world. Their commitment and engagement is key. 
+3. Lastly, private sector actors in the region are seriously concerned that without the support of national and local governments to enact legislation that enables the rollout of 5G, Latin America will be left behind in comparison to the rest of the world. Their commitment and engagement is key.
 
 For Latin America, the rollout of 5G offers an opportunity to leverage the digital economy to expand into markets that previously were unreachable to many countries. Furthermore, if rolled out with the goal of bridging the digital divide, it offers an opportunity to provide access to critical services to previously excluded populations.
