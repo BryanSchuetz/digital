@@ -32,7 +32,7 @@ Companies and investors from all over the world were also present at the confere
 
 For us at the Center for Digital Acceleration, the conference was a reminder of the immense opportunity in the region in terms of social impact—such as:
 
-1. There is a clear commitment from government officials, large companies, startups, and other actors to democratize the use of technologies across countries. At the moment, the cost of smartphones and data plans makes it difficult for the majority of people in the region to engage in the digital economy. But with the advent of 5G, experts anticipate that costs will be reduced making digital tools, like smartphones, more accessible to all segments of society in the region.
+1. There is a clear commitment from government officials, large companies, startups, and other actors to democratize the use of technologies across countries. At the moment, the cost of smartphones and data plans makes it difficult for the majority of people in the region to engage in the digital economy. But with the advent of 5G, experts anticipate that costs will be reduced making digital tools, like smartphones, more accessible to all segments of society.
 
 2. If the hype around 5G and IoT devices is true, new solutions to old problems such as unemployment, poor education, low inclusion, human insecurity, and food insecurity, will enter the market.
 
