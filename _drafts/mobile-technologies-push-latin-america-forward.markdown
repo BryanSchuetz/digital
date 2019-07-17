@@ -18,7 +18,7 @@ At the recent [GSMA Mobile 360 LATAM conference](https://www.mobile360series.com
 
 <!--more-->
 
-Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a [study by Frost & Sullivan](https://www.principalglobal.com/knowledge/insights/5g-latin-america-a-regions-global-competitiveness-stake), the trend in Latin America is that in the next four years there the number of IoT devices in the region will grow by 300%, increasing from 313.3 million devices today to almost 1 billion by 2023. In the region, Brazil, Colombia, and Mexico are the leading the IoT revolution.
+Tied directly to the issue of 5G is the question of the Internet of Things (IoT). According to a [study by Frost & Sullivan](https://www.principalglobal.com/knowledge/insights/5g-latin-america-a-regions-global-competitiveness-stake), the trend in Latin America is that in the next four years the number of IoT devices in the region will grow by 300%, increasing from 313.3 million devices today to almost 1 billion by 2023. In the region, Brazil, Colombia, and Mexico are the leading the IoT revolution.
 
 For example,  Brazil recently launched its [national IoT plan](https://dig.watch/updates/brazil-launch-national-iot-plan). As the first in the region to do so, its likely that other countries will follow suit. This trend holds promise for Latin America to position itself to take advantage of the next phase of the digital revolution. Nevertheless, in comparison to other regions, like the high-income countries in Asia, Latin America has a lot of catching up to do. South Korea launched its national IoT plan 10 years ago.
 
