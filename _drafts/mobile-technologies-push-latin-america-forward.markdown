@@ -30,7 +30,7 @@ Companies and investors from all over the world were also present at the confere
 
 ## Opportunities for the Region
 
-For us at the Center for Digital Acceleration, the conference was a reminder of the immense opportunities in the region in terms of social impact—such as:
+For us at the Center for Digital Acceleration, the conference was a reminder of the immense opportunitt in the region in terms of social impact—such as:
 
 1. There is a clear commitment from government officials, large companies, startups, and other actors to democratize the use of technologies across countries. At the moment, the cost of smartphones and data plans makes it difficult for the majority of people in the region to engage. But with the advent of 5G, experts anticipate that costs will be reduced making digital tools like smartphones more accessible to all segments of society in the region.
 
