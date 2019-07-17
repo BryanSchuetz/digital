@@ -28,14 +28,14 @@ Although Latin America has a long road ahead to fully establish itself as a regi
 
 Companies and investors from all over the world were also present at the conference. Many of them were particularly interested in opportunities to invest in the 5G and IoT ecosystems. For a region that has often been slow on digitization, the presence of these companies was significant, in that it generates a different type of political pressure for local telecommunication companies to take seriously their investment in the rollout 5G and IoT by improving their infrastructure and service offerings. Furthermore, it pushes political leaders to critically consider what policies should be put in place to ensure the country they serve not only stays at the cutting edge of the digital revolution, by also taking into account the real trade-offs between opening the market to cheap 5G infrastructure that may be vulnerable cyber-attack or more expensive 5G infrastructure that may take longer to rollout. 
 
-## Opportunities for the Region
+## Lessons from the Region
 
-For us at the Center for Digital Acceleration, the conference was a reminder of the immense opportunity in the region in terms of social impact—such as:
+For us at the Center for Digital Acceleration, the conference was a reminder of the immense opportunity and challenges in the region in terms of social impact—such as:
 
 1. There is a clear commitment from government officials, large companies, startups, and other actors to democratize the use of technologies across countries. At the moment, the cost of smartphones and data plans makes it difficult for the majority of people in the region to engage in the digital economy. But with the advent of 5G, experts anticipate that costs will be reduced making digital tools, like smartphones, more accessible to all segments of society.
 
 2. If the hype around 5G and IoT devices is true, new solutions to old problems such as unemployment, poor education, low inclusion, human insecurity, and food insecurity, will enter the market.
 
-3. Lastly, private sector actors in the region are seriously concerned that without the support of national and local governments to enact legislation that enables the rollout of 5G, Latin America will be left behind in comparison to the rest of the world. Their commitment and engagement is key.
+3. Lastly, private sector actors in the region are seriously concerned that without the support of national and local governments to enable the rollout of 5G, Latin America will be left behind in comparison to the rest of the world. Their commitment and engagement is key.
 
 For Latin America, the rollout of 5G offers an opportunity to leverage the digital economy to expand into markets that previously were unreachable to many countries. Furthermore, if rolled out with the goal of bridging the digital divide, it offers an opportunity to provide access to critical services to previously excluded populations.
