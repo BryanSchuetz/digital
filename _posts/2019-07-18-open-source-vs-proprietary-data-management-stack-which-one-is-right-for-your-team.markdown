@@ -12,7 +12,7 @@ thumbnail: "/uploads/PhoneUse.JPG"
 
 As a product development team, we spend a lot of time listening to the needs of users, particularly when it comes to their desire to collect and analyze data. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:
 
-1. Collect and manage data, often offline or online as necessary.
+1. Digitally collect and manage data - offline or online as mobile bandwidth permits.
 
 2. Learn as much as they can from their data, often through a series a dashboards or reports.
 
