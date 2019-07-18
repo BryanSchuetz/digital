@@ -5,9 +5,144 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jul 2019 09:28:12 -0400</pubDate>
-    <lastBuildDate>Thu, 18 Jul 2019 09:28:12 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2019 09:41:04 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2019 09:41:04 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/PhoneUse.JPG" medium="image" /> 
+        <title>Open Source versus Proprietary Data Management Stack—Which One is Best for Your Team?</title>
+        <description>&lt;p&gt;As a product development team, we spend a lot of time listening to the needs of users, particularly when it comes to their desire to collect and analyze data. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Collect and manage data, often offline or online as necessary.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn as much as they can from their data, often through a series a dashboards or reports.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upload products and share learnings with a public audience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Maintain an internal system for data sharing, so that people only have access to certain information.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Most importantly, these tools should be easy to use, and ideally not too expensive to build or maintain.&lt;/p&gt;
+
+&lt;p&gt;All of these are reasonable requests. If prioritized, organizations should be able to develop and maintain highly functional data management and analysis solutions. So why do so many organizations struggle to maintain these kinds of systems?
+In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions v. 2) open source technologies.&lt;/p&gt;
+
+&lt;h2 id=&quot;group-a-buy-it&quot;&gt;Group A: Buy It&lt;/h2&gt;
+
+&lt;p&gt;You’ve made the decision to buy the toolkit of your dreams. Maybe you purchased licenses to mobile data collection tools that run offline on both Android and iOS devices, and paid to have that data cleaned and migrated to a knowledge management system inside of Salesforce. Sure, Salesforce has built in dashboards, but you’re hoping to learn as much as you can from your data, so you’ve purchase Tableau licenses for your staff, and an ArcGIS license for your spatial analyst. And because you want to host your results online and share them with people, you’ve purchased a copy of Tableau Server.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros&quot;&gt;Pros&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve just exponentially upped your potential data management game.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can build beautiful dashboards without having to keep a team of developers on staff.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If something breaks, you can rely on one of your vendors to investigate the problem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Project management continues to be a priority over technology management.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cons&quot;&gt;Cons&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You just spent hundreds of thousands of dollars on technology, and now you and your staff need to learn how to use it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;While you paid for licenses fees for your current staff, you may need to buy more if your organization grows.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Even if software is easy to use, it still requires maintenance, and you may now need to hire people just to manage these tools.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With proprietary software, often what you see is what you get. While customizable, you’ll have to wait for the next software update to add that dual axis line chart to your report.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s possible that your data is in a system that only really talks to itself, and you don’t have a lot of control over how to get it out later.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your project comes to an end, you can’t hand over aspects of the system without finding funding for annual licenses fees.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/PhoneUse.JPG&quot; alt=&quot;PhoneUse.JPG&quot; /&gt;`A farmer in Central America using the Coffee Cloud application developed by CDA.`&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;group-b-build-it&quot;&gt;Group B: Build it&lt;/h2&gt;
+
+&lt;p&gt;You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed &lt;a href=&quot;https://dai-global-digital.com/data-collection-with-opendatakit.html&quot;&gt;Open Data Kit&lt;/a&gt; (ODK) on cloud servers, and are running &lt;a href=&quot;https://www.postgresql.org/&quot;&gt;PostgreSQL&lt;/a&gt; with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn &lt;a href=&quot;https://d3js.org/&quot;&gt;D3&lt;/a&gt;, or you’ve learned or hired some R developers who can build you dashboards in &lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;Shiny&lt;/a&gt;. Instead of ArcGIS, you’ve made use of &lt;a href=&quot;https://qgis.org/en/site/&quot;&gt;QGIS&lt;/a&gt; for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through &lt;a href=&quot;https://httpd.apache.org/&quot;&gt;Apache&lt;/a&gt;, &lt;a href=&quot;https://www.nginx.com/&quot;&gt;NGINX&lt;/a&gt;, and &lt;a href=&quot;https://oauth.net/&quot;&gt;OAuth&lt;/a&gt;, trying to get your dashboards shared discreetly across your users.&lt;/p&gt;
+
+&lt;h3 id=&quot;pros-1&quot;&gt;Pros&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve just exponentially upped your potential data management game.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’re not paying license fees and can give people access to your system without paying for additional users.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve hired seasoned analysts and developers to build your system, so your data analysis and reporting dashboards are put together by people trained in research methods and quantitative analysis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve learned an absolute ton about technology, and there are no limitations to what your team can have assuming you have enough time to work on it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cons-1&quot;&gt;Cons&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve just spent months of your life looking at documentation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Every time something goes wrong, you and your team need to figure out how to fix it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve become reliant on a whole series of &lt;a href=&quot;https://en.wikipedia.org/wiki/Dependency_hell&quot;&gt;dependent packages&lt;/a&gt;, which leaves you at risk for system failure if someone creates a package update without your knowledge.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Technology keeps changing, so you often spend the weekend learning how to build something in a new way.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are now in a world where you manage technology as much as you manage your projects.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;As we can see from these two case studies, both Group A and Group B have come a long way on their data management journey, and each group is going to experience different challenges along the way. It’s hard to say who spent more money, as the Buy It group spent both time and lots of money on their software, while the Built It group had to hire some analysts and developers, each of whom spent quite a bit of time setting their systems up.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-approach&quot;&gt;Our Approach&lt;/h2&gt;
+
+&lt;p&gt;As a team, we’ve chosen to live somewhere between these two worlds, with a strong leaning towards the Build It camp. We do our best to leverage open source tools as much as possible, and when it makes sense, we have a team of developers who work in common web development framework (Python/Django). The proliferation of powerful business intelligence solutions means that we do use proprietary software, but when given the time we build dashboards in JavaScript, or by using the amazing R/Shiny framework.&lt;/p&gt;
+
+&lt;p&gt;What we know is this – in data management, no matter how you approach the problem set, you’re either going to have to spend time and money on professional data management staff, or spend money on software. There’s no such thing as a free lunch.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2019 08:00:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html</guid>
+        
+        <category>Open Source Series</category>
+        
+        <category>Data Management Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/convening%201-a4e466.jpg" medium="image" /> 
@@ -186,23 +321,6 @@
         <category>Digital Inclusion</category>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Mobile%20Expo%202%20(1).JPG" medium="image" /> 
-        <title>10 Tips to Work Better with Small ICT4D Firms</title>
-        <description>&lt;p&gt;Hi, Digital@DAI readers! My name is Inta, and I am the newest staff member at DAI’s Center for Digital Acceleration. I come to DAI from GeoPoll, a U.S. registered small business in the mobile for development space. Making the transition from a small business specializing in ICT4D to a large business with a rockstar ICT4D team has given me some unique insights on the needs of small businesses. It has also provided me a big platform (thank you, Digital@DAI!) to share them with others, particularly people working for other major players in the international development sector. Below are some tips for using smaller, specialized technology firms—particularly U.S.-registered small businesses—more effectively in your development projects:&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 30 May 2019 08:00:00 -0400</pubDate>
-        <author>Inta Plostins
-</author>
-        <link>https://dai-global-digital.com/ten-tips-to-work-more-effectively-with-small-ict4d-firms.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/ten-tips-to-work-more-effectively-with-small-ict4d-firms.html</guid>
-        
-        <category>Entrepreneurship</category>
         
         
       </item>
