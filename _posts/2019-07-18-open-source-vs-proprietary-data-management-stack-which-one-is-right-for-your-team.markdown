@@ -25,9 +25,11 @@ Most importantly, these tools should be easy to use, and ideally not too expensi
 All of these are reasonable requests. If prioritized, organizations should be able to develop and maintain highly functional data management and analysis solutions. So why do so many organizations struggle to maintain these kinds of systems?
 In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions v. 2) open source technologies.
 
+<!--more-->
+
 ## Group A: Buy It
 
-You’ve made the decision to buy the toolkit of your dreams. Maybe you purchased licenses to mobile data collection tools that run offline on both Android and iOS devices, and paid to have that data cleaned and migrated to a knowledge management system inside of Salesforce. Sure, Salesforce has built in dashboards, but you’re hoping to learn as much as you can from your data, so you’ve purchase Tableau licenses for your staff, and an ArcGIS license for your spatial analyst. And because you want to host your results online and share them with people, you’ve purchased a copy of Tableau Server.
+You’ve made the decision to buy the toolkit of your dreams. Maybe you purchased licenses to mobile data collection tools that run offline on both Android and iOS devices, and paid to have that data cleaned and migrated to a knowledge management system inside of Salesforce. Sure, Salesforce has built in dashboards, but you’re hoping to learn as much as you can from your data, so you’ve purchased Tableau licenses for your staff, and an ArcGIS license for your spatial analyst. And because you want to host your results online and share them with people, you’ve purchased a copy of Tableau Server.
 
 ### Pros
 
@@ -41,11 +43,11 @@ You’ve made the decision to buy the toolkit of your dreams. Maybe you purchase
 
 ### Cons
 
-* You just spent hundreds of thousands of dollars on technology, and now you and your staff need to learn how to use it.
+* There's a chance you just spent hundreds of thousands of dollars on technology, and now you and your staff need to learn how to use it.
 
 * While you paid for licenses fees for your current staff, you may need to buy more if your organization grows.
 
-* Even if software is easy to use, it still requires maintenance, and you may now need to hire people just to manage these tools.
+* Even if software is easy to use, it still requires maintenance, and you may need to hire people just to manage these tools.
 
 * With proprietary software, often what you see is what you get. While customizable, you’ll have to wait for the next software update to add that dual axis line chart to your report.
 
@@ -57,7 +59,7 @@ You’ve made the decision to buy the toolkit of your dreams. Maybe you purchase
 
 ## Group B: Build it
 
-You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed [Open Data Kit](https://dai-global-digital.com/data-collection-with-opendatakit.html) (ODK) on cloud servers, and are running [PostgreSQL](https://www.postgresql.org/) with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn [D3](https://d3js.org/), or you’ve learned or hired some R developers who can build you dashboards in [Shiny](https://shiny.rstudio.com/). Instead of ArcGIS, you’ve made use of [QGIS](https://qgis.org/en/site/) for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through [Apache](https://httpd.apache.org/), [NGINX](https://www.nginx.com/), and [OAuth](https://oauth.net/), trying to get your dashboards shared discreetly across your users.
+You’ve made the decision to build your own or leverage open source tools as much as possible. To get started, you’ve installed [Open Data Kit](https://dai-global-digital.com/data-collection-with-opendatakit.html) (ODK) on cloud servers, and are running [PostgreSQL](https://www.postgresql.org/) with a series of Python scripts to move data around. The ODK graphs aren’t very sophisticated, so you’ve decided to build your dashboards in a couple of different ways. Maybe you have a web developer on staff who is ready to learn [D3](https://d3js.org/), or you’ve learned or hired some [R developers](https://dai-global-digital.com/getting-started-with-rstudio.html) who can build you dashboards in [Shiny](https://shiny.rstudio.com/). Instead of ArcGIS, you’ve made use of [QGIS](https://qgis.org/en/site/) for spatial analysis and cartographic design. You have several servers running to host your dashboards, and are working your way through [Apache](https://httpd.apache.org/), [NGINX](https://www.nginx.com/), and [OAuth](https://oauth.net/), trying to get your dashboards shared discreetly across your users.
 
 ### Pros
 
@@ -67,7 +69,7 @@ You’ve made the decision to build your own or leverage open source tools as mu
 
 * You’ve hired seasoned analysts and developers to build your system, so your data analysis and reporting dashboards are put together by people trained in research methods and quantitative analysis.
 
-* You’ve learned an absolute ton about technology, and there are no limitations to what your team can have assuming you have enough time to work on it.
+* You’ve learned an absolute ton about technology, and there are no limitations to what your team can have (assuming you have enough time to work on it...).
 
 ### Cons
 
@@ -83,7 +85,7 @@ You’ve made the decision to build your own or leverage open source tools as mu
 
 ## Reflections
 
-As we can see from these two case studies, both Group A and Group B have come a long way on their data management journey, and each group is going to experience different challenges along the way. It’s hard to say who spent more money, as the Buy It group spent both time and lots of money on their software, while the Built It group had to hire some analysts and developers, each of whom spent quite a bit of time setting their systems up.
+As we can see from these two case studies, both Group A and Group B have come a long way on their data management journey, and each group is going to experience different challenges along the way. It’s hard to say who spent more money, as the Buy It group spent both time and lots of money on their software, while the Built It group had to hire analysts and developers, each of whom spent quite a bit of time setting their systems up.
 
 ## Our Approach
 
