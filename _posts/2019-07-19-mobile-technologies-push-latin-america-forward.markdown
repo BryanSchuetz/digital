@@ -14,7 +14,7 @@ thumbnail: "/uploads/GSMA.jpeg"
 
 The digital ecosystem in Latin America is pushing countries to accelerate public-private collaboration on digital transformation.
 
-At the recent [GSMA Mobile 360 LATAM conference](https://www.mobile360series.com/latin-america/agenda/), we heard a lot about how 5G networks will bring about a technological, economic, and social revolution around the world. Many speakers—including GSMA's CEO Mat Granryd—urged authorities and industry representatives to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
+At the recent [GSMA Mobile 360 LATAM conference](https://www.mobile360series.com/latin-america/agenda/), we heard a lot about how 5G networks will bring about a technological, economic, and social revolution around the world. Many speakers—including GSMA's CEO Mats Granryd—urged authorities and industry representatives to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.
 
 <!--more-->
 
