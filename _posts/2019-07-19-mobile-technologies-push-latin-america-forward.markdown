@@ -1,6 +1,6 @@
 ---
 title: Mobile Technologies Push Latin America Forward
-date: 2019-07-18 14:36:00 -04:00
+date: 2019-07-19 08:00:00 -04:00
 tags:
 - Innovation
 - Internet of Things
