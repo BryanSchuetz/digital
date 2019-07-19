@@ -45,7 +45,7 @@ You’ve made the decision to buy the toolkit of your dreams. Maybe you purchase
 
 * There's a chance you just spent hundreds of thousands of dollars on technology, and now you and your staff need to learn how to use it.
 
-* While you paid for licenses fees for your current staff, you may need to buy more if your organization grows.
+* While you paid for license fees for your current staff, you may need to buy more if your organization grows.
 
 * Even if software is easy to use, it still requires maintenance, and you may need to hire people just to manage these tools.
 
