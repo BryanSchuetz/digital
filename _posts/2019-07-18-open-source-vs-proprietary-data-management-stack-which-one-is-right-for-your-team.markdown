@@ -1,5 +1,5 @@
 ---
-title: Open Source versus Proprietary Data Management Stack—Which One is Best for
+title: Open Source Versus Proprietary Data Management Stack—Which One is Best for
   Your Team?
 date: 2019-07-18 08:00:00 -04:00
 tags:
