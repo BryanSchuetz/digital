@@ -56,4 +56,6 @@ Throughout all the activities and discussions two things became clear:
 
 2. Strengthening people’s skills is only half of the equation. To change behavior, cyber hygiene processes need to be integrated into the day-to-day tasks of a person’s life. In a professional setting, this will require support from the highest levels.
 
+![cs1.jpg](/uploads/cs1.jpg)`Workshop participants after receiving their certificate of completion.`
+
 As demonstrated by the panelists and the workshop participants, there is an appetite for change. Change that empowers the Ukrainian people to employ cyber hygiene best practices to protect their personal data, but also critical government systems. The challenge, for Ukraine, will be allocating the right resources and coordinating the right partners to move this agenda forward. Keeping a keen eye on how the cyber landscape evolves will also be important and ensure that as foundational cyber hygiene skills are strengthened, new skills are also being acquired to consistently keep the ecosystem more secure. As one of the panelists surmised, accepting that “cybersecurity is a process, not a product,” is the first step in the right direction.
