@@ -4,6 +4,7 @@ date: 2019-07-22 15:30:00 -04:00
 tags:
 - Digital Financial Services
 - Think Piece
+Author: Kristen Roggemann
 ---
 
 When Facebook announced the launch of its new digital currency [Libra](https://libra.org/en-US/white-paper/) last month, there was a collective deep sigh from the digital development community as Twitter lit up with both praise and concern for the social media giant’s formal foray into the digital financial space. While it’s easy to get out the pitchforks for something like this – and in many ways rational, given the [Rohingya crisis](https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html), [Cambridge Analytica scandal](https://www.wired.com/story/cambridge-analytica-facebook-privacy-awakening/), and myriad other [breaches](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651) of trust in which Facebook has proven itself a questionable steward of its self-built digital nation – I’m not going to not going to take a side on whether Libra is a good idea for this blog. Rather, I will lay out some key questions and considerations that I don’t feel have been fully answered yet.
