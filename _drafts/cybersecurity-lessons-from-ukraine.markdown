@@ -13,7 +13,7 @@ The event started with a panel discussion, with representatives from a myriad of
 
 The panels focused primarily on two major topics: the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
 
-Protecting critical infrastructure from cyber-attack is a topic of focus in Ukraine and around the world. But what is critical infrastructure? According to the [U.K. Government ](https://www.cpni.gov.uk/critical-national-infrastructure-0)critical infrastructure is the “facilities, systems, sites, information, people, networks and processes, necessary for a country to function and upon which daily life depends.” These include sectors like:
+Protecting critical infrastructure from cyber-attack is a topic of focus in Ukraine and around the world. But what is critical infrastructure? According to the [U.K. Government](https://www.cpni.gov.uk/critical-national-infrastructure-0) critical infrastructure is the “facilities, systems, sites, information, people, networks and processes, necessary for a country to function and upon which daily life depends.” These include sectors like:
 
 * Emergency Services
 
