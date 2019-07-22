@@ -1,6 +1,6 @@
 ---
 title: 'Facebook''s Libra Currency: A Digital Development Perspective'
-date: 2019-07-22 15:30:00 -04:00
+date: 2019-07-25 08:00:00 -04:00
 tags:
 - Digital Financial Services
 - Think Piece
