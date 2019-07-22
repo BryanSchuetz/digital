@@ -5,6 +5,8 @@ tags:
 - Cybersecurity
 Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) and [Denis
   Gursky](https://ua.linkedin.com/in/denisgursky)"
+social-image: "/uploads/cs1.jpg"
+thumbnail: "/uploads/cs1.jpg"
 ---
 
 ## Cybersecurity Lessons from Ukraine
