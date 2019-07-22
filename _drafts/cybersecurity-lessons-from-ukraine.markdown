@@ -14,7 +14,7 @@ When you walk into a room of government officials, civil society organizations, 
 The event started with a panel discussion, with representatives from a myriad of key government institutions working to address Ukraine’s [cybersecurity challenges](https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/). They included representatives from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners ([ISSP](https://www.issp.com/)) and law firm Sayenko Kharenko.
 
 The panels focused primarily on two major topics: the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
-![VZR_8527.JPG](/uploads/VZR_8527.JPG)`Picture taken by SocialBoost photographer doing a panel discussion at the DAI-SocialBoost Cybersecurity Roundtable on June 25, 2019.` 
+![VZR_8527.JPG](/uploads/VZR_8527.JPG)`Picture taken by SocialBoost photographer doing a panel discussion at the DAI-SocialBoost Cybersecurity Roundtable on June 25, 2019.`
 
 Protecting critical infrastructure from cyber-attack is a topic of focus in Ukraine and around the world. But what is critical infrastructure? According to the [U.K. Government](https://www.cpni.gov.uk/critical-national-infrastructure-0) critical infrastructure is the “facilities, systems, sites, information, people, networks and processes, necessary for a country to function and upon which daily life depends.” These include sectors like:
 
@@ -41,6 +41,8 @@ Running, maintaining, and staffing each of these sectors are ***people***, who a
 Following the panel, we (DAI and SocialBoost) led a cyber hygiene workshop for civil servants and entrepreneurs. The goal was to support bridging the human capital gap identified by the panelists earlier that day.
 
 We started with the basics: practices that most people already know, but rarely employ. For example, the importance of using strong passwords, changing passwords, and employing different passwords. Starting with this is critical because [passwords](https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/) are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network, particularly if people are using weak or unchanged passwords to access the network’s services.
+
+![cs5.jpg](/uploads/cs5.jpg)` A workshop participant working through which download buttons were fake and which are real.`
 
 Though widely known, it was no surprise that few people or companies [employ](https://33kpvz33obwvvdeaa3co3hu1-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/07/cybersecurity-ventures-thycoti_70778.pdf) good password management. The workshop participants were no different. They all had personal experience with their data getting stolen or misused, even though they knew that password management was essential to protecting their information. Of the participants who did employ good password management, it was only because they were prompted to by their employer.
 
