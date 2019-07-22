@@ -5,7 +5,7 @@ tags:
 - Cybersecurity
 ---
 
-**Cybersecurity Lessons from Ukraine**
+## Cybersecurity Lessons from Ukraine
 
 When you walk into a room of government officials, civil society organizations, and private companies discussing cybersecurity same topic, you expect to hear resounding disagreement. The exact opposite happened during the DAI- [SocialBoost](http://socialboost.com.ua/)Cybersecurity Roundtable and Workshop in Kyiv, Ukraine on June 25.
 
@@ -33,7 +33,7 @@ Protecting critical infrastructure from cyber-attack is a topic of focus in Ukra
 
 Running, maintaining, and staffing each of these sectors are***people,***who are at the heart of efforts to improve cybersecurity. During the panels, , which is exactly what the panelists focused on. both the government officials and private sector representatives agreed that the most critical need to strengthening Ukraine’s cyber resilience is strengthening the population’s digital [skills](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html). By making more people aware of cyber threats and teaching them how to mitigate these threats, the hope is that fewer successful cyber-attacks will take place.
 
-**Teaching Cyber Hygiene**
+## Teaching Cyber Hygiene
 
 Following the panel, we (DAI and SocialBoost) led a cyber hygiene workshop for civil servants and entrepreneurs. The goal was to support bridging the human capital gap identified by the panelists earlier that day.
 
