@@ -42,7 +42,7 @@ Following the panel, we (DAI and SocialBoost) led a cyber hygiene workshop for c
 
 We started with the basics: practices that most people already know, but rarely employ. For example, the importance of using strong passwords, changing passwords, and employing different passwords. Starting with this is critical because [passwords](https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/) are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network, particularly if people are using weak or unchanged passwords to access the network’s services.
 
-![cs5.jpg](/uploads/cs5.jpg)` A workshop participant working through which download buttons were fake and which are real.`
+![cs5.jpg](/uploads/cs5.jpg)`A workshop participant thinking through which download buttons are fake and which are real.`
 
 Though widely known, it was no surprise that few people or companies [employ](https://33kpvz33obwvvdeaa3co3hu1-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/07/cybersecurity-ventures-thycoti_70778.pdf) good password management. The workshop participants were no different. They all had personal experience with their data getting stolen or misused, even though they knew that password management was essential to protecting their information. Of the participants who did employ good password management, it was only because they were prompted to by their employer.
 
