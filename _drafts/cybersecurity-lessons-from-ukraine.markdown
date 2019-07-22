@@ -3,15 +3,18 @@ title: Cybersecurity Lessons from Ukraine
 date: 2019-07-22 10:17:00 -04:00
 tags:
 - Cybersecurity
+Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) and [Denis
+  Gursky](https://ua.linkedin.com/in/denisgursky)"
 ---
 
 ## Cybersecurity Lessons from Ukraine
 
-When you walk into a room of government officials, civil society organizations, and private companies discussing cybersecurity same topic, you expect to hear resounding disagreement. The exact opposite happened during the DAI- [SocialBoost](http://socialboost.com.ua/) Cybersecurity Roundtable and Workshop in Kyiv, Ukraine on June 25.
+When you walk into a room of government officials, civil society organizations, and private companies discussing cybersecurity same topic, you expect to hear resounding disagreement. The exact opposite happened during the DAI- [SocialBoost](http://socialboost.com.ua/)Cybersecurity Roundtable and Workshop in Kyiv, Ukraine on June 25.
 
 The event started with a panel discussion, with representatives from a myriad of key government institutions working to address Ukraine’s [cybersecurity challenges](https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/). They included representatives from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners ([ISSP](https://www.issp.com/)) and law firm Sayenko Kharenko.
 
 The panels focused primarily on two major topics: the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
+![VZR_8527.JPG](/uploads/VZR_8527.JPG)`Picture taken by SocialBoost photographer doing a panel discussion at the DAI-SocialBoost Cybersecurity Roundtable on June 25, 2019.` 
 
 Protecting critical infrastructure from cyber-attack is a topic of focus in Ukraine and around the world. But what is critical infrastructure? According to the [U.K. Government](https://www.cpni.gov.uk/critical-national-infrastructure-0) critical infrastructure is the “facilities, systems, sites, information, people, networks and processes, necessary for a country to function and upon which daily life depends.” These include sectors like:
 
