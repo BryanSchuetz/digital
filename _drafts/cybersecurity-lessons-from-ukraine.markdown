@@ -15,17 +15,26 @@ The event started with a panel discussion with representatives from a myriad of 
 
 The panelists focused primarily on the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
 
-![VZR_8527.JPG](/uploads/VZR_8527.JPG)`Panelists discuss cybersecurity issues. Photo courtesy of SocialBoost.`
+![PanelUA1.JPG](/uploads/PanelUA1.JPG)
+
+`Panelists discuss cybersecurity issues. Photo courtesy of SocialBoost.`
 
 Protecting critical infrastructure from cyberattacks is a major focus in Ukraine and around the world. But what is critical infrastructure? According to the [U.K. Government](https://www.cpni.gov.uk/critical-national-infrastructure-0), it is the “facilities, systems, sites, information, people, networks, and processes necessary for a country to function and upon which daily life depends.” These include sectors like:
 
 * Emergency services
+
 * Energy
+
 * Government
+
 * Health
+
 * Finance
+
 * Food
+
 * Transportation
+
 * Water
 
 Running, maintaining, and staffing each of these sectors are ***people***, who are at the heart of efforts to improve cybersecurity. Both the government officials and private sector representatives agreed that the best way to strengthen Ukraine’s cyber resilience is to upgrade the population’s digital [skills](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html). By making more people aware of cyber threats and teaching them how to mitigate these threats, the hope is that fewer successful cyberattacks will take place.
@@ -50,6 +59,8 @@ Throughout all the activities and discussions two things became clear:
 
 2. Strengthening people’s skills is only half of the equation. To change behavior, cyber hygiene processes need to be integrated into the day-to-day habits of people’s lives. In a professional setting, this will require support from the highest levels.
 
-![cs1.jpg](/uploads/cs1.jpg)`Workshop participants receive certificates of completion. Photo courtesy of SocialBoost.`
+   ![cs1-9318e9.jpg](/uploads/cs1-9318e9.jpg)
+
+`Workshop participants receive certificates of completion. Photo courtesy of SocialBoost.`
 
 As demonstrated by the panelists and the workshop participants, there is an appetite for change—the kind of change that empowers the Ukrainian people to employ cyber best practices to protect their personal data, but also critical government systems. The challenge, for Ukraine, will be allocating the right resources and coordinating with the right partners to move this agenda forward. Keeping a keen eye on how the cyber landscape evolves will also be important and ensure that as foundational cyber hygiene skills are strengthened, new skills are also being acquired to consistently keep the ecosystem more secure. As one of the panelists surmised, accepting that “cybersecurity is a process, not a product,” is the first step in the right direction.
