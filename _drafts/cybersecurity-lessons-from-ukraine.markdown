@@ -9,7 +9,7 @@ social-image: "/uploads/cs1.jpg"
 thumbnail: "/uploads/cs1.jpg"
 ---
 
-When you walk into a room full of government officials, civil society organizations, and private companies discussing cybersecurity, you expect to hear disagreement. The exact opposite happened during the recent DAI- [SocialBoost](http://socialboost.com.ua/)Cybersecurity Roundtable and Workshop in Kyiv, Ukraine.
+When you walk into a room full of government officials, civil society organizations, and private companies discussing cybersecurity, you expect to hear disagreement. The exact opposite happened during the recent DAI- [SocialBoost](http://socialboost.com.ua/) Cybersecurity Roundtable and Workshop in Kyiv, Ukraine.
 
 The event started with a panel discussion with representatives from a myriad of government institutions working to address Ukraine’s [cybersecurity challenges](https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/). They included representatives from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners ([ISSP](https://www.issp.com/)) and law firm [Sayenko Kharenko](https://sk.ua/).
 
