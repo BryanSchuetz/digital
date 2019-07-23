@@ -34,7 +34,7 @@ Running, maintaining, and staffing each of these sectors are ***people***, who a
 
 Following the panel, we led a "cyber hygiene" workshop for civil servants and entrepreneurs to bridge the human capital gap identified by the panelists earlier in the day.
 
-We started with the basics—teaching practices that most people already know, but rarely employ. One example of good cyber hygiene is the use of strong passwords and changing them often. Starting with this practice is critical because [passwords](https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/) are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network.
+We started with the basics—teaching practices that most people already know, but rarely employ. One example of good cyber hygiene is the use of strong passwords and changing them often. [Passwords](https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/) are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network.
 
 ![cs5.jpg](/uploads/cs5.jpg)`A workshop participant thinks through which download buttons are fake and which are real. Photo courtesy of SocialBoost.`
 
