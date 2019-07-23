@@ -13,7 +13,7 @@ When you walk into a room full of government officials, civil society organizati
 
 The event started with a panel discussion with representatives from a myriad of government institutions working to address Ukraine’s [cybersecurity challenges](https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/). Representatives came from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners ([ISSP](https://www.issp.com/)) and the law firm [Sayenko Kharenko](https://sk.ua/).
 
-The panelists focused primarily on: the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
+The panelists focused primarily on the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.
 
 ![VZR_8527.JPG](/uploads/VZR_8527.JPG)`Panelists discuss cybersecurity issues. Photo courtesy of SocialBoost.`
 
