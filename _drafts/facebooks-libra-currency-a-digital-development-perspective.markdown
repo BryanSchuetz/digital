@@ -1,5 +1,5 @@
 ---
-title: 'Facebook''s Libra Currency: A Digital Development Perspective'
+title: 'Facebook’s Libra Currency: A Digital Development Perspective'
 date: 2019-07-25 08:00:00 -04:00
 tags:
 - Digital Financial Services
@@ -9,10 +9,9 @@ social-image: "/uploads/https___blogs-images.forbes.com_tatianakoffman_files_201
 thumbnail: "/uploads/https___blogs-images.forbes.com_tatianakoffman_files_2019_06_libra-logo-1200x900.png"
 ---
 
-![Libra-f824a7.png](/uploads/Libra-f824a7.png)
+When Facebook announced its first foray into the digital financial space with its new digital currency [Libra](https://libra.org/en-US/white-paper/) last month, the digital development community collectively sighed and Twitter lit up with both praise and concern. While it’s easy to get out the pitchforks for something like this—and in many ways rational, given how Facebook was manipulated to exacerbate the [Rohingya crisis](https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html), used by [Cambridge Analytica](https://www.wired.com/story/cambridge-analytica-facebook-privacy-awakening/), and part of a myriad of other [breaches](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651) of trust in which Facebook has proven itself a questionable steward of its self-built digital nation—I’m not going to not going to take a side on whether Libra is good or bad. Rather, in this blog, I will lay out some key questions and considerations that need to be fully addressed.
 
-`libra logo: libra.org`
-When Facebook announced its first foray into the digital financial space with the launch of its new digital currency [Libra](https://libra.org/en-US/white-paper/) last month, the digital development community collectively sighed and Twitter lit up with both praise and concern. While it’s easy to get out the pitchforks for something like this – and in many ways rational, given how Facebook was manipulated to exacerbate the [Rohingya crisis](https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html), used by companies like [Cambridge Analytica ](https://www.wired.com/story/cambridge-analytica-facebook-privacy-awakening/), and part of a myriad of other [breaches](https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651) of trust in which Facebook has proven itself a questionable steward of its self-built digital nation – I’m not going to not going to take a side on whether Libra is a good idea or a bad idea. Rather, in this blog, I will lay out some key questions and considerations that I don’t feel have been fully addressed yet.
+![Libra-f824a7.png](/uploads/Libra-f824a7.png)
 
 As members of the digital development community, it’s important for us to educate ourselves on this new digital currency. If Libra does manage to get past the significant regulatory hurdles in its way, it will most likely be popular, especially in the communities we seek to serve. [Facebook is the internet](https://lirneasia.net/2012/05/facebook-internet/) for most folks in emerging markets; as mobile internet penetration has increased, the reach of Facebook has expanded to the point of near ubiquity. Additionally, inexpensively moving cash in and between emerging markets is one of the hardest problems that we have yet to address, even with immense investments in mobile money infrastructure by major mobile ecosystem players and financial institutions. If Facebook succeeds in making Libra a core part of its user experience, given how big this bet is, we’re going to have to deal with it.
 
