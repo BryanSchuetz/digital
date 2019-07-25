@@ -8,11 +8,11 @@ social-image: "/uploads/LatifaYari.jpg"
 thumbnail: "/uploads/LatifaYari.jpg"
 ---
 
-Let me introduce you to Latifa Yari, a 24-year-old Nigerien student who will graduate from the Niger [Higher School of Telecommunications](http://estniger.net/) (E.S.T.) this year with a degree in computer science. In 2018, Latifa won the [Miss. Geek Africa](https://www.girlsinict.rw/missgeekafrica)\* competition with an app, Saro (“security” in Hausa), that connects emergency response services to citizens who have been in accidents. After that win, she founded the startup InnovElle, designed to develop digital social solutions and help coach girls and women in digital technology. Latifa’s accomplishments are impressive and in the context of Niger, where there is a large digital gender divide, they are astounding. This is why during a recent trip to Niger I reached out to Latifa (thanks, [LinkedIn!](https://www.linkedin.com/in/latifa-yari-57460b161/)) to learn her story.
+Let me introduce you to Latifa Yari, a 24-year-old student who will graduate from the Niger [Higher School of Telecommunications](http://estniger.net/) (E.S.T.) this year with a degree in computer science. In 2018, Latifa won the [Miss Geek Africa](https://www.girlsinict.rw/missgeekafrica)\* competition with an app called Saro (“security” in Hausa) that connects emergency response services to citizens who have been in accidents. After that win, she founded the startup InnovElle, to develop digital social solutions and coach girls and women in digital technology. Latifa’s accomplishments are impressive and in the context of Niger, where there is a large digital gender divide, they are astounding. This is why during a recent trip to Niger I reached out to Latifa (thanks, [LinkedIn!](https://www.linkedin.com/in/latifa-yari-57460b161/)) to learn her story.
 
 <!--more-->
 
-![LatifaYari.jpg](/uploads/LatifaYari.jpg)\`Latifa Yari in Niger. Photo taken by the author.\`
+![LatifaYari.jpg](/uploads/LatifaYari.jpg)\`Latifa Yari in Niger. Photo by Alana McGinty.`
 
 ## The Gender Digital Divide
 
