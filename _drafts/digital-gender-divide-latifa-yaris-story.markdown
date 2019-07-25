@@ -12,7 +12,7 @@ Let me introduce you to Latifa Yari, a 24-year-old student who will graduate fro
 
 <!--more-->
 
-![LatifaYari.jpg](/uploads/LatifaYari.jpg)\`Latifa Yari in Niger. Photo by Alana McGinty.`
+![LatifaYari.jpg](/uploads/LatifaYari.jpg)`Latifa Yari in Niger. Photo by Alana McGinty.`
 
 ## The Gender Digital Divide
 
