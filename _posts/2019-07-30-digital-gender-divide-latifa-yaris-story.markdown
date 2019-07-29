@@ -1,7 +1,6 @@
 ---
 title: 'Digital Gender Divide: Latifa Yari''s Story'
 date: 2019-07-30 08:00:00 -04:00
-published: false
 tags:
 - Digital Gender Divide
 Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
