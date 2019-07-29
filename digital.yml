@@ -1,4 +1,13 @@
 
+- title: "Digital Gender Divide: Latifa Yari's Story"
+  pub: "Digital"
+  date: 2019-07-29
+  link: "https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html?utm_source=daidotcom"
+  summary: "Let me introduce you to Latifa Yari, a 24-year-old student who will graduate from the Niger Higher School of Telecommunications (E.S.T.) this year with a degree in computer science. In 2018, Latifa won the Miss Geek Africa* competition with an app called Saro (“security” in Hausa) that connects emergency response services to citizens who have been in accidents. After that win, she founded the startup InnovElle, to develop digital social solutions and coach girls and women in digital technology. Latifa’s accomplishments are impressive and in the context of Niger, where there is a large digital gender divide, they are astounding. This is why during a recent trip to Niger I reached out to Latifa (thanks, LinkedIn!) to learn her story."
+  tags:
+    - digital acceleration 
+    - Digital Gender Divide 
+
 - title: "Facebook’s Libra Currency: A Digital Development Perspective"
   pub: "Digital"
   date: 2019-07-25
@@ -231,17 +240,4 @@ It is possible there is a bit of hyperbole inserted here. Possibly."
     - RFP 
     - USAID 
     - Digital 
-
-- title: "Digital Identity Series Part 2: Digital Identity and Politics"
-  pub: "Digital"
-  date: 2019-04-25
-  link: "https://dai-global-digital.com/digital-identity-series-part-2-digital-identity-and-politics.html?utm_source=daidotcom"
-  summary: "Welcome back to the Digital Identity series. This week we continue the discussion of digital identity, with a focus on the politics of digital identification.
-
-Let’s start with the recognition that a formal identity is often a starting point for inclusion—without it, a person may not be able to access services such as health care, banking, or education. In humanitarian emergencies, a digital identity may be required to receive vital provisions such as food, water, and medicine."
-  tags:
-    - digital acceleration 
-    - Digital Identity Series 
-    - Data 
-    - Cybersecurity 
 

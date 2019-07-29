@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jul 2019 10:45:10 -0400</pubDate>
-    <lastBuildDate>Mon, 29 Jul 2019 10:45:10 -0400</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2019 10:46:22 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2019 10:46:22 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/LatifaYari.jpg" medium="image" /> 
+        <title>Digital Gender Divide: Latifa Yari's Story</title>
+        <description>&lt;p&gt;Let me introduce you to Latifa Yari, a 24-year-old student who will graduate from the Niger &lt;a href=&quot;http://estniger.net/&quot;&gt;Higher School of Telecommunications&lt;/a&gt; (E.S.T.) this year with a degree in computer science. In 2018, Latifa won the &lt;a href=&quot;https://www.girlsinict.rw/missgeekafrica&quot;&gt;Miss Geek Africa&lt;/a&gt;* competition with an app called Saro (“security” in Hausa) that connects emergency response services to citizens who have been in accidents. After that win, she founded the startup InnovElle, to develop digital social solutions and coach girls and women in digital technology. Latifa’s accomplishments are impressive and in the context of Niger, where there is a large digital gender divide, they are astounding. This is why during a recent trip to Niger I reached out to Latifa (thanks, &lt;a href=&quot;https://www.linkedin.com/in/latifa-yari-57460b161/&quot;&gt;LinkedIn!&lt;/a&gt;) to learn her story.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Jul 2019 08:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/alana-mcginty-04a91657/">Alana McGinty</a>
+</author>
+        <link>https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html</guid>
+        
+        <category>Digital Gender Divide</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/https___blogs-images.forbes.com_tatianakoffman_files_2019_06_libra-logo-1200x900.png" medium="image" /> 
@@ -210,27 +227,6 @@ In this article, I’d like to outline two very different routes that organizati
         <category>Agriculture</category>
         
         <category>diseño centrado en el humano</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/cover1.png" medium="image" /> 
-        <title>Building Coffee Cloud: A Precision Ag Tool Used by Farmers Across Central America</title>
-        <description>&lt;p&gt;Esta entrada también está disponible en &lt;a href=&quot;https://dai-global-digital.com/el-desarrollo-de-coffee-cloud-una-herramienta-de-precision.html&quot;&gt;español&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Coffee rust has menaced the global coffee industry for more than a century, but particularly in the era of climate change. Nevertheless, effective, coordinated action between coffee producing countries across Central America has remained elusive, and as a result the disease has spread—to devastating effect. In 2012 and 2013, coffee rust reduced the region’s coffee production by 15 percent, including a staggering 31 percent in Honduras. The figure below shows the losses each country suffered during that season.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Jun 2019 08:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/alejandro-solis/">Alejandro Solis</a> and <a href="https://dai-global-digital.com/authors/adam-fivenson/">Adam Fivenson</a>
-</author>
-        <link>https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html</guid>
-        
-        <category>Agriculture</category>
-        
-        <category>Human-centered design</category>
         
         
       </item>
