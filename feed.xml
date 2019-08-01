@@ -5,9 +5,97 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2019 07:33:42 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2019 07:33:42 -0400</lastBuildDate>
+    <pubDate>Thu, 01 Aug 2019 07:41:30 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Aug 2019 07:41:30 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/cs1-9318e9.jpg" medium="image" /> 
+        <title>Карти, гроші, VPN: кібербезпекові реалії в Україні</title>
+        <description>&lt;p&gt;&lt;em&gt;Read this blog in &lt;a href=&quot;dai-global-digital.com/cybersecurity-lessons-from-ukraine.html&quot;&gt;English&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Cупротив та неузгодженість — напевне, той асоціативний ряд, який спадає на думку, коли уявляємо, що в одній кімнаті мають зустрітися державні управлінці, громадський сектор та представники бізнесу для обговорення тонкощів кібербезпеки. Проте, на Cyber Security Day - серії подій, які команда SocialBoost нещодавно організувала з новим партнером DAI, нам вдалося досягти абсолютно іншого ефекту.&lt;/p&gt;
+
+&lt;p&gt;Cупротив та неузгодженість — напевне, той асоціативний ряд, який спадає на думку, коли уявляємо, що в одній кімнаті мають зустрітися державні управлінці, громадський сектор та представники бізнесу для обговорення тонкощів кібербезпеки. Проте, на Cyber Security Day - серії подій, які команда SocialBoost нещодавно організувала з новим партнером DAI, нам вдалося досягти абсолютно іншого ефекту.&lt;/p&gt;
+
+&lt;p&gt;*Трохи більше про виклики України у сфері кібербезпеки. (англійською)&lt;/p&gt;
+
+&lt;p&gt;В основу обговорення, у першу чергу, лягли окреслення меж екосистеми кібербезпеки в Україні та визначення основних викликів для залучених інфраструктурних секторів.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/PanelUA1.JPG&quot; alt=&quot;PanelUA1.JPG&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Дискутуємо про три кити побудови системи кібербезпеки&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Захист ключової інфраструктури від кібератак залишається основним фокусом як для України, так і для всієї світової спільноти. Зокрема, уряд Великобританії визначає такі основні “кити” для ефективного щоденного функціонування держави: люди, мережі, інформаційні системи, сайти, інформацію.*&lt;/p&gt;
+
+&lt;p&gt;*Детальніше про британську політику кібербезпеки. (англійською)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Серед пріоритетних секторів:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;служби невідкладної допомоги&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;енергетика&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;державні системи&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;охорона здоров’я&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;фінанси&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;їжа та вода&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;транспорт&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Людський фактор — основа коректного запуску та підтримки всіх необхідних процесів для створення здорового та коректного курсу у напрямі укріплення кібербезпеки на державному рівні. Тому знання та навички діджитальної гігієни є надважливими для всіх категорій населення. Особиста “озброєнність” кожного з нас розумінням основ кібербезпеки стане тим чарівним ключем для подолання таких глобальних викликів як кібератаки.&lt;/p&gt;
+
+&lt;h2 id=&quot;Адвокація-теми-кібер-гігієни&quot;&gt;Адвокація теми кібер гігієни&lt;/h2&gt;
+
+&lt;p&gt;Не теорією єдиною, тому другу частину Cyber Security Day ми присвятили практичному воркшопу, на якому разом з держслужбовцями практикували навички кібер гігієни, які однозначно є must have для держслужбовця як в робочій сфері, так і особистому житті.&lt;/p&gt;
+
+&lt;p&gt;Почали з основи основ — паролів. Про необхідність використання сильних паролів та їх періодичній зміні чули всі, але (будьмо чесними) на практиці втілює меншість. Однак саме пароль є нашим ключем доступу практично до всіх цифрових інструментів та сервісів: пошти, соціальних мереж, онлайн сховищ.&lt;/p&gt;
+
+&lt;p&gt;Більше про безпечні паролі. (англійською)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/cs5.jpg&quot; alt=&quot;cs5.jpg&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Визначаємо, які кнопки “завантажити” справжні, а які – фейкові&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Не секрет, що не так багато компаній мають належну політику поводження з паролями. Аналогічно і з учасниками воркшопу - всі знали, що важливо обирати надійні паролі, і майже всі стикалися з кейсами, коли їх дані викрадали. Належними паролями користуються лише ті з учасників, для яких це обов’язково по роботі.&lt;/p&gt;
+
+&lt;p&gt;На додачу до паролів, також поговорили про важливість навичок цифрової гігієни. Наприклад, про плюси та мінуси використання VPN, про визначення оманливих кнопок “завантажити”, визначення інструментів для збору даних. Для України питання VPN особливо важливе - після заборони Президентом Порошенко користуватися російськими соцмережами та поштовими сервісами, багато українців використовують VPN, щоб зайти на російські сайти. Однак, питання з VP у тому, хто координує сервіс, а отже - хто збирає та моніторить дані користувачів.&lt;/p&gt;
+
+&lt;h2 id=&quot;Висновки-та-можливості&quot;&gt;Висновки та можливості&lt;/h2&gt;
+
+&lt;p&gt;Протягом наших дискусій стали зрозумілими дві речі:&lt;/p&gt;
+
+&lt;p&gt;Люди є основою розвитку країни. Якщо їм не нададуть можливостей чи ресурсів для вивчення та використання найкращих практик кіберпрофілів, кіберстійкість України буде обмежена.&lt;/p&gt;
+
+&lt;p&gt;Посилення навичок - це лише половина завдання. Щоб змінити поведінку, кібергігієну варто інтегрувати в повсякденні звички людей. У професійній обстановці для цього потрібна підтримка на найвищому рівні.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/cs1-9318e9.jpg&quot; alt=&quot;cs1-9318e9.jpg&quot; /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;Учасники воркшопу - вже із сертифікатами&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Як показали учасники панелей та воркшопу, апетит до змін в країні чималий. Мова про зміни, що дають можливість українському народу використовувати кращі практики для захисту своїх персональних даних, а також критичних державних систем. Завданням для України буде розподіл потрібних ресурсів та координація з правильними партнерами для просування цих цілей. Важливо уважно спостерігати за тим, як розвивається кібер-ландшафт. Важливо й дотримуватися зміцнення основоположних навичок кібергігієни і набувати нових навичок для підтримки безпечної екосистеми. Як сказав один із учасників дискусії, «кібербезпека - це процес, а не продукт», - це перший крок у правильному напрямку.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2019 07:00:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> and <a href="https://ua.linkedin.com/in/denisgursky">Denis Gursky</a>
+</author>
+        <link>https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/cs1.jpg" medium="image" /> 
@@ -18,73 +106,6 @@
 
 &lt;p&gt;The event started with a panel discussion with representatives from a myriad of government institutions working to address Ukraine’s &lt;a href=&quot;https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/&quot;&gt;cybersecurity challenges&lt;/a&gt;. Representatives came from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners (&lt;a href=&quot;https://www.issp.com/&quot;&gt;ISSP&lt;/a&gt;) and the law firm &lt;a href=&quot;https://sk.ua/&quot;&gt;Sayenko Kharenko&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The panelists focused primarily on the general state of cybersecurity in Ukraine and the challenges cybersecurity poses to critical infrastructure sectors.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/PanelUA1.JPG&quot; alt=&quot;PanelUA1.JPG&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Panelists discuss cybersecurity issues. Photo courtesy of SocialBoost.&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Protecting critical infrastructure from cyberattacks is a major focus in Ukraine and around the world. But what is critical infrastructure? According to the &lt;a href=&quot;https://www.cpni.gov.uk/critical-national-infrastructure-0&quot;&gt;U.K. Government&lt;/a&gt;, it is the “facilities, systems, sites, information, people, networks, and processes necessary for a country to function and upon which daily life depends.” These include sectors like:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Emergency services&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Energy&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Government&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Health&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finance&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Food&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Transportation&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Water&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Running, maintaining, and staffing each of these sectors are &lt;strong&gt;&lt;em&gt;people&lt;/em&gt;&lt;/strong&gt;, who are at the heart of efforts to improve cybersecurity. Both the government officials and private sector representatives agreed that the best way to strengthen Ukraine’s cyber resilience is to upgrade the population’s digital &lt;a href=&quot;https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html&quot;&gt;skills&lt;/a&gt;. By making more people aware of cyber threats and teaching them how to mitigate these threats, the hope is that fewer successful cyberattacks will take place.&lt;/p&gt;
-
-&lt;h2 id=&quot;teaching-cyber-hygiene&quot;&gt;Teaching Cyber Hygiene&lt;/h2&gt;
-
-&lt;p&gt;Following the panel, we led a “cyber hygiene” workshop for civil servants and entrepreneurs to bridge the human capital gap identified by the panelists earlier in the day.&lt;/p&gt;
-
-&lt;p&gt;We started with the basics—teaching practices that most people already know, but rarely employ. One example of good cyber hygiene is the use of strong passwords and changing them often. &lt;a href=&quot;https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/&quot;&gt;Passwords&lt;/a&gt; are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/cs5.jpg&quot; alt=&quot;cs5.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;A workshop participant thinks through which download buttons are fake and which are real. Photo courtesy of SocialBoost.&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Though widely known, it was no surprise that few people or companies &lt;a href=&quot;https://33kpvz33obwvvdeaa3co3hu1-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/07/cybersecurity-ventures-thycoti_70778.pdf&quot;&gt;employ&lt;/a&gt; good password management. The workshop participants were no different. They all had personal experience with their data getting stolen or misused, even though they know password management is essential to protecting information. Of the participants who did employ good password management, it was only because they were required to by an employer.&lt;/p&gt;
-
-&lt;p&gt;In addition to the importance of passwords, we also addressed other important cyber hygiene skills. For instance, the pros and cons of using virtual private networks (VPN), how to identify fake download buttons, and which considerations to take into account when designing a data collection tool. In Ukraine, understanding the pros and cons of VPNs is particularly important. Following former President Proshenko’s decision to &lt;a href=&quot;https://www.theguardian.com/world/2017/may/16/ukraine-blocks-popular-russian-websites-kremlin-role-war&quot;&gt;ban&lt;/a&gt; the country’s most popular email service and social media networks, as part of sanctioning Russia for its annexation of Crimea, many Ukrainians started using VPNs to visit these Russian-owned sites. What many overlooked though was who owned these VPNs, meaning that they didn’t know who might be collecting or monitoring their data.&lt;/p&gt;
-
-&lt;h2 id=&quot;key-takeaways-and-opportunities&quot;&gt;Key Takeaways and Opportunities&lt;/h2&gt;
-
-&lt;p&gt;Throughout all the activities and discussions two things became clear:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;People are the backbone of a country. If they are not empowered or offered the right resources to learn and employ cyber best practices, Ukraine’s cyber resilience will be limited.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Strengthening people’s skills is only half of the equation. To change behavior, cyber hygiene processes need to be integrated into the day-to-day habits of people’s lives. In a professional setting, this will require support from the highest levels.&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/cs1-9318e9.jpg&quot; alt=&quot;cs1-9318e9.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Workshop participants receive certificates of completion. Photo courtesy of SocialBoost.&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;As demonstrated by the panelists and the workshop participants, there is an appetite for change—the kind of change that empowers the Ukrainian people to employ cyber best practices to protect their personal data, but also critical government systems. The challenge, for Ukraine, will be allocating the right resources and coordinating with the right partners to move this agenda forward. Keeping a keen eye on how the cyber landscape evolves will also be important and ensure that as foundational cyber hygiene skills are strengthened, new skills are also being acquired to consistently keep the ecosystem more secure. As one of the panelists surmised, accepting that “cybersecurity is a process, not a product,” is the first step in the right direction.&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Aug 2019 07:00:00 -0400</pubDate>
         <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> and <a href="https://ua.linkedin.com/in/denisgursky">Denis Gursky</a>
@@ -273,27 +294,6 @@ In this article, I’d like to outline two very different routes that organizati
         <guid isPermaLink="true">https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html</guid>
         
         <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/KICPaper.JPG" medium="image" /> 
-        <title>Building the Future of Tech-Enabled Agriculture</title>
-        <description>&lt;p&gt;Since 2016, Digital@DAI has kept its readers updated on the latest from the Kosmos Innovation Center (KIC) in Ghana, from young entrepreneurs’ agritech &lt;a href=&quot;https://dai-global-digital.com/catalyzing-ghanas-growing-agritech-ecosystem.html&quot;&gt;product concepts&lt;/a&gt; to international &lt;a href=&quot;https://dai-global-digital.com/kosmos-innovation-center-wins-2018-p3-impact-award.html&quot;&gt;awards&lt;/a&gt; it has received. In the three years since the KIC’s launch, funders of all sorts—from bilateral donors to corporate social investors—have embraced the potential of Africa’s growing startup ecosystem to support socio-economic development and create new solutions to some of the continent’s most persistent challenges. In that time, KIC and DAI have learned a lot about what it means to support youth-led technology entrepreneurship.&lt;/p&gt;
-
-&lt;p&gt;We’ve compiled our findings in the latest &lt;a href=&quot;https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights&quot;&gt;CDA Insights&lt;/a&gt; paper titled, ‘&lt;a href=&quot;https://www.dai.com/uploads/kic-27672d.pdf&quot;&gt;Building the Future of Tech-Enabled Agriculture.&lt;/a&gt;’ In addition to providing lessons for both funders and implementers in this sector, we created profiles of select KIC entrepreneurs and captured their journeys.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 Jun 2019 08:00:00 -0400</pubDate>
-        <author>Anand Varghese
-</author>
-        <link>https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
