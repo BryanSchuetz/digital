@@ -1,6 +1,6 @@
 ---
 title: Cybersecurity Lessons from Ukraine
-date: 2019-07-22 10:17:00 -04:00
+date: 2019-08-01 10:17:00 -04:00
 tags:
 - Cybersecurity
 Author: "[Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/) and [Denis
