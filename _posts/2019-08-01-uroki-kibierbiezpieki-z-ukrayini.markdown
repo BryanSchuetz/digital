@@ -9,7 +9,7 @@ social-image: "/uploads/cs1-9318e9.jpg"
 thumbnail: "/uploads/cs1-9318e9.jpg"
 ---
 
-*Read this blog in [English](dai-global-digital.com/cybersecurity-lessons-from-ukraine.html).*
+*Read this blog in [English](https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html).*
 
 Cупротив та неузгодженість — напевне, той асоціативний ряд, який спадає на думку, коли уявляємо, що в одній кімнаті мають зустрітися державні управлінці, громадський сектор та представники бізнесу для обговорення тонкощів кібербезпеки. Проте, на Cyber Security Day - серії подій, які команда SocialBoost нещодавно організувала з новим партнером DAI, нам вдалося досягти абсолютно іншого ефекту.
 
