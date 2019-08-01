@@ -9,7 +9,7 @@ social-image: "/uploads/cs1.jpg"
 thumbnail: "/uploads/cs1.jpg"
 ---
 
-*Read this blog in [Ukrainian](dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.htm).*
+*Read this blog in [Ukrainian](https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html).*
 
 When you walk into a room full of government officials, civil society organizations, and private companies discussing cybersecurity, you expect to hear disagreement. The exact opposite happened during the recent DAI- [SocialBoost](http://socialboost.com.ua/) Cybersecurity Roundtable and Workshop in Kyiv, Ukraine.
 
