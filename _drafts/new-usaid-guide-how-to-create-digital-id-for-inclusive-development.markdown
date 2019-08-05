@@ -9,9 +9,11 @@ Identity is deeply personal. Issues of identity are complex and tied up with iss
 
 USAID’s 2017 report *[Identity in a Digital Age: Infrastructure for Inclusive Development](https://www.usaid.gov/sites/default/files/documents/15396/IDENTITY_IN_A_DIGITAL_AGE.pdf)* documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multi-purpose ID to everyone, which is a key aspect of economic and social development.
 
+<!--more-->
+
 ## How to Achieve Inclusive Digital ID Infrastructure
 
-Yet, even if we now understand *why* ID is important, it is still challenging to know *how *development practitioners across sectors can achieve their goals without contributing to an already fragmented identity landscape, let alone work to create more cohesive and inclusive [digital identity systems](https://www.ictworks.org/tag/digital-identity/) at the same time.
+Yet, even if we now understand *why* ID is important, it is still challenging to know \*how \*development practitioners across sectors can achieve their goals without contributing to an already fragmented identity landscape, let alone work to create more cohesive and inclusive [digital identity systems](https://www.ictworks.org/tag/digital-identity/) at the same time.
 
 Akin to other recent guidance such as ID4D’s *[Practitioner’s Guide](http://documents.worldbank.org/curated/en/248371559325561562/pdf/ID4D-Practitioner-Guide-Draft-for-Consultation.pdf)*, USAID has released a companion and update to the 2017 report to focus on how to achieve more inclusive identity infrastructure.
 
@@ -20,6 +22,8 @@ The *[Guide to Creating Digital ID for Inclusive Development](https://www.usaid.
 * Illustrate how investments in digital ID systems can positively and negatively impact individuals and their households
 
 * Provide specific how-to guidance for donors, program managers, and M&E specialists to help them understand and foster sustainable digital ID ecosystems
+
+![digital-identity-usaid.png](/uploads/digital-identity-usaid.png)\`Photo credit: Guimba Souleymane, International Red Cross Niger.\`
 
 The [Guide to Creating Digital IDs](https://www.usaid.gov/sites/default/files/documents/15396/Digital-ID-for-Inclusive-Development.pdf) contains 5 separate tools. These tools can be considered individually if you’re looking at a specific issue, or together for a holistic guide to supporting infrastructural ID in a project.
 
@@ -37,7 +41,7 @@ The [Guide to Creating Digital IDs](https://www.usaid.gov/sites/default/files/do
 
 Integrating this guidance into your development project could help the estimated 1 billion people worldwide who lack official ID find an on-ramp to an inclusive identity system. The tools in this guide are rooted in the understanding that, through our programmatic investments in ID systems, we can strengthen underlying infrastructure and promote greater self-reliance at the individual and system level.
 
-In doing so, we recognize the importance of ensuring identity systems not only meet programmatic objectives, but, as Caribou Digital noted in their report *[Identity at the Margins](http://docs.cariboudigital.net/identity/Identity-At-The-Margins-Identification-Systems-for-Refugees.pdf), *balance “…operational benefits with an empathetic assessment of how these systems impact individuals’ privacy, dignity, and agency.”
+In doing so, we recognize the importance of ensuring identity systems not only meet programmatic objectives, but, as Caribou Digital noted in their report \*[Identity at the Margins](http://docs.cariboudigital.net/identity/Identity-At-The-Margins-Identification-Systems-for-Refugees.pdf), \*balance “…operational benefits with an empathetic assessment of how these systems impact individuals’ privacy, dignity, and agency.”
 
 We hope that this guide will help those who are striving to find this balance.
 
