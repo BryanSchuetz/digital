@@ -11,7 +11,7 @@ thumbnail: "/uploads/digital-identity-usaid.png"
 
 *Access the U.S. Agency for International Development (USAID)’s new [Guide to Creating Digital ID for Inclusive Development](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.usaid.gov%2Fdigital-development%2Fdigital-id%2Fhow-to-guide&data=01%7C01%7CStephanie_Creed%40dai.com%7C1f9cda42f7114bd429d508d71147871e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=hn%2F6OZETU58OZUX59RCvfLdR8UywARdX66Or14vgUok%3D&reserved=0)*.
 
-Identity is deeply personal. Issues of identity are complex and tied up with issues of power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer their programs, yet today we find that nearly 1 billion people still lack representative identification.
+Identity is deeply personal. Issues of identity are complex and tied up with power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer programs, yet today we find that nearly 1 billion people still lack representative identification.
 
 USAID’s 2017 report *[Identity in a Digital Age: Infrastructure for Inclusive Development](https://www.usaid.gov/sites/default/files/documents/15396/IDENTITY_IN_A_DIGITAL_AGE.pdf)* documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multi-purpose ID to everyone, which is a key aspect of economic and social development.
 
