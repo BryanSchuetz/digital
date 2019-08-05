@@ -52,3 +52,5 @@ In doing so, we recognize the importance of ensuring identity systems not only m
 We hope that this guide will help those who are striving to find this balance.
 
 *[Chrissy Martin Meier](https://www.linkedin.com/in/chrissiy/), consultant with the DAI Digital Frontiers project, and [Shachee Doshi](https://www.linkedin.com/in/shachee-doshi-47358a56/), AAAS Science & Technology Policy fellow at USAID’s Center for Digital Development.*
+
+*This blog originally appeared on [ICTWorks](https://www.ictworks.org/create-digital-id-inclusive-development/#.XUhAhh1KiUl)*.
