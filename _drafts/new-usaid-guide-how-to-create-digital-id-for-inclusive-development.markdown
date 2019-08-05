@@ -45,6 +45,6 @@ We hope this guide will help those who are striving to find this balance.
 
 *Access the U.S. Agency for International Development (USAID)’s new [Guide to Creating Digital ID for Inclusive Development](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.usaid.gov%2Fdigital-development%2Fdigital-id%2Fhow-to-guide&data=01%7C01%7CStephanie_Creed%40dai.com%7C1f9cda42f7114bd429d508d71147871e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=hn%2F6OZETU58OZUX59RCvfLdR8UywARdX66Or14vgUok%3D&reserved=0)*.
 
-*[Chrissy Martin Meier](https://www.linkedin.com/in/chrissiy/), consultant with the DAI Digital Frontiers project, and [Shachee Doshi](https://www.linkedin.com/in/shachee-doshi-47358a56/), AAAS Science & Technology Policy fellow at USAID’s Center for Digital Development.*
+*[Chrissy Martin Meier](https://www.linkedin.com/in/chrissiy/) is a consultant with the DAI-led [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, and [Shachee Doshi](https://www.linkedin.com/in/shachee-doshi-47358a56/) is an AAAS Science and Technology Policy fellow at USAID’s Center for Digital Development.*
 
 *This blog originally appeared on [ICTWorks](https://www.ictworks.org/create-digital-id-inclusive-development/#.XUhAhh1KiUl)*.
