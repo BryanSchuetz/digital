@@ -1,6 +1,12 @@
 ---
 title: 'New USAID Guide: How to Create Digital ID for Inclusive Development'
-date: 2019-08-05 10:43:00 -04:00
+date: 2019-08-06 08:00:00 -04:00
+tags:
+- Digital Identity
+Author: "[Chriss Martin Meier](https://www.linkedin.com/in/chrissiy/) and [Shachee
+  Doshi](https://www.linkedin.com/in/shachee-doshi-47358a56/)"
+social-image: "/uploads/digital-identity-usaid.png"
+thumbnail: "/uploads/digital-identity-usaid.png"
 ---
 
 *Access USAID’s New [Guide to Creating Digital ID for Inclusive Development](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.usaid.gov%2Fdigital-development%2Fdigital-id%2Fhow-to-guide&data=01%7C01%7CStephanie_Creed%40dai.com%7C1f9cda42f7114bd429d508d71147871e%7C7107113de20b4c20a4ce553cabbf686d%7C0&sdata=hn%2F6OZETU58OZUX59RCvfLdR8UywARdX66Or14vgUok%3D&reserved=0)*.
