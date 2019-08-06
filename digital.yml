@@ -1,4 +1,15 @@
 
+- title: "New USAID Guide: How to Create Digital ID for Inclusive Development"
+  pub: "Digital"
+  date: 2019-08-06
+  link: "https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html?utm_source=daidotcom"
+  summary: "Identity is deeply personal. Issues of identity are complex and tied up with power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer programs, yet today we find that nearly 1 billion people still lack representative identification.
+
+USAID’s 2017 report Identity in a Digital Age: Infrastructure for Inclusive Development documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multipurpose ID to everyone, which is key to economic and social development."
+  tags:
+    - digital acceleration 
+    - Digital Identity 
+
 - title: "Карти, гроші, VPN: кібербезпекові реалії в Україні"
   pub: "Digital"
   date: 2019-08-01
@@ -228,17 +239,4 @@ Advancing women’s digital connectivity is key to promoting their empowerment i
     - digital acceleration 
     - Think Piece 
     - Data 
-
-- title: "GIS Toolkit Overview Part I: Remote Sensing"
-  pub: "Digital"
-  date: 2019-05-09
-  link: "https://dai-global-digital.com/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=daidotcom"
-  summary: "Geographic information systems (GIS) are often misunderstood, or unknown to many. Even in the development community, we often have a shallow understanding of the technology once we delve into methodologies or use cases—particularly with satellite imagery, or more aptly, remotely sensed data. GIS and remote sensing are not synonymous, but scientifically and inextricably linked. When choosing a GIS/remote sensing methodology or technical analysis component for a project, it is important to understand the strengths and shortcomings of the available tools.
-
-GIS image developed by the author when he was working for the Amazon Conservation Association."
-  tags:
-    - digital acceleration 
-    - GIS 
-    - Imagery Analysis 
-    - Remote Sensing Series 
 

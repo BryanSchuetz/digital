@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2019 08:02:13 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2019 08:02:13 -0400</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2019 08:57:06 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2019 08:57:06 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/digital-identity-usaid.png" medium="image" /> 
+        <title>New USAID Guide: How to Create Digital ID for Inclusive Development</title>
+        <description>&lt;p&gt;Identity is deeply personal. Issues of identity are complex and tied up with power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer programs, yet today we find that nearly 1 billion people still lack representative identification.&lt;/p&gt;
+
+&lt;p&gt;USAID’s 2017 report &lt;em&gt;&lt;a href=&quot;https://www.usaid.gov/sites/default/files/documents/15396/IDENTITY_IN_A_DIGITAL_AGE.pdf&quot;&gt;Identity in a Digital Age: Infrastructure for Inclusive Development&lt;/a&gt;&lt;/em&gt; documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multipurpose ID to everyone, which is key to economic and social development.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Aug 2019 08:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/chrissiy/">Chrissy Martin Meier</a> and <a href="https://www.linkedin.com/in/shachee-doshi-47358a56/">Shachee Doshi</a>
+</author>
+        <link>https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html</guid>
+        
+        <category>Digital Identity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/cs1-9318e9.jpg" medium="image" /> 
@@ -208,23 +227,6 @@ In this article, I’d like to outline two very different routes that organizati
         <category>Digital Inclusion</category>
         
         <category>Privacy</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/iot-technology-concept-city-transport-smart-1575603-pxhere.com.jpg" medium="image" /> 
-        <title>Changes in Open-Data Policy in Global Development are a Game Changer</title>
-        <description>&lt;p&gt;You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 03 Jul 2019 09:00:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/carmen-tedesco">Carmen Tedesco</a>
-</author>
-        <link>https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html</guid>
-        
-        <category>Data</category>
         
         
       </item>
