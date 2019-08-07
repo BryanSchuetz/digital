@@ -38,4 +38,4 @@ We recognize that just putting a cyber hygiene section into an SOP will not chan
 
 Look, this isn’t easy. All of us have been guilty of poor cyber hygiene, like ignoring the prompts to update our passwords at work. But when it comes to health data, those of us who build systems to collect and analyze this information often forget that this data represents *people*. People with lives, hopes, and dreams who have made themselves vulnerable by allowing us to record their health status. It is therefore clearly our responsibility to ensure that these data are protected.
 
-*Curious to learn more about our work in cyber hygiene? Check out our [blog](https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html) on the cyber hygiene workshop we held in Ukraine.*
+*Curious to learn more about our cyber hygiene work? Check out our [blog](https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html) on the cyber hygiene workshop we held in Ukraine.*
