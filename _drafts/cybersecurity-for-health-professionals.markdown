@@ -13,8 +13,7 @@ We live in exciting times. The ways in which we store and engage with health dat
 <!--more-->
 
 ![DSC_0061.JPG](/uploads/DSC_0061.JPG)
-
-\`A medical training of health workers through the Women 4 Health Programme funded by the UK Department for International Development and implemented by DAI. Photo credit: DAI.\`
+`A medical training of health workers through the Women 4 Health Programme funded by the UK Department for International Development and implemented by DAI. Photo credit: DAI.`
 
 ## Health Data
 
