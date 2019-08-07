@@ -1,6 +1,11 @@
 ---
 title: Cybersecurity for Health Professionals
-date: 2019-08-07 09:27:00 -04:00
+date: 2019-08-08 07:00:00 -04:00
+tags:
+- Digital Health
+- Cybersecurity
+Author: "[Rachel Clad](https://dai-global-digital.com/authors/rachel-clad/) and [Galia
+  Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
 ---
 
 We live in exciting times. The ways in which we store and engage with health data have been transformed with the creation and adoption of digital health technologies. Whether it’s using a Fitbit, accessing your vaccine records online, or virtually connecting to your doctor, understanding your health status in real-time has never been easier… for some of us. We at [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) are working tirelessly to increase access to healthcare in low and middle-income countries (LMICs) by leveraging digital health technologies. The goal is to empower both patients and the professionals providing care to them to use data to make smart decisions about their health.
