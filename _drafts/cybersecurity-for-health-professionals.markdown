@@ -14,7 +14,7 @@ We live in exciting times. The ways in which we store and engage with health dat
 
 ## Health Data
 
-The ease at which these technologies allow us to share, collect, store data has resulted in the creation of massive pools of health data. This is fantastic, especially because it allows us to harness machine learning to more efficiently diagnose illness, reducing the healthcare workforce gap.
+The ease at which these technologies allow us to share, collect, and store data has resulted in the creation of massive pools of health data. This is fantastic, especially because it allows us to harness machine learning to more efficiently diagnose illness, reducing the healthcare workforce gap.
 
 But how safe is this health data? And what does that even mean?
 
@@ -36,6 +36,6 @@ The point is, that we should include in all Standard Operating Procedures (SOPs)
 
 We recognize that just putting a cyber hygiene section into an SOP will not change behavior, but it is a start. Ideally, at the clinic level you would have a cybersecurity champion who could ensure that regardless of healthcare worker turnover the systems and processes in place to protect data remain sound. But that is a whole other ballgame.
 
-Look, this isn’t easy. All of us have been guilty of poor cyber hygiene, like ignoring the prompts to update our passwords at work. But when it comes to health data, those of us who build systems to collect and analyze this information often forget that this data is tied to *people. *People with lives, hopes, and dreams who have made themselves vulnerable by allowing us to record their health status. It is therefore clearly our responsibility to ensure that these data are protected.
+Look, this isn’t easy. All of us have been guilty of poor cyber hygiene, like ignoring the prompts to update our passwords at work. But when it comes to health data, those of us who build systems to collect and analyze this information often forget that this data is tied to \*people. \*People with lives, hopes, and dreams who have made themselves vulnerable by allowing us to record their health status. It is therefore clearly our responsibility to ensure that these data are protected.
 
 *Curious to learn more about our work in cyber hygiene? Check out our [blog](https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html) on the cyber hygiene workshop we held in Ukraine.*
