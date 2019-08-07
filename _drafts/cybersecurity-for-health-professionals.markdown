@@ -12,6 +12,10 @@ We live in exciting times. The ways in which we store and engage with health dat
 
 <!--more-->
 
+![DSC_0061.JPG](/uploads/DSC_0061.JPG)
+
+\`A medical training of health workers through the Women 4 Health Programme funded by the UK Department for International Development and implemented by DAI. Photo credit: DAI.\`
+
 ## Health Data
 
 The ease at which these technologies allow us to share, collect, and store data has resulted in the creation of massive pools of health data. This is fantastic, especially because it allows us to harness machine learning to more efficiently diagnose illness, reducing the healthcare workforce gap.
@@ -24,7 +28,7 @@ The drivers of most of these data breach incidents are miscellaneous errors, pri
 
 ## Cyber Hygiene
 
-The point is, we should standardize the inclusion of cybersecurity best-practices in all digital health programming. For instance,  all Standard Operating Procedures (SOPs) should include a cyber hygiene component to ensure that the healthcare workers using these digital health technologies are not inadvertently introducing new risks to LMICs health ecosystem. Key cyber hygiene skills to consider including are: 
+The point is, we should standardize the inclusion of cybersecurity best-practices in all digital health programming. For instance,  all Standard Operating Procedures (SOPs) should include a cyber hygiene component to ensure that the healthcare workers using these digital health technologies are not inadvertently introducing new risks to LMICs health ecosystem. Key cyber hygiene skills to consider including are:
 
 * Understanding the importance of creating strong passwords and changing those passwords;
 
