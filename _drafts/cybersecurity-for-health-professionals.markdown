@@ -24,15 +24,15 @@ The drivers of most of these data breach incidents are miscellaneous errors, pri
 
 ## Cyber Hygiene
 
-The point is, we should standardize the inclusion of cybersecurity best-practices in all digital health programming. For instance,  all Standard Operating Procedures (SOPs) should include a cyber hygiene component to ensure that the healthcare workers using these digital health technologies are not inadvertently introducing new risks to LMICs health ecosystem. Some key cyber hygiene skills include capacitating healthcare workers to:
+The point is, we should standardize the inclusion of cybersecurity best-practices in all digital health programming. For instance,  all Standard Operating Procedures (SOPs) should include a cyber hygiene component to ensure that the healthcare workers using these digital health technologies are not inadvertently introducing new risks to LMICs health ecosystem. Key cyber hygiene skills to consider including are: 
 
-* Understand the importance of creating strong passwords and changing those passwords;
+* Understanding the importance of creating strong passwords and changing those passwords;
 
-* Recognize the risk of accessing sensitive data on open WiFi networks;
+* Recognizing the risks associated with accessing sensitive data on open WiFi networks;
 
-* Understand the tradeoffs between storing health data on cloud service or on a server; and
+* Understanding the tradeoffs between storing health data on cloud service or on a server; and
 
-* Correctly identify and report suspicious activity on a digital network.
+* Correctly identifying and reporting suspicious activity on a digital network.
 
 We recognize that just putting a cyber hygiene section into an SOP will not change behavior, but it is a start. Ideally, at the clinic level you would have a cybersecurity champion who could ensure that regardless of healthcare worker turnover the systems and processes in place to protect data remain sound. But that is a whole other ballgame.
 
