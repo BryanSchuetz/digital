@@ -4,6 +4,7 @@ date: 2019-08-08 07:00:00 -04:00
 tags:
 - Digital Health
 - Cybersecurity
+- Global Health
 Author: "[Rachel Clad](https://dai-global-digital.com/authors/rachel-clad/) and [Galia
   Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
 social-image: "/uploads/DSC_0061.JPG"
