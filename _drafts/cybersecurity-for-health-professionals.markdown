@@ -6,6 +6,8 @@ tags:
 - Cybersecurity
 Author: "[Rachel Clad](https://dai-global-digital.com/authors/rachel-clad/) and [Galia
   Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
+social-image: "/uploads/DSC_0061.JPG"
+thumbnail: "/uploads/DSC_0061.JPG"
 ---
 
 We live in exciting times. The ways in which we store and engage with health data have been transformed with the creation and adoption of digital health technology. Whether it’s using a Fitbit, accessing your vaccine records online, or virtually connecting with your doctor, understanding your health status in real time has never been easier… for some of us. We at [DAI Global Health](https://www.dai.com/our-work/solutions/global-health) are working tirelessly to increase access to healthcare in low- and middle-income countries by leveraging digital health technologies. The goal is to empower patients and professionals providing care to them to use data to make smart decisions.
