@@ -1,5 +1,5 @@
 ---
-title: Cybersecurity for Health Professionals
+title: Understanding Cybersecurity for Health Professionals
 date: 2019-08-08 07:00:00 -04:00
 tags:
 - Digital Health
