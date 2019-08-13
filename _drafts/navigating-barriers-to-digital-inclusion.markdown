@@ -10,7 +10,7 @@ I find digital technology is unique for two reasons. First, digital is\* informa
 
 An example of this is the [Coffee Cloud](https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html), an application DAI developed in collaboration with coffee producers, government institutions, and research institutes in response to a decline in coffee production in Central America. Coffee producers input specific information on their crop into the app (*digital informed*) and receive customized advice to improve crop management; this information is shared with other coffee farmers as well as the government coffee institute and meteorological services (*digital informative*), which in return use the information for predictive modeling that can then be shared back to coffee producers.
 
-**The Realities of Digital**
+## The Realities of Digital
 
 While digital development has the potential to transform industries like coffee and alter the MO, the more I engage with digital the more I’ve come to see it as an instrument of development. Digital cannot magically leapfrog all the underlying economic dynamics, social norms, and barriers preventing people in developing countries from accessing vital services or improving their economic situation. Take gender inclusion, or lack thereof, as an example.
 
@@ -18,7 +18,7 @@ While digital development has the potential to transform industries like coffee 
 
 When you look at global levels of mobile phone access, a common metric for measuring digital inclusion worldwide, it’s clear that more women to lack access to mobile phones than men. According to the [GSMA 2019 Mobile Gender Gap Report](https://www.gsma.com/mobilefordevelopment/blog/the-mobile-gender-gap-report-2019/), women are 10% less likely than men to own a mobile phone (28% less in South Asia where the gender gap is the highest) and 23% less likely than men to use the mobile internet. Furthermore, the report cites the largest barriers for women are affordability, digital literacy, and perceived lack of relevance, meaning that information is not targeted to their needs and thus they are not compelled to digitally engage. All this is to say, as the world shifts increasingly into the digital space, so too have the gender barriers that have prevented women from contributing to their households, communities, and economies for centuries.
 
-**The Barriers**
+## The Barriers
 
 I recently visited DAI’s project team that works on digitizing Haiti’s Health Systems (through the USAID funded [Strategic Health Information System Program](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program)) through the National Unified Health Information System (SISNU). They work directly with the Ministry of Health and Finance to digitize public and private clinics across the country, enabling them to input patient information, track and monitor instances of TB, HIV, and other diseases, and improve treatment and care. When considering the projects goals, this raised some questions about gender inclusion: how does the project disaggregate the data? Can the data help analyze how men versus women are treated by location? Can disease prevalence, and treatment or visit frequency data be broken out and analyzed by gender? And, what is done with the information?
 
