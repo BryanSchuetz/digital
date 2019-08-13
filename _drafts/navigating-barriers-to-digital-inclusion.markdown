@@ -1,6 +1,7 @@
 ---
 title: Navigating Barriers to Digital Inclusion
 date: 2019-08-13 12:47:00 -04:00
+Author: "[Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
 ---
 
 When I first began learning about digital development, I thought of it as the new frontier of development. A frontier that could push international development out of its modus operandi by providing individuals, communities, governments, and organizations with access to new sources of information at rapid speeds, thereby enabling new means of collaboration to propel development objectives forward.
