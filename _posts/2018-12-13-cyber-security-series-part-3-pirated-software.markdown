@@ -3,6 +3,7 @@ title: 'Cyber Security Series Part 3: Pirated Software'
 date: 2018-12-13 08:30:00 -05:00
 tags:
 - Cyber Security Series
+- Cybersecurity
 Author: Galia Nurko
 social-image: "/uploads/Pirated%20Software-161a1c.png"
 thumbnail: "/uploads/Pirated%20Software-161a1c.png"
