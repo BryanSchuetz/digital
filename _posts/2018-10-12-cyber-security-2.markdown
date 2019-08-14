@@ -4,6 +4,7 @@ title: 'Cyber Security Series Part 2: Understanding Cyber Security as Part of th
 date: 2018-10-12 12:16:00 -04:00
 tags:
 - Cyber Security Series
+- Cybersecurity
 Author: Galia Nurko
 social-image: "/uploads/Puzzle%20Cyber.jpg"
 thumbnail: "/uploads/Puzzle%20Cyber.jpg"
