@@ -4,6 +4,7 @@ date: 2019-02-14 09:00:00 -05:00
 tags:
 - Think Piece
 - Digital Principles
+- Cybersecurity
 Author: "[Kristen Roggemann](https://dai-global-digital.com/authors/kristen-roggemann/)
   & [Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
 social-image: "/uploads/KarimFI.png"
