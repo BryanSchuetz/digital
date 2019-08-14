@@ -5,6 +5,7 @@ date: 2018-09-19 15:15:00 -04:00
 tags:
 - Digital Inclusion
 - Cyber Security Series
+- Cybersecurity
 Author: Galia Nurko
 social-image: "/uploads/Cybersecurity.jpg"
 thumbnail: "/uploads/Cybersecurity.jpg"
