@@ -1,6 +1,7 @@
 ---
 title: Navigating Barriers to Digital Inclusion
 date: 2019-08-15 07:00:00 -04:00
+published: false
 tags:
 - Digital Gender Divide
 Author: "[Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
