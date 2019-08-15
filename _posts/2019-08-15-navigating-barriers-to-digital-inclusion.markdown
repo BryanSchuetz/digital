@@ -12,6 +12,8 @@ When I first began learning about digital development, I thought of it as the ne
 
 Digital technology is unique for two reasons. First, digital is *informative*—providing users with increased access to new information and opportunities at their fingertips. Second, digital is *informed*—enabling users to input information that will conceivably be used by industries and governments to tailor and update their products and benefit their business and economies to improve their customers' experiences.
 
+<--!more-->
+
 An example of this virtuous circle is the [Coffee Cloud](https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html), an application DAI developed in collaboration with coffee producers, government institutions, and research institutes in response to a decline in coffee production in Central America. Coffee producers input specific information about their crops into the app (*digital informed*) and receive customized advice to improve crop management; this information is shared with other coffee farmers as well as the government coffee institute and meteorological services (*digital informative*), which in return use the information for predictive modeling that can then be shared back to coffee producers.
 
 ## The Realities of Digital
