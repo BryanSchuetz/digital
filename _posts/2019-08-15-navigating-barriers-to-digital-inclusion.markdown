@@ -1,7 +1,6 @@
 ---
 title: Navigating Barriers to Digital Inclusion
 date: 2019-08-15 07:00:00 -04:00
-published: false
 tags:
 - Digital Gender Divide
 Author: "[Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
@@ -19,7 +18,7 @@ An example of new frontier is the [Coffee Cloud](https://dai-global-digital.com/
 
 ## The Realities of Digital
 
-While digital has the potential to transform industries such as coffee, the more I engage with digital the more I’ve come to see it as an instrument of global development. Digital cannot magically leapfrog all the underlying economic dynamics, social norms, and barriers preventing people in developing countries from accessing vital services or improving their economic situation, but it can be a great starting point. 
+While digital has the potential to transform industries such as coffee, the more I engage with digital the more I’ve come to see it as an instrument of global development. Digital cannot magically leapfrog all the underlying economic dynamics, social norms, and barriers preventing people in developing countries from accessing vital services or improving their economic situation, but it can be a great starting point.
 
 ![DAI00418.JPG](/uploads/DAI00418.JPG)`The Haiti Health Information Systems project works to digitize the healthcare system. Photo: DAI.`
 
@@ -29,6 +28,8 @@ Take gender inclusion, or lack thereof, as an example where digital tools could 
 
 I recently visited [DAI’s project team](https://www.dai.com/our-work/projects/haiti-strategic-health-information-system-his-program) working to digitize Haiti’s health systems through the National Unified Health Information System (SISNU). They work directly with the Ministry of Public Health and Population to digitize public and private clinics across the country, enabling them to input patient information, track and monitor instances of tuberculosis, HIV, and other noncommunicable diseases, while improving treatment and care. When considering the project’s goals, I was intrigued by the possibilities of gender inclusion: How does the project disaggregate the data? Can the data help analyze how women and men are treated by location? Can disease prevalence, treatment, or visit frequency be broken out and analyzed by gender? And, what is done with the information?
 
-In conversations with the team, I learned that the project has several indicators included in their annual monitoring and evaluation plan focused on gender integration and many of them are indeed disaggregated by sex. This data is critical to getting buy-in from governments and institutions to implement gender-inclusive activities, which can be challenging. Even though digital technologies empower the Ministry to access and centralize information from health clinics across Haiti—*which is momentous on its own right—*it is our job to encourage them to prioritize inclusive practices and move away from age-old social norms that can hinder progress.
+In conversations with the team, I learned that the project has several indicators included in their annual monitoring and evaluation plan focused on gender integration and many of them are indeed disaggregated by sex. This data is critical to getting buy-in from governments and institutions to implement gender-inclusive activities, which can be challenging. Even though digital technologies empower the Ministry to access and centralize information from health clinics across Haiti—\*which is momentous on its own right—\*it is our job to encourage them to prioritize inclusive practices and move away from age-old social norms that can hinder progress.
 
 So, what can be done when social norms are historically complex? Digital development provides us with access to new means of communication and sources of data that can help us tell a deeper story. What we choose to learn from and do with that information is powerful and can inform how we develop new technologies, implement policies, distribute resources, and engender inclusive platforms. In the case of Haiti, beginning by disaggregating and reporting on the data, to understand how a woman’s healthcare experience compares to men’s, can be a first step to changing the norm.
+
+*Ariel Magid is an Associate Health Practice Specialist at DAI Global Health. She holds a joint masters degree in Sustainable International Development and Women and Gender Studies from Brandeis University. *
