@@ -9,9 +9,9 @@ social-image: "/uploads/DAI00418.JPG"
 thumbnail: "/uploads/DAI00418.JPG"
 ---
 
-WWhen I first began learning about digital development, I thought of it as the new frontier of development. A frontier that could push international development out of its modus operandi by providing individuals, communities, governments, and organizations with access to new sources of information at rapid speeds, thereby enabling new means of collaboration to propel development objectives forward.
+When I first began learning about digital development, I thought of it as the new frontier of development. A frontier that could push international development out of its modus operandi by providing individuals, communities, governments, and organizations with access to new sources of information at rapid speeds—enabling new means of collaboration to propel development objectives.
 
-I find digital technology is unique for two reasons. First, digital is* informative*—providing users with increased access to new information and opportunities at their fingertips. And second, digital is *informed *—enabling users to input information that will conceivably be used by industries and governments alike to tailor and update their products and benefit their business and economies to improve user needs and experiences.
+I find digital technology unique for two reasons. First, digital is *informative*—providing users with increased access to new information and opportunities at their fingertips. And second, digital is *informed*—enabling users to input information that will conceivably be used by industries and governments alike to tailor and update their products and benefit their business and economies to improve user needs and experiences.
 
 <!--more-->
 
