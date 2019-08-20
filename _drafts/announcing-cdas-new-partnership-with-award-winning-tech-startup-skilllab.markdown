@@ -24,19 +24,14 @@ Globalization, digitization, automation, climate change, and migration - all of 
 
 These challenges are hardly isolated to migrant jobseekers in Europe -- we see them in places all over the world where DAI manages workforce development and economic growth projects.
 
-**The Solution**
+## The Solution
 
-\
 To help address the challenge faced by transient job-seekers, Skilllab has developed a mobile application that plays the role of a local career counselor. The app uses AI to perform a comprehensive skill and knowledge assessment of the user based on a growing data model of over 13 thousand unique skills. In real time, the application automatically generates detailed skill profiles which match a user’s skill set to nearly 3,000 unique occupations, while also highlighting opportunities for upskilling. Already available in 27 languages, the mobile application can be used by job-seekers wherever they are, in their native language and automatically generate professionally designed skill profiles in any of the available languages.
 
 Most importantly, the engaging app allows for this critical skills data to equip labour market actors from employers to public services with the up-to-date information needed to absorb, develop, and update the skills of their labor force.
 
 Its innovative technology and approach has earned the company international recognition - recently being named as a [winner of the inaugural Google AI Impact Challenge](https://www.blog.google/outreach-initiatives/google-org/ai-impact-challenge-grantees/) for organisations using AI to address societal challenges. Just one and a half years old, Skilllab has piloted its technology across cities working to integrate migrant labour in Europe and looks to bring its approach to new geographies.
 
-**The CDA-Skilllab Partnership**
+## The CDA-Skilllab Partnership
 
 Like most young relationships, the CDA-Skillab partnership is still evolving, but our main focus will be to bring this capability to new clients and geographic settings, combining Skilllab’s product development skills with CDA’s experience working with local communities as well as policy makers in emerging digital markets around the world. In addition to pursuing these growth opportunities together, we’re also keen to combine our software and app-building chops to co-develop products and services that meet the needs of job-seekers in a fast-paced, global marketplace.
-
-\
-
-\
