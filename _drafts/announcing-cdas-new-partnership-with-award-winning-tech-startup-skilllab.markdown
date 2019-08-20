@@ -12,8 +12,7 @@ In 2016, for example, we invested in four technology startups through our ‘[In
 
 Skilllab is a technology startup founded in Amsterdam 2018 by Managing Director Ulrich Scharf that aims to create a more personalized and data-driven approach to career development and job placement, especially for marginalized populations. Using tailored artificial intelligence (AI) algorithms, they profile the skills of marginalized people in the labor force and match them to career and education opportunities that align with their skill sets. Over the last year and a half, their efforts have focused on migrants and refugees in Europe [partnering with local and national authorities](http://www.eurocities.eu/eurocities/news/The-Skilllab-startup-calls-for-partner-cities-to-test-innovative-app-for-labour-market-integration-WSPO-B4KJMN) in the Netherlands, Belgium, Finland, Greece and the UK, earning recognition as a best [practice implementer of the European Skills, Competencies and Qualifications framework (ESCO)](https://ec.europa.eu/esco/portal/news/641c89b9-bd74-4be6-9d69-5d3761d658c2), but their technology is applicable in labor markets around the world.
 
-\
-**The Global Challenge**
+## The Global Challenge
 
 Globalization, digitization, automation, climate change, and migration - all of these are long-term trends that directly affect labor markets struggling to cope with the breakneck pace of change. If education and labor markets don’t rapidly adapt, countless communities risk losing sustainable livelihoods. In particular, marginalized groups such as refugees, migrants and internally displaced persons face the biggest challenges:
 
