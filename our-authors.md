@@ -4,4 +4,4 @@ permalink: "/authors/"
 layout: page
 ---
 
-Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—our authors are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices globally.
+Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—our authors are steeped in the challenges of delivering development solutions in the field. They are committed to sharing our innovation and experience to inform international development practices around the world.
