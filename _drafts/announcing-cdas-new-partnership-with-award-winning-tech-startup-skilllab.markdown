@@ -30,6 +30,8 @@ These challenges are hardly isolated to migrant jobseekers in Europe -- we see t
 
 To help address the challenge faced by transient job-seekers, Skilllab has developed a mobile application that plays the role of a local career counselor. The app uses AI to perform a comprehensive skill and knowledge assessment of the user based on a growing data model of over 13 thousand unique skills. In real time, the application automatically generates detailed skill profiles which match a user’s skill set to nearly 3,000 unique occupations, while also highlighting opportunities for upskilling. Already available in 27 languages, the mobile application can be used by job-seekers wherever they are, in their native language and automatically generate professionally designed skill profiles in any of the available languages.
 
+![Skilllab Photo.jpeg](/uploads/Skilllab%20Photo.jpeg)\`A Syrian user tests the mobile application and provides feedback to the Skilllab team.\`
+
 Most importantly, the engaging app allows for this critical skills data to equip labour market actors from employers to public services with the up-to-date information needed to absorb, develop, and update the skills of their labor force.
 
 Its innovative technology and approach has earned the company international recognition - recently being named as a [winner of the inaugural Google AI Impact Challenge](https://www.blog.google/outreach-initiatives/google-org/ai-impact-challenge-grantees/) for organisations using AI to address societal challenges. Just one and a half years old, Skilllab has piloted its technology across cities working to integrate migrant labour in Europe and looks to bring its approach to new geographies.
