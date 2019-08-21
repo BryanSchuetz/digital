@@ -3,7 +3,7 @@ title: Center for Digital Acceleration Partners with Award-Winning Tech Startup 
 date: 2019-08-22 07:00:00 -04:00
 tags:
 - Digital Inclusion
-- mobile
+- Mobile
 Author: Krista Baptista
 social-image: "/uploads/Skilllab%20Photo.jpeg"
 thumbnail: "/uploads/Skilllab%20Photo.jpeg"
