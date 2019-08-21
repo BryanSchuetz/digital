@@ -5,6 +5,8 @@ tags:
 - Digital Inclusion
 - mobile
 Author: Krista Baptista
+social-image: "/uploads/Skilllab%20Photo.jpeg"
+thumbnail: "/uploads/Skilllab%20Photo.jpeg"
 ---
 
 As a well-established international development firm with decades of experience, one of the ways in which DAI brings new solutions to emerging and persistent global challenges is by partnering with innovators to invest in promising solutions. Joining forces with tech startups that align with our mission allows us to leverage the power of technology and entrepreneurship and bring them to bear on global development challenges. 
