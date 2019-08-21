@@ -1,5 +1,5 @@
 ---
-title: Announcing CDA’s New Partnership with Award-Winning Tech Startup Skilllab
+title: Center for Digital Acceleration Partners with Award-Winning Tech Startup Skilllab
 date: 2019-08-22 07:00:00 -04:00
 tags:
 - Digital Inclusion
