@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Aug 2019 09:45:54 -0400</pubDate>
-    <lastBuildDate>Tue, 20 Aug 2019 09:45:54 -0400</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2019 08:56:48 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2019 08:56:48 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Skilllab%20Photo.jpeg" medium="image" /> 
+        <title>Center for Digital Acceleration Partners with Award-Winning Tech Startup Skilllab</title>
+        <description>&lt;p&gt;As a well-established international development firm with decades of experience, one of the ways in which DAI brings new solutions to emerging and persistent global challenges is by partnering with innovators to invest in promising solutions. Joining forces with tech startups that align with our mission allows us to leverage the power of technology and entrepreneurship and bring them to bear on global development challenges.&lt;/p&gt;
+
+&lt;p&gt;In 2016, for example, we invested in four startups through our ‘&lt;a href=&quot;https://www.dai.com/news/dai-and-partners-launch-innovation-action-challenge&quot;&gt;Innovation into Action Challenge&lt;/a&gt;’, including education tech firm &lt;a href=&quot;https://www.laboratoria.la/en&quot;&gt;Laboratoria&lt;/a&gt;, renewable energy enterprise &lt;a href=&quot;https://solarsister.org/&quot;&gt;Solar Sister&lt;/a&gt;, and m-health platforms &lt;a href=&quot;https://clickmedix.com/&quot;&gt;ClickMedix&lt;/a&gt; and &lt;a href=&quot;http://www.thinkmd.org/&quot;&gt;ThinkMD&lt;/a&gt;. Earlier this year, we &lt;a href=&quot;https://www.dai.com/news/dai-global-health-invests-in-mhealth-leader-clickmedix&quot;&gt;announced&lt;/a&gt; a further investment in ClickMedix. We’ve even invested in Ghanaian startups that emerged from the &lt;a href=&quot;https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html&quot;&gt;Kosmos Innovation Center&lt;/a&gt;. Keeping with this tradition, DAI’s Center for Digital Acceleration is pleased to announce a new strategic partnership with our friends and colleagues at &lt;a href=&quot;https://skilllab.io/&quot;&gt;Skilllab&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Aug 2019 07:00:00 -0400</pubDate>
+        <author>Krista Baptista
+</author>
+        <link>https://dai-global-digital.com/partnership-with-award-winning-tech-startup-skilllab.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/partnership-with-award-winning-tech-startup-skilllab.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/DAI00418.JPG" medium="image" /> 
@@ -188,45 +209,6 @@
         <category>Innovation</category>
         
         <category>Internet of Things</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/PhoneUse.JPG" medium="image" /> 
-        <title>Open Source Versus Proprietary Data Management Stack—Which One is Best for Your Team?</title>
-        <description>&lt;p&gt;As a product development team, we spend a lot of time listening to the needs of users, particularly when it comes to their desire to collect and analyze data. And while projects have unique needs, they often ask for a common set of technology solutions. These include the ability to:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Digitally collect and manage data - offline or online as mobile bandwidth permits.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Learn as much as they can from their data, often through a series a dashboards or reports.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Upload products and share learnings with a public audience.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Maintain an internal system for data sharing, so that people only have access to certain information.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Most importantly, these tools should be easy to use, and ideally not too expensive to build or maintain.&lt;/p&gt;
-
-&lt;p&gt;All of these are reasonable requests. If prioritized, organizations should be able to develop and maintain highly functional data management and analysis solutions. So why do so many organizations struggle to maintain these kinds of systems?
-In this article, I’d like to outline two very different routes that organizations can take when trying to build out their systems: 1) completely proprietary solutions v. 2) open source technologies.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Jul 2019 08:00:00 -0400</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html</guid>
-        
-        <category>Open Source Series</category>
-        
-        <category>Data Management Series</category>
         
         
       </item>
