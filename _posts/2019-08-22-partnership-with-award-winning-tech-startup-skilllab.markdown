@@ -9,7 +9,7 @@ social-image: "/uploads/Skilllab%20Photo.jpeg"
 thumbnail: "/uploads/Skilllab%20Photo.jpeg"
 ---
 
-As a well-established international development firm with decades of experience, one of the ways in which DAI brings new solutions to emerging and persistent global challenges is by partnering with innovators to invest in promising solutions. Joining forces with tech startups that align with our mission allows us to leverage the power of technology and entrepreneurship and bring them to bear on global development challenges. 
+One of the ways DAI tackles global challenges is by partnering with other innovators to invest in promising solutions. In joining forces with tech startups that align with our mission, we bring the power of technology and entrepreneurship to bear on global development challenges.
 
 In 2016, for example, we invested in four startups through our ‘[Innovation into Action Challenge](https://www.dai.com/news/dai-and-partners-launch-innovation-action-challenge)’, including education tech firm [Laboratoria](https://www.laboratoria.la/en), renewable energy enterprise [Solar Sister](https://solarsister.org/), and m-health platforms [ClickMedix](https://clickmedix.com/) and [ThinkMD](http://www.thinkmd.org/). Earlier this year, we [announced](https://www.dai.com/news/dai-global-health-invests-in-mhealth-leader-clickmedix) a further investment in ClickMedix. We’ve even invested in Ghanaian startups that emerged from the [Kosmos Innovation Center](https://dai-global-digital.com/new-cda-insights-publication-building-the-future-of-tech-enabled-agriculture.html). Keeping with this tradition, DAI’s Center for Digital Acceleration is pleased to announce a new strategic partnership with our friends and colleagues at [Skilllab](https://skilllab.io/).
 
@@ -22,7 +22,9 @@ Skilllab was founded in Amsterdam in 2018 by Managing Director Ulrich Scharf and
 Globalization, digitization, automation, climate change, and migration—all of these are long-term trends that directly affect labor markets struggling to cope with the breakneck pace of change. If education and labor markets don’t rapidly adapt, countless communities risk losing sustainable livelihoods. In particular, marginalized groups such as refugees, migrants, and internally displaced people face the biggest challenges:
 
 * Language barriers make it difficult to convey experience and skills.
+
 * Diversity of experiences can make it difficult for employers and career services to grasp a person’s skill set.
+
 * Labor market complexity makes it difficult to situate a person’s skill set into a specific market.
 
 These challenges are hardly isolated to migrant jobseekers in Europe—we see them in places all over the world where DAI manages workforce development and economic growth projects.
