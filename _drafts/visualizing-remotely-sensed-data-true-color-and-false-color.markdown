@@ -60,6 +60,6 @@ I often find visualizing remote-sensing data can feel more like art than work, a
 
 > ![753.png](/uploads/753.png)
 
-What is your favorite? 
+Which is your favorite? 
 
 *This is a followup to the [second installment](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) in the Remote Sensing Series from January 2017.*
