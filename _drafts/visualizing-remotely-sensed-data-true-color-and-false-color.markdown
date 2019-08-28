@@ -1,25 +1,13 @@
 ---
 title: 'Visualizing Remotely Sensed Data: True Color and False Color'
-date: 2019-08-28 11:43:00 -04:00
-categories:
-- remote sensing
-- environment
-- research
-- satellites
+date: 2019-08-29 07:00:00 -04:00
 tags:
-- Satellite
 - Remote Sensing Series
-- color
-- Landsat
-- USGS
 - Data Visualization
-- GIS
-- Imagery Analysis
 Author: Trevor Olexy
 social-image: "/uploads/SWIR.png"
+thumbnail: "/uploads/SWIR.png"
 ---
-
-This is a followup to the[ second installment](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) in the Remote sensing series from January 2017.
 
 What kind of images do you think of when you imagine Google Maps images of our planet? Maps? Roads? Roads on top of satellite imagery? When we see that satellite imagery basemap, we generally expect to see a representation of the earth that matches our visual reality. This is what we call in the world of remote sensing, “natural color.” This is the most useful for the average person, but this is often only a fraction of the information gathered by earth sensing satellites. As you can see in the figure below, satellites can sense more than just reflected energy in the visible part of the spectrum, which is fundamental to myriad types of environmental sensing analysis.
 ![spectral graph-5eb8d4.png](/uploads/spectral%20graph-5eb8d4.png)
@@ -32,7 +20,6 @@ For illustrative purposes I will use [Landsat 8](https://landsat.gsfc.nasa.gov/l
 Each one of these bands when displayed alone is a panchromatic image (grey-scaled), so how do we get a beautiful natural image of the earth that looks something like what we would expect? We can do this by compositing or “stacking” multiple images. Ever heard of RGB? (no, not Ruth Bader-Ginsberg)  Red, green, and blue, spectral bands are what our computer monitors, television screens, and other electronic displays use to present our eyes with the appropriate combination of colors to see the world in natural colors. I wont get into theories of  [additive mixing of light](https://en.wikipedia.org/wiki/Primary_color#Additive_mixing_of_light), but electronic displays use these three colors to produce a wide array of possible colors. Using the chart above, which bands would you use to create a “natural color” image stack on your computer screen?
 
 ...
-
 
 I hope you all chose Band 2, Band 3, and Band 4. I won’t get into software with which to stack image layers, but you can do this with a product that starts with “photo” and ends with “shop.” You can find a good tutorial [here](http://www.shadedrelief.com/landsat8/landsat8naturalc.html).
 
@@ -48,15 +35,22 @@ Up to this point we have not talked about the other bands. What are those all fo
 ![SWIR.png](/uploads/SWIR.png)\
 You can immediately see how certain features are more distinct using this band combination vs a natural color iamge. Impervious surfaces such as roads, buildings, air ports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different analytic questions can inform which satellite band combination works best.
 
-Jumbling the bands around a bit, suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. And we get   Great! But why is all the vegetation red?? Well without getting too into the weeds (!) of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared – more when they are healthy ( i.e. contains more chlorophyll. [More ](https://science.nasa.gov/ems/08_nearinfraredwaves)on this). With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination, we can at a glance assess the presence and health of vegetation.
-
+Jumbling the bands around a bit, suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. And we get the image below.
 ![FalseColor.png](/uploads/FalseColor.png)
+
+But why is all the vegetation red? Well without getting too into the weeds (!) of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared – more when they are healthy ( i.e. contains more chlorophyll. [More ](https://science.nasa.gov/ems/08_nearinfraredwaves)on this). With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination we can, at a glance, assess the presence of and health of vegetation.
+
+
 Here is the same image from March 2019 where the trees have few or no leaves yet.
 ![FalseCOlor_fall.png](/uploads/FalseCOlor_fall.png)
 You can readily see the difference in level of near-infrared reflectance from vegetation before spring has sprung.
 
-There are of course [many more combinations](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8), each uniquely positioned to assist in answering different research questions, and maybe the best part of this all, is that all Landsat data is FREE!
+There are of course [many more combinations](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8), each uniquely positioned to assist in answering different research questions, and  the best part of this all is that all Landsat data is **FREE**!
 
 I often find visualizing remote sensing data can feel more like art than work, and need to reign myself in so as not to get too lost in adjusting the colors for optimal viewing, or panning around the map finding new interesting features of the landscape to ponder. For reference, one of my personal favorite combinations for discerning between vegetation and infrastructure is 7-5-3 that removes some atmospheric haze.
 
 > ![753.png](/uploads/753.png)
+
+What is your favorite? 
+
+*This is a followup to the[ second installment](https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html) in the Remote sensing series from January 2017.*
