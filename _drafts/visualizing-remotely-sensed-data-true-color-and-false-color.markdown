@@ -9,11 +9,12 @@ social-image: "/uploads/SWIR.png"
 thumbnail: "/uploads/SWIR.png"
 ---
 
-What kind of images do you think of when you imagine Google Maps images of our planet? Maps? Roads? Roads on top of satellite imagery? When we see that satellite imagery basemap, we generally expect to see a representation of the earth that matches our  reality. This is what we call in the world of remote sensing, “natural color.” For the average person, this use of earth sensing satellites is the most useful, but in reality it represents only  a fraction of the information gathered.
+What kind of images do you think of when you imagine Google Maps of our planet? Landmarks? Roads? Roads on top of satellite imagery? When we see that satellite imagery base map, we generally expect to see a representation of the earth that matches our reality. This is what we call in the world of remote sensing, “natural color.” For the average person, this use of earth-sensing satellites is the most useful, but in reality it represents only a fraction of the information gathered.
 
 <!--more-->
 
- As you can see in the figure below, satellites can sense more than just reflected energy in the visible part of the spectrum, which is fundamental to myriad types of environmental sensing analysis.
+As you can see in the figure below, satellites can sense more than just reflected energy in the visible part of the spectrum, which is fundamental to myriad types of environmental sensing analysis.
+
 ![spectral graph-5eb8d4.png](/uploads/spectral%20graph-5eb8d4.png)
 `Electromagnetic radiation spectrum with bands used in satellite remote sensing (SRS) Source: Pettorelli, Nathalie & Schulte to Buehne, Henrike & Shapiro, Aurelie & Glover-Kapfer, Paul. (2018). Conservation Technology Series Issue 4: SATELLITE REMOTE SENSING FOR CONSERVATION. 10.13140/RG.2.2.25962.41926.`
 
