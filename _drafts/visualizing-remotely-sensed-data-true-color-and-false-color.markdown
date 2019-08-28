@@ -24,8 +24,6 @@ For illustrative purposes I will use [Landsat 8](https://landsat.gsfc.nasa.gov/l
 
 Each of these bands when displayed alone is a panchromatic image (gray-scaled), so how do we get a beautiful natural image of the earth that looks something like what we would expect? We can do this by compositing or “stacking” multiple images. Ever heard of RGB? No, not Ruth Ginsburg Bader... I mean [Ruth Bader Ginsburg](https://www.britannica.com/biography/Ruth-Bader-Ginsburg). Red, green, and blue! You know the spectral bands our computer monitors, television screens, and other electronic displays use to present our eyes with the appropriate combination of colors to see the world in natural colors. I won't get into theories of [additive mixing of light](https://en.wikipedia.org/wiki/Primary_color#Additive_mixing_of_light), but electronic displays use these three colors to produce a wide array of possible colors. Using the chart above, which bands would you use to create a “natural color” image stack on your computer screen?
 
-...
-
 I hope you chose Band 2, Band 3, and Band 4. I won’t get into software with which to stack image layers, but you can do this with a product that starts with “photo” and ends with “shop.” You can find a good tutorial [here](http://www.shadedrelief.com/landsat8/landsat8naturalc.html).
 
 Since we are displaying this stack with the RGB capability of our computer screen and we want a natural color image of our area of interest (image from August 2019), we would stack the image such that Band 4 (red) is displayed as red on our screen, Band 3 (green) is displayed as green, etc. In common shorthand, this is called a 4-3-2 composite or stack and looks how you would expect.
@@ -41,6 +39,7 @@ Now what would happen if you messed up and made a 2-3-4 composite? Well, objects
 Up to this point we have not talked about the other bands. What are those all for? Well the handy chart gives you a decent clue. Near- and short-wave infrared are intriguing (and very useful) bands, but they're outside of the visual spectrum. So how can we see them? 
 
 The beauty of this multi-spectral sensor is just that the satellite senses  energy (light from the sun) reflecting from the earth’s surface back to the sensor at different wavelengths depending on the composition of the object the light struck. This means that we can take bands 5, 6, 7 (or 7-6-5), for example, and stack them in the RGB color space so that our screens can display infrared and near-infrared light we can see! See the image below. 
+
 ![SWIR.png](/uploads/SWIR.png)
 
 You can immediately see how certain features are more distinct using this band combination versus a natural color image. Impervious surfaces such as roads, buildings, airports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different  questions can inform which satellite band combination works best for your work.
