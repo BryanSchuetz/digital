@@ -41,7 +41,7 @@ The beauty of this multi-spectral sensor is just that the satellite senses  ener
 ![SWIR.png](/uploads/SWIR.png)\
 You can immediately see how certain features are more distinct using this band combination versus a natural color image. Impervious surfaces such as roads, buildings, airports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different  questions can inform which satellite band combination works best for your work.
 
-Jumbling the bands around a bit, suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. And we get the image below.
+What happens if we jumble the bands around a bit? Suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. creating the image below.
 ![FalseColor.png](/uploads/FalseColor.png)
 
 But why is all the vegetation red? Well without getting too into the weeds (!) of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared – more when they are healthy ( i.e. contains more chlorophyll. [More ](https://science.nasa.gov/ems/08_nearinfraredwaves)on this). With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination we can, at a glance, assess the presence of and health of vegetation.
