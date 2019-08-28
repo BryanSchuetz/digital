@@ -37,7 +37,7 @@ Now what would happen if you messed up and made a 2-3-4 composite? Well, objects
 
 Up to this point we have not talked about the other bands. What are those all for? Well the handy chart gives you a decent clue. Near- and short-wave infrared are intriguing (and very useful) bands, but they're outside of the visual spectrum. So how can we see them? 
 
-The beauty of this multi-spectral sensor is just that the satellite senses  energy (light from the sun) reflecting from the earth’s surface back to the sensor at different wavelengths depending on the composition of the object the light struck. This means that we can take bands 5, 6, 7 (or 7-6-5) for example, and stack them in the RGB color space so that our screens can use, and now we can magically “see” infrared and near-infrared light!\
+The beauty of this multi-spectral sensor is just that the satellite senses  energy (light from the sun) reflecting from the earth’s surface back to the sensor at different wavelengths depending on the composition of the object the light struck. This means that we can take bands 5, 6, 7 (or 7-6-5), for example, and stack them in the RGB color space so that our screens can display infrared and near-infrared light we can see! See the image below. \
 ![SWIR.png](/uploads/SWIR.png)\
 You can immediately see how certain features are more distinct using this band combination vs a natural color iamge. Impervious surfaces such as roads, buildings, air ports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different analytic questions can inform which satellite band combination works best.
 
