@@ -58,7 +58,7 @@ There are of course [many more combinations](https://www.harrisgeospatial.com/Su
 
 I often find visualizing remote-sensing data can feel more like art than work, and need to reign myself in so as not to get too lost in adjusting the colors for optimal viewing, or panning around the map finding new interesting features of the landscape to ponder. For reference, one of my personal favorite combinations for discerning between vegetation and infrastructure is 7-5-3 that removes some atmospheric haze.
 
-> ![753.png](/uploads/753.png)
+![753.png](/uploads/753.png)
 
 Which is your favorite? 
 
