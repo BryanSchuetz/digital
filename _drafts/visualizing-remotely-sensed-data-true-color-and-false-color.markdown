@@ -23,10 +23,9 @@ This is a followup to the[ second installment](https://dai-global-digital.com/pa
 
 What kind of images do you think of when you imagine Google Maps images of our planet? Maps? Roads? Roads on top of satellite imagery? When we see that satellite imagery basemap, we generally expect to see a representation of the earth that matches our visual reality. This is what we call in the world of remote sensing, “natural color.” This is the most useful for the average person, but this is often only a fraction of the information gathered by earth sensing satellites. As you can see in the figure below, satellites can sense more than just reflected energy in the visible part of the spectrum, which is fundamental to myriad types of environmental sensing analysis.
 ![spectral graph-5eb8d4.png](/uploads/spectral%20graph-5eb8d4.png)
-Electromagnetic radiation spectrum with bands used in satellite remote sensing (SRS) Source: Pettorelli, Nathalie & Schulte to Buehne, Henrike & Shapiro, Aurelie & Glover-Kapfer, Paul. (2018). Conservation Technology Series Issue 4: SATELLITE REMOTE SENSING FOR CONSERVATION. 10.13140/RG.2.2.25962.41926.
+`Electromagnetic radiation spectrum with bands used in satellite remote sensing (SRS) Source: Pettorelli, Nathalie & Schulte to Buehne, Henrike & Shapiro, Aurelie & Glover-Kapfer, Paul. (2018). Conservation Technology Series Issue 4: SATELLITE REMOTE SENSING FOR CONSERVATION. 10.13140/RG.2.2.25962.41926.`
 
 For illustrative purposes I will use [Landsat 8](https://landsat.gsfc.nasa.gov/landsat-8/landsat-8-bands/) multi-spectral sensor (MSS) bands, and for visual  examples, specifically an image from August 2019. Below you can see what wavelength (aka color) each band of the Landsat 8 MSS is calibrated to “see.”
-
 
 ![LS8 bands.png](/uploads/LS8%20bands.png)
 
@@ -45,10 +44,10 @@ Up to this point we have not talked about the other bands. What are those all fo
 ![SWIR.png](/uploads/SWIR.png)\
 You can immediately see how certain features are more distinct using this band combination vs a natural color iamge. Impervious surfaces such as roads, buildings, air ports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different analytic questions can inform which satellite band combination works best.
 
-Jumbling the bands around a bit, suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. And we get   Great! But why is all the vegetation red?? Well without getting too into the weeds (!) of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared – more when they are healthy ( ie contains more chlorophyll. [More ](https://science.nasa.gov/ems/08_nearinfraredwaves)on this). With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination, we can at a glance assess the presence and health of vegetation. 
+Jumbling the bands around a bit, suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. And we get   Great! But why is all the vegetation red?? Well without getting too into the weeds (!) of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared – more when they are healthy ( ie contains more chlorophyll. [More ](https://science.nasa.gov/ems/08_nearinfraredwaves)on this). With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination, we can at a glance assess the presence and health of vegetation.
 
 ![FalseColor.png](/uploads/FalseColor.png)
-Here is the same image from March 2019 where the trees have few or no leaves yet. 
+Here is the same image from March 2019 where the trees have few or no leaves yet.
 ![FalseCOlor_fall.png](/uploads/FalseCOlor_fall.png)
 You can readily see the difference in level of near-infrared reflectance from vegetation before spring has sprung.
 
