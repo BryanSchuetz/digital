@@ -39,7 +39,7 @@ I hope you all chose Band 2, Band 3, and Band 4. I won’t get into software wit
 Since we are displaying this stack with the Red-Green-Blue capability of our computer screen and we want a natural color image of our area of interest (image from August 2019), we would stack the image such that Band 4 (red) is displayed as red on our screen, Band 3 (green) is displayed as green, etc.  In common shorthand, this is called a 4-3-2 composite or stack and looks how you would expect.
 ![True Color.png](/uploads/True%20Color.png)
 
-Now what would happen if you messed up and made a 2-3-4 composite? Well, objects in your image that were red would be displayed as blue and blue as red. Green would still be green, but your image would look a little odd, like below.\
+Now what would happen if you messed up and made a 2-3-4 composite? Well, objects in your image that were red would be displayed as blue and blue as red. Green would still be green, but your image would look a little odd. See below. \
 ![revTrueColor.png](/uploads/revTrueColor.png)
 
 ## Other Band Combinations
