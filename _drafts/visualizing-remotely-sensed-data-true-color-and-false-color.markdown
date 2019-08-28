@@ -52,8 +52,8 @@ Here is the same image from March 2019 where the trees have few or no leaves yet
 ![FalseCOlor_fall.png](/uploads/FalseCOlor_fall.png)
 You can readily see the difference in level of near-infrared reflectance from vegetation before spring has sprung.
 
-There are of course [many more combinations](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8), each uniquely positioned to assist in answering research questions. I often find visualizing remote sensing data can feel more like art than work, and need to reign myself in so as not to get too lost in adjusting the colors for optimal viewing.
+There are of course [many more combinations](https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8), each uniquely positioned to assist in answering different research questions, and maybe the best part of this all, is that all Landsat data is FREE!
 
-For reference, one of my personal favorite combinations for discerning between vegetation and infrastructure is 7-5-3 that removes some atmospheric haze.
+I often find visualizing remote sensing data can feel more like art than work, and need to reign myself in so as not to get too lost in adjusting the colors for optimal viewing. For reference, one of my personal favorite combinations for discerning between vegetation and infrastructure is 7-5-3 that removes some atmospheric haze.
 
 > ![753.png](/uploads/753.png)
