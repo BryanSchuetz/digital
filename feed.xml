@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Aug 2019 14:58:40 -0400</pubDate>
-    <lastBuildDate>Wed, 28 Aug 2019 14:58:40 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2019 08:53:09 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2019 08:53:09 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/SWIR.png" medium="image" /> 
+        <title>Visualizing Remotely Sensed Data: True Color and False Color</title>
+        <description>&lt;p&gt;What kind of images do you think of when you imagine Google Maps of our planet? Landmarks? Roads? Roads on top of satellite imagery? When we see that satellite imagery base map, we generally expect to see a representation of the earth that matches our reality. This is what we call in the world of remote sensing, “natural color.” For the average person, this use of earth-sensing satellites is the most useful, but in reality it represents only a fraction of the information gathered.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 29 Aug 2019 07:00:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html</guid>
+        
+        <category>Remote Sensing Series</category>
+        
+        <category>Data Visualization</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Skilllab%20Photo.jpeg" medium="image" /> 
@@ -182,29 +201,6 @@
 </author>
         <link>https://dai-global-digital.com/mobile-technologies-push-latin-america-forward.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/mobile-technologies-push-latin-america-forward.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Internet of Things</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/GSMA.jpeg" medium="image" /> 
-        <title>Las Tecnologías Móviles Empujan a América Latina Hacia Adelante</title>
-        <description>&lt;p&gt;&lt;em&gt;This blog is also available in &lt;a href=&quot;dai-global-digital.com/mobile-technologies-push-latin-america-forward.html&quot;&gt;English&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;El ecosistema digital en la región de América Latina está presionando a los países para acelerar la colaboración público-privada en la transformación digital.&lt;/p&gt;
-
-&lt;p&gt;En la &lt;a href=&quot;https://www.mobile360series.com/latin-america/agenda/&quot;&gt;conferencia Mobile 360 LATAM de GSMA&lt;/a&gt;, escuchamos constantemente cómo se espera que las redes 5G traigan una revolución tecnológica, económica y social en todo el mundo. La pregunta fue planteada por muchos oradores, entre ellos Mat Granryd, CEO de GSMA, quien instó a las autoridades y la industria a trabajar conjuntamente para acelerar la adopción de redes 5G en la región para que América Latina no se quede atrás.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Jul 2019 14:44:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> y <a href="https://dai-global-digital.com/authors/alejandro-solis/">Alejandtro Solis</a>
-</author>
-        <link>https://dai-global-digital.com/las-tecnologias-moviles-empujan-a-america-latina-hacia-adelante.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/las-tecnologias-moviles-empujan-a-america-latina-hacia-adelante.html</guid>
         
         <category>Innovation</category>
         

@@ -9,12 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Fishing with Smartphones">
-  <meta name="twitter:description" content="Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President <a href="https://www.worldbank.org/en/news/speech/2018/02/26/speech-by-world-bank-group-president-ji...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/blog.PNG">
+  <meta name="twitter:title" content="Visualizing Remotely Sensed Data: True Color and False Color">
+  <meta name="twitter:description" content="What kind of images do you think of when you imagine Google Maps of our planet? Landmarks? Roads? Roads on top of satellite imagery? When we see that satellite imagery base map, we generally expect to see a representation of the earth...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/SWIR.png">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Fishing with Smartphones</title>
-  <meta name="description" content="Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President Jim Kim says, “We must ...">
+  <title>Visualizing Remotely Sensed Data: True Color and False Color</title>
+  <meta name="description" content="What kind of images do you think of when you imagine Google Maps of our planet? Landmarks? Roads? Roads on top of satellite imagery? When we see that satelli...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://dai-global-digital.com/fishing-with-smartphones.html">
+  <link rel="canonical" href="https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,61 +98,78 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Fishing with Smartphones</h1>
+    <h1 class="post-title">Visualizing Remotely Sensed Data: True Color and False Color</h1>
       
+      
+        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=remote-sensing-series">series of posts</a> on Remote Sensing.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Oct 10, 2018</p>
+      <p class="post-details--date">Aug 29, 2019</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/alejandro-solis/" class="without-style">Alejandro Solis
+      <p class="post-details--byline">By <a href="/authors/trevor-olexy/" class="without-style">Trevor Olexy
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=human-centered-design" class="without-style">Human-centered design</a></span> • <span class="post-topic"><a href="/tags/?tag=data-visualization" class="without-style">Data Visualization</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=remote-sensing-series" class="without-style">Remote Sensing Series</a></span> • <span class="post-topic"><a href="/tags/?tag=data-visualization" class="without-style">Data Visualization</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>Much has been written about the digital divide and the failure of ICT to meet the needs of the poorest users. As World Bank President <a href="https://www.worldbank.org/en/news/speech/2018/02/26/speech-by-world-bank-group-president-jim-yong-kim-at-the-gsma-2018-mobile-world-congress">Jim Kim says</a>, “We must continue to connect all people so that no one is left behind … because the loss of opportunities has a very high cost.”</p>
-
-<p>In Central America, some of those ‘left behind’ include more than 135,000 fishermen. Without access to vital information about how climate change affects fishing, their very livelihoods are <a href="https://www.nacion.com/ciencia/medio-ambiente/cambio-climatico-golpea-pesca-artesanal-en-litorales-centroamericanos/PMD2I4PAQRAJVPHFR6MCYBDDCY/story/">under threat</a>.</p>
+    <p>What kind of images do you think of when you imagine Google Maps of our planet? Landmarks? Roads? Roads on top of satellite imagery? When we see that satellite imagery base map, we generally expect to see a representation of the earth that matches our reality. This is what we call in the world of remote sensing, “natural color.” For the average person, this use of earth-sensing satellites is the most useful, but in reality it represents only a fraction of the information gathered.</p>
 
 <!--more-->
 
-<p><img src="/uploads/blog.PNG" alt="blog.PNG" />
-<code class="highlighter-rouge">Clima Pesca started as a simple .pdf newsletter and now is a multi-channel solution.</code></p>
+<p>As you can see in the figure below, satellites can sense more than just reflected energy in the visible part of the spectrum, which is fundamental to myriad types of environmental-sensing analysis.</p>
 
-<p>As part of the team on the <a href="https://www.dai.com/our-work/projects/usaid-central-america-regional-climate-change-program-rccp-programa-regional-de">USAID Central America Regional Climate Change Program</a>, DAI set about to give these fishermen a digital boost and provide them with climate information to make better decisions about their livelihoods.</p>
+<p><img src="/uploads/spectral%20graph-5eb8d4.png" alt="spectral graph-5eb8d4.png" />
+<code class="highlighter-rouge">Electromagnetic radiation spectrum with bands used in satellite remote sensing (SRS) Source: Pettorelli, Nathalie &amp; Schulte to Buehne, Henrike &amp; Shapiro, Aurelie &amp; Glover-Kapfer, Paul. (2018). Conservation Technology Series Issue 4: SATELLITE REMOTE SENSING FOR CONSERVATION. 10.13140/RG.2.2.25962.41926.</code></p>
 
-<p>The ensuing tool—Clima Pesca—is now in the hands of 7,000 (and growing!) fishermen who are using the mobile app on a daily basis to check the surface temperature of the sea; the direction of the wind; the production of algae, tides, and hurricanes; and more.</p>
+<p>For illustrative purposes I will use <a href="https://landsat.gsfc.nasa.gov/landsat-8/landsat-8-bands/">Landsat 8</a> multi-spectral sensor (MSS) bands, and for visual examples, specifically an image from August 2019. Below you can see what wavelength (aka color) each band of the Landsat 8 MSS is calibrated to “see.”</p>
 
-<h2 id="building-the-tool">Building the Tool</h2>
+<p><img src="/uploads/LS8%20bands.png" alt="LS8 bands.png" /></p>
 
-<p>To create Clima Pesca, DAI integrated, arranged, and translated different sources of information such as the Moderate-Resolution Imaging Spectroradiometer launched by NASA on the Aqua Satellite, maps generated by <a href="https://www.windy.com/">Windy</a>, using the model generated by the European Center for Medium-Range Weather Forecasts, in addition to climate predictions generated by the meteorological services of the Central American countries.</p>
+<p>Each of these bands when displayed alone is a panchromatic image (gray-scaled), so how do we get a beautiful natural image of the earth that looks something like what we would expect? We can do this by compositing or “stacking” multiple images. Ever heard of RGB? No, not Ruth Ginsburg Bader… I mean <a href="https://www.britannica.com/biography/Ruth-Bader-Ginsburg">Ruth Bader Ginsburg</a>. Red, green, and blue! You know the spectral bands our computer monitors, television screens, and other electronic displays use to present our eyes with the appropriate combination of colors to see the world in natural colors. I won’t get into theories of <a href="https://en.wikipedia.org/wiki/Primary_color#Additive_mixing_of_light">additive mixing of light</a>, but electronic displays use these three colors to produce a wide array of possible colors. Using the chart above, which bands would you use to create a “natural color” image stack on your computer screen?</p>
 
-<p>The top priority was not creating a new app for the sake of something new, but rather, to ensure the fishermen could easily understand what is happening in the ocean that affects their ability to sell products and deliver food to their families.</p>
+<p>I hope you chose Band 2, Band 3, and Band 4. I won’t get into software with which to stack image layers, but you can do this with a product that starts with “photo” and ends with “shop.” You can find a good tutorial <a href="http://www.shadedrelief.com/landsat8/landsat8naturalc.html">here</a>.</p>
 
-<h2 id="digital-transformation-of-the-regional-process">Digital Transformation of the Regional Process</h2>
+<p>Since we are displaying this stack with the RGB capability of our computer screen and we want a natural color image of our area of interest (image from August 2019), we would stack the image such that Band 4 (red) is displayed as red on our screen, Band 3 (green) is displayed as green, etc. In common shorthand, this is called a 4-3-2 composite or stack and looks how you would expect.</p>
 
-<p>The Central America Fisheries and Aquaculture Organization (OSPESCA) led efforts to generate information for fishermen back in 2013 by creating the Clima Pesca newsletter, sent via email. While the newsletter had excellent content and used appropriate language for fishermen, it was not reaching them; most likely, few of them had email accounts.</p>
+<p><img src="/uploads/True%20Color.png" alt="True Color.png" /></p>
 
-<p><img src="/uploads/pantalla.PNG" alt="pantalla.PNG" />
-<code class="highlighter-rouge">The app tours are animated, helping fisherfolk to better understand climate data. Illustration by Jonathan Mariño.</code></p>
+<p>Now what would happen if you messed up and made a 2-3-4 composite? Well, objects in your image that were red would be displayed as blue and blue as red. Green would still be green, but your image would look a little odd. See below.</p>
 
-<p>DAI initiated an interactive design process, in which we discovered most users had mobile phones and could readily access information via the phone or websites. Those original 2,700 email subscribers leapt to more than 8,000 interactions per month by users through multiple, more accessible channels.</p>
+<p><img src="/uploads/revTrueColor.png" alt="revTrueColor.png" /></p>
 
-<h2 id="5-lessons-learned">5 Lessons Learned</h2>
+<h2 id="other-band-combinations">Other Band Combinations</h2>
 
-<ul>
-  <li><strong>Identify the essentials:</strong> When the use of a digital tool impacts the quality of life of a user, not only is a project objective achieved, but it also achieves ownership. Learning and a discovery process is initiated by a user thirsty for information.</li>
-  <li><strong>Self-explained:</strong> Any information in an app should be self-explanatory. A bad app design is like a bad joke—when the user interface is so bad that you need to explain what it means.</li>
-  <li><strong>Smartphones are everywhere:</strong> Do an initial assessment about the digital literacy of the users. We learned that fishermen use smartphones not only to communicate but also for its apps such as GPS and more.</li>
-  <li><strong>Learn from your users:</strong> The empirical science of fishing can sometimes provide you with breathtaking insights for building a great tool.</li>
-  <li><strong>If it’s regional, go simple:</strong> Given the infrastructure, language, or connectivity differences between countries, the best approach is to keep it simple.</li>
-</ul>
+<p>Up to this point we have not talked about the other bands. What are those all for? Well the handy chart gives you a decent clue. Near- and short-wave infrared are intriguing (and very useful) bands, but they’re outside of the visual spectrum. So how can we see them?</p>
 
-<p>Clima Pesca is available at <a href="http://www.climapesca.org">www.climapesca.org</a>, <a href="https://play.google.com/store/apps/details?id=org.climapesca.app">Google Play</a>, and <a href="https://itunes.apple.com/cr/app/clima-pesca-digital/id1384684221?mt=8">Apple Store</a>.</p>
+<p>The beauty of this multi-spectral sensor is just that the satellite senses  energy (light from the sun) reflecting from the earth’s surface back to the sensor at different wavelengths depending on the composition of the object the light struck. This means that we can take bands 5, 6, 7 (or 7-6-5), for example, and stack them in the RGB color space so that our screens can display infrared and near-infrared light we can see! See the image below.</p>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/fishing-with-smartphones.html" data-width="100%" data-numposts="5"></div> -->
+<p><img src="/uploads/SWIR.png" alt="SWIR.png" /></p>
+
+<p>You can immediately see how certain features are more distinct using this band combination versus a natural color image. Impervious surfaces such as roads, buildings, airports reflect and absorb different wavelengths of light as do different soil types, agricultural fields, and water. I could spend days reviewing spectral signatures of various land cover types, but I merely want to illustrate how different  questions can inform which satellite band combination works best for your work.</p>
+
+<p>What happens if we jumble the bands around a bit? Suppose we make a 5-4-3 composite? What bands are mapped to which colors in the RGB space? Near infrared is mapped to red, red to green, and green to blue. creating the image below.</p>
+
+<p><img src="/uploads/FalseColor.png" alt="FalseColor.png" /></p>
+
+<p>But why is all the vegetation red? Well, without getting too into the weeds of color theory, plants absorb red and blue wave lengths of light (which is why the appear green!) and reflect near infrared—more when they are healthy (i.e., contains more chlorophyll. <a href="https://science.nasa.gov/ems/08_nearinfraredwaves">More </a>on this. With the red band mapped to the green band, we effectively remove the green wavelengths from the image since we are not displaying any green reflectance and the red and blue are absorbed by the plant if healthy). This means that with this band combination we can, at a glance, assess the presence of, and health of, vegetation.</p>
+
+<p>Here is the same image from March 2019 where the trees have few or no leaves yet.</p>
+
+<p><img src="/uploads/FalseCOlor_fall.png" alt="FalseCOlor_fall.png" /><code class="highlighter-rouge">You can readily see the difference in level of near-infrared reflectance from vegetation before spring has sprung.</code></p>
+
+<p>There are of course <a href="https://www.harrisgeospatial.com/Support/Self-Help-Tools/Help-Articles/Help-Articles-Detail/ArtMID/10220/ArticleID/15691/The-Many-Band-Combinations-of-Landsat-8">many more combinations</a>, each uniquely positioned to assist in answering different research questions, and  the best part of this all is that all Landsat data is <strong>FREE</strong>!</p>
+
+<p>I often find visualizing remote-sensing data can feel more like art than work, and need to reign myself in so as not to get too lost in adjusting the colors for optimal viewing, or panning around the map finding new interesting features of the landscape to ponder. For reference, one of my personal favorite combinations for discerning between vegetation and infrastructure is 7-5-3 that removes some atmospheric haze.</p>
+
+<p><img src="/uploads/753.png" alt="753.png" /></p>
+
+<p>Which is your favorite?</p>
+
+<p><em>This is a followup to the <a href="https://dai-global-digital.com/part-2-la-la-landsat-making-use-of-landsat-imagery.html">second installment</a> in the Remote Sensing Series from January 2017.</em></p>
+
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -180,23 +197,6 @@
   
   
     
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/visualizing-remotely-sensed-data-true-color-and-false-color.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/SWIR.png);"></div><span class="related-item-text">Visualizing Remotely Sensed Data: True Color and False Color</span></a></li>
-            
-            
-            
-      
-    
     
   
   
@@ -451,24 +451,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/coffee-cloud-precision-ag-at-the-touch-of-a-button.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/cover1.png);"></div><span class="related-item-text">Building Coffee Cloud: A Precision Ag Tool Used by Farmers Across Central America</span></a></li>
-            
-            
-            
       
     
     
@@ -595,7 +577,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/designing-a-wildlife-identification-tool-in-philippines.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/phillipines-fauna.png);"></div><span class="related-item-text">Designing A Wildlife Identification Tool in the Philippines</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/gis-toolkit-overview-part-i-remote-sensing.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/nclimate1908-f1.jpg);"></div><span class="related-item-text">GIS Toolkit Overview Part I: Remote Sensing</span></a></li>
             
             
             
@@ -659,9 +641,1158 @@
         
           
           
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/5-tips-for-doing-international-design-research.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/CambodiaDI_Adam.jpg);"></div><span class="related-item-text">5 Tips for Doing International Design Research</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Dashboard-b07795.png);"></div><span class="related-item-text">6 Tips for Making Great Monitoring and Evaluation Dashboards</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/fishing-with-smartphones.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/blog.PNG);"></div><span class="related-item-text">Fishing with Smartphones</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/weve-got-to-map-our-city-putting-three-liberian-cities-on-the-map-using-openstreetmap.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/02.png);"></div><span class="related-item-text">Putting Liberian Cities on the Map With OpenStreetMap</span></a></li>
             
             
             
