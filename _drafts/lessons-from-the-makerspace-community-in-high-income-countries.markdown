@@ -15,7 +15,7 @@ For many of the innovators in this thriving community it was shocking when some 
 
 For the maker community, these closures present a worrying puzzle: Why did these keystones of a movement that in many ways seemed to be thriving fail, and what does it mean for the movement’s future?
 
-At DAI, where we have been using makerspaces to help young people develop skills in El Salvador, to design creative approaches to water service delivery equipment in Indonesia, or as partners for innovation in other places, we were particularly interested in the factors that led to the closure of these cornerstone makerspaces to determine whether the factors at play might impact the contexts in which we work in.
+At DAI, where we have been using makerspaces to help young people develop skills in El Salvador, to design creative approaches to water service delivery equipment in Indonesia, or as partners for innovation in other places, we are particularly interested in what led to the closure of these makerspaces to determine whether the factors at play might impact the contexts in which we work.
 
 ## What Happened?
 
