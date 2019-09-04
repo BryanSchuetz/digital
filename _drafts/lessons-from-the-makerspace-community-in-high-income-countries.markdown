@@ -17,9 +17,9 @@ For the maker community, these closures present a worrying puzzle: Why did these
 
 At DAI, where we have been using makerspaces to help young people develop skills in El Salvador, to design creative approaches to water service delivery equipment in Indonesia, or as partners for innovation in other places, we are particularly interested in what led to the closure of these makerspaces to determine whether the factors at play might impact the contexts in which we work.
 
-## What Happened?
+## So What Happened?
 
-There is no single consensus as to why the setback occurred for makerspaces in the U.S. had such significant setbacks, but within the community there are a number of plausible theories:
+There is no single consensus as to why the setback occurred for makerspaces in the United States, but within the community there are a number of plausible theories:
 
 * **Poor business decisions.** Many criticized Techshop’s overambitious expansion strategy, which among other things led them to open a location in Brooklyn, one of the country’s most expensive real estate markets, October 2017. It was shuttered, along with all the company’s other locations, less than a month later. Maker Media had a tendency to announce big initiatives, like its MakerSpace social media platform in 2015 or its similar MakerShare platform in 2017, with much fanfare but little apparent strategy or follow-through.
 
