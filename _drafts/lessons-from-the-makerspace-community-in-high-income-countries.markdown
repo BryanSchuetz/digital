@@ -5,6 +5,8 @@ tags:
 - Makerspace
 - Innovation
 Author: Rob Ryan-Sylva
+social-image: "/uploads/image001.jpg"
+thumbnail: "/uploads/image001.jpg"
 ---
 
 Makerspaces—akin to coworking spaces with tools such as 3D printers and computer numerical control (CNC) mills as well as more traditional woodworking and metalworking items—offer participants access to equipment traditionally the domain of specialists or well-funded firms. Along with the proliferation of independent makerspaces starting in the mid-2000s, national organizations emerged to promote the model and connect regional maker communities, as well as offer a commercial platform for vendors making innovative tools for that market.
