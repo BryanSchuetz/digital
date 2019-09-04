@@ -14,7 +14,7 @@ Digital technology is unique for two reasons. First, digital is *informative*—
 
 <!--more-->
 
-An example of new frontier is the [Coffee Cloud](https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html), an application DAI developed in collaboration with coffee producers, government institutions, and research institutes in response to a decline in coffee production in Central America. Coffee producers input specific details about their crops into the app (*digital informed*) and receive customized advice on how to improve crop management; this information is shared with other coffee farmers as well as the government coffee institute and meteorological services (*digital informative*), which in return use the information for predictive modeling that can then be shared back to coffee producers.
+An example of a new frontier is the [Coffee Cloud](https://dai-global-digital.com/coffee-cloud-precision-ag-at-the-touch-of-a-button.html), an application DAI developed in collaboration with coffee producers, government institutions, and research institutes in response to a decline in coffee production in Central America. Coffee producers input specific details about their crops into the app (*digital informed*) and receive customized advice on how to improve crop management; this information is shared with other coffee farmers as well as the government coffee institute and meteorological services (*digital informative*), which in return use the information for predictive modeling that can then be shared back to coffee producers.
 
 ## The Realities of Digital
 
