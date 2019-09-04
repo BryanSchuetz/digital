@@ -7,7 +7,7 @@ tags:
 Author: Rob Ryan-Sylva
 ---
 
-Makerspaces—akin to coworking spaces with tools, which might include 3D printers and CNC mills as well as more traditional woodworking and metalworking tools—offer diverse participants the opportunity to access equipment and learn skills that had traditionally been the domain of specialists or well-funded companies. Along with the proliferation of independent makerspaces starting in the mid-2000s, national organizations emerged to promote the model and connect regional maker communities, as well as offer a commercial platform for vendors making innovative tools for that market.
+Makerspaces—akin to coworking spaces with tools, which might include 3D printers and computer numerical control (CNC) mills as well as more traditional woodworking and metalworking tools—offer diverse participants the opportunity to access equipment and learn skills that had traditionally been the domain of specialists or well-funded companies. Along with the proliferation of independent makerspaces starting in the mid-2000s, national organizations emerged to promote the model and connect regional maker communities, as well as offer a commercial platform for vendors making innovative tools for that market.
 
 <--!more-->
 
