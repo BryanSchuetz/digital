@@ -10,7 +10,7 @@ thumbnail: "/uploads/DAI00418.JPG"
 
 When I first began learning about digital development, I thought of it as a new frontier that could push international development out of its modus operandi. New digital tools could provide individuals, communities, governments, and organizations with new sources of information at rapid speeds—enabling new means of collaboration to propel development objectives.
 
-Digital technology unique for two reasons. First, digital is *informative*—providing users with increased access to new information and opportunities at their fingertips. Second, digital is *informed*—enabling users to input information that will conceivably be used by industries and governments to tailor and update their products and benefit their business and economies to improve customer experiences.
+Digital technology is unique for two reasons. First, digital is *informative*—providing users with increased access to new information and opportunities at their fingertips. Second, digital is *informed*—enabling users to input information that will conceivably be used by industries and governments to tailor and update their products and benefit their business and economies to improve customer experiences.
 
 <!--more-->
 
