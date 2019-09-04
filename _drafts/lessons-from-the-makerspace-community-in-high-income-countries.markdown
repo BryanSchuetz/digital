@@ -9,7 +9,7 @@ Author: Rob Ryan-Sylva
 
 Makerspaces—akin to coworking spaces with tools such as 3D printers and computer numerical control (CNC) mills as well as more traditional woodworking and metalworking items—offer participants access to equipment traditionally the domain of specialists or well-funded firms. Along with the proliferation of independent makerspaces starting in the mid-2000s, national organizations emerged to promote the model and connect regional maker communities, as well as offer a commercial platform for vendors making innovative tools for that market.
 
-<--!more-->
+<!--more-->
 
 For many of the innovators in this thriving community it was shocking when some of these national organizations began to close. In November 2017, the commercial makerspace chain [Techshop](https://en.wikipedia.org/wiki/TechShop) announced it was [closing](https://techcrunch.com/2017/11/15/techshop-shuts-down-all-u-s-locations-declares-bankruptcy/) its 10 U.S. locations and would be declaring bankruptcy. In June 2019, Maker Media, which hosted the popular Maker Faire events in the Bay Area and New York City and licensed smaller events around the world—as well as publishing *Make Magazine* and a series of how-to books on a diversity of topics—similarly closed. Even some prominent independent makerspaces, such as Baltimore’s for-profit Foundery, also closed in this period. San Francisco’s Noisebridge, one of the early pioneers of the community-driven nonprofit hackerspace movement, said it would not be able to pay rent on its longtime space in the Mission District, and as of this writing, its future remains uncertain.
 
