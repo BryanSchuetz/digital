@@ -4,7 +4,7 @@ date: 2019-09-05 07:00:00 -04:00
 tags:
 - Makerspace
 - Innovation
-Author: Rob Ryan-Sylva
+Author: Rob Ryan-Silva
 social-image: "/uploads/image001.jpg"
 thumbnail: "/uploads/image001.jpg"
 ---
