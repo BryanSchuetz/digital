@@ -1,5 +1,5 @@
 ---
-title: Rob Ryan-Sylva
+title: Rob Ryan-Silva
 date: 2019-06-11 12:34:00 -04:00
 Job: Global Practice Specialist, Governance, and Director, DAI Maker Lab
 Image: "/uploads/RyanSilvaInner.jpg"
