@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Sep 2019 14:21:09 -0400</pubDate>
-    <lastBuildDate>Wed, 04 Sep 2019 14:21:09 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2019 07:04:02 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2019 07:04:02 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/image001.jpg" medium="image" /> 
+        <title>Lessons from the Makerspace Community in High-Income Countries</title>
+        <description>&lt;p&gt;Makerspaces—akin to coworking spaces with tools such as 3D printers and computer numerical control (CNC) mills as well as more traditional woodworking and metalworking items—offer participants access to equipment traditionally the domain of specialists or well-funded firms. Along with the proliferation of independent makerspaces starting in the mid-2000s, national organizations emerged to promote the model and connect regional maker communities, as well as offer a commercial platform for vendors making innovative tools for that market.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Sep 2019 07:00:00 -0400</pubDate>
+        <author>Rob Ryan-Sylva
+</author>
+        <link>https://dai-global-digital.com/lessons-from-the-makerspace-community-in-high-income-countries.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/lessons-from-the-makerspace-community-in-high-income-countries.html</guid>
+        
+        <category>Makerspace</category>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/SWIR.png" medium="image" /> 
@@ -182,29 +201,6 @@
         <category>Digital Financial Services</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/GSMA.jpeg" medium="image" /> 
-        <title>Mobile Technologies Push Latin America Forward</title>
-        <description>&lt;p&gt;&lt;em&gt;Esta entrada también está disponible en &lt;a href=&quot;dai-global-digital.com/las-tecnologias-moviles-empujan-a-america-latina-hacia-adelante.html&quot;&gt;Español&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The digital ecosystem in Latin America is pushing countries to accelerate public-private collaboration on digital transformation.&lt;/p&gt;
-
-&lt;p&gt;At the recent &lt;a href=&quot;https://www.mobile360series.com/latin-america/agenda/&quot;&gt;GSMA Mobile 360 LATAM conference&lt;/a&gt;, we heard a lot about how 5G networks will bring about a technological, economic, and social revolution around the world. Many speakers—including GSMA CEO Mats Granryd—urged authorities and industry representatives to work jointly to accelerate the adoption of 5G networks in the region so that Latin America is not left behind.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 19 Jul 2019 08:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> and <a href="https://dai-global-digital.com/authors/alejandro-solis/">Alejandro Solis</a>
-</author>
-        <link>https://dai-global-digital.com/mobile-technologies-push-latin-america-forward.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/mobile-technologies-push-latin-america-forward.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Internet of Things</category>
         
         
       </item>
