@@ -35,7 +35,7 @@ So, what went well?
 
 **Challenges**
 
-Just as importantly – what did not go well?
+Just as importantly – what did not go as well?
 
 * **Persistent communication challenges create confusion for Technovation stakeholders.** Mentors, mentees, and parents consistently report not having the right information at the right time from Technovation Cambodia. This is a two-fold problem: not only did interviewees report an occasional lack of information or inconsistent information on things like session start times (the day-to-day operational level), they also reported not understanding why fundamental changes to Technovation Cambodia took place (the higher strategic level). This is in part a challenge because many mentees do not have their own email or Facebook accounts, and use parents or schools as interlocutors. Over time, the Technovation community often used closed Facebook groups to organize events, and more often than not, made individual phone calls. It is critical to know your “users” here, and ensure internal communication strategies are just as strong as the public-facing communications strategy. However, whenever Technovation stakeholders sought out DI staff or consultants with questions or clarifications, they reported that help was always accessible and the Technovation team answered questions quickly.
 
