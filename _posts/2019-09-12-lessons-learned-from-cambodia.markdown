@@ -12,7 +12,7 @@ thumbnail: "/uploads/1TechnovationGirls.jpg"
 
 How do you get Cambodian girls [engaged](http://www.development-innovations.org/wp-content/uploads/2018/07/Factors-Affecting-Women-Engaging-in-Tech-Careers-in-Cambodia-Report.pdf) in addressing the digital gender divide? This is a question that the six-year [Development Innovations (DI) project](https://www.development-innovations.org/) has been wrestling with since it was launched by the U.S. Agency for International Development—and that DAI's [Center for Digital Acceleration (CDA)](https://www.dai.com/our-work/solutions/digital-acceleration) and DI have [regularly](https://dai-global-digital.com/defeated-by-the-digital-divide-invest-in-inclusion.html) [chronicled](https://dai-global-digital.com/powering-women-entrepreneurs-in-cambodia.html) on their [blogs](https://www.development-innovations.org/?s=technovation). 
 
-<--!more-->
+<!--more-->
 
 In 2014, DI launched Technovation in Cambodia with only one team, in coordination with the global tech entrepreneurship nonprofit Technovation Global. [Technovation](https://technovationchallenge.org/) is an annual 12-week global coding and business plan competition for girls and young women, ages 10 to 18. Each week, the mentees work closely with business and technical mentors to develop a mobile application and associated business plan that addresses a problem in their community.
 
