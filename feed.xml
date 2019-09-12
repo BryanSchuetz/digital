@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Sep 2019 06:38:46 -0400</pubDate>
-    <lastBuildDate>Thu, 12 Sep 2019 06:38:46 -0400</lastBuildDate>
+    <pubDate>Thu, 12 Sep 2019 06:44:02 -0400</pubDate>
+    <lastBuildDate>Thu, 12 Sep 2019 06:44:02 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/1TechnovationGirls.jpg" medium="image" /> 
+        <title>Lessons from Cambodia: How to Grow a Girls’ Tech Entrepreneurship Challenge in Six Years</title>
+        <description>&lt;p&gt;How do you get Cambodian girls &lt;a href=&quot;http://www.development-innovations.org/wp-content/uploads/2018/07/Factors-Affecting-Women-Engaging-in-Tech-Careers-in-Cambodia-Report.pdf&quot;&gt;engaged&lt;/a&gt; in addressing the digital gender divide? This is a question that the six-year &lt;a href=&quot;https://www.development-innovations.org/&quot;&gt;Development Innovations (DI) project&lt;/a&gt; has been wrestling with since it was launched by the U.S. Agency for International Development—and that DAI’s &lt;a href=&quot;https://www.dai.com/our-work/solutions/digital-acceleration&quot;&gt;Center for Digital Acceleration (CDA)&lt;/a&gt; and DI have &lt;a href=&quot;https://dai-global-digital.com/defeated-by-the-digital-divide-invest-in-inclusion.html&quot;&gt;regularly&lt;/a&gt; &lt;a href=&quot;https://dai-global-digital.com/powering-women-entrepreneurs-in-cambodia.html&quot;&gt;chronicled&lt;/a&gt; on their &lt;a href=&quot;https://www.development-innovations.org/?s=technovation&quot;&gt;blogs&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Sep 2019 06:00:00 -0400</pubDate>
+        <author>Inta Plostins
+</author>
+        <link>https://dai-global-digital.com/lessons-learned-from-cambodia.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/lessons-learned-from-cambodia.html</guid>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/image001.jpg" medium="image" /> 
@@ -182,25 +199,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html</guid>
         
         <category>Digital Gender Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/https___blogs-images.forbes.com_tatianakoffman_files_2019_06_libra-logo-1200x900.png" medium="image" /> 
-        <title>Facebook’s Libra Currency: A Digital Development Perspective</title>
-        <description>&lt;p&gt;When Facebook announced its first foray into the digital financial space with its new digital currency &lt;a href=&quot;https://libra.org/en-US/white-paper/&quot;&gt;Libra&lt;/a&gt; last month, the digital development community collectively sighed and Twitter lit up with both praise and concern. While it’s easy to get out the pitchforks for something like this—and in many ways rational, given how Facebook was manipulated to exacerbate the &lt;a href=&quot;https://www.nytimes.com/2018/11/06/technology/myanmar-facebook.html&quot;&gt;Rohingya crisis&lt;/a&gt;, used by &lt;a href=&quot;https://www.wired.com/story/cambridge-analytica-facebook-privacy-awakening/&quot;&gt;Cambridge Analytica&lt;/a&gt;, and part of a myriad of other &lt;a href=&quot;https://www.nbcnews.com/tech/social-media/timeline-facebook-s-privacy-issues-its-responses-n859651&quot;&gt;breaches&lt;/a&gt; of trust in which Facebook has proven itself a questionable steward of its self-built digital nation—I’m not going to take a side on whether Libra is good or bad. Rather, in this blog, I will lay out some key questions and considerations that need to be fully addressed.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Jul 2019 08:00:00 -0400</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/facebooks-libra-currency-a-digital-development-perspective.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/facebooks-libra-currency-a-digital-development-perspective.html</guid>
-        
-        <category>Digital Financial Services</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
