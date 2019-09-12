@@ -1,7 +1,7 @@
 ---
 title: 'Lessons from Cambodia: How to Grow a Girls’ Tech Entrepreneurship Challenge
   in Six Years'
-date: 2019-09-12 07:00:00 -04:00
+date: 2019-09-12 06:00:00 -04:00
 tags:
 - Innovation
 Author: Inta Plostins
