@@ -15,7 +15,7 @@ What is holding back women from embracing technology in our own work, even as we
 
 But first, a bit of history.
 
-**How Did We Get Here?**
+## How Did We Get Here?
 
 In her [article from the Center for Media Literacy](https://www.medialit.org/reading-room/worlds-apart-women-men-and-technology), Margaret Brenston explains: “In our society, boys and men are expected to learn about machines, tools and how things work. In addition, they absorb, ideally, a ‘technological world view’ that grew up along with industrial society. Such a world view emphasizes objectivity, rationality, control over nature, and distance from human emotions. Conversely, girls and women are not expected to know much about technical matters. Instead, they are to be good at interpersonal relationships and to focus on people and emotion.”
 
@@ -25,7 +25,7 @@ I organized a panel at MERLTech, where we discussed our experiences as women in 
 
 So many conference attendees echoed the above findings, mentioning that tech savvy is seen as smart, but smart is not seen as feminine. There is a misconception about what technology *is* by women. The “imposter syndrome” or a fear of failure, has a real impact on women in our lives, and gaslighting whether intentional or not is a problem many face, which adds to their hesitance to claim technology as “their thing.”
 
-**How Can We Fix This?**\
+## How Can We Fix This?
 The Global Fund for Women states, “Access to technology, control of it, and the ability to create and shape it, is a fundamental issue of women’s human rights.” The Fund does this by, “help\[ing\] end the gender technology gap and empower\[ing\] women and girls to create innovative solutions to advance equality in their communities.”
 
 Based on our session discussion, here are five tips to help bridge the technology gender divide within our own field.
