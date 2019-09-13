@@ -32,15 +32,11 @@ Based on our session discussion, here are five tips to help bridge the technolog
 
 1. Be, or find, a mentor. Women will benefit from mentors and allies in this space, whether you plan to go into a tech field, or just want to ask a question without fear of looking uninformed.
 
-
 2. Become a role model where you can. Find allies, men and women to help you build confidence.
-
 
 3. Increase representation. When women can be brought to the table in discussions of tech, they should be—slowly this will permeate the culture of the organization. Having more women involved in the process of explaining and building tech in our companies will normalize the use of tech and take away some of the gendered dynamics that exist now.
 
-
 4. Confront bias head-on. Addressing gender assumptions when they occur can be hard but pointing out the bias is not enough. Countering the action with a specific recommendation for course correction works best.
-
 
 5. Build confidence. Personal development can play a role in building confidence, as can much of the point listed above. Confidence is the foundation for competence.
 
