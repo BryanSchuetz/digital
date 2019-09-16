@@ -1,7 +1,6 @@
 ---
 title: Gratiana Fu
 date: 2019-09-16 13:17:00 -04:00
-published: false
 Job: Associate Global Practice Specialist, Data Scientist
 Image: "/uploads/Gratiana%20Fu.jpg"
 ---
