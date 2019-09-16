@@ -1,6 +1,7 @@
 ---
 title: 'Confidence Not Competence: What Holds Women Back from Embracing Tech in Development'
 date: 2019-09-16 13:03:00 -04:00
+Author: "[Carmen Tedesco](https://www.linkedin.com/in/carmentedesco/)"
 ---
 
 Throughout my life, I’ve heard women grumble about using technology—from my mom, from friends in school, and from work colleagues—yet these are highly educated, often extremely logical thinkers that excel at, well, Excel!
@@ -18,6 +19,7 @@ But first, a bit of history.
 ## How Did We Get Here?
 
 In her [article from the Center for Media Literacy](https://www.medialit.org/reading-room/worlds-apart-women-men-and-technology), Margaret Brenston explains: “In our society, boys and men are expected to learn about machines, tools and how things work. In addition, they absorb, ideally, a ‘technological world view’ that grew up along with industrial society. Such a world view emphasizes objectiv­ity, rationality, control over nature, and distance from human emotions. Con­versely, girls and women are not expected to know much about technical matters. Instead, they are to be good at interper­sonal relationships and to focus on people and emotion.”
+![1TechnovationGirls-d882fb.jpg](/uploads/1TechnovationGirls-d882fb.jpg)
 
 She goes on to outline how those differences play out when technology is seen as a language, and one in which women “are silenced” She writes: “It is very difficult for women to discuss technical problems, particularly experi­mental ones, with male peers—they either condescend or they want to perform whatever task is at issue themselves. In either case, asking a question or raising a problem in discussion is proof (if any is needed) that women don't know what they are doing. Male students, needless to say, do not get this treatment.” An interesting [literature review of gender differences in technology usage](http://www.scirp.org/pdf/OJBM_2016011410094953.pdf) highlights a 2003 study that details how women are more anxious than men with IT utilization, which reduces their self-effectiveness and increases the perception that IT requires more effort.
 
