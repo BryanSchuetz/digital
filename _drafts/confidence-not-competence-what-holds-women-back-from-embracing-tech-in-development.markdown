@@ -1,7 +1,11 @@
 ---
 title: 'Confidence Not Competence: What Holds Women Back from Embracing Tech in Development'
 date: 2019-09-16 13:03:00 -04:00
+tags:
+- Digital Gender Divide
 Author: "[Carmen Tedesco](https://www.linkedin.com/in/carmentedesco/)"
+social-image: "/uploads/1TechnovationGirls-d882fb.jpg"
+thumbnail: "/uploads/1TechnovationGirls-d882fb.jpg"
 ---
 
 Throughout my life, I’ve heard women grumble about using technology—from my mom, from friends in school, and from work colleagues—yet these are highly educated, often extremely logical thinkers that excel at, well, Excel!
