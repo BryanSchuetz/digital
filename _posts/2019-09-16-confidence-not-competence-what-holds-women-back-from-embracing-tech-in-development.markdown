@@ -13,7 +13,7 @@ Throughout my life, I’ve heard women grumble about using technology—from my 
 
 The irony of the situation has been troubling me in the past few months. Why? Because there is a clear contrast in attention paid to the benefits of empowering women and girls through technology in low-and middle-income countries, with the attention paid to empowering women and girls through technology in high-income environments.
 
-<--!more-->
+<!--more-->
 
 As an international development community, we spend a lot of resources promoting the use of technology among women and girls within the communities where we work—with good results. And yet, as a community of women development practitioners, we are failing at embracing technology ourselves. The gender gap in [science, technology, education, and mathematics (STEM)](https://www.catalyst.org/research/women-in-science-technology-engineering-and-mathematics-stem/) exists around the world, and society continues to fail women and girls by not expecting them to know much about technical matters. This plays out in our day-to-day work in the monitoring, evaluation, research, and learning (MERL) sector. Whether it’s learning new software to improve our results monitoring or using new mobile tools in the field, there seems to be a hesitance, and lack of confidence, often accompanied by a self-deprecation that our male counterparts lack.
 
