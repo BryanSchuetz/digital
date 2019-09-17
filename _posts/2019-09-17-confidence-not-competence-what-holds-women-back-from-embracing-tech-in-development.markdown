@@ -1,6 +1,6 @@
 ---
 title: 'Confidence Not Competence: What Holds Women Back from Embracing Tech in Development'
-date: 2019-09-16 13:03:00 -04:00
+date: 2019-09-17 07:00:00 -04:00
 tags:
 - Digital Gender Divide
 Author: "[Carmen Tedesco ](https://www.dai.com/who-we-are/our-team/carmen-tedesco)"
