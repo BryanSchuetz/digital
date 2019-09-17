@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Sep 2019 13:57:23 -0400</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 13:57:23 -0400</lastBuildDate>
+    <pubDate>Tue, 17 Sep 2019 10:48:15 -0400</pubDate>
+    <lastBuildDate>Tue, 17 Sep 2019 10:48:15 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Panel.JPG" medium="image" /> 
+        <title>Confidence Not Competence: What Holds Women Back from Embracing Tech in Development</title>
+        <description>&lt;p&gt;Throughout my life, I’ve heard women grumble about using technology—from my mom, from friends in school, and from work colleagues—yet these are highly educated, often extremely logical thinkers that excel at, well, Excel!&lt;/p&gt;
+
+&lt;p&gt;The irony of the situation has been troubling me in the past few months. Why? Because there is a clear contrast in attention paid to the benefits of empowering women and girls through technology in low-and middle-income countries, with the attention paid to empowering women and girls through technology in high-income environments.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 16 Sep 2019 13:03:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/carmen-tedesco">Carmen Tedesco </a>
+</author>
+        <link>https://dai-global-digital.com/confidence-not-competence-what-holds-women-back-from-embracing-tech-in-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/confidence-not-competence-what-holds-women-back-from-embracing-tech-in-development.html</guid>
+        
+        <category>Digital Gender Divide</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/1TechnovationGirls.jpg" medium="image" /> 
@@ -182,23 +201,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html</guid>
         
         <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/LatifaYari.jpg" medium="image" /> 
-        <title>Digital Gender Divide: Latifa Yari's Story</title>
-        <description>&lt;p&gt;Let me introduce you to Latifa Yari, a 24-year-old student who will graduate from the Niger &lt;a href=&quot;http://estniger.net/&quot;&gt;Higher School of Telecommunications&lt;/a&gt; (E.S.T.) this year with a degree in computer science. In 2018, Latifa won the &lt;a href=&quot;https://www.girlsinict.rw/missgeekafrica&quot;&gt;Miss Geek Africa&lt;/a&gt;* competition with an app called Saro (“security” in Hausa) that connects emergency response services to citizens who have been in accidents. After that win, she founded the startup InnovElle, to develop digital social solutions and coach girls and women in digital technology. Latifa’s accomplishments are impressive and in the context of Niger, where there is a large digital gender divide, they are astounding. This is why during a recent trip to Niger I reached out to Latifa (thanks, &lt;a href=&quot;https://www.linkedin.com/in/latifa-yari-57460b161/&quot;&gt;LinkedIn!&lt;/a&gt;) to learn her story.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Jul 2019 08:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/alana-mcginty-04a91657/">Alana McGinty</a>
-</author>
-        <link>https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-gender-divide-latifa-yaris-story.html</guid>
-        
-        <category>Digital Gender Divide</category>
         
         
       </item>
