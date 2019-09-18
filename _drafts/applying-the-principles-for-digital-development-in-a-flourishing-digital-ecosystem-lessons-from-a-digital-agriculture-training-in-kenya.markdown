@@ -58,6 +58,6 @@ If the participants had designed their digital interventions on day one of the t
 
 This training made it clear that even in countries with a flourishing digital innovation ecosystem and an abundance of effective digital solutions, it is important to be grounded by the Digital Principles. As development practitioners, it falls on our shoulders to spread awareness of these Principles and to provide opportunities to practice, apply, and experiment with putting them into action.
 
-It was evident that the training participants had a strong appetite for adopting the Digital Principles, which speaks the need to distribute this information to people outside of this small group, who can’t consume what they don’t know exists. After the training, it is imperative that participants find ways to share the Digital Principles with their networks.
+It was evident that the participants had a strong appetite for adopting the Digital Principles, which speaks to the need to distribute this information to people outside of this small group, who can’t consume what they don’t know exists. After the training, it is imperative that participants find ways to share the Digital Principles with their networks.
 
-Taking a step back, this training begs the question of what the adoption and practice of the Digital Principles might look like in less developed digital ecosystems. It is up to us as development professionals to explore this and support their dissemination.
+Taking a step back, this training begs the question of what the adoption and practice of the Digital Principles might look like in less-developed digital ecosystems. It is up to us as development professionals to explore this and support their dissemination.
