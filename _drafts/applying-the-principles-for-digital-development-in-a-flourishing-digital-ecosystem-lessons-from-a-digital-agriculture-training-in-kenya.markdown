@@ -11,7 +11,7 @@ thumbnail: "/uploads/ActivityKenya.jpg"
 
 As a co-facilitator at a recent USAID [Feed the Future](https://www.usaid.gov/what-we-do/agriculture-and-food-security/increasing-food-security-through-feed-future) training on digital development for resilience and food security in Nairobi, I was struck by the stark contrast between the short amount of time (a scant four years) I’ve been settling debts with friends on Venmo and the participants’ resounding “we’ve been using it forever” response when I asked how long they had been using Kenya’s mobile payment system, [M-Pesa](https://digital.hbs.edu/platform-rctom/submission/m-pesa-transforming-kenya-with-mobile-money/). While I can imagine a world without Venmo, it is clear that, for many Kenyans, life without M-Pesa is inconceivable.
 
-<--!more-->
+<!--more-->
 
 I point out the ubiquity of M-Pesa in the context of this training because not only did M-Pesa revolutionize the way people spend, save, and send money, it was also a key catalyst for Kenya’s thriving [digital ecosystem](https://www.gsma.com/mobilefordevelopment/resources/improving-financial-inclusion-through-data-for-smallholder-farmers-in-kenya/) and, in many respects, a model for the training I gave that day.
 
