@@ -15,7 +15,7 @@ I point out the ubiquity of M-Pesa in the context of this training because not o
 
 Kenya’s agriculture sector is leading the region in digital innovation. In fact, according to a recent [CTA report](https://www.raflearning.org/post/ctas-digitalisation-african-agriculture-report), Kenya has the most digital agriculture enterprises and users in sub-Saharan Africa. Not only are there over 100 solutions in the market, 20-30% of Kenyan farmers are using or engaging with more than one digital solution, pointing potentially to the success of these solutions in easing critical pain points for smallholder farmers, crop buyers, and agribusinesses alike.
 
-**Some of the agricultural digital innovations highlighted by the training participants included:**
+## Some of the agricultural digital innovations highlighted by the training participants included:
 
 * [Twiga](https://twiga.ke/): a mobile app enabling linkages between farmers and vendors
 
