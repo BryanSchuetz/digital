@@ -1,6 +1,5 @@
 ---
-title: 'Applying the Principles for Digital Development in a Flourishing Digital Ecosystem:
-  lessons from a digital agriculture training in Kenya'
+title: Applying Principles for Digital Development in a Flourishing Digital Ecosystem
 date: 2019-09-18 10:43:00 -04:00
 tags:
 - Digital Principles
