@@ -35,7 +35,7 @@ Kenya’s agriculture sector is leading the region in digital innovation. In fac
 
 Given the diversity of digital applications for agriculture, the training delivered sessions on a wide variety of digital tools ranging from communications technologies and hardware to sensors and precision agriculture, blockchain, and AI. Personally, I consider the latter of these topics to be the most exciting in the digital space; however, to my surprise, as the training progressed it became clear that the topic of most interest to participants was [The Principles for Digital Development](https://digitalprinciples.org/).
 
-![APoll.jpg](/uploads/APoll.jpg) \`Live polling from the final day of the training highlighting the strong resonance of the Digital Principles.\`
+![APoll.jpg](/uploads/APoll.jpg) `Live polling from the final day of the training highlighting the strong resonance of the Digital Principles.`
 
 ## So, what are The Principles for Digital Development?
 
@@ -67,7 +67,7 @@ As I watched participants present their designs in the form of skits, videos, an
 
 If the participants had designed their digital interventions on day one of the training, prior to the session on the Digital Principles, they would have been drastically different from the products they presented on day four. According to the training pre-survey, most participants had never been exposed to The Digital Principles. On their way out the door, it was clear that they were not only thinking about how to integrate The Digital Principles into their daily work, but also how to share the concepts with their colleagues and networks.
 
-![ActivityKenya.jpg](/uploads/ActivityKenya.jpg)\`Group activity session for developing digital interventions based on The Principles for Digital Development.\`
+![ActivityKenya.jpg](/uploads/ActivityKenya.jpg)`Group activity session for developing digital interventions based on The Principles for Digital Development.`
 
 ## Key Takeaways
 
