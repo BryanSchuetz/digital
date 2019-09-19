@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Sep 2019 11:31:40 -0400</pubDate>
-    <lastBuildDate>Wed, 18 Sep 2019 11:31:40 -0400</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2019 11:45:13 -0400</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2019 11:45:13 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ActivityKenya.jpg" medium="image" /> 
+        <title>Applying Principles for Digital Development in a Flourishing Digital Ecosystem</title>
+        <description>&lt;p&gt;As a co-facilitator at a recent &lt;a href=&quot;https://www.usaid.gov/what-we-do/agriculture-and-food-security/increasing-food-security-through-feed-future&quot;&gt;Feed the Future&lt;/a&gt; training on digital development for resilience and food security in Nairobi, I was struck by the stark contrast between the short amount of time (a scant four years) I’ve been settling debts with friends on Venmo and the participants’ resounding “we’ve been using it forever” response when I asked how long they had been using Kenya’s mobile payment system, &lt;a href=&quot;https://digital.hbs.edu/platform-rctom/submission/m-pesa-transforming-kenya-with-mobile-money/&quot;&gt;M-Pesa&lt;/a&gt;. While I can imagine a world without Venmo, it is clear that, for many Kenyans, life without M-Pesa is inconceivable.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Sep 2019 10:43:00 -0400</pubDate>
+        <author>Susannah Horton
+</author>
+        <link>https://dai-global-digital.com/applying-the-principles-for-digital-development-in-a-flourishing-digital-ecosystem.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/applying-the-principles-for-digital-development-in-a-flourishing-digital-ecosystem.html</guid>
+        
+        <category>Digital Principles</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Panel.JPG" medium="image" /> 
@@ -178,27 +195,6 @@
 </author>
         <link>https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/cs1.jpg" medium="image" /> 
-        <title>Cybersecurity Lessons from Ukraine</title>
-        <description>&lt;p&gt;&lt;em&gt;Read this blog in &lt;a href=&quot;https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html&quot;&gt;Ukrainian&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;When you walk into a room full of government officials, civil society organizations, and private companies discussing cybersecurity, you expect to hear disagreement. The exact opposite happened during the recent DAI- &lt;a href=&quot;http://socialboost.com.ua/&quot;&gt;SocialBoost&lt;/a&gt; Cybersecurity Roundtable and Workshop in Kyiv, Ukraine.&lt;/p&gt;
-
-&lt;p&gt;The event started with a panel discussion with representatives from a myriad of government institutions working to address Ukraine’s &lt;a href=&quot;https://www.politico.eu/article/ukraine-cyber-war-frontline-russia-malware-attacks/&quot;&gt;cybersecurity challenges&lt;/a&gt;. Representatives came from the Ministry of Energy, the Pension Fund of Ukraine, State Service of Special Communications and Information Protection of Ukraine, the Presidential Administration, Ministry of Infrastructure, and National Information Systems. Joining them were representatives from the company Information Systems Security Partners (&lt;a href=&quot;https://www.issp.com/&quot;&gt;ISSP&lt;/a&gt;) and the law firm &lt;a href=&quot;https://sk.ua/&quot;&gt;Sayenko Kharenko&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 01 Aug 2019 07:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> and <a href="https://ua.linkedin.com/in/denisgursky">Denis Gursky</a>
-</author>
-        <link>https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html</guid>
         
         <category>Cybersecurity</category>
         
