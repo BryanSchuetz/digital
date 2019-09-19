@@ -1,5 +1,5 @@
 ---
-title: Applying Principles for Digital Development in a Flourishing Digital Ecosystem
+title: Applying the Principles for Digital Development in a Flourishing Digital Ecosystem
 date: 2019-09-19 07:00:00 -04:00
 tags:
 - Digital Principles
