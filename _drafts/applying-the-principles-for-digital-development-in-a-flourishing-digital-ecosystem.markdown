@@ -32,7 +32,7 @@ Some of the agricultural digital innovations highlighted by the training partici
 
 * [The Talking Book:](https://www.amplio.org/amplio-solution/) engaging, culturally relevant audio content delivered through low-tech audio devices
 
-Given the diversity of digital applications for resilience and food security programming, the training delivered sessions on a wide variety of digital tools, ranging from communication technologies and hardware to sensors and precision agriculture, blockchain, and AI. Personally, I consider the latter of these topics to be the most exciting; however, to my surprise, as the training progressed it became clear that the topic of most interest to participants was [The Principles for Digital Development](https://digitalprinciples.org/).
+Given the diversity of digital applications for resilience and food security programming , the training delivered sessions on a wide variety of digital tools, ranging from communication technologies and hardware to sensors and precision agriculture, blockchain, and AI. Personally, I consider the latter of these topics to be the most exciting; however, to my surprise, as the training progressed it became clear that the topic of most interest to participants was [The Principles for Digital Development](https://digitalprinciples.org/).
 
 ![APoll.jpg](/uploads/APoll.jpg)`Live polling from the final day of the training highlighted the strong resonance of the Digital Principles.`
 
