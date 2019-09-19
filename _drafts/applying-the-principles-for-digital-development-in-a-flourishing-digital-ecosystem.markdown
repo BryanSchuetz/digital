@@ -19,14 +19,20 @@ Kenya’s agriculture sector is leading the region in digital innovation. In fac
 Some of the agricultural digital innovations highlighted by the training participants included:
 
 * [Twiga](https://twiga.ke/): a mobile app enabling linkages between farmers and vendors
+
 * [Tulaa](https://disrupt-africa.com/2018/08/meet-recently-funded-kenyan-agri-tech-startup-tulaa/): a mobile money solution that allows farmers to access inputs, credit, and markets
+
 * [Pula](https://www.pula-advisors.com/): a technology-driven agriculture insurance offering
+
 * [aWhere](http://www.awhere.com/): an AI-supported platform for real-time weather data to reduce the risks associated with agricultural practices
+
 * [DigiFarm](https://www.mezzanineware.com/digifarm): a consumer-facing mobile app providing an agribusiness solution for smallholder farmers to buy inputs and access finance, and agrilearning content
+
 * [WeFarm](https://wefarm.co/): the world’s largest farmer-to-farmer digital network
+
 * [The Talking Book:](https://www.amplio.org/amplio-solution/) engaging, culturally relevant audio content delivered through low-tech audio devices
 
-Given the diversity of digital applications for agriculture, the training delivered sessions on a wide variety of digital tools, ranging from communication technologies and hardware to sensors and precision agriculture, blockchain, and AI. Personally, I consider the latter of these topics to be the most exciting; however, to my surprise, as the training progressed it became clear that the topic of most interest to participants was [The Principles for Digital Development](https://digitalprinciples.org/).
+Given the diversity of digital applications for resilience and food security programming , the training delivered sessions on a wide variety of digital tools, ranging from communication technologies and hardware to sensors and precision agriculture, blockchain, and AI. Personally, I consider the latter of these topics to be the most exciting; however, to my surprise, as the training progressed it became clear that the topic of most interest to participants was [The Principles for Digital Development](https://digitalprinciples.org/).
 
 ![APoll.jpg](/uploads/APoll.jpg)`Live polling from the final day of the training highlighted the strong resonance of the Digital Principles.`
 
@@ -35,13 +41,21 @@ Given the diversity of digital applications for agriculture, the training delive
 The [Principles for Digital Development](https://digitalprinciples.org/) are nine living guidelines designed to help development practitioners integrate best practices into technology-enabled programs. They are:
 
 1. Design with the user
+
 2. Understanding the existing ecosystem
+
 3. Design for scale
+
 4. Build for sustainability
+
 5. Be data-driven
+
 6. Use open standards, open data, open source, and open innovation
+
 7. Reuse and improve
+
 8. Address privacy and security
+
 9. Be collaborative
 
 ## Practice, Practice, Practice
