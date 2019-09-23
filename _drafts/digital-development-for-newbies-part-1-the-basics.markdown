@@ -21,7 +21,7 @@ Digital technology is more integrated into our daily lives than we ever expected
 While you or I may never understand the mathematics behind machine learning algorithms or program a [remote sensor for flood early warning detection](https://www.dai.com/our-work/solutions/dai-maker-lab), I have quickly come to understand that at its core, digital development is just that. Development. While the tools and their applications are ever-changing, the objectives and core principles are the same.
 
 ![principles image.png](/uploads/principles%20image.png)
-*Source: https://digitalprinciples.org/*
+`Source: https://digitalprinciples.org`
 
 The nine [Principles for Digital Development](https://digitalprinciples.org/) (or [ten](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html), as my colleagues posit) represent not only best practices for technology-enabled programs, but arguably for all development programs. Let’s look at a few examples.
 
