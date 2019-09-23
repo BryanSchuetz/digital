@@ -6,6 +6,7 @@ tags:
 - Digital Principles
 Author: Addie Ryan
 social-image: "/uploads/thumbnail_EYE_back_view_2017-3272b0.jpg"
+thumbnail: "/uploads/thumbnail_EYE_back_view_2017-3272b0.jpg"
 ---
 
 I joined DAI’s Center for Digital Acceleration (CDA) several months ago as an international development professional: familiar with ADS 302, Geo Code 937, Form AID 1420-17 and a dizzying number of acronyms, but a newcomer to the language of tech trends, digital buzzwords, and product design. I found the CDA team to be both inspiring and daunting, boasting individuals with unique expertise and passions – whether [cybersecurity](https://dai-global-digital.com/tags/?tag=cyber-security-series), [human-centered design](https://dai-global-digital.com/tags/?tag=human-centered-design), [remote sensing](https://dai-global-digital.com/tags/?tag=remote-sensing-series), [blockchain](https://dai-global-digital.com/tags/?tag=blockchain-serieshttps://dai-global-digital.com/tags/?tag=blockchain-series), or [IoT](https://dai-global-digital.com/what-good-is-the-internet-of-things-to-people-who-dont-have-internet.html). As a neophyte, it’s easy to be overwhelmed by what you don’t know in the seemingly limitless world of digital technology but I'm here to help! If you, too, are new to this sphere, what do you need to know to integrate digital tools into your development programs or proposals? Below are some key points to get you started.
