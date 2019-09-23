@@ -4,6 +4,7 @@ date: 2019-09-23 08:57:00 -04:00
 tags:
 - Think Piece
 - Digital Principles
+Author: Addie Ryan
 ---
 
 I joined DAI’s Center for Digital Acceleration (CDA) several months ago as an international development professional: familiar with ADS 302, Geo Code 937, Form AID 1420-17 and a dizzying number of acronyms, but a newcomer to the language of tech trends, digital buzzwords and product design. I found the CDA team to be both inspiring and daunting, boasting individuals with unique expertise and passions – whether cybersecurity, human-centered design, remote sensing, blockchain, or IoT. As a neophyte, it’s easy to be overwhelmed by what you don’t know in the seemingly limitless world of digital technology, but I’m here to help! If you, too, are new to this sphere, what do you need to know to integrate digital tools into your development programs or proposals? Below are some key points to get you started.
