@@ -30,7 +30,7 @@ The nine [Principles for Digital Development](https://digitalprinciples.org/) (o
 
 * *Understanding the Existing Ecosystem* – How many times have you seen a project whose scope of work is ungrounded in the realities of the community or intended beneficiaries? A successful approach copied and pasted from one location does not guarantee success in another. This principle is also integrated into the co-creation and user-centered design approaches mentioned above.
 
-* *Build for Sustainability* – How many times have you seen a project’s impact stop when donor funding concludes? USAID’s emphasis on the [Journey to Self-Reliance](https://www.usaid.gov/selfreliance) highlights the importance of supporting locally-sustainable approaches to tackling development challenges.
+* *Build for Sustainability* –  Too many projects do not have a sustainability plan after program funding ends. USAID’s emphasis on the [Journey to Self-Reliance](https://www.usaid.gov/selfreliance) highlights the importance of supporting locally-sustainable approaches to tackling development challenges.
 
 # 3. Local Ownership is Key
 
