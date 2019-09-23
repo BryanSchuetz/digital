@@ -8,7 +8,9 @@ Author: Addie Ryan
 ---
 
 I joined DAI’s Center for Digital Acceleration (CDA) several months ago as an international development professional: familiar with ADS 302, Geo Code 937, Form AID 1420-17 and a dizzying number of acronyms, but a newcomer to the language of tech trends, digital buzzwords and product design. I found the CDA team to be both inspiring and daunting, boasting individuals with unique expertise and passions – whether cybersecurity, human-centered design, remote sensing, blockchain, or IoT. As a neophyte, it’s easy to be overwhelmed by what you don’t know in the seemingly limitless world of digital technology, but I’m here to help! If you, too, are new to this sphere, what do you need to know to integrate digital tools into your development programs or proposals? Below are some key points to get you started.
-<!--more--> 
+
+<!--more-->
+
 ## 1. Digital is the new normal.
 
 Digital technology is more integrated into our daily lives than we ever expected and sometimes even realize, continually transforming how we communicate, shop, access entertainment, and pay for things both online and in person. As our daily lives move ever closer to Jetsons-level technological integration, so too should our development programming. Now, not every country or community interacts with technology the same way we do – for example, Kenya’s flourishing digital ecosystem is quite different from Pakistan’s – so understanding context is critical (more on that below). The potential applications for international development are truly limitless. Accept it. Embrace it. Contextualize it.
