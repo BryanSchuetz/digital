@@ -31,12 +31,11 @@ The nine [Principles for Digital Development](https://digitalprinciples.org/) (o
 
 # 3. Local Ownership is Key
 
-A digital solution, like any solution, is most effective with local stakeholder engagement and ownership. So before integrating digital technology into your programming, first ask: Who are the local stakeholders that will benefit or be affected by this solution? Who are the leaders in the community, both formal and informal, that could facilitate or hinder its effectiveness? Identify these stakeholders, understand their needs, and bring them into the design and planning phase as early as possible. Then continue to consult with them throughout the design, development and dissemination phases of the project.
+A digital solution, like any solution, is most effective with local stakeholder engagement and ownership. So before integrating digital technology into your programming, first ask: Who are the local stakeholders that will benefit or be affected by this solution? Who are the leaders in the community, both formal and informal, that could facilitate or hinder its effectiveness? Identify these stakeholders, understand their needs, and bring them into the design and planning phase as early as possible. Then continue to consult with them throughout the design, development, and dissemination phases of the project.
 
 These stakeholders will be key in:
 
 * Helping you understand existing systems and processes, think through interoperability, and coordinate access to necessary data or coding
-
 * Ground-truthing your assumptions
 * Championing and facilitating the project from the inside (e.g. navigating government bureaucracies or community hierarchies)
 * Planning for sustainability
