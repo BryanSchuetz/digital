@@ -14,11 +14,11 @@ I joined DAI’s Center for Digital Acceleration (CDA) several months ago as an 
 
 <!--more-->
 
-# 1. Digital is the New Normal
+## 1. Digital is the New Normal
 
 Digital technology is more integrated into our daily lives than we ever expected and sometimes even realize, continually transforming how we communicate, shop, access entertainment, and pay for things both online and in person. As our daily lives move ever closer to [Jetsons](https://www.digitaltrends.com/home/evaluating-smart-home-technology-from-the-jetsons/)-level technological integration, so too should our international development programming. Now, not every country or community interacts with technology in the same way—for example, [Kenya’s flourishing digital ecosystem](https://dai-global-digital.com/applying-the-principles-for-digital-development-in-a-flourishing-digital-ecosystem.html) differs from [Pakistan’s](https://www.weforum.org/agenda/2018/11/pakistan-s-digital-revolution-is-happening-faster-than-you-think/)—so understanding context is critical (more on that below). But the potential applications for international development are truly limitless. Accept it. Embrace it. Contextualize it.
 
-# 2. Digital Development Principles are Development Principles
+## 2. Digital Development Principles are Development Principles
 
 While you or I may never understand the mathematics behind machine-learning algorithms or program a [remote sensor for flood early warning detection](https://www.dai.com/our-work/solutions/dai-maker-lab), I have quickly come to understand that at its core, digital development is just that. Development. While the tools and their applications are ever-changing, the objectives and core principles are the same.
 
@@ -30,7 +30,7 @@ The nine [Principles for Digital Development](https://digitalprinciples.org/) (o
 * *Understanding the Existing Ecosystem*—How many times have you seen a project whose scope of work is ungrounded in the realities of the community or intended beneficiaries? A successful approach copied and pasted from one location does not guarantee success in another. This principle is also integrated into the co-creation and user-centered design approaches mentioned above.
 * *Build for Sustainability*—Too many projects do not have a sustainability plan after program funding ends. USAID’s emphasis on the [Journey to Self-Reliance](https://www.usaid.gov/selfreliance) highlights the importance of supporting locally sustainable approaches to tackling development challenges. The digital development community learned the importance of this after a phase of "pilotitis" (a malady the community is working to prevent by adhering to yet another digital principle, *Build for Scale)*.
 
-# 3. Local Ownership is Key
+## 3. Local Ownership is Key
 
 A digital solution, like any solution, is most effective with local stakeholder engagement and ownership. So before integrating digital technology into your programming, first ask: Who are the local stakeholders that will benefit or be affected by this solution? Who are the leaders in the community, both formal and informal, that could facilitate or hinder its effectiveness? Identify these stakeholders, understand their needs, and bring them into the design and planning phase as early as possible. Then continue to consult with them throughout the design, development, and dissemination phases of the project.
 
