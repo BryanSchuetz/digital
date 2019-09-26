@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Sep 2019 08:36:05 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Sep 2019 08:36:05 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Sep 2019 08:12:56 -0400</pubDate>
+    <lastBuildDate>Thu, 26 Sep 2019 08:12:56 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/thumbnail_EYE_back_view_2017-3272b0.jpg" medium="image" /> 
+        <title>Digital Development for Newbies, Part 1: The Basics</title>
+        <description>&lt;p&gt;I joined DAI’s Center for Digital Acceleration (CDA) several months ago as an international development professional: familiar with ADS 302, Geo Code 937, Form AID 1420-17, among other industry acronyms, but a newcomer to the language of tech trends, digital buzzwords, and product design. I found the CDA team to be both inspiring and daunting, boasting individuals with unique expertise and passions—whether &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=cyber-security-series&quot;&gt;cybersecurity&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=human-centered-design&quot;&gt;human-centered design&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=remote-sensing-series&quot;&gt;remote sensing&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=blockchain-serieshttps://dai-global-digital.com/tags/?tag=blockchain-series&quot;&gt;blockchain&lt;/a&gt;, or the &lt;a href=&quot;https://dai-global-digital.com/what-good-is-the-internet-of-things-to-people-who-dont-have-internet.html&quot;&gt;Internet of Things&lt;/a&gt;. As a neophyte, it’s easy to be overwhelmed by what you don’t know in the seemingly limitless world of digital technology but I’m here to help! If you, too, are new to this sphere, what do you need to know to integrate digital tools into your development programs or proposals? Below are some key points to get you started.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Sep 2019 07:00:00 -0400</pubDate>
+        <author>Addie Ryan
+</author>
+        <link>https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Digital Principles</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/ActivityKenya.jpg" medium="image" /> 
@@ -178,25 +197,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html</guid>
         
         <category>Digital Identity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/cs1-9318e9.jpg" medium="image" /> 
-        <title>Карти, гроші, VPN: кібербезпекові реалії в Україні</title>
-        <description>&lt;p&gt;&lt;em&gt;Read this blog in &lt;a href=&quot;https://dai-global-digital.com/cybersecurity-lessons-from-ukraine.html&quot;&gt;English&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Cупротив та неузгодженість — напевне, той асоціативний ряд, який спадає на думку, коли уявляємо, що в одній кімнаті мають зустрітися державні управлінці, громадський сектор та представники бізнесу для обговорення тонкощів кібербезпеки. Проте, на Cyber Security Day - серії подій, які команда SocialBoost нещодавно організувала з новим партнером DAI, нам вдалося досягти абсолютно іншого ефекту.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 01 Aug 2019 07:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a> and <a href="https://ua.linkedin.com/in/denisgursky">Denis Gursky</a>
-</author>
-        <link>https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/uroki-kibierbiezpieki-z-ukrayini.html</guid>
-        
-        <category>Cybersecurity</category>
         
         
       </item>
