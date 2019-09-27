@@ -5,7 +5,7 @@ tags:
 - Think Piece
 - Digital Principles
 Author: Addie Ryan
-social-image: "/uploads/thumbnail_EYE_back_view_2017-3272b0.jpg"
+social-image: "/uploads/phone%20image%202.jpg"
 thumbnail: "/uploads/thumbnail_EYE_back_view_2017-3272b0.jpg"
 ---
 
