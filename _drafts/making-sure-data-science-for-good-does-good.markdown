@@ -1,6 +1,6 @@
 ---
 title: Making Sure Data Science For Good Does Good
-date: 2019-10-01 11:35:00 -04:00
+date: 2019-10-03 06:00:00 -04:00
 tags:
 - Data
 - Machine Learning
@@ -40,4 +40,4 @@ In a world where [women and girls are underrepresented in STEM ](https://www.sta
 
 An equal representation of genders not only empowers a historically marginalized community, but it brings a more diverse set of opinions and voices into an inherently biased field of study. Data science tools take on the assumptions and beliefs of those who create and work with them. This means that more diverse data science talent will provide more comprehensive and useful solutions to the health issues of the world.
 
-Machine learning, artificial intelligence, and deep learning are hot topics in healthcare. Nevertheless, to date, there have been few successful applications of tools on a large scale anywhere around the world. Sometimes it’s because the available data is insufficient. Sometimes it’s because the algorithms aren’t accurate. In this case, however, the technical aspect is not the only component for measuring success. The other is accessibility and inclusivity. This initiative can only succeed if it take steps to represent **all **people in its work. Without it, we are left with biased data science tools that only augment health inequalities and outcomes. With these questions and concerns in mind, we are excited to follow and contribute in our own way to the Rockefeller Foundation’s 2030 goals.
+Machine learning, artificial intelligence, and deep learning are hot topics in healthcare. Nevertheless, to date, there have been few successful applications of tools on a large scale anywhere around the world. Sometimes it’s because the available data is insufficient. Sometimes it’s because the algorithms aren’t accurate. In this case, however, the technical aspect is not the only component for measuring success. The other is accessibility and inclusivity. This initiative can only succeed if it take steps to represent \*\*all \*\*people in its work. Without it, we are left with biased data science tools that only augment health inequalities and outcomes. With these questions and concerns in mind, we are excited to follow and contribute in our own way to the Rockefeller Foundation’s 2030 goals.
