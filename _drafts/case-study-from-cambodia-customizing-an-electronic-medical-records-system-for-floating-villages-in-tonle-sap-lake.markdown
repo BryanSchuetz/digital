@@ -4,16 +4,23 @@ title: 'Case Study from Cambodia: Customizing an Electronic Medical Records Syst
 date: 2019-10-02 08:21:00 -04:00
 ---
 
-How do you digitize medical records in Cambodia when your clinics are on a lake, with minimal Internet connectivity, four hours away from the nearest big city? With the support of the six-year Development Innovations (DI) project funded by USAID, The Lake Clinic (TLC) set out to do just that. TLC is the only health clinic in Cambodia that provides free medical care and outreach for people living in the remote floating villages on Tonle Sap Lake. Every week, TLC staff travel four hours from the head office in Siem Reap City to the floating clinics, where they serve approximately 50-60 patients per day.
+How do you digitize medical records in Cambodia when your clinics are on a lake, with minimal Internet connectivity, four hours away from the nearest big city? With the support of the six-year Development Innovations (DI) project funded by USAID, The Lake Clinic (TLC) set out to do just that. TLC is the only health clinic in Cambodia that provides free medical care and outreach for people living in the remote floating villages on Tonle Sap Lake. Every week, TLC staff travel four hours from the head office in Siem Reap City to the floating clinics, where they serve approximately 50-60 patients per day.![TLC pic 1.png](/uploads/TLC%20pic%201.png)
+
+*TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim*
 
 Before they started to work with DI in 2016, TLC used a paper-based system to manage and maintain patient information, including records of outpatient and inpatient services. This undermined the efficiency of TLC’s healthcare service delivery: natural disaster, humidity, fire, and insects could damage the records, plus handwriting and organizing notes took clinicians away their patients.
+
+
 To digitize their patient management system, TLC partnered with a technology service provider, Mekom Solutions, with funding support from DI. TLC and Mekom Solutions customized a free and secure open source system called Open Medical Record System (OpenMRS).
 
 To customize OpenMRS for their needs, TLC worked with a wide variety of stakeholders to provide technical inputs (like on clinical informatics), including several local and international healthcare professionals, other international development implementers, and – most critically – a ICT Coordinator, otherwise known as a “tech whisperer.” This ICT Coordinator helped TLC communicate with Mekom Solutions’ developers about the clinicians’ requirements for the OpenMRS, essentially ‘translating’ between the medical professionals at TLC and the technology professionals at Mekom Solutions.
 
 After extensive user testing with TLC staff in the floating clinics and several rounds of iteration on this tech tool, TLC and Mekom Solutions built an OpenMRS platform with simple user interface that captures even more information than their paper-based system ever had. Instead of offline functionality – which was tried and tested during the iteration phase – TLC’s OpenMRS system uses mobile hotspots to connect to the internet and upload the patient records.
-Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used the system to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients with 11,000 visits and 28,000 cases.  Clinicians report saving at least 5-10 minutes were saved per patient with OpenMRS.
 
+
+Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used the system to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients with 11,000 visits and 28,000 cases.  Clinicians report saving at least 5-10 minutes were saved per patient with OpenMRS.![TLC pic 2.png](/uploads/TLC%20pic%202.png)
+
+*TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim*
 
 So, what did the DI team learn from its experience with TLC?
 
