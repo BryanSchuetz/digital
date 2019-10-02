@@ -9,7 +9,7 @@ social-image: "/uploads/artificial-intelligence-3382507_640.jpg"
 thumbnail: "/uploads/artificial-intelligence-3382507_640.jpg"
 ---
 
-Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announced a $100 million [Precision Public Health initiative](https://www.rockefellerfoundation.org/about-us/news-media/using-data-save-lives-rockefeller-foundation-partners-launch-100-million-precision-public-health-initiative/) to integrate data analytics and data science tools like machine learning into the community health systems of low- and middle-income countries. During the announcement, the Foundation  noted the significant impact  of data science innovations in the most privileged communities  and explained their hope to replicate this to improve healthcare for people globally. A main goal of this initiative is to save  at least 6 million women and children’s lives by 2030.
+Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announced a $100 million [Precision Public Health initiative](https://www.rockefellerfoundation.org/about-us/news-media/using-data-save-lives-rockefeller-foundation-partners-launch-100-million-precision-public-health-initiative/) to integrate data analytics and data science tools such as machine learning into the community health systems of low- and middle-income countries. During the announcement, Rockefeller noted the significant impact of data science innovations in the most privileged communities, explaining its hope to replicate this effect to improve healthcare for people globally. The initiative aims to save at least 6 million women and children’s lives by 2030.
 
 <!--more-->
 
