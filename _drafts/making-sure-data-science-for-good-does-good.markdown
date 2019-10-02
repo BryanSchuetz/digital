@@ -13,15 +13,13 @@ Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announce
 
 <!--more-->
 
-The task is not an easy one. And there are [three key challenges](https://assets.rockefellerfoundation.org/app/uploads/20190925102123/Precision-Public-Health-Overview.pdf) anticipated over the next 10 years:
+The task is not an easy one. There are [three key challenges](https://assets.rockefellerfoundation.org/app/uploads/20190925102123/Precision-Public-Health-Overview.pdf) anticipated over the next 10 years:
 
 1. Low availability of high-quality data
-
 2. Lack of responsible data use policies
-
 3. Deficiency of trained human resources
 
-As the specific details of the initiative become available in the coming months and years, we at DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) always keep an eye on these initiatives to see what concrete solutions emerge. We have several questions regarding the future of this initiative, building off the gaps that the foundation has identified:
+As the specific details of the initiative become available in the coming months and years, we at DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) always keep an eye on these efforts to see what concrete solutions emerge. We have several questions regarding the future of this initiative, building off the gaps that the foundation has identified:
 
 **1. How will the initiative ensure that the most marginalized individuals and communities are represented in the data?**
 
