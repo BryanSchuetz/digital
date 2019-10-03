@@ -1,4 +1,14 @@
 
+- title: "Making Sure Data Science For Good Does Good"
+  pub: "Digital"
+  date: 2019-10-03
+  link: "https://dai-global-digital.com/making-sure-data-science-for-good-does-good.html?utm_source=daidotcom"
+  summary: "Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announced a $100 million Precision Public Health initiative to integrate data analytics and data science tools such as machine learning into the community health systems of low- and middle-income countries. During the announcement, Rockefeller noted the significant impact of data science innovations in the most privileged communities, explaining its hope to replicate this effect to improve healthcare for people globally. The initiative aims to save at least 6 million women and children’s lives by 2030."
+  tags:
+    - digital acceleration 
+    - Data 
+    - Machine Learning 
+
 - title: "Digital Development for Newbies, Part 1: The Basics"
   pub: "Digital"
   date: 2019-09-26
@@ -228,13 +238,4 @@ We list a number of ways in which bias can manifest in digital identities to kic
     - Digital Identity Series 
     - Digital Inclusion 
     - Privacy 
-
-- title: "Changes in Open-Data Policy in Global Development are a Game Changer"
-  pub: "Digital"
-  date: 2019-07-03
-  link: "https://dai-global-digital.com/changes-in-open-data-policy-in-global-development-are-a-game-changer.html?utm_source=daidotcom"
-  summary: "You saw it coming. You’ve been collecting geospatial data on your projects for years. Maybe uploading it to a faraway server or sharing it with local partners…or stashing it away on your laptop or external hard drive. But no one else was ever able to use it. And you were sort of irritated that you had to ask a million people for the same data every time you started a new development project in a different country."
-  tags:
-    - digital acceleration 
-    - Data 
 

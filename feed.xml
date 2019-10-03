@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Oct 2019 12:02:04 -0400</pubDate>
-    <lastBuildDate>Wed, 02 Oct 2019 12:02:04 -0400</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2019 09:36:35 -0400</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2019 09:36:35 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/artificial-intelligence-3382507_640.jpg" medium="image" /> 
+        <title>Making Sure Data Science For Good Does Good</title>
+        <description>&lt;p&gt;Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announced a $100 million &lt;a href=&quot;https://www.rockefellerfoundation.org/about-us/news-media/using-data-save-lives-rockefeller-foundation-partners-launch-100-million-precision-public-health-initiative/&quot;&gt;Precision Public Health initiative&lt;/a&gt; to integrate data analytics and data science tools such as machine learning into the community health systems of low- and middle-income countries. During the announcement, Rockefeller noted the significant impact of data science innovations in the most privileged communities, explaining its hope to replicate this effect to improve healthcare for people globally. The initiative aims to save at least 6 million women and children’s lives by 2030.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Oct 2019 06:00:00 -0400</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/making-sure-data-science-for-good-does-good.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/making-sure-data-science-for-good-does-good.html</guid>
+        
+        <category>Data</category>
+        
+        <category>Machine Learning</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/phone%20image%202.jpg" medium="image" /> 
@@ -176,27 +195,6 @@
         <category>Cybersecurity</category>
         
         <category>Global Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/digital-identity-usaid.png" medium="image" /> 
-        <title>New USAID Guide: How to Create Digital ID for Inclusive Development</title>
-        <description>&lt;p&gt;&lt;em&gt;Access the U.S. Agency for International Development (USAID)’s new &lt;a href=&quot;https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.usaid.gov%2Fdigital-development%2Fdigital-id%2Fhow-to-guide&amp;amp;data=01%7C01%7CStephanie_Creed%40dai.com%7C1f9cda42f7114bd429d508d71147871e%7C7107113de20b4c20a4ce553cabbf686d%7C0&amp;amp;sdata=hn%2F6OZETU58OZUX59RCvfLdR8UywARdX66Or14vgUok%3D&amp;amp;reserved=0&quot;&gt;Guide to Creating Digital ID for Inclusive Development&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Identity is deeply personal. Issues of identity are complex and tied up with power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer programs, yet today we find that nearly 1 billion people still lack representative identification.&lt;/p&gt;
-
-&lt;p&gt;USAID’s 2017 report &lt;em&gt;&lt;a href=&quot;https://www.usaid.gov/sites/default/files/documents/15396/IDENTITY_IN_A_DIGITAL_AGE.pdf&quot;&gt;Identity in a Digital Age: Infrastructure for Inclusive Development&lt;/a&gt;&lt;/em&gt; documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multipurpose ID to everyone, which is key to economic and social development.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 06 Aug 2019 08:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/chrissiy/">Chrissy Martin Meier</a> and <a href="https://www.linkedin.com/in/shachee-doshi-47358a56/">Shachee Doshi</a>
-</author>
-        <link>https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html</guid>
-        
-        <category>Digital Identity</category>
         
         
       </item>
