@@ -26,7 +26,7 @@ After extensive user testing with TLC staff in the floating clinics and several 
 
 Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used the system to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients with 11,000 visits and 28,000 cases.  Clinicians report saving at least 5-10 minutes were saved per patient with OpenMRS.![TLC pic 2.png](/uploads/TLC%20pic%202.png)
 
-*TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim*
+`TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim`
 
 So, what did the DI team learn from its experience with TLC?
 
