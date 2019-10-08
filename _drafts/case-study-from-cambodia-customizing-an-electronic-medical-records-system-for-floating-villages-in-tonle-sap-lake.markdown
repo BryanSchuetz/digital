@@ -1,8 +1,9 @@
 ---
 title: 'Case Study from Cambodia: Customizing an Electronic Medical Record System
   for Floating Villages in Tonle Sap Lake'
-date: 2019-10-02 08:21:00 -04:00
-Author: Inta Plostins
+date: 2019-10-10 06:00:00 -04:00
+Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) and [Inta
+  Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
 ---
 
 How do you digitize medical records in Cambodia when [your clinics are on a lake](https://www.youtube.com/watch?v=5DRZBiE6BTE), have minimal Internet connectivity, and are four hours away from the nearest big city? Impossible, you say?? Not quite. Let me introduce you to [the Lake Clinic](https://www.lakeclinic.org/) (TLC), a health clinic working to solve this complex challenge with the support of the six-year, USAID-funded [Development Innovations (DI)](https://www.development-innovations.org) project. TLC is the only health clinic in Cambodia that provides free medical care and outreach to people living in the remote floating villages on Tonle Sap Lake. 
