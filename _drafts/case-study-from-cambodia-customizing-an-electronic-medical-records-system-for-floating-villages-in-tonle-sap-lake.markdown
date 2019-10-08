@@ -1,8 +1,7 @@
 ---
 title: Building Digital Medical Records for Floating Villages in Cambodia
 date: 2019-10-10 06:00:00 -04:00
-Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) and [Inta
-  Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
+Author: "[Setha Rath](https://www.linkedin.com/in/setha-rath/)"
 social-image: "/uploads/TLC%20pic%201.png"
 thumbnail: "/uploads/TLC%20pic%201.png"
 ---
@@ -17,9 +16,7 @@ TLC is the only health clinic in Cambodia that provides free medical care and ou
 
 `TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim`
 
-So where to start? Unsurprisingly, finding strong partners is essential. To digitize their patient management system, TLC partnered with a technology service provider, Mekom Solutions, with funding support from DI. TLC and [Mekom Solutions](https://mekomsolutions.com/) worked together to customize a free and secure open source system called [Open Medical Record System (OpenMRS).](https://openmrs.org/)
-
-To customize OpenMRS for their needs, TLC worked with a wide variety of stakeholders to provide technical inputs (like on clinical informatics), including several local and international healthcare professionals, other international development implementers, and – most critically – a ICT Coordinator, otherwise known as a “tech whisperer.” This ICT Coordinator helped TLC communicate with Mekom Solutions’ developers about the clinicians’ requirements for the OpenMRS, essentially ‘translating’ between the medical professionals at TLC and the technology professionals at Mekom Solutions.
+So where to start? Unsurprisingly, finding strong partners was essential. TLC partnered with a technology service provider, Mekom Solutions, with funding support from DI, to digitize their patient management system. TLC and [Mekom Solutions](https://mekomsolutions.com/) worked together to customize a free and secure open source system called [Open Medical Record System (OpenMRS).](https://openmrs.org/)TLC worked with a wide variety of stakeholders to provide technical inputs (like on clinical informatics), including several local and international healthcare professionals, other international development implementers, and – most critically – a ICT Coordinator, otherwise known as a “tech whisperer.” This ICT Coordinator helped TLC communicate with Mekom Solutions’ developers about the clinicians’ requirements for the OpenMRS, essentially ‘translating’ between the medical professionals at TLC and the technology professionals at Mekom Solutions.
 
 After extensive user testing with TLC staff in the floating clinics and several rounds of iteration on this tech tool, TLC and Mekom Solutions built an OpenMRS platform with simple user interface that captures even more information than their paper-based system ever had. Instead of offline functionality – which was tried and tested during the iteration phase – TLC’s OpenMRS system uses mobile hotspots to connect to the internet and upload the patient records.
 
