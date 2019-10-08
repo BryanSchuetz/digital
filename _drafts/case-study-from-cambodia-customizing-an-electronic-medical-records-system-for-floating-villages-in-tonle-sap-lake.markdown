@@ -18,7 +18,7 @@ TLC is the only health clinic in Cambodia that provides free medical care and ou
 
 ![TLC pic 1.png](/uploads/TLC%20pic%201.png)
 
-`TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim`
+`Floating villages on the Tonle Sap Lake. Photo credit: USAID’s Development Innovations`
 
 So where to start? Unsurprisingly, finding strong partners was essential. TLC partnered with a technology service provider, [Mekom Solutions](https://mekomsolutions.com/) to digitize their patient management system with funding support from DI. They worked together to customize a free and secure open source system called [Open Medical Record System (OpenMRS)](https://openmrs.org/) with technical inputs from a wide variety of stakeholders. This included several local and international healthcare professionals, other international development implementers, and – most critically – an ICT coordinator, otherwise known as a “tech whisperer.” This tech whisperer helped TLC communicate with Mekom Solutions’ developers about the clinicians’ requirements for the OpenMRS, essentially ‘translating’ between the medical professionals at TLC and the technology professionals at Mekom Solutions.
 
