@@ -1,5 +1,5 @@
 ---
-title: Building Medical Records for Floating Villages in Cambodia
+title: Building Digital Medical Records for Floating Villages in Cambodia
 date: 2019-10-10 06:00:00 -04:00
 Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) and [Inta
   Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
