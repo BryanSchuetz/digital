@@ -20,7 +20,7 @@ So where to start? Unsurprisingly, finding strong partners was essential. TLC pa
 
 After extensive user testing with TLC staff in the floating clinics and several rounds of iteration on this tech tool, TLC and Mekom Solutions built a platform with a simple user interface that captures more useful information than their paper-based system ever did. Instead of simply having offline functionality, TLC’s OpenMRS system uses mobile hotspots to connect to the internet and upload the patient records.  Increased efficiency! Better record keeping!! 
 
-Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used the system to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients who comprise 11,000 visits and 28,000 cases.  Clinicians report saving at least 5-10 minutes per patient with OpenMRS.![TLC pic 2.png](/uploads/TLC%20pic%202.png)
+Since rolling out the customized OpenMRS platform at TLC clinics, more than 14 clinicians have used the system to deliver outpatient services across five floating clinics in eight villages in Siem Reap and Kampong Thom Province. The system has recorded more than 5,000 patients who comprise 11,000 visits and 28,000 cases.  Clinicians report that the platform saves at least 5-10 minutes of patient's time.![TLC pic 2.png](/uploads/TLC%20pic%202.png)
 
 `TLC Medical Doctor providing medical treatment using the OpenMRS Distribution for Cambodia. Photo credit: USAID’s Development Innovations/Simeng Tim`
 
