@@ -1,6 +1,5 @@
 ---
-title: 'Case Study from Cambodia: Customizing an Electronic Medical Record System
-  for Floating Villages in Tonle Sap Lake'
+title: Building Medical Records for Floating Villages in Cambodia
 date: 2019-10-10 06:00:00 -04:00
 Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) and [Inta
   Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
@@ -8,9 +7,9 @@ social-image: "/uploads/TLC%20pic%201.png"
 thumbnail: "/uploads/TLC%20pic%201.png"
 ---
 
-How do you digitize medical records in Cambodia when [your clinics are on a lake](https://www.youtube.com/watch?v=5DRZBiE6BTE), have minimal Internet connectivity, and are four hours away from the nearest big city? Impossible, you say?? Not quite. Let me introduce you to [the Lake Clinic](https://www.lakeclinic.org/) (TLC), a health clinic working to solve this complex challenge with the support of the six-year, USAID-funded [Development Innovations (DI)](https://www.development-innovations.org) project. TLC is the only health clinic in Cambodia that provides free medical care and outreach to people living in the remote floating villages on Tonle Sap Lake.
+How do you digitize medical records in Cambodia when [your clinics are on a lake](https://www.youtube.com/watch?v=5DRZBiE6BTE), have minimal Internet connectivity, and are four hours away from the nearest big city? Impossible, you say?? Not quite. Let me introduce you to [the Lake Clinic](https://www.lakeclinic.org/) (TLC), a health clinic working to solve this complex challenge with the support of the six-year, USAID-funded [Development Innovations (DI)](https://www.development-innovations.org) project.
 
-Every week, TLC staff travel four hours from their head office in Siem Reap City to the floating clinics, where they serve approximately 50-60 patients a day. Before they started to work with DI in 2016, TLC used a paper-based system to manage and maintain patient information. This left records vulnerable to damage from natural disasters, humidity, fire, and insects. And service delivery suffered, since having to write, organize and transmit handwritten notes cut into the time clinicians could have been spending with their patients. Clearly, something had to change.
+TLC is the only health clinic in Cambodia that provides free medical care and outreach to people living in the remote floating villages on Tonle Sap Lake. Every week, TLC staff travel four hours from their head office in Siem Reap City to the floating clinics, where they serve approximately 50-60 patients a day. Before they started to work with DI in 2016, TLC used a paper-based system to manage and maintain patient information. This left records vulnerable to damage from natural disasters, humidity, fire, and insects. And service delivery suffered, since having to write, organize and transmit handwritten notes cut into the time clinicians could have been spending with their patients. Clearly, something had to change.
 
 <!--more-->
 
