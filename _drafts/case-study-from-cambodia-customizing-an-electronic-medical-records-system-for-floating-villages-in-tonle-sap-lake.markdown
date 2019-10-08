@@ -1,6 +1,8 @@
 ---
 title: Building Digital Medical Records for Floating Villages in Cambodia
 date: 2019-10-10 06:00:00 -04:00
+tags:
+- Digital Health
 Author: "[Setha Rath](https://www.linkedin.com/in/setha-rath/)"
 social-image: "/uploads/TLC%20pic%201.png"
 thumbnail: "/uploads/TLC%20pic%201.png"
