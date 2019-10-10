@@ -1,4 +1,13 @@
 
+- title: "Building Digital Medical Records for Floating Villages in Cambodia"
+  pub: "Digital"
+  date: 2019-10-10
+  link: "https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html?utm_source=daidotcom"
+  summary: "How do you digitize medical records in Cambodia when your clinics are on a lake, have minimal internet connectivity, and are four hours away from the nearest big city? Impossible, you say? Not quite. Let me introduce you to the Lake Clinic (TLC), a health clinic working to solve this complex challenge with the support of the six-year, Development Innovations (DI) project, funded by the U.S. Agency for International Development."
+  tags:
+    - digital acceleration 
+    - Digital Health 
+
 - title: "Making Sure Data Science For Good Does Good"
   pub: "Digital"
   date: 2019-10-03
@@ -225,17 +234,4 @@ In this article, I’d like to outline two very different routes that organizati
     - digital acceleration 
     - Co-creation 
     - Fall Armyworm 
-
-- title: "Digital Identity Series Part 3: Barriers to Inclusion for All"
-  pub: "Digital"
-  date: 2019-07-11
-  link: "https://dai-global-digital.com/digital-identity-series-part-3-digital-identity-and-exclusion.html?utm_source=daidotcom"
-  summary: "Any ID—whether state-issued or purpose-made for services such as cash transfers—in some way reflects levels of equality, whether these are inherent in the technology or prevalent in the social ecosystem. For instance, research from the GSM Association (GSMA) in Bangladesh, Nigeria, and Rwanda showed that citizens feel that equality in national ID is important as it reflects equality in citizenship status for men and women. If a biometric-based ID card is created in a refugee camp to facilitate cash transfers, every person living in that camp can rightfully expect to be registered regardless of age, gender, or ethnicity.
-
-We list a number of ways in which bias can manifest in digital identities to kick off some discussion and move toward solutions. While reading this, I encourage you to think how we can make sure digital ID systems are inclusive."
-  tags:
-    - digital acceleration 
-    - Digital Identity Series 
-    - Digital Inclusion 
-    - Privacy 
 

@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Oct 2019 13:25:08 -0400</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2019 13:25:08 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2019 09:28:14 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2019 09:28:14 -0400</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/TLC%20pic%201.png" medium="image" /> 
+        <title>Building Digital Medical Records for Floating Villages in Cambodia</title>
+        <description>&lt;p&gt;How do you digitize medical records in Cambodia when &lt;a href=&quot;https://www.youtube.com/watch?v=5DRZBiE6BTE&quot;&gt;your clinics are on a lake&lt;/a&gt;, have minimal internet connectivity, and are four hours away from the nearest big city? Impossible, you say? Not quite. Let me introduce you to &lt;a href=&quot;https://www.lakeclinic.org/&quot;&gt;the Lake Clinic&lt;/a&gt; (TLC), a health clinic working to solve this complex challenge with the support of the six-year, &lt;a href=&quot;https://www.development-innovations.org&quot;&gt;Development Innovations (DI)&lt;/a&gt; project, funded by the U.S. Agency for International Development.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Oct 2019 06:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/setha-rath/">Setha Rath</a>
+</author>
+        <link>https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html</guid>
+        
+        <category>Digital Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/artificial-intelligence-3382507_640.jpg" medium="image" /> 
@@ -174,27 +191,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/navigating-barriers-to-digital-inclusion.html</guid>
         
         <category>Digital Gender Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/DSC_0061.JPG" medium="image" /> 
-        <title>Understanding Cybersecurity for Healthcare Professionals</title>
-        <description>&lt;p&gt;We live in exciting times. The ways in which we store and engage with health data have been transformed with the creation and adoption of digital health technology. Whether it’s using a Fitbit, accessing your vaccine records online, or virtually connecting with your doctor, understanding your health status in real time has never been easier… for some of us. We at &lt;a href=&quot;https://www.dai.com/our-work/solutions/global-health&quot;&gt;DAI Global Health&lt;/a&gt; are working tirelessly to increase access to healthcare in low- and middle-income countries by leveraging digital health technologies. The goal is to empower patients and professionals providing care to them to use data to make smart decisions.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 08 Aug 2019 07:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/rachel-clad/">Rachel Clad</a> and <a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a>
-</author>
-        <link>https://dai-global-digital.com/cybersecurity-for-health-professionals.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-for-health-professionals.html</guid>
-        
-        <category>Digital Health</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Global Health</category>
         
         
       </item>
