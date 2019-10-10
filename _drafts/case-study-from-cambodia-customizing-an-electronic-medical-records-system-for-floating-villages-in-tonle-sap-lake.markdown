@@ -40,4 +40,4 @@ This example of TLC's and Mekom's efforts to digitize medical records illustrate
 
 Download DI’s full case study [here](https://www.development-innovations.org/wp-content/uploads/2019/09/TLC-Case-Study.pdf).
 
-*Setha Rath is a lead for Grab for Business based in Phnom Penh, Cambodia. She served as a senior innovations program manager from 2018 to 2019 on the USAID-funded Development Innovations Project. She holds a master's degree in development studies with a focus on gender and development from the University of Melbourne. *
+*Setha Rath is a lead for Grab for Business based in Phnom Penh, Cambodia. She served as a senior innovations program manager from 2018 to 2019 on the USAID-funded Development Innovations Project. She holds a master's degree in development studies with a focus on gender and development from the University of Melbourne.*
