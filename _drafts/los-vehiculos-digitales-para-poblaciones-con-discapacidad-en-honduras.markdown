@@ -43,7 +43,7 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
-* Sólo el 35% conoce la ley de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25%) e intelectual (14%) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50%) y visual (55%) fueron las más consientes.
+* **Sólo el 35% conoce la ley** de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25%) e intelectual (14%) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50%) y visual (55%) fueron las más consientes.
 * Sólo el 24% considera que, como persona con discapacidad, el gobierno y las empresas los respetan, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41%) e intelectual (44%) reportaron la mayor percepción de respeto.
 * Las personas con discapacidades físicas (13%), psicosociales (13%) y visuales (8%) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
 
