@@ -25,26 +25,26 @@ Entre diciembre de 2018 y enero de 2019, la actividad de [Justicia, Derechos Hum
 
 Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más importantes se encontró que:
 
-* En general, el 85% tiene algún teléfono móvil, lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7%](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND) cuenta con un Smartphone.
+* **En general, el 85% tiene algún teléfono móvil**, lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7%](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND) cuenta con un Smartphone.
 
-* El 85% de los usuarios de teléfonos tienen un Android, el 14% tiene un teléfono básico y el 8% tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
+* **El 85% de los usuarios de teléfonos tienen un Android**, el 14% tiene un teléfono básico y el 8% tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
 
-* Las personas con discapacidad auditiva usan teléfonos inteligentes (95%) a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82%), físico (78%), psicosocial (73> %), intelectual (67%) y amputados (65%).
+* **Las personas con discapacidad auditiva usan teléfonos inteligentes (95%)** a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82%), físico (78%), psicosocial (73> %), intelectual (67%) y amputados (65%).
 
 * Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50%), seguidas de las personas con discapacidades múltiples (12%).
 
-* La gran mayoría no comparte su teléfono, aunque las personas con bajos niveles de educación tienden a compartir y pedir prestado sus teléfonos a una tasa más alta que el promedio.
+* **La gran mayoría no comparte su teléfono**, aunque las personas con bajos niveles de educación tienden a compartir y pedir prestado sus teléfonos a una tasa más alta que el promedio.
 
 * La probabilidad de tener un móvil cae después de los 50 años en todos los grupos demográficos (no es de extrañar, pero es útil saber la edad específica).
 
-* Las aplicaciones que más utiliza esta población es el Facebook, WhatsApp y Messenger además de aplicaciones de apoyo específicas a su discapacidad.
+* Las aplicaciones que más utiliza esta población es el **Facebook, WhatsApp y Messenger** además de aplicaciones de apoyo específicas a su discapacidad.
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
 * **Sólo el 35% conoce la ley** de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25%) e intelectual (14%) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50%) y visual (55%) fueron las más consientes.
-* Sólo el 24% considera que, como persona con discapacidad, el gobierno y las empresas los respetan, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41%) e intelectual (44%) reportaron la mayor percepción de respeto.
+* **Sólo el 24% considera que, como persona con discapacidad, el gobierno y las empresas los respetan**, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41%) e intelectual (44%) reportaron la mayor percepción de respeto.
 * Las personas con discapacidades físicas (13%), psicosociales (13%) y visuales (8%) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
 
 ## Resultado de la aplicación de Frontiers Insights® a poblaciones con discapacidad
