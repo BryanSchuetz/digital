@@ -9,6 +9,7 @@ tags:
 - Honduras
 - Mobile
 Author: Alejandro Solis
+social-image: "/uploads/Imagen%201.png"
 Field name: 
 ---
 
