@@ -1,5 +1,5 @@
 ---
-title: El contexto digital para poblaciones con discapacidad en Honduras
+title: Los vehículos digitales para poblaciones con discapacidad en Honduras
 date: 2019-10-14 11:44:00 -04:00
 categories:
 - Digital Insights
@@ -38,9 +38,9 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
-* Sólo el 35% conoce la ley de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25%) e intelectual (14%) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50%) y visual (55%) fueron las más consientes.
-* Sólo el 24% considera que, como persona con discapacidad, el gobierno y las empresas los respetan, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41%) e intelectual (44%) reportaron la mayor percepción de respeto.
-* Las personas con discapacidades físicas (13%), psicosociales (13%) y visuales (8%) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
+\*Sólo el 35% conoce la ley de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25%) e intelectual (14%) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50%) y visual (55%) fueron las más consientes.
+\*Sólo el 24% considera que, como persona con discapacidad, el gobierno y las empresas los respetan, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41%) e intelectual (44%) reportaron la mayor percepción de respeto.\
+\*Las personas con discapacidades físicas (13%), psicosociales (13%) y visuales (8%) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
 
 ## Resultado de la aplicación de Frontiers Insights® a poblaciones con discapacidad
 
@@ -52,6 +52,6 @@ En cuanto al acceso a la justicia y respeto se encontró que:
 
 * El resultado afianza cualquier estrategia o acción a tomar en el proyecto Unidos por la Justicia, identificando acciones concretas basadas en la evidencia y datos colectados.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 
