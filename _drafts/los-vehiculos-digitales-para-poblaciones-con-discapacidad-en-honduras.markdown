@@ -26,7 +26,7 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 * El 85% de los usuarios de teléfonos tienen un Android, el 14% tiene un teléfono básico y el 8% tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
 
-* Las personas con discapacidad auditiva usan teléfonos inteligentes (95%) a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82%), físico (78%), psicosocial (73%), intelectual (67%) y amputados (65%).
+* Las personas con discapacidad auditiva usan teléfonos inteligentes (95%) a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82%), físico (78%), psicosocial (73> %), intelectual (67%) y amputados (65%).
 
 * Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50%), seguidas de las personas con discapacidades múltiples (12%).
 
@@ -51,3 +51,5 @@ En cuanto al acceso a la justicia y respeto se encontró que:
 * El estudio no solamente determinó el contexto digital de la población en cuestión, sino que también abarcó organizaciones y familias como medios de acceso a la justicia.
 
 * El resultado afianza cualquier estrategia o acción a tomar en el proyecto Unidos por la Justicia, identificando acciones concretas basadas en la evidencia y datos colectados.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
