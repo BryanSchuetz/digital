@@ -59,4 +59,4 @@ En cuanto al acceso a la justicia y respeto se encontró que:
 
 * El resultado afianza cualquier estrategia o acción a tomar en el proyecto Unidos por la Justicia, identificando acciones concretas basadas en la evidencia y datos colectados.
 
-> Éste estudio no hubiese sido posible, sin el apoyo del Sr. Adam Fivenson y todo el equipo de la Actividad de Justicia, Derechos Humanos y Seguridad de Honduras.
+> Éste estudio no hubiese sido posible, sin el apoyo del Sr. Adam Fivenson y todo el equipo técnico y administrativo de la Actividad de Justicia, Derechos Humanos y Seguridad de Honduras.
