@@ -24,27 +24,23 @@ Nationally, Honduras's mobile penetration levels are average, with about 50 perc
 We found that:
 
 * **85 percent own a mobile phone**, 72 percent of which are smartphones. This is high in comparison to the average in Honduras, where the mobile penetration rate is [52.7 percent](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND).
-
 * Of the people with disabilities who own a smartphone, **85 percent of them own an Android **, 14 percent own a basic phone and 8 percent own an iPhone (some had both).
 * Those interviewed with **hearing impairments use smartphones (95 percent)** at a higher rate than other groups of people with disabilities. Those with visual impairments also had a high rate of smartphone use (82 percent), followed by the physically disabled (78 percent), psychosocially disabled (73 percent), intellectually disabled (67 percent) and amputees (65 percent).
 * People with intellectual disabilities are the **most likely** **not to own a mobile phone (50 percent)**, followed by people with multiple disabilities (12 percent).
 * The vast majority of those interviewed **do not share their phone. **Although we did find that those with lower levels of education are more likely to share their phones at a higher rate than the average across Honduras. 
-* The applications that people with disabilities in Honduras **uses the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
-
+* The applications that people with disabilities in Honduras **use the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
 * The **probability of having a mobile phone falls** as people reach 50 years of age in all demographic groups.
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
 
-Through Frontiers Insights® we also found some important insights on how the disability population in Honduras understands the justices system, today. We found that:
+We also found some important insights on how the disability population in Honduras understands the justice system:
 
-* Only 35% of the people interviewed were aware of the Honduran law for people with disabilities. Awareness ranged depending on the disability the person had.  For instance, people with intellectual disabilities were the least aware of the laws that impact them directly, where as people with physical or visual disabilities were more aware.
+* Only 35 percent of the people interviewed are aware of the Honduran law for people with disabilities. Awareness ranged depending on the disability the person had. For instance, people with intellectual disabilities were the least aware of the laws that impact them directly, whereas people with physical or visual disabilities are more aware.
+* Only 24 percent of the people interviewed believe that the government and private sector respect them. Those who felt they were most respected are people who are hearing impaired (41 percent) or with an intellectual disability (44 percent).
+* In contrast, people with physical (13 percent), psychosocial (13 percent), and visual (8 percent) disabilities perceived significantly less respect for their disability in all sectors.
 
-* Only 24% of the people interviewed believe that the government and private sector respect themThose that felt they were most respected were people who are hearing impaired (41%) or with an intellectual disability (44%).
+## Results
 
-* In contrast, people with physical (13%), psychosocial (13%) and visual (8%) disabilities perceived significantly less respect for their disability in all sectors.
+Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services of the justice system. With this baseline of data, better interventions can be designed to meet the disabled community's needs. 
 
-## Result of the Frontiers Insights® in Honduras
-
-Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services like the justice system. With this baseline of data, better interventions can be designed to meet the disability community's needs. 
-
-This study would not have been possible, without the support of Adam Fivenson and the entire technical and administrative team of the USAID [Justicia, Derechos Humanos y Seguridad de Honduras](https://www.dai.com/our-work/projects/honduras-united-for-justice) project.
+This study would not have been possible without the support of Adam Fivenson and the entire technical and administrative team of the Unidos project.
