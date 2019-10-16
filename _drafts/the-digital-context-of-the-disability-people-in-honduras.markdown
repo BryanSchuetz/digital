@@ -37,6 +37,8 @@ The findings of the study highlighted what digital access looks like for this po
 * The applications that people with disabilities in Honduras **uses the most** are Facebook, WhatsApp and Messenger as well as support applications specific to their disability.
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
+
+
 From the Frontiers Insights® study we also found some important insights on how the disability population in Honduras accesses the justice system. We found that:
 
 * Only 35% of the people interviewed are aware of the Honduran law for people with disabilities. Depending on the disability this awareness ranged. For instance, people with intellectual disabilities were the least aware of the legal system at 14%. In comparison, those with physical or visual disabilities were more aware with 50% of those interviewed acknowledging that they were aware of the laws.
