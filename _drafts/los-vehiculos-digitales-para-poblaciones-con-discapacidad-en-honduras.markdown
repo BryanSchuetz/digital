@@ -27,7 +27,7 @@ La actividad de [Justicia, Derechos Humanos y Seguridad de Honduras conocida com
 
 Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más importantes se encontró que:
 
-* **En general, el 85% tiene algún teléfono móvil**, lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7%](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND) cuenta con un Smartphone.
+* **En general, el 85% tiene algún teléfono móvil**. Un 72% tiene un Smartphone lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7%](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND) cuenta con un Smartphone.
 
 * **El 85% de los usuarios de teléfonos tienen un Android**, el 14% tiene un teléfono básico y el 8% tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
 
