@@ -39,11 +39,11 @@ The findings of the study highlighted what digital access looks like for this po
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
 From the Frontiers Insights® study we also found some important insights on how the disability population in Honduras accesses the justice system. We found that:
 
-* · Only 35% of the people interviewed are aware of the Honduran law for people with disabilities. Depending on the disability this awareness ranged. For instance, people with intellectual disabilities were the least aware of the legal system at 14%. In comparison, those with physical or visual disabilities were more aware with 50% of those interviewed acknowledging that they were aware of the laws.
+* Only 35% of the people interviewed are aware of the Honduran law for people with disabilities. Depending on the disability this awareness ranged. For instance, people with intellectual disabilities were the least aware of the legal system at 14%. In comparison, those with physical or visual disabilities were more aware with 50% of those interviewed acknowledging that they were aware of the laws.
 
-· Only 24% of the people interviewed believe that the government and private sector respect them, but responses depended on the disability. Those that felt they were most respected were people who are hearing impaired (41%) or with an intellectual disability (44%).
+* Only 24% of the people interviewed believe that the government and private sector respect them, but responses depended on the disability. Those that felt they were most respected were people who are hearing impaired (41%) or with an intellectual disability (44%).
 
-· In contrast, people with physical (13%), psychosocial (13%) and visual (8%) disabilities perceived significantly less respect for their disability in all sectors.
+* In contrast, people with physical (13%), psychosocial (13%) and visual (8%) disabilities perceived significantly less respect for their disability in all sectors.
 
 ## Result of the Frontiers Insights® in Honduras
 
