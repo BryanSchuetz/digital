@@ -1,7 +1,12 @@
 ---
 title: The digital context of the disability people in Honduras
-date: 2019-10-16 11:40:00 -04:00
+date: 2019-10-17 06:00:00 -04:00
+tags:
+- Digital Inclusion
+- Digital Insights
 Author: Alejandro Solis
+social-image: "/uploads/Imagen%201.png"
+thumbnail: "/uploads/Imagen%201.png"
 ---
 
 The number of people with a disability in Latin America and the Caribbean between 2001-2013 was estimated at more than [70 million](https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211) (or 12.5% ​​of the total regional population, 12.6% of the population from Latin America and 6.1% of the Caribbean countries).

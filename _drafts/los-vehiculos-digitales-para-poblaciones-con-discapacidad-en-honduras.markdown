@@ -1,15 +1,12 @@
 ---
 title: El contexto digital de la población con discapacidad en Honduras
-date: 2019-10-14 11:44:00 -04:00
-categories:
-- Digital Insights
+date: 2019-10-17 06:00:00 -04:00
 tags:
 - Digital Insights
 - Digital Inclusion
-- Honduras
-- Mobile
 Author: Alejandro Solis
 social-image: "/uploads/Imagen%201.png"
+thumbnail: "/uploads/Imagen%201.png"
 Field name: 
 ---
 
