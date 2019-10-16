@@ -15,12 +15,11 @@ Studies on how many disabled people live in Honduras are scarce. Results of the 
 
 The U.S. Agency for International Development-funded [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice) project is working to improve access to justice for vulnerable populations, including people with disabilities. As part of Honduras's commitment to [modernize](http://www.poderjudicial.gob.hn/transparencia/planeacion/documents/PlandeModernizaci%C3%B3nPoderJudicial200420091.pdf) its judiciary system, Unidos saw an opportunity to assess how people with disabilities currently access justice and how they might be able to use digital tools to better access the judicial system.  
 
-Nationally, Honduras's mobile penetration levels are average, with about 50% of the population owning a mobile phone. The question then was, did this number adequately reflect the level of mobile penetration in the disabled community? To find out, the project team in collaboration with DAI's Center for Digital Acceleration conducted   Frontiers Insights® a rapidly deployable, in-person research method to obtain baseline of how the disable population currently uses digital tools and services in their everyday lives. A sample of 310 people with disabilities were interviewed as part of this study. These individuals live in San Pedro Sula, Tela, and La Ceiba.
-
+Nationally, Honduras's mobile penetration levels are average, with about 50 percent of the population owning mobile phones. But how many of those phone owners are disabled? To find out, the project team, and DAI's Center for Digital Acceleration undertook a [Frontiers Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets) report to obtain a baseline of how the disabled population currently uses digital tools and services in their everyday lives. A sample of 310 people with disabilities in San Pedro Sula, Tela, and La Ceiba were interviewed as part of this study. 
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
-## More access than expected but little knowledge of the law
+## More Access than Expected but Little Knowledge of Law
 
 During the study we found some enlightening insights as to what digital tools and services the disabled population in Honduras use. We found that:
 
