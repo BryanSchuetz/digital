@@ -21,18 +21,14 @@ Nationally, Honduras's mobile penetration levels are average, with about 50 perc
 
 ## More Access than Expected but Little Knowledge of Law
 
-During the study we found some enlightening insights as to what digital tools and services the disabled population in Honduras use. We found that:
+We found that:
 
-* **85% own a mobile phone**,  72% of which are smartphones. This is high in comparison to the average in Honduras, where the mobile penetration rate is[ 52.7% ](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND).
+* **85 percent own a mobile phone**, 72 percent of which are smartphones. This is high in comparison to the average in Honduras, where the mobile penetration rate is [52.7 percent](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND).
 
-* Of the people with disabilities who owned a smartphone, **85% of them owned an Android **, 14% owned a basic phone and 8% owned an iPhone (some had both an iPhone and an Android).
-
-* Those interviewed with **hearing impairments use smartphones (95%)** at a higher rate than other groups of people with disabilities. Those with visual impairments also had a high rate of smartphone use (82%),  followed by the physically disabled (78%), psychosocially disabled (73 %), intellectually disabled (67%) and amputees (65%).
-
-* People with intellectual disabilities are the **most likely** **not to own a mobile phone (50%)**, followed by people with multiple disabilities (12%).
-
-* The vast majority of those interviewed **do not share their phone. **Although we did find that those with lower levels of  education are more likely to share their phones at a higher rate than the average across Honduras. 
-
+* Of the people with disabilities who own a smartphone, **85 percent of them own an Android **, 14 percent own a basic phone and 8 percent own an iPhone (some had both).
+* Those interviewed with **hearing impairments use smartphones (95 percent)** at a higher rate than other groups of people with disabilities. Those with visual impairments also had a high rate of smartphone use (82 percent), followed by the physically disabled (78 percent), psychosocially disabled (73 percent), intellectually disabled (67 percent) and amputees (65 percent).
+* People with intellectual disabilities are the **most likely** **not to own a mobile phone (50 percent)**, followed by people with multiple disabilities (12 percent).
+* The vast majority of those interviewed **do not share their phone. **Although we did find that those with lower levels of education are more likely to share their phones at a higher rate than the average across Honduras. 
 * The applications that people with disabilities in Honduras **uses the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
 
 * The **probability of having a mobile phone falls** as people reach 50 years of age in all demographic groups.
