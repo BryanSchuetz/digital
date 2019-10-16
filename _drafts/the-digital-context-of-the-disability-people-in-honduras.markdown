@@ -40,16 +40,16 @@ During the study we found some enlightening insights as to what digital tools an
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
 
-From the Frontiers Insights® study we also found some important insights on how the disability population in Honduras accesses the justice system. We found that:
+Through Frontiers Insights® we also found some important insights on how the disability population in Honduras understands the justices system, today. We found that:
 
-* Only 35% of the people interviewed are aware of the Honduran law for people with disabilities. Depending on the disability this awareness ranged. For instance, people with intellectual disabilities were the least aware of the legal system at 14%. In comparison, those with physical or visual disabilities were more aware with 50% of those interviewed acknowledging that they were aware of the laws.
+* Only 35% of the people interviewed were aware of the Honduran law for people with disabilities. Awareness ranged depending on the disability the person had.  For instance, people with intellectual disabilities were the least aware of the laws that impact them directly, where as people with physical or visual disabilities were more aware.
 
-* Only 24% of the people interviewed believe that the government and private sector respect them, but responses depended on the disability. Those that felt they were most respected were people who are hearing impaired (41%) or with an intellectual disability (44%).
+* Only 24% of the people interviewed believe that the government and private sector respect themThose that felt they were most respected were people who are hearing impaired (41%) or with an intellectual disability (44%).
 
 * In contrast, people with physical (13%), psychosocial (13%) and visual (8%) disabilities perceived significantly less respect for their disability in all sectors.
 
 ## Result of the Frontiers Insights® in Honduras
 
-Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services like the justice system. With this baseline of data, the United for Justice project or a future project working to increase access to any service for the disability population in Honduras.
+Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services like the justice system. With this baseline of data, better interventions can be designed to meet the disability community's needs. 
 
 This study would not have been possible, without the support of Adam Fivenson and the entire technical and administrative team of the USAID [Justicia, Derechos Humanos y Seguridad de Honduras](https://www.dai.com/our-work/projects/honduras-united-for-justice) project.
