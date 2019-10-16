@@ -16,7 +16,9 @@ In Honduras, studies on this community are scarce and limited. According to the 
 In 2009, the judiciary of that country in its modernization plan pointed out the existence of problems of [access to information](http://www.poderjudicial.gob.hn/transparencia/planeacion/documents/PlandeModernizaci%C3%B3nPoderJudicial200420091.pdf), which is concentrated in Tegucigalpa, it is indicated that there are no means to access or disseminate it, The inclusion mechanisms of disabled populations are not mentioned in this plan.
 
 The USAID [Justicia, Derechos Humanos y Seguridad de Honduras](https://www.dai.com/our-work/projects/honduras-united-for-justice) known as “United for Justice” works to improve access to justice for vulnerable populations. With the publication of a strategic plan for the government to modernize its justice system, the project saw an opportunity to study how the disabled population could leverage digital tools to facilitate access the justice system. To do this, the project began by conducting Frontiers Insights®, DAI’s Center for Digital Acceleration, to obtain baseline data of how the disable population currently uses digital tools and services in their everyday lives. A sample of 310 people with disabilities were interviewed as part of this study. These individuals live in San Pedro Sula, Tela, and La Ceiba.
-<div class="infogram-embed" data-id="59d30854-8421-4cfc-9195-87e094679b16" data-type="interactive" data-title="Discapacidad"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+
+
+<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 ## More access than expected but little knowledge of the law
 
@@ -37,8 +39,6 @@ The findings of the study highlighted what digital access looks like for this po
 * The applications that people with disabilities in Honduras **uses the most** are Facebook, WhatsApp and Messenger as well as support applications specific to their disability.
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
-
-
 From the Frontiers Insights® study we also found some important insights on how the disability population in Honduras accesses the justice system. We found that:
 
 * Only 35% of the people interviewed are aware of the Honduran law for people with disabilities. Depending on the disability this awareness ranged. For instance, people with intellectual disabilities were the least aware of the legal system at 14%. In comparison, those with physical or visual disabilities were more aware with 50% of those interviewed acknowledging that they were aware of the laws.
