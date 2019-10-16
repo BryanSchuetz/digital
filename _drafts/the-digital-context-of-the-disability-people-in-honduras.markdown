@@ -26,17 +26,17 @@ During the study we found some enlightening insights as to what digital tools an
 
 * **85% own a mobile phone**,  72% of which are smartphones. This is high in comparison to the average in Honduras, where the mobile penetration rate is[ 52.7% ](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND).
 
-* **85% of phone users own an Android smartphone**, 14% have a basic phone and 8% have an iPhone (some have both an iPhone and an Android).
+* Of the people with disabilities who owned a smartphone, **85% of them owned an Android **, 14% owned a basic phone and 8% owned an iPhone (some had both an iPhone and an Android).
 
-*  **Hearing impaired people use smartphones (95%)** at a higher rate than other groups of people with disabilities, followed by visually impaired (82%), physically disabled (78%), psychosocially disabled (73 %), intellectually disabled (67%) and amputees (65%).
+* Those interviewed with **hearing impairments use smartphones (95%)** at a higher rate than other groups of people with disabilities. Those with visual impairments also had a high rate of smartphone use (82%),  followed by the physically disabled (78%), psychosocially disabled (73 %), intellectually disabled (67%) and amputees (65%).
 
-* People with intellectual disabilities are the most likely **not to own a mobile phone (50%)**, followed by people with multiple disabilities (12%).
+* People with intellectual disabilities are the **most likely** **not to own a mobile phone (50%)**, followed by people with multiple disabilities (12%).
 
-* **The vast majority do not share their phone**, although people with low levels of education tend to share and borrow their phones at a higher than average rate in Honduras.
+* The vast majority of those interviewed **do not share their phone. **Although we did find that those with lower levels of  education are more likely to share their phones at a higher rate than the average across Honduras. 
 
-* The p**robability of having a mobile phone falls** as people reach 50 years of age in all demographic groups.
+* The applications that people with disabilities in Honduras **uses the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
 
-* The applications that people with disabilities in Honduras **uses the most** are Facebook, WhatsApp and Messenger as well as support applications specific to their disability.
+* The **probability of having a mobile phone falls** as people reach 50 years of age in all demographic groups.
 
 <div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}
 
