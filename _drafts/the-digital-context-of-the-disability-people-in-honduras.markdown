@@ -49,4 +49,4 @@ From the Frontiers Insights® study we also found some important insights on how
 
 Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services like the justice system. With this baseline of data, the United for Justice project or a future project working to increase access to any service for the disability population in Honduras.
 
-This study would not have been possible, without the support of Mr. Adam Fivenson and the entire technical and administrative team of the USAID [Justicia, Derechos Humanos y Seguridad de Honduras](https://www.dai.com/our-work/projects/honduras-united-for-justice) project.
+This study would not have been possible, without the support of Adam Fivenson and the entire technical and administrative team of the USAID [Justicia, Derechos Humanos y Seguridad de Honduras](https://www.dai.com/our-work/projects/honduras-united-for-justice) project.
