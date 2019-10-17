@@ -19,7 +19,7 @@ The U.S. Agency for International Development-funded [Unidos por la Justicia](ht
 
 Nationally, Honduras's mobile penetration levels are average, with about 50 percent of the population owning mobile phones. But how many of those phone owners are disabled? To find out, the project team and DAI's Center for Digital Acceleration undertook a [Frontiers Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets) report to obtain a baseline of how the disabled population currently uses digital tools and services in their everyday lives. A sample of 310 people with disabilities in San Pedro Sula, Tela, and La Ceiba were interviewed as part of this study.
 
-<div class="infogram-embed" data-id="5be69f57-4f66-47f4-88f8-31846a6d472b" data-type="interactive" data-title="Sample Distribution"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div class="infogram-embed" data-id="c48756f1-43cd-4408-adc5-3d6e4814fbda" data-type="interactive" data-title="Sample Distribution"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 ## More Access than Expected but Little Knowledge of Law
 
@@ -33,7 +33,7 @@ We found that:
 * The applications that people with disabilities in Honduras **use the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
 * The **probability of having a mobile phone falls** as people reach 50 years of age in all demographic groups.
 
-<div class="infogram-embed" data-id="2a70608d-72be-43ef-9ddb-c44eed27ef22" data-type="interactive" data-title="Disability"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div class="infogram-embed" data-id="c67e0261-5e5c-4ff8-8d16-fd157058d832" data-type="interactive" data-title="Copy: Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 We also found some important insights on how the disability population in Honduras understands the justice system:
 
