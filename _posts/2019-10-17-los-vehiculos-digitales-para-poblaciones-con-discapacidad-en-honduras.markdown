@@ -11,7 +11,7 @@ thumbnail: "/uploads/Imagen%201.png"
 Field name: 
 ---
 
-*Read this post in [English](dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html).*
+*Read this post in [English](https://dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html).*
 
 Se estima que el número de personas que viven con algún tipo de discapacidad en América Latina y el Caribe entre 2001 y 2013 fue de más de [70 millones](https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211) (o 12.5 porciento de la población regional total, el 12.6 porciento de la población de América Latina y el 61 porciento de los países del Caribe).
 
