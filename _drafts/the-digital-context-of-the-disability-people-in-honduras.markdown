@@ -1,5 +1,5 @@
 ---
-title: The digital context of the disability people in Honduras
+title: 'Digital Insights: How Honduras''s Disability Community Uses Digital Tools'
 date: 2019-10-17 06:00:00 -04:00
 tags:
 - Digital Inclusion
