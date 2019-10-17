@@ -27,7 +27,7 @@ We found that:
 
 * **85 percent own a mobile phone**, 72 percent of which are smartphones. This is high in comparison to the average in Honduras, where the mobile penetration rate is [52.7 percent](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND).
 
-* Of the people with disabilities who own a smartphone, **85 percent of them own an Android**, 14 percent own a basic phone and 8 percent own an iPhone (some had both).
+* Of the people with disabilities who own a smartphone, **85 percent of them own an Android**, 14 percent own a basic phone, and 8 percent own an iPhone (some had both).
 
 * Those interviewed with **hearing impairments use smartphones (95 percent)** at a higher rate than other groups of people with disabilities. Those with visual impairments also had a high rate of smartphone use (82 percent), followed by the physically disabled (78 percent), psychosocially disabled (73 percent), intellectually disabled (67 percent) and amputees (65 percent).
 
