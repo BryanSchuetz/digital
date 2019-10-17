@@ -1,5 +1,6 @@
 ---
-title: El contexto digital de la población con discapacidad en Honduras
+title: 'Digital Insights: El contexto digital de la población con discapacidad en
+  Honduras'
 date: 2019-10-17 06:00:00 -04:00
 tags:
 - Digital Insights
