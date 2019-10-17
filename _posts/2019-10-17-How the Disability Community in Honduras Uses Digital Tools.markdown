@@ -45,4 +45,4 @@ We also found some important insights on how the disability population in Hondur
 
 Mobile technologies are widely used by people with disabilities in Honduras, which presents an opportunity to increase their access to services of the justice system. With this baseline of data, better interventions can be designed to meet the disabled community's needs.
 
-This study would not have been possible without the support of Adam Fivenson and the entire technical and administrative team of the Unidos project.
+This study would not have been possible without the support of [Adam Fivenson](https://twitter.com/afivenson?lang=en) and the entire technical and administrative team of the Unidos project.
