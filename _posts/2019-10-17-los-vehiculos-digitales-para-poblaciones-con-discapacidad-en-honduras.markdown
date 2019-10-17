@@ -23,7 +23,7 @@ En el 2009, el poder judicial de dicho país en su plan de modernización señal
 
 La actividad de [Justicia, Derechos Humanos y Seguridad de Honduras conocida como “Unidos por la Justicia”](https://www.dai.com/our-work/projects/honduras-united-for-justice) apoyada por USAID, buscaba alternativas para mejorar el acceso a la justicia de poblaciones vulnerables, y antes de realizar algún esfuerzo en el área digital se implementó un estudio bajo la metodología de Frontiers Insights® con el apoyo del Centro de Aceleración Digital (CDA) de DAI Global. El estudio tenía como objetivo principal, comprender el nivel de acceso a la justicia a través de las tecnologías de información y comunicación. Se utilizó una muestra de 310 personas distribuidas proporcionalmente de acuerdo con el tipo de discapacidad en Tegucigalpa, San Pedro Sula, Tela, y La Ceiba.
 
-<div class="infogram-embed" data-id="f567b509-361b-41e1-b5c8-ff65a5a1f50d" data-type="interactive" data-title="Time per day on phone"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<script id="infogram_0_f567b509-361b-41e1-b5c8-ff65a5a1f50d" title="Distribución de la muestra" src="https://e.infogram.com/js/dist/embed.js?1Tx" type="text/javascript"></script>
 
 ## Más acceso del esperado pero poco conocimiento de la ley
 
@@ -43,7 +43,7 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 * Las aplicaciones que más utiliza esta población es el **Facebook, WhatsApp y Messenger** además de aplicaciones de apoyo específicas a su discapacidad.
 
-<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<script id="infogram_0_c67e0261-5e5c-4ff8-8d16-fd157058d832" title="Copy: Phone 4" src="https://e.infogram.com/js/dist/embed.js?usi" type="text/javascript"></script>
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
