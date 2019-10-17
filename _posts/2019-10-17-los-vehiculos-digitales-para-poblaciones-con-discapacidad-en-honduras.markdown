@@ -17,13 +17,13 @@ Se estima que el número de personas que viven con algún tipo de discapacidad e
 
 En Honduras los estudios acerca del tema de discapacidad son escasos y limitados. Según los resultados de la Encuesta Permanente de Hogares con Propósitos Múltiples del Instituto Nacional de Estadística (INE) realizada en septiembre 2002, se encontró que en Honduras existían 177,516 personas con discapacidad, lo que representa una prevalencia de 2.65 porciento, con predominio masculino (55 porciento) en comparación de la población femenina (45 porciento). Sin embargo, estudios recientes del \[Censo 2013 del INE\] indicaron la existencia de 205,423 personas con discapacidad, y [otro estudio](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) de Flores, et al. (2014) encontró una tasa de prevalencia del 4.6 porciento, que significa un total de 381,287 personas que viven con discapacidades asumiendo una población de 8.2 millones.
 
-<--!more-->
+<!--more-->
 
 En el 2009, el poder judicial de dicho país en su plan de modernización señaló la existencia de [problemas de acceso a la información](http://www.poderjudicial.gob.hn/transparencia/planeacion/documents/PlandeModernizaci%C3%B3nPoderJudicial200420091.pdf), la cual se encuentra concentrada en Tegucigalpa, se indica que no existen los medios para acceder a la misma o para difundirla, en dicho plan no se mencionan los mecanismos de inclusión de las poblaciones con discapacidad.
 
 La actividad de [Justicia, Derechos Humanos y Seguridad de Honduras conocida como “Unidos por la Justicia”](https://www.dai.com/our-work/projects/honduras-united-for-justice) apoyada por USAID, buscaba alternativas para mejorar el acceso a la justicia de poblaciones vulnerables, y antes de realizar algún esfuerzo en el área digital se implementó un estudio bajo la metodología de Frontiers Insights® con el apoyo del Centro de Aceleración Digital (CDA) de DAI Global. El estudio tenía como objetivo principal, comprender el nivel de acceso a la justicia a través de las tecnologías de información y comunicación. Se utilizó una muestra de 310 personas distribuidas proporcionalmente de acuerdo con el tipo de discapacidad en Tegucigalpa, San Pedro Sula, Tela, y La Ceiba.
 
-<div class="infogram-embed" data-id="f567b509-361b-41e1-b5c8-ff65a5a1f50d" data-type="interactive" data-title="Time per day on phone"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div class="infogram-embed" data-id="f567b509-361b-41e1-b5c8-ff65a5a1f50d" data-type="interactive" data-title="Time per day on phone"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 ## Más acceso del esperado pero poco conocimiento de la ley
 
@@ -43,7 +43,7 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 * Las aplicaciones que más utiliza esta población es el **Facebook, WhatsApp y Messenger** además de aplicaciones de apoyo específicas a su discapacidad.
 
-<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
