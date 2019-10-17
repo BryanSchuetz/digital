@@ -11,7 +11,7 @@ thumbnail: "/uploads/Imagen%201.png"
 
 Studies on how many disabled people live in Honduras are scarce. Results of the Permanent Survey of Households with Multiple Purposes of the National Statistics Institute (INE), carried out in September 2002, showed there are 177,516 people with disabilities in the country. [Academic studies](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) tell a different story. They estimate that the number of people in Honduras with a disability is closer to 381,287 people. These differing reports demonstrate that Honduras has limited clarity on how many people within their country have a disability—preventing the government, institutions, and civil society from effectively thinking through how ensure that services are accessible to those with disabilities. 
 
-<--!more-->
+<!--more-->
 
 The U.S. Agency for International Development-funded [Unidos por la Justicia](https://www.dai.com/our-work/projects/honduras-united-for-justice) project is working to improve access to justice for vulnerable populations, including people with disabilities. As part of Honduras's commitment to [modernize](http://www.poderjudicial.gob.hn/transparencia/planeacion/documents/PlandeModernizaci%C3%B3nPoderJudicial200420091.pdf) its judiciary system, Unidos saw an opportunity to assess how people with disabilities currently access justice and how they might be able to use digital tools to better access the judicial system.  
 
