@@ -43,7 +43,7 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 * Las aplicaciones que más utiliza esta población es el **Facebook, WhatsApp y Messenger** además de aplicaciones de apoyo específicas a su discapacidad.
 
-<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")\[0\];if(window\[t\]&&window\[t\].initialized)window\[t\].process&&window\[t\].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
+<div class="infogram-embed" data-id="ec8c98a8-2f67-4325-8381-b00e503c52d5" data-type="interactive" data-title="Phone 4"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
