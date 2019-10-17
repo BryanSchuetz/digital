@@ -10,6 +10,8 @@ thumbnail: "/uploads/Imagen%201.png"
 Field name: 
 ---
 
+*Read this post in [English](dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html).*
+
 Se estima que el número de personas que viven con algún tipo de discapacidad en América Latina y el Caribe entre 2001 y 2013 fue de más de [70 millones](https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211) (o 12.5 porciento de la población regional total, el 12.6 porciento de la población de América Latina y el 61 porciento de los países del Caribe).
 
 En Honduras los estudios acerca del tema de discapacidad son escasos y limitados. Según los resultados de la Encuesta Permanente de Hogares con Propósitos Múltiples del Instituto Nacional de Estadística (INE) realizada en septiembre 2002, se encontró que en Honduras existían 177,516 personas con discapacidad, lo que representa una prevalencia de 2.65 porciento, con predominio masculino (55 porciento) en comparación de la población femenina (45 porciento). Sin embargo, estudios recientes del \[Censo 2013 del INE\] indicaron la existencia de 205,423 personas con discapacidad, y [otro estudio](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) de Flores, et al. (2014) encontró una tasa de prevalencia del 4.6 porciento, que significa un total de 381,287 personas que viven con discapacidades asumiendo una población de 8.2 millones.
