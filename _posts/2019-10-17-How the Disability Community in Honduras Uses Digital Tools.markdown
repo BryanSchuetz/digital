@@ -11,7 +11,7 @@ thumbnail: "/uploads/Imagen%201.png"
 
 *Read this post in [Spanish](dai-global-digital.com/los-vehiculos-digitales-para-poblaciones-con-discapacidad-en-honduras.html).*
 
-Studies on how many disabled people live in Honduras are scarce. Results of a survey by the National Statistics Institute (INE), carried out in September 2002, showed there are 177,516 people with disabilities in the country. [Academic studies](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) tell a different story. They estimate that the number of people in Honduras with disabilities is closer to 381,287 people. These differing reports demonstrate that Honduras has limited clarity on how many people within their country have a disability—preventing the government, institutions, and civil society from effectively thinking through how ensure that services are accessible to those with disabilities.
+Studies on how many disabled people live in Honduras are scarce. Results of a survey by the National Statistics Institute (INE), carried out in September 2002, showed there are 177,516 people with disabilities in the country. [Academic studies](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) tell a different story. They estimate that the number of people in Honduras with disabilities is closer to 381,287. These differing reports demonstrate that Honduras has limited clarity on how many people within their country have a disability—preventing the government, institutions, and civil society from effectively thinking through how ensure that services are accessible to those with disabilities.
 
 <!--more-->
 
