@@ -19,7 +19,7 @@ The U.S. Agency for International Development-funded [Unidos por la Justicia](ht
 
 Nationally, Honduras's mobile penetration levels are average, with about 50 percent of the population owning mobile phones. But how many of those phone owners are disabled? To find out, the project team and DAI's Center for Digital Acceleration undertook a [Frontiers Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets) report to obtain a baseline of how the disabled population currently uses digital tools and services in their everyday lives. A sample of 310 people with disabilities in San Pedro Sula, Tela, and La Ceiba were interviewed as part of this study.
 
-<script id="infogram_0_f567b509-361b-41e1-b5c8-ff65a5a1f50d" title="Distribución de la muestra" src="https://e.infogram.com/js/dist/embed.js?fv6" type="text/javascript"></script>
+<script id="infogram_0_c48756f1-43cd-4408-adc5-3d6e4814fbda" title="Sample Distribution" src="https://e.infogram.com/js/dist/embed.js?1aH" type="text/javascript"></script>
 
 ## More Access than Expected but Little Knowledge of Law
 
