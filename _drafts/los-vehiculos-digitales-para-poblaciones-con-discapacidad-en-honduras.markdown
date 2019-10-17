@@ -26,11 +26,11 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 * **En general, el 85 porcentaje tiene algún teléfono móvil**. Un 72 porcentaje tiene un Smartphone lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7 ](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND)porcentajecuenta con un Smartphone.
 
-* **El 85 porcentaje de los usuarios de teléfonos tienen un Android**, el 14 porcentaje tiene un teléfono básico y el 8% tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
+* **El 85 porciento de los usuarios de teléfonos tienen un Android**, el 14 porceiento tiene un teléfono básico y el 8 porceiento tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
 
-* **Las personas con discapacidad auditiva usan teléfonos inteligentes (95 porcentaje)** a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82 porcentaje), físico (78 porcentaje), psicosocial (73 porcentaje), intelectual (67 porcentaje) y amputados (65 porcentaje).
+* **Las personas con discapacidad auditiva usan teléfonos inteligentes (95 porcentaje)** a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82 porceiento), físico (78 porceiento), psicosocial (73 porceiento), intelectual (67 porceiento) y amputados (65 porceiento).
 
-* Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50 porcentaje), seguidas de las personas con discapacidades múltiples (12 porcentaje).
+* Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50 porceiento), seguidas de las personas con discapacidades múltiples (12 porceiento).
 
 * **La gran mayoría no comparte su teléfono**, aunque las personas con bajos niveles de educación tienden a compartir y pedir prestado sus teléfonos a una tasa más alta que el promedio.
 
