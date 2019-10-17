@@ -33,7 +33,7 @@ We found that:
 
 * People with intellectual disabilities are the **most likely** **not to own a mobile phone (50 percent)**, followed by people with multiple disabilities (12 percent).
 
-* The vast majority of those interviewed \*\*do not share their phone. \*\*Although we did find that those with lower levels of education are more likely to share their phones at a higher rate than the average across Honduras.
+* The vast majority of those interviewed **do not share their phone**. Although we did find that those with lower levels of education are more likely to share their phones at a higher rate than the average across Honduras.
 
 * The applications that people with disabilities in Honduras **use the most** are **Facebook**, **WhatsApp** and **Messenger** as well as support applications for their specific  disability.
 
