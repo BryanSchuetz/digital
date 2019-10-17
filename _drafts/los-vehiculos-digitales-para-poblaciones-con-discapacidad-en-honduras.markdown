@@ -10,9 +10,9 @@ thumbnail: "/uploads/Imagen%201.png"
 Field name: 
 ---
 
-Se estima que el número de personas que viven con algún tipo de discapacidad en América Latina y el Caribe entre 2001 y 2013 fue de más de [70 millones](https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211) (o 12.5 porcentaje de la población regional total, el 12.6 porcentaje de la población de América Latina y el 61 porcentajede los países del Caribe).
+Se estima que el número de personas que viven con algún tipo de discapacidad en América Latina y el Caribe entre 2001 y 2013 fue de más de [70 millones](https://www.paho.org/hon/index.php?option=com_docman&view=download&alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&category_slug=fortalecimiento-de-sistemas-de-salud&Itemid=211) (o 12.5 porciento de la población regional total, el 12.6 porciento de la población de América Latina y el 61 porciento de los países del Caribe).
 
-En Honduras los estudios acerca del tema de discapacidad son escasos y limitados. Según los resultados de la Encuesta Permanente de Hogares con Propósitos Múltiples del Instituto Nacional de Estadística (INE) realizada en septiembre 2002, se encontró que en Honduras existían 177,516 personas con discapacidad, lo que representa una prevalencia de 2.65 porcentaje, con predominio masculino (55 porcentaje) en comparación de la población femenina (45 porcentaje). Sin embargo, estudios recientes del \[Censo 2013 del INE\] indicaron la existencia de 205,423 personas con discapacidad, y [otro estudio](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) de Flores, et al. (2014) encontró una tasa de prevalencia del 4.6 porcentaje, que significa un total de 381,287 personas que viven con discapacidades asumiendo una población de 8.2 millones.
+En Honduras los estudios acerca del tema de discapacidad son escasos y limitados. Según los resultados de la Encuesta Permanente de Hogares con Propósitos Múltiples del Instituto Nacional de Estadística (INE) realizada en septiembre 2002, se encontró que en Honduras existían 177,516 personas con discapacidad, lo que representa una prevalencia de 2.65 porciento, con predominio masculino (55 porciento) en comparación de la población femenina (45 porciento). Sin embargo, estudios recientes del \[Censo 2013 del INE\] indicaron la existencia de 205,423 personas con discapacidad, y [otro estudio](http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf) de Flores, et al. (2014) encontró una tasa de prevalencia del 4.6 porciento, que significa un total de 381,287 personas que viven con discapacidades asumiendo una población de 8.2 millones.
 
 En el 2009, el poder judicial de dicho país en su plan de modernización señaló la existencia de [problemas de acceso a la información](http://www.poderjudicial.gob.hn/transparencia/planeacion/documents/PlandeModernizaci%C3%B3nPoderJudicial200420091.pdf), la cual se encuentra concentrada en Tegucigalpa, se indica que no existen los medios para acceder a la misma o para difundirla, en dicho plan no se mencionan los mecanismos de inclusión de las poblaciones con discapacidad.
 
@@ -24,13 +24,13 @@ La actividad de [Justicia, Derechos Humanos y Seguridad de Honduras conocida com
 
 Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más importantes se encontró que:
 
-* **En general, el 85 porcentaje tiene algún teléfono móvil**. Un 72 porcentaje tiene un Smartphone lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7 ](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND)porcentajecuenta con un Smartphone.
+* **En general, el 85 porciento tiene algún teléfono móvil**. Un 72 porciento tiene un Smartphone lo cual es alto en comparación a la media de Honduras que según el [índice de conectividad de GSMA  en el país un 52.7 ](http://www.mobileconnectivityindex.com/#year=2018&zoneIsocode=HND&analysisView=HND)porciento cuenta con un Smartphone.
 
-* **El 85 porciento de los usuarios de teléfonos tienen un Android**, el 14 porceiento tiene un teléfono básico y el 8 porceiento tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
+* **El 85 porciento de los usuarios de teléfonos tienen un Android**, el 14 porciento tiene un teléfono básico y el 8 porciento tiene un iPhone (Algunos tienen ambos un iPhone y un Android).
 
-* **Las personas con discapacidad auditiva usan teléfonos inteligentes (95 porcentaje)** a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82 porceiento), físico (78 porceiento), psicosocial (73 porceiento), intelectual (67 porceiento) y amputados (65 porceiento).
+* **Las personas con discapacidad auditiva usan teléfonos inteligentes (95 porcentaje)** a una tasa mayor que otros grupos de personas con discapacidad, seguidos de visual (82 porceiento), físico (78 porciento), psicosocial (73 porciento), intelectual (67 porciento) y amputados (65 porciento).
 
-* Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50 porceiento), seguidas de las personas con discapacidades múltiples (12 porceiento).
+* Las personas con discapacidades intelectuales son las que tienen más probabilidades de no tener móvil (50 porciento), seguidas de las personas con discapacidades múltiples (12 porciento).
 
 * **La gran mayoría no comparte su teléfono**, aunque las personas con bajos niveles de educación tienden a compartir y pedir prestado sus teléfonos a una tasa más alta que el promedio.
 
@@ -42,11 +42,11 @@ Dentro de los hallazgos en el uso y acceso a la tecnología y teléfonos más im
 
 En cuanto al acceso a la justicia y respeto se encontró que:
 
-* **Sólo el 35% conoce la ley** de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25 porceiento) e intelectual (14 porceiento) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50 porceiento) y visual (55 porceiento) fueron las más consientes.
+* **Sólo el 35% conoce la ley** de Honduras para personas con discapacidades. Las personas con discapacidad auditiva (25 porciento) e intelectual (14 porciento) fueron las que menos conocimiento de la ley tenían y las personas con discapacidad física (50 porciento) y visual (55 porciento) fueron las más consientes.
 
-* **Sólo el 24 porceiento considera que, como persona con discapacidad, el gobierno y las empresas los respetan**, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41 porceiento) e intelectual (44 porceiento) reportaron la mayor percepción de respeto.
+* **Sólo el 24 porceiento considera que, como persona con discapacidad, el gobierno y las empresas los respetan**, pero hay una importante divergencia por discapacidad. Las personas discapacidad auditiva (41 porciento) e intelectual (44 porciento) reportaron la mayor percepción de respeto.
 
-* Las personas con discapacidades físicas (13 porceiento), psicosociales (13 porceiento) y visuales (8 porceiento) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
+* Las personas con discapacidades físicas (13 porciento), psicosociales (13 porciento) y visuales (8 porciento) percibieron significativamente menos respeto por su discapacidad en todos los sectores.
 
 ## Resultado de la aplicación de Frontiers Insights® a poblaciones con discapacidad
 
