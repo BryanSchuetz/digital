@@ -40,7 +40,7 @@ DAI is looking for organizations with the following qualifications:
 
 * Ability to work under tight timeframes and successfully meet deadlines
 
-More information on qualifications and how to apply can be found here \[link\].
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing).
 
 Proposals are due November 8 at 5:00pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing) are due October 25 by 5:00pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
 
