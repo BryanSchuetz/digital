@@ -10,9 +10,9 @@ thumbnail: "/uploads/1.jfif"
 
 ## Apply Now: Support USAID on the Digital Development Awards and Communications Activities
 
-Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) works to address gaps in digital access and affordability and to advance the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with CDD’s Knowledge and Insights (K&I) team, which leads the Center’s work in knowledge management, communications and training.
+Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD’s Knowledge and Insights (K&I) team, which leads the Center’s work in knowledge management, communications, and training.
 
-The K&I team hosts the exciting Digital Development Awards which recognize USAID activities effectively using digital technology to accelerate development and humanitarian assistance impact. They also disseminate a weekly reader/digest tracking digital development opportunities and publish the Digital Download, an annual flagship report highlighting the Center’s work over the past year.
+The K&I team hosts the exciting Digital Development Awards, which recognize USAID activities effectively using digital technology to accelerate development and humanitarian assistance impact. They also disseminate a weekly reader/digest tracking digital development opportunities and publish the Digital Download, an annual flagship report highlighting the Center’s work over the past year.
 
 Today, Digital Frontiers releases a request for proposals (RFP) for experienced organizations to work with Digital Frontiers and USAID’s K&I team to implement these three activities. Digital Frontiers prefers to engage one firm to implement all three activities, however, it is possible to submit a proposal for one or two activities only.
 
