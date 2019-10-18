@@ -22,26 +22,18 @@ Today, Digital Frontiers releases a request for proposals (RFP) for experienced 
 
 DAI is looking for organizations with the following qualifications:
 
-* Previous experience working with USAID required
-
-* USAID branding and marking knowledge required
-
-* Project manager with experience working with USG, preferably USAID
-
-* Familiarity with digital development preferred
-
+* Previous experience working with USAID
+* USAID branding and marking knowledge
+* Project manager with experience working with the U.S. Government, preferably USAID
+* Familiarity with digital development
 * Previous experience writing and publishing reports, blogs, publications, newsletters, online digests, communications plans, and social media toolkits for an international development audience
-
-* Previous experience formatting and designing USAID publications preferred
-
+* Previous experience formatting and designing USAID publications
 * Experience with designing and implementing innovation competitions/prizes
-
 * Experience in event management, as well as travel planning and logistics
-
 * Ability to work under tight timeframes and successfully meet deadlines
 
 More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing).
 
-Proposals are due November 8 at 5:00pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing) are due October 25 by 5:00pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
+Proposals are due November 8 at 5pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing) are due October 25 by 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
 
-*Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the Center for Digital Development (CDD), USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
+*Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the CDD, USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
