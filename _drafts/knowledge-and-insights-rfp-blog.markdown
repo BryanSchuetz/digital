@@ -8,7 +8,7 @@ social-image: "/uploads/1.jfif"
 thumbnail: "/uploads/1.jfif"
 ---
 
-**Apply Now: Support USAID on the Digital Development Awards and Communications Activities**
+## Apply Now: Support USAID on the Digital Development Awards and Communications Activities
 
 Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) works to address gaps in digital access and affordability and to advance the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with CDD’s Knowledge and Insights (K&I) team, which leads the Center’s work in knowledge management, communications and training.
 
