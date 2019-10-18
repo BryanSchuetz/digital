@@ -16,7 +16,7 @@ The K&I team hosts the exciting Digital Development Awards, which recognize USAI
 
 Today, Digital Frontiers releases a request for proposals (RFP) for experienced organizations to work with Digital Frontiers and USAID’s K&I team to implement these three activities. Digital Frontiers prefers to engage one firm to implement all three activities, however, it is possible to submit a proposal for one or two activities only.
 
-![1.jfif](/uploads/1.jfif)`Photo features the Digital Inclusion in the Peruvian Amazon project- a Digital Development Award winner. *Photo by Jack Gordon for USAID / Digital Development Communications*`
+![1.jfif](/uploads/1.jfif)`Digital Development Award winner, the Digital Inclusion in the Peruvian Amazon project. Photo by Jack Gordon for USAID.`
 
 ## Who Should Apply?
 
