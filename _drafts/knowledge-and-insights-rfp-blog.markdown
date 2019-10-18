@@ -18,7 +18,7 @@ Today, Digital Frontiers releases a request for proposals (RFP) for experienced 
 
 ![1.jfif](/uploads/1.jfif)\`Photo features the Digital Inclusion in the Peruvian Amazon project- a Digital Development Award winner. *Photo by Jack Gordon for USAID / Digital Development Communications\`*
 
-**Who Should Apply?**
+## Who Should Apply?
 
 DAI is looking for organizations with the following qualifications:
 
