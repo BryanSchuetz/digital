@@ -1,5 +1,6 @@
 ---
-title: Knowledge & Insights RFP Blog
+title: 'Apply Now: Support USAID on the Digital Development Awards and Communications
+  Activities'
 date: 2019-10-18 10:25:00 -04:00
 tags:
 - Innovation
@@ -7,8 +8,6 @@ Author: "[Stephanie Creed](https://www.linkedin.com/in/stephanie-c-creed )"
 social-image: "/uploads/1.jfif"
 thumbnail: "/uploads/1.jfif"
 ---
-
-## Apply Now: Support USAID on the Digital Development Awards and Communications Activities
 
 Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD’s Knowledge and Insights (K&I) team, which leads the Center’s work in knowledge management, communications, and training.
 
