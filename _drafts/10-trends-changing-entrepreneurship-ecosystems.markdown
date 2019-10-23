@@ -9,20 +9,22 @@ Author: "[Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem)"
 
 If you’re supporting early stage entrepreneurs in emerging and frontier markets, there’s a lot to be excited about as we approach the start of the third decade of this century! Over the past year supporting the [Shell LiveWIRE global entrepreneurship program](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) and the [Kosmos Innovation Center (KIC)](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), I’ve had the chance to attend some rather dynamic conferences, ‘un’-conferences, meetups, and pitch events with the Global Accelerator Network ([GAN](https://www.gan.co/)), the Aspen Network of Development Entrepreneurs ([ANDE](http://andeglobal.org/)), [Techstars](https://www.techstars.com/), and the International Business Innovation Association ([InBIA](https://inbia.org/)). I’ve observed some trends from the inspiring incubator and accelerator program managers that I’ve gotten to meet from around the world—and will share the best ones below:
 
-### The Growth of Cleantech and Agritech Verticals
+<!--more-->
+
+## The Growth of Cleantech and Agritech Verticals
 
 While most entrepreneurship support organizations (ESOs) in developed markets are still sector agnostic, in emerging and frontier markets there is trend toward more accelerators with cleantech and agritech verticals. Cleantech ESOs help to develop and scale tech-enabled commercial solutions that address climate change. This $1.3 trillion global market encompasses more than just off-grid solar products (which tend to get most of the media attention), and includes innovations in energy storage, green materials, sustainable transport, recycling, and more. Agritech ESOs seek to support tech entrepreneurs with scalable ideas to support agriculture and food innovation. For example, ESOs such as [YBTT](https://www.facebook.com/yourybtt/)in Trinidad and Tobago helped launch [SmartWave ](https://www.facebook.com/SmartwaveCaribbean/)(an app-based smart lightswitch to reduce energy consumption); [IdeaSpace](http://www.ideaspacefoundation.org/)in the Philippines helped launch [Cropital](https://www.cropital.com/) (a crowdfunding platform to improve smallholder farmer productivity), and the [KIC](https://www.kosmosinnovationcenter.com/)in Ghana helped launch [TroTro Tractor](https://www.trotrotractor.com/) (the Ghanaian Uber for Tractors).
 
-### Expanding and Adapting #startupweekend Model
+## Expanding and Adapting #startupweekend Model
 
 [Startup Weekends](https://startupweekend.org/), founded by TechStars, are now considered one of the largest startup events in the world. Over the course of 54 hours, teams of developers, business managers, and startup enthusiasts form teams, prototype ideas, work with mentors, and pitch their business plans on Sunday evening to local investors. The event has already been hosted in more than 700 cities in 150 countries worldwide. ESOs, such as [CIEDS ](https://www.cieds.org.br/)in Brazil, are [adapting the model](https://www.livewire.shell/what-is-shell-livewire/news/brazil-holds-selection-weekend.html), by co-hosting such events with others, using the weekend’s brainstorming format as a way for mentors and coaches to gauge the coachability of possible participants, and offer entry into local incubators and accelerators for pitch winners.
 
-### Improv for Ideation
+## Improv for Ideation
 
 Improv—the form of theater where teams create live non-scripted sketches based on trigger words and ideas from the audience—is becoming a popular tool to teach presentation and brainstorming skills to entrepreneurs and businesses. In particular, improv encourages the idea of "Yes And…"—a concept of accepting a teammate’s wild ideas and building upon them, without a sense of judgement or rejection. These important soft skills in play, spontaneity, active listening, encouragement, and teamwork are being adapted for the entrepreneurship space to support startup teams in the early ideation phase when seeking to spark innovation in their product or business model designs. Organizations such as [Impros](http://www.impros.org/)in Ecuador invites improv specialists from around Latin America to help spark more creativity and build teamwork in local businesses.
 
-**Adaptations of the Business Model Canvas
-**
+## Adaptations of the Business Model Canvas
+
 With more than 5 million users, the [Business Model Canvas](http://strategyzer.com/) (BCM) has become one of the most commonly used rapid business model planning tools by entrepreneurship organizations around the world—from Silicon Valley to startup accelerators in the frontier markets. Unlike traditional business planning, which pushes an entrepreneur to try to put down on paper all parts of their business early in a long arduous document, the BMC uses design thinking methodology to ‘visualize’ the business model on one page—and then allow startups to test, prototype and validate key pieces of the business model again and again with different value propositions, customer segments, cost structures, revenues and partners. Some recent adaptations of the BMC, such as the [Mission Model Canvas](https://www.afwerx.af.mil/resources/Mission-Model-Canvas-Editable-2.pdf) for nonprofit organizations is designed to encourage nongovernmental organizations to ‘think more like a business’ and help spark innovation during strategic planning processes. 
 
 **New online management tools for entrepreneurship support programs**
