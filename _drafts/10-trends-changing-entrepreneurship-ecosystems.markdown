@@ -13,7 +13,7 @@ If you’re supporting early stage entrepreneurs in emerging and frontier market
 
 <!--more-->
 
-![KIC.jpg](/uploads/KIC.jpg)\`Mohamed Mourid, a young Mauritanian entrepreneur pitches his 3D animation studio, M3D, at the Kosmos Innovation Center. (Image credit: KIC Mauritania)\`
+![KIC.jpg](/uploads/KIC.jpg)`Mohamed Mourid, a young Mauritanian entrepreneur pitches his 3D animation studio, M3D, at the Kosmos Innovation Center. (Image credit: KIC Mauritania)`
 
 ## 1. Rise of Cleantech and Agritech Verticals
 
