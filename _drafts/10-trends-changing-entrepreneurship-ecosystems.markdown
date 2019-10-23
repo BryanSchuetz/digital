@@ -1,10 +1,9 @@
 ---
 title: 10 Trends Changing Entrepreneurship Ecosystems
-date: 2019-10-22 18:15:00 -04:00
-categories:
-- Innovation
+date: 2019-10-24 06:00:00 -04:00
 tags:
 - Entrepreneurship
+- Innovation
 Author: Zaki Raheem
 ---
 
