@@ -4,13 +4,18 @@ date: 2019-10-24 09:05:00 -04:00
 Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
 ---
 
-The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development (USAID)’s **Promoting American Approaches to ICT Regulatory Policy (ProICT)** activity. 
+The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development (USAID)’s **Promoting American Approaches to ICT Regulatory Policy (ProICT)** activity.
+
+<!--more-->
 
 In the 21st Century, the reach of internet and mobile networks, the security and adoption of communications services, and vibrancy of ICT sector are crucial for countries to grow and become strong U.S. partners. For these reasons, the U.S. government is working to significantly increase international cooperation to build an open, interoperable, reliable, and secure cyberspace. ProICT will fund intensive, dedicated policy engagements with receptive USAID host countries that will encourage the adoption of American models of telecommunications, internet, and ICT regulation. U.S. ICT policy goals include promoting:
 
 * Open, interoperable, reliable, and secure internet and communications networks.
+
 * Multistakeholder models of internet governance.
+
 * Pro-competitive and pro-investment spectrum, telecommunications infrastructure, and regulatory policies.
+
 * Effective approaches to advancing cybersecurity frameworks, supply chain policies (such as for 5G), and regulation of communications networks.
 
 Digital Frontiers seeks to identify qualified firms or consultants, including attorneys, policy researchers, and network and spectrum engineering experts with expertise in one or more of the following areas: **analyzing, developing, and implementing ICT policy; telecommunications regulation; infrastructure policy; mobile and wireless spectrum management; internet governance; digital trade; and financial services regulation**.
