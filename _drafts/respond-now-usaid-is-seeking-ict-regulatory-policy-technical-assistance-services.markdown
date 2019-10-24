@@ -17,7 +17,7 @@ Digital Frontiers seeks to identify qualified firms and/or consultants, includin
 
 Selected firms or consultants will provide policy advisory services to developing country governments in consultation with USAID and relevant U.S. government agencies. These experts will directly assist developing country governments in implementing important ICT public policy approaches in their own national setting, through mid- to long-term consultations, potentially as an embedded expert in a developing country regulatory agency or ministry.
 
-**Responses**
+## Responses
 
 More information on the ProICT Activity and EOI Response Elements and Format can be found in the **[ProICT EOI](https://drive.google.com/file/d/1t4FUXOswOOB5COO8QEh6eH905MAQ67w3/view?usp=sharing) .**
 
