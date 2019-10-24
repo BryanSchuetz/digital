@@ -1,5 +1,5 @@
 ---
-title: 'Respond Now: USAID is seeking ICT Regulatory Policy Technical Assistance Services'
+title: 'Respond Now: USAID Seeks ICT Regulatory Policy Technical Assistance Services'
 date: 2019-10-24 09:05:00 -04:00
 Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
 ---
