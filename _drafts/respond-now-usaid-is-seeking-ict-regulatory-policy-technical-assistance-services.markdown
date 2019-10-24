@@ -1,6 +1,7 @@
 ---
 title: 'Respond Now: USAID is seeking ICT Regulatory Policy Technical Assistance Services'
 date: 2019-10-24 09:05:00 -04:00
+Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
 ---
 
 Digital Frontiers is issuing an Expression of Interest (EOI) in support of USAID’s **Promoting American Approaches to ICT Regulatory Policy (ProICT)** activity. In the 21st Century, the reach of internet and mobile networks, the security and adoption of communications services, and vibrancy of ICT sector are crucial for countries to grow and become strong U.S. partners. For these reasons, the U.S. government is working to significantly increase international cooperation to secure an open, interoperable, reliable, and secure cyberspace. ProICT will create the ability to fund intensive, dedicated policy engagements with receptive USAID host countries that will help those countries adopt American models of telecommunications, internet, and ICT regulation. U.S. ICT policy goals include promoting:
