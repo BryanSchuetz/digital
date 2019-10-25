@@ -20,7 +20,7 @@ In the 21st Century, the reach of internet and mobile networks, the security and
 
 Digital Frontiers seeks to identify qualified firms or consultants, including attorneys, policy researchers, and network and spectrum engineering experts with expertise in one or more of the following areas: **analyzing, developing, and implementing ICT policy; telecommunications regulation; infrastructure policy; mobile and wireless spectrum management; internet governance; digital trade; and financial services regulation**.
 
-Selected firms or consultants will provide policy advisory services to developing country governments in consultation with USAID and relevant U.S. government agencies. These experts will directly assist developing country governments in implementing important ICT public policy approaches in their own national setting, through mid- to long-term consultations, potentially as an embedded expert in a developing country regulatory agency or ministry.
+Selected firms or consultants will provide policy advisory services to developing country governments in consultation with USAID and relevant U.S. government agencies. These experts will directly assist developing country governments in implementing important ICT public policy approaches in their own national setting, through mid- to long-term consultations, potentially as an embedded expert in a developing country regulatory agency or ministry.![India Photo5 (1).jpg](/uploads/India%20Photo5%20(1).jpg)`A young woman in India accesses information on government programs and benefits with help from a Digital Frontiers-supported initiative to close the gender digital divide.`
 
 ## Responses
 
