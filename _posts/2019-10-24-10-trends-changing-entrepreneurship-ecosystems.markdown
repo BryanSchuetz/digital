@@ -13,7 +13,9 @@ If you’re supporting early stage entrepreneurs in emerging and frontier market
 
 <!--more-->
 
-![KIC.jpg](/uploads/KIC.jpg)`Mohamed Mourid, a young Mauritanian entrepreneur pitches his 3D animation studio, M3D, at the Kosmos Innovation Center. (Image credit: KIC Mauritania)`
+![SLW PH TOT.JPG](/uploads/SLW%20PH%20TOT.JPG)
+
+`A group of entrepreneurship trainers from Pilipinas Shell Foundation, Inc. (PSFI) practice using the business model canvas as part of a train-the-trainer workshop (Image credit: Shell LiveWIRE International)`
 
 ## 1. Rise of Cleantech and Agritech Verticals
 
