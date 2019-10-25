@@ -5,6 +5,8 @@ tags:
 - Cyber
 - Digital
 Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
+social-image: "/uploads/India%20Photo5%20(1).jpg"
+thumbnail: "/uploads/India%20Photo5%20(1).jpg"
 ---
 
 The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development (USAID)’s **Promoting American Approaches to ICT Regulatory Policy (ProICT)** activity.
