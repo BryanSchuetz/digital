@@ -5,8 +5,8 @@ tags:
 - Entrepreneurship
 - Innovation
 Author: "[Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem)"
-social-image: "/uploads/KIC.jpg"
-thumbnail: "/uploads/KIC.jpg"
+social-image: "/uploads/SLW%20PH%20TOT.JPG"
+thumbnail: "/uploads/SLW%20PH%20TOT.JPG"
 ---
 
 If you’re supporting early stage entrepreneurs in emerging and frontier markets, there’s a lot to be excited about as we approach the start of the third decade of this century! Over the past year supporting the [Shell LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) global entrepreneurship program and the [Kosmos Innovation Center (KIC)](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), I’ve had the chance to attend some rather dynamic conferences, ‘un’-conferences, meetups, and pitch events with the Global Accelerator Network ([GAN](https://www.gan.co/)), the Aspen Network of Development Entrepreneurs ([ANDE](http://andeglobal.org/)), [Techstars](https://www.techstars.com/), and the International Business Innovation Association ([InBIA](https://inbia.org/)). I’ve observed some trends from the inspiring incubator and accelerator program managers that I’ve gotten to meet from around the world—and will share the best ones below:
