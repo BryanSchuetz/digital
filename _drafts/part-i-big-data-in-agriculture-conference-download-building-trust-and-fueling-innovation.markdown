@@ -5,31 +5,29 @@ date: 2019-10-29 14:37:00 -04:00
 Author: Susannah Horton
 ---
 
-[text para 1]
+\[text para 1\]
 
-[text para 2]
+\[text para 2\]
 
 read more
 
 sub-heading TBD
-[text para 3]
+\[text para 3\]
 
 photo
-![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)
-photo caption
+![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
 
-[text para 4]
+\[text para 4\]
 
-[text para 5]
+\[text para 5\]
 
 sub-heading TBD
-[text para 6 bullets]
+\[text para 6 bullets\]
 
 photo 2
 ![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)
 photo 2 caption
 
-[para 6]
+\[para 6\]
 
-[para 7]
-
+\[para 7\]
