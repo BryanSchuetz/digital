@@ -23,8 +23,7 @@ sub-heading TBD
 sub-heading TBD
 \[text para 6 bullets\]
 
-![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)
-\`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention.\`
+![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention.`
 
 \[para 6\]
 
