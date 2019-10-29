@@ -14,7 +14,8 @@ Author: Susannah Horton
 sub-heading TBD
 \[text para 3\]
 
-![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)`Brian King, Big Data Platform coordinator giving opening remarks during the 2019 CGIAR Big Data in Agriculture Convention.`
+![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
+`Brian King, Big Data Platform coordinator giving opening remarks during the 2019 CGIAR Big Data in Agriculture Convention.`
 
 \[text para 4\]
 
