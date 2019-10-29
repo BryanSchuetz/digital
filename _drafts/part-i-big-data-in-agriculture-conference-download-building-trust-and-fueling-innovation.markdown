@@ -34,7 +34,7 @@ In addition to panels and workshops, I was compelled by how the convention showc
 
 * [Pest and disease monitoring by using AI](https://bigdata.cgiar.org/inspire/inspire-challenge-2017/pest-and-disease-monitoring-by-using-artificial-intelligence/) (scale-up grant): aims to help smallholder farmers by providing farm-level advice that leverages the power of AI, advanced sensor technology, and crowdsourcing.
 
-* [Using Commercial Microwave Links (CML) to estimate rainfalls](https://bigdata.cgiar.org/inspire/inspire-challenge-2018/using-commercial-microwave-links-cml-to-estimate-rainfalls/) (scale-up grant): while conventional rainfall monitoring techniques have various shortcomings, this project leverages the superior accuracy of CML technology to help design better rainfall-based index insurance in Kenya using CML technology.
+* [Using Commercial Microwave Links (CML) to estimate rainfalls](https://bigdata.cgiar.org/inspire/inspire-challenge-2018/using-commercial-microwave-links-cml-to-estimate-rainfalls/) (scale-up grant): while conventional rainfall monitoring techniques have various shortcomings, this project leverages the superior accuracy of CML technology to help design better rainfall-based index insurance in Kenya.
 
 ![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention`
 
