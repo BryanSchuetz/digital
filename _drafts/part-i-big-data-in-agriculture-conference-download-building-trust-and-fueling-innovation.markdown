@@ -13,7 +13,8 @@ thumbnail: "/uploads/susannah%20blog%20photo%202.jpg"
 
 <!--more-->
 
-\## sub-heading TBD
+## Sub-heading TBD
+
 \[text para 3\]
 
 ![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
@@ -23,7 +24,7 @@ thumbnail: "/uploads/susannah%20blog%20photo%202.jpg"
 
 \[text para 5\]
 
-sub-heading TBD
+## Sub-heading TBD
 \[text para 6 bullets\]
 
 ![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention.`
