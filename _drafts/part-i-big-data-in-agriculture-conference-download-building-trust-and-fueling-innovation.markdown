@@ -1,8 +1,9 @@
 ---
 title: 'Part I: Big data in agriculture conference download: building trust and fueling
   innovation'
-date: 2019-10-29 14:37:00 -04:00
+date: 2019-10-31 06:00:00 -04:00
 Author: Susannah Horton
+social-image: "/uploads/susannah%20blog%20photo%202.jpg"
 ---
 
 \[text para 1\]
