@@ -9,7 +9,7 @@ Author: Susannah Horton
 
 \[text para 2\]
 
-read more
+<!--more-->
 
 sub-heading TBD
 \[text para 3\]
