@@ -14,7 +14,7 @@ Author: Susannah Horton
 sub-heading TBD
 \[text para 3\]
 
-![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
+![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)`Brian King, Big Data Platform coordinator giving opening remarks during the 2019 CGIAR Big Data in Agriculture Convention.`
 
 \[text para 4\]
 
@@ -24,7 +24,7 @@ sub-heading TBD
 \[text para 6 bullets\]
 
 ![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)
-photo 2 caption
+\`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention.\`
 
 \[para 6\]
 
