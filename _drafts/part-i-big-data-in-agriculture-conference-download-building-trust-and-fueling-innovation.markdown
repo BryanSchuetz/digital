@@ -18,7 +18,7 @@ Not only did I have the rare opportunity to engage with super smart scientist-ty
 To kick off the convention, [Brian King](https://2019cgiarbigdatainag.sched.com/speaker/b.king), CGIAR Big Data Platform coordinator, cited a [study](https://www.edelman.com/trust-barometer) to support the claim that we are experiencing a global crisis in trust. He proceeded to unpack how we might define trust and what it means for people working at the intersection of data, innovation, and agriculture in emerging economies. Brian suggested trust as a combination of ability, integrity, and benevolence.
 
 ![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
-`Brian King, Big Data Platform coordinator giving opening remarks during the 2019 CGIAR Big Data in Agriculture Convention.`
+`Brian King, Big Data Platform coordinator giving opening remarks during the 2019 CGIAR Big Data in Agriculture Convention`
 
 Similarly, the keynote speaker, [Jayesh Ranjan](https://2019cgiarbigdatainag.sched.com/speaker/jayesh_ranjan.204jdwju), IT Secretary, State of Telangana, echoed Brian’s sentiments when he noted that to overcome today’s trust deficit and succeed in our important quest to uncover how to use large amounts of data to reveal critical insights, we need transparency, ethics, integrity and values.
 
@@ -36,7 +36,7 @@ In addition to panels and workshops, I was compelled by how the convention showc
 
 * [Using Commercial Microwave Links (CML) to estimate rainfalls](https://bigdata.cgiar.org/inspire/inspire-challenge-2018/using-commercial-microwave-links-cml-to-estimate-rainfalls/) (scale-up grant): while conventional rainfall monitoring techniques have various shortcomings, this project leverages the superior accuracy of CML technology to help design better rainfall-based index insurance in Kenya using CML technology.
 
-![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention.`
+![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)`Inspire Challenge winners at the closing celebration during the 2019 CGIAR Big Data in Agriculture Convention`
 
 During the convention’s closing, grants exceeding a total of one million USD were awarded to help [eight projects](https://bigdata.cgiar.org/inspire/applying-for-the-challenge/inspire-winners/) find a foothold and path to scale. With trust-building as a foundational element, the Inspire Challenge exemplified a recurring theme: big data in agriculture represents an unprecedented opportunity to discover novel ways to reduce hunger and poverty by pairing science and research with big data platforms.
 
