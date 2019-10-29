@@ -14,7 +14,6 @@ read more
 sub-heading TBD
 \[text para 3\]
 
-photo
 ![susannah blog photo 1.jpg](/uploads/susannah%20blog%20photo%201.jpg)
 
 \[text para 4\]
@@ -24,7 +23,6 @@ photo
 sub-heading TBD
 \[text para 6 bullets\]
 
-photo 2
 ![susannah blog photo 2.jpg](/uploads/susannah%20blog%20photo%202.jpg)
 photo 2 caption
 
