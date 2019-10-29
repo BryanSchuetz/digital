@@ -2,6 +2,9 @@
 title: 'Part I: Big data in Agriculture Conference Download: building trust and fueling
   innovation'
 date: 2019-10-31 06:00:00 -04:00
+tags:
+- digital agriculture
+- innovation
 Author: Susannah Horton
 social-image: "/uploads/susannah%20blog%20photo%202.jpg"
 thumbnail: "/uploads/susannah%20blog%20photo%202.jpg"
