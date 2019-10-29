@@ -4,6 +4,7 @@ title: 'Part I: Big data in agriculture conference download: building trust and 
 date: 2019-10-31 06:00:00 -04:00
 Author: Susannah Horton
 social-image: "/uploads/susannah%20blog%20photo%202.jpg"
+thumbnail: "/uploads/susannah%20blog%20photo%202.jpg"
 ---
 
 \[text para 1\]
