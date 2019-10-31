@@ -10,7 +10,7 @@ social-image: "/uploads/susannah%20blog%20photo%202.jpg"
 thumbnail: "/uploads/susannah%20blog%20photo%202.jpg"
 ---
 
-As a data enthusiast with a budding curiosity in digital agriculture, I was excited to attend recent the [2019 CGIAR Big Data in Agriculture Convention](https://bigdata.cgiar.org/hyderabad-2019/) in Hyderabad, India. The event brought together attendees from around the globe to connect over the theme of *Trust: humans, machines, and ecosystems.* The CGIAR Big Data Platform aims to “use big data approaches to solve agriculture development problems faster, better, and at greater scale than before.” The platform does this by connecting CGIAR-affiliated researchers from around the globe with development practitioners and ag-tech providers.
+As a data enthusiast with a budding curiosity in digital agriculture, I was excited to attend the recent [2019 CGIAR Big Data in Agriculture Convention](https://bigdata.cgiar.org/hyderabad-2019/) in Hyderabad, India. The event brought together attendees from around the globe to connect over the theme of *Trust: humans, machines, and ecosystems.* The CGIAR Big Data Platform aims to “use big data approaches to solve agriculture development problems faster, better, and at greater scale than before.” The platform does this by connecting CGIAR-affiliated researchers from around the globe with development practitioners and ag-tech providers.
 
 Not only did I have the rare opportunity to engage with super smart scientist-types who, unlike me, have job titles like “plant geneticist” and “mycology and plant pathology specialist,” but I also was compelled to consider the definition and role of trust in the application of data and technology to building resilient global food security.
 
