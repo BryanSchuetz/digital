@@ -29,7 +29,7 @@ At a high level, our analysis resulted in three major findings:
 
 We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled CSOs and Cambodian suppliers of technology solutions to help civil society use information and communication technologies (ICTs) to improve their programming, reach and impact.” DI became a more responsive, effective and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year. (See our timeline at the end of this post for the full picture.)
 
-![Lydet picture.png](/uploads/Lydet%20picture.png)
+![Lydet picture.png](/uploads/Lydet%20picture.png)`A group of children being interviewed for a digital storytelling project. Photo courtesy: Development Innovations project.`
 
 This begs the question – how can other organizations or groups replicate DI’s successes in the civil society or innovation space? We have got you covered. Below are our suggestions, grouped under common programmatic problem areas.
 
