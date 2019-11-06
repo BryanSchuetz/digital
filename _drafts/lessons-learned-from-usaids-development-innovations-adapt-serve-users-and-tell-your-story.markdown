@@ -7,6 +7,7 @@ tags:
 - Ecosystem Insights
 Author: Inta Plostins
 social-image: "/uploads/Chandy%20photo.jpg"
+thumbnail: "/uploads/Chandy%20photo.jpg"
 ---
 
 *Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
