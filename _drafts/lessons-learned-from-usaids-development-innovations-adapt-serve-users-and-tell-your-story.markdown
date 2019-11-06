@@ -107,4 +107,4 @@ We strongly urge other tech-focused programs or innovative civil society project
 
 *Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
 
-![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)
+![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)`The evolution of the Development Innovations project over time.`
