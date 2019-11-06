@@ -2,6 +2,9 @@
 title: 'Lessons Learned from USAID''s Development Innovations: Adapt, Serve Users,
   and Tell Your Story'
 date: 2019-11-06 09:51:00 -05:00
+tags:
+- Innovation
+- Ecosystem Insights
 Author: Inta Plostins
 social-image: "/uploads/Chandy%20photo.jpg"
 ---
