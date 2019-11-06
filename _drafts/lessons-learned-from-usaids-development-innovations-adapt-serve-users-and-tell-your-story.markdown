@@ -1,0 +1,105 @@
+---
+title: 'Lessons Learned from USAID''s Development Innovations: Adapt, Serve Users
+  and Tell your Story'
+date: 2019-11-06 09:51:00 -05:00
+Author: Inta Plostins
+social-image: "/uploads/Chandy%20photo.jpg"
+---
+
+*Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
+
+As an avid and committed reader of the [Digital@DAI](https://dai-global-digital.com/) blog, you have no doubt come across the CDA team’s extensive coverage of [USAID’s Development Innovations](https://www.development-innovations.org/) (DI) project. My colleagues have chronicled efforts to address flooding by [building hardware](https://dai-global-digital.com/civil-society-the-hard-ware-way-maker-lab-experiences-in-cambodia.html) with locally available parts, the project’s [design research with CSOs](https://dai-global-digital.com/cambodia-civil-society-facebook.html) in Phnom Penh, and everything in between. With a mandate to strengthen Cambodia’s tech ecosystem and facilitate connections between civil society and the local tech community, USAID’s Development Innovations project is one of the only USAID projects in the world that focuses on technology and innovation ecosystems. But alas, all good things must come to an end – especially when the mission has been achieved and staff have worked themselves out of a job.
+
+![Chandy photo.jpg](/uploads/Chandy%20photo.jpg)
+
+After a remarkable body of work over six years – like working with Cambodian partners to design and test more than 80 technology-enabled solutions, designing a [comprehensive ICT4D toolkit](https://www.development-innovations.org/ict4d-toolkit/) optimized for a Cambodian audience, training Cambodian CSOs in [digital storytelling for the social media age](https://www.facebook.com/DevInnoKH/videos/447052192538864/), and smashing the digital gender divide through [digital literacy programs](https://www.phnompenhpost.com/lifestyle-creativity-innovation/tech-innovator-cambodian-girls-create-prize-winning-poetry-app) for girls and young women – this [award-winning](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia) project is finally closing in November 2019. Three months ago, consultant [Laurie Pierce](https://www.linkedin.com/in/laurie-pierce-4a16b0a5/) and I dug into the entirety of DI’s accomplishments and failures. How so? By interviewing 40\+ DI partners, beneficiaries, end users, and high-level stakeholders. We distilled our findings into a set of recommendations for those of you who want to tackle the wild and wonderful world of innovation-focused civil society programming.
+
+At a high level, our analysis resulted in three major findings:
+
+* ***Adaptive management over DI’s lifespan improved activity focus and quality.** *From the beginning, DI learned more from its failures than its successes and applied that leaning to make real-time programmatic changes. This led to more targeted program objectives and offerings, which in turn led to higher quality interventions and improved program outcomes.
+
+* ***DI catalyzed behavior change among partners, beneficiaries, and the public sector.*** Over the program’s lifespan, DI demonstrated different approaches to doing business with its partners, beneficiaries and other stakeholders. DI facilitated mindset shifts for its partners, who then began modelling and institutionalizing DI processes and practices in their own work – especially adaptive management, a user-focus, and managing with empathy.
+
+* ***DI assistance, networks, and convening power increased partner credibility, attracting the attention, support, and respect of government ministries, international donors, and the private sector. ***DI played a central role in fostering Cambodia’s budding civic tech ecosystem by positioning itself as the country’s primary civic technology nexus. By attracting major private sector players, the public sector and donors, DI brought together disparate actors, thus consolidating the civic technology ecosystem.
+
+We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled CSOs and Cambodian suppliers of technology solutions to help civil society use information and communication technologies (ICTs) to improve their programming, reach and impact.” DI became a more responsive, effective and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year. (See our timeline at the end of this post for the full picture.)
+
+![Lydet picture.png](/uploads/Lydet%20picture.png)
+
+This begs the question – how can other organizations or groups replicate DI’s successes in the civil society or innovation space? We have got you covered. Below are our suggestions, grouped under common programmatic problem areas.
+
+***Improving Activity Designs and the Co-design Phase***
+
+* Build a rapid activity co-design process into every future program
+
+* Encourage more partner investment in proposed activities
+
+* Apply HCD principles throughout all activity stages
+
+* Strike a balance between quantity and quality for trainings
+
+* Target youth as information and tech disseminators
+
+* Tailor all program content to the local context and local language
+
+* Consider different manifestations of sustainability
+
+***Streamlining Funding Processes and Mechanisms for Partners***
+
+* Minimize bureaucracy and regulatory obstacles while emphasizing agility and responsiveness in grants management
+
+* Simplify fixed award amount (FAA) grant milestones and deliverables
+
+* Explore alternative funding mechanisms for smaller activities
+
+***Providing More Tailored Integrated Assistance to Partners***
+
+* Offer an individualized integrated service suite that complements grant funding
+
+* Segment partners by capacity and skill level to target appropriate support
+
+* Couple entrepreneurship training with digital skills training for an integrated skills development package
+
+* Select and customize mentorship recruitment, retention and coordination
+
+* Hire an appropriate number of capable staff across all areas of the program
+
+***Optimizing Communications with Programs and Activities***
+
+* Recruit a well-staffed strategic communications and/or social media team
+
+* Develop a program-wide strategic communications plan
+
+* Build in strategic communications support to partners
+
+***Fostering Relationships and Managing Perceptions and Expectations of Civic Technology Programs***
+
+* Provide a comprehensive orientation to partners
+
+* Foster collaborative relationships between CSOs, social enterprises, and local tech companies/service providers
+
+* Reiterate program goals, roles and responsibilities with current and potential partners
+
+***Championing a Collaborative, Adaptive Learning Culture***
+
+* Enshrine CLA culture at the program design and implementation stage
+
+* Invest heavily in rapid or design research
+
+* Hold regular program level reflection, lessons learned and strategic review sessions
+
+***Cultivating, Expanding and Solidifying the Civic Technology Ecosystem***
+
+* Invest time to understand the local tech ecosystem and the existing civil society/tech nexus
+
+* Pull in the private sector, public sector or other development actors, where interests align
+
+* Link partners and initiatives to each other
+
+* Promote existing civic technology networking events and encourage other organizations to host them
+
+We strongly urge other tech-focused programs or innovative civil society projects to learn from DI’s mistakes, adapt DI’s successes to their local context, and take these lessons to heart. Ultimately, DI did what it set out do because it filled a real need in the ecosystem, respectfully listened to and partnered with its constituents, and thoughtfully responded to changing needs on the ground. May other development programs be so lucky.
+
+*Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
+
+![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)
