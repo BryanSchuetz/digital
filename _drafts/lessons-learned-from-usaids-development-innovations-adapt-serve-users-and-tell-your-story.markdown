@@ -15,7 +15,7 @@ As an avid and committed reader of the [Digital@DAI](https://dai-global-digital.
 
 <!--more-->
 
-![Chandy photo.jpg](/uploads/Chandy%20photo.jpg)`A group of children being interviewed for a digital storytelling project. Photo courtesy: Chandy Mau.`
+![Chandy photo.jpg](/uploads/Chandy%20photo.jpg)`Two DI basic video trainees getting ready to interview school children in Kandal Province in 2017. Photo courtesy: Chandy Mau.`
 
 After a remarkable body of work over six years – like working with Cambodian partners to design and test more than 80 technology-enabled solutions, designing a [comprehensive ICT4D toolkit](https://www.development-innovations.org/ict4d-toolkit/) optimized for a Cambodian audience, training Cambodian CSOs in [digital storytelling for the social media age](https://www.facebook.com/DevInnoKH/videos/447052192538864/), and smashing the digital gender divide through [digital literacy programs](https://www.phnompenhpost.com/lifestyle-creativity-innovation/tech-innovator-cambodian-girls-create-prize-winning-poetry-app) for girls and young women – this [award-winning](https://usaidlearninglab.org/library/learning-and-adapting-enables-civil-society-innovations-cambodia) project is finally closing in November 2019. Three months ago, consultant [Laurie Pierce](https://www.linkedin.com/in/laurie-pierce-4a16b0a5/) and I dug into the entirety of DI’s accomplishments and failures. How so? By interviewing 40\+ DI partners, beneficiaries, end users, and high-level stakeholders. We distilled our findings into a set of recommendations for those of you who want to tackle the wild and wonderful world of innovation-focused civil society programming.
 
@@ -107,4 +107,5 @@ We strongly urge other tech-focused programs or innovative civil society project
 
 *Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
 
-![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)`The evolution of the Development Innovations project over time.`
+![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)
+`The evolution of the Development Innovations project over time.`
