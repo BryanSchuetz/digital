@@ -21,84 +21,62 @@ After a remarkable body of work over six years—such as working with Cambodian 
 Our analysis resulted in three major findings:
 
 * **Adaptive management over DI’s lifespan improved activity focus and quality.** From the beginning, DI learned more from its failures than its successes and applied that leaning to make real-time programmatic changes. This led to more targeted program objectives and offerings, which in turn led to higher-quality interventions and improved program outcomes.
-* **DI catalyzed behavior change among partners, beneficiaries, and the private sector.** Over the program’s lifespan, DI demonstrated different approaches to doing business with its partners, beneficiaries and other stakeholders. DI facilitated mindset shifts for its partners, who then began modelling and institutionalizing DI processes and practices in their own work – especially adaptive management, applying a user-focus, and managing with empathy.
+* **DI catalyzed behavior change among partners, beneficiaries, and the private sector.** Over the program’s lifespan, DI demonstrated different approaches to doing business with its partners, beneficiaries and other stakeholders. DI facilitated mindset shifts for its partners, who then began modeling and institutionalizing DI processes and practices in their own work—especially adaptive management, applying a user-focus, and managing with empathy.
+* **DI assistance, networks, and convening power increased partner credibility, attracting the attention, support, and respect of government ministries, international donors, and the private sector.** DI positioned itself as the country’s primary nexus for a budding civic tech ecosystem. By attracting major private sector players, the public sector and donors, DI brought together disparate actors, thus consolidating the civic technology ecosystem.
 
-* **DI assistance, networks, and convening power increased partner credibility, attracting the attention, support, and respect of government ministries, international donors, and the private sector.** DI played a central role in fostering Cambodia’s budding civic tech ecosystem by positioning itself as the country’s primary civic technology nexus. By attracting major private sector players, the public sector and donors, DI brought together disparate actors, thus consolidating the civic technology ecosystem.
+We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled civil society organizations and Cambodian suppliers of technology solutions to help civil society use information and communication technologies to improve their programming, reach, and impact.” DI became a more responsive, effective, and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year. (See our timeline below for the full picture.)
 
-We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled CSOs and Cambodian suppliers of technology solutions to help civil society use information and communication technologies (ICTs) to improve their programming, reach and impact.” DI became a more responsive, effective and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year. (See our timeline at the end of this post for the full picture.)
+![Lydet picture.png](/uploads/Lydet%20picture.png)`Former DI staff member Lydet Pidor presenting at the DI Tech Expo in September 2019. Photo courtesy: DI.`
 
-![Lydet picture.png](/uploads/Lydet%20picture.png)`Former DI staff member Lydet Pidor presenting at the Development Innovations Tech Expo in September 2019. Photo courtesy: Development Innovations project.`
-
-This begs the question – how can other organizations or groups replicate DI’s successes in the civil society or innovation space? We have got you covered. Below are our suggestions, grouped under common programmatic problem areas.
+This success begs the question: How can other organizations or groups replicate DI’s role in the civil society or innovation space? Below are our suggestions, grouped under common programmatic problem areas.
 
 ***Improving Activity Designs and the Co-design Phase***
 
 * Build a rapid activity co-design process into every future program
-
 * Encourage more partner investment in proposed activities
-
-* Apply HCD principles throughout all activity stages
-
+* Apply human-centered design principles throughout all activity stages
 * Strike a balance between quantity and quality for trainings
-
-* Target youth as information and tech disseminators
-
+* Engage young people as information and tech disseminators
 * Tailor all program content to the local context and local language
-
 * Consider different manifestations of sustainability
 
 ***Streamlining Funding Processes and Mechanisms for Partners***
 
 * Minimize bureaucracy and regulatory obstacles while emphasizing agility and responsiveness in grants management
-
-* Simplify fixed award amount (FAA) grant milestones and deliverables
-
+* Simplify fixed award amount grant milestones and deliverables
 * Explore alternative funding mechanisms for smaller activities
 
 ***Providing More Tailored Integrated Assistance to Partners***
 
 * Offer an individualized integrated service suite that complements grant funding
-
 * Segment partners by capacity and skill level to target appropriate support
-
 * Couple entrepreneurship training with digital skills training for an integrated skills development package
-
-* Select and customize mentorship recruitment, retention and coordination
-
+* Select and customize mentorship recruitment, retention, and coordination
 * Hire an appropriate number of capable staff across all areas of the program
 
 ***Optimizing Communications with Programs and Activities***
 
 * Recruit a well-staffed strategic communications and/or social media team
-
-* Develop a program-wide strategic communications plan
-
+* Develop a strategic communications plan
 * Build in strategic communications support to partners
 
 ***Fostering Relationships and Managing Perceptions and Expectations of Civic Technology Programs***
 
 * Provide a comprehensive orientation to partners
-
-* Foster collaborative relationships between CSOs, social enterprises, and local tech companies/service providers
-
+* Foster collaborative relationships between civil society groups, social enterprises, and local tech companies and service providers
 * Reiterate program goals, roles and responsibilities with current and potential partners
 
-***Championing a Collaborative, Adaptive Learning Culture***
+***Championing a Collaborative, Adaptive, and Learning (CLA) Culture***
 
 * Enshrine CLA culture at the program design and implementation stage
-
 * Invest heavily in rapid or design research
-
-* Hold regular program level reflection, lessons learned and strategic review sessions
+* Hold regular program-level reflection, lessons learned and strategic review sessions
 
 ***Cultivating, Expanding and Solidifying the Civic Technology Ecosystem***
 
 * Invest time to understand the local tech ecosystem and the existing civil society/tech nexus
-
-* Pull in the private sector, public sector or other development actors, where interests align
-
+* Pull in the private sector, public sector, or other development actors, where interests align
 * Link partners and initiatives to each other
-
 * Promote existing civic technology networking events and encourage other organizations to host them
 
 We strongly urge other tech-focused programs or innovative civil society projects to learn from DI’s mistakes, adapt DI’s successes to their local context, and take these lessons to heart. Ultimately, DI did what it set out do because it filled a real need in the ecosystem, respectfully listened to and partnered with its constituents, and thoughtfully responded to changing needs on the ground. May other development programs be so lucky.
