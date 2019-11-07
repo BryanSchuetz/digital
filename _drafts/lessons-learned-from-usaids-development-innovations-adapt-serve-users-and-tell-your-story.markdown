@@ -1,6 +1,6 @@
 ---
-title: 'Lessons Learned from USAID''s Development Innovations: Adapt, Serve Users,
-  and Tell Your Story'
+title: 'Lessons Learned from Development Innovations Team: Adapt, Serve Users, and
+  Tell Your Story'
 date: 2019-11-07 06:00:00 -05:00
 tags:
 - Innovation
@@ -9,8 +9,6 @@ Author: Inta Plostins
 social-image: "/uploads/Chandy%20photo.jpg"
 thumbnail: "/uploads/Chandy%20photo.jpg"
 ---
-
-*Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
 
 As an avid and committed reader of the [Digital@DAI](https://dai-global-digital.com/) blog, you have no doubt come across the CDA team’s extensive coverage of [USAID’s Development Innovations](https://www.development-innovations.org/) (DI) project. My colleagues have chronicled efforts to address flooding by [building hardware](https://dai-global-digital.com/civil-society-the-hard-ware-way-maker-lab-experiences-in-cambodia.html) with locally available parts, the project’s [design research with CSOs](https://dai-global-digital.com/cambodia-civil-society-facebook.html) in Phnom Penh, and everything in between. With a mandate to strengthen Cambodia’s tech ecosystem and facilitate connections between civil society and the local tech community, USAID’s Development Innovations project is one of the only USAID projects in the world that focuses on technology and innovation ecosystems. But alas, all good things must come to an end – especially when the mission has been achieved and staff have worked themselves out of a job.
 
