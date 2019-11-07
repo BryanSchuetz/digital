@@ -18,7 +18,7 @@ Today, the [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-d
 
 ![Save the Children.jpg](/uploads/Save%20the%20Children.jpg)`Photo courtesy: Save the Children.`
 
-**Who Should Apply?**
+## Who Should Apply?
 
 DAI is looking for organizations with the following qualifications:
 
