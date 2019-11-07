@@ -31,7 +31,7 @@ DAI is looking for organizations with the following qualifications:
 
 * Ability to work under tight timeframes and successfully meet deadlines.
 
-More information on qualifications and how to apply can be found 
+More information on qualifications and how to apply can be found ![ML-AI RFP 2019_05_Final v2 (1).pdf](/uploads/ML-AI%20RFP%202019_05_Final%20v2%20(1).pdf)
 
 Proposals are due November 25 at 5:00pm EST to DigitalFrontiers@dai.com. Questions regarding the RFP  are due November 12 by 5:00pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
 
