@@ -81,7 +81,7 @@ This success begs the question: How can other organizations or groups replicate 
 
 We strongly urge other tech-focused programs or innovative civil society projects to learn from DI’s mistakes, adapt DI’s successes to their local context, and take these lessons to heart. Ultimately, DI did what it set out do because it filled a real need in the ecosystem, respectfully listened to and partnered with its constituents, and thoughtfully responded to changing needs on the ground. May other development programs be so lucky.
 
-*Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
-
 ![DI timeline graphic.png](/uploads/DI%20timeline%20graphic.png)
 `The evolution of the Development Innovations project over time.`
+
+*Download the full DI consolidated results & learning assessment [here](https://www.development-innovations.org/wp-content/uploads/2019/11/DI-Consolidated-Results-and-Learning-Assessment-Report-2019-Final.pdf).*
