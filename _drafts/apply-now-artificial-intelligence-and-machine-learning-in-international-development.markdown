@@ -1,6 +1,7 @@
 ---
 title: 'Apply Now: Artificial Intelligence and Machine Learning in International Development'
 date: 2019-11-07 09:23:00 -05:00
+Author: "[Stephanie Creed](https://www.linkedin.com/in/stephanie-c-creed/)"
 social-image: "/uploads/Save%20the%20Children.jpg"
 thumbnail: "/uploads/Save%20the%20Children.jpg"
 ---
