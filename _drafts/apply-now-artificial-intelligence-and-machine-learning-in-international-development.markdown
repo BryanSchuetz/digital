@@ -31,4 +31,4 @@ DAI is looking for organizations with the following qualifications:
 
 * Ability to work under tight timeframes and successfully meet deadlines.
 
-More information on qualifications and how to apply can be found here \[link to PDF\].
+More information on qualifications and how to apply can be found [here ](https://www.usaid.gov/sites/default/files/documents/15396/AI-ML-in-Development.pdf)
