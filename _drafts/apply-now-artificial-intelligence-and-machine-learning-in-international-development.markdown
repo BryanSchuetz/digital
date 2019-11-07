@@ -12,3 +12,23 @@ USAID would like to translate the report’s learnings and recommendations into 
 Today, Digital Frontiers releases a request for proposals (RFP) for qualified firms to work with Digital Frontiers and USAID’s S&R team to create a modular, field-ready AI/ML guidance product that translates findings from the S&R Team’s 2018 report into concise, practical guidance for USAID staff and their partners.
 
 ![Save the Children.jpg](/uploads/Save%20the%20Children.jpg)
+
+**Who Should Apply?**
+
+DAI is looking for organizations with the following qualifications:
+
+* Advanced technical expertise in the use of machine learning and artificial intelligence technologies in development required.
+
+* USAID experience required; US Global Development Lab/CDD experience a plus.
+
+* Strong writing and editing skills.
+
+* Experience creating field-ready practical guides/materials/tools preferred.
+
+* Previous experience formatting and designing USAID publications preferred.
+
+* Previous experience in website design preferred.
+
+* Ability to work under tight timeframes and successfully meet deadlines.
+
+More information on qualifications and how to apply can be found here \[link to PDF\].
