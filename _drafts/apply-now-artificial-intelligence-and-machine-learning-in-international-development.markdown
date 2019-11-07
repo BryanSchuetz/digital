@@ -2,6 +2,7 @@
 title: 'Apply Now: Artificial Intelligence and Machine Learning in International Development'
 date: 2019-11-07 09:23:00 -05:00
 social-image: "/uploads/Save%20the%20Children.jpg"
+thumbnail: "/uploads/Save%20the%20Children.jpg"
 ---
 
 Artificial intelligence (AI) and machine learning (ML) technologies, although still relatively young, are garnering a vast amount of interest in international development across sectors and geographies. USAID’s Center for Digital Development’s Strategy & Research (S&R) team published a report in 2018, [Reflecting the Past, Shaping the Future: Making AI work for International Development](https://www.usaid.gov/digital-development/machine-learning/AI-ML-in-development), based on extensive research on this rapidly growing field.
