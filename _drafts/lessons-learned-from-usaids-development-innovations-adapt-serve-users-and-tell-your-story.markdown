@@ -6,8 +6,8 @@ tags:
 - Innovation
 - Ecosystem Insights
 Author: Inta Plostins
-social-image: "/uploads/Chandy%20photo.jpg"
-thumbnail: "/uploads/Chandy%20photo.jpg"
+social-image: "/uploads/Chandy%20Photo-No%20Watermark.jpg"
+thumbnail: "/uploads/Chandy%20Photo-No%20Watermark.jpg"
 ---
 
 As an avid and committed reader of [Digital@DAI](https://dai-global-digital.com/), you have no doubt come across our extensive coverage of the Cambodia [Development Innovations](https://www.development-innovations.org/) (DI) project, funded by the U.S. Agency for International Development (USAID). My colleagues have chronicled efforts to address flooding by [building hardware](https://dai-global-digital.com/civil-society-the-hard-ware-way-maker-lab-experiences-in-cambodia.html) with locally available parts, the project’s [design research with civil society groups](https://dai-global-digital.com/cambodia-civil-society-facebook.html) in Phnom Penh, and everything in between. With a mandate to strengthen Cambodia’s civic tech ecosystem and facilitate connections between civil society and the local tech community, DI was one of the only USAID projects that focused on technology and innovation ecosystems. But alas, all good things must come to an end—especially when the mission has been achieved and staff have worked themselves out of a job.
