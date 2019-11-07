@@ -11,7 +11,7 @@ USAID would like to translate the report’s learnings and recommendations into 
 
 Today, Digital Frontiers releases a request for proposals (RFP) for qualified firms to work with Digital Frontiers and USAID’s S&R team to create a modular, field-ready AI/ML guidance product that translates findings from the S&R Team’s 2018 report into concise, practical guidance for USAID staff and their partners.
 
-![Save the Children.jpg](/uploads/Save%20the%20Children.jpg)
+![Save the Children.jpg](/uploads/Save%20the%20Children.jpg)`Photo courtesy: Save the Children.`
 
 **Who Should Apply?**
 
