@@ -28,7 +28,7 @@ Our analysis resulted in three major findings:
 
 * **DI assistance, networks, and convening power increased partner credibility, attracting the attention, support, and respect of government ministries, international donors, and the private sector.** DI positioned itself as the country’s primary nexus for a budding civic tech ecosystem. By attracting major private sector players, the public sector and donors, DI brought together disparate actors, thus consolidating the civic technology ecosystem.
 
-We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled civil society organizations and Cambodian suppliers of technology solutions to help civil society use information and communication technologies to improve their programming, reach, and impact.” DI became a more responsive, effective, and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year. (See our timeline below for the full picture.)
+We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled civil society organizations and Cambodian suppliers of technology solutions to help civil society use information and communication technologies to improve their programming, reach, and impact.” DI became a more responsive, effective, and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year.
 
 ![Lydet picture.png](/uploads/Lydet%20picture.png)`Former DI staff member Lydet Pidor presenting at the DI Tech Expo in September 2019. Photo courtesy: DI.`
 
