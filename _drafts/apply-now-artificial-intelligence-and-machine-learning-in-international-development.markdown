@@ -31,4 +31,8 @@ DAI is looking for organizations with the following qualifications:
 
 * Ability to work under tight timeframes and successfully meet deadlines.
 
-More information on qualifications and how to apply can be found [here ](https://www.usaid.gov/sites/default/files/documents/15396/AI-ML-in-Development.pdf)
+More information on qualifications and how to apply can be found 
+
+Proposals are due November 25 at 5:00pm EST to DigitalFrontiers@dai.com. Questions regarding the RFP  are due November 12 by 5:00pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
+
+*Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the Center for Digital Development (CDD), USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
