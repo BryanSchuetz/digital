@@ -1,6 +1,6 @@
 ---
 title: 'Apply Now: Artificial Intelligence and Machine Learning in International Development'
-date: 2019-11-07 09:23:00 -05:00
+date: 2019-11-08 09:23:00 -05:00
 tags:
 - Innovation
 Author: "[Stephanie Creed](https://www.linkedin.com/in/stephanie-c-creed/)"
