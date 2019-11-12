@@ -24,7 +24,7 @@ The international development sector has documented its body of knowledge within
 One common method of vectorization works by assigning all of the words in a body of text-based documents—referred to as a corpus—to an enormous table, where each column is a unique term in the corpus and each row is a document. The resulting matrix is populated by a numerical statistic that reflects how important each term is to each document—based on frequency—offset by how common the term is in the corpus. The more common a term is in a corpus, the less likely it is to be important for characterizing any one document. The terms can be either single words (unigrams), word pairs (bigrams), or even larger sequential word groupings from the text. The choice of term size differs depending on use case and relates to the performance of the NLP predictive model to be used. Breaking the following sentence into bigrams, for example, would result in the subsequent column headings:
 The agriculture project is in Malawi.
 
-![Blog image #12Nov19.jpg](/uploads/Blog%20image%20%2312Nov19.jpg)
+![Blog image 1_12Nov19_resize.jpg](/uploads/Blog%20image%201_12Nov19_resize.jpg)
 
 Once the documents in a corpus are represented numerically, coded models can train on (or learn) existing patterns in the text. This is done using a training set of text instances—project reports, for example. Once the predictive model is trained, it can be used to approximate the nature of additional documents, based on the characteristics it learned from the training set.
 
@@ -34,7 +34,9 @@ Once the documents in a corpus are represented numerically, coded models can tra
 
 If an NLP predictive model is trained on a set of project documents that are pre-labeled by development sector—health, education, agriculture, or governance, for example—it will use the commonalities in the text patterns among documents with the same sector labels to predict the appropriate labels for other project documents fed to it. This could be a cache of decades worth of documents sitting unorganized in a P drive or online repository and which are too numerous for people to read and label manually. Other “features” of the document—year, country, or authoring entity—could also be utilized with the model. An incredibly large collection of documents can then be automatically organized into meaningful subsets, on which more refined models can be designed to further analyze and segment. Information and insights long since buried, are suddenly within reach.
 
-![Blog image 2_12Nov19.png](/uploads/Blog%20image%202_12Nov19.png)`Figure 1: An NLP process flow`
+![Blog image 2_12Nov19_resize.jpg](/uploads/Blog%20image%202_12Nov19_resize.jpg)
+
+`Figure 1: An NLP process flow`
 
 ## The Machine Learning Process
 
