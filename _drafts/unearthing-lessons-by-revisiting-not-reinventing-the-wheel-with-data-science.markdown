@@ -26,6 +26,8 @@ The international development sector has documented its body of knowledge within
 ## The Mechanics
 
 One common method of vectorization works by assigning all of the words in a body of text-based documents—referred to as a corpus—to an enormous table, where each column is a unique term in the corpus and each row is a document. The resulting matrix is populated by a numerical statistic that reflects how important each term is to each document—based on frequency—offset by how common the term is in the corpus. The more common a term is in a corpus, the less likely it is to be important for characterizing any one document. The terms can be either single words (unigrams), word pairs (bigrams), or even larger sequential word groupings from the text. The choice of term size differs depending on use case and relates to the performance of the NLP predictive model to be used. Breaking the following sentence into bigrams, for example, would result in the subsequent column headings:
+
+
 *The agriculture project is in Malawi.*
 
 ![Blog table_12Nov19_resize.jpg](/uploads/Blog%20table_12Nov19_resize.jpg)
