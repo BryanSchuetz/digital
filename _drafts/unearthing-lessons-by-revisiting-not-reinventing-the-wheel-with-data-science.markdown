@@ -34,6 +34,8 @@ Once the documents in a corpus are represented numerically, coded models can tra
 
 If an NLP predictive model is trained on a set of project documents that are pre-labeled by development sector—health, education, agriculture, or governance, for example—it will use the commonalities in the text patterns among documents with the same sector labels to predict the appropriate labels for other project documents fed to it. This could be a cache of decades worth of documents sitting unorganized in a P drive or online repository and which are too numerous for people to read and label manually. Other “features” of the document—year, country, or authoring entity—could also be utilized with the model. An incredibly large collection of documents can then be automatically organized into meaningful subsets, on which more refined models can be designed to further analyze and segment. Information and insights long since buried, are suddenly within reach.
 
+![Blog image 2_12Nov19.png](/uploads/Blog%20image%202_12Nov19.png)
+
 Figure 1: An NLP process flow
 
 ## The Machine Learning Process
