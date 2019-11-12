@@ -3,6 +3,7 @@ title: Unearthing Lessons by Revisiting, not Reinventing the Wheel with Data Sci
 date: 2019-11-14 07:00:00 -05:00
 tags:
 - Machine Learning
+- Data
 social-image: "/uploads/Blog%20image%20%2312Nov19.jpg"
 thumbnail: "/uploads/Blog%20image%20%2312Nov19.jpg"
 ---
