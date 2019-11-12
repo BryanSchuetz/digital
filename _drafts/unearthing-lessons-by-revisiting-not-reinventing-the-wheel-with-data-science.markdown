@@ -9,6 +9,8 @@ thumbnail: "/uploads/Blog%20image%20%2312Nov19.jpg"
 
 As we enter what the World Economic Forum refers to as the “[fourth industrial revolution](https://www.weforum.org/focus/fourth-industrial-revolution)”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—practitioners in the field of international development, as in all industries, are shifting toward data-centric business practices that require new systems, work flows, and skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals held by a wide array of stakeholders.
 
+![Blog image 1_12Nov19_resize.jpg](/uploads/Blog%20image%201_12Nov19_resize.jpg)
+
 Data science is an approach to gaining insights from data through advanced statistics and the development of customized code—generally using [Python](https://www.python.org/) or [R](https://www.r-project.org/) coding languages. Just as data science tools can construct insights from new data, machine learning algorithms (or models) can also help to mine hidden institutional knowledge from text using what’s known as natural language processing (NLP). NLP holds potential to analyze and draw trends from the multitude of lessons out there.
 
 <!--more-->
@@ -23,8 +25,6 @@ The international development sector has documented its body of knowledge within
 
 One common method of vectorization works by assigning all of the words in a body of text-based documents—referred to as a corpus—to an enormous table, where each column is a unique term in the corpus and each row is a document. The resulting matrix is populated by a numerical statistic that reflects how important each term is to each document—based on frequency—offset by how common the term is in the corpus. The more common a term is in a corpus, the less likely it is to be important for characterizing any one document. The terms can be either single words (unigrams), word pairs (bigrams), or even larger sequential word groupings from the text. The choice of term size differs depending on use case and relates to the performance of the NLP predictive model to be used. Breaking the following sentence into bigrams, for example, would result in the subsequent column headings:
 The agriculture project is in Malawi.
-
-![Blog image 1_12Nov19_resize.jpg](/uploads/Blog%20image%201_12Nov19_resize.jpg)
 
 Once the documents in a corpus are represented numerically, coded models can train on (or learn) existing patterns in the text. This is done using a training set of text instances—project reports, for example. Once the predictive model is trained, it can be used to approximate the nature of additional documents, based on the characteristics it learned from the training set.
 
