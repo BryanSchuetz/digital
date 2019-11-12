@@ -4,6 +4,7 @@ date: 2019-11-14 07:00:00 -05:00
 tags:
 - Machine Learning
 - Data
+Author: "[Matt Styslinger](https://www.linkedin.com/in/mstyslinger/)"
 social-image: "/uploads/Blog%20image%20%2312Nov19.jpg"
 thumbnail: "/uploads/Blog%20image%20%2312Nov19.jpg"
 ---
