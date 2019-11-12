@@ -11,11 +11,11 @@ thumbnail: "/uploads/Blog%20image%20%2312Nov19.jpg"
 
 As we enter what the World Economic Forum refers to as the “[fourth industrial revolution](https://www.weforum.org/focus/fourth-industrial-revolution)”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—practitioners in the field of international development, as in all industries, are shifting toward data-centric business practices that require new systems, work flows, and skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals held by a wide array of stakeholders.
 
+<!--more-->
+
 ![Blog image 1_12Nov19_resize.jpg](/uploads/Blog%20image%201_12Nov19_resize.jpg)
 
 Data science is an approach to gaining insights from data through advanced statistics and the development of customized code—generally using [Python](https://www.python.org/) or [R](https://www.r-project.org/) coding languages. Just as data science tools can construct insights from new data, machine learning algorithms (or models) can also help to mine hidden institutional knowledge from text using what’s known as natural language processing (NLP). NLP holds potential to analyze and draw trends from the multitude of lessons out there.
-
-<!--more-->
 
 ## The ABCs of NLP
 
