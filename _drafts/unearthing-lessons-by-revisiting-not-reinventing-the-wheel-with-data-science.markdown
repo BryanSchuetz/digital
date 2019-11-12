@@ -9,7 +9,7 @@ Data science is an approach to gaining insights from data through advanced stati
 
 <!--more-->
 
-The ABCs of NLP
+## The ABCs of NLP
 In short, [NLP focuses](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63) on the interactions between computer and human languages and can be applied to text and speech. NLP is used in systems such as speech recognition, document summarization, translation, spam detection, question answering, and predictive typing, just to name a few examples.
 
 The international development sector has documented its body of knowledge within [decades of reports](https://dec.usaid.gov/dec/home/Default.aspx), articles, books, and other documents, generating massive volumes of text. In instances where that knowledge and experience could be most informative—during project design, strategic planning, or stakeholder engagement, for example—it is often untenable for people to locate, read, and analyze existing text-based data to extract relevant trends or other insights. NLP machine learning models transform large amounts of text into numeric values—a process called *[vectorization](https://medium.com/@paritosh_30025/natural-language-processing-text-data-vectorization-af2520529cf7).* This process makes the informational patterns in the text available for machine learning models to draw out insights.
