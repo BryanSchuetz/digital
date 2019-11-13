@@ -15,13 +15,13 @@ As we enter what the World Economic Forum refers to as the “[fourth industrial
 
 ![Blog image 1_12Nov19_resize.jpg](/uploads/Blog%20image%201_12Nov19_resize.jpg)
 
-Data science is an approach to gaining insights from data through advanced statistics and the development of customized code—generally using [Python](https://www.python.org/) or [R](https://www.r-project.org/) coding languages. Just as data science tools can construct insights from new data, machine learning algorithms (or models) can also help to mine hidden institutional knowledge from text using what’s known as natural language processing (NLP). NLP holds potential to analyze and draw trends from the multitude of lessons out there.
+Data science is an approach to gleaning insights from data through advanced statistics and the development of customized code—generally using [Python](https://www.python.org/) or [R](https://www.r-project.org/) coding languages. Just as data science tools can construct insights from new data, machine learning algorithms (or models) can also help to mine hidden institutional knowledge from text using what’s known as natural language processing (NLP). NLP holds potential to analyze and draw trends from the multitude of lessons out there.
 
 ## The ABCs of NLP
 
 In short, [NLP focuses](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63) on the interactions between computer and human languages and can be applied to text and speech. NLP is used in systems such as speech recognition, document summarization, translation, spam detection, question answering, and predictive typing, just to name a few examples.
 
-The international development sector has documented its body of knowledge within [decades of reports](https://dec.usaid.gov/dec/home/Default.aspx), articles, books, and other documents, generating massive volumes of text. In instances where that knowledge and experience could be most informative—during project design, strategic planning, or stakeholder engagement, for example—it is often untenable for people to locate, read, and analyze existing text-based data to extract relevant trends or other insights. NLP machine learning models transform large amounts of text into numeric values—a process called *[vectorization](https://medium.com/@paritosh_30025/natural-language-processing-text-data-vectorization-af2520529cf7).* This process makes the informational patterns in the text available for machine learning models to draw out insights.
+The international development sector has documented its body of knowledge within [decades of reports](https://dec.usaid.gov/dec/home/Default.aspx), articles, books, and other documents, generating massive volumes of text. In instances where that knowledge and experience could be most informative—during project design, strategic planning, or stakeholder engagement, for example—it is often untenable for people to locate, read, and analyze existing text-based data to extract relevant trends or other insights. NLP machine learning models transform large amounts of text into numeric values—a process called [vectorization](https://medium.com/@paritosh_30025/natural-language-processing-text-data-vectorization-af2520529cf7) that makes the informational patterns in text available for NLP to draw out insights.
 
 ## The Mechanics
 
@@ -33,17 +33,15 @@ One common method of vectorization works by assigning all of the words in a body
 
 Once the documents in a corpus are represented numerically, coded models can train on (or learn) existing patterns in the text. This is done using a training set of text instances—project reports, for example. Once the predictive model is trained, it can be used to approximate the nature of additional documents, based on the characteristics it learned from the training set.
 
-## Mining Insights from a ‘Corpus’
+## Mining Insights from a Corpus
 
 If an NLP predictive model is trained on a set of project documents that are pre-labeled by development sector—health, education, agriculture, or governance, for example—it will use the commonalities in the text patterns among documents with the same sector labels to predict the appropriate labels for other project documents fed to it. This could be a cache of decades worth of documents sitting unorganized in a P drive or online repository and which are too numerous for people to read and label manually. Other “features” of the document—year, country, or authoring entity—could also be utilized with the model. An incredibly large collection of documents can then be automatically organized into meaningful subsets, on which more refined models can be designed to further analyze and segment. Information and insights long since buried, are suddenly within reach.
 
-![Blog image 2_12Nov19_resize.jpg](/uploads/Blog%20image%202_12Nov19_resize.jpg)
-
-`Figure 1: An NLP process flow`
+![Blog image 2_12Nov19_resize.jpg](/uploads/Blog%20image%202_12Nov19_resize.jpg)`Figure 1: An NLP process flow`
 
 ## The Machine Learning Process
 
-NLP is a tool from the machine learning toolbox. *[Machine learning](https://en.wikipedia.org/wiki/Machine_learning)* is a subset of computer science that utilizes algorithms and statistical models, which rely on patterns and inference to perform a predictive task, typically involving either [classification](https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623) or [regression](https://towardsdatascience.com/key-types-of-regressions-which-one-to-use-c1f25407a8a4). Machine learning is a broad practice that takes many forms and has many applications. While the code, algorithms, and statistical theory that make up machine learning are complex, machine learning processes generally share the following distinct steps.
+NLP is a tool from the machine learning toolbox. *[Machine learning](https://en.wikipedia.org/wiki/Machine_learning)* is a subset of computer science that utilizes algorithms and statistical models, which rely on patterns and inference to perform a predictive task, typically involving either [classification](https://towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623) or [regression](https://towardsdatascience.com/key-types-of-regressions-which-one-to-use-c1f25407a8a4). Machine learning is a broad practice that takes many forms and has many applications. While the code, algorithms, and statistical theory that make up machine learning are complex, the learning processes generally share the following distinct steps.
 
 1. *Obtaining data.* Whether collecting new data or making use of existing data, data quality and quantity have direct influence on how well a machine learning model can make inferences or predictions. Of course, the data need to be the right data for the question to be answered or problem to be solved. Often a great deal of effort needs to be invested in this step of a data science project, particularly in international development where datasets are generally small, disparate, unstructured, or incomplete. In the case of using NLP for characterizing text-based documents, having the right data means obtaining an appropriately labeled corpus—documents accurately labeled as health, education, agriculture, or governance, for example—for the development sector labels to be predicted by the models.
 
