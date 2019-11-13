@@ -9,7 +9,7 @@ social-image: "/uploads/Blog%20image%20%2312Nov19.jpg"
 thumbnail: "/uploads/Blog%20image%20%2312Nov19.jpg"
 ---
 
-As we enter what the World Economic Forum refers to as the “[fourth industrial revolution](https://www.weforum.org/focus/fourth-industrial-revolution)”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—international development practitioners are shifting toward data-centric business practices that require new systems, work flows, and skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals held by a wide array of stakeholders.
+As we enter what the World Economic Forum refers to as the “[fourth industrial revolution](https://www.weforum.org/focus/fourth-industrial-revolution)”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—international development practitioners are shifting toward data-centric business practices that require new systems, more efficient work flows, and modern skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals held by a wide array of stakeholders.
 
 <!--more-->
 
