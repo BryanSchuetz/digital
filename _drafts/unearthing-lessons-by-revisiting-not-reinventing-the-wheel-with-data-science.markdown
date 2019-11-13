@@ -1,5 +1,5 @@
 ---
-title: Unearthing Lessons by Revisiting, not Reinventing the Wheel with Data Science
+title: Unearthing Lessons by Revisiting—Not Reinventing—the Wheel with Data Science
 date: 2019-11-14 07:00:00 -05:00
 tags:
 - Machine Learning
