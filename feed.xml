@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Nov 2019 09:09:03 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Nov 2019 09:09:03 -0500</lastBuildDate>
+    <pubDate>Thu, 14 Nov 2019 09:20:27 -0500</pubDate>
+    <lastBuildDate>Thu, 14 Nov 2019 09:20:27 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Blog%20image%20%2312Nov19.jpg" medium="image" /> 
+        <title>Unearthing Lessons by Revisiting—Not Reinventing—the Wheel by Utilizing Data Science</title>
+        <description>&lt;p&gt;As we enter what the World Economic Forum refers to as the “&lt;a href=&quot;https://www.weforum.org/focus/fourth-industrial-revolution&quot;&gt;fourth industrial revolution&lt;/a&gt;”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—international development practitioners are shifting toward data-centric business practices that require new systems, more efficient work flows, and modern skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals by a wide array of stakeholders.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Nov 2019 07:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/mstyslinger/">Matt Styslinger</a>
+</author>
+        <link>https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html</guid>
+        
+        <category>Machine Learning</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Save%20the%20Children.jpg" medium="image" /> 
@@ -180,25 +199,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html</guid>
         
         <category>Digital Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/artificial-intelligence-3382507_640.jpg" medium="image" /> 
-        <title>Making Sure Data Science For Good Does Good</title>
-        <description>&lt;p&gt;Last week at the 74th U.N. General Assembly, the Rockefeller Foundation announced a $100 million &lt;a href=&quot;https://www.rockefellerfoundation.org/about-us/news-media/using-data-save-lives-rockefeller-foundation-partners-launch-100-million-precision-public-health-initiative/&quot;&gt;Precision Public Health initiative&lt;/a&gt; to integrate data analytics and data science tools such as machine learning into the community health systems of low- and middle-income countries. During the announcement, Rockefeller noted the significant impact of data science innovations in the most privileged communities, explaining its hope to replicate this effect to improve healthcare for people globally. The initiative aims to save at least 6 million women and children’s lives by 2030.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Oct 2019 06:00:00 -0400</pubDate>
-        <author>Gratiana Fu
-</author>
-        <link>https://dai-global-digital.com/making-sure-data-science-for-good-does-good.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/making-sure-data-science-for-good-does-good.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Machine Learning</category>
         
         
       </item>

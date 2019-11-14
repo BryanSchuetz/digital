@@ -1,4 +1,14 @@
 
+- title: "Unearthing Lessons by Revisiting—Not Reinventing—the Wheel by Utilizing Data Science"
+  pub: "Digital"
+  date: 2019-11-14
+  link: "https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html?utm_source=daidotcom"
+  summary: "As we enter what the World Economic Forum refers to as the “fourth industrial revolution”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—international development practitioners are shifting toward data-centric business practices that require new systems, more efficient work flows, and modern skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals by a wide array of stakeholders."
+  tags:
+    - digital acceleration 
+    - Machine Learning 
+    - Data 
+
 - title: "Apply Now: Artificial Intelligence and Machine Learning in International Development"
   pub: "Digital"
   date: 2019-11-08
@@ -198,17 +208,4 @@ Digital technology is unique for two reasons. First, digital is informative—pr
     - Digital Health 
     - Cybersecurity 
     - Global Health 
-
-- title: "New USAID Guide: How to Create Digital ID for Inclusive Development"
-  pub: "Digital"
-  date: 2019-08-06
-  link: "https://dai-global-digital.com/new-usaid-guide-how-to-create-digital-id-for-inclusive-development.html?utm_source=daidotcom"
-  summary: "Access the U.S. Agency for International Development (USAID)’s new Guide to Creating Digital ID for Inclusive Development.
-
-Identity is deeply personal. Issues of identity are complex and tied up with power, privacy, and protection. Yet identifying constituents is often critical to organizing and managing global development projects. Decades of development work have relied on ad hoc identity systems to administer programs, yet today we find that nearly 1 billion people still lack representative identification.
-
-USAID’s 2017 report Identity in a Digital Age: Infrastructure for Inclusive Development documented some of the complexities that arise when we create or use digital ID in development programming. Done well, these systems can provide a unique, trusted, multipurpose ID to everyone, which is key to economic and social development."
-  tags:
-    - digital acceleration 
-    - Digital Identity 
 
