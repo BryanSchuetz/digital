@@ -6,9 +6,12 @@ categories:
 tags:
 - Data Management Series
 - Environment & Energy
+Author: Greg Maly
 ---
 
 Since 1970, DAI has worked in 160 countries on topics that range from good governance, to environmental issues. But what about scientific policy-oriented initiatives in our back yard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations who care about sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations - Spa Creek Conservancy (SCC) and the Environmental Center at Anne Arundel Community College (AACC) - who combine formal academic research with citizen science, and use data to bring awareness to the health of the Chesapeake Bay watershed. 
+
+<!--more-->
 
 One of many organizations dedicated to Maryland rivers, SCC supports a variety of advocacy, education, and research initiatives for the Spa Creek watershed, a section of creek that spans the historic downtown Annapolis, Eastport, and the surrounding area. Spa Creek provides recreational opportunities for thousands of boaters, fishermen, and site seers each year. And with development in the region booming, it, like many coastal regions, face growing threats to the local ecosystem. 
 
