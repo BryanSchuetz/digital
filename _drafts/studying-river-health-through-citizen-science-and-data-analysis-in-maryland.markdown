@@ -11,7 +11,7 @@ Author: Greg Maly
 
 Since 1970, DAI has worked in 160 countries on topics that range from good governance, to environmental issues. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations who care about sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations - Spa Creek Conservancy (SCC) and the Environmental Center at Anne Arundel Community College (AACC) - who combine formal academic research with citizen science, and use data to bring awareness to the health of the Chesapeake Bay watershed.
 
-[SpaCreekMap.PNG](/uploads/SpaCreekMap.PNG)
+![SpaCreekMap.jpg](/uploads/SpaCreekMap.jpg)
 
 ## Spa Creek 
 
@@ -24,6 +24,7 @@ According to SCC water monitoring Director Donna Jefferson, the organization was
 ## Weekly Data Collection
 
 Because this data is based on the collection of physical samples, SCC coordinates a network of volunteers who visit 17 sites on a weekly basis. Samples are sent to the AACC lab for testing and analyzed by Dr. Tammy Domanski and her team, checking carefully for accuracy and outliers. Data analysis focuses on Enterococci and other parameters including clarity, dissolve, oxygen, salinity, pH, and nutrient levels.
+
 ![KevinYSI.jpg](/uploads/KevinYSI.jpg)
 
 I asked Dr. Domanski about the role of the citizen scientist, and she highlighted a shift in the perception of volunteer networks, noting that “trained volunteers can generate data that is just as precise and accurate as paid technicians.” She also noted the proliferation of websites dedicated to information sharing and environmental advocacy. “These data points are useful and significant,” she noted. “Historically, there were not enough places to put data that were open to the public. Now, there are a large number of advertised ways to visualize data.” So how do organizations like SCC and AACC manage their data, and what are their challenges?
