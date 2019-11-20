@@ -34,6 +34,7 @@ I asked Dr. Domanski about the role of the citizen scientist, and she highlighte
 Like many organizations, SCC and its regional counterparts use a combination of paper and electronic tools to share data, and created a spreadsheet-based data management system. But according to Dr. Domanski, the process with technology hasn’t always been encouraging, especially when thinking across data collection efforts and regions. “We spend so much time trying to compare systems that have a number of redundancies. We know there are gaps in the information we are putting out there. But we spend so much time looking at redundant layers of information. It’s hard to even know what we’re missing.”
 
 In Summer 2019, our team the Center for Digital Acceleration connected with SCC and AACC to support their growing amount of data and desire for more robust analysis. Taking a human centered approach to the problem, we developed an analytical platform that integrates with their existing database, and provides geographic, temporal, and regression analysis. Digging into the tech for a moment - the current version of the analytical platform is built using in R using the R/Shiny web framework. The website pulls data from a googlesheet managed by Dr. Domanski, and uses ggplot and leaflet to build a series of interactive data products. To learn more about using Googlesheets with R, check out a previous post introducing R and Studio for data analysis. 
+![SpaCreekTrends.jpg](/uploads/SpaCreekTrends.jpg)
 
 ## Tying Data to Awareness and Policy
 
