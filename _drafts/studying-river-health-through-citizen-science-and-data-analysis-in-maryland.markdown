@@ -1,6 +1,6 @@
 ---
 title: Studying River Health Through Citizen Science and Data Analysis in Maryland
-date: 2019-11-19 16:11:00 -05:00
+date: 2019-11-21 06:00:00 -05:00
 categories:
 - Data
 tags:
