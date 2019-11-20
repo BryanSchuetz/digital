@@ -15,6 +15,7 @@ Since 1970, DAI has worked in 160 countries on development issues ranging from g
 
 ![SpaCreekMap.jpg](/uploads/SpaCreekMap.jpg)
 
+<!--more-->
 ## Facing Growing Threats 
 
 One of many organizations dedicated to Maryland rivers, SCC supports a variety of advocacy, education, and research initiatives for the Spa Creek watershed, a section of creek that spans historic downtown Annapolis, Eastport, and the surrounding area. Spa Creek provides recreational opportunities for thousands of boaters, fishermen, and sightseers each year. And with development in the region booming, it, like many coastal regions, face growing threats to the local ecosystem.
