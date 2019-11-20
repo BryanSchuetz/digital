@@ -42,7 +42,9 @@ In Summer 2019, our team the Center for Digital Acceleration connected with SCC 
 
 Once data is uploaded and analyzed via the web platform, analytical products are used to rapidly communicate water safety to community members via social media. But beyond weekly updates, this data is used to understand trends and drivers of water health. After just a summer of data collection, we are able to see what sites experience the most variability in water health, which areas are most consistently in the unhealthy or unhealthy category, and can investigate the correlation between rainfall and water health. Preliminary results show a statistically significant correlation between rainfall and bacteria levels. While this type of statistical analysis is expected of the scientific community, our team at CDA worked to create data analysis efficiencies that enable organization like Spa Creek to move from data collection to analytical product as quickly as possible. 
 
-The data has also been used to track the potential effectiveness of restoration initiatives in the area. Construction for the Hawkins Cover Ravine Restoration Project commenced in early 2018, which included efforts to control sediment and water flow through infrastructure changes. Thanks to multiple years of water testing, SCC and ACC could see a reduction in bacteria levels post construction. SCC’s Donna Jefferson noted that “having baseline data enabled us to see the area changes over time.” 
+The data has also been used to track the potential effectiveness of restoration initiatives in the area. Construction for the Hawkins Cover Ravine [Restoration Project](https://www.spacreek.net/index.php/91-restoration-of-hawkins-cove-in-annapolis-begins) commenced in early 2018, which included efforts to control sediment and water flow through infrastructure changes. Thanks to multiple years of water testing, SCC and ACC could see a reduction in bacteria levels post construction. SCC’s Donna Jefferson noted that “having baseline data enabled us to see the area changes over time.” 
+
+![headwaterrestoration.jpg](/uploads/headwaterrestoration.jpg)
 
 ## Planning for Next Summer
 
