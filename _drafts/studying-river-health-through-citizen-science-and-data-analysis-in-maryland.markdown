@@ -25,11 +25,11 @@ According to SCC water monitoring Director Donna Jefferson, the organization was
 
 ## Weekly Data Collection
 
-Because this data is based on the collection of physical samples, SCC coordinates a network of volunteers who visit 17 sites on a weekly basis. Samples are sent to the AACC lab for testing and analyzed by Dr. Tammy Domanski and her team, checking carefully for accuracy and outliers. Data analysis focuses on Enterococci and other parameters including clarity, dissolve, oxygen, salinity, pH, and nutrient levels.
+Because this data is based on the collection of physical samples, SCC coordinates a network of volunteers who visit 17 sites weekly. Samples are sent to the AACC lab for testing and analyzed by Domanski and her team for accuracy and outliers. Data analysis focuses on Enterococci and other parameters including clarity, dissolve, oxygen, salinity, pH, and nutrient levels.
 
 ![KevinYSI.jpg](/uploads/KevinYSI.jpg)
 
-I asked Dr. Domanski about the role of the citizen scientist, and she highlighted a shift in the perception of volunteer networks, noting that “trained volunteers can generate data that is just as precise and accurate as paid technicians.” She also noted the proliferation of websites dedicated to information sharing and environmental advocacy. “These data points are useful and significant,” she noted. “Historically, there were not enough places to put data that were open to the public. Now, there are a large number of advertised ways to visualize data.” So how do organizations like SCC and AACC manage their data, and what are their challenges?
+I asked Domanski about the role of the citizen scientist, and she highlighted a shift in the perception of volunteer networks, noting that “trained volunteers can generate data that is just as precise and accurate as paid technicians.” She also noted the proliferation of websites dedicated to information sharing and environmental advocacy. “These data points are useful and significant,” she said. “Historically, there were not enough places to put data that were open to the public. Now, there are a large number of advertised ways to visualize data.” So how do organizations like SCC and AACC manage their data, and what are their challenges?
 
 ## Analysis for Multiple Audiences
 
