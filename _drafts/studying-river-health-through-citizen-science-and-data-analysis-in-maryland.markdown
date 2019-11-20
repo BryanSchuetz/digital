@@ -48,6 +48,6 @@ The data has also been used to track the potential effectiveness of restoration 
 
 ## Planning for Next Summer
 
-Data collection for 2019 concluded in September, giving Dr. Domanski the task of writing the annual report. This moment is also an opportunity for the consortium of river conservation associations to convene and look at ways to analyze data across the region. While each individual organization has their own means of collecting and analyzing data, SCC and AACC are interested in improving coordination across the community of river associations. Oh, and you can take a look at the data analysis [here](https://gamaly.shinyapps.io/SpaCreek/). Stay tuned for collection in 2020!
+Data collection for 2019 concluded in September, giving Dr. Domanski the task of writing the annual report. This moment is also an opportunity for the consortium of river conservation associations to convene and look at ways to analyze data across the region. While each individual organization has their own means of collecting and analyzing data, SCC and AACC are interested in improving coordination across the community of river associations. Oh, and you can take a look at the data analysis [here](https://gamaly.shinyapps.io/SpaCreek/) and below. Stay tuned for collection in 2020!
 
 <iframe src="https://gamaly.shinyapps.io/SpaCreek/" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="600px" allowfullscreen></iframe>
