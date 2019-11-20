@@ -7,6 +7,8 @@ tags:
 - Data Management Series
 - Environment & Energy
 Author: Greg Maly
+social-image: "/uploads/SpaCreekSocialImage.JPG"
+thumbnail: "/uploads/SpaCreekSocialImage.JPG"
 ---
 
 Since 1970, DAI has worked in 160 countries on topics that range from good governance, to environmental issues. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations who care about sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations - [Spa Creek Conservancy](https://www.spacreek.net/) (SCC) and the [Environmental Center](https://www.aacc.edu/about/schools-of-study/science-and-technology/environmental-center/) at Anne Arundel Community College (AACC) - who combine formal academic research with citizen science, and use data to bring awareness to the health of the Chesapeake Bay watershed.
@@ -46,4 +48,4 @@ The data has also been used to track the potential effectiveness of restoration 
 
 Data collection for 2019 concluded in September, giving Dr. Domanski the task of writing the annual report. This moment is also an opportunity for the consortium of river conservation associations to convene and look at ways to analyze data across the region. While each individual organization has their own means of collecting and analyzing data, SCC and AACC are interested in improving coordination across the community of river associations. Oh, and you can take a look at the data analysis [here](https://gamaly.shinyapps.io/SpaCreek/). Stay tuned for collection in 2020!
 
-<iframe src="https://gamaly.shinyapps.io/SpaCreek/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://gamaly.shinyapps.io/SpaCreek/" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="600px" allowfullscreen></iframe>
