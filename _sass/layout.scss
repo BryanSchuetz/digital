@@ -471,3 +471,9 @@ span.algolia-autocomplete{
   background-color: rgba($blue, 0.1);
   border-top: 3px solid $blue;
 }
+.shiny{
+  height: 1750px;
+  @include responsive(medium-screens){
+    height: 1650px;
+  }
+}
