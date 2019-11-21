@@ -1,4 +1,16 @@
 
+- title: "Studying River Health through Citizen Science and Data Analysis in Maryland"
+  pub: "Digital"
+  date: 2019-11-21
+  link: "https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html?utm_source=daidotcom"
+  summary: "Since 1970, DAI has worked in 160 countries on development issues ranging from good governance to environmental problems. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations that focus on sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations— Spa Creek Conservancy (SCC) and the Environmental Center at Anne Arundel Community College (AACC)—that combine formal academic research with citizen science and use data to bring awareness to the health of the Chesapeake Bay watershed.
+
+Water testing locations and test results in Spa and Back Creek."
+  tags:
+    - digital acceleration 
+    - Data Management Series 
+    - Environment & Energy 
+
 - title: "Unearthing Lessons by Revisiting—Not Reinventing—the Wheel by Utilizing Data Science"
   pub: "Digital"
   date: 2019-11-14
@@ -197,15 +209,4 @@ Digital technology is unique for two reasons. First, digital is informative—pr
   tags:
     - digital acceleration 
     - Digital Gender Divide 
-
-- title: "Understanding Cybersecurity for Healthcare Professionals"
-  pub: "Digital"
-  date: 2019-08-08
-  link: "https://dai-global-digital.com/cybersecurity-for-health-professionals.html?utm_source=daidotcom"
-  summary: "We live in exciting times. The ways in which we store and engage with health data have been transformed with the creation and adoption of digital health technology. Whether it’s using a Fitbit, accessing your vaccine records online, or virtually connecting with your doctor, understanding your health status in real time has never been easier… for some of us. We at DAI Global Health are working tirelessly to increase access to healthcare in low- and middle-income countries by leveraging digital health technologies. The goal is to empower patients and professionals providing care to them to use data to make smart decisions."
-  tags:
-    - digital acceleration 
-    - Digital Health 
-    - Cybersecurity 
-    - Global Health 
 

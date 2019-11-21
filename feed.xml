@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Nov 2019 09:54:44 -0500</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2019 09:54:44 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2019 10:17:26 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2019 10:17:26 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/SpaCreekSocialImage.JPG" medium="image" /> 
+        <title>Studying River Health through Citizen Science and Data Analysis in Maryland</title>
+        <description>&lt;p&gt;Since 1970, DAI has worked in 160 countries on development issues ranging from good governance to environmental problems. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations that focus on sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations— &lt;a href=&quot;https://www.spacreek.net/&quot;&gt;Spa Creek Conservancy&lt;/a&gt; (SCC) and the &lt;a href=&quot;https://www.aacc.edu/about/schools-of-study/science-and-technology/environmental-center/&quot;&gt;Environmental Center&lt;/a&gt; at Anne Arundel Community College (AACC)—that combine formal academic research with citizen science and use data to bring awareness to the health of the Chesapeake Bay watershed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/SpaCreekMap.jpg&quot; alt=&quot;SpaCreekMap.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Water testing locations and test results in Spa and Back Creek.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Nov 2019 06:00:00 -0500</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html</guid>
+        
+        <category>Data Management Series</category>
+        
+        <category>Environment &amp; Energy</category>
+        
+        
+        <category>Data</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Blog%20image%20%2312Nov19.jpg" medium="image" /> 
@@ -182,23 +205,6 @@
         <category>Digital Inclusion</category>
         
         <category>Digital Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/TLC%20pic%201.png" medium="image" /> 
-        <title>Building Digital Medical Records for Floating Villages in Cambodia</title>
-        <description>&lt;p&gt;How do you digitize medical records in Cambodia when &lt;a href=&quot;https://www.youtube.com/watch?v=5DRZBiE6BTE&quot;&gt;your clinics are on a lake&lt;/a&gt;, have minimal internet connectivity, and are four hours away from the nearest big city? Impossible, you say? Not quite. Let me introduce you to &lt;a href=&quot;https://www.lakeclinic.org/&quot;&gt;the Lake Clinic&lt;/a&gt; (TLC), a health clinic working to solve this complex challenge with the support of the six-year, &lt;a href=&quot;https://www.development-innovations.org&quot;&gt;Development Innovations (DI)&lt;/a&gt; project, funded by the U.S. Agency for International Development.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 10 Oct 2019 06:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/setha-rath/">Setha Rath</a>
-</author>
-        <link>https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/case-study-from-cambodia-customizing-an-electronic-medical-records-system-for-floating-villages-in-tonle-sap-lake.html</guid>
-        
-        <category>Digital Health</category>
         
         
       </item>
