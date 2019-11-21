@@ -13,7 +13,7 @@ thumbnail: "/uploads/SpaCreekSocialImage.JPG"
 
 Since 1970, DAI has worked in 160 countries on development issues ranging from good governance to environmental problems. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations that focus on sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations— [Spa Creek Conservancy](https://www.spacreek.net/) (SCC) and the [Environmental Center](https://www.aacc.edu/about/schools-of-study/science-and-technology/environmental-center/) at Anne Arundel Community College (AACC)—that combine formal academic research with citizen science and use data to bring awareness to the health of the Chesapeake Bay watershed.
 
-![SpaCreekMap.jpg](/uploads/SpaCreekMap.jpg)`Water testing locations and test results in Spa and Back Creek.`
+![SpaCreekMap.jpg](/uploads/SpaCreekMap.jpg)`Water testing locations and test results in Spa and Back Creek.`(https://gamaly.shinyapps.io/SpaCreek/)
 
 <!--more-->
 
