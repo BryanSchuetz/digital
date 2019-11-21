@@ -27,7 +27,7 @@ According to SCC water monitoring Director Donna Jefferson, the organization was
 
 ## Weekly Data Collection
 
-Because this data is based on the collection of physical samples, SCC coordinates a network of volunteers who visit 17 sites weekly. Samples are sent to the AACC lab for testing and analyzed by Domanski and her team for accuracy and outliers. Data analysis focuses on Enterococci and other parameters including clarity, dissolve, oxygen, salinity, pH, and nutrient levels.
+Because this data is based on the collection of physical samples, SCC coordinates a network of volunteers who visit 17 sites weekly. Samples are sent to the AACC lab for testing and analyzed by Domanski and her team for accuracy and outliers. Data analysis focuses on Enterococci and other parameters including clarity, dissolved oxygen, salinity, pH, and nutrient levels.
 
 ![KevinYSI.jpg](/uploads/KevinYSI.jpg)`A volunteer collects water samples for testing.`
 
@@ -37,7 +37,7 @@ I asked Domanski about the role of the citizen scientist, and she highlighted a 
 
 Like many organizations, SCC and its regional counterparts use a combination of paper and electronic tools to share data and have created a spreadsheet-based data management system. But according to Domanski, the process with technology hasn’t always been encouraging, especially when thinking across data collection efforts and regions. “We spend so much time trying to compare systems that have a number of redundancies. We know there are gaps in the information we are putting out there. But we spend so much time looking at redundant layers of information. It’s hard to even know what we’re missing.”
 
-This summer, our team connected with SCC and AACC to support their growing amount of data and desire for more robust analysis. Taking a human-centered approach to the problem, we developed an analytical platform that integrates with their existing database, and provides geographic, temporal, and regression analysis. Digging into the tech for a moment—the current version of the analytical platform is built using in [R](https://www.r-project.org/) using the [R/Shiny](https://shiny.rstudio.com/) web framework. The website pulls data from a Googlesheet managed by Domanski, and uses [ggplot](https://ggplot2.tidyverse.org/) and [leaflet](https://rstudio.github.io/leaflet/) to build a series of interactive data products. To learn more about using Googlesheets with R, check out a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) introducing R and Studio for data analysis. 
+This summer, our team connected with SCC and AACC to support their growing amount of data and desire for more robust analysis. Taking a human-centered approach to the problem, we developed an analytical platform that integrates with their existing database, and provides geographic, temporal, and regression analysis. Digging into the tech for a moment—the current version of the analytical platform is built using in [R](https://www.r-project.org/) using the [R/Shiny](https://shiny.rstudio.com/) web framework. The website pulls data from a Googlesheet managed by Domanski, and uses [ggplot](https://ggplot2.tidyverse.org/) and [leaflet](https://rstudio.github.io/leaflet/) to build a series of interactive data products. To learn more about using Googlesheets with R, check out a [previous post](https://dai-global-digital.com/getting-started-with-rstudio.html) introducing R and RStudio for data analysis. 
 
 ![SpaCreekTrends.jpg](/uploads/SpaCreekTrends.jpg)`Distribution of test results over time.`
 
