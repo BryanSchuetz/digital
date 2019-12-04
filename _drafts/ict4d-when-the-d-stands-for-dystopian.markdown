@@ -12,4 +12,4 @@ In case you haven't been following this issue as closely as we have, here's a fe
 
 2. **SIM Card Face Scanning in China**: In related news, all new SIM card holders in China must now get their face scanned. This [MIT Technology Review piece](https://www.technologyreview.com/f/614781/all-new-cellphone-users-in-china-must-now-have-their-face-scanned/) briefly highlights how this new role relates to much broader UN regulation about facial recognition global governance (see below).
 
-3. **Chinese Tech Companies are Shaping UN Regulations**: The International Telecommunication Union is the UN body dedicated to regulating technologies like mobile spectrum and, increasingly, advanced technology like artificial intelligence.  It's
+3. **Chinese Tech Companies are Shaping UN Regulations**: The [International Telecommunication Union](https://www.itu.int/en/Pages/default.aspx) is the UN body dedicated to regulating technologies like mobile spectrum and, increasingly, advanced technology like artificial intelligence.  As reported across multiple agencies, Chinese companies 
