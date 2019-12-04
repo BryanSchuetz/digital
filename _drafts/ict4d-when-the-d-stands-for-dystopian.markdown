@@ -8,7 +8,7 @@ We've written quite a bit on this blog recently about growing concerns over [int
 
 In case you haven't been following this issue as closely as we have, here's a few key articles we've been reading lately to get you up to speed on the troubling news coming out of China.
 
-1.  **Chinese use of DNA to Map Ethnic Minority Groups**: This [NYTimes piece](https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html?smid=nytcore-ios-share) is a terrifying read on its own, but even more so to think about what widespread application of this type of technology would look like in countries with a history of ethnic persecution like Mynamar
+1.  **Chinese use of DNA to Map Ethnic Minority Groups**: This [NYTimes piece](https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html?smid=nytcore-ios-share) is a terrifying read on its own, but even more so to think about what widespread application of this type of technology would look like in countries with a history of ethnic persecution like Myanmar. 
 
 2. **SIM Card Face Scanning in China**: In related news, all new SIM card holders in China must now get their face scanned. This [MIT Technology Review piece](https://www.technologyreview.com/f/614781/all-new-cellphone-users-in-china-must-now-have-their-face-scanned/) briefly highlights how this new role relates to much broader UN regulation about facial recognition global governance (see below).
 
