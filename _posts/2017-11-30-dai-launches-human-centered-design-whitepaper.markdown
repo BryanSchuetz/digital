@@ -24,23 +24,16 @@ Throughout this process, DAI used a lean human-centered design (HCD) approach, b
 
 This process culminated on May 25, 2017, when Mayor Carlos Alvarado Figueroa launched [Somos Chiantla](http://bit.ly/Chiantla-App) ('We are Chiantla') at the local municipal theater before an audience of community members. The tool visualizes the municipality's budget, income, and expenditures through a live link direct to the municipal budgeting system; includes a 311-style reporting feature so citizens can report potholes, broken street lights, and interruptions in water service; and includes development plans, municipal contacts, and more.
 
-![main menu.png](/uploads/main%20menu.png)
-`Mayor Alvarado launches Somos Chiantla`
+![main menu.png](/uploads/main%20menu.png)`Mayor Alvarado launches Somos Chiantla`
 
 With the launch of **Lean HCD: A Case Study in Human-Centered Design in the Highlands of Guatemala**, DAI answers the following questions:
 
 * Where did the concept for Somos Chiantla originate?
-
 * How did we get buy-in from the municipal administration?
-
 * How did we engage local civil society and other social institutions in the process?
-
 * How did we work with citizens to understand the challenges they face and propose solutions?
-
 * What role did [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights) (formerly Digital Insights) play in determining the platform, form, and function of the tool?
-
 * Which tenets of HCD did we compromise on and which did we hold firm?
-
 * What tips do we have for others embarking on similarly complex design processes for international development projects?
 
 We look forward to your feedback and comments on our approach, as well as discussion about how lean HCD can be an effective approach to similar projects elsewhere.
