@@ -40,4 +40,4 @@ We could share an endless list of recommendations covering the 30 rights, from p
 
 ## 5. This [report](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) on “Algorithms and Human Rights” by the Council of Europe does what I just didn’t have space for in this post. It goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
 
-We hope to continue the conversation on human rights in the ICT4D space. Tweet to us at @DAIGlobal and @ChloeMessenger any reading you recommend!
+We hope to continue the conversation on human rights in the ICT4D space. Tweet to us at [@DAIGlobal](https://twitter.com/DAIGlobal) and [@ChloeMessenger](https://twitter.com/ChloeMessenger) any reading you recommend!
