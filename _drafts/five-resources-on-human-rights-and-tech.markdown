@@ -47,4 +47,4 @@ This [article](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.185) argues
 
 The[ report ](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5)does what I just didn’t have space for in this article: it goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
 
-We hope to continue the conversation on human rights in the ICT4D space. Tweet us at @DAIGlobal and @ChloeMessenger any reading you recommend.
+We hope to continue the conversation on human rights in the ICT4D space. Tweet us at @DAIGlobal and @ChloeMessenger any reading you recommend!
