@@ -1,6 +1,9 @@
 ---
 title: Five Resources on Human Rights and Tech
 date: 2019-12-10 12:12:00 -05:00
+tags:
+- Privacy
+- Cybersecurity
 Author: Chloe Messenger
 ---
 
@@ -16,11 +19,15 @@ The recognition that technology platforms can be inherently abusive, or can be u
 We could share an endless list of recommendations covering the 30 rights, from privacy to freedom of expression. But here are five articles and reports that we have read recently, that have sparked our thinking in this area:
 
 ## 1. Report of the Special rapporteur on extreme poverty and human rights on the digital welfare state, presents the almost dystopian future we are stumbling into. He raises concerns that, despite numerous analysis of human rights implications of technologies such as AI and biometrics, no protections are currently grounded in law. 
-## 2.Omidyar Network Ethical OS: a guide to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers and others see problems begore they arise. It aims to help with good design, providing a comprehensive list of potential risks that need to be thought about upfront.
+## 2.Omidyar Network Ethical OS
+The guide to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers and others see problems begore they arise. It aims to help with good design, providing a comprehensive list of potential risks that need to be thought about upfront.
 
-## 3.Engineering and lawyering privacy by design: understanding online privacy both as a technical and an international human rights issue. Adamantia Rachovitsa outlines why privacy – as a fundamental human right – is not just a human rights issue, but should be a design feature of technological solutions. 
+## 3.Engineering and lawyering privacy by design: understanding online privacy both as a technical and an international human rights issue. 
+Adamantia Rachovitsa outlines why privacy – as a fundamental human right – is not just a human rights issue, but should be a design feature of technological solutions. 
 
-## 4. Human rights by Design: The Responsibilities of Social Media Platforms to Address Gender‐Based Violence Online. This article argues that online gender-based violence cannot be addressed by government legal systems, but need to be address by technology companies in their very design.
+## 4. Human rights by Design: The Responsibilities of Social Media Platforms to Address Gender‐Based Violence Online. 
+This article argues that online gender-based violence cannot be addressed by government legal systems, but need to be address by technology companies in their very design.
 
-## 5. Algorithms and Human Rights by the Council of Europe does what I just didn’t have space for in this article: the report goes through human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
+## 5. Algorithms and Human Rights by the Council of Europe
+The report does what I just didn’t have space for in this article: it goes through human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
 We hope to continue the conversation on human rights in the ICT4D space. Tweet us at @DAIGlobal and @ChloeMessenger any reading you recommend.  
