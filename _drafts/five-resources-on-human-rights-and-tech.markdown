@@ -3,7 +3,8 @@ title: Five Resources on Human Rights and Tech
 date: 2019-12-10 12:12:00 -05:00
 tags:
 - Privacy
-- Cybersecurity
+- Governance
+- Digital Inclusion
 Author: Chloe Messenger
 ---
 
