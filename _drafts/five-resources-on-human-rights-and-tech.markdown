@@ -24,30 +24,20 @@ The need for these types of laws is clear, as examples of how technology is bein
 
 What about biometrics? The [case](https://www.aljazeera.com/indepth/opinion/kenya-huduma-data-commodification-government-tyranny-190806134307370.html) of Huduma Namba in Kenya is an interesting one: a national ID registration system that made biometric registration compulsory for access to basic goods and services. Citizens therefore had to decide between giving up their biometric data or losing access to government services. This was seen as a violation of the right to privacy, right to equality, and the right to nondiscrimination, as well as the right to public participation. Eventually, Huduma Namba was mandated by the court to make registration voluntary and benefits not conditional on registration.
 
-The recognition that technology platforms can be inherently abusive, or can be used to disadvantage those more vulnerable, is increasingly recognised. Accordingly there are numerous calls on developers to ensure that human rights are intrinsic to design, using processes such as human-centered design to properly assess risks, needs and wishes of the target audience.
+The recognition that technology platforms can be inherently abusive, or can be used to disadvantage the vulnerable, is increasingly recognised. Accordingly there are numerous calls on developers to ensure that human rights are intrinsic to design, using processes such as human-centered design to properly assess risks, needs and wishes of the target audience.
 
-We could share an endless list of recommendations covering the 30 rights, from privacy to freedom of expression. But here are five articles and reports that we have read recently, that have sparked our thinking in this area:
+We could share an endless list of recommendations covering the 30 rights, from privacy to freedom of expression. But here are five articles and reports that have sparked our thinking in this area:
 
-## 1. Report of the Special rapporteur on extreme poverty and human rights on the digital welfare state
+## 1. The [report](https://undocs.org/A/74/493) of the special rapporteur on extreme poverty and human rights on the digital welfare state presents the almost dystopian future we are stumbling into. It raises concerns that, despite numerous analysis of human rights implications of technologies such as artificial intelligence and biometrics, no protections are currently grounded in law.
 
-The[ report ](https://undocs.org/A/74/493)presents the almost dystopian future we are stumbling into. He raises concerns that, despite numerous analysis of human rights implications of technologies such as AI and biometrics, no protections are currently grounded in law.
+## 2. The Omidyar Network Ethical Operating System is a [guide](https://www.omidyar.com/investees/ethical-os) to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers, and others see problems before they arise. It aims to help with good design and provides a comprehensive list of potential risks that need to be thought about upfront.
 
-## 2.Omidyar Network Ethical Operating System
+## 3. Adamantia Rachovitsa [outlines](https://academic.oup.com/ijlit/article/24/4/374/2566975) why privacy—as a fundamental human right—is not just a human rights issue, but should be a design feature of technological solutions.
 
-The Ethical OS is a [guide](https://www.omidyar.com/investees/ethical-os) to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers and others see problems before they arise. It aims to help with good design, providing a comprehensive list of potential risks that need to be thought about upfront.
+![thought-catalog-tRL_Rkh6D8o-unsplash.jpg](/uploads/thought-catalog-tRL_Rkh6D8o-unsplash.jpg)`Photo by Thought Catalog on Unsplash.`
 
-## 3.Engineering and lawyering privacy by design: understanding online privacy both as a technical and an international human rights issue.
+## 4. This [article](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.185) argues that online gender-based violence cannot be addressed by government legal systems, but needs to be addressed by technology companies in their very design.
 
-Adamantia Rachovitsa [outlines](https://academic.oup.com/ijlit/article/24/4/374/2566975) why privacy – as a fundamental human right – is not just a human rights issue, but should be a design feature of technological solutions.
+## 5. This [report](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) on “Algorithms and Human Rights” by the Council of Europe does what I just didn’t have space for in this post. It goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
 
-![thought-catalog-tRL_Rkh6D8o-unsplash.jpg](/uploads/thought-catalog-tRL_Rkh6D8o-unsplash.jpg)`Photo by Thought Catalog on Unsplash`
-
-## 4. Human rights by Design: The Responsibilities of Social Media Platforms to Address Gender‐Based Violence Online.
-
-This [article](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.185) argues that online gender-based violence cannot be addressed by government legal systems, but need to be address by technology companies in their very design.
-
-## 5. Algorithms and Human Rights by the Council of Europe
-
-The[ report ](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5)does what I just didn’t have space for in this article: it goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
-
-We hope to continue the conversation on human rights in the ICT4D space. Tweet us at @DAIGlobal and @ChloeMessenger any reading you recommend!
+We hope to continue the conversation on human rights in the ICT4D space. Tweet to us at @DAIGlobal and @ChloeMessenger any reading you recommend!
