@@ -28,6 +28,8 @@ The guide to anticipating the future impact of today’s technology. The aim of 
 ## 3.Engineering and lawyering privacy by design: understanding online privacy both as a technical and an international human rights issue. 
 Adamantia Rachovitsa outlines why privacy – as a fundamental human right – is not just a human rights issue, but should be a design feature of technological solutions. 
 
+![thought-catalog-tRL_Rkh6D8o-unsplash.jpg](/uploads/thought-catalog-tRL_Rkh6D8o-unsplash.jpg){:.float-left}
+
 ## 4. Human rights by Design: The Responsibilities of Social Media Platforms to Address Gender‐Based Violence Online. 
 This article argues that online gender-based violence cannot be addressed by government legal systems, but need to be address by technology companies in their very design.
 
