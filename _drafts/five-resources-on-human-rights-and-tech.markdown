@@ -37,5 +37,6 @@ Adamantia Rachovitsa outlines why privacy – as a fundamental human right – i
 This article argues that online gender-based violence cannot be addressed by government legal systems, but need to be address by technology companies in their very design.
 
 ## 5. Algorithms and Human Rights by the Council of Europe
-The report does what I just didn’t have space for in this article: it goes through human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
+The report does what I just didn’t have space for in this article: it goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
+
 We hope to continue the conversation on human rights in the ICT4D space. Tweet us at @DAIGlobal and @ChloeMessenger any reading you recommend.  
