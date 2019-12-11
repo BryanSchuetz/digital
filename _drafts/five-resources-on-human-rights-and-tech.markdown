@@ -18,7 +18,9 @@ The recognition that technology platforms can be inherently abusive, or can be u
 
 We could share an endless list of recommendations covering the 30 rights, from privacy to freedom of expression. But here are five articles and reports that we have read recently, that have sparked our thinking in this area:
 
-## 1. Report of the Special rapporteur on extreme poverty and human rights on the digital welfare state, presents the almost dystopian future we are stumbling into. He raises concerns that, despite numerous analysis of human rights implications of technologies such as AI and biometrics, no protections are currently grounded in law. 
+## 1. Report of the Special rapporteur on extreme poverty and human rights on the digital welfare state
+The report presents the almost dystopian future we are stumbling into. He raises concerns that, despite numerous analysis of human rights implications of technologies such as AI and biometrics, no protections are currently grounded in law. 
+
 ## 2.Omidyar Network Ethical OS
 The guide to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers and others see problems begore they arise. It aims to help with good design, providing a comprehensive list of potential risks that need to be thought about upfront.
 
