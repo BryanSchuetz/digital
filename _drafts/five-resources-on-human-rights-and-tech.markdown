@@ -6,6 +6,7 @@ tags:
 - Governance
 - Digital Inclusion
 Author: Chloe Messenger
+social-image: "/uploads/Eleanor_roosevelt_human_rights_english_-_Resize_548w.jpg-f6b73d.png"
 ---
 
 This Tuesday 10th December marked the 71st anniversary of the [Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/), a founding document which set out, for the first time, fundamental human rights to be universally protected. Working in international development, most of us are well aware of and committed to the 30 rights laid down in the UNDHR. Each country has numerous legal frameworks which are relevant to the digital space and aim to protect citizens- such as laws related to privacy and data protection – however, these are not always aligned with the most recent technological advancements. In the humanitarian and development sectors, we are [digitizing faster than the legal and ethical frameworks](https://reliefweb.int/report/world/future-financial-assistance-outlook-2030-enaresfr) governing this digitization. There is some fear that the technology sector remains [virtually a human-rights free zone](https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25156). 
