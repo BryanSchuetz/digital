@@ -28,16 +28,13 @@ The recognition that technology platforms can be inherently abusive, or can be u
 
 We could share an endless list of recommendations covering the 30 rights, from privacy to freedom of expression. But here are five articles and reports that have sparked our thinking in this area:
 
-## 1. The [report](https://undocs.org/A/74/493) of the special rapporteur on extreme poverty and human rights on the digital welfare state presents the almost dystopian future we are stumbling into. It raises concerns that, despite numerous analysis of human rights implications of technologies such as artificial intelligence and biometrics, no protections are currently grounded in law.
-
-## 2. The Omidyar Network Ethical Operating System is a [guide](https://www.omidyar.com/investees/ethical-os) to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers, and others see problems before they arise. It aims to help with good design and provides a comprehensive list of potential risks that need to be thought about upfront.
-
-## 3. Adamantia Rachovitsa [outlines](https://academic.oup.com/ijlit/article/24/4/374/2566975) why privacy—as a fundamental human right—is not just a human rights issue, but should be a design feature of technological solutions.
+* 1. The [report](https://undocs.org/A/74/493) of the special rapporteur on extreme poverty and human rights on the digital welfare state presents the almost dystopian future we are stumbling into. It raises concerns that, despite numerous analysis of human rights implications of technologies such as artificial intelligence and biometrics, no protections are currently grounded in law.
+* 2. The Omidyar Network Ethical Operating System is a [guide](https://www.omidyar.com/investees/ethical-os) to anticipating the future impact of today’s technology. The aim of the guide is to help makers of technology, product managers, and others see problems before they arise. It aims to help with good design and provides a comprehensive list of potential risks that need to be thought about upfront.
+* 3. Adamantia Rachovitsa [outlines](https://academic.oup.com/ijlit/article/24/4/374/2566975) why privacy—as a fundamental human right—is not just a human rights issue, but should be a design feature of technological solutions.
 
 ![thought-catalog-tRL_Rkh6D8o-unsplash.jpg](/uploads/thought-catalog-tRL_Rkh6D8o-unsplash.jpg)`Photo by Thought Catalog on Unsplash.`
 
-## 4. This [article](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.185) argues that online gender-based violence cannot be addressed by government legal systems, but needs to be addressed by technology companies in their very design.
-
-## 5. This [report](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) on “Algorithms and Human Rights” by the Council of Europe does what I just didn’t have space for in this post. It goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
+* 4. This [article](https://onlinelibrary.wiley.com/doi/full/10.1002/poi3.185) argues that online gender-based violence cannot be addressed by government legal systems, but needs to be addressed by technology companies in their very design.
+* 5. This [report](https://rm.coe.int/algorithms-and-human-rights-en-rev/16807956b5) on “Algorithms and Human Rights” by the Council of Europe does what I just didn’t have space for in this post. It goes through each of the human rights from “fair trial and due process” to “freedom of expression” and outlines how algorithms can impact on human rights. It’s a long read, but worth it for those wanting to really dig into the topic.
 
 We hope to continue the conversation on human rights in the ICT4D space. Tweet to us at [@DAIGlobal](https://twitter.com/DAIGlobal) and [@ChloeMessenger](https://twitter.com/ChloeMessenger) any reading you recommend!
