@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Dec 2019 15:11:41 -0500</pubDate>
-    <lastBuildDate>Wed, 11 Dec 2019 15:11:41 -0500</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2019 09:43:14 -0500</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2019 09:43:14 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Eleanor_roosevelt_human_rights_english_-_Resize_548w.jpg-f6b73d.png" medium="image" /> 
+        <title>Five Resources on Human Rights and Tech</title>
+        <description>&lt;p&gt;This week marked the 71st anniversary of the &lt;a href=&quot;https://www.un.org/en/universal-declaration-human-rights/&quot;&gt;Universal Declaration of Human Rights&lt;/a&gt; (UNDHR)—a founding document which set out, for the first time, fundamental human rights to be universally protected. Working in international development, most of us are committed to the 30 rights laid out in the UNDHR. As the digital revolution evolves, countries have adopted a myriad of legal frameworks to protect citizens in the digital space. These laws include those focused on privacy and data protection. However, often, these policies are not aligned with the most recent technological advancements.&lt;/p&gt;
+
+&lt;p&gt;In the humanitarian and development sectors, we are digitising faster than the &lt;a href=&quot;https://reliefweb.int/report/world/future-financial-assistance-outlook-2030-enaresfr&quot;&gt;legal and ethical frameworks&lt;/a&gt; governing this digitisation. Some fear that the technology sector remains virtually a &lt;a href=&quot;https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=25156&quot;&gt;human rights-free zone&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Dec 2019 12:12:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/five-resources-on-human-rights-and-tech.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/five-resources-on-human-rights-and-tech.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Governance</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/SpaCreekSocialImage.JPG" medium="image" /> 
@@ -184,27 +207,6 @@
         <category>Digital Insights</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Imagen%201.png" medium="image" /> 
-        <title>Digital Insights: How the Disability Community in Honduras Uses Digital Tools</title>
-        <description>&lt;p&gt;&lt;em&gt;Read this post in &lt;a href=&quot;dai-global-digital.com/los-vehiculos-digitales-para-poblaciones-con-discapacidad-en-honduras.html&quot;&gt;Spanish&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Studies on how many disabled people live in Honduras are scarce. Results of a survey by the National Statistics Institute (INE), carried out in September 2002, showed there are 177,516 people with disabilities in the country. &lt;a href=&quot;http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf&quot;&gt;Academic studies&lt;/a&gt; tell a different story. They estimate that the number of people in Honduras with disabilities is closer to 381,287. These differing reports prevent the government, institutions, and civil society from effectively thinking through how ensure that services are accessible to those with disabilities.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 17 Oct 2019 06:00:00 -0400</pubDate>
-        <author>Alejandro Solis
-</author>
-        <link>https://dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Insights</category>
         
         
       </item>
