@@ -20,7 +20,7 @@ After a remarkable body of work over six years—such as working with Cambodian 
 
 Our analysis resulted in three major findings:
 
-* **Adaptive management over DI’s lifespan improved activity focus and quality.** From the beginning, DI learned more from its failures than its successes and applied that leaning to make real-time programmatic changes. This led to more targeted program objectives and offerings, which in turn led to higher-quality interventions and improved program outcomes.
+* **Adaptive management over DI’s lifespan improved activity focus and quality.** From the beginning, DI learned more from its failures than its successes and applied that learning to make real-time programmatic changes. This led to more targeted program objectives and offerings, which in turn led to higher-quality interventions and improved program outcomes.
 
 * **DI catalyzed behavior change among partners, beneficiaries, and the private sector.** Over the program’s lifespan, DI demonstrated different approaches to doing business with its partners, beneficiaries and other stakeholders. DI facilitated mindset shifts for its partners, who then began modeling and institutionalizing DI processes and practices in their own work—especially adaptive management, applying a user-focus, and managing with empathy.
 
