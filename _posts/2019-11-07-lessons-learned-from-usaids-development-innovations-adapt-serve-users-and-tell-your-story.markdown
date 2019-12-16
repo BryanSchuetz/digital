@@ -21,15 +21,12 @@ After a remarkable body of work over six years—such as working with Cambodian 
 Our analysis resulted in three major findings:
 
 * **Adaptive management over DI’s lifespan improved activity focus and quality.** From the beginning, DI learned more from its failures than its successes and applied that learning to make real-time programmatic changes. This led to more targeted program objectives and offerings, which in turn led to higher-quality interventions and improved program outcomes.
-
 * **DI catalyzed behavior change among partners, beneficiaries, and the private sector.** Over the program’s lifespan, DI demonstrated different approaches to doing business with its partners, beneficiaries and other stakeholders. DI facilitated mindset shifts for its partners, who then began modeling and institutionalizing DI processes and practices in their own work—especially adaptive management, applying a user-focus, and managing with empathy.
-
 * **DI assistance, networks, and convening power increased partner credibility, attracting the attention, support, and respect of government ministries, international donors, and the private sector.** DI positioned itself as the country’s primary nexus for a budding civic tech ecosystem. By attracting major private sector players, the public sector and donors, DI brought together disparate actors, thus consolidating the civic technology ecosystem.
 
 We believe DI has achieved its original goal of “fostering an ecosystem of tech-enabled civil society organizations and Cambodian suppliers of technology solutions to help civil society use information and communication technologies to improve their programming, reach, and impact.” DI became a more responsive, effective, and targeted program at each iteration, with results and outcomes more relevant and enduring with each passing year.
 
 <iframe src="https://player.vimeo.com/video/375672295" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-`Watch to see the broad impact DI had in Cambodia.`
 
 This success begs the question: How can other organizations or groups replicate DI’s role in the civil society or innovation space? Below are our suggestions, grouped under common programmatic problem areas.
 
