@@ -19,6 +19,8 @@ We featured digital experts from organizations like Massachusetts Institute for 
 
 ![2019 in review.PNG](/uploads/2019%20in%20review.PNG)
 
+<!--more-->
+
 In our [final post from 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html), we reviewed the 10 most-read articles of the year. To carry on the tradition, this post is an opportunity for us to reflect on the broad range of technical areas we touch on every year and highlight those that our readers thought were most compelling. So, without further ado, we present our top 10 blog post for 2019.
 
  1. [6 Tips for Making Great Monitoring and Evaluation Dashboards](file:///C:/Users/KBaptista/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/MHNTQ5Y8/1.%09https:/dai-global-digital.com/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html). This post covers why its so critical for development projects and organizations to have easily digestible and readable dashboards to display key data.
