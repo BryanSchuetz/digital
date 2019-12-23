@@ -15,13 +15,13 @@ thumbnail: "/uploads/2019%20in%20review.PNG"
 
 This year, Digital@DAI published more than 60 posts covering everything from trends in entrepreneurship ecosystems to the importance of user education for digital development programming and building on user insights to develop an open-source transparency and citizen participation application for the municipality of Kabul, Afghanistan.
 
-We featured digital experts from organizations like Massachusetts Institute for Technology’s MIT D-Lab and information sciences and technology experts from across DAI and from our partner organizations. In addition, we featured program work we do with clients including USAID’s Digital Frontier’s program. Key topics of interest this year included AI, agriculture, citizen engagement, decision support, cyber and trust, and ICT policy.
+We featured digital experts from organizations such as Massachusetts Institute for Technology (MIT)’s D-Lab and information sciences and technology experts from across DAI and from our partner organizations. In addition, we featured program work we do with clients including the U.S. Agency for International Development’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) program. Key topics of interest this year included artificial intelligence, agriculture, citizen engagement, decision support, cyber and trust, and ICT policy.
 
 ![2019 in review.PNG](/uploads/2019%20in%20review.PNG)
 
 <!--more-->
 
-In our [final post from 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html), we reviewed the 10 most-read articles of the year. To carry on the tradition, this post is an opportunity for us to reflect on the broad range of technical areas we touch on every year and highlight those that our readers thought were most compelling. So, without further ado, we present our top 10 blog post for 2019.
+In our [final post from 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html), we reviewed the 10 most-read articles of that year. To carry on the tradition, this post is an opportunity for us to reflect on the broad range of technical areas we touch on every year and highlight those that our readers thought were most compelling. So, without further ado, we present our top 10 blog post for 2019.
 
  1. [6 Tips for Making Great Monitoring and Evaluation Dashboards](file:///C:/Users/KBaptista/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/MHNTQ5Y8/1.%09https:/dai-global-digital.com/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html). This post covers why its so critical for development projects and organizations to have easily digestible and readable dashboards to display key data.
 
