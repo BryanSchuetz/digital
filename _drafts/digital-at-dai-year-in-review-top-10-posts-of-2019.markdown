@@ -23,7 +23,7 @@ We featured digital experts from organizations such as Massachusetts Institute f
 
 In our [final post from 2018](https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2018.html), we reviewed the 10 most-read articles of that year. To carry on the tradition, this post is an opportunity for us to reflect on the broad range of technical areas and highlight those that our readers thought were most compelling. So, without further ado, we present our top 10 posts from 2019.
 
-**1.** [6 Tips for Making Great Monitoring and Evaluation Dashboards](file:///C:/Users/KBaptista/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/MHNTQ5Y8/1.%09https:/dai-global-digital.com/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html). This post covers why it's so critical for development projects and organizations to have easily digestible and readable dashboards to display key data.
+**1.** [6 Tips for Making Great Monitoring and Evaluation Dashboards](https:/dai-global-digital.com/6-tips-for-making-great-monitoring-and-evaluation-dashboards.html). This post covers why it's so critical for development projects and organizations to have easily digestible and readable dashboards to display key data.
 
 **2.** [10 Trends Changing Entrepreneurship Ecosystems](https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html). Many of the countries we work in have ever-changing entrepreneurship ecosystems. From our work with the Kosmos Innovation Center (KIC) in Ghana and programs such as [Shell LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) we have observed some exciting trends across several emerging and frontier markets.
 
