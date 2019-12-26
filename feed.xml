@@ -5,9 +5,38 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Dec 2019 17:59:37 -0500</pubDate>
-    <lastBuildDate>Mon, 23 Dec 2019 17:59:37 -0500</lastBuildDate>
+    <pubDate>Thu, 26 Dec 2019 08:54:25 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Dec 2019 08:54:25 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/2019%20in%20review.PNG" medium="image" /> 
+        <title>Digital@DAI Year in Review: Top 10 Posts of 2019</title>
+        <description>&lt;p&gt;This year, Digital@DAI published more than 60 posts covering everything from trends in entrepreneurship ecosystems to the importance of user education for digital development programming and building on user insights to develop an open-source transparency and citizen participation application for the municipality of Kabul, Afghanistan.&lt;/p&gt;
+
+&lt;p&gt;We featured digital experts from organizations such as Massachusetts Institute for Technology (MIT)’s D-Lab and information sciences and technology experts from across DAI and from our partner organizations. In addition, we featured program work we do with clients including the U.S. Agency for International Development (USAID)’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; program. Key topics of interest this year included artificial intelligence, agriculture, citizen engagement, decision support, cyber and trust, and ICT policy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/2019%20in%20review.PNG&quot; alt=&quot;2019 in review.PNG&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Dec 2019 07:00:00 -0500</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/krista-baptista/">Krista Baptista</a> and <a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a>
+</author>
+        <link>https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2019.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2019.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Digital Insights</category>
+        
+        <category>Digital Principles</category>
+        
+        <category>Cyber</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Eleanor_roosevelt_human_rights_english_-_Resize_548w.jpg-f6b73d.png" medium="image" /> 
@@ -184,29 +213,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/knowledge-and-insights-rfp-blog.html</guid>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Imagen%201.png" medium="image" /> 
-        <title>Digital Insights: El contexto digital de la población con discapacidad en Honduras</title>
-        <description>&lt;p&gt;&lt;em&gt;Read this post in &lt;a href=&quot;https://dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html&quot;&gt;English&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Se estima que el número de personas que viven con algún tipo de discapacidad en América Latina y el Caribe entre 2001 y 2013 fue de más de &lt;a href=&quot;https://www.paho.org/hon/index.php?option=com_docman&amp;amp;view=download&amp;amp;alias=383-identificacion-y-caracterizacion-de-las-personas-con-discapacidad-en-francisco-morazan-2017&amp;amp;category_slug=fortalecimiento-de-sistemas-de-salud&amp;amp;Itemid=211&quot;&gt;70 millones&lt;/a&gt; (o 12.5 porciento de la población regional total, el 12.6 porciento de la población de América Latina y el 61 porciento de los países del Caribe).&lt;/p&gt;
-
-&lt;p&gt;En Honduras los estudios acerca del tema de discapacidad son escasos y limitados. Según los resultados de la Encuesta Permanente de Hogares con Propósitos Múltiples del Instituto Nacional de Estadística (INE) realizada en septiembre 2002, se encontró que en Honduras existían 177,516 personas con discapacidad, lo que representa una prevalencia de 2.65 porciento, con predominio masculino (55 porciento) en comparación de la población femenina (45 porciento). Sin embargo, estudios recientes del [Censo 2013 del INE] indicaron la existencia de 205,423 personas con discapacidad, y &lt;a href=&quot;http://www.bvs.hn/Honduras/UICFCM/Articulo3_Vol83-1-2-Discapacidad.Sujetos.18-65a.pdf&quot;&gt;otro estudio&lt;/a&gt; de Flores, et al. (2014) encontró una tasa de prevalencia del 4.6 porciento, que significa un total de 381,287 personas que viven con discapacidades asumiendo una población de 8.2 millones.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 17 Oct 2019 06:00:00 -0400</pubDate>
-        <author>Alejandro Solis
-</author>
-        <link>https://dai-global-digital.com/los-vehiculos-digitales-para-poblaciones-con-discapacidad-en-honduras.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/los-vehiculos-digitales-para-poblaciones-con-discapacidad-en-honduras.html</guid>
-        
-        <category>Digital Insights</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
