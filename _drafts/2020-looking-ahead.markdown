@@ -1,5 +1,5 @@
 ---
-title: 2020 Looking Ahead
+title: 'Looking Ahead: What We’re Thinking About in 2020'
 date: 2019-12-31 10:25:00 -05:00
 Author: Krista Baptista
 ---
