@@ -1,6 +1,7 @@
 ---
 title: 2020 Looking Ahead
 date: 2019-12-31 10:25:00 -05:00
+Author: Krista Baptista
 ---
 
 In our last post from 2019, we reviewed our top posts from the last year. The most read articles covered a myriad of digital development topics, including issues like bridging the [digital gender divide](https://dai-global-digital.com/lessons-learned-from-cambodia.html),   understanding how to [visualize remote sense data](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html), and insights into the [digital lives of Kabul’s residents](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) to design an open source transparency and citizen participation app. Over the last few years, we’ve seen a sea of change in how digital tools and services are impact people’s lives globally and expect 2020 to be no different.
