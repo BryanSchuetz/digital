@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jan 2020 09:59:51 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Jan 2020 09:59:51 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2020 10:26:47 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2020 10:26:47 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/2020.png" medium="image" /> 
+        <title>Looking Ahead: What We’re Thinking About in 2020</title>
+        <description>&lt;p&gt;In our last post from 2019, we reviewed our top posts from the past year. The most-read articles covered a myriad of digital development topics—bridging the &lt;a href=&quot;https://dai-global-digital.com/lessons-learned-from-cambodia.html&quot;&gt;digital gender divide&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html&quot;&gt;visualizing remote sense data&lt;/a&gt;, and insights into the &lt;a href=&quot;https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html&quot;&gt;digital lives of Kabul’s residents&lt;/a&gt; to design an open source transparency and citizen participation app. Over the last few years, we’ve seen a sea change in how digital tools and services impact people’s lives globally. Expect 2020 to be no different.&lt;/p&gt;
+
+&lt;p&gt;As we get ready for the new decade, here are some topics we’re thinking about when it comes to digital development.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Jan 2020 06:00:00 -0500</pubDate>
+        <author>Krista Baptista
+</author>
+        <link>https://dai-global-digital.com/2020-looking-ahead.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/2020-looking-ahead.html</guid>
+        
+        <category>Entrepreneurship</category>
+        
+        <category>Trust</category>
+        
+        <category>Innovation</category>
+        
+        <category>Data</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2019%20in%20review.PNG" medium="image" /> 
@@ -194,23 +221,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html</guid>
         
         <category>Entrepreneurship</category>
-        
-        <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/1.jfif" medium="image" /> 
-        <title>Apply Now: Support USAID on the Digital Development Awards and Communications Activities</title>
-        <description>&lt;p&gt;Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD’s Knowledge and Insights (K&amp;amp;I) team, which leads the Center’s work in knowledge management, communications, and training.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 18 Oct 2019 10:25:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/stephanie-c-creed">Stephanie Creed</a>
-</author>
-        <link>https://dai-global-digital.com/knowledge-and-insights-rfp-blog.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/knowledge-and-insights-rfp-blog.html</guid>
         
         <category>Innovation</category>
         
