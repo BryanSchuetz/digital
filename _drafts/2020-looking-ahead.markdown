@@ -1,6 +1,6 @@
 ---
 title: 'Looking Ahead: What We’re Thinking About in 2020'
-date: 2019-01-02 06:00:00 -05:00
+date: 2020-01-02 06:00:00 -05:00
 tags:
 - Entrepreneurship
 - Trust
