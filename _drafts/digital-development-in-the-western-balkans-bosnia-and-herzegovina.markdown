@@ -9,6 +9,8 @@ Through our research, we saw a region which is well-placed to increase its share
 
 First up, the beautiful Bosnia and Herzegovina.
 
+![BiH.jpg](/uploads/BiH.jpg)\`A picture of Baščaršija square.\`
+
 <!--more-->
 
 Despite facing strong effects of the global financial crisis, Bosnia and Herzegovina’s (BiH) economy has been steadily rising since 2015, largely due to high-growth sectors such as tourism and technology.
