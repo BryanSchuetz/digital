@@ -37,7 +37,7 @@ Despite this, some organisations and universities are starting to collaborate to
 
 Despite shortages in numbers, the technology sector in BiH is well regarded for its high-quality workforce, affordable labour, and handful of successful firms. Like other countries in the region, the country’s tech firms are focused almost exclusively on outsourcing, with steady demand from international clients. This demand has in turn led to significant demand for a digitally skilled labour force: a demand that cannot be met. Recent figures estimate a need for an additional 6,000 people—a huge ask in such a small country.
 
-Like much of the region, BiH suffers from brain drain of many of the most competent workers. This is not just due to the draw of opportunities elsewhere, but also for wider quality of life reasons such as the political environment and poor public services. This is particularly prevalent for senior technology professionals, who are likely to move abroad for more interesting and lucrative work.
+Like much of the region, BiH suffers from brain drain—too many of its most competent workers move away. This is not just due to the draw of opportunities elsewhere, but also for wider quality of life reasons such as the political environment and poor public services. This is particularly prevalent for senior technology professionals, who are likely to move abroad for more interesting and lucrative work.
 
 There is a clear need to add to the numbers of technology professionals, but few initiatives ongoing in this space, other than those within the IT companies themselves. Skills training of adult professionals and graduates is needed to boost numbers and draw in employed youth to the technology sector.
 
