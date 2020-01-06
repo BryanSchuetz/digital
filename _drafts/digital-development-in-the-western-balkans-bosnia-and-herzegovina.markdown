@@ -24,7 +24,7 @@ Technology use has been on the rise for generations, with high levels of mobile 
 
 Whilst mobile use is high in BiH, the environment for technology entrepreneurship is lacking. BiH has started to benefit from a technology revolution of sorts, with the ICT sector contributing to growth of the economy but is somewhat halted in its tracks for longer-term development for a number of reasons.
 
-## A lack of promotion of and quality training in tech
+## A Lack of Promotion of and Quality Training in Tech
 
 Despite the potential for high salaries in the sector, technology is not promoted as a career path within formal education. There is a general perception that public sector jobs are more desirable, and particularly that entrepreneurship is too risky an endeavour. Therefore, children are not taught the skills required for a career in technology, and few students choose to study technology at a tertiary education level.
 
