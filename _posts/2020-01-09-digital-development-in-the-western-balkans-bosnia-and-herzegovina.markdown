@@ -15,7 +15,7 @@ Through our research, we found a region that is well-placed to increase its shar
 
 First up, beautiful Bosnia and Herzegovina.
 
-![BiH.jpg](/uploads/BiH.jpg)\`A picture of Baščaršija square.\`
+![BiH.jpg](/uploads/BiH.jpg)`Baščaršija square.`
 
 <!--more-->
 
