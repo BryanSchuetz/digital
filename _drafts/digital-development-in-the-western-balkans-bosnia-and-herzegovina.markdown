@@ -1,6 +1,11 @@
 ---
 title: 'Digital Development in the Western Balkans: Bosnia and Herzegovina'
 date: 2020-01-06 14:28:00 -05:00
+tags:
+- Digital Insights
+Author: Chloe Messenger
+social-image: "/uploads/BiH.jpg"
+thumbnail: "/uploads/BiH.jpg"
 ---
 
 For the past few months, DAI has been working closely with the UK Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where it can support the technology sector and close the digital skill supply-demand gap in the region.
