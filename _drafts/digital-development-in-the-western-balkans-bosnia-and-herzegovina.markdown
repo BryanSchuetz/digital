@@ -24,7 +24,7 @@ Technology use has been on the rise for generations, with high levels of mobile 
 
 Whilst mobile use is high in BiH, the environment for technology entrepreneurship is lacking. BiH has started to benefit from a technology revolution of sorts, with the ICT sector contributing to growth of the economy but is somewhat halted in its tracks for longer-term development for a number of reasons.
 
-**A lack of promotion of and quality training in tech**
+## A lack of promotion of and quality training in tech
 
 Despite the potential for high salaries in the sector, technology is not promoted as a career path within formal education. There is a general perception that public sector jobs are more desirable, and particularly that entrepreneurship is too risky an endeavour. Therefore, children are not taught the skills required for a career in technology, and few students choose to study technology at a tertiary education level.
 
@@ -32,7 +32,7 @@ At the level of higher education, universities struggle to keep up with the fast
 
 Despite this, some organisations and universities are starting to take their own initiative to collaborate to develop entrepreneurship in the country. The University of Sarajevo has created a Grow Up Hub for entrepreneurs, and the UK-funded 21st Century Schools programme is using micro:bit to promote critical thinking and technology use among children across the country.
 
-**A technically competent workforce, but a technology sector affected by brain drain**
+## A technically competent workforce, but a technology sector affected by brain drain
 
 Despite shortages in numbers, the technology sector in BiH is well regarded for its high-quality workforce, affordable labour, and a handful of successful firms. Like other countries in the region, the country’s technology firms are focused almost exclusively on outsourcing, facing steady demand from international clients. This demand has in turn led to significant demand for a digitally-skilled labour force: a demand that cannot be met. Recent figures estimate a need for an additional 6,000 people – a huge ask in such a small country.
 
@@ -40,7 +40,7 @@ Like much of the region, BiH suffers from brain drain of many of the most compet
 
 There is a clear need to add to the numbers of technology professionals, but few initiatives ongoing in this space, other than those within the IT companies themselves. Skills training of adult professionals and graduates is needed to boost numbers and draw in employed youth to the technology sector.
 
-**A start-up environment in early stages**
+## A start-up environment in early stages
 
 A combination of this low interest in technology and risk aversion for entrepreneurship, and the business operating environment means that BiH has only a small number of start-ups. Those that do exist are still in early stages and need full-cycle mentoring to build their business skills, market knowledge, and commercial awareness.
 
