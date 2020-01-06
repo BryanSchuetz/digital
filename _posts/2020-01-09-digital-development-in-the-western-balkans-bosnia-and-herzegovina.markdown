@@ -41,7 +41,7 @@ Like much of the region, BiH suffers from brain drain—too many of its most com
 
 There is a clear need to add to the numbers of technology professionals, but few initiatives ongoing in this space, other than those within the IT companies themselves. Skills training of adult professionals and graduates is needed to boost numbers and draw in employed youth to the technology sector.
 
-## A Start-Up Environment in Early Stages
+## A Startup Environment in Early Stages
 
 A combination of this low interest in technology and risk aversion for entrepreneurship, and the business operating environment means that BiH has only a small number of start-ups. Those that do exist are still in early stages and need full-cycle mentoring to build their business skills, market knowledge, and commercial awareness.
 
