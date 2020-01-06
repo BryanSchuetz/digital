@@ -5,13 +5,9 @@ date: 2020-01-06 14:28:00 -05:00
 
 For the past few months, DAI has been working closely with the UK Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where it can support the technology sector and close the digital skill supply-demand gap in the region.
 
-Through our research, we saw a region which is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities for the countries, but that in many cases need investment and support to do so. With each country having its own specific trajectory and differing operating environment, we have decided to create a series of quick-fire blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo and North Macedonia. [\[Anand Var1\]](#_msocom_1)
+Through our research, we saw a region which is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities for the countries, but that in many cases need investment and support to do so. With each country having its own specific trajectory and differing operating environment, we have decided to create a series of quick-fire blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo and North Macedonia. 
 
 First up, the beautiful Bosnia and Herzegovina.
-
-![A group of people walking in front of a building
-
-Description generated with very high confidence](file:///C:/Users/gnurko/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 <!--more-->
 
