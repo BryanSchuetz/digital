@@ -32,7 +32,7 @@ At the level of higher education, universities struggle to keep up with the fast
 
 Despite this, some organisations and universities are starting to take their own initiative to collaborate to develop entrepreneurship in the country. The University of Sarajevo has created a Grow Up Hub for entrepreneurs, and the UK-funded 21st Century Schools programme is using micro:bit to promote critical thinking and technology use among children across the country.
 
-## A technically competent workforce, but a technology sector affected by brain drain
+## A Technically Competent Workforce, but a Technology Sector Affected by Brain Drain
 
 Despite shortages in numbers, the technology sector in BiH is well regarded for its high-quality workforce, affordable labour, and a handful of successful firms. Like other countries in the region, the country’s technology firms are focused almost exclusively on outsourcing, facing steady demand from international clients. This demand has in turn led to significant demand for a digitally-skilled labour force: a demand that cannot be met. Recent figures estimate a need for an additional 6,000 people – a huge ask in such a small country.
 
