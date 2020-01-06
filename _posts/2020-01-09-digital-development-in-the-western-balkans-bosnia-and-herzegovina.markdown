@@ -1,6 +1,7 @@
 ---
 title: 'Digital Development in the Western Balkans: Bosnia and Herzegovina'
 date: 2020-01-09 06:00:00 -05:00
+published: false
 tags:
 - Digital Insights
 Author: Chloe Messenger
@@ -18,7 +19,7 @@ First up, beautiful Bosnia and Herzegovina.
 
 <!--more-->
 
-Despite facing strong effects of the global financial crisis, Bosnia and Herzegovina’s (BiH) economy has been steadily rising since 2015, largely due to high-growth sectors such as tourism and technology.
+Despite experiencing the strong negative effects of the global financial crisis, Bosnia and Herzegovina’s (BiH) economy has been steadily rising since 2015, largely due to high-growth sectors such as tourism and technology.
 
 Technology use has been on the rise for generations, with high levels of mobile phone penetration in line with the rest of the region. 97 per cent of the population own a mobile device. However, rural areas of BiH still suffer from poor network performance due to insufficient infrastructure.
 
