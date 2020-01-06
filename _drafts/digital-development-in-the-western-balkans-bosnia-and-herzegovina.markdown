@@ -10,7 +10,7 @@ thumbnail: "/uploads/BiH.jpg"
 
 For the past few months, DAI has been working closely with the UK Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where it can support the technology sector and close the digital skill supply-demand gap in the region.
 
-Through our research, we saw a region which is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities for the countries, but that in many cases need investment and support to do so. With each country having its own specific trajectory and differing operating environment, we have decided to create a series of quick-fire blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo and North Macedonia. 
+Through our research, we saw a region which is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities for the countries, but that in many cases need investment and support to do so. With each country having its own specific trajectory and differing operating environment, we have decided to create a series of quick-fire blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo and North Macedonia.
 
 First up, the beautiful Bosnia and Herzegovina.
 
@@ -40,12 +40,12 @@ Like much of the region, BiH suffers from brain drain of many of the most compet
 
 There is a clear need to add to the numbers of technology professionals, but few initiatives ongoing in this space, other than those within the IT companies themselves. Skills training of adult professionals and graduates is needed to boost numbers and draw in employed youth to the technology sector.
 
-## A start-up environment in early stages
+## A Start-Up Environment in Early Stages
 
 A combination of this low interest in technology and risk aversion for entrepreneurship, and the business operating environment means that BiH has only a small number of start-ups. Those that do exist are still in early stages and need full-cycle mentoring to build their business skills, market knowledge, and commercial awareness.
 
 The political, policy and regulatory market in BiH is challenging for start-ups, especially in terms of registration and attracting investment. As the banking and public sector are relatively weak in access to finance and there is little incentive for them to invest, it is likely that financial support will come from donors and private funds in the short- and medium-term. Due to the relatively small local market and a lack of national demand for products and services, there is also little scope to develop and test digital products and services locally.
 
-## Next steps for BiH
+## Next Steps for BiH
 
 It was clear from our research that BiH could benefit from longer-term changes to the business operating and education environments, to facilitate growing interest in technology and a nascent start-up ecosystem. In the short-term, increase in numbers of technology professionals will help BiH keep up with demand and maintain its position as a key country for outsourcing of technology service provision. Existing start-ups can be supported to develop their products and services in line with regional needs, understand the markets, and ultimately grow to put BiH on the map and a tech centre. We look forward to following the trajectory of the country!
