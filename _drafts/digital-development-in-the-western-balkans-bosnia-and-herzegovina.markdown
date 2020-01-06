@@ -49,3 +49,5 @@ The political, policy and regulatory market in BiH is challenging for start-ups,
 ## Next Steps for BiH
 
 It was clear from our research that BiH could benefit from longer-term changes to the business operating and education environments, to facilitate growing interest in technology and a nascent start-up ecosystem. In the short-term, increase in numbers of technology professionals will help BiH keep up with demand and maintain its position as a key country for outsourcing of technology service provision. Existing start-ups can be supported to develop their products and services in line with regional needs, understand the markets, and ultimately grow to put BiH on the map and a tech centre. We look forward to following the trajectory of the country!
+
+*This post is part of a series. *
