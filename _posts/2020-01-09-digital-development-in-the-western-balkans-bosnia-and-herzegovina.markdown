@@ -21,21 +21,21 @@ First up, beautiful Bosnia and Herzegovina.
 
 Despite experiencing the strong negative effects of the global financial crisis, Bosnia and Herzegovina’s (BiH) economy has been steadily rising since 2015, largely due to high-growth sectors such as tourism and technology.
 
-Technology use has been on the rise for generations, with high levels of mobile phone penetration in line with the rest of the region. 97 per cent of the population own a mobile device. However, rural areas of BiH still suffer from poor network performance due to insufficient infrastructure.
+Technology use has been on the rise for generations, with high levels of mobile phone penetration in line with the rest of the region. Nearly 100 percent of the population own a mobile device. However, rural areas of BiH suffer from poor network performance due to insufficient infrastructure.
 
-Whilst mobile use is high in BiH, the environment for technology entrepreneurship is lacking. BiH has started to benefit from a technology revolution of sorts, with the ICT sector contributing to growth of the economy but is somewhat halted in its tracks for longer-term development for a number of reasons.
+Whilst mobile use is high in BiH, the environment for technology entrepreneurship is lacking. BiH has started to benefit from a technology revolution of sorts, with the ICT sector contributing to growth of the economy but is somewhat stagnant for a number of reasons.
 
-## A Lack of Promotion of and Quality Training in Tech
+## Lack of Quality Tech Training 
 
-Despite the potential for high salaries in the sector, technology is not promoted as a career path within formal education. There is a general perception that public sector jobs are more desirable, and particularly that entrepreneurship is too risky an endeavour. Therefore, children are not taught the skills required for a career in technology, and few students choose to study technology at a tertiary education level.
+Despite the potential for high salaries in the sector, technology is not promoted as a career path within formal education. There is a general perception that public sector jobs are more desirable, and particularly that entrepreneurship is too risky. Therefore, children are not taught the skills required for a career in technology, and few students choose to study technology at a tertiary education level.
 
-At the level of higher education, universities struggle to keep up with the fast-moving tech sector – a problem that is not unique to the Western Balkans. Poor collaboration between universities and the private sector means that computer science and related degrees are not meeting the needs of IT companies, who are having to invest time into training staff before they are job-ready. The complex, bureaucratic, and political nature of the education system in BiH means that curricula are slow and difficult to change.
+At the level of higher education, universities struggle to keep up with the fast-moving tech sector—a problem that is not unique to the Western Balkans. Poor collaboration between universities and the private sector means that computer science and related degrees are not meeting the needs of IT companies that are having to invest time and money into training staff before they are job-ready. The complex, bureaucratic, and political nature of the education system in BiH means that curricula are slow and difficult to change.
 
-Despite this, some organisations and universities are starting to take their own initiative to collaborate to develop entrepreneurship in the country. The University of Sarajevo has created a Grow Up Hub for entrepreneurs, and the UK-funded 21st Century Schools programme is using micro:bit to promote critical thinking and technology use among children across the country.
+Despite this, some organisations and universities are starting to collaborate to develop entrepreneurship in the country. The University of Sarajevo has created a [Grow Up Hub ](https://www.unsa.ba/en/doga%C4%91aji/growup-business-innovation-hub-university-incubator-promotion)for entrepreneurs, and the U.K.-funded [21st Century Schools programme](https://www.britishcouncil.ba/en/programmes/education/21st-century-schools) is using micro:bit to promote critical thinking and technology use among children across the country.
 
-## A Technically Competent Workforce, but a Technology Sector Affected by Brain Drain
+## Brain Drain
 
-Despite shortages in numbers, the technology sector in BiH is well regarded for its high-quality workforce, affordable labour, and a handful of successful firms. Like other countries in the region, the country’s technology firms are focused almost exclusively on outsourcing, facing steady demand from international clients. This demand has in turn led to significant demand for a digitally-skilled labour force: a demand that cannot be met. Recent figures estimate a need for an additional 6,000 people – a huge ask in such a small country.
+Despite shortages in numbers, the technology sector in BiH is well regarded for its high-quality workforce, affordable labour, and handful of successful firms. Like other countries in the region, the country’s tech firms are focused almost exclusively on outsourcing, with steady demand from international clients. This demand has in turn led to significant demand for a digitally skilled labour force: a demand that cannot be met. Recent figures estimate a need for an additional 6,000 people—a huge ask in such a small country.
 
 Like much of the region, BiH suffers from brain drain of many of the most competent workers. This is not just due to the draw of opportunities elsewhere, but also for wider quality of life reasons such as the political environment and poor public services. This is particularly prevalent for senior technology professionals, who are likely to move abroad for more interesting and lucrative work.
 
