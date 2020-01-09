@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jan 2020 10:47:39 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2020 10:47:39 -0500</lastBuildDate>
+    <pubDate>Thu, 09 Jan 2020 10:25:06 -0500</pubDate>
+    <lastBuildDate>Thu, 09 Jan 2020 10:25:06 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/BiH.jpg" medium="image" /> 
+        <title>Digital Development in the Western Balkans: Bosnia and Herzegovina</title>
+        <description>&lt;p&gt;For the past few months, DAI has been working closely with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.&lt;/p&gt;
+
+&lt;p&gt;Through our research, we found a region that is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities, but that in many cases need investment and support to do so. With each country having its own specific trajectory and different operating environment, we have created a series of blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo, and North Macedonia.&lt;/p&gt;
+
+&lt;p&gt;First up, beautiful Bosnia and Herzegovina.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/BiH.jpg&quot; alt=&quot;BiH.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Baščaršija square.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Jan 2020 06:00:00 -0500</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html</guid>
+        
+        <category>Digital Insights</category>
+        
+        <category>Ecosystem Insights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2020.png" medium="image" /> 
@@ -204,25 +229,6 @@
         <category>Cyber</category>
         
         <category>Digital</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/SLW%20PH%20TOT.JPG" medium="image" /> 
-        <title>10 Trends Changing Entrepreneurship Ecosystems</title>
-        <description>&lt;p&gt;If you’re supporting early stage entrepreneurs in emerging and frontier markets, there’s a lot to be excited about as we approach the start of the third decade of this century! Over the past year supporting the &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy&quot;&gt;Shell LiveWIRE&lt;/a&gt; global entrepreneurship program and the &lt;a href=&quot;https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic&quot;&gt;Kosmos Innovation Center (KIC)&lt;/a&gt;, I’ve had the chance to attend some rather dynamic conferences, ‘un’-conferences, meetups, and pitch events with the Global Accelerator Network (&lt;a href=&quot;https://www.gan.co/&quot;&gt;GAN&lt;/a&gt;), the Aspen Network of Development Entrepreneurs (&lt;a href=&quot;http://andeglobal.org/&quot;&gt;ANDE&lt;/a&gt;), &lt;a href=&quot;https://www.techstars.com/&quot;&gt;Techstars&lt;/a&gt;, and the International Business Innovation Association (&lt;a href=&quot;https://inbia.org/&quot;&gt;InBIA&lt;/a&gt;). I’ve observed some trends from the inspiring incubator and accelerator program managers that I’ve gotten to meet from around the world—and will share the best ones below:&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Oct 2019 06:00:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/zaki-raheem">Zaki Raheem</a>
-</author>
-        <link>https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/10-trends-changing-entrepreneurship-ecosystems.html</guid>
-        
-        <category>Entrepreneurship</category>
-        
-        <category>Innovation</category>
         
         
       </item>
