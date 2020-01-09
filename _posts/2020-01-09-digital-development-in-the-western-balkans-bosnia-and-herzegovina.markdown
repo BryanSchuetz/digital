@@ -1,9 +1,9 @@
 ---
 title: 'Digital Development in the Western Balkans: Bosnia and Herzegovina'
 date: 2020-01-09 06:00:00 -05:00
-published: false
 tags:
 - Digital Insights
+- Ecosystem Insights
 Author: Chloe Messenger
 social-image: "/uploads/BiH.jpg"
 thumbnail: "/uploads/BiH.jpg"
