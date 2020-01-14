@@ -1,0 +1,6 @@
+---
+title: Araba Sapara-Grant
+date: 2020-01-14 17:37:00 -05:00
+---
+
+*Araba Sapara-Grant brings 5 years of experience in strategy development, project design and implementation in the international development sector. As a Digital Specialist with DAI’s Center for Digital Acceleration, Araba brings technical experience in agriculture, climate change, and private sector engagement to her work supporting research and business development for digital and ICT-focused projects. Previously, as a consultant for TechnoServe, Araba developed a climate change strategy for the organization’s West Africa division, including an analysis of digital innovations used to increase the adoption of adaptation and conservation practices in the agriculture sector. In addition, Araba has developed a government engagement strategy for myAgro, a mobile layaway platform for smallholder farmers, that included an analysis of the incentives, bottlenecks and trends shaping digital financial services in Senegal. Araba has a Masters in Global Human Development from Georgetown University’s School of Foreign Service, where she specialized in agriculture and food security, and completed a certificate in International Business Diplomacy. She speaks French and has field experience in Cameroon, Tanzania, Kenya and Senegal.*
