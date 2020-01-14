@@ -1,7 +1,12 @@
 ---
 title: Food and Health in a Digital World
 date: 2020-01-14 17:35:00 -05:00
+tags:
+- digital agriculture
+- Innovation
 Author: Araba Sapara-Grant
+social-image: "/uploads/digifood.jpg"
+thumbnail: "/uploads/digifood.jpg"
 ---
 
 It’s the new year and you know what that means…New Year’s resolutions! If you’ve ever uttered the words “New year, new me,” you are far from alone. In 2019, approximately 60 percent of Americans set resolutions and according to a recent survey, the top three were all related to diet and exercise: [eating better, exercising more and losing weight.](https://www.inc.com/peter-economy/10-top-new-years-resolutions-for-success-happiness-in-2019.html) Sound familiar?
