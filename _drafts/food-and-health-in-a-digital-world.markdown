@@ -1,6 +1,6 @@
 ---
 title: Food and Health in a Digital World
-date: 2020-01-14 17:35:00 -05:00
+date: 2020-01-16 06:00:00 -05:00
 tags:
 - digital agriculture
 - Innovation
@@ -13,7 +13,7 @@ It’s the new year and you know what that means…New Year’s resolutions! If 
 
 While self-help gurus and exercise enthusiasts may tell us that a little self-discipline is all it takes to achieve these goals, research in the field of health and nutrition has shown that one’s food environment - [the physical, social, economic, cultural, and political factors that impact the accessibility, availability, and adequacy of food within a community ](http://www.ncceh.ca/sites/default/files/Food_Environments_Public_Health_Practice_Dec_2015.pdf)– can have a larger impact on our health outcomes than we think.
 
-<--more--!>
+<!--more-->
 
 To put it simply, the decisions we make about what to eat are shaped by our physical surroundings and networks - where we live, where we work or go to school, the people we see, how much money we make and the food options made available to us as a result. These factors can reinforce good dietary decisions or promote harmful ones. For example, in low-income communities, healthy food options can become inaccessible without reliable transportation or may too expensive for those living at or below the poverty line. Challenging food environments such as these (sometimes referred to as obesogenic food environments or [“food swamps”](https://www.theatlantic.com/health/archive/2017/12/food-swamps/549275/)) are often linked to micronutrient malnutrition and diet-related health conditions such as obesity, diabetes and other non-communicable diseases. This is not a purely high-income country issue. With the rate of urban migration exploding in cities from Lagos to Delhi, those living on low incomes may rely on street vendors selling calorie-dense, yet nutrient-poor foods for a [large percentage of their daily calorie intake](https://glopan.org/sites/default/files/Downloads/GlobalPanelUrbanizationPolicyBrief.pdf).
 
