@@ -1,5 +1,5 @@
 ---
-title: Food and Health in a Digital World
+title: How the Digital Marketplace is Changing the Way We Eat
 date: 2020-01-16 06:00:00 -05:00
 tags:
 - digital agriculture
