@@ -5,8 +5,8 @@ tags:
 - digital agriculture
 - Innovation
 Author: Araba Sapara-Grant
-social-image: "/uploads/digifood.jpg"
-thumbnail: "/uploads/digifood.jpg"
+social-image: "/uploads/person-holding-phone-taking-picture-of-served-food-693267.jpg"
+thumbnail: "/uploads/person-holding-phone-taking-picture-of-served-food-693267.jpg"
 ---
 
 It’s the new year and you know what that means…New Year’s resolutions! If you’ve ever uttered the words “New year, new me,” you are far from alone. In 2019, approximately 60 percent of Americans set resolutions and according to a recent survey, the top three were all related to diet and exercise: [eating better, exercising more, and losing weight.](https://www.inc.com/peter-economy/10-top-new-years-resolutions-for-success-happiness-in-2019.html) Sound familiar?
@@ -29,4 +29,4 @@ In this new series on food and health in a digital world, we will use Granheim�
 
 With the explosion of digital technology platforms and services in the developing world, this is a global trend to watch and presents an opportunity to discuss the role of digital literacy and protection in a new light. I hope you’ll join me on this journey as I explore the intersections between food, health, psychology and the digital world. Until then, best of luck keeping your resolutions and, in the meantime, I’d like you to ask yourself: How, if at all, is your digital world shaping your food decisions?
 
-*This post is part of a series.*
+*This post is Part 1 of a series.*
