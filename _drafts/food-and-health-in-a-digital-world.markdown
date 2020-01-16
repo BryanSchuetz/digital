@@ -28,3 +28,5 @@ While both national and international governing bodies have begun to promote the
 In this new series on food and health in a digital world, we will use Granheim’s digital food environment framework as a guide to discuss the trends and influences shaping how we buy, make, eat, and think about food in our digital landscape. Much like our analog food environments, the food industry, government actors, civil society, academia, media, and regular folks with a social media presence, are clashing online in a bid to capture our attention and influence our habits.
 
 With the explosion of digital technology platforms and services in the developing world, this is a global trend to watch and presents an opportunity to discuss the role of digital literacy and protection in a new light. I hope you’ll join me on this journey as I explore the intersections between food, health, psychology and the digital world. Until then, best of luck keeping your resolutions and, in the meantime, I’d like you to ask yourself: How, if at all, is your digital world shaping your food decisions?
+
+*This post is part of a series. *
