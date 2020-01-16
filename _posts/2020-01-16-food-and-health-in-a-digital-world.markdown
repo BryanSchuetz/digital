@@ -29,4 +29,4 @@ In this new series on food and health in a digital world, we will use Granheim�
 
 With the explosion of digital technology platforms and services in the developing world, this is a global trend to watch and presents an opportunity to discuss the role of digital literacy and protection in a new light. I hope you’ll join me on this journey as I explore the intersections between food, health, psychology and the digital world. Until then, best of luck keeping your resolutions and, in the meantime, I’d like you to ask yourself: How, if at all, is your digital world shaping your food decisions?
 
-*This post is part of a series. *
+*This post is part of a series.*
