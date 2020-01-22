@@ -9,9 +9,9 @@ Author: Rob Ryan-Silva
 
 With the fast pace of technological change, it can be difficult for development practitioners to keep up with where tomorrow’s opportunities and risks will come from. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders – implementers, policy-makers, civil society, the private sector, and others – should be watching for changes in the near-term.
 
-**The Five Trends**
+## The Five Trends
 
-1. ** TinyML**. Machine learning frameworks that allow implementers to train a computer model based on example conclusions from a set of training data are making profound impacts on the way we will use computers. This may sound like a software trend, but the reality is these models need to run on hardware in order to apply them to real world problems. Until recently, that meant most of the models lived in the cloud.
+1. **TinyML**. Machine learning frameworks that allow implementers to train a computer model based on example conclusions from a set of training data are making profound impacts on the way we will use computers. This may sound like a software trend, but the reality is these models need to run on hardware in order to apply them to real world problems. Until recently, that meant most of the models lived in the cloud.
 
    Over the last few months, however, we have seen the explosion of [tinyML](https://tinymlsummit.org/) – frameworks that allow for those models, once trained, to run on very common, low-cost, and low-power hardware. While tinyML is so new it doesn’t even have a Wikipedia page (as of this writing of this blog), we can expect to see commercial products and small-scale projects using these frameworks very soon. Development stakeholders will need to quickly become conversant about the opportunities and risks associated with AI is suddenly everywhere.\
 
