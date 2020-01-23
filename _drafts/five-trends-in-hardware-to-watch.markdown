@@ -1,10 +1,12 @@
 ---
 title: Five Trends in Hardware to Watch
 date: 2020-01-23 17:48:00 -05:00
-categories:
+tags:
 - Hardware
 - Innovation
 Author: Rob Ryan-Silva
+social-image: "/uploads/1aSiFive_HiFive1_(31575892674).png"
+thumbnail: "/uploads/1aSiFive_HiFive1_(31575892674).png"
 ---
 
 With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term.
@@ -25,6 +27,8 @@ Choices related to the buildout of the infrastructure—in terms of both wireles
 
 But this is changing: an open-source ISA project called [RISC-V](https://riscv.org/) matured such that it is now feasible to produce commercial microcontrollers based on the architecture. At least partially in response to this, longstanding industry player Wave Computing has open sourced a current version of the venerable [MIPS ISA](https://en.wikipedia.org/wiki/MIPS_architecture).
 
+![1aSiFive_HiFive1_(31575892674).png](/uploads/1aSiFive_HiFive1_(31575892674).png)\`A RISC-V development board from SiFive. Available on [WikiCommons](https://commons.wikimedia.org/wiki/File:SiFive_HiFive1_(31575892674).png).\`
+
 The availability of open source architectures such as RISC-V and MIPS mean that traditional producers can fashion silicon without developing their own ISAs or remitting licensing fees to companies like Arm, have the flexibility to customize those architectures without legal constraint. Using a component called a field-programmable gate array or [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array), which can be thought of as a user-configured silicon chip, royalty-free designs can be created cost effectively in almost any quantity without having to actually manufacture silicon.
 
 The advent of open-source toolchains has historically led to a flowering of novel applications from nontraditional technologists, and open-source silicon will likely be no different. We may see novel ISA applications, a multifurcation of silicon design traditions, or the growth of silicon industries in developing countries. With open source ISAs and FPGA toolchains that are themselves going open source and getting easier to use, we may well see changes in the way FPGAs are used. It all adds up to more options for applying cutting edge technology to problems in more contexts.
@@ -36,5 +40,7 @@ That might change with a [Notice of Proposed Rulemaking](https://www.federalregi
 In North America and Europe, drone operators are restricted from flying beyond visual line of sight (BVLOS). The FAA’s rules are intended to put into place an infrastructure that will make it safe to lift those restrictions. The proposed regulations, which would take full effect three years after being imposed, do not themselves allow BVLOS, but will clear the way for new rules that will. While having no legal force outside the United States, these regulatory changes will affect the drone equipment available on the commercial market worldwide. As a result, expect to see the global landscape of possibilities (and problems) expand dramatically for drones around 2023.
 
 **5. Space**. With launch costs dropping sharply, and approaches to developing satellites changing dramatically, there can be few domains experiencing more change in 2020 than space. Few development implementers are going to launch their own satellites (though it is no longer inconceivable), but the availability of new tools that this will enable will bring opportunities for international development. From SpaceX’s global internet venture [Starlink](https://www.starlink.com/) to [Planet Labs](https://www.planet.com/)’ offer of imagery of every meter of earth every day to low-cost globe-spanning IoT services like [Lacuna Space](https://lacuna.space/), we are already seeing offerings that could affect change in developing countries and change the way implementers operate.
+
+![2048px-Relativity_Stargate_3D_Printer.jpg](/uploads/2048px-Relativity_Stargate_3D_Printer.jpg)\`A [Relativity Space](www.relativityspace.com) 3-D printer driving space launch costs down through 3-D printed engines. Image available on [Wikicommon](https://commons.wikimedia.org/wiki/File:Relativity_Stargate_3D_Printer.jpg)s.\`
 
 All these trends are worth watching. Stay tuned for more blogs in 2020 on these topics.
