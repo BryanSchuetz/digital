@@ -1,6 +1,6 @@
 ---
 title: Five Trends in Hardware to Watch
-date: 2020-01-23 17:48:00 -05:00
+date: 2020-01-23 06:00:00 -05:00
 tags:
 - Hardware
 - Innovation
