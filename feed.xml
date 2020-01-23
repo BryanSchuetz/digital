@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Jan 2020 12:04:07 -0500</pubDate>
-    <lastBuildDate>Thu, 23 Jan 2020 12:04:07 -0500</lastBuildDate>
+    <pubDate>Thu, 23 Jan 2020 12:07:48 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2020 12:07:48 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/5e29aca9a055b1488ea32c12.png" medium="image" /> 
+        <title>Five Trends in Hardware to Watch</title>
+        <description>&lt;p&gt;With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Jan 2020 06:00:00 -0500</pubDate>
+        <author>Rob Ryan-Silva
+</author>
+        <link>https://dai-global-digital.com/five-trends-in-hardware-to-watch.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/five-trends-in-hardware-to-watch.html</guid>
+        
+        <category>Hardware</category>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/person-holding-phone-taking-picture-of-served-food-693267.jpg" medium="image" /> 
@@ -210,27 +229,6 @@
         <category>Innovation</category>
         
         <category>Ecosystem Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/susannah%20blog%20photo%202.jpg" medium="image" /> 
-        <title>Part I: Big Data in Agriculture Conference Download: Building Trust and Fueling Innovation</title>
-        <description>&lt;p&gt;As a data enthusiast with a budding curiosity in digital agriculture, I was excited to attend the recent &lt;a href=&quot;https://bigdata.cgiar.org/hyderabad-2019/&quot;&gt;2019 CGIAR Big Data in Agriculture Convention&lt;/a&gt; in Hyderabad, India. The event brought together attendees from around the globe to connect over the theme of &lt;em&gt;Trust: humans, machines, and ecosystems.&lt;/em&gt; The CGIAR Big Data Platform aims to “use big data approaches to solve agriculture development problems faster, better, and at greater scale than before.” The platform does this by connecting CGIAR-affiliated researchers from around the globe with development practitioners and ag-tech providers.&lt;/p&gt;
-
-&lt;p&gt;Not only did I have the rare opportunity to engage with super smart scientist-types who, unlike me, have job titles like “plant geneticist” and “mycology and plant pathology specialist,” but I also was compelled to consider the definition and role of trust in the application of data and technology to building resilient global food security.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 31 Oct 2019 06:00:00 -0400</pubDate>
-        <author>Susannah Horton
-</author>
-        <link>https://dai-global-digital.com/part-i-big-data-in-agriculture-conference-download-building-trust-and-fueling-innovation.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/part-i-big-data-in-agriculture-conference-download-building-trust-and-fueling-innovation.html</guid>
-        
-        <category>digital agriculture</category>
-        
-        <category>innovation</category>
         
         
       </item>
