@@ -5,7 +5,7 @@ tags:
 - Hardware
 - Innovation
 Author: Rob Ryan-Silva
-social-image: "/uploads/1aSiFive_HiFive1_(31575892674).png"
+social-image: "/uploads/5e29aca9a055b1488ea32c12.png"
 thumbnail: "/uploads/1aSiFive_HiFive1_(31575892674).png"
 ---
 
@@ -27,7 +27,7 @@ Choices related to the buildout of the infrastructure—in terms of both wireles
 
 But this is changing: an open-source ISA project called [RISC-V](https://riscv.org/) matured such that it is now feasible to produce commercial microcontrollers based on the architecture. At least partially in response to this, longstanding industry player Wave Computing has open sourced a current version of the venerable [MIPS ISA](https://en.wikipedia.org/wiki/MIPS_architecture).
 
-![1aSiFive_HiFive1_(31575892674).png](/uploads/1aSiFive_HiFive1_(31575892674).png)`A RISC-V development board from SiFive. Picture taken by Gareth Halfacree. `
+![chip](/uploads/5e29aca9a055b1488ea32c12.png)`A RISC-V development board from SiFive. Picture taken by Gareth Halfacree. `
 
 The availability of open source architectures such as RISC-V and MIPS mean that traditional producers can fashion silicon without developing their own ISAs or remitting licensing fees to companies like Arm, have the flexibility to customize those architectures without legal constraint. Using a component called a field-programmable gate array or [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array), which can be thought of as a user-configured silicon chip, royalty-free designs can be created cost effectively in almost any quantity without having to actually manufacture silicon.
 
