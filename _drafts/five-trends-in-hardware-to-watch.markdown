@@ -6,7 +6,7 @@ tags:
 - Innovation
 Author: Rob Ryan-Silva
 social-image: "/uploads/5e29aca9a055b1488ea32c12.png"
-thumbnail: "/uploads/1aSiFive_HiFive1_(31575892674).png"
+thumbnail: "/uploads/5e29aca9a055b1488ea32c12.png"
 ---
 
 With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term.
