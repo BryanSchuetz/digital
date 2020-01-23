@@ -27,7 +27,7 @@ Choices related to the buildout of the infrastructure—in terms of both wireles
 
 But this is changing: an open-source ISA project called [RISC-V](https://riscv.org/) matured such that it is now feasible to produce commercial microcontrollers based on the architecture. At least partially in response to this, longstanding industry player Wave Computing has open sourced a current version of the venerable [MIPS ISA](https://en.wikipedia.org/wiki/MIPS_architecture).
 
-![1aSiFive_HiFive1_(31575892674).png](/uploads/1aSiFive_HiFive1_(31575892674).png)\`A RISC-V development board from SiFive. Available on [WikiCommons](https://commons.wikimedia.org/wiki/File:SiFive_HiFive1_(31575892674).png).\`
+![1aSiFive_HiFive1_(31575892674).png](/uploads/1aSiFive_HiFive1_(31575892674).png) \`A RISC-V development board from SiFive. Available on [WikiCommons](https://commons.wikimedia.org/wiki/File:SiFive_HiFive1_(31575892674).png).\`
 
 The availability of open source architectures such as RISC-V and MIPS mean that traditional producers can fashion silicon without developing their own ISAs or remitting licensing fees to companies like Arm, have the flexibility to customize those architectures without legal constraint. Using a component called a field-programmable gate array or [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array), which can be thought of as a user-configured silicon chip, royalty-free designs can be created cost effectively in almost any quantity without having to actually manufacture silicon.
 
@@ -41,6 +41,6 @@ In North America and Europe, drone operators are restricted from flying beyond v
 
 **5. Space**. With launch costs dropping sharply, and approaches to developing satellites changing dramatically, there can be few domains experiencing more change in 2020 than space. Few development implementers are going to launch their own satellites (though it is no longer inconceivable), but the availability of new tools that this will enable will bring opportunities for international development. From SpaceX’s global internet venture [Starlink](https://www.starlink.com/) to [Planet Labs](https://www.planet.com/)’ offer of imagery of every meter of earth every day to low-cost globe-spanning IoT services like [Lacuna Space](https://lacuna.space/), we are already seeing offerings that could affect change in developing countries and change the way implementers operate.
 
-![2048px-Relativity_Stargate_3D_Printer.jpg](/uploads/2048px-Relativity_Stargate_3D_Printer.jpg)\`A [Relativity Space](www.relativityspace.com) 3-D printer driving space launch costs down through 3-D printed engines. Image available on [Wikicommon](https://commons.wikimedia.org/wiki/File:Relativity_Stargate_3D_Printer.jpg)s.\`
+![2048px-Relativity_Stargate_3D_Printer.jpg](/uploads/2048px-Relativity_Stargate_3D_Printer.jpg) \`A [Relativity Space](www.relativityspace.com) 3-D printer driving space launch costs down through 3-D printed engines. Image available on [Wikicommon](https://commons.wikimedia.org/wiki/File:Relativity_Stargate_3D_Printer.jpg)s.\`
 
 All these trends are worth watching. Stay tuned for more blogs in 2020 on these topics.
