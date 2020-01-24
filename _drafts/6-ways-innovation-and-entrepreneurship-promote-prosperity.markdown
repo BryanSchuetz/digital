@@ -1,6 +1,7 @@
 ---
 title: 6 Ways Innovation and Entrepreneurship Promote Prosperity
 date: 2020-01-24 08:01:00 -05:00
+Author: "[Andre Averbug](https://www.linkedin.com/in/averbug?trk=author_mini-profile_title)"
 ---
 
 It is not a coincidence that the most developed nations are also the ones with the [highest levels of entrepreneurial activity and innovation](https://www.huffpost.com/entry/economic-development-innovation-and-entrepreneurship_b_593167b7e4b00573ab57a28b). While starting from a minimal level of development helps the latter two, for example through basic access to capital and institutional stability, the impact of innovation and entrepreneurship on the economy and society more broadly cannot be overstated. In fact, it goes beyond usual suspects such as increased productivity, competitiveness, and job creation, spilling over to areas as diverse as regulation, infrastructure, the environment, and social inclusion. Below I provide a (certainly non-exhaustive) list of six such effects. While every issue deserves an article (or even a book!) of its own, I provide but a brief overview on each point, leaving the interested reader to dig deeper on his or her own.
