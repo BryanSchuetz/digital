@@ -1,6 +1,6 @@
 ---
 title: 6 Ways Innovation and Entrepreneurship Promote Prosperity
-date: 2020-01-24 08:01:00 -05:00
+date: 2020-01-30 08:01:00 -05:00
 Author: "[Andre Averbug](https://www.linkedin.com/in/averbug?trk=author_mini-profile_title)"
 ---
 
