@@ -12,7 +12,7 @@ It is not a coincidence that the most developed nations are also the ones with t
 
 <!--more-->
 
-![innovation averbug.jpg](/uploads/innovation%20averbug.jpg)\`Picture from iStock.\`
+![innovation averbug.jpg](/uploads/innovation%20averbug.jpg)`Picture from iStock.`
 
 1\. **Innovation can drive regulatory improvements**
 
