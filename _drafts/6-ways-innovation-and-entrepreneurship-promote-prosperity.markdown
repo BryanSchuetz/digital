@@ -48,6 +48,6 @@ Many developing economies suffer from brain drain, with an important share of th
 
 Do you have additional points to raise? Examples to share? Agree or disagree with a particular issue? Leave your comments below and let’s keep this discussion alive!
 
-*Andre Averbug, a long-time DAI consultant, is a serial entrepreneur and development economist with more than two decades of international experience, including work in Latin America, Africa, and Central Asia. He has launched four startups, in Brazil and the U.S., and worked for international institutions, such as the World Bank and the Inter-American Development Bank (IDB). He holds an MSc in Economics from the University of London, England, and an MBA from McGill University, Canada.*
+*Andre Averbug, a long-time DAI consultant, is a serial entrepreneur and development economist with more than two decades of international experience, including work in Latin America, Africa, and Central Asia. He has launched four startups, in Brazil and the United States, and worked for international institutions such as the World Bank and the Inter-American Development Bank.*
 
-*This [post ](https://www.linkedin.com/pulse/6-ways-innovation-entrepreneurship-promote-prosperity-andre-averbug/)originally appeared on LinkedIn.*
+*This [post](https://www.linkedin.com/pulse/6-ways-innovation-entrepreneurship-promote-prosperity-andre-averbug/)originally appeared on LinkedIn.*
