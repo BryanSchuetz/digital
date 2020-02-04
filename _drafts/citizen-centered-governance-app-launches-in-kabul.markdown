@@ -29,3 +29,7 @@ In the initial discovery phase, we mapped and met with relevant stakeholders, id
 **App Launch**
 
 Following a robust promotional campaign – including a 2D animation video broadcast on popular national TV stations in [Pashto](https://www.youtube.com/watch?v=0DpghQ8rXB4&feature=youtu.be) and [Dari](https://www.youtube.com/watch?v=O4n4kdJNBwM&feature=youtu.be) – and a well-attended launch event, the app quickly saw over 1,000 downloads. SHAHAR is already engaged in customized expansion of the app into four regional municipal hubs – Kandahar, Hirat, Jalalabad, and Mazar-e-Sharif – and government counterparts have expressed interest in presenting the app to President Ashraf Ghani, as well as expanding it into other provinces.
+
+![Launch photo 1_cropped.jpeg](/uploads/Launch%20photo%201_cropped.jpeg)
+
+*Presentation of Kabul Municipality app at launch ceremony held in Kabul*
