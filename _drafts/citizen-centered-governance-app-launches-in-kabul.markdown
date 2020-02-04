@@ -50,9 +50,11 @@ Once the design phase was complete, SHAHAR hired a local software development fi
 
 Following a robust promotional campaign – including an animation video broadcast on popular national TV stations in [Pashto](https://www.youtube.com/watch?v=0DpghQ8rXB4&feature=youtu.be) and [Dari](https://www.youtube.com/watch?v=O4n4kdJNBwM&feature=youtu.be) – and a successful launch event, the app quickly saw over 1,000 downloads. While SHAHAR is already engaged in customized expansion of the app into four regional municipal hubs (Kandahar, Hirat, Jalalabad, and Mazar-e-Sharif), government counterparts have already expressed interest in further expansion and even presenting the app to President Ashraf Ghani.
 
+> “Now our citizens will be able to contact me or any other municipal official by simply clicking the button and registering their complaints. I promise that through this mobile application, the municipal services’ delivery to citizens will be quicker and more efficient than before.” - Ahmad Zaki Sarfaraz, Mayor of Kabul
+
 ![Launch photo 1_cropped.jpeg](/uploads/Launch%20photo%201_cropped.jpeg)
 
-`Presentation of Kabul Municipality app at launch ceremony held in Kabul`
+`Presentation of Kabul Municipality app at the launch ceremony held in Kabul`
 
 **Learn More**
 
