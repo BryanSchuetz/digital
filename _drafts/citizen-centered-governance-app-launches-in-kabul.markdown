@@ -37,7 +37,7 @@ The design process led us to four primary app functionalities:
 
 4. **Municipality News:** Kabul citizens can follow news and discussions related to the municipality’s activities including easy access to the municipality’s Facebook page and website.
 
-   ![Stakeholder meetings photo 2_cropped.jpeg](/uploads/Stakeholder%20meetings%20photo%202_cropped.jpeg)`SHAHAR ICT Municipal App Project Manager orients Kabul municipal staff to the new mobile application ahead of the public launch`
+   ![Stakeholder meetings photo 2_cropped.jpeg](/uploads/Stakeholder%20meetings%20photo%202_cropped.jpeg)`SHAHAR's ICT Municipal App Project Manager orients municipal staff to the new mobile application ahead of the public launch`
 
 **Building the App for the Citizens**
 
