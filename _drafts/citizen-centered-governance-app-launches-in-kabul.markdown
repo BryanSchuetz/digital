@@ -58,7 +58,7 @@ Following a robust promotional campaign – including an animated promo video br
 
 **Learn More**
 
-To learn more about DAI’s user-centered design approach, check out our [posts about other Frontier Insights research](https://dai-global-digital.com/tags/?tag=digital-insights) that CDA has employed in over a dozen country contexts and a [white paper](https://www.dai.com/hcd.pdf) detailing the Lean HCD approach we applied in Guatemala for the [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en_US) local government transparency app. Additionally, keep an eye out for updates on the development and launch of SHAHAR’s Regional Municipal Hub app!
+To learn more about DAI’s user-centered design approach, check out our [posts about other Frontier Insights research](https://dai-global-digital.com/tags/?tag=digital-insights) that CDA has employed in more than a dozen country contexts and a [white paper](https://www.dai.com/hcd.pdf) detailing the Lean HCD approach we applied for [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en_US), a local government transparency app in Guatemala. Additionally, keep an eye out for updates on the development and launch of SHAHAR’s Regional Municipal Hub app!
 
 ![Logos.PNG](/uploads/Logos.PNG)
 
