@@ -33,3 +33,11 @@ Following a robust promotional campaign – including a 2D animation video broad
 ![Launch photo 1_cropped.jpeg](/uploads/Launch%20photo%201_cropped.jpeg)
 
 *Presentation of Kabul Municipality app at launch ceremony held in Kabul*
+
+**Learn More**
+
+To learn more about DAI’s user-centered design approach, check out our [posts about other Frontier Insights research](https://dai-global-digital.com/tags/?tag=digital-insights) that CDA has employed in over a dozen country contexts and a [white paper](https://www.dai.com/hcd.pdf) detailing the Lean HCD approach we applied in Guatemala for the [Somos Chiantla](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en_US) local government transparency app. Additionally, keep an eye out for updates on the development and launch of SHAHAR’s Regional Municipal Hub app!
+
+![Logos.PNG](/uploads/Logos.PNG)
+
+*Download “Kabul Municipality” for free on [Google Play](https://play.google.com/store/apps/details?id=gt.muni.chiantla&hl=en_US).*
