@@ -25,6 +25,18 @@ This launch is the culmination of a 16-month, multi-phased process by DAI’s US
 
 To ensure the app's functionality aligned with the interests of local stakeholders, we guided SHAHAR through a human-centered design (HCD) approach, working closely with the mayor, municipal departments, *Wakeel-e-Guzars*, interested civil society, and citizens to deliver an application based on users’ needs and expectations. In the initial discovery phase, we mapped and then met with relevant stakeholders, identifying the objectives, data, systems, and commitment of the municipal staff. By applying [Frontier Insights](https://dai-global-digital.com/tags/?tag=digital-insights), DAI’s user discovery and research method, we explored the local digital ecosystem and learned how citizens in Kabul engage with technology. The data collected from these citizen surveys informed a design thinking session that convened key stakeholders to workshop the app concept, design, and functionalities. If you haven’t seen it, we wrote about our [Frontier Insights results in Kabul](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) in greater detail during the design phase.
 
+![Design Thinking Session_cropped.jpg](/uploads/Design%20Thinking%20Session_cropped.jpg)`Design Thinking Session participants discuss which functions the Kabul Municipal App should perform`
+
+The design process led us to four primary app functionalities:
+
+1. **Municipal Plans and Information: **Kabul citizens can access detailed information about development plans, public services, municipal laws and regulations, tourist sites, and phone numbers for emergency services and key municipal personnel.
+
+2. **Complaint Registration: **Kabul citizens no longer need to wait for “office hours” to register a complaint with the municipality. They can file and track a complaint anytime and anywhere with their smart phone and municipal staff will take action to address their concern.
+
+3. ***Safayi***** Fee Calculator: **Kabul citizens can calculate their annual *Safayi* (property tax) fees directly through the Kabul Municipality’s mobile app and will no longer need to physically travel to their municipal office to do so.
+
+4. **Municipality News:** Kabul citizens can follow news and discussions related to the municipality’s activities including easy access to the municipality’s Facebook page and website.
+
 **Building the App for the Citizens**
 
 Once the design phase was complete, SHAHAR hired a local software development firm to build the application. While CDA provided technical feedback and guidance, SHAHAR’s all-star local *ICT Municipal App Project Manager*, Hafizullah Shinwari, played the pivotal role of day-to-day coordination and communication with both the developers and Kabul Municipality counterparts. Hafizullah’s role was critical in the success of this project. He kept things moving amid bureaucratic delays, administration changeover, mission creep, and last-minute requests for changes to the app. After several iterations, SHAHAR conducted user testing with 25 citizens – including government officials, *Wakeel-e-Guzars*, civil society representatives and SHAHAR staff – and subsequently incorporated a second color theme and additional icons on the landing page to provide quicker access to important sub menus within the app.
