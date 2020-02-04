@@ -5,9 +5,7 @@ tags:
 - Human-centered design
 - Governance
 - Mobile
-Author:
-- Addie Ryan
-- Trevor Olexy
+Author: Addie Ryan
 ---
 
 *Note: This blog post follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) which covers our pre-development human-centered design phase.*
