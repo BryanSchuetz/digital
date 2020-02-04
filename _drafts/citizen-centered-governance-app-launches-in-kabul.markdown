@@ -39,7 +39,7 @@ The design process led us to four primary app functionalities:
 
    ![Stakeholder meetings photo 2_cropped.jpeg](/uploads/Stakeholder%20meetings%20photo%202_cropped.jpeg)`SHAHAR's ICT Municipal App Project Manager orients municipal staff to the new mobile app ahead of the public launch`
 
-**Building the App for the Citizens**
+**Building the App that Citizens Asked For**
 
 Once the design phase was complete, SHAHAR hired a local software development firm to build the application. While CDA provided technical feedback and guidance, SHAHAR’s all-star local *ICT Municipal App Project Manager*, Hafizullah Shinwari, played the pivotal role of day-to-day coordination and communication with both the developers and Kabul Municipality counterparts. Hafizullah’s role was critical in the success of this project. He kept things moving amid bureaucratic delays, administration changeover, mission creep, and last-minute requests for changes to the app. After several iterations, SHAHAR conducted user testing with 25 citizens – including government officials, *Wakeel-e-Guzars*, civil society representatives and SHAHAR staff – and subsequently incorporated a second color theme and additional icons on the landing page to provide quicker access to important sub menus within the app.
 
