@@ -29,11 +29,11 @@ To ensure the app's functionality aligned with the interests of local stakeholde
 
 The design process led us to four primary app functionalities:
 
-1. \*\*Municipal Plans and Information: \*\*Kabul citizens can access detailed information about development plans, public services, municipal laws and regulations, tourist sites, and phone numbers for emergency services and key municipal personnel.
+1. **Municipal Plans and Information:** Kabul citizens can access detailed information about development plans, public services, municipal laws and regulations, tourist sites, and phone numbers for emergency services and key municipal personnel.
 
-2. \*\*Complaint Registration: \*\*Kabul citizens no longer need to wait for “office hours” to register a complaint with the municipality. They can file and track a complaint anytime and anywhere with their smart phone and municipal staff will take action to address their concern.
+2. **Complaint Registration:** Kabul citizens no longer need to wait for “office hours” to register a complaint with the municipality. They can file and track a complaint anytime and anywhere with their smart phone and municipal staff will take action to address their concern.
 
-3. ***Safayi***\*\* Fee Calculator: \*\*Kabul citizens can calculate their annual *Safayi* (property tax) fees directly through the Kabul Municipality’s mobile app and will no longer need to physically travel to their municipal office to do so.
+3. **Safayi Fee Calculator:** Kabul citizens can calculate their annual *Safayi* (property tax) fees directly through the Kabul Municipality’s mobile app and will no longer need to physically travel to their municipal office to do so.
 
 4. **Municipality News:** Kabul citizens can follow news and discussions related to the municipality’s activities including easy access to the municipality’s Facebook page and website.
 
