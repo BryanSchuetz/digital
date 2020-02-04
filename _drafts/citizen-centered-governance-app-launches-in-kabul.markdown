@@ -48,7 +48,7 @@ Once the design phase was complete, SHAHAR hired a local software development fi
 
 **App Launch**
 
-Following a robust promotional campaign that included a 2D animation video broadcast on popular national TV stations in [Pashto](https://www.youtube.com/watch?v=0DpghQ8rXB4&feature=youtu.be) and [Dari](https://www.youtube.com/watch?v=O4n4kdJNBwM&feature=youtu.be) and a successful launch event, the app quickly saw over 1,000 downloads. While SHAHAR is already engaged in customized expansion of the app into four regional municipal hubs (Kandahar, Hirat, Jalalabad, and Mazar-e-Sharif), government counterparts have already expressed interest in further expansion and even presenting the app to President Ashraf Ghani. 
+Following a robust promotional campaign – including an animation video broadcast on popular national TV stations in [Pashto](https://www.youtube.com/watch?v=0DpghQ8rXB4&feature=youtu.be) and [Dari](https://www.youtube.com/watch?v=O4n4kdJNBwM&feature=youtu.be) – and a successful launch event, the app quickly saw over 1,000 downloads. While SHAHAR is already engaged in customized expansion of the app into four regional municipal hubs (Kandahar, Hirat, Jalalabad, and Mazar-e-Sharif), government counterparts have already expressed interest in further expansion and even presenting the app to President Ashraf Ghani.
 
 ![Launch photo 1_cropped.jpeg](/uploads/Launch%20photo%201_cropped.jpeg)
 
