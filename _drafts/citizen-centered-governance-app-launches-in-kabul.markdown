@@ -11,7 +11,7 @@ social-image: "/uploads/Design%20Thinking%20Session_cropped.jpg"
 thumbnail: "/uploads/Design%20Thinking%20Session_cropped.jpg"
 ---
 
-*Note: This blog post follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) which covers our pre-development human-centered design phase.*
+*Note: This follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) that covers our pre-development human-centered design phase.*
 
 In recent years, Kabul residents have lamented an hours-long queue to access services at their municipal office, after which they're left wondering when, if ever, their requests will be addressed. Several weeks ago, Kabul Municipality’s solution was hard to ignore. News of a new citizen engagement app was seen displayed on 21 billboards throughout the city, broadcast on [local television](https://www.youtube.com/watch?v=vqLA8GD-33I&feature=youtu.be) and [online news](http://www.outlookafghanistan.net/national_detail.php?post_id=25808) sites, shared on [social media](https://www.facebook.com/KabulMunicipality/posts/2194828510813555), and proudly showcased by the Mayor of Kabul at a launch event that drew 250 attendees and members of local media outlets.
 
