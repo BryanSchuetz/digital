@@ -5,7 +5,10 @@ tags:
 - Human-centered design
 - Governance
 - Mobile
-Author: Addie Ryan
+Author: "[Addie Ryan](https://dai-global-digital.com/authors/addie-ryan/) and [Trevor
+  Olexy](https://dai-global-digital.com/authors/trevor-olexy/)"
+social-image: "/uploads/Design%20Thinking%20Session_cropped.jpg"
+thumbnail: "/uploads/Design%20Thinking%20Session_cropped.jpg"
 ---
 
 *Note: This blog post follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) which covers our pre-development human-centered design phase.*
