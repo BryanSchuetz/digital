@@ -21,7 +21,7 @@ In recent years, Kabul residents have lamented the hours-long queue to access se
 
 The launch was the culmination of a 16-month, multiphase initiative implemented by DAI’s [Strong Hubs for Afghan Hope and Resilience (SHAHAR)](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project to improve communication and engagement between local governments and their citizens, civil society, and businesses in Afghanistan. With technical guidance from DAI’s [Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) (CDA)—including yours truly, Addie Ryan and Trevor Olexy, and former CDA-er Adam Fivenson—the U.S. Agency for International Development (USAID)-funded SHAHAR worked alongside municipality counterparts in a consultative, iterative process to transform this initiative from vision to reality.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=O4n4kdJNBwM&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4n4kdJNBwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 `SHAHAR created this video clip, which was broadcast on national TV in both Dari (embedded above) and Pashto (linked below) to showcase the app features.`
 
