@@ -10,5 +10,5 @@ Next up – Kosovo!
 
 <!--more-->
 
-/uploads/Kosovo%20blog.jpg
+![Kosovo blog](/uploads/Kosovo%20blog.jpg)`Newborn Monument, Pristina, Kosovo. Photo credit: Talia Dweck.` 
 
