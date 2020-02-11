@@ -1,0 +1,6 @@
+---
+title: 'Digital Development in the Western Balkans: Kosovo'
+date: 2020-02-11 12:19:00 -05:00
+---
+
+Last month, Chloe Messenger (hyperlink) posted the first blog (hyperlink) on Bosnia and Herzegovina in our six-part series about digital development in the Western Balkans. As mentioned, the United Kingdom’s Foreign Commonwealth Office (FCO) funded DAI to map digital ecosystems across the Western Balkans, and to identify areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.
