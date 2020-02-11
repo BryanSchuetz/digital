@@ -10,7 +10,7 @@ Next up – Kosovo!
 
 <!--more-->
 
-![Kosovo blog](/uploads/Kosovo%20blog.jpg)`Newborn Monument, Pristina, Kosovo. Photo credit: Talia Dweck.`
+![Kosovo blog](/uploads/Kosovo%20blog.jpg)`Newborn Monument, Pristina, Kosovo. Photo credit: Wikipedia.`
 
 Kosovo has been working to rebuild socially, politically, and economically since the end of the Kosovo War in 1999 and its independence from Serbia in 2008. Over the past decade, the country has become the fastest-growing economy in the Western Balkans and the digital economy is a major contributor to this upward trend.
 
