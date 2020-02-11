@@ -8,4 +8,7 @@ Last month, [Chloe Messenger](http://dai-global-digital.com/authors/chloe-messen
 
 Next up – Kosovo!
 
+<!--more-->
+
 /uploads/Kosovo%20blog.jpg
+
