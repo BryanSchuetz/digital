@@ -40,5 +40,10 @@ We recommend three main courses of action to overcome these challenges.
 
 **1.Increase awareness of the benefits of technology among traditional local businesses.** Build the demand for digital tools and services by highlighting their potential return on investment, and foster relationships between these businesses and technology companies. Promoting digital transformation among Kosovo businesses has the potential to contribute to the country's economic growth in the long term. 
 
+**2.Broader policy change is needed to overcome the technology digital skill supply-demand gap.** Focus on change that will allow universities to modify 20-30 percent of their curricula each year without requiring accreditation agency approval. This will allow universities to offer new courses that are in line with the technology market demand while continuing to teach the approved core curriculum.
+
+**3.Develop a central IT Agency with the sole mandate of coordinating and managing the development of state e-governance systems.** In Kosovo, this body could create standards for all existing and future e-governance efforts, systematising the government’s digital transformation through enhanced coordination. 
+
+*This post is part of a series.*
 
 
