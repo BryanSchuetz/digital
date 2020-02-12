@@ -16,7 +16,7 @@ Bosnia and Herzegovina, check. Next up—Kosovo!
 
 ![Kosovo%20blog.jpg](/uploads/Kosovo%20blog.jpg)`The Newborn Monument, a sculpture in Pristina, Kosovo, celebrating Kosovo's declaration of independence from Serbia. Photo credit: Karrota.`
 
-Let me start by giving you some background. Since the end of the Kosovo War in 1999 and its independence from Serbia almost a decade later, Kosovo has been working to rebuild socially, politically, and economically. Its efforts have been hugely successful: over the past decade, the country has become the fastest-growing economy in the Western Balkans. And the digital economy – the economic activity that results from myriad online business transactions and connections through internet-based markets - is a major contributor to this upward trend.
+Let me start by giving you some background. Since the end of the Kosovo War in 1999 and its independence from Serbia almost a decade later, Kosovo has been rebuilding socially, politically, and economically. Its efforts have been hugely successful: Over the past decade, the country has become the fastest-growing economy in the Western Balkans. And the digital economy – the economic activity that results from myriad online business transactions and connections through internet-based markets - is a major contributor to this upward trend.
 
 The technology sector in Kosovo is thriving despite many roadblocks. The low cost of building digital products and services has enabled Kosovars to rapidly grow the sector, spurring job generation, improving the export market, and increasing incomes. Rapid growth has also been enabled by the following:
 
