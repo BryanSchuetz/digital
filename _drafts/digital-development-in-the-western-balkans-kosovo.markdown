@@ -21,7 +21,7 @@ The technology sector in Kosovo is thriving despite many roadblocks. The low cos
 • Kosovo is ranked 44 out of 190 economies on the Ease of Doing Business Index due to its business-friendly regulatory environment, especially for the technology sector
 • The Kosovo government stated that digital is one of the six priority sectors for economic development 
 
-These building blocks have enabled rapid growth, but key barriers persist.  
+In spite of these great strides, our research uncovered a number of key barriers to digital development in Kosovo.   
 
  
 
