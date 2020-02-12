@@ -23,5 +23,9 @@ The technology sector in Kosovo is thriving despite many roadblocks. The low cos
 
 In spite of these great strides, our research uncovered a number of key barriers to digital development in Kosovo.   
 
+1.	Outsourcing booms, but demand for local digital products and services lags behind.
+With a population of 1.83 million, economic growth in Kosovo is dependent on the export of products and services to the wider European market. Unsurprisingly, there is a widespread belief that international demand will be the key driver to developing a dynamic and diversified private sector – to the detriment of the local market and national consumption. In 2018, for example, more than 74 percent of technology companies exported their services and products. Demand does not seem to be slowing down; from the perspective of the European market, Kosovar technology companies can provide quality products and services at a significantly lower cost than other markets. 
+
+The domestic market has been left behind and overshadowed by the focus on exports. Many local SMEs have yet to recognize the benefit of integrating digital products and services, and Kosovar technology companies perpetuate this lack of knowledge by failing to target local businesses because they do not see them as a profitable market. This disconnect will promote a slow growing local market that does not capitalize on the benefits of digital. 
  
 
