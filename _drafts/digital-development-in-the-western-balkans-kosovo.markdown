@@ -34,5 +34,11 @@ The domestic market has been left behind and overshadowed by the focus on export
 
 **3. Slow progress on e-governance.** The Government of Kosovo, with support from donors, has made progress toward digitalising their services and operations in order to combat corruption and increase accountability and transparency. Unfortunately, these efforts are uncoordinated and siloed. For example, the government does not have an e-governance strategy, nor a body that coordinates efforts to digitalise government services. Various projects are working to make government data open and readily available to citizens, but so far, few ministries have released their data. And the data platforms that are public are not interoperable, further promoting data silos. All public tender documents are issued electronically as of January 2019, and all private sector bids be submitted electronically, yet Kosovo’s e-procurement system is not interoperable with other systems in development. Additionally, while the Kosovo IT Strategy does call to establish a joint working group on e-government and open data, this has yet to happen. There is no organization or staffing structure to manage and align investments in e-governance.
 
-Next Steps for Kosovo
+**Next Steps for Kosovo**
+
+We recommend three main courses of action to overcome these challenges.
+
+**1.Increase awareness of the benefits of technology among traditional local businesses.** Build the demand for digital tools and services by highlighting their potential return on investment, and foster relationships between these businesses and technology companies. Promoting digital transformation among Kosovo businesses has the potential to contribute to the country's economic growth in the long term. 
+
+
 
