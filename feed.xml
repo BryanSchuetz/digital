@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Feb 2020 08:59:24 -0500</pubDate>
-    <lastBuildDate>Wed, 12 Feb 2020 08:59:24 -0500</lastBuildDate>
+    <pubDate>Thu, 13 Feb 2020 07:25:38 -0500</pubDate>
+    <lastBuildDate>Thu, 13 Feb 2020 07:25:38 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Kosovo%20blog.jpg" medium="image" /> 
+        <title>Digital Development in the Western Balkans: Kosovo</title>
+        <description>&lt;p&gt;Last month, the talented, globe-trotting &lt;a href=&quot;http://dai-global-digital.com/authors/chloe-messenger/&quot;&gt;Chloe Messenger&lt;/a&gt; posted the first &lt;a href=&quot;http://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html&quot;&gt;blog&lt;/a&gt; on DAI’s activities in Bosnia and Herzegovina in our six-part series about digital development in the Western Balkans. If you haven’t read it, you should. If you did, you’ll know that DAI has partnered with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, with a focus on developing innovative partnerships to close the digital skill supply-demand gap.&lt;/p&gt;
+
+&lt;p&gt;Bosnia and Herzegovina, check. Next up—Kosovo!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Feb 2020 06:00:00 -0500</pubDate>
+        <author>Talia Dweck
+</author>
+        <link>https://dai-global-digital.com/digital-development-in-the-western-balkans-kosovo.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-in-the-western-balkans-kosovo.html</guid>
+        
+        <category>Digital Insights</category>
+        
+        <category>Ecosystem Insights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Design%20Thinking%20Session_cropped.jpg" medium="image" /> 
@@ -215,25 +236,6 @@
         
         
         <category>Data</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Blog%20image%20%2312Nov19.jpg" medium="image" /> 
-        <title>Unearthing Lessons by Revisiting—Not Reinventing—the Wheel by Utilizing Data Science</title>
-        <description>&lt;p&gt;As we enter what the World Economic Forum refers to as the “&lt;a href=&quot;https://www.weforum.org/focus/fourth-industrial-revolution&quot;&gt;fourth industrial revolution&lt;/a&gt;”—a profound transformation of industries and institutions driven by artificial intelligence, machine learning, robotics, and augmented reality—international development practitioners are shifting toward data-centric business practices that require new systems, more efficient work flows, and modern skill sets. While the promise of newly available data is driving a desire to answer new analytical questions, lessons from more than 50 years of development projects lay dormant in Word and PDF documents stored in disparate folders, databases, and online portals by a wide array of stakeholders.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Nov 2019 07:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/mstyslinger/">Matt Styslinger</a>
-</author>
-        <link>https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html</guid>
-        
-        <category>Machine Learning</category>
-        
-        <category>Data</category>
-        
         
       </item>
     
