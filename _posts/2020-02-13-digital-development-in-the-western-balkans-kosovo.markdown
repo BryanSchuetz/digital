@@ -6,6 +6,7 @@ tags:
 - Ecosystem Insights
 Author: Talia Dweck
 social-image: "/uploads/Kosovo%20blog.jpg"
+thumbnail: "/uploads/Kosovo%20blog.jpg"
 ---
 
 Last month, the talented, globe-trotting [Chloe Messenger](http://dai-global-digital.com/authors/chloe-messenger/) posted the first [blog](http://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html) on DAI’s activities in Bosnia and Herzegovina in our six-part series about digital development in the Western Balkans. If you haven’t read it, you should. If you did, you’ll know that DAI has partnered with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, with a focus on developing innovative partnerships to close the digital skill supply-demand gap.
