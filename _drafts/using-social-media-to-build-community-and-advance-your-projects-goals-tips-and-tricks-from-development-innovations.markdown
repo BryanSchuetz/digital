@@ -23,6 +23,8 @@ Facebook is unquestionably the most popular social media site in Cambodia. As no
 
 DI’s significant Facebook (and, to a lesser extent, Youtube and Twitter) presence helped build DI’s brand and lend credibility to its partners and grantees. Facebook proved transformative for the project. On a near daily basis, the DI team designed, generated and published Facebook posts and videos in Khmer and English to its 46,000\+ followers, which generated an average monthly reach of 150,000. Some DI videos posted to Facebook went viral within Cambodia: for example, a video about smartphone video training was viewed almost 250,000 times and shared over 800 times in less than four months in 2019.
 
+![5.JPG](/uploads/5.JPG)
+
 DI built a trusted brand on Facebook by:
 
 * *Serving as a trusted source of information* – DI marketed its social media channels as a definitive source of information for Cambodian organizations using technology to increase their social impact. The DI team regularly posted content on a range of topics – everything from new funding opportunities within Cambodia’s tech ecosystem, videos with tips and tricks for professional networking, photos from its own events, and job ads for roles at trusted tech sector/ICT4D organizations. In addition to promoting its own programming, DI regularly highlighted its partners and their accomplishments, as well as other actors in the ecosystem. This brought greater attention to its beneficiaries, helped win the trust of key stakeholders, and allowed DI to gain visibility among key players within Cambodia’s civic tech ecosystem and the broader public. These varied tactics helped increase its number of followers, and by extension, the reach of its posts and videos.
