@@ -25,3 +25,27 @@ DI built a trusted brand on Facebook by:
 
 
 * *Investing in its strategic communications function *– DI prioritized its strategic communications staff as a means to achieve its project goals, setting it apart from many other donor-funded projects. By the end of DI’s lifespan, more than 1/3 of DI staff members focused on social media strategy and content creation and on training up local partners in this niche area. Bringing this set of capabilities in-house made the DI team more agile, able to understand and execute on the needs of the project and the local tech sector. It also helped ensure that its strategic communications coaches – working with local partners to improve their communications functions – also reflected DI’s values and built its brand.
+
+**Training local partners in social media and strategic communications**
+
+A key aspect of DI’s programming was providing Khmer language training, mentoring, and coaching services on social media and smartphone video to Cambodian CSOs. These courses and subsequent one-on-one mentoring and coaching sessions helped these CSOs use data-driven insights to develop and execute communications strategies tailored to their target audience. With practical tips and tricks optimized for a Cambodian audience, these trainings have changed the way that Cambodian CSOs share their message, engage with supporters and beneficiaries, run advocacy campaigns, attract funding, and tell stories in the digital age. For example, one organization reported achieving a 400% increase in its Facebook video views and a 10-fold increase in its Facebook likes immediately after taking DI’s social media training, growing its beneficiary reach by 230% through enhanced online engagement. In addition, at least six organizations trained by DI have reported training their beneficiaries or other organizations in smartphone video and social media. This shows the relevance of this training beyond the project funding and initial technical assistance provided by DI, which greatly amplified the impact of DI’s trainings.
+
+**Tips on using social media to engage your target audience**
+
+The impact of DI’s social media and smartphone video training, mentoring, and coaching services on Cambodia’s civil society landscape was unprecedented. The ability to tell compelling stories and create strong visual content for the digital age will last well beyond the life of the DI project. So, what can your project learn from DI to build a strong social media presence for the purpose of promoting and achieving its project goals?
+
+1\. **Invest in a strong strategic communications team** – Bring in strong local talent to manage your strategic communications, execute on your social media strategy, and create content that resonates with your target audience. Strategic communications roles are often the first to go when project budgets get slashed – but they should not be.
+
+2\. **Know your user (and their preferred platforms)** – Every target population has its own preferred social media platforms and ways of communicating on those platforms. Figure out where your users are and meet them there.
+
+3\. **Use accessible, affordable digital tools** – It’s 2020, folks! Smartphones and free video editing platforms abound. Lacking an expensive camera or editing equipment is not an excuse.
+
+4\. **Create relevant local content** – Localize, localize, localize. If your content is not relevant to your target audience audience, or if it is in a language they do not understand, they will not pay attention.
+
+5\. **Experiment with different formats –** Use Facebook Audience Insights or other data analytics tools to determine which formats and types of messaging resonate most with your target audience, then continue iterating and building upon this format.
+
+**6. Keep the conversation going – **No sense in being (digitally) quiet once your social media machine is up and running. Engaging with your audience can help build trust and make them feel connected to the work you are doing.
+
+**7. Do not forget the people who aren’t on social media! **In your communications strategies, remember to address your offline audience, including stakeholders that do not follow social media closely. DI also reached citizens through in-person presentations and pitches at community events across the country and reached decision-makers and donors through a web-based monthly newsletter.
+
+Convinced? You can access all of DI’s training materials and research on [the ICT4D toolkit](https://www.development-innovations.org/ict4d-toolkit/) and see how you could use them, adapt them, or create your own strategic communications practice to help engage new audiences. Good luck!
