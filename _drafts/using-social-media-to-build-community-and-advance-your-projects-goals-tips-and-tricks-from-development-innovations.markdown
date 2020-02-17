@@ -2,6 +2,10 @@
 title: Using social media to build community (and advance your project’s goals) –
   tips and tricks from Development Innovations
 date: 2020-02-17 11:07:00 -05:00
+tags:
+- Human-centered design
+- Social Media
+- USAID
 Author: Inta Plostins
 ---
 
