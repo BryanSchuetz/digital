@@ -10,6 +10,7 @@ Since I began working with DAI’s Center for Digital Acceleration, I have had t
 As a particularly indecisive person myself (please don’t give me a menu with more than 15 options), the prospect of using data to inform how we develop solutions to the world’s most critical challenges is fascinating. Data-driven policymaking assumes that by consolidating relevant data and making it easier to access, analyze and interpret, policymakers will have the information they need to preempt and effectively address the problems that their constituents face. While data-driven decision making can be relevant in any sector, it is particularly needed in the policy realm as governments, especially those in developing countries, have limited financial resources and as such, face added pressure to make investments that lead to positive impact.
 
 As a novice to the world of data collection, management and visualization, I have often wondered how some of our most useful data dashboards are made and what challenges developers face in ensuring they are as functional, practical and user-friendly as possible. I recently had a few of these questions answered when I tuned into an event hosted by the International Food Policy Research Institute (IFPRI) on a new data tool.
+![Sample_JReport_Dashboards.png](/uploads/Sample_JReport_Dashboards.png)`A sample dashboard from Wikicommons.`
 
 ## The Food Systems Dashboard (FSD)
 
