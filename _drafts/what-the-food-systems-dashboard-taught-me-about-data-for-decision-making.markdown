@@ -21,7 +21,7 @@ As a novice to the world of data collection, management, and visualization, I ha
 
 ## The Food Systems Dashboard (FSD)
 
-Last month, the Global Alliance for Improved Nutrition (GAIN) and Johns Hopkins University (JHU), in collaboration iTech Mission presented their soon-to-be-launched Food Systems Dashboard during a public event at IFPRI’s headquarters. The FSD is a data platform designed to:
+Last month, the Global Alliance for Improved Nutrition (GAIN) and Johns Hopkins University (JHU), in collaboration iTech Mission presented their soon-to-be-launched FSD during a public event at IFPRI’s headquarters. The FSD is a data platform designed to:
 
 1. To improve stakeholders’ awareness of the core components of national food systems
 
