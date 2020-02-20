@@ -5,6 +5,8 @@ tags:
 - Data
 - Data Visualization
 Author: Araba Sapara-Grant
+social-image: "/uploads/Sample_JReport_Dashboards.png"
+thumbnail: "/uploads/Sample_JReport_Dashboards.png"
 ---
 
 Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making.
