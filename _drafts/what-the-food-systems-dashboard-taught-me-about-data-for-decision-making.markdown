@@ -23,11 +23,11 @@ As a novice to the world of data collection, management, and visualization, I ha
 
 Last month, the Global Alliance for Improved Nutrition (GAIN) and Johns Hopkins University (JHU), in collaboration iTech Mission presented their soon-to-be-launched FSD during a public event at IFPRI’s headquarters. The FSD is a data platform designed to:
 
-1. To improve stakeholders’ awareness of the core components of national food systems
+1. Improve stakeholders’ awareness of the core components of national food systems.
 
-2. To enable stakeholders to compare their food systems with those of other countries
+2. Enable stakeholders to compare their food systems with those of other countries.
 
-3. To suggest priority areas of action — in the form of policy and program interventions, tools, and investments
+3. Suggest priority areas of action—in the form of policy and program interventions, tools, and investments.
 
 During his opening remarks, GAIN’s executive director, Lawrence Haddad, revealed the dashboard was inspired by a growing frustration among GAIN’s country office managers and government stakeholders – the data they needed to implement evidence-driven policies were dispersed and often difficult to track down. As GAIN began the process of consolidating food systems data for their 9 country offices, it quickly became clear that there was greater need for a global database, and as such, the Food Systems Dashboard was born. The database is the result of a larger collaboration including Michigan State University, University of Michigan and Euromonitor.
 
