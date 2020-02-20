@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Feb 2020 08:31:23 -0500</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2020 08:31:23 -0500</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2020 11:19:16 -0500</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2020 11:19:16 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Sample_JReport_Dashboards.png" medium="image" /> 
+        <title>What the Food Systems Dashboard Taught Me About Data for Decision Making</title>
+        <description>&lt;p&gt;Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Feb 2020 07:08:00 -0500</pubDate>
+        <author>Araba Sapara-Grant
+</author>
+        <link>https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html</guid>
+        
+        <category>Data</category>
+        
+        <category>Data Visualization</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Kosovo%20blog.jpg" medium="image" /> 
@@ -213,29 +232,6 @@
         
         <category>Digital Inclusion</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/SpaCreekSocialImage.JPG" medium="image" /> 
-        <title>Studying River Health through Citizen Science and Data Analysis in Maryland</title>
-        <description>&lt;p&gt;Since 1970, DAI has worked in 160 countries on development issues ranging from good governance to environmental problems. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations that focus on sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations— &lt;a href=&quot;https://www.spacreek.net/&quot;&gt;Spa Creek Conservancy&lt;/a&gt; (SCC) and the &lt;a href=&quot;https://www.aacc.edu/about/schools-of-study/science-and-technology/environmental-center/&quot;&gt;Environmental Center&lt;/a&gt; at Anne Arundel Community College (AACC)—that combine formal academic research with citizen science and use data to bring awareness to the health of the Chesapeake Bay watershed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/SpaCreekMap.jpg&quot; alt=&quot;SpaCreekMap.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Water testing locations and test results in Spa and Back Creek.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Nov 2019 06:00:00 -0500</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html</guid>
-        
-        <category>Data Management Series</category>
-        
-        <category>Environment &amp; Energy</category>
-        
-        
-        <category>Data</category>
         
       </item>
     
