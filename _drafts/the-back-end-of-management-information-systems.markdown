@@ -18,7 +18,7 @@ In basic terminology, a management information system is a system that retrieves
 
 To make this transformation and intercommunication happen, organizations need to use interoperability layers. For this article we won’t dive too deep into interoperability layers or extract, transform, load (ETL) functions as that can be a whole article unto itself, but in very short terms, interoperability layers are tools, software, or algorithms that allow data to be accessed, translated, and used in conjunction with other data or external data visualization tools.  To achieve this, an MIS will often involve the extensive use of application programming interfaces, or APIs.
 
-## **Types of MIS**
+# ## **Types of MIS**
 
 First, we need to define what we are talking about in terms of high-level general types of MIS. Here I will define three system architecture types: a single database system, a centralized system, and a federated system.
 
