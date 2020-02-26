@@ -10,7 +10,7 @@ tags:
 Author: Trevor Olexy
 ---
 
-At first glance, you'd think that CDA's Products team only focuses on building full-stack web applications. But the truth is, that is only half our story. We also spend a significant amount of time providing technical advice to DAI project staff or their government counterparts on the technology solutions they are looking to procure. Despite being on the Products team here in CDA, we don’t just only build full-stack web applications. You have probably seen our other writings about GIS and data analytics to name just a few. The other part of our story is providing technical advising to our project staff or their counterparts at government ministries. This can be support such as “translating” the needs and requirements of the project to technical jargon that developers and IT experts or firms can understand in order to build products to fulfill those needs. One common theme is to help clients understand, update, or integrate management information systems (MIS) in often disparate and un-harmonized contexts.
+At first glance, you'd think that CDA's Products team only focuses on building full-stack web applications. But the truth is, that is only half our story. We also spend a significant amount of time providing technical advice to DAI project staff or their government counterparts on the technology solutions they are looking to procure. I call this *translating.* Taking  the needs and requirements of the project and explaining it in technical jargon from which developers and IT experts or firms can understand. One common theme is to help clients understand, update, or integrate management information systems (MIS) in often disparate and un-harmonized contexts.
 
 ## What is an MIS?
 
