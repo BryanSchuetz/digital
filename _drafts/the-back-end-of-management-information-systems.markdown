@@ -44,4 +44,4 @@ Lastly, in comparison to the centralized model, a federated system is much more 
 
 ## Final Thought
 
-On the whole, each of these three MIS structures have their advantages and disadvantages. Nothing is 100% secure or efficient. The right MIS model also depends on the environment or context in which it will be used. That said, in terms of flexibility and maintenance, a federated system comes out on top.
+On the whole, each of these structures has advantages and disadvantages. Nothing is 100 percent secure or efficient. The right MIS model also depends on the environment or context in which it will be used. That said, in terms of flexibility and maintenance, a federated system comes out on top.
