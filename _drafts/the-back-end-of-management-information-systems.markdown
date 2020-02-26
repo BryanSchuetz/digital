@@ -18,11 +18,11 @@ At first glance, you'd think that CDA's Products team only focuses on building f
 
 In basic terminology, a management information system is a system that retrieves, transforms and stores data from multiple sources whether related or not. Generally, an MIS is considered all of the hardware, software, data bases, people, organizations and even policies involved with data interoperabilityThis makes it available and usable by other participating or contributing entities (labs, schools, agencies, organizations, etc). Each sector will have its own context in which it exists and will thus have unique requirements for an MIS. For example, a laboratory management information system (LMIS) will have different data and security requirements than a financial institution information system (FMIS) or a school district's information system (EMIS). For this post, I'll be focusing on the database layer .
 
-To make this transformation and intercommunication happen, organizations need to use interoperability layers. For this article we won’t dive too deep into interoperability layers or extract, transform, load (ETL) functions as that can be a whole article unto itself, but in very short terms, interoperability layers are tools, software, or algorithms that allow data to be accessed, translated, and used in conjunction with other data or external data visualization tools.  To achieve this, an MIS will often involve the extensive use of application programming interfaces, or APIs.
+Interoperability is key to designing successeful MIS. Even though this is not the focus of this post, understanding how interoperability works is helpful for understanding the data base layer.  So what is interoperability? It is the  tools, software, or algorithms that allow data to be accessed, translated, and used in conjunction with other data or external data visualization tools.  To achieve this, an MIS will often involve the extensive use of application programming interfaces, or APIs.
 
-# ## **Types of MIS**
+# **Types of MIS**
 
-First, we need to define what we are talking about in terms of high-level general types of MIS. Here I will define three system architecture types: a single database system, a centralized system, and a federated system.
+First, we need to define what we are talking about in terms of high-level general types of MIS. For the purpose of this post, I will focus on three system architecture types: a single database system, a centralized system, and a federated system.
 
 ## Single System
 
