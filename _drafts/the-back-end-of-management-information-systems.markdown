@@ -1,5 +1,5 @@
 ---
-title: The Back End of a Management Information System
+title: What's the Best Back End for a Management Information System?
 date: 2020-02-26 06:30:00 -05:00
 tags:
 - Data
