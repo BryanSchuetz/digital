@@ -1,5 +1,5 @@
 ---
-title: The Back End of Management Information Systems
+title: The Back End of a Management Information System
 date: 2020-02-26 06:30:00 -05:00
 tags:
 - Data
@@ -8,13 +8,13 @@ Author: Trevor Olexy
 social-image: "/uploads/CLOUD.jpg"
 ---
 
-At first glance, you'd think that CDA's Products team only focuses on building full-stack web applications. But the truth is, that is only half our story. We also spend a significant amount of time providing technical advice to DAI project staff or their government counterparts on the technology solutions they are looking to procure. I call this *translating.* Taking  the needs and requirements of the project and explaining it in technical jargon from which developers and IT experts or firms can understand. One common area we help project staff or clients understand, update, or integrate are management information systems (MIS) in  disparate and un-harmonized contexts.
+At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this *translating:* taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is management information systems (MIS) in disparate and un-harmonized contexts.
 
 <!--more-->
 
-## What is an MIS?
+## What is MIS?
 
-In basic terminology, a management information system is a system that retrieves, transforms and stores data from multiple sources whether related or not. Generally, an MIS is considered all of the hardware, software, data bases, people, organizations and even policies involved with data interoperabilityThis makes it available and usable by other participating or contributing entities (labs, schools, agencies, organizations, etc). Each sector will have its own context in which it exists and will thus have unique requirements for an MIS. For example, a laboratory management information system (LMIS) will have different data and security requirements than a financial institution information system (FMIS) or a school district's information system (EMIS). For this post, I'll be focusing on the database layer .
+MIS is a system that retrieves, transforms, and stores data from multiple sources, related or not. Generally, a MIS is considered all of the hardware, software, data bases, people, organizations and even policies involved with data interoperabilityThis makes it available and usable by other participating or contributing entities (labs, schools, agencies, organizations, etc). Each sector will have its own context in which it exists and will thus have unique requirements for an MIS. For example, a laboratory management information system (LMIS) will have different data and security requirements than a financial institution information system (FMIS) or a school district's information system (EMIS). For this post, I'll be focusing on the database layer .
 
 Interoperability is key to designing successeful MIS. Even though this is not the focus of this post, understanding how interoperability works is helpful for understanding the data base layer.  So what is interoperability? It is the  tools, software, or algorithms that allow data to be accessed, translated, and used in conjunction with other data or external data visualization tools.  To achieve this, an MIS will often involve the extensive use of application programming interfaces, or APIs.
 
