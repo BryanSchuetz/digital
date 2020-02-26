@@ -6,6 +6,7 @@ tags:
 - Interoperability
 Author: Trevor Olexy
 social-image: "/uploads/CLOUD.jpg"
+thumbnail: "/uploads/CLOUD.jpg"
 ---
 
 I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use-cases.
