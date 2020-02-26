@@ -40,7 +40,7 @@ A **federated system** is one where independent entities maintain control of the
 
 In a federated system, data resides in independent databases owned and operated by the data owner. Each of these independent systems then permits external access to data authorized for sharing. In this configuration, organizations have full control over what, when, how, and with whom data is shared. To share the data, it must be transformed via the interoperability layer so that the data from multiple sources is readable by other data sets. Once all data is collected and transformed (either on demand or at specified intervals), the data can be accessed by any organization or user with permission to view the data via a data visualization layer of the MIS. This layer can be a custom web application or desktop software. A federated system also has several layers of security.
 
-Lastly, in comparison to the centralized model, a federated system is much more flexible when it comes to adding data from new participating organizations. This is because only the interoperability and data visualization layers a need to be modified.
+Lastly, in comparison to the centralized model, a federated system is much more flexible when it comes to adding data from new participating organizations. This is because only the interoperability and data visualization layers need to be modified.
 
 ## Final Thought
 
