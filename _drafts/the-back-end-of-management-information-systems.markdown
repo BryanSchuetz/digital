@@ -3,6 +3,7 @@ title: The Back End of Management Information Systems
 date: 2020-02-26 06:30:00 -05:00
 tags:
 - Data
+- Interoperability
 Author: Trevor Olexy
 ---
 
@@ -22,9 +23,9 @@ First, we need to define what we are talking about in terms of high-level genera
 
 ## Single System
 
-A **single database** architecture is one in which all contributing entities use one single database and system to store all of their data. This is highly impractical from a technological and managerial point of view. Why? Because there can be huge variance in data types and security requirements across databases or sets. It is also becomes a single point of failure. 
+A **single database** architecture is one in which all contributing entities use one single database and system to store all of their data. This is highly impractical from a technological and managerial point of view. Why? Firstly, because there can be huge variance in data types and security requirements across databases or sets. Entities collect data of different types, using different platforms, for different purposes, and at different frequencies. They will also certainly require varying levels of privacy or security. Creating or using one centralized information system (also known as a database) to store data can be both technologically and institutionally difficult, with functionality/security/network speed reduced to the least common denominator.
 ![singlesystem.png](/uploads/singlesystem.png)`This is an example of a Single System MIS.`
-This system architecture presents numerous challenges ranging from system and data architecture, to data sensitivity, data sharing agreements, and overarching system management. Entities collect data of different types, using different platforms, for different purposes, and at different frequencies. They will also certainly require varying levels of privacy or security. Creating or using one centralized information system (also known as a database) to store data can be both technologically and institutionally difficult, with functionality/security/network speed reduced to the least common denominator. For example, once any organization stores GIS data, the database structure must account for that, even if only one organization requires it. The database can quickly become very large and difficult to manage and data stewardship could become a concern if management is inadequate. This MIS type also presents a single point of failure, and backups/fail-overs will not be discussed here. If the system were to be compromised or damaged, all data is at risk as opposed to different models in which data is de-centralized but still available for exchange.
+ For example, once any organization stores GIS data, the database structure must account for that, even if only one organization requires it.  As such the database can become very large and difficult to manage, making data stewardship a possible concern if management is inadequate. This MIS type also presents a single point of failure, and backups/fail-overs will not be discussed here. If the system were to be compromised or damaged, all data is at risk as opposed to different models in which data is de-centralized but still available for exchange.
 
 ## Centralized
 
