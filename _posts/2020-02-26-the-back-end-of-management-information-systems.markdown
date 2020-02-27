@@ -9,7 +9,7 @@ social-image: "/uploads/CLOUD.jpg"
 thumbnail: "/uploads/CLOUD.jpg"
 ---
 
-I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use-cases.
+I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.
 
 At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this *translating:* taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts.
 
