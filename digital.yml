@@ -1,4 +1,16 @@
 
+- title: "What's the Best Architecture for a Management Information System?"
+  pub: "Digital"
+  date: 2020-02-26
+  link: "https://dai-global-digital.com/the-back-end-of-management-information-systems.html?utm_source=daidotcom"
+  summary: "I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use-cases.
+
+At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this translating: taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts."
+  tags:
+    - digital acceleration 
+    - Data 
+    - Interoperability 
+
 - title: "What the Food Systems Dashboard Taught Me About Data for Decision Making"
   pub: "Digital"
   date: 2020-02-20
@@ -223,16 +235,4 @@ En Honduras los estudios acerca del tema de discapacidad son escasos y limitados
     - digital acceleration 
     - Digital Insights 
     - Digital Inclusion 
-
-- title: "Digital Insights: How the Disability Community in Honduras Uses Digital Tools"
-  pub: "Digital"
-  date: 2019-10-17
-  link: "https://dai-global-digital.com/How-the-Disability-Community-in-Honduras-Uses-Digital-Tools.html?utm_source=daidotcom"
-  summary: "Read this post in Spanish.
-
-Studies on how many disabled people live in Honduras are scarce. Results of a survey by the National Statistics Institute (INE), carried out in September 2002, showed there are 177,516 people with disabilities in the country. Academic studies tell a different story. They estimate that the number of people in Honduras with disabilities is closer to 381,287. These differing reports prevent the government, institutions, and civil society from effectively thinking through how ensure that services are accessible to those with disabilities."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
-    - Digital Insights 
 
