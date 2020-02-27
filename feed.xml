@@ -5,14 +5,14 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Feb 2020 11:41:31 -0500</pubDate>
-    <lastBuildDate>Thu, 27 Feb 2020 11:41:31 -0500</lastBuildDate>
+    <pubDate>Thu, 27 Feb 2020 15:29:22 -0500</pubDate>
+    <lastBuildDate>Thu, 27 Feb 2020 15:29:22 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/CLOUD.jpg" medium="image" /> 
         <title>What's the Best Architecture for a Management Information System?</title>
-        <description>&lt;p&gt;I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use-cases.&lt;/p&gt;
+        <description>&lt;p&gt;I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.&lt;/p&gt;
 
 &lt;p&gt;At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this &lt;em&gt;translating:&lt;/em&gt; taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts.&lt;/p&gt;
 
