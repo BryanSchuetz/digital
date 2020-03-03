@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Mar 2020 10:06:30 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2020 10:06:30 -0500</lastBuildDate>
+    <pubDate>Tue, 03 Mar 2020 10:11:11 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Mar 2020 10:11:11 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg" medium="image" /> 
+        <title>Using Social Media to Build Community (and Advance Project Goals)—Tips and Tricks from Development Innovations</title>
+        <description>&lt;p&gt;For those of us who follow the tech world, big tech has &lt;a href=&quot;https://nymag.com/intelligencer/2020/02/what-its-like-to-own-an-amazon-ring-doorbell-camera.html&quot;&gt;suffered&lt;/a&gt; &lt;a href=&quot;https://www.theverge.com/2020/2/6/21126970/apple-iphone-independent-repair-contract-search-audit&quot;&gt;in&lt;/a&gt; &lt;a href=&quot;https://www.ft.com/content/6ec3f6a6-4d56-11ea-95a0-43d18ec715f5&quot;&gt;the&lt;/a&gt; &lt;a href=&quot;https://www.marketwatch.com/story/heres-why-facebook-agreed-to-pay-550-million-privacy-settlement-to-illinois-2020-02-09&quot;&gt;press&lt;/a&gt; &lt;a href=&quot;https://www.inc.com/jason-aten/microsoft-accidentally-exposed-250-million-customer-support-records-online-heres-what-you-should-know.html&quot;&gt;lately&lt;/a&gt;. Even development practitioners have been &lt;a href=&quot;https://www.ictworks.org/facebook-digital-development/#.Xkq6_ihKg2y&quot;&gt;getting in&lt;/a&gt; &lt;a href=&quot;https://www.devex.com/news/what-the-facebook-scandal-means-for-data-for-good-92425&quot;&gt;on the game&lt;/a&gt;. However, I like to keep things interesting—so here is a positive story about &lt;a href=&quot;https://www.facebook.com/&quot;&gt;Facebook&lt;/a&gt; helping catalyze a community of innovators in Cambodia on the U.S. Agency for International Development (USAID)-funded &lt;a href=&quot;https://www.development-innovations.org/&quot;&gt;Development Innovations (DI)&lt;/a&gt; program.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 03 Mar 2020 06:07:00 -0500</pubDate>
+        <author>Inta Plostins
+</author>
+        <link>https://dai-global-digital.com/using-social-media-to-build-community-and-advance-your-projects-goals-tips-and-tricks-from-development-innovations.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/using-social-media-to-build-community-and-advance-your-projects-goals-tips-and-tricks-from-development-innovations.html</guid>
+        
+        <category>Human-centered design</category>
+        
+        <category>Social Media</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/CLOUD.jpg" medium="image" /> 
@@ -200,35 +219,6 @@
         <category>Data</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/2019%20in%20review.PNG" medium="image" /> 
-        <title>Digital@DAI Year in Review: Top 10 Posts of 2019</title>
-        <description>&lt;p&gt;This year, Digital@DAI published more than 60 posts covering everything from trends in entrepreneurship ecosystems to the importance of user education for digital development programming and building on user insights to develop an open-source transparency and citizen participation application for the municipality of Kabul, Afghanistan.&lt;/p&gt;
-
-&lt;p&gt;We featured digital experts from organizations such as Massachusetts Institute for Technology (MIT)’s D-Lab and information sciences and technology experts from across DAI and from our partner organizations. In addition, we featured program work we do with clients including the U.S. Agency for International Development (USAID)’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; program. Key topics of interest this year included artificial intelligence, agriculture, citizen engagement, decision support, cyber and trust, and ICT policy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/2019%20in%20review.PNG&quot; alt=&quot;2019 in review.PNG&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 26 Dec 2019 07:00:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/krista-baptista/">Krista Baptista</a> and <a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a>
-</author>
-        <link>https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2019.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2019.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Digital Insights</category>
-        
-        <category>Digital Principles</category>
-        
-        <category>Cyber</category>
-        
-        <category>Cybersecurity</category>
         
         
       </item>
