@@ -18,7 +18,7 @@ From 2013 to 2019, DI helped civil society organizations (CSOs), technology comp
 
 ![20191130 - DI Office Photos-5.jpg](/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg)`Photo courtesy DI.`
 
-## The context: In Cambodia, Facebook is King
+## The Context: In Cambodia, Facebook is King
 
 Facebook is unquestionably the most popular social media platform in Cambodia. As noted in the 2019 [Start-Up Kingdom](https://www.raintreecambodia.com/research) report, more than 40 percent of Cambodia’s population used Facebook in early 2018, with this number expected to rapidly grow to more than 50 percent in less than a year. According to a poll conducted to inform this report, 38 percent of respondents reported using the Internet—but 46 percent reported using Facebook. This implies that a decent chunk of the Cambodian population perceives Facebook to **be** the internet. 
 
