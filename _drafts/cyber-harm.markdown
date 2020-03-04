@@ -5,6 +5,8 @@ tags:
 - Cybersecurity
 - Digital Inclusion
 Author: Galia Nurko
+social-image: "/uploads/cyber%20harms.jpg"
+thumbnail: "/uploads/cyber%20harms.jpg"
 ---
 
 Since 2014, the digital landscape has significantly changed globally. First, and most obvious, the number of internet users has nearly [doubled](https://www.statista.com/statistics/273018/number-of-internet-users-worldwide/) from 2.8 billion to over 4 billion in the last 6 years. Second, and perhaps a bit less obvious, the number of cyber incidents, like data breaches or cybercrimes, impacting the average internet user, has grown exponentially. For over a year now, I’ve been thinking about what these cybersecurity trends mean for our work in digital development. I recently read an article that helped frame the challenge in a way that is easily digestible, even by the least digitally focused development expert.
