@@ -11,7 +11,7 @@ Since 2014, the digital landscape has significantly changed globally. First, and
 
 <!--more-->
 
-**Cyber Harms**
+## Cyber Harms
 
 Published in 2016, the “[Cyber Harms: Concepts, Taxonomy and Measurement](https://www.researchgate.net/profile/Paul_Cornish2/publication/315459761_Cyber_Harm_Concepts_Taxonomy_and_Measurement/links/5a97d8f9aca27214056bd63f/Cyber-Harm-Concepts-Taxonomy-and-Measurement.pdf)” explains how there needs to be a clear model for understanding harms caused by cyber-incidents. The authors define cyber harm as “damaging consequences resulting from cyber-events, which can originate from malicious, accidental or natural phenomena, manifesting itself within or outside of the internet.” Based on this definition, the authors conclude that there are six types of cyber harm that can manifest themselves either as a direct result or as an indirect result of a cyber incident and can impact an individual, organization or country. The six types are:
 
@@ -29,7 +29,7 @@ Published in 2016, the “[Cyber Harms: Concepts, Taxonomy and Measurement](http
 
 These types of cyber harms are both broad and complex to measure. And, the data that has been collected is mostly from high income countries and focused exclusively on economic harm. This is likely because it’s easiest to measure. (Either you lose money as a result of a cyber incident or you don’t). More recently, given the increased focus on the impact of technology companies on democratic processes (think Cambridge Analytica), there has been a growing number of studies and reports on the political harms of cyber incidents. Similarly, there are a growing number of studies on the psychological harms of cyber incidents. In a recent report in *[USA Today](https://www.usatoday.com/story/tech/conferences/2020/02/21/data-breach-tips-mental-health-toll-depression-anxiety/4763823002/)*, 77% of cyber incident victims interviewed, reported increased levels of stress, while 85% reported sleep deprivation. The reason I mention these studies, is because there is clearly a growing understanding in society writ large that digitization has real-world consequences beyond economic opportunity.
 
-**What this Means for the Digital Development Community**
+## What this Means for the Digital Development Community
 
 For the most part, reports on cyber harms have been limited to high-income countries. The challenge for us working in digital development, is how to translate these observed trends in high income countries to the low-and-middle income environments in which we work.
 
@@ -37,7 +37,7 @@ To do so, we must first reject the notion that high-income countries and low-and
 
 The point I am trying to make is that as a digital development community we have an opportunity and a responsibility to participate in these conversations to ensure that our broader goals of digital access and inclusion are not overlooked as a result of government or organizational fear of cyber harms.
 
-**What Can We Do?**
+## What Can We Do?
 
 1. **Contribute.** As mentioned earlier in the post, what this topic is missing is data and case studies across all LMICs. As a digital development community, we work with communities with different levels of digital inclusion. Understanding their experiences with cyber harm will be critical to designing digital development programming that works to mitigate those harms.
 
