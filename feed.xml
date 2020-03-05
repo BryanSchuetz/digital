@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Mar 2020 10:23:30 -0500</pubDate>
-    <lastBuildDate>Wed, 04 Mar 2020 10:23:30 -0500</lastBuildDate>
-    <generator>Jekyll v3.7.4</generator>
+    <pubDate>Thu, 05 Mar 2020 09:14:21 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2020 09:14:21 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/cyber%20harms.jpg" medium="image" /> 
+        <title>What are Cyber Harms and Why Are They Important for Digital Development?</title>
+        <description>&lt;p&gt;Since 2014, the digital landscape has significantly changed globally. First, and most obvious, the number of internet users has nearly &lt;a href=&quot;https://www.statista.com/statistics/273018/number-of-internet-users-worldwide/&quot;&gt;doubled&lt;/a&gt; from 2.8 billion to more than 4 billion in the last six years. Second, and perhaps a bit less obvious, the number of cyber incidents, such as data breaches or cybercrimes, impacting the average internet user, has grown exponentially. For a while now, I’ve been thinking about what these cybersecurity trends mean for our work in digital development. I recently read an article that helped frame the challenge in a way that is easily digestible, even by the least digitally focused development expert.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Mar 2020 06:06:00 -0500</pubDate>
+        <author>Galia Nurko
+</author>
+        <link>https://dai-global-digital.com/cyber-harm.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cyber-harm.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg" medium="image" /> 
@@ -96,7 +115,7 @@
 
 &lt;p&gt;In recent years, Kabul residents have lamented the hours-long queue to access services at their municipal office. Several weeks ago, Kabul Municipality’s solution was hard to ignore. News of a new citizen engagement app was seen displayed on 21 billboards throughout the city, broadcast on &lt;a href=&quot;https://www.youtube.com/watch?v=vqLA8GD-33I&amp;amp;feature=youtu.be&quot;&gt;local television&lt;/a&gt; and &lt;a href=&quot;http://www.outlookafghanistan.net/national_detail.php?post_id=25808&quot;&gt;online&lt;/a&gt; sites, shared on &lt;a href=&quot;https://www.facebook.com/KabulMunicipality/posts/2194828510813555&quot;&gt;social media&lt;/a&gt;, and proudly showcased by the Mayor of Kabul at a launch event that drew 250 attendees and local media.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/App%20Billboard-03.jpg&quot; alt=&quot;App Billboard-03.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Advertisement for the Kabul Municipality mobile app.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/App%20Billboard-03.jpg&quot; alt=&quot;App Billboard-03.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Advertisement for the Kabul Municipality mobile app.&lt;/code&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 06 Feb 2020 07:00:00 -0500</pubDate>
@@ -180,7 +199,7 @@
 
 &lt;p&gt;First up, beautiful Bosnia and Herzegovina.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/BiH.jpg&quot; alt=&quot;BiH.jpg&quot; /&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Baščaršija square.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/BiH.jpg&quot; alt=&quot;BiH.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Baščaršija square.&lt;/code&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 09 Jan 2020 06:00:00 -0500</pubDate>
@@ -192,33 +211,6 @@
         <category>Digital Insights</category>
         
         <category>Ecosystem Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/2020.png" medium="image" /> 
-        <title>Looking Ahead: What We’re Thinking About in 2020</title>
-        <description>&lt;p&gt;In our last post from 2019, we reviewed our top posts from the past year. The most-read articles covered a myriad of digital development topics—bridging the &lt;a href=&quot;https://dai-global-digital.com/lessons-learned-from-cambodia.html&quot;&gt;digital gender divide&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html&quot;&gt;visualizing remote sense data&lt;/a&gt;, and insights into the &lt;a href=&quot;https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html&quot;&gt;digital lives of Kabul’s residents&lt;/a&gt; to design an open source transparency and citizen participation app. Over the last few years, we’ve seen a sea change in how digital tools and services impact people’s lives globally. Expect 2020 to be no different.&lt;/p&gt;
-
-&lt;p&gt;As we get ready for the new decade, here are some topics we’re thinking about when it comes to digital development.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Jan 2020 06:00:00 -0500</pubDate>
-        <author>Krista Baptista
-</author>
-        <link>https://dai-global-digital.com/2020-looking-ahead.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/2020-looking-ahead.html</guid>
-        
-        <category>Entrepreneurship</category>
-        
-        <category>Trust</category>
-        
-        <category>Innovation</category>
-        
-        <category>Data</category>
-        
-        <category>Think Piece</category>
         
         
       </item>

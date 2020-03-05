@@ -340,24 +340,24 @@ We love data mining at DAI and today we are going to mine a data set from the Un
 <p>Instead of just looking at two variables, we can use something slightly more complex like the four components in the HDI to cluster countries. Making the plot with nearly the same <a href="https://www.rstudio.com/home/">R</a> script that we used for the car example, we start to see some patterns right away. In our HDI dendrogram, there are clearly two distinct groups, represented by the big tall branches at the root.</p>
 
 <p><a href="/uploads/output_huge.png"><img src="/uploads/output_huge.png" alt="Dendrogram for the HDI" /></a>
-<code class="highlighter-rouge">Dendrogram for the Human Development Report. Countries are clustered on 2014 values for: Life expectancy at birth, expected years of schooling, mean years of schooling, and gross national income per capita</code></p>
+<code class="language-plaintext highlighter-rouge">Dendrogram for the Human Development Report. Countries are clustered on 2014 values for: Life expectancy at birth, expected years of schooling, mean years of schooling, and gross national income per capita</code></p>
 
 <p>It appears that the branch on the left are low development countries and the right branch are the high development countries. The height of the split in relation to the height of the lower clusters means that degree of dissimilarity between the top two classes is much greater than of those lower down in the dendrogram.</p>
 
 <p>This means countries with low development values are far behind the those in the medium and high development.</p>
 
 <p><a href="/uploads/topandbottom15_v2.png"><img src="/uploads/topandbottom15_v2.png" alt="Dendrogram Highlighting extremes" /></a>
-<code class="highlighter-rouge">Highlighting the top 15 and bottom 15 countries according to HDI. The non-adjacency occurs because clustering is based on the component variables instead of the HDI</code></p>
+<code class="language-plaintext highlighter-rouge">Highlighting the top 15 and bottom 15 countries according to HDI. The non-adjacency occurs because clustering is based on the component variables instead of the HDI</code></p>
 
 <p>Notice that the top 15 and bottom 15 countries by HDI are not adjacent to one another in tight clusters? That’s because the data is clustered by component variables, not the HDI alone.</p>
 
 <p><a href="/uploads/two_classes_v2.png"><img src="/uploads/two_classes_v2.png" alt="Dendrogram for the HDI" /></a>
-<code class="highlighter-rouge">Two highly distinct clusters in the dendrogram reveal incredible differences in development</code></p>
+<code class="language-plaintext highlighter-rouge">Two highly distinct clusters in the dendrogram reveal incredible differences in development</code></p>
 
 <p>Our dendrogram reveals a massive split between the low development and higher development groups and another sizable split between the high and medium groups at the three-class level.</p>
 
 <p><a href="/uploads/three_classes_v2.png"><img src="/uploads/three_classes_v2.png" alt="Three Major Clusters" /></a>
-<code class="highlighter-rouge">The hierarchy of clusters shows two distinct clusters at the top. Within those two clusters are three clusters. This hierarchy continues down into the dendrogram</code></p>
+<code class="language-plaintext highlighter-rouge">The hierarchy of clusters shows two distinct clusters at the top. Within those two clusters are three clusters. This hierarchy continues down into the dendrogram</code></p>
 
 <h2 id="clusters-highlighting-similar-countries">Clusters Highlighting Similar Countries</h2>
 
@@ -411,6 +411,22 @@ We love data mining at DAI and today we are going to mine a data set from the Un
   
   
   
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
   
   
     
