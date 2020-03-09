@@ -19,7 +19,7 @@ A clear example is CISCO's work in 2017, worked with 14 local governments in Ind
 
 The impact of digital transformation comes less from the procurement of expensive software solutions or  server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models who's benefits extend beyond increased efficiency. 
 
-> ![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)Figure 1. An in-depth review of the current models could provide a clear view of the digital strategy. Design Thinking Workshop in Honduras, 2019.
+> ![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)`An in-depth review of the current models could provide a clear view of the digital strategy. Design Thinking Workshop in Honduras, 2019.`
 
 In recent experiences in El Salvador through the USAID Project for the Strengthening of Local Organizations, found three characteristics that enhance the value of Digital Transformation:
 
