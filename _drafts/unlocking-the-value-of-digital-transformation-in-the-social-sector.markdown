@@ -21,7 +21,7 @@ The impact of digital transformation comes less from the procurement of expensiv
 
 ![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)`An in-depth review of the current models could provide a clear view of the digital strategy. Design Thinking Workshop in Honduras, 2019.`
 
-In recent experiences in El Salvador through the USAID Project for the Strengthening of Local Organizations, found three characteristics that enhance the value of Digital Transformation:
+Recently, in my work with the the USAID Project for the Strengthening of Local Organizations, I found three characteristics that enhance the value of Digital Transformation:
 
 1. **Leadership**: For Shaaban (2019), leadership is “the art of inducing compliance, as an exercise in influence… using it as an instrument in achieving objectives, as an effect of interaction, as a differentiated role and as the beginning of the structure, without leadership, the fundamental block of the transformation fails to demonstrate the value of the change ”. Leadership will become a *sinecuanum* condition for investment in digital transformation processes in countries in emerging markets. In other words, having clear leadership is the first and the most fundamental step.
 
