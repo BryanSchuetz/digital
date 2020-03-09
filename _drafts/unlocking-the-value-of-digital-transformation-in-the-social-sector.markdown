@@ -13,7 +13,7 @@ social-image: "/uploads/Imagen%201-18c18f.png"
 
 For many years, the support of international donors to civil society organizations, private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. Or as [researchers](https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective) wrote in 2013, these investments quickly became obsolete or abandoned. 
 
-The accelerated technological evolution in the areas of communication and collaboration has generated a change in society, specifically in the “digital use”, allowing people to interact globally through platforms, giving space to a process of digitalization of the traditional work model being more efficient.
+The accelerated technological evolution in the areas of communication and collaboration has generated a change in society,  allowing people to interact globally through platforms, giving space to a process of digitalization of the traditional work model being more efficient.
 
 Thus, in the last decade, the offer of software as a service (SaaS) and tools “cloudization” (the use of cloud services) have pushed organizations to naturally integrate their use, digitizing processes, but not transforming their models, it is no coincidence that CISCO in 2017 worked with more than 18 local governments in India in its digital transformation (Digital Effects, 2017), redefining the connectivity model in cities through Wifi cloudization, supporting the change to have access to a new business model around connectivity devices.
 
