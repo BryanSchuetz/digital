@@ -11,7 +11,7 @@ Author: Alejandro Solis
 social-image: "/uploads/Imagen%201-18c18f.png"
 ---
 
-For many years, the support of international cooperation to civil society organizations, private and public sectors in the technological field revolved around the provision of equipment, hardware, and software, which on many occasions did not achieve an effective application or real impacts, Fenech *et al* In 2013 indicated that most of the investments were ephemeral and quickly became obsolete and abandoned.
+For many years, the support of international donors to civil society organizations, private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. Or as [researchers](https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective) wrote in 2013, these investments quickly became obsolete or abandoned. 
 
 The accelerated technological evolution in the areas of communication and collaboration has generated a change in society, specifically in the “digital use”, allowing people to interact globally through platforms, giving space to a process of digitalization of the traditional work model being more efficient.
 
