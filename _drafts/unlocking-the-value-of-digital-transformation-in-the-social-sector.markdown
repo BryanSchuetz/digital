@@ -17,7 +17,7 @@ In the near decade since the publishing of the 2013 paper aforementioned, the ac
 
 A clear example is CISCO's work in 2017, worked with 14 local governments in India in their digital transformation  by upgrading their connectivity models in cities through Wifi cloudization. As a result, this increased access to new business models based on increased connectivity. Although digital infrastructure remains a very important issue for securing access, the digital paradigm has changed. 
 
-The impact of digital transformation comes less from the procurement of expensive software solutions or  server clusters. Instead, the value lies in helping organizations to adopt  demonstrating a correct and responsible digital use that transforms traditional models into more efficient and effective ones for organizations and their beneficiaries.
+The impact of digital transformation comes less from the procurement of expensive software solutions or  server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models who's benefits extend beyond increased efficiency. 
 
 > ![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)Figure 1. An in-depth review of the current models could provide a clear view of the digital strategy. Design Thinking Workshop in Honduras, 2019.
 
