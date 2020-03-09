@@ -11,7 +11,7 @@ Author: Alejandro Solis
 social-image: "/uploads/Imagen%201-18c18f.png"
 ---
 
-For many years, the support of international donors to civil society organizations, private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. Or as [researchers](https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective) wrote in 2013, these investments quickly became obsolete or abandoned. 
+For many years, the support of international donors to civil society organizations, private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. Or as [researchers](https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective) wrote in 2013, these investments quickly became obsolete or abandoned. Since then, we in the digital development community have supported international donors and international programming to better integrate technology into development projects. 
 
 The accelerated technological evolution, has generated a change in society,  allowing people to interact globally through platforms, providing an opportunity to digitize work models resulting in efficiency.  As a result, 
 
