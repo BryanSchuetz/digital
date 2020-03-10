@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Mar 2020 15:43:17 -0400</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2020 15:43:17 -0400</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2020 15:45:40 -0400</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2020 15:45:40 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/WCC2.jpg" medium="image" /> 
+        <title>Closing the Gender Digital Divide: What We’re Doing to Bring Women Online</title>
+        <description>&lt;p&gt;Digital technologies are revolutionizing the way we access information, financing, and networks—all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all people equally. In recognition of International Women’s Day, we are looking at one of the most pressing barriers women face to their economic advancement—the gender digital divide—and how DAI is addressing this problem through the U.S. Agency for International Development’s W-GDP&lt;a href=&quot;https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf&quot;&gt; WomenConnect Challenge&lt;/a&gt;, implemented by DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project. (For the latest information, please read our most recent &lt;a href=&quot;https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf&quot;&gt;newsletter&lt;/a&gt;).&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Mar 2020 06:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/nataliedomond/">Natalie Domond</a> and <a href="https://www.linkedin.com/in/stephanie-c-creed/">Stephanie Creed</a>
+</author>
+        <link>https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/cyber%20harms.jpg" medium="image" /> 
@@ -186,31 +203,6 @@
         <category>digital agriculture</category>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/BiH.jpg" medium="image" /> 
-        <title>Digital Development in the Western Balkans: Bosnia and Herzegovina</title>
-        <description>&lt;p&gt;For the past few months, DAI has been working closely with the United Kingdom’s Foreign Commonwealth Office (FCO) to map digital ecosystems across the Western Balkans, and to identify areas where the FCO can support the technology sector in closing the digital skill supply-demand gap.&lt;/p&gt;
-
-&lt;p&gt;Through our research, we found a region that is well-placed to increase its share of the dividends of global digital expansion and interconnectedness. The Western Balkans boasts promising digital ecosystems, which are well on their way to creating significant economic growth opportunities, but that in many cases need investment and support to do so. With each country having its own specific trajectory and different operating environment, we have created a series of blogs, each outlining key findings from the six countries in the region: Bosnia and Herzegovina, Albania, Serbia, Montenegro, Kosovo, and North Macedonia.&lt;/p&gt;
-
-&lt;p&gt;First up, beautiful Bosnia and Herzegovina.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/BiH.jpg&quot; alt=&quot;BiH.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Baščaršija square.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 09 Jan 2020 06:00:00 -0500</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-in-the-western-balkans-bosnia-and-herzegovina.html</guid>
-        
-        <category>Digital Insights</category>
-        
-        <category>Ecosystem Insights</category>
         
         
       </item>
