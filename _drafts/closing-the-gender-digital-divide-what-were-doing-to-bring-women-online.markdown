@@ -9,9 +9,7 @@ social-image: "/uploads/WCC2.jpg"
 thumbnail: "/uploads/WCC2.jpg"
 ---
 
-Digital technologies are revolutionizing the way we access information, financing, and networks—all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all people equally. In recognition of International Women’s Day, we are looking at one of the most pressing barriers women face to their economic advancement—the gender digital divide—and how DAI is addressing this problem through the U.S. Agency for International Development's W-GDP[ WomenConnect Challenge](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf), implemented by DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project.
-
-![WCC.png](/uploads/WCC.png)`Read our most recent`[`newsletter`](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf)`on the WomenConnect Challenge.`
+Digital technologies are revolutionizing the way we access information, financing, and networks—all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all people equally. In recognition of International Women’s Day, we are looking at one of the most pressing barriers women face to their economic advancement—the gender digital divide—and how DAI is addressing this problem through the U.S. Agency for International Development's W-GDP[ WomenConnect Challenge](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf), implemented by DAI's [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project. (For the latest information, please read our most recent [newsletter](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf)).
 
 <!--more-->
 
