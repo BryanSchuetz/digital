@@ -1,6 +1,6 @@
 ---
 title: 'Closing the Gender Digital Divide: What We’re Doing to Bring Women Online'
-date: 2020-03-11 06:00:00 -04:00
+date: 2020-03-10 06:00:00 -04:00
 tags:
 - Digital Inclusion
 Author: "[Natalie Domond](https://www.linkedin.com/in/nataliedomond/) and [Stephanie
