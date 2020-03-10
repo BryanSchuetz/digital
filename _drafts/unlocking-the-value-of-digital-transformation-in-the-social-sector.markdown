@@ -11,15 +11,17 @@ thumbnail: "/uploads/Imagen%201-18c18f.png"
 
 For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. As [researchers](https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective) wrote in 2013, these investments quickly became obsolete or abandoned. Since then, we in the digital development community have supported international donors and international programming to better integrate technology into our work.
 
+<!--more-->
+
 In the near decade since the publishing of the aforementioned 2013 paper, the accelerated digital revolution has reshaped societies, changing the ways in which people interact and work.  Software as a service (SaaS) and the use of tools such as cloud services (referred to as “cloudization”) are great examples. As organizations have adopted them, they've digitized processes. At the same time, few of these same organizations have then transformed their business models. In other words, digitization has focused primarily on installing these software and tools, rather than behavior change to ensure adoption across an organization.
 
 A clear example is Cisco Systems' work in 2017. The tech giant worked with 14 local governments in India, upgrading their connectivity in cities through wifi cloudization. As a result, this increased access to new business models based on increased connectivity. Although digital infrastructure remains a very important issue for securing access, the digital paradigm has changed.
 
-The impact of digital transformation comes less from the procurement of expensive software solutions or  server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models who's benefits extend beyond increased efficiency.
+The impact of digital transformation comes less from the procurement of expensive software solutions or server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models with benefits that extend beyond increased efficiency.
 
-![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)`An in-depth review of the current models could provide a clear view of the digital strategy. Design Thinking Workshop in Honduras, 2019.`
+![Imagen 1-18c18f.png](/uploads/Imagen%201-18c18f.png)`An in-depth review of the current models could provide a clear view of the digital strategy. Design-thinking workshop in Honduras, 2019.`
 
-Recently, in my work with the the USAID Project for the Strengthening of Local Organizations, I found three characteristics that enhance the value of digital Transformation:
+Recently, in my work with the the U.S. Agency for International Development (USAID) Project for the Strengthening of Local Organizations, I found three characteristics that enhance the value of digital Transformation:
 
 1. **Leadership**: According to [Shafaa Shaaban](http://bue.academia.edu/safaashaban/CurriculumVitae) , leadership is “the art of inducing compliance, as an exercise in influence… using it as an instrument in achieving objectives, as an effect of interaction, as a differentiated role and as the beginning of the structure, without leadership, the fundamental block of the transformation fails to demonstrate the value of the change. ” Leadership will become a *sinecuanum* condition for true digital transformation processes in emerging markets. In other words, having clear leadership that is committed to creating institutional and behavioral change will be a key first step to digital transformation.
 
