@@ -13,6 +13,8 @@ Digital technologies are revolutionizing the way we access information, financin
 
 ![WCC.png](/uploads/WCC.png)`Read our most recent`[`newsletter`](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf)`on the WomenConnect Challenge.`
 
+<!--more-->
+
 ## Why Should We Care About the Gender Digital Divide?
 
 The gender digital divide is the gap between women’s and men’s information and communications technology (ICT) access and use. While 2019 saw record highs for internet adoption and mobile phone ownership—[just over half of the world’s population is now online](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.20-2019-PDF-E.pdf) and an estimated [82 percent of women own mobile phones](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)—the figures still show staggering gaps in access for women in many regions of the world.
