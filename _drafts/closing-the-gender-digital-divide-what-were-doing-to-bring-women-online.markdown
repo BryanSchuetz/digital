@@ -3,6 +3,10 @@ title: Closing the Gender Digital Divide - What We’re Doing to Bring Women Onl
 date: 2020-03-11 06:00:00 -04:00
 tags:
 - Digital Inclusion
+Author: "[Natalie Domond](https://www.linkedin.com/in/nataliedomond/) and [Stephanie
+  Creed](https://www.linkedin.com/in/stephanie-c-creed/)"
+social-image: "/uploads/WCC2.jpg"
+thumbnail: "/uploads/WCC2.jpg"
 ---
 
 Digital technologies are revolutionizing the way we access information, financing, and networks – all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all equally. In recognition of International Women’s Day on March 8, we want to look at one of the most pressing barriers women face to their economic advancement - the gender digital divide - and how DAI is working to address this problem through the USAID W-GDP[ WomenConnect Challenge](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/newsletter_final.pdf).
