@@ -9,12 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)">
-  <meta name="twitter:description" content="In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/logo_evolution.png">
+  <meta name="twitter:title" content="Unlocking the Value of Digital Transformation in the Social Sector">
+  <meta name="twitter:description" content="For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these typ...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/20191121-_MG_4393.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)</title>
-  <meta name="description" content="In my last post I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of two articles, I’ll com...">
+  <title>Unlocking the Value of Digital Transformation in the Social Sector</title>
+  <meta name="description" content="For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=21">
-  <link rel="canonical" href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html">
+  <link rel="canonical" href="https://dai-global-digital.com/unlocking-the-value-of-digital-transformation-in-the-social-sector.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,135 +98,51 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Open Source Series Part 3: Spatial Analysis with QGIS (Article 2/2)</h1>
+    <h1 class="post-title">Unlocking the Value of Digital Transformation in the Social Sector</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Sep 12, 2017</p>
+      <p class="post-details--date">Mar 12, 2020</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
+      <p class="post-details--byline">By <a href="/authors/alejandro-solis/" class="without-style">Alejandro Solis
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=gis" class="without-style">GIS</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span> • <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=digital-transformation" class="without-style">Digital Transformation</a></span> • <span class="post-topic"><a href="/tags/?tag=innovation" class="without-style">Innovation</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p><em>In my <a href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html">last post</a> I introduced QGIS, and previewed some of the basic functions in the upcoming release of Version 3.0. In this second of two articles, I’ll compare using QGIS in professional organizations to the use of proprietary software, and provide recommendations for organizations seeking to test the waters with spatial analysis. I’ve also reached out to three GIS professionals with experience integrating spatial analysis software into diplomatic and development work environments, and shared their perspectives in a Q&amp;A section below.</em></p>
-
-<p><img src="/uploads/logo_evolution.png" alt="logo_evolution.png" /></p>
+    <p>For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. As <a href="https://www.researchgate.net/publication/261263057_Overcoming_ICT_project_failures_-_A_practical_perspective">researchers</a> wrote in 2013, these investments quickly became obsolete or abandoned. Since then, we in the digital development community have supported international donors and international programming to better integrate technology into our work.</p>
 
 <!--more-->
 
-<h2 id="why-qgis-strengths-and-weaknesses">Why QGIS? Strengths and Weaknesses</h2>
+<p>In the near decade since the publishing of the aforementioned 2013 paper, the accelerated digital revolution has reshaped societies, changing the ways in which people interact and work.  Software as a service (SaaS) and the use of tools such as cloud services (referred to as “cloudization”) are great examples. As organizations have adopted them, they’ve digitized processes. At the same time, few of these same organizations have then transformed their business models. In other words, digitization has focused primarily on installing these software and tools, rather than behavior change to ensure adoption across an organization.</p>
 
-<p>In the <a href="https://dai-global-digital.com/open-source-series-part-1-what-is-open-source.html">introduction to this series</a>, I briefly highlighted some of the benefits and drawbacks to working with open source technology. So, do these observations apply in the case of QGIS? In short, yes.</p>
+<p>A clear example is Cisco Systems’ work in 2017. The tech giant worked with 14 local governments in India, upgrading their connectivity in cities through wifi cloudization. As a result, this increased access to new business models based on increased connectivity. Although digital infrastructure remains a very important issue for securing access, the digital paradigm has changed.</p>
 
-<p>What QGIS provides users is a suite of analytical tools to conduct spatial analysis on a desktop. If you want to host your data online you can use the <a href="http://qgiscloud.com/">QGIS cloud</a>, and if you’d like to stay in the QGIS ecosystem to do data collection you could try <a href="http://nathanw2.github.io/qmap/">QMap</a>. There are many plug-ins and web services available to extend your QGIS usage, and developers are producing new tools all the time.</p>
+<p>The impact of digital transformation comes less from the procurement of expensive software solutions or server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models with benefits that extend beyond increased efficiency.</p>
 
-<p>But it is not uncommon to find QGIS users straying from the branded ecosystem to manage data collection, run analysis, and create visualizations. If you want to do statistical analysis you may want to download a copy of <a href="http://geodacenter.github.io/">Geoda</a>. <a href="https://opendatakit.org/">Open Data Kit</a> is a great way to build field data collection into your project. And web-mapping packages such as<a href="http://leafletjs.com/"> Leaflet.js</a>, <a href="https://openlayers.org/">OpenLayers</a>, and tools provided by <a href="https://www.mapbox.com/">Mapbox</a> help bring your data alive on the web. Or you could of course use the free tier of <a href="https://carto.com/">Carto</a>, but now we’re getting outside of the open source realm.</p>
+<p><img src="/uploads/20191121-_MG_4393.jpg" alt="20191121-_MG_4393.jpg" /></p>
 
-<p>Exhausted yet?</p>
+<p><code class="language-plaintext highlighter-rouge">Conference in El Salvador where Civil Society Organizations learn how to transform their organizations using digital technologies. November, 2019.</code></p>
 
-<p>What we’ve just covered are a host of extremely powerful tools, but they require thinking about data interoperability, data storage methods, and may necessitate software development skills. If that doesn’t sound appealing to you, you can turn to proprietary software.</p>
+<p>Recently, in our work as a subcontractor on the U.S. Agency for International Development (USAID)-funded <a href="https://www.ibi-usa.com/el-salvador-local-solutions">El Salvador Strengthening Local Organizations Project</a>, I found three characteristics that enhance the value of digital transformation:</p>
 
-<p>For organizations seeking a one-stop shop of desktop and web-mapping needs, you need look no further than <a href="http://desktop.arcgis.com/en/arcmap/">ArcMap</a>, <a href="https://pro.arcgis.com/en/pro-app/">ArcGIS Pro</a>, and <a href="http://www.esri.com/software/arcgis/arcgisonline">ArcGIS Online</a>. There isn’t a GIS stone unturned in the ESRI world, and you can go from data to the web without touching a line of code on day one. But this comes at an up-front financial cost, and it’s not hard to spend tens (if not hundreds) of thousands of dollars on software and web hosting to serve your organization’s needs. Every license, package extension, and click on websites adds to your cost. What organizations need to weigh in this case is where they want to incur their costs, and whether they’re ready to commit to such a large purchase.</p>
+<ol>
+  <li>
+    <p><strong>Leadership</strong>: According to <a href="http://bue.academia.edu/safaashaban/CurriculumVitae">Shafaa Shaaban,</a> leadership is “the art of inducing compliance, as an exercise in influence… using it as an instrument in achieving objectives, as an effect of interaction, as a differentiated role and as the beginning of the structure. Without leadership, the fundamental block of the transformation fails to demonstrate the value of the change.” Leadership will become a <em>sine qua non</em> condition for true digital transformation processes in emerging markets. In other words, having clear leadership that is committed to creating institutional and behavioral change will be a key first step to digital transformation.</p>
+  </li>
+  <li>
+    <p><strong>Learning by doing</strong>: In his book, <em><a href="https://www.amazon.com/Learning-Doing-Connection-between-Innovation/dp/0300195664">Learning by Doing,</a></em> James Bessen makes the case that the adoption of technology is more likely, particularly in emerging markets, when there is a learning component included. Studies in developing countries have shown that the adoption of new technologies is more effective when there are learning processes involved. I recently held a workshop with civil society organizations in El Salvador and observed that exact phenomenon. At first, the participants communicated broad skepticism about implementing agile project management techniques. But, as soon as the workshop demonstrated how these techniques could be used, they showed excitement about frameworks such as Scrum and Kanban, inspired by the <a href="https://www.ictworks.org/should-the-principles-of-digital-development-be-agile/#.XmaWy6hKiUk">Agile movement</a>. There is a huge opportunity for the digital development community to support local organizations to develop approaches and strategies for both integrating digital tools and adapting behavior that allows for successful digital transformation.</p>
+  </li>
+  <li>
+    <p><strong>Skills</strong>: Understanding the emotions of others (empathy), the ability to solve unpublished problems (lateral thinking), the generation of new ideas (creativity), the ability to work with people who have different skillsets (the alliance), and the human capital to problem solve (critical thinking) are valuable assets. These assets are key to achieving an organization’s digital transformation.</p>
+  </li>
+</ol>
 
-<p>Software developer time can be expensive, and it would not be hard to make the case that buying into the ESRI ecosystem may save time and money. But it all depends on your needs.</p>
+<p>Digital transformation is all the buzz. The real value in it is not just integrating digital assets across a business or organization, but rather applying a flexible strategy that allows for digital tools and services to support change.</p>
 
-<p>It’s also important to acknowledge the rise of business intelligence software such as <a href="https://www.tableau.com/">Tableau</a>, <a href="https://powerbi.microsoft.com/en-us/">PowerBI</a>, and <a href="http://www.qlik.com/us/">Qlik</a>. We’ll likely cover this ecosystem of software in another post, but business intelligence software increasingly enables the production of basic choropleth, or shaded, and point maps, and the integration of these visuals into interactive dashboards. Often this is all organizations seek to build, and deeper analytical functions provided by a fully fledged GIS may go unused.</p>
-
-<h2 id="gis-and-your-organizationa-qa-with-professionals">GIS and Your Organization—A Q&amp;A with Professionals</h2>
-
-<p>To learn more about open source vs. proprietary GIS, I reached out to three geographers: <a href="https://twitter.com/disruptivegeo?lang=en">Dr. Joshua Campbell</a>, CEO of SandHill Geographic; <a href="https://twitter.com/swolfinbarger?lang=en">Dr. Susan Wolfinbarger</a>, geographer at the Bureau of Conflict and Stabilization Operations and former Director of the Office of Geospatial Technologies at the American Association for the Advancement of Science; and a professional GIS analyst at USAID. Each has experience building teams around spatial analysis needs, developing software, or providing training to others. I asked three questions. They provided very diverse answers, and I’ve quoted each of them below.</p>
-
-<ul>
-  <li>JC – Dr. Joshua Campbell</li>
-  <li>SW – Dr. Susan Wolfinbarger</li>
-  <li>USAID – Unnamed USAID GIS Professional</li>
-</ul>
-
-<p><strong>Question 1: In your experience, how many GIS professionals use QGIS vs ArcGIS?</strong></p>
-
-<blockquote>
-  <p><strong>JC:</strong> I don’t have hard numbers, but I would estimate that QGIS is still a small percentage (maybe 10 percent) of the overall GIS market (at least in the United States). That said, I’d also estimate that the growth rate is tremendous, with significant year-over-year growth. As QGIS matures, along with the rest of the open source geospatial ecosystem (mainly PostGIS), the interest and growth in its use is accelerating. I just attended the Free and Open Source Software for Geospatial (FOSS4G) conference in Boston (http://2017.foss4g.org/), and a couple of trends stuck out. First, the size of the conference was 1,100+ people, with roughly a third of attendees from outside of the United States. This is by far the largest in FOSS4G history; by comparison, my first one in 2007 had 600 attendees. Second, the conference dedicated a day to QGIS (http://2017.foss4g.org/program/), and many of the sessions were well attended. The State of QGIS talk, which outlines all the coming changes to QGIS 3.0 was particularly interesting as it is major refactoring with many performance improvements. QGIS is already near feature parity with proprietary desktop GIS applications, and the new version provides increased capabilities in the visualization and analysis functions where it is already strong.</p>
-
-  <p><strong>SW:</strong> I think the vast majority of GIS professionals use ArcMap over open source software options like QGIS. The open source GIS software products I’ve used, including QGIS, don’t work well on iOS computers. So my advice to the open source software development community is to focus as much on Apple as Windows and Linux operating systems. That being said—I do used QGIS regularly on a Windows machine, and would use it for all of my extracurricular projects if the Mac version worked well. Anecdotally, every time I’m at a geography conference, everyone is using a MacBook Pro!</p>
-
-  <p><strong>USAID:</strong> Most GIS professionals I know try to use both. Each platform has specific strengths and weaknesses that don’t necessarily overlap. However, for smaller organizations or where cost is a barrier, most GIS professionals will defer to QGIS.</p>
-</blockquote>
-
-<p><strong>Question 2: Why do you think people continue to rely on proprietary software applications like ArcGIS and Tableau given free alternatives?</strong></p>
-
-<blockquote>
-  <p><strong>JC:</strong> For ArcGIS, I believe training/experience and existing availability of software are the two reasons people continue to use them. Cost matters very little to analysts who are not responsible for paying the maintenance fees, so it is essentially “free” to them. I will say the learning curve is not a trivial issue. When I first learned QGIS I had 10 years of ESRI experience and thoroughly understood the “button-ology” of how to execute a given task. Relearning a new user interface required time and effort, but now that I have, I choose to use QGIS.</p>
-
-  <p><strong>SW:</strong> Typically, I think there are a few reasons why the GIS community continues to rely on proprietary software applications:</p>
-
-  <ul>
-    <li>
-      <p>It is what they learned in school.</p>
-    </li>
-    <li>
-      <p>It has a guarantee of support that you don’t receive via open source options.</p>
-    </li>
-    <li>
-      <p>There is typically a very large user community, backed by regular conferences and professional development.</p>
-    </li>
-    <li>
-      <p>Proprietary software fits into classic budgetary and technology approval processes.</p>
-    </li>
-    <li>
-      <p>The well thought-out integration between functions. ArcGIS provides everything within their architecture, so it’s easier to work with than cobbling together a variety of different solutions and having to deal with other structures, costs, and varied platforms. You just know how everything is going to work every time.</p>
-    </li>
-  </ul>
-
-  <p><strong>USAID:</strong> Student licenses for the proprietary software are robust and widely available. The majority of higher ed institutions seem to instruct on the proprietary software, though this practice is changing. Most of the time a GIS professional will enter a position where proprietary licenses have already been purchased and thus do not need to seek out alternatives.</p>
-</blockquote>
-
-<p><strong>Question 3: What advice to you have for organizations seeking to improve their use of spatial data from both an educational, staffing, and software perspective?</strong></p>
-
-<blockquote>
-  <p><strong>SW:</strong> I think that you have to have a champion in the organization who is willing to go the extra mile to demonstrate the power of spatial data and analysis. That’s true with most new initiatives. With so many options for online training, there are a lot of great options for those newer to GIS to improve their skills.</p>
-
-  <p>In terms of software, I think starting with open source makes a lot of sense. It lets an organization test out the capabilities and determine if demand exists. I feel that once you start producing a fair amount of content that it makes sense to go proprietary if at all possible. There will be a lot more support for standing up a formal analysis workflow that can be used across multiple users over time. What may be most important is to communicate to leadership the investment required. Even if the organization is using all open source software, geospatial analysis takes a long time!</p>
-
-  <p><strong>JC:</strong> Look for easy wins and start with them. Try to find metrics that can be measured; this is often difficult, but look for proxies or even testimonials to demonstrate impact. A full-fledged “enterprise” adoption of anything is a scary proposition…but, a measured, intentional effort to switch out technologies, or include a new analytical method in a project, can be accomplished quickly, usually cheaply, and be used to demonstrate value.</p>
-
-  <p>While the acquisition cost of open source software is often used to justify its adoption, don’t fall into the $0 price tag trap. As a friend said once, “Open source is free like a puppy.” There are care and feeding considerations you must include in your decision framework, and you must think in terms of “total cost of ownership.” This will benefit your efforts in two ways, first, it means you will think through all the implications of a change (which your leadership will appreciate), and second, with a thorough understanding of your workflow, you’ll likely uncover other ways that adopting open source will benefit your organization.</p>
-
-  <p>Finally, don’t underestimate the value of participating in an open source community. The shared resource pool means that all benefit from the features funded and developed by a few. Additionally, developers often want to work on open source projects, and the ability to recruit and retain talent increases with developers want to work on your projects.</p>
-
-  <p><strong>USAID:</strong> Ensuring there is a clear business use case and defined analytical workflows that GIS can influence is key. The real power and value of GIS lies in it’s analytical applications so making sure there are established data pipelines and areas for enhanced decision-making is crucial.</p>
-</blockquote>
-
-<h2 id="our-recommendation">Our Recommendation</h2>
-
-<p>So, what do we recommend? It’s difficult to provide blanket guidance on software for institutions as complex as development organizations, but here are some general guidelines that we recommend you follow.</p>
-
-<p><strong>Use QGIS If:</strong></p>
-
-<ul>
-  <li>You need extended spatial analysis functionality on the desktop.</li>
-  <li>You’re just getting started with spatial analysis and want to test the water before spending money.</li>
-  <li>You’re comfortable mixing multiple software applications for your analytical needs.</li>
-  <li>You have or are willing to invest in web development to publish your maps online.</li>
-  <li>You will be working with a local organization that would like to learn the software, but may not have the resources to purchase licenses.</li>
-</ul>
-
-<p><strong>Use Proprietary Software If:</strong></p>
-
-<ul>
-  <li>You need extended spatial analysis functionality on the desktop.</li>
-  <li>You were trained it in a specific software (like ArcGIS) and are most comfortable using it.</li>
-  <li>You would rather purchase technical support outside of your office environment than hire dedicated internal staff.</li>
-  <li>You want to build online tools without hiring a web developer.</li>
-  <li>You have been asked to work in a specific proprietary software application by a client/customer.</li>
-</ul>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis-article-2.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/unlocking-the-value-of-digital-transformation-in-the-social-sector.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -254,12 +170,13 @@
   
   
     
+    
+  
+  
+    
       
       
         
-        
-          
-          
         
           
           
@@ -283,6 +200,19 @@
           
           
         
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
           
           
         
@@ -302,6 +232,19 @@
           
           
         
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
           
           
         
@@ -317,6 +260,19 @@
         
           
           
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
         
           
           
@@ -341,7 +297,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/the-back-end-of-management-information-systems.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/CLOUD.jpg);"></div><span class="related-item-text">What's the Best Architecture for a Management Information System?</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/6-ways-innovation-and-entrepreneurship-promote-prosperity.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/innovation%20averbug.jpg);"></div><span class="related-item-text">6 Ways Innovation and Entrepreneurship Promote Prosperity</span></a></li>
             
             
             
@@ -362,7 +318,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Sample_JReport_Dashboards.png);"></div><span class="related-item-text">What the Food Systems Dashboard Taught Me About Data for Decision Making</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/five-trends-in-hardware-to-watch.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/5e29aca9a055b1488ea32c12.png);"></div><span class="related-item-text">Five Trends in Hardware to Watch</span></a></li>
             
             
             
@@ -381,10 +337,12 @@
         
           
           
-        
-          
-          
-        
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/food-and-health-in-a-digital-world.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/person-holding-phone-taking-picture-of-served-food-693267.jpg);"></div><span class="related-item-text">How the Digital Marketplace is Changing the Way We Eat</span></a></li>
+            
+            
+            
       
     
     
@@ -394,85 +352,6 @@
       
       
         
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -498,84 +377,6 @@
             
             
             <li class="related-list-item"><a class="related-item-link" href="/2020-looking-ahead.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/2020.png);"></div><span class="related-item-text">Looking Ahead: What We’re Thinking About in 2020</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Blog%20image%20%2312Nov19.jpg);"></div><span class="related-item-text">Unearthing Lessons by Revisiting—Not Reinventing—the Wheel by Utilizing Data Science</span></a></li>
             
             
             
