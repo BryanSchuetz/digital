@@ -23,7 +23,7 @@ The impact of digital transformation comes less from the procurement of expensiv
 
 `Conference in El Salvador where Civil Society Organizations learn how to transform their organizations using digital technologies. November, 2019.`
 
-https://www.ibi-usa.com/el-salvador-local-solutions
+
 Recently, in our work as a subcontractor on the U.S. Agency for International Development (USAID)-funded [El Salvador Strengthening Local Organizations Project](https://www.ibi-usa.com/el-salvador-local-solutions), I found three characteristics that enhance the value of digital transformation:
 
 1. **Leadership**: According to [Shafaa Shaaban,](http://bue.academia.edu/safaashaban/CurriculumVitae) leadership is “the art of inducing compliance, as an exercise in influence… using it as an instrument in achieving objectives, as an effect of interaction, as a differentiated role and as the beginning of the structure. Without leadership, the fundamental block of the transformation fails to demonstrate the value of the change.” Leadership will become a *sine qua non* condition for true digital transformation processes in emerging markets. In other words, having clear leadership that is committed to creating institutional and behavioral change will be a key first step to digital transformation.
