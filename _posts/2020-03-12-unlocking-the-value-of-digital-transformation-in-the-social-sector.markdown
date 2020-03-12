@@ -19,10 +19,7 @@ A clear example is Cisco Systems' work in 2017. The tech giant worked with 14 lo
 
 The impact of digital transformation comes less from the procurement of expensive software solutions or server clusters. Instead, the value lies in helping organizations to adopt responsible digital use that transforms traditional business models with benefits that extend beyond increased efficiency.
 
-![20191121-_MG_4393.jpg](/uploads/20191121-_MG_4393.jpg)
-
-`Conference in El Salvador where Civil Society Organizations learn how to transform their organizations using digital technologies. November, 2019.`
-
+![20191121-_MG_4393.jpg](/uploads/20191121-_MG_4393.jpg)`Conference in El Salvador last November where civil society groups learn how to transform their organizations using digital technologies.`
 
 Recently, in our work as a subcontractor on the U.S. Agency for International Development (USAID)-funded [El Salvador Strengthening Local Organizations Project](https://www.ibi-usa.com/el-salvador-local-solutions), I found three characteristics that enhance the value of digital transformation:
 
