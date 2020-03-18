@@ -1,9 +1,12 @@
 ---
 title: 'COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment'
 date: 2020-03-18 14:29:00 -04:00
+Author: "[CDA Analytics]"
 ---
 
-*[Click here](https://dai-ictgeo.github.io/covid_19_py/) for the full analysis*
+### *[Click here](https://dai-ictgeo.github.io/covid_19_py/) for the full analysis*
+
+*This article was authored by Gratiana Fu, with contributions from Greg Maly and Jamie Parr.*
 
 As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and mortality rates. We will learn more about the virus and the populations most at risk as more test kits arrive in the hands of physicians and the total number of cases becomes clearer. Ideally, this information will be used to help target response efforts, guide policy decisions, inform the donor community, and support decision-making by businesses and multinational organizations whose work spans multiple countries. As a global development company with staff in over ___ countries, this kind of information is invaluable, as we think about ways to support our staff, and prepare for what comes next.
 
