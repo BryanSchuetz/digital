@@ -1,6 +1,12 @@
 ---
 title: Looking for the Helpers in the Hardware Community
 date: 2020-03-18 09:01:00 -04:00
+tags:
+- Hardware
+- Innovation
+Author: Rob Ryan-Silva
+social-image: "/uploads/CDC-coronavirus-image-23311-for-web.jpg"
+thumbnail: "/uploads/CDC-coronavirus-image-23311-for-web.jpg"
 ---
 
 As the COVID-19 (SARS-CoV-2 virus) [pandemic](https://www.cnn.com/2020/03/11/health/coronavirus-pandemic-world-health-organization/index.html) makes its way across the globe, and even well-resourced health systems struggle with the availability of critical supplies needed to treat patients, a number of initiatives have emerged in the hardware community looking to help solve the shortage of physical supplies. This post will provide a highlight of some of the initiatives popping up around the world as of this writing.
