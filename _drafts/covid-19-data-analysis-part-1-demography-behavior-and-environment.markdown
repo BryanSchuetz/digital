@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment'
 date: 2020-03-18 14:29:00 -04:00
-Author: CDA Analytics Staff
+Author: CDA Analytics Team
 ---
 
 ### *[Click here](https://dai-ictgeo.github.io/covid_19_py/) for the full analysis*
