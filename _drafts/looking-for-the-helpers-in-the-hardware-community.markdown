@@ -5,6 +5,8 @@ date: 2020-03-18 09:01:00 -04:00
 
 As the COVID-19 (SARS-CoV-2 virus) [pandemic](https://www.cnn.com/2020/03/11/health/coronavirus-pandemic-world-health-organization/index.html) makes its way across the globe, and even well-resourced health systems struggle with the availability of critical supplies needed to treat patients, a number of initiatives have emerged in the hardware community looking to help solve the shortage of physical supplies. This post will provide a highlight of some of the initiatives popping up around the world as of this writing.
 
+![CDC-coronavirus-image-23311-for-web.jpg](/uploads/CDC-coronavirus-image-23311-for-web.jpg)`Image: CDC/Alissa Eckert, MS; Dan Higgins, MAMS`
+
 <!—more-->
 
 When looking to bring the supply chain for critical goods closer to where they are needed in time of emergency, [Field Ready](https://www.fieldready.org/) is the organization first comes to mind. No newcomer to this game, Field Ready has more certified open source hardware designs than any other organization, and many of the items in its [catalogue](https://airtable.com/shrqwRqxAVvaF1q4z/tblJv98WkMMsgDRiE/viwQARb0J2MZZQ2GH?blocks=hide) – like its Air Pollution Face Mask, Oxygen Supply Fitting, Ventilator Connector and other designs – could be useful for frontline health workers running low on critical items during this pandemic. Some designs are 3D-printable and some come complete with Ikea-style wordless assembly instructions.
