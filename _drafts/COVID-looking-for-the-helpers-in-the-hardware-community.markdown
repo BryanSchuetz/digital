@@ -1,5 +1,5 @@
 ---
-title: Looking for the Helpers in the Hardware Community
+title: 'COVID-19: Looking for the Helpers in the Hardware Community'
 date: 2020-03-18 09:01:00 -04:00
 tags:
 - Hardware
@@ -11,7 +11,7 @@ thumbnail: "/uploads/CDC-coronavirus-image-23311-for-web.jpg"
 
 As the COVID-19 [pandemic](https://www.cnn.com/2020/03/11/health/coronavirus-pandemic-world-health-organization/index.html) makes its way across the globe, and even well-resourced health systems struggle with the availability of critical supplies needed to treat patients, a number of initiatives have emerged in the hardware community looking to help solve the shortage of physical supplies.
 
-![CDC-coronavirus-image-23311-for-web.jpg](/uploads/CDC-coronavirus-image-23311-for-web.jpg)`Image: CDC/Alissa Eckert, MS; Dan Higgins, MAMS`
+![CDC-coronavirus-image-23311-for-web.jpg](/uploads/CDC-coronavirus-image-23311-for-web.jpg)`Image: CDC/Alissa Eckert, MS; Dan Higgins, MAMS.`
 
 <!—more-->
 
