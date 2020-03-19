@@ -13,13 +13,13 @@ thumbnail: "/uploads/sars-cov-19.jpg"
 
 ### *[Click here](https://dai-ictgeo.github.io/covid_19_part_1/) for the full analysis*
 
-*This article was authored by Gratiana Fu, with contributions from Greg Maly and Jamie Parr. The analysis will be updated as we receive additional data.*
+*This article was authored by Gratiana Fu, with contributions from Greg Maly and Jamie Parr. The analysis will be updated as we receive additional data. This analysis is Part 1 of a multi-part series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and sub-national populations most at risk for infection and case-fatality. This paper will be updated as we identify both new theories and data sets. This paper was produced by DAI staff, and does not reflect official company opinions or policies.*
 
-**Background**
+## **Background**
 
-As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and mortality rates. We will learn more about the virus and the populations most at risk as test kits arrive in the hands of physicians. Ideally, this information will be used to target response efforts at populations most in need, guide policy decisions, inform the donor community, and support decision-making by organizations whose work spans multiple countries. As a global development company with projects [all over the world](https://www.dai.com/extras/maps/index.html), this kind of information is invaluable as we think about ways to support our staff and prepare for what comes next.
+As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and case fatality. We will learn more about the virus and the populations most at risk as test kits arrive in the hands of physicians. Ideally, this information will be used to target response efforts at populations most in need, guide policy decisions, inform the donor community, and support decision-making by organizations whose work spans multiple countries. As a global development company with projects [all over the world](https://www.dai.com/extras/maps/index.html), this kind of information is invaluable as we think about ways to support our staff and prepare for what comes next.
 
-Information from the earliest confirmed cases of COVID-19 indicates that some groups of people are at a higher risk for infection than others. Public health organizations like the WHO and US CDC have [released warnings](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) for those at higher risk to take extra precautionary measures. To help DAI and other global development organizations better understand vulnerabilities in the communities in which they work, the DAI Global Health and the Center for Digital Acceleration are tracking these risk factors, in addition to other potential correlates to mortality rates.
+Information from the earliest confirmed cases of COVID-19 indicates that some groups of people are at a higher risk for infection than others. Public health organizations like the WHO and US CDC have [released warnings](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) for those at higher risk to take extra precautionary measures. To help DAI and other global development organizations better understand vulnerabilities in the communities in which they work, the DAI Global Health and the Center for Digital Acceleration are tracking these risk factors, in addition to other potential correlates to mortality.
 
 In this first of a multi-part series, we will keep an updated record of demographic, socio-economic, personal health, and environmental factors that are perceived to being correlated with heightened risk of mortality, and identify known country and subnational datasets that can help us identify regions at risk. We will supplement this analysis with charts and maps. This document will be updated over time.
 
@@ -45,6 +45,6 @@ Below is a list of factors that have emerged as known drivers of increasing risk
 
    4. [Hypertension](https://dai-ictgeo.github.io/covid_19_part_1/#Medical-Condition-D:-Hypertension) ([Bloomberg News](https://www.bloomberg.com/news/articles/2020-03-09/top-virus-doctor-says-high-blood-pressure-is-major-death-risk))
 
-# **Datasets & Analysis**
+   **Datasets & Analysis**
 
-Our analysis pulls from publicly available datasets from a variety of official and reliable data sources. We have aggregated the datasets outlined below, as well as others, in a googlesheet. For the sake of transparency and collaboration, this [dataset is public](https://docs.google.com/spreadsheets/d/1eeg9dpIlP9jENJsp-cWY51Kw8fojpLnh6mhxORCTPL8/edit?usp=sharing).
+   Our analysis pulls from publicly available datasets from a variety of official and reliable data sources. We have aggregated the datasets outlined below, as well as others, in a Google Sheet. For the sake of transparency and collaboration, this [data set is public](https://docs.google.com/spreadsheets/d/1eeg9dpIlP9jENJsp-cWY51Kw8fojpLnh6mhxORCTPL8/edit?usp=sharing).
