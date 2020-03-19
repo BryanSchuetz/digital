@@ -45,6 +45,6 @@ Below is a list of factors that have emerged as known drivers of increasing risk
 
    4. [Hypertension](https://dai-ictgeo.github.io/covid_19_part_1/#Medical-Condition-D:-Hypertension) ([Bloomberg News](https://www.bloomberg.com/news/articles/2020-03-09/top-virus-doctor-says-high-blood-pressure-is-major-death-risk))
 
-   **Datasets & Analysis**
+**Data & Analysis**
 
-   Our analysis pulls from publicly available datasets from a variety of official and reliable data sources. We have aggregated the datasets outlined below, as well as others, in a Google Sheet. For the sake of transparency and collaboration, this [data set is public](https://docs.google.com/spreadsheets/d/1eeg9dpIlP9jENJsp-cWY51Kw8fojpLnh6mhxORCTPL8/edit?usp=sharing).
+Our analysis pulls from publicly available datasets from a variety of official and reliable data sources. We have aggregated the datasets outlined below, as well as others, in a Google Sheet. For the sake of transparency and collaboration, this [data set is public](https://docs.google.com/spreadsheets/d/1eeg9dpIlP9jENJsp-cWY51Kw8fojpLnh6mhxORCTPL8/edit?usp=sharing).
