@@ -3,7 +3,8 @@ title: 'COVID-19: Looking for Helpers in the Hardware Community'
 date: 2020-03-18 09:01:00 -04:00
 tags:
 - Hardware
-- Innovation
+- Digital Health
+- COVID-19
 Author: Rob Ryan-Silva
 social-image: "/uploads/CDC-coronavirus-image-23311-for-web.jpg"
 thumbnail: "/uploads/CDC-coronavirus-image-23311-for-web.jpg"
