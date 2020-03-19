@@ -7,6 +7,8 @@ tags:
 - Global Health
 - Data Visualization
 Author: CDA Analytics Team
+social-image: "/uploads/sars-cov-19.jpg"
+thumbnail: "/uploads/sars-cov-19.jpg"
 ---
 
 ### *[Click here](https://dai-ictgeo.github.io/covid_19_part_1/) for the full analysis*
