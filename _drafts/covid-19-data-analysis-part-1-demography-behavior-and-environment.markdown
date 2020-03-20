@@ -23,7 +23,7 @@ As COVID-19 continues to spread across the world, one of the greatest challenges
 
 Information from the earliest confirmed cases of COVID-19 indicates that some groups of people are at a higher risk for infection than others. Public health organizations like the World Health Organization and Centers for Disease Control and Prevention have [released warnings](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) for those at higher risk to take extra precautionary measures. To help DAI and other global development organizations better understand vulnerabilities in the communities in which they work, the DAI Global Health and the Center for Digital Acceleration are tracking these risk factors, in addition to other potential correlates to mortality.
 
-In this first of a multi-part series, we will keep an updated record of demographic, socio-economic, personal health, and environmental factors that are perceived to being correlated with heightened risk of mortality, and identify known country and subnational datasets that can help us identify regions at risk. We will supplement this analysis with charts and maps. This document will be updated over time.
+In this first post of the series, we will keep an updated record of demographic, socio-economic, personal health, and environmental factors that are perceived to being correlated with heightened risk of mortality, and identify known country and subnational datasets that can help us identify regions at risk. We will supplement this analysis with charts and maps. This document will be updated over time.
 
 # **Theories**
 
