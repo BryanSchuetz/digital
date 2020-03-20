@@ -25,7 +25,7 @@ Information from the earliest confirmed cases of COVID-19 indicates that some gr
 
 In this first post of the series, we will keep an updated record of demographic, socio-economic, personal health, and environmental factors that are perceived to being correlated with heightened risk of mortality, and identify known country and subnational datasets that can help us identify regions at risk. We will supplement this analysis with charts and maps. This document will be updated over time.
 
-# **Current Theories**
+## Current Theories
 
 Below is a list of factors that have emerged as known drivers of increasing risk of mortality. Some of these theories are based on information released by official public health bodies while others are factors that could be proxies. As we learn more about possible drivers from the medical community, we will update this analysis with new datasets when possible.
 
