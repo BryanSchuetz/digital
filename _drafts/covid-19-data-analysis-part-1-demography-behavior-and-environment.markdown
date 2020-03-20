@@ -67,13 +67,15 @@ Our analysis pulls from publicly available datasets from a variety of official a
 
 Age has been noted by all official public health organizations as a risk for getting very sick from COVID-19, specifically older adults. Data from the earliest cases in China, Italy, and South Korea have shown that case fatality ratios are higher among older adults. Using data from the World Bank in 2018, we looked at the percentage of the population aged 65 years old and older in each country. The map below shows the global distribution of these older adults - the darker color indicates a larger percentage of the country population while the lighter indicates a smaller percentage.
 
-![pop_over_65.png](/uploads/pop_over_65.png)
+![Capture-9b6056.PNG](/uploads/Capture-9b6056.PNG)
 
 Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6% while Italy ranks second in the world with over 22.8% of the country aged 65 years or older. Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0-13% of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults - indicated by the second peak in the graph - ranging between 15-20% of the country population.
 
 ![pop_over_65_bar.png](/uploads/pop_over_65_bar.png)
 
 Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0-13% of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults - indicated by the second peak in the graph - ranging between 15-20% of the country population.
+
+![pop_over_65_hist-c2c105.png](/uploads/pop_over_65_hist-c2c105.png)
 
 ### Factor 2: Smoking
 
@@ -87,6 +89,8 @@ In the graph below, the top twenty-five countries in smoking prevalence all fall
 
 ![Smoking_bar.png](/uploads/Smoking_bar.png)
 
+[Capture-f3b86f.PNG](/uploads/Capture-f3b86f.PNG)
+
 ### Factor 3: Air Pollution
 
 For many of the same reasons mentioned with regards to smoking, exposure to air pollution is a major concern as it relates to coronavirus. The PM2.5 air pollution, mean annual exposure (micrograms per cubic meter) of the Global Burden of Disease Study (2017) provides some indication of which countries are at particular risk.
@@ -98,6 +102,8 @@ Exposure to air pollution has a significant amount of variance between countries
 The graph below displaying the top countries by exposure to air pollution shows a different set of countries than before. There is greater representation of low and middle-income countries in this graph. In some cases, this can be attributable to the greater economic presence of heavy industry in these countries. Several countries where DAI has a strong presence have particularly high air pollution exposure, including Nepal, Uganda, Libya, Iraq, Pakistan, Egypt, Nigeria, and Afghanistan.
 
 ![Air Pollution_bar.png](/uploads/Air%20Pollution_bar.png)
+
+![pop_over_65-15cd69.PNG](/uploads/pop_over_65-15cd69.PNG)
 
 Finally, it is worth noting potential identification issues and the presence of mediating factors in dealing with this variable. Several other variables, most notably the percent of labor force working in industry and population density, are all correlated at the country level. At a more granular level, it remains unclear how these factors will interact and what effect they will have on infection and case fatality ratios. Will individuals working in industry living in these countries be at greater risk than those who do not? Will countries with a greater population density suffer more infections, thereby leading to higher case fatalities for countries with worse air quality?  Only with more data will we be able to answer this question more precisely.
 
@@ -119,16 +125,23 @@ We pulled data from the Global Burden of Disease Study 2017 on Disability Adjust
 
 The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that Eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
 
-Our last look at the burden of disease of cardiovascular disease indicates a large group of countries with DALYs falling in the 0.10-0.20 range. There are progessively fewer countries that have DALYs higher than 0.20.
+[cardio.PNG](/uploads/cardio.PNG)
+
+From our country rankings below, we can see that many countries that have high disease burden are in Eastern Europe, including Bulgaria, Ukraine, and Georgia. Guam is the only country in the top 25 countries that is not located in Eastern/Southern Europe.
 
 ![DALYs, Cardiovascular Disease (2017)_hist.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_hist.png)
+
+Our last look at the burden of disease of cardiovascular disease indicates a large group of countries with DALYs falling in the 0.10-0.20 range. There are progessively fewer countries that have DALYs higher than 0.20.
+
 ![DALYs, Cardiovascular Disease (2017)_bar.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_bar.png)
 
 ### Medical Condition B: Respiratory Condition
 
 Respiratory conditions put people at higher risk for COVID-19. [Symptoms of the virus](https://www.sciencedirect.com/science/article/pii/S0896841120300469?via%3Dihub) include pneumonia, sneezing, and sore throat - all conditions that affect the respiratory system. We used data from the Global Burden of Disease Study 2017 to identify disease burden (measured in DALYs) due to all chronic respiratory diseases. This broader category of diseases includes silicosis, asthma, and lung disease.
 
-No major trends appear in the map below. We can see a mild concentration of respiratory conditions in Southeast Asia. North Korea and Papua New Guinea, however, are most affected by these conditions.
+No major pattern appear in the map below. We can see a mild concentration of respiratory conditions in Southeast Asia. North Korea and Papua New Guinea, however, are most affected by these conditions.
+
+[respi.PNG](/uploads/respi.PNG)
 
 In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high, low, and middle-income countries from around the globe
 
@@ -142,15 +155,27 @@ The histogram below shows us that the majority of countries have a disease burde
 
 We pulled data from the World Bank on country prevalence of diabetes, include both type 1 and type 2 diabetes. In the chart below showing the 25 countries with the highest prevalence of diabetes, the overwhelming majority are island nations including Marshall Islands, Kiribati, Tuvalu, and Mauritius. Marshall Islands has the highest diabetes prevalence at over 30%.
 
+![Prevalence Diabetes (2019)_bar.png](/uploads/Prevalence%20Diabetes%20(2019)_bar.png)
+
 Our map below does not give too much more information about country-specific prevalence - the islands are too small to clearly see at the global level!
 
+[diabetes.PNG](/uploads/diabetes.PNG)
+
 The histogram below shows a right-skewed distribution - most countries in the data have a prevalence below \~13%.
+
+![Prevalence Diabetes (2019)_hist.png](/uploads/Prevalence%20Diabetes%20(2019)_hist.png)
 
 ## Medical Condition D: Hypertension
 
 Hypertension, also known as high blood pressure, is the last medical condition that we decided to explore. The measure we used is the percentage of country population that has high blood pressure, according to the WHO guidelines (Systolic BP≥140 or Diastolic BP ≥90). Eastern Europe and Sub-Saharan Africa have, regionally, higher percentages of hypertension.
 
+[hypertension.PNG](/uploads/hypertension.PNG)
+
+![Percent High Blood Pressure (2015)_bar.png](/uploads/Percent%20High%20Blood%20Pressure%20(2015)_bar.png)
+
 The histogram has a different distribution than the other medical conditions we explored. For the previous conditions, most countries and clustered in the lower range of the indicator with a few country outliers measuring on the higher side. In this case, a few countries have a prevalence of less than 18 percent while the majority of countries are experiencing hypertension prevalence of about 18 to 32%.
+
+![Percent High Blood Pressure (2015)_hist.png](/uploads/Percent%20High%20Blood%20Pressure%20(2015)_hist.png)
 
 ## Next Steps
 
