@@ -89,7 +89,7 @@ In the graph below, the top twenty-five countries in smoking prevalence all fall
 
 ![Smoking_bar.png](/uploads/Smoking_bar.png)
 
-[Capture-f3b86f.PNG](/uploads/Capture-f3b86f.PNG)
+![Capture-f3b86f.PNG](/uploads/Capture-f3b86f.PNG)
 
 ### Factor 3: Air Pollution
 
@@ -125,7 +125,7 @@ We pulled data from the Global Burden of Disease Study 2017 on Disability Adjust
 
 The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that Eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
 
-[cardio.PNG](/uploads/cardio.PNG)
+![cardio.PNG](/uploads/cardio.PNG)
 
 From our country rankings below, we can see that many countries that have high disease burden are in Eastern Europe, including Bulgaria, Ukraine, and Georgia. Guam is the only country in the top 25 countries that is not located in Eastern/Southern Europe.
 
@@ -141,7 +141,7 @@ Respiratory conditions put people at higher risk for COVID-19. [Symptoms of the 
 
 No major pattern appear in the map below. We can see a mild concentration of respiratory conditions in Southeast Asia. North Korea and Papua New Guinea, however, are most affected by these conditions.
 
-[respi.PNG](/uploads/respi.PNG)
+![respi.PNG](/uploads/respi.PNG)
 
 In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high, low, and middle-income countries from around the globe
 
@@ -159,7 +159,7 @@ We pulled data from the World Bank on country prevalence of diabetes, include bo
 
 Our map below does not give too much more information about country-specific prevalence - the islands are too small to clearly see at the global level!
 
-[diabetes.PNG](/uploads/diabetes.PNG)
+![diabetes.PNG](/uploads/diabetes.PNG)
 
 The histogram below shows a right-skewed distribution - most countries in the data have a prevalence below \~13%.
 
