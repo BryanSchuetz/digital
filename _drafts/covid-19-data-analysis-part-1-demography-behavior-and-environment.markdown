@@ -27,7 +27,7 @@ According to the [UNDP](https://www.europe.undp.org/content/geneva/en/home/partn
 
 Here we are focusing only on COVID-19, risk factors that are applicable to this particular virus, and how it will affect the general population.  We will supplement this analysis with charts and maps. This document will also be updated over time as we learn more.
 
-If you have ideas of datasets and sources that you think would be useful to include in this work, please email our team at [cda_products@dai.com](cda_products@dai.com).
+If you have ideas of datasets and sources that you think would be useful to include in this work, please email our team at [digital@dai.com](digital@dai.com).
 
 ## Current Theories
 
