@@ -15,7 +15,7 @@ thumbnail: "/uploads/sars-cov-19.jpg"
 
 <!--more-->
 
-## **Background**
+## Background
 
 As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and case fatality. We will learn more about the virus and the populations most at risk as test kits arrive in the hands of physicians. Ideally, this information will be used to target response efforts at populations most in need, guide policy decisions, inform the donor community, and support decision-making by organizations whose work spans multiple countries. As a global development company with projects [all over the world](https://www.dai.com/extras/maps/index.html), this kind of information is invaluable as we think about ways to support our staff and prepare for what comes next.
 
