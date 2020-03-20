@@ -169,7 +169,7 @@ The histogram below shows a right-skewed distribution - most countries in the da
 
 Hypertension, also known as high blood pressure, is the last medical condition that we decided to explore. The measure we used is the percentage of country population that has high blood pressure, according to the WHO guidelines (Systolic BP≥140 or Diastolic BP ≥90). Eastern Europe and Sub-Saharan Africa have, regionally, higher percentages of hypertension.
 
-[hypertension.PNG](/uploads/hypertension.PNG)
+![hypertension.PNG](/uploads/hypertension.PNG)
 
 ![Percent High Blood Pressure (2015)_bar.png](/uploads/Percent%20High%20Blood%20Pressure%20(2015)_bar.png)
 
