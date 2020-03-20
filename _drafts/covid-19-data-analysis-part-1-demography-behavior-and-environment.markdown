@@ -29,7 +29,7 @@ In this first post of the series, we will keep an updated record of demographic,
 
 Below is a list of factors that have emerged as known drivers of increasing risk of mortality. Some of these theories are based on information released by official public health bodies while others are factors that could be proxies. As we learn more about possible drivers from the medical community, we will update this analysis with new datasets when possible.
 
-1. [Factor 1: Age](https://dai-ictgeo.github.io/covid_19_part_1/#Factor-1:-Age) - People over the age of 65\+ are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+1. [Factor 1: Age](https://dai-ictgeo.github.io/covid_19_part_1/#Factor-1:-Age): People over the age of 65 are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
 
 2. [Factor 2: Smoking](https://dai-ictgeo.github.io/covid_19_part_1/#Factor-2:-Smoking) - People who smoke are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
 
