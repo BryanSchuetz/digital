@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Mar 2020 12:10:15 -0400</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2020 12:10:15 -0400</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2020 12:21:11 -0400</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2020 12:21:11 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -24,6 +24,10 @@
         <category>Global Health</category>
         
         <category>Data Visualization</category>
+        
+        <category>Digital Health</category>
+        
+        <category>COVID-19</category>
         
         
         <category>Global Health</category>
