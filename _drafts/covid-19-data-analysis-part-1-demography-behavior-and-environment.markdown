@@ -79,7 +79,7 @@ What does the data tell us? Compared to the histogram of countries with populati
 
 ![Smoking_hist.png](/uploads/Smoking_hist.png)
 
-In the graph below, the top twenty-five countries in smoking prevalence all fall above the 30% line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, MENA, and Eastern and Southern Europe regions. While most countries in this graph do not appear in the Age \+65 section, there are a few notable exceptions from Southern and Eastern Europe. Among others, Greece, Bulgaria, Estonia, Hungary, and Germany all might face increased stress as the number of cases intensify.
+In the graph below, the top 25 countries in smoking prevalence all fall above the 30 percent line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, Middle East and North Africa, and eastern and southern Europe regions. While most countries in this graph do not appear in the Age +65 section, there are a few notable exceptions from southern and eastern Europe. Among others, Bulgaria, Estonia, Germany, Greece, and Hungary all might face increased stress as the number of cases intensify.
 
 ![Smoking_bar.png](/uploads/Smoking_bar.png)
 
@@ -89,17 +89,17 @@ In the graph below, the top twenty-five countries in smoking prevalence all fall
 
 For many of the same reasons mentioned with regards to smoking, exposure to air pollution is a major concern as it relates to coronavirus. The PM2.5 air pollution, mean annual exposure (micrograms per cubic meter) of the Global Burden of Disease Study (2017) provides some indication of which countries are at particular risk.
 
-Exposure to air pollution has a significant amount of variance between countries, as the histogram below displays. While the majority of countries are below 25%, a significant amount of outliers remain.
+Exposure to air pollution has a significant amount of variance between countries, as the histogram below displays. While the majority of countries are below 25 percent, a significant amount of outliers remain.
 
 ![Air Pollution_hist.png](/uploads/Air%20Pollution_hist.png)
 
-The graph below displaying the top countries by exposure to air pollution shows a different set of countries than before. There is greater representation of low and middle-income countries in this graph. In some cases, this can be attributable to the greater economic presence of heavy industry in these countries. Several countries where DAI has a strong presence have particularly high air pollution exposure, including Nepal, Uganda, Libya, Iraq, Pakistan, Egypt, Nigeria, and Afghanistan.
+The graph below displaying the top countries by exposure to air pollution shows a different set of countries than before. There is greater representation of low- and middle-income countries in this graph. In some cases, this can be attributable to the greater economic presence of heavy industry in these countries. Several countries where DAI has a strong presence have particularly high air pollution exposure, including Afghanistan, Egypt, Iraq, Libya, Nepal, Nigeria, Pakistan, and Uganda.
 
 ![Air Pollution_bar.png](/uploads/Air%20Pollution_bar.png)
 
 ![pop_over_65-15cd69.PNG](/uploads/pop_over_65-15cd69.PNG)
 
-Finally, it is worth noting potential identification issues and the presence of mediating factors in dealing with this variable. Several other variables, most notably the percent of labor force working in industry and population density, are all correlated at the country level. At a more granular level, it remains unclear how these factors will interact and what effect they will have on infection and case fatality ratios. Will individuals working in industry living in these countries be at greater risk than those who do not? Will countries with a greater population density suffer more infections, thereby leading to higher case fatalities for countries with worse air quality?  Only with more data will we be able to answer this question more precisely.
+It is worth noting potential identification issues and the presence of mediating factors in dealing with this variable. Several other variables, most notably the percent of labor force working in industry and population density, are all correlated at the country level. At a more granular level, it remains unclear how these factors will interact and what effect they will have on infection and case fatality ratios. Will individuals working in industry living in these countries be at greater risk than those who do not? Will countries with a greater population density suffer more infections, thereby leading to higher case fatalities for countries with worse air quality?  Only with more data will we be able to answer this question more precisely.
 
 ## Underlying Medical Conditions
 
