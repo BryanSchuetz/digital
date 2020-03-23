@@ -25,33 +25,29 @@ In this first of a series, we are keeping an updated record of demographic, soci
 
 Our goal with this series is not re-invent the wheel. Indices that measure risk and vulnerability do already exist—namely, the [RAND Corporation Infectious Disease Vulnerability Index](https://www.rand.org/pubs/research_reports/RR1605.html) and [INFORM (Index for Risk Management)](https://drmkc.jrc.ec.europa.eu/inform-index/) from the European Commission. Both of these indices are currently being used globally to identify vulnerable countries and regions. So why is our approach to assessing COVID-19 risk different?
 
-According to the [UNDP](https://www.europe.undp.org/content/geneva/en/home/partnerships/inform--index-for-risk-management-.html), INFORM is "the first global, open-source tool for assessing the risk of humanitarian crises by country." The index is calculated based on three components—hazard and exposure, vulnerability, and lack of coping capacity. INFORM takes into consideration a variety of different types of hazard and exposure including natural disasters and human hazards (violence) but does not include biological hazards like epidemics or pandemics. [The RAND Index](https://www.rand.org/pubs/research_reports/RR1605.html), on the other hand, focuses entirely on vulnerabilities due to these biological hazards. RAND uses data from six different domains to calculate countries' vulnerability scores: health care, demographic, political-domestic, political-international, disease dynamics, economic, and public health. This index, however, assesses a country's ability to prevent/contain an outbreak and not the risk of an outbreak to the country population. It also does not look at any specific disease. In the case of COVID-19, a disease with demographic and medical risk factors, we believed that these factors must be taken into consideration when evaluating risk.
+According to the [UNDP](https://www.europe.undp.org/content/geneva/en/home/partnerships/inform--index-for-risk-management-.html), INFORM is "the first global, open-source tool for assessing the risk of humanitarian crises by country." The index is calculated based on three components—hazard and exposure, vulnerability, and lack of coping capacity. INFORM takes into consideration a variety of hazards and exposure, including natural disasters and human hazards (violence) but does not include biological hazards such as epidemics or pandemics. [The RAND Index](https://www.rand.org/pubs/research_reports/RR1605.html), on the other hand, focuses entirely on vulnerabilities due to these biological hazards. RAND uses data from six different domains to calculate countries' vulnerability scores: demographic, political-domestic, political-international, disease dynamics, economic, and public health. This index, however, assesses a country's ability to prevent and contain an outbreak and not the risk of an outbreak to the country population. It also does not look at any specific disease. In the case of COVID-19, a disease with demographic and medical risk factors, we believe that these factors must be taken into consideration when evaluating risk.
 
-Here we are focusing only on COVID-19, risk factors that are applicable to this particular virus, and how it will affect the general population.  We will supplement this analysis with charts and maps. This document will also be updated over time as we learn more.
+Here we are focusing only on COVID-19, risk factors that are applicable to this particular virus, and how it will affect the general population. We will supplement this analysis with charts and maps. This document will also be updated over time as we learn more.
 
 If you have ideas of datasets and sources that you think would be useful to include in this work, please email our team at [digital@dai.com](digital@dai.com).
 
 ## Current Theories
 
-Below is a list of factors that have emerged as known drivers of increasing risk of mortality. Some of these theories are based on information released by official public health bodies while others are factors that could be proxies. As we learn more about possible drivers from the medical community, we will update this analysis with new datasets when possible.
+Below is a list of factors that have emerged as known drivers of increasing risk of mortality. Some of these theories are based on information released by official public health bodies, while others are factors that could be proxies. As we learn more about possible drivers from the medical community, we will update this analysis with new datasets when possible.
 
-1. [Factor 1: Age](#Factor-1:-Age) - People over the age of 65\+ are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+1. [Factor 1: Age](#Factor-1:-Age)—People over the age of 65 are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
 
-2. [Factor 2: Smoking](#Factor-2:-Smoking) - People who smoke are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+2. [Factor 2: Smoking](#Factor-2:-Smoking)—Smokers are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
 
-3. [Factor 3: Air Pollution](#Factor-3:-Air-Pollution) ([The Guardian](https://www.theguardian.com/environment/2020/mar/17/air-pollution-likely-to-increase-coronavirus-death-rate-warn-experts)) - People living in countries with higher air pollution are at higher risk
+3. [Factor 3: Air Pollution](#Factor-3:-Air-Pollution) ([The Guardian](https://www.theguardian.com/environment/2020/mar/17/air-pollution-likely-to-increase-coronavirus-death-rate-warn-experts)) —People living in countries with higher air pollution are at higher risk
 
 4. Factor Grouping 4: Medical Conditions: People who have serious chronic medical conditions are at higher risk. These conditions include:
+* [Heart disease](#Medical-Condition-A:-Cardiovascular-Disease) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+* [Lung disease](#Medical-Condition-B:-Respiratory-Condition) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+* [Diabetes](#Medical-Condition-C:-Diabetes) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+* [Hypertension](#Medical-Condition-D:-Hypertension) ([Bloomberg News](https://www.bloomberg.com/news/articles/2020-03-09/top-virus-doctor-says-high-blood-pressure-is-major-death-risk))
 
-5. [Heart disease](#Medical-Condition-A:-Cardiovascular-Disease) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
-
-6. [Lung disease](#Medical-Condition-B:-Respiratory-Condition) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
-
-7. [Diabetes](#Medical-Condition-C:-Diabetes) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
-
-8\.. [Hypertension](#Medical-Condition-D:-Hypertension) ([Bloomberg News](https://www.bloomberg.com/news/articles/2020-03-09/top-virus-doctor-says-high-blood-pressure-is-major-death-risk))
-
-## Datasets & Analysis
+## Datasets and Analysis
 
 Our analysis pulls from publicly available datasets from a variety of official and reliable data sources. We have aggregated the datasets outlined below, as well as others, in a Google Sheet. For the sake of transparency and collaboration, this [dataset is public](https://docs.google.com/spreadsheets/d/1eeg9dpIlP9jENJsp-cWY51Kw8fojpLnh6mhxORCTPL8/edit?usp=sharing).
 
