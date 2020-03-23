@@ -4,7 +4,6 @@ date: 2020-03-23 11:30:00 -04:00
 categories:
 - Global Health
 tags:
-- Global Health
 - Data Visualization
 - Digital Health
 - COVID-19
