@@ -69,11 +69,11 @@ Our analysis pulls from publicly available datasets from a variety of official a
 
 Age has been noted by all official public health organizations as a risk for getting very sick from COVID-19. Data from the earliest cases in China, Italy, and South Korea have shown that case fatality ratios are higher among older adults. Using data from the World Bank in 2018, we looked at the percentage of the population aged 65 years old and older in each country. The map below shows the global distribution of these older adults—the darker color indicates a larger percentage of the country population while the lighter indicates a smaller percentage.
 
-![Capture-9b6056.PNG](/uploads/Capture-9b6056.PNG)
+![Capture-1381e9.PNG](/uploads/Capture-1381e9.PNG)
 
-Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent and Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older. 
+Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent and Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older.
 
-![pop_over_65_bar.png](/uploads/pop_over_65_bar.png)
+![pop_over_65_bar-4c5143.png](/uploads/pop_over_65_bar-4c5143.png)
 
 Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0 and 13 percent of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults—indicated by the second peak in the graph—ranging between 15 and 20 percent of the country population.
 
@@ -102,6 +102,8 @@ Exposure to air pollution has a significant amount of variance between countries
 ![Air Pollution_hist.png](/uploads/Air%20Pollution_hist.png)
 
 The graph below displaying the top countries by exposure to air pollution shows a different set of countries than before. There is greater representation of low- and middle-income countries in this graph. In some cases, this can be attributable to the greater economic presence of heavy industry in these countries. Several countries where DAI has a strong presence have particularly high air pollution exposure, including Afghanistan, Egypt, Iraq, Libya, Nepal, Nigeria, Pakistan, and Uganda.
+
+![Air Pollution_bar-f78092.png](/uploads/Air%20Pollution_bar-f78092.png)
 
 ![pop_over_65-15cd69.PNG](/uploads/pop_over_65-15cd69.PNG)
 
