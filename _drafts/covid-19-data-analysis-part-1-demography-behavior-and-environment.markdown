@@ -11,7 +11,7 @@ social-image: "/uploads/sars-cov-19.jpg"
 thumbnail: "/uploads/sars-cov-19.jpg"
 ---
 
-*This article was written by DAI's Gratiana Fu, with contributions from Greg Maly, and Jamie Parr. This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and sub-national populations most at risk for infection and case-fatality. The analysis will be updated as we receive additional data.*
+*This article was written by DAI's [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/), with contributions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/), and [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/). This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and sub-national populations most at risk for infection and case-fatality. The analysis will be updated as we receive additional data.*
 
 <!--more-->
 
