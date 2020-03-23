@@ -105,35 +105,32 @@ It is worth noting potential identification issues and the presence of mediating
 
 In addition to these demographic and external factors, the [WHO released warnings](https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/be-safe.jpg) to people with underlying medical conditions to avoid crowded places as these conditions put people at greater risk for infection and death. These conditions specifically noted:
 
-1. Cardiovascular (Heart) disease
+* Cardiovascular (heart) disease
+* Respiratory condition
+* Diabetes
+* Hypertension
 
-2. Respiratory condition
-
-3. Diabetes
-
-4. Hypertension
-
-We pulled data from the Global Burden of Disease Study 2017 on Disability Adjusted Life Years (DALYs) lost due to cardiovascular disease and chronic respiratory disease and World Bank data from 2019 on country prevalence of type 1 & 2 diabetes. DALYs are a commonly used measure of disease burden expressed as the number of years lost due to illness, disability, or early death.
+We pulled data from the Global Burden of Disease Study 2017 on Disability Adjusted Life Years (DALYs) lost due to cardiovascular disease and chronic respiratory disease and World Bank data from 2019 on country prevalence of type 1 and 2 diabetes. DALYs are a commonly used measure of disease burden expressed as the number of years lost due to illness, disability, or early death.
 
 ### Medical Condition A: Cardiovascular Disease
 
-The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that Eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
+The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
 
 ![cardio.PNG](/uploads/cardio.PNG)
 
-From our country rankings below, we can see that many countries that have high disease burden are in Eastern Europe, including Bulgaria, Ukraine, and Georgia. Guam is the only country in the top 25 countries that is not located in Eastern/Southern Europe.
+From our country rankings below, we can see that many countries that have high disease burden are in eastern Europe, including Bulgaria, Georgia, and Ukraine. Guam is the only country in the top 25 countries that is not in eastern or southern Europe.
 
 ![DALYs, Cardiovascular Disease (2017)_hist.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_hist.png)
 
-Our last look at the burden of disease of cardiovascular disease indicates a large group of countries with DALYs falling in the 0.10-0.20 range. There are progessively fewer countries that have DALYs higher than 0.20.
+Our last look at the burden of disease of cardiovascular disease indicates a large group of countries with DALYs falling in the 0.10-0.20 range. There are progressively fewer countries that have DALYs higher than 0.20.
 
 ![DALYs, Cardiovascular Disease (2017)_bar.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_bar.png)
 
 ### Medical Condition B: Respiratory Condition
 
-Respiratory conditions put people at higher risk for COVID-19. [Symptoms of the virus](https://www.sciencedirect.com/science/article/pii/S0896841120300469?via%3Dihub) include pneumonia, sneezing, and sore throat - all conditions that affect the respiratory system. We used data from the Global Burden of Disease Study 2017 to identify disease burden (measured in DALYs) due to all chronic respiratory diseases. This broader category of diseases includes silicosis, asthma, and lung disease.
+Respiratory conditions put people at higher risk for COVID-19. [Symptoms of the virus](https://www.sciencedirect.com/science/article/pii/S0896841120300469?via%3Dihub) include pneumonia, sneezing, and sore throat—all conditions that affect the respiratory system. We used data from the Global Burden of Disease Study 2017 to identify disease burden (measured in DALYs) due to all chronic respiratory diseases. This broader category of diseases includes silicosis, asthma, and lung disease.
 
-No major pattern appear in the map below. We can see a mild concentration of respiratory conditions in Southeast Asia. North Korea and Papua New Guinea, however, are most affected by these conditions.
+No major patterns appear in the map below. We can see a mild concentration of respiratory conditions in Southeast Asia. North Korea and Papua New Guinea, however, are most affected by these conditions.
 
 ![respi.PNG](/uploads/respi.PNG)
 
