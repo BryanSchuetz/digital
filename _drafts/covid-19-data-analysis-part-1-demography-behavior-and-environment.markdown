@@ -114,11 +114,11 @@ We pulled data from the Global Burden of Disease Study 2017 on Disability Adjust
 
 ## Medical Condition A: Cardiovascular Disease
 
-The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
+The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that Eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
 
 ![cardio.PNG](/uploads/cardio.PNG)
 
-From our country rankings below, we can see that many countries that have high disease burden are in eastern Europe, including Bulgaria, Georgia, and Ukraine. Guam is the only country in the top 25 countries that is not in eastern or southern Europe.
+From our country rankings below, we can see that many countries that have high disease burden are in Eastern Europe, including Bulgaria, Georgia, and Ukraine. Guam is the only country in the top 25 countries that is not in Eastern or Southern Europe.
 
 ![DALYs, Cardiovascular Disease (2017)_hist.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_hist.png)
 
