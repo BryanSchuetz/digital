@@ -103,7 +103,7 @@ Exposure to air pollution has a significant amount of variance between countries
 
 The graph below displaying the top countries by exposure to air pollution shows a different set of countries than before. There is greater representation of low- and middle-income countries in this graph. In some cases, this can be attributable to the greater economic presence of heavy industry in these countries. Several countries where DAI has a strong presence have particularly high air pollution exposure, including Afghanistan, Egypt, Iraq, Libya, Nepal, Nigeria, Pakistan, and Uganda.
 
-![Air Pollution_bar-f78092.png](/uploads/Air%20Pollution_bar-f78092.png)
+![Air Pollution_bar-5b8e72.png](/uploads/Air%20Pollution_bar-5b8e72.png)
 
 ![pop_over_65-15cd69.PNG](/uploads/pop_over_65-15cd69.PNG)
 
