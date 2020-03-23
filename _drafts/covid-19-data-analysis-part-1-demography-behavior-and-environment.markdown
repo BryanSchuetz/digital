@@ -71,7 +71,11 @@ Age has been noted by all official public health organizations as a risk for get
 
 ![Capture-9b6056.PNG](/uploads/Capture-9b6056.PNG)
 
-Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent and Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older. Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0 and 13 percent of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults—indicated by the second peak in the graph—ranging between 15 and 20 percent of the country population.
+Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent and Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older. 
+
+![pop_over_65_bar.png](/uploads/pop_over_65_bar.png)
+
+Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0 and 13 percent of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults—indicated by the second peak in the graph—ranging between 15 and 20 percent of the country population.
 
 ![pop_over_65_hist-c2c105.png](/uploads/pop_over_65_hist-c2c105.png)
 
