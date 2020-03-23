@@ -75,7 +75,7 @@ Here we've ranked the top 25 countries by their population percentage of older a
 
 Research on confirmed cases in China indicates that individuals with cardiovascular and respiratory conditions caused by tobacco use or otherwise are at higher risk of developing severe COVID-19 symptoms and the crude fatality ratio is significantly higher among those with cardiovascular or chronic respiratory disease than those with [no pre-existing medical conditions](http://www.emro.who.int/tfi/know-the-truth/tobacco-and-waterpipe-users-are-at-increased-risk-of-covid-19-infection.html). Consequently, one may expect countries with higher prevalence of smoking to also be at greater risk in suffering increased pressure on their health systems in responding to COVID-19.
 
-What does the data tell us? Compared to the histogram of countries with populations of people over 65 years, this indicator has a more normal distribution in which the majority of countries are clustered in the 20 to 30 percent range.
+What does the data tell us? Compared to the histogram of countries with populations of people 65 and older, this indicator has a more normal distribution in which the majority of countries are clustered in the 20 to 30 percent range.
 
 ![Smoking_hist.png](/uploads/Smoking_hist.png)
 
