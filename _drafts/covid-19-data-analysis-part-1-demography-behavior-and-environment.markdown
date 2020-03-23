@@ -17,7 +17,7 @@ thumbnail: "/uploads/sars-cov-19.jpg"
 
 ## Background
 
-As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and case fatality. We will learn more about the virus and the populations most at risk as test kits arrive in the hands of physicians. Ideally, this information will be used to target response efforts at populations most in need, guide policy decisions, inform the donor community, and support decision-making by organizations whose work spans multiple countries. 
+As COVID-19 continues to spread across the world, one of the greatest challenges to response efforts is a lack of data and evidence about infection and case fatality. We will learn more about the virus and the populations most at risk as test kits arrive in the hands of physicians. Ideally, this information will be used to target response efforts at populations most in need, guide policy decisions, inform the donor community, and support decision-making by organizations whose work spans multiple countries.
 
 As a global development company with projects [all over the world](https://www.dai.com/extras/maps/index.html), this kind of information is invaluable as we think about ways to support our staff and prepare for what comes next. To help DAI and other global development organizations better understand vulnerabilities in the communities in which they work, DAI Global Health and the Center for Digital Acceleration have begun to develop a method to identify these vulnerabilities.
 
@@ -42,9 +42,13 @@ Below is a list of factors that have emerged as known drivers of increasing risk
 3. [Factor 3: Air Pollution](#Factor-3:-Air-Pollution) ([The Guardian](https://www.theguardian.com/environment/2020/mar/17/air-pollution-likely-to-increase-coronavirus-death-rate-warn-experts))—People living in countries with higher air pollution are at higher risk
 
 4. Factor 4: Medical Conditions—People with serious chronic medical conditions are at higher risk. These conditions include:
+
 * [Heart disease](#Medical-Condition-A:-Cardiovascular-Disease) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+
 * [Lung disease](#Medical-Condition-B:-Respiratory-Condition) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+
 * [Diabetes](#Medical-Condition-C:-Diabetes) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
+
 * [Hypertension](#Medical-Condition-D:-Hypertension) ([Bloomberg News](https://www.bloomberg.com/news/articles/2020-03-09/top-virus-doctor-says-high-blood-pressure-is-major-death-risk))
 
 ## Datasets and Analysis
@@ -79,11 +83,11 @@ What does the data tell us? Compared to the histogram of countries with populati
 
 ![Smoking_hist.png](/uploads/Smoking_hist.png)
 
-In the graph below, the top 25 countries in smoking prevalence all fall above the 30 percent line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, Middle East and North Africa, and Eastern and Southern Europe regions. While most countries in this graph do not appear in the Age +65 section, there are a few notable exceptions from Southern and Eastern Europe. Among others, Bulgaria, Estonia, Germany, Greece, and Hungary all might face increased stress as the number of cases intensify.
+In the graph below, the top 25 countries in smoking prevalence all fall above the 30 percent line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, Middle East and North Africa, and Eastern and Southern Europe regions. While most countries in this graph do not appear in the Age \+65 section, there are a few notable exceptions from Southern and Eastern Europe. Among others, Bulgaria, Estonia, Germany, Greece, and Hungary all might face increased stress as the number of cases intensify.
 
 ![Smoking_bar.png](/uploads/Smoking_bar.png)
 
-![Capture-f3b86f.PNG](/uploads/Capture-f3b86f.PNG)
+![Capture-055946.PNG](/uploads/Capture-055946.PNG)
 
 ### Factor 3: Air Pollution
 
@@ -106,8 +110,11 @@ It is worth noting potential identification issues and the presence of mediating
 In addition to these demographic and external factors, the [WHO released warnings](https://www.who.int/images/default-source/health-topics/coronavirus/social-media-squares/be-safe.jpg) to people with underlying medical conditions to avoid crowded places as these conditions put people at greater risk for infection and death. These conditions specifically noted:
 
 * Cardiovascular (heart) disease
+
 * Respiratory condition
+
 * Diabetes
+
 * Hypertension
 
 We pulled data from the Global Burden of Disease Study 2017 on Disability Adjusted Life Years (DALYs) lost due to cardiovascular disease and chronic respiratory disease and World Bank data from 2019 on country prevalence of type 1 and 2 diabetes. DALYs are a commonly used measure of disease burden expressed as the number of years lost due to illness, disability, or early death.
