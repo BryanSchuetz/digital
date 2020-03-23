@@ -112,7 +112,7 @@ In addition to these demographic and external factors, the [WHO released warning
 
 We pulled data from the Global Burden of Disease Study 2017 on Disability Adjusted Life Years (DALYs) lost due to cardiovascular disease and chronic respiratory disease and World Bank data from 2019 on country prevalence of type 1 and 2 diabetes. DALYs are a commonly used measure of disease burden expressed as the number of years lost due to illness, disability, or early death.
 
-### Medical Condition A: Cardiovascular Disease
+## Medical Condition A: Cardiovascular Disease
 
 The global distribution of DALYs due to cardiovascular diseases is shown below. From this, we can see that eastern Europe is more affected by cardiovascular diseases, indicated by the darker purple color.
 
@@ -126,7 +126,7 @@ Our last look at the burden of disease of cardiovascular disease indicates a lar
 
 ![DALYs, Cardiovascular Disease (2017)_bar.png](/uploads/DALYs,%20Cardiovascular%20Disease%20(2017)_bar.png)
 
-### Medical Condition B: Respiratory Condition
+## Medical Condition B: Respiratory Condition
 
 Respiratory conditions put people at higher risk for COVID-19. [Symptoms of the virus](https://www.sciencedirect.com/science/article/pii/S0896841120300469?via%3Dihub) include pneumonia, sneezing, and sore throat—all conditions that affect the respiratory system. We used data from the Global Burden of Disease Study 2017 to identify disease burden (measured in DALYs) due to all chronic respiratory diseases. This broader category of diseases includes silicosis, asthma, and lung disease.
 
