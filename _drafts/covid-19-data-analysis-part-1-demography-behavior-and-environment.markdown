@@ -79,7 +79,7 @@ What does the data tell us? Compared to the histogram of countries with populati
 
 ![Smoking_hist.png](/uploads/Smoking_hist.png)
 
-In the graph below, the top 25 countries in smoking prevalence all fall above the 30 percent line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, Middle East and North Africa, and eastern and southern Europe regions. While most countries in this graph do not appear in the Age +65 section, there are a few notable exceptions from southern and eastern Europe. Among others, Bulgaria, Estonia, Germany, Greece, and Hungary all might face increased stress as the number of cases intensify.
+In the graph below, the top 25 countries in smoking prevalence all fall above the 30 percent line. One aspect of smoking is many countries that share common cultural practices from the same regions appear together: there is significant representation of countries from the Oceania, Middle East and North Africa, and Eastern and Southern Europe regions. While most countries in this graph do not appear in the Age +65 section, there are a few notable exceptions from Southern and Eastern Europe. Among others, Bulgaria, Estonia, Germany, Greece, and Hungary all might face increased stress as the number of cases intensify.
 
 ![Smoking_bar.png](/uploads/Smoking_bar.png)
 
