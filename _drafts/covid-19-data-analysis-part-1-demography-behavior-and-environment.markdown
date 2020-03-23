@@ -99,7 +99,7 @@ The graph below displaying the top countries by exposure to air pollution shows 
 
 ![pop_over_65-15cd69.PNG](/uploads/pop_over_65-15cd69.PNG)
 
-It is worth noting potential identification issues and the presence of mediating factors in dealing with this variable. Several other variables, most notably the percent of labor force working in industry and population density, are all correlated at the country level. At a more granular level, it remains unclear how these factors will interact and what effect they will have on infection and case fatality ratios. Will individuals working in industry living in these countries be at greater risk than those who do not? Will countries with a greater population density suffer more infections, thereby leading to higher case fatalities for countries with worse air quality?  Only with more data will we be able to answer this question more precisely.
+It is worth noting potential identification issues and the presence of mediating factors in dealing with this variable. Several other variables, most notably the percent of labor force working in industry and population density, are all correlated at the country level. At a more granular level, it remains unclear how these factors will interact and what effect they will have on infection and case fatality ratios. Will individuals working in industry living in these countries be at greater risk than those who do not? Will countries with a greater population density suffer more infections, thereby leading to higher case fatalities for countries with worse air quality? Only with more data will we be able to answer this question more precisely.
 
 ## Underlying Medical Conditions
 
