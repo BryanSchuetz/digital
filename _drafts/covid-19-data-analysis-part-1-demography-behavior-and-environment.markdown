@@ -67,11 +67,7 @@ Age has been noted by all official public health organizations as a risk for get
 
 ![Capture-9b6056.PNG](/uploads/Capture-9b6056.PNG)
 
-Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent while Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older. Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0-13% of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults - indicated by the second peak in the graph - ranging between 15-20% of the country population.
-
-![pop_over_65_bar.png](/uploads/pop_over_65_bar.png)
-
-Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0-13% of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults - indicated by the second peak in the graph - ranging between 15-20% of the country population.
+Here we've ranked the top 25 countries by their population percentage of older adults. Japan tops the list at 27.6 percent while Italy ranks second in the world with more than 22.8 percent of the country aged 65 years or older. Finally, we looked at the distribution of countries. Most countries have an older population that makes up between 0 and 13 percent of the entire country population. However, there is also a smaller group of countries with a slightly higher percentage of older adults—indicated by the second peak in the graph—ranging between 15 and 20 percent of the country population.
 
 ![pop_over_65_hist-c2c105.png](/uploads/pop_over_65_hist-c2c105.png)
 
@@ -79,7 +75,7 @@ Finally, we looked at the distribution of countries. Most countries have an olde
 
 Research on confirmed cases in China indicates that individuals with cardiovascular and respiratory conditions caused by tobacco use or otherwise are at higher risk of developing severe COVID-19 symptoms and [the crude fatality ratio is significantly higher among those with cardiovascular or chronic respiratory disease than those with no pre-existing medical conditions](http://www.emro.who.int/tfi/know-the-truth/tobacco-and-waterpipe-users-are-at-increased-risk-of-covid-19-infection.html). Consequently, one may expect countries with higher prevalence of smoking to also be at greater risk in suffering increased pressure on their health systems in responding to COVID-19.
 
-What does the data tell us? Compared to the histogram of countries with populations over 65 years, this indicator has a more normal distribution in which the majority of countries are clustered in the 20-30% range.
+What does the data tell us? Compared to the histogram of countries with populations of people over 65 years, this indicator has a more normal distribution in which the majority of countries are clustered in the 20 to 30 percent range.
 
 ![Smoking_hist.png](/uploads/Smoking_hist.png)
 
