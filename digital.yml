@@ -1,4 +1,14 @@
 
+- title: "COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment"
+  pub: "Digital"
+  date: 2020-03-18
+  link: "https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html?utm_source=daidotcom"
+  summary: "This article was written by DAI’s Gratiana Fu, with contributions from Greg Maly, and Jamie Parr. This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data."
+  tags:
+    - digital acceleration 
+    - Global Health 
+    - Data Visualization 
+
 - title: "COVID-19: Looking for Helpers in the Hardware Community"
   pub: "Digital"
   date: 2020-03-18
@@ -220,14 +230,4 @@ USAID would like to translate the report’s recommendations into an actionable 
   tags:
     - digital acceleration 
     - Innovation 
-
-- title: "Lessons Learned from Development Innovations Team: Adapt, Serve Users, and Tell Your Story"
-  pub: "Digital"
-  date: 2019-11-07
-  link: "https://dai-global-digital.com/lessons-learned-from-usaids-development-innovations-adapt-serve-users-and-tell-your-story.html?utm_source=daidotcom"
-  summary: "As an avid and committed reader of Digital@DAI, you have no doubt come across our extensive coverage of the Cambodia Development Innovations (DI) project, funded by the U.S. Agency for International Development (USAID). My colleagues have chronicled efforts to address flooding by building hardware with locally available parts, the project’s design research with civil society groups in Phnom Penh, and everything in between. With a mandate to strengthen Cambodia’s civic tech ecosystem and facilitate connections between civil society and the local tech community, DI was one of the only USAID projects that focused on technology and innovation ecosystems. But alas, all good things must come to an end—especially when the mission has been achieved and staff have worked themselves out of a job."
-  tags:
-    - digital acceleration 
-    - Innovation 
-    - Ecosystem Insights 
 
