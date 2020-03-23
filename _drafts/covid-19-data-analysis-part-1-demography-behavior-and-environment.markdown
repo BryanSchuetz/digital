@@ -39,7 +39,7 @@ Below is a list of factors that have emerged as known drivers of increasing risk
 
 2. [Factor 2: Smoking](#Factor-2:-Smoking)—Smokers are at higher risk ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
 
-3. [Factor 3: Air Pollution](#Factor-3:-Air-Pollution) ([The Guardian](https://www.theguardian.com/environment/2020/mar/17/air-pollution-likely-to-increase-coronavirus-death-rate-warn-experts)) —People living in countries with higher air pollution are at higher risk
+3. [Factor 3: Air Pollution](#Factor-3:-Air-Pollution) ([The Guardian](https://www.theguardian.com/environment/2020/mar/17/air-pollution-likely-to-increase-coronavirus-death-rate-warn-experts))—People living in countries with higher air pollution are at higher risk
 
 4. Factor Grouping 4: Medical Conditions: People who have serious chronic medical conditions are at higher risk. These conditions include:
 * [Heart disease](#Medical-Condition-A:-Cardiovascular-Disease) ([CDC](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html))
