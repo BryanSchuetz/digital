@@ -63,7 +63,7 @@ Our analysis pulls from publicly available datasets from a variety of official a
 
 ### Factor 1: Age
 
-Age has been noted by all official public health organizations as a risk for getting very sick from COVID-19, specifically older adults. Data from the earliest cases in China, Italy, and South Korea have shown that case fatality ratios are higher among older adults. Using data from the World Bank in 2018, we looked at the percentage of the population aged 65 years old and older in each country. The map below shows the global distribution of these older adults - the darker color indicates a larger percentage of the country population while the lighter indicates a smaller percentage.
+Age has been noted by all official public health organizations as a risk for getting very sick from COVID-19. Data from the earliest cases in China, Italy, and South Korea have shown that case fatality ratios are higher among older adults. Using data from the World Bank in 2018, we looked at the percentage of the population aged 65 years old and older in each country. The map below shows the global distribution of these older adults—the darker color indicates a larger percentage of the country population while the lighter indicates a smaller percentage.
 
 ![Capture-9b6056.PNG](/uploads/Capture-9b6056.PNG)
 
