@@ -6,6 +6,8 @@ categories:
 tags:
 - Global Health
 - Data Visualization
+- Digital Health
+- COVID-19
 Author: CDA Analytics Team
 social-image: "/uploads/COVID_Data_Map.png"
 thumbnail: "/uploads/COVID_Data_Map.png"
