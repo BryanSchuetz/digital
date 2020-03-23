@@ -134,7 +134,7 @@ No major patterns appear in the map below. We can see a mild concentration of re
 
 ![respi.PNG](/uploads/respi.PNG)
 
-In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high-, low-, and middle-income countries from around the globe
+In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high-, low-, and middle-income countries from around the globe.
 
 ![DALYs, Chronic Respiratory Disease (2017)_bar.png](/uploads/DALYs,%20Chronic%20Respiratory%20Disease%20(2017)_bar.png)
 
