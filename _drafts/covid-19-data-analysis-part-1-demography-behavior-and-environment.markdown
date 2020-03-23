@@ -134,37 +134,37 @@ No major patterns appear in the map below. We can see a mild concentration of re
 
 ![respi.PNG](/uploads/respi.PNG)
 
-In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high, low, and middle-income countries from around the globe
+In our country rankings, we can see more clearly which countries are more affected by these respiratory conditions. North Korea and Papua New Guinea are experiencing a much greater disease burden than the other top-ranked countries. The list of top 25 countries, however, does not appear to have a trend and includes high-, low-, and middle-income countries from around the globe
 
 ![DALYs, Chronic Respiratory Disease (2017)_bar.png](/uploads/DALYs,%20Chronic%20Respiratory%20Disease%20(2017)_bar.png)
 
-The histogram below shows us that the majority of countries have a disease burden ranging between 0-0.06 DALYs. Only \~10 countries have a disease burden greater than 0.06 DALYs.
+The histogram below shows us that the majority of countries have a disease burden ranging between 0-0.06 DALYs. Only 10 countries have a disease burden greater than 0.06 DALYs.
 
 ![DALYs, Chronic Respiratory Disease (2017)_hist.png](/uploads/DALYs,%20Chronic%20Respiratory%20Disease%20(2017)_hist.png)
 
 ## Medical Condition C: Diabetes
 
-We pulled data from the World Bank on country prevalence of diabetes, include both type 1 and type 2 diabetes. In the chart below showing the 25 countries with the highest prevalence of diabetes, the overwhelming majority are island nations including Marshall Islands, Kiribati, Tuvalu, and Mauritius. Marshall Islands has the highest diabetes prevalence at over 30%.
+We pulled data from the World Bank on country prevalence of diabetes, include both type 1 and 2 diabetes. In the chart below showing the 25 countries with the highest prevalence of diabetes, the overwhelming majority are island nations including Kiribati, Marshall Islands, Mauritius, and Tuvalu. Marshall Islands has the highest diabetes prevalence at more than 30 percent.
 
 ![Prevalence Diabetes (2019)_bar.png](/uploads/Prevalence%20Diabetes%20(2019)_bar.png)
 
-Our map below does not give too much more information about country-specific prevalence - the islands are too small to clearly see at the global level!
+Our map below does not give too much more information about country-specific prevalence—the islands are too small to clearly see at the global level.
 
 ![diabetes.PNG](/uploads/diabetes.PNG)
 
-The histogram below shows a right-skewed distribution - most countries in the data have a prevalence below \~13%.
+The histogram below shows a right-skewed distribution—most countries in the data have a prevalence below 13 percent.
 
 ![Prevalence Diabetes (2019)_hist.png](/uploads/Prevalence%20Diabetes%20(2019)_hist.png)
 
 ## Medical Condition D: Hypertension
 
-Hypertension, also known as high blood pressure, is the last medical condition that we decided to explore. The measure we used is the percentage of country population that has high blood pressure, according to the WHO guidelines (Systolic BP≥140 or Diastolic BP ≥90). Eastern Europe and Sub-Saharan Africa have, regionally, higher percentages of hypertension.
+Hypertension, also known as high blood pressure, is the last medical condition we explore. The measure we used is the percentage of country population that has high blood pressure, according to the WHO guidelines (Systolic BP≥140 or Diastolic BP ≥90). Eastern Europe and Sub-Saharan Africa have, regionally, higher percentages of hypertension.
 
 ![hypertension.PNG](/uploads/hypertension.PNG)
 
 ![Percent High Blood Pressure (2015)_bar.png](/uploads/Percent%20High%20Blood%20Pressure%20(2015)_bar.png)
 
-The histogram has a different distribution than the other medical conditions we explored. For the previous conditions, most countries and clustered in the lower range of the indicator with a few country outliers measuring on the higher side. In this case, a few countries have a prevalence of less than 18 percent while the majority of countries are experiencing hypertension prevalence of about 18 to 32%.
+The histogram has a different distribution than the other medical conditions we explored. For the previous conditions, most countries and clustered in the lower range of the indicator with a few country outliers measuring on the higher side. In this case, a few countries have a prevalence of less than 18 percent while the majority of countries are experiencing hypertension prevalence of about 18 to 32 percent.
 
 ![Percent High Blood Pressure (2015)_hist.png](/uploads/Percent%20High%20Blood%20Pressure%20(2015)_hist.png)
 
