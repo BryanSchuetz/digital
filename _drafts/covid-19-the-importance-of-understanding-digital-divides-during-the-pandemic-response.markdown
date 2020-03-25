@@ -1,6 +1,6 @@
 ---
 title: The Importance of Understanding Digital Divides During the Pandemic Response
-date: 2020-03-25 12:46:00 -04:00
+date: 2020-03-26 09:00:00 -04:00
 tags:
 - Digital Ecosystems
 - COVID-19
