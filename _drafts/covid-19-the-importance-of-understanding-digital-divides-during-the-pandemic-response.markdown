@@ -4,7 +4,7 @@ date: 2020-03-26 09:00:00 -04:00
 tags:
 - Digital Ecosystems
 - COVID-19
-- Digital Health
+- Digital Divide
 Author: Susannah Horton
 ---
 
@@ -15,6 +15,8 @@ Our work at DAI’s Center for Digital Acceleration intersects with global COVID
 I’ve been thinking a lot about how so much of my life, professional and personal, has moved online due to COVID-19 and how aside from the occasional pixelated co-worker, has been seamless. However, this is definitely not the case for everyone. This fast transition to [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html), isolation, remote work, and online over in-person communication has diverse implications for those who are not digitally included. I think COVID-19, in some ways, is a case study for why it is important to understand a country’s digital ecosystem, especially the [digital divide](https://stats.oecd.org/glossary/detail.asp?ID=4719) and issues around connectivity and access.
 
 Last month, I spent two weeks in Colombia conducting part of a digital ecosystem assessment. Across 60 interviewees ranging from civil society activists to government officials and international technology companies, a primary finding was that the country’s digital infrastructure is insufficient and contributes to a growing rural-urban digital divide. The assessment revealed that there is a clear need for coordination amongst actors to implement [innovative](https://www.worldbank.org/en/news/press-release/2019/01/24/with-innovative-business-models-we-can-make-internet-for-all-a-reality) inclusion-oriented solutions for [last-mile connectivity](https://www.worldbank.org/en/news/infographic/2016/01/13/how-networks-are-built).
+
+![ulloa_DEA_COVID.jpg](/uploads/ulloa_DEA_COVID.jpg)`A satellite dish bringing WiFi to rural Colombia. Image taken by author.`
 
 The rapid spread of COVID-19 has me reflecting on the importance of these types of assessments to informing targeted prevention, protection, response, and recovery efforts. The digital divide plays out between and within developed and developing countries in various ways. Below are some considerations in the context of the COVID-19 crisis:
 
