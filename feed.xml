@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Mar 2020 14:19:22 -0400</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2020 14:19:22 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Mar 2020 09:03:45 -0400</pubDate>
+    <lastBuildDate>Thu, 26 Mar 2020 09:03:45 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ulloa_DEA_COVID.jpg" medium="image" /> 
+        <title>The Importance of Understanding Digital Divides During the COVID-19 Response</title>
+        <description>&lt;p&gt;Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. &lt;a href=&quot;https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html&quot;&gt;Earlier this week&lt;/a&gt;, our data scientists presented an analysis of risk factors and &lt;a href=&quot;https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html&quot;&gt;last week&lt;/a&gt; we got a glimpse at the hardware community’s approach to the crisis. There is another element to our work that I think is critical to highlight—digital ecosystem assessments.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Mar 2020 09:00:00 -0400</pubDate>
+        <author>Susannah Horton
+</author>
+        <link>https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html</guid>
+        
+        <category>Digital Ecosystems</category>
+        
+        <category>COVID-19</category>
+        
+        <category>Digital Divide</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/COVID_Data_Map.png" medium="image" /> 
@@ -184,31 +205,6 @@
         <category>Digital Insights</category>
         
         <category>Ecosystem Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Design%20Thinking%20Session_cropped.jpg" medium="image" /> 
-        <title>Citizen-Centered Governance App Launches in Kabul</title>
-        <description>&lt;p&gt;&lt;em&gt;Note: This follows an earlier &lt;a href=&quot;https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html&quot;&gt;post&lt;/a&gt; that covers our pre-development human-centered design (HCD) phase.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In recent years, Kabul residents have lamented the hours-long queue to access services at their municipal office. Several weeks ago, Kabul Municipality’s solution was hard to ignore. News of a new citizen engagement app was seen displayed on 21 billboards throughout the city, broadcast on &lt;a href=&quot;https://www.youtube.com/watch?v=vqLA8GD-33I&amp;amp;feature=youtu.be&quot;&gt;local television&lt;/a&gt; and &lt;a href=&quot;http://www.outlookafghanistan.net/national_detail.php?post_id=25808&quot;&gt;online&lt;/a&gt; sites, shared on &lt;a href=&quot;https://www.facebook.com/KabulMunicipality/posts/2194828510813555&quot;&gt;social media&lt;/a&gt;, and proudly showcased by the Mayor of Kabul at a launch event that drew 250 attendees and local media.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/App%20Billboard-03.jpg&quot; alt=&quot;App Billboard-03.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Advertisement for the Kabul Municipality mobile app.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Feb 2020 07:00:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/addie-ryan/">Addie Ryan</a> and <a href="https://dai-global-digital.com/authors/trevor-olexy/">Trevor Olexy</a>
-</author>
-        <link>https://dai-global-digital.com/citizen-centered-governance-app-launches-in-kabul.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/citizen-centered-governance-app-launches-in-kabul.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Governance</category>
-        
-        <category>Mobile</category>
         
         
       </item>

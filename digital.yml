@@ -1,4 +1,15 @@
 
+- title: "The Importance of Understanding Digital Divides During the COVID-19 Response"
+  pub: "Digital"
+  date: 2020-03-26
+  link: "https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html?utm_source=daidotcom"
+  summary: "Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. Earlier this week, our data scientists presented an analysis of risk factors and last week we got a glimpse at the hardware community’s approach to the crisis. There is another element to our work that I think is critical to highlight—digital ecosystem assessments."
+  tags:
+    - digital acceleration 
+    - Digital Ecosystems 
+    - COVID-19 
+    - Digital Divide 
+
 - title: "COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment"
   pub: "Digital"
   date: 2020-03-23
@@ -220,15 +231,4 @@ Water testing locations and test results in Spa and Back Creek."
     - digital acceleration 
     - Machine Learning 
     - Data 
-
-- title: "Apply Now: Artificial Intelligence and Machine Learning in International Development"
-  pub: "Digital"
-  date: 2019-11-08
-  link: "https://dai-global-digital.com/apply-now-artificial-intelligence-and-machine-learning-in-international-development.html?utm_source=daidotcom"
-  summary: "Artificial intelligence (AI) and machine learning (ML) technologies, although still relatively new concepts, are garnering a vast amount of interest in international development across sectors and geographies. The U.S. Agency for International Development (USAID)’s Center for Digital Development (CDD)’s Strategy &amp; Research (S&amp;R) team published a report in 2018, “Reflecting the Past, Shaping the Future: Making AI work for International Development”, based on extensive research on this rapidly growing field.
-
-USAID would like to translate the report’s recommendations into an actionable format so the lessons and good practices are accessible to USAID program staff and implementing partners that may have limited familiarity with, nor time, to devote to the topic."
-  tags:
-    - digital acceleration 
-    - Innovation 
 

@@ -9,14 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Getting Started With RStudio, Part 1">
-  <meta name="twitter:description" content="This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.
-
-As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source int...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/RStudio.png">
+  <meta name="twitter:title" content="The Importance of Understanding Digital Divides During the COVID-19 Response">
+  <meta name="twitter:description" content="Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. Earlier this wee...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/ulloa_DEA_COVID.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Getting Started With RStudio, Part 1</title>
-  <meta name="description" content="This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.As a data scientist, I spend a lot of my time working in a p...">
+  <title>The Importance of Understanding Digital Divides During the COVID-19 Response</title>
+  <meta name="description" content="Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. Earlier this week, our data scientists presented an...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -26,7 +24,7 @@ As a data scientist, I spend a lot of my time working in a programming language 
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=21">
-  <link rel="canonical" href="https://dai-global-digital.com/getting-started-with-rstudio.html">
+  <link rel="canonical" href="https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -100,143 +98,50 @@ As a data scientist, I spend a lot of my time working in a programming language 
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Getting Started With RStudio, Part 1</h1>
+    <h1 class="post-title">The Importance of Understanding Digital Divides During the COVID-19 Response</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
       
     <div class="post-details">
-      <p class="post-details--date">May 24, 2018</p>
+      <p class="post-details--date">Mar 26, 2020</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
+      <p class="post-details--byline">By <a href="/authors/susannah-horton/" class="without-style">Susannah Horton
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=coding" class="without-style">Coding</a></span> • <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=digital-ecosystems" class="without-style">Digital Ecosystems</a></span> • <span class="post-topic"><a href="/tags/?tag=covid-19" class="without-style">COVID-19</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-divide" class="without-style">Digital Divide</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p><em>This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.</em></p>
-
-<p>As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R.</p>
+    <p>Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. <a href="https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html">Earlier this week</a>, our data scientists presented an analysis of risk factors and <a href="https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html">last week</a> we got a glimpse at the hardware community’s approach to the crisis. There is another element to our work that I think is critical to highlight—digital ecosystem assessments.</p>
 
 <!--more-->
 
-<p><img src="/uploads/RStudio-59a8d9.png" alt="RStudio-59a8d9.png" /></p>
+<p>I’ve been thinking a lot about how so much of my life, professional and personal, has moved online due to COVID-19 and how aside from the occasional pixelated co-worker, has been seamless. However, this is definitely not the case for everyone. This fast transition to <a href="https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html">social distancing</a>, isolation, remote work, and online over in-person communication has diverse implications for those who are not digitally included. I think COVID-19, in some ways, is a case study for why it is important to understand a country’s digital ecosystem, especially the <a href="https://stats.oecd.org/glossary/detail.asp?ID=4719">digital divide</a> and issues around connectivity and access.</p>
 
-<p>In this exercise, we’re going to execute the following commands: 1) install and start necessary packages, 2) bring a dataset into your work environment, 3) inspect your data to help you think about how it is structured, 4) convert your datatypes into useful data formats, 5) plot the data on a line graph. You could, of course, accomplish each of these tasks directly in Google Sheets, but bringing the data into RStudio opens up a new world of analytical possibilities. Let’s get started.</p>
+<p>Last month, I spent two weeks in Colombia conducting part of a digital ecosystem assessment. Across 60 interviewees ranging from civil society activists to government officials and international technology companies, a primary finding was that the country’s digital infrastructure is insufficient and contributes to a growing rural-urban digital divide. The assessment revealed that there is a clear need for coordination amongst actors to implement <a href="https://www.worldbank.org/en/news/press-release/2019/01/24/with-innovative-business-models-we-can-make-internet-for-all-a-reality">innovative</a> inclusion-oriented solutions for <a href="https://www.worldbank.org/en/news/infographic/2016/01/13/how-networks-are-built">last-mile connectivity</a>.</p>
 
-<h2 id="step-0-install-r-and-rstudio">Step 0: Install R and RStudio</h2>
+<p><img src="/uploads/ulloa_DEA_COVID.jpg" alt="ulloa_DEA_COVID.jpg" /><code class="language-plaintext highlighter-rouge">A satellite dish bringing WiFi to rural Colombia. Image taken by author.</code></p>
 
-<p>First, you’ll need to install R and RStudio on your computer. I’ve included some links below:</p>
+<p>The rapid spread of COVID-19 has me reflecting on the importance of these types of assessments to informing targeted prevention, protection, response, and recovery efforts. The digital divide plays out between and within developed and developing countries in various ways. Below are some considerations in the context of the COVID-19 crisis:</p>
 
 <ul>
   <li>
-    <p><a href="https://www.r-project.org/">https://www.r-project.org/</a></p>
+    <p><strong>Information sharing:</strong> Individuals who lack internet access may not receive critical health information. Barriers to accessing and using the internet may leave already vulnerable populations at a significant disadvantage when it comes to getting real-time information. This is not only an issue for individuals, but also for societies. If we are all intent on <a href="https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=instagram">flattening the COVID-19 curve</a>, there needs to be alternative ways to share information about case concentration, symptoms, tips for prevention, and resources.</p>
   </li>
   <li>
-    <p><a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a></p>
+    <p><strong>Education:</strong> Globally, to date, <a href="https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures">138 countries</a> have closed schools, affecting almost 1.4 million learners. Online learning is not an option for all schools, teachers, or students. They face challenges around digital infrastructure, teacher training, and digitized curricula. The impact of the digital divide during the COVID-19 crisis will exacerbate existing educational inequities. There is an opportunity to experiment with new ways of leveraging or distributing public WiFi for digitally excluded learners. For example, equipping <a href="https://www.brookings.edu/blog/techtank/2020/03/17/what-the-coronavirus-reveals-about-the-digital-divide-between-schools-and-communities/">school buses</a> with solar-powered WiFi and locating them strategically within insufficiently connected communities.</p>
+  </li>
+  <li>
+    <p><strong>Work:</strong> Though recent years have seen a <a href="https://www.flexjobs.com/blog/post/remote-work-statistics/">rise</a> in remote work, <a href="https://www.pewresearch.org/fact-tank/2020/03/20/before-the-coronavirus-telework-was-an-optional-benefit-mostly-for-the-affluent-few/">not all workers</a> can move their source of income online or remote. Not only is this apparent around the globe with the closure of small businesses in the service and entertainment sectors, but it is particularly resonant for countries with <a href="https://www.npr.org/sections/goatsandsoda/2020/03/21/818894991/african-countries-respond-quickly-to-spread-of-covid-19">large informal economies,</a> where leaving the house is the only way to generate income.</p>
+  </li>
+  <li>
+    <p><strong>Social connection:</strong> Digital communication channels and social media help make mandated social isolation bearable and feasible. Humans are, by nature, social beings. However, in societies that have not or cannot adopt such platforms, imposing necessary pandemic response precautions may not be as feasible. Moreover, in many of the countries <a href="https://www.dai.com/extras/maps/index.html">where we work</a>, crowded or shared homes do not allow the necessary precautions. Digital communication has no opportunity to replace in-person interaction.</p>
   </li>
 </ul>
 
-<p>Once you get your software installed and booted up, you should see something that looks approximately like the image below.</p>
+<p>As country governments, global development organizations, and private sector actors develop COVID-19 responses it is important to understand disparities in digital connectivity and access. If digital divides go unacknowledged, existing inequalities will only be exacerbated by the progressing pandemic. Furthermore, as global development professionals busy working remotely on various project contingency plans, it is imperative we don’t let issues related to digital divides fall by the wayside. Instead of being perceived as competing priorities with global health or economic impact, they should be seen as complementary to ensure inclusivity-driven responses are put in place.</p>
 
-<p><img src="/uploads/GettingStarted_NoCode.PNG" alt="GettingStarted_NoCode.PNG" /></p>
-
-<h2 id="step-1-identify-a-data-set">Step 1: Identify a Data Set</h2>
-
-<p>The next thing to do when getting started in R, is to identify a dataset you’d like to work with. You can, of course, build up a dataset directly in RStudio, but it’s nice to have something to work with when first exploring the programming language.</p>
-
-<p>For the sake of this exercise, I’ve created a dataset in Google Sheets for you to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was <a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025">RAIN</a>. The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset <a href="https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing">here</a>.</p>
-
-<p>Before we go on, I should note that you can import data into RStudio in many different ways.</p>
-
-<h2 id="step-2-install-google-sheets-package">Step 2: Install Google Sheets Package</h2>
-
-<p>To get the googlesheets data into R, you need to import it. Fortunately, there is a handy <a href="https://cran.r-project.org/web/packages/googlesheets/index.html">package </a>for Google Sheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:</p>
-
-<blockquote>
-  <p>install.packages(“googlesheets”)
-library(googlesheets)</p>
-</blockquote>
-
-<p>The first line tells the computer to install the package titled “googlesheets,” and the second line tells the computer to turn on the package, making it available for you to use.</p>
-
-<h2 id="step-3-import-data-part-1">Step 3: Import Data, Part 1</h2>
-
-<p>Now that you’ve installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press ctrl+enter to execute them.</p>
-
-<blockquote>
-  <p>WeatherDataURL &lt;-</p>
-
-  <p>gs_url(“https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing”)</p>
-</blockquote>
-
-<p>At this point you should see a new variable titled “WeatherDataURL” in the upper righthand box, as can be seen in the image below.</p>
-
-<p><img src="/uploads/GettingStarted_Step3-ed0737.PNG" alt="GettingStarted_Step3-ed0737.PNG" /></p>
-
-<p>Before we move on to the next step, let’s execute one more line of code, which allows us to inspect our new variable, “WeatherDataURL.”</p>
-
-<blockquote>
-  <p>gs_ws_ls(WeatherDataURL)</p>
-</blockquote>
-
-<p>When you execute this command, you should see the word “MayWeather” printed out on the console, which is the box in the bottom left. This is the one tab in the Google Sheet that contains the weather data for the month of May.</p>
-
-<p><img src="/uploads/Step3B.PNG" alt="Step3B.PNG" /></p>
-
-<h2 id="step-4-import-data-part-2">Step 4: Import Data, Part 2</h2>
-
-<p>In our last step, we prepared our connection with Google Sheets, and in this step, we’ll import the data. So now let’s read the “MayWeather” tab of the googlesheet into R as a <a href="https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame">dataframe</a>, and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.</p>
-
-<blockquote>
-  <p>AllWeatherData &lt;-  gs_read(ss=WeatherDataURL, ws = “MayWeather”, skip = 0)</p>
-
-  <p>str(AllWeatherData)</p>
-</blockquote>
-
-<p><img src="/uploads/GettingStarted_Step4.PNG" alt="GettingStarted_Step4.PNG" /></p>
-
-<p>You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the Google Sheets file, and the other is the dataset itself. If you’d like, you can click on the AllWeatherData variable to see it as rows and columns.</p>
-
-<h2 id="step-5-data-transformations">Step 5: Data Transformations</h2>
-
-<p>Looking at the data structure printed out in the console in the last step, you’ll likely notice that the date column is being read as a character (chr), as opposed to a date format. This is extremely important! Not all data is read into the computer the same way. Sometimes a computer may interpret a string of numbers as alphanumeric characters, as opposed to integers. In this case, the computer didn’t recognize that the numbers in the date column should be read as calendar dates. Fortunately R has a handy way to handle data transformations, so we’ll use the as.Date() function on the variable, and then check to make sure that our conversion worked.</p>
-
-<p>Again, run the following lines of code:</p>
-
-<blockquote>
-  <p>AllWeatherData$Date &lt;- as.Date(AllWeatherData$Date, “%m/%d/%Y”)</p>
-
-  <p>str(AllWeatherData)</p>
-</blockquote>
-
-<p><img src="/uploads/GettingStarted_Step5.PNG" alt="GettingStarted_Step5.PNG" /></p>
-
-<p>We can see that the date column is now in a date format, which will allow us to create our graph. Let’s move on!</p>
-
-<h2 id="step-6-create-line-graph">Step 6: Create Line Graph</h2>
-
-<p>We’re finally at the moment we’ve been waiting for. Let’s create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous <a href="http://ggplot2.tidyverse.org/">ggplot2</a>, but for the sake of this exercise we’ll use the simplest option: the plot() function.</p>
-
-<blockquote>
-  <p>plot(x=AllWeatherData$Date, y=AllWeatherData$Precip, type=”line”)</p>
-</blockquote>
-
-<p>In this function we told the computer to do three things: 1) plot date on the X axis, 2) plot the rainfall precipitation amount on the Y axis, and 3) draw the plot as a “line.”</p>
-
-<p><img src="/uploads/GettingStarted_Step6.PNG" alt="GettingStarted_Step6.PNG" /></p>
-
-<h2 id="wrapping-up">Wrapping Up</h2>
-
-<p>And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. Hopefully you learned a few things along the way. If you had any trouble installing RStudio, I’ve created an interactive R Console with all of the code pre-written, which can be accessed <a href="http://gettingstartedrstudio.s3-website-us-east-1.amazonaws.com/">here</a>.</p>
-
-<p>Reflecting on this process, I’m reminded that most of the work that goes into data analysis is getting and cleaning data! We didn’t even get to the graph until the last step. For further analysis, we could, for example, compare this month to historical data. Can you now begin to think about how that might work using RStudio?</p>
-
-<p>In my next post, we’ll explore this dataset further as we continue our journey into R and RStudio. Stay tuned!</p>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/getting-started-with-rstudio.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -264,466 +169,6 @@ library(googlesheets)</p>
   
   
     
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
     
   
   
@@ -737,263 +182,12 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/covid-19-data-analysis-part-1-demography-behavior-and-environment.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/COVID_Data_Map.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment</span></a></li>
+            
+            
+            
       
     
     
@@ -1011,7 +205,7 @@ library(googlesheets)</p>
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/PhoneUse.JPG);"></div><span class="related-item-text">Open Source Versus Proprietary Data Management Stack—Which One is Best for Your Team?</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/COVID-looking-for-the-helpers-in-the-hardware-community.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/CDC-coronavirus-image-23311-for-web.jpg);"></div><span class="related-item-text">COVID-19: Looking for Helpers in the Hardware Community</span></a></li>
             
             
             
@@ -1031,6 +225,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1039,7 +236,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1056,6 +256,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1071,7 +274,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1095,6 +301,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1103,7 +312,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1120,6 +332,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1135,7 +350,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1159,6 +377,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1167,7 +388,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1184,6 +408,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1199,7 +426,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1223,6 +453,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1231,7 +464,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1248,6 +484,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1263,7 +502,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1287,6 +529,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1295,7 +540,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1312,6 +560,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1327,7 +578,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1351,6 +605,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1359,7 +616,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1376,6 +636,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1391,7 +654,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1415,6 +681,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1423,7 +692,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1440,6 +712,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1455,7 +730,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1479,6 +757,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1487,7 +768,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1504,6 +788,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1519,7 +806,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1543,6 +833,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1551,7 +844,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1568,6 +864,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1583,7 +882,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1607,6 +909,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1615,7 +920,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1632,6 +940,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1647,7 +958,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1671,6 +985,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1679,7 +996,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1696,6 +1016,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1711,7 +1034,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1735,6 +1061,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1743,7 +1072,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1760,6 +1092,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1775,7 +1110,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1799,6 +1137,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1807,7 +1148,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1824,6 +1168,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1839,7 +1186,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1863,6 +1213,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1871,7 +1224,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1888,6 +1244,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1903,7 +1262,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1927,6 +1289,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1935,7 +1300,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1952,6 +1320,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -1967,7 +1338,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -1991,6 +1365,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -1999,7 +1376,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2015,16 +1395,17 @@ library(googlesheets)</p>
     
       
       
+        
+        
+          
+          
         
+          
+          
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/getting-started-with-rstudio-part-2.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/RStudio-59a8d9.png);"></div><span class="related-item-text">Getting Started with RStudio, Part 2</span></a></li>
-            
-            
-            
+        
       
     
     
@@ -2033,7 +1414,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2057,6 +1441,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2065,7 +1452,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2082,6 +1472,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2097,7 +1490,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2121,6 +1517,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2129,7 +1528,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2146,6 +1548,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2161,7 +1566,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2185,6 +1593,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2193,7 +1604,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2210,6 +1624,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2225,7 +1642,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2249,19 +1669,21 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
-    
     
-  
-  
     
-    
   
   
     
       
       
+        
         
+          
+          
         
           
           
@@ -2278,6 +1700,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2293,7 +1718,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2317,6 +1745,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2325,7 +1756,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2345,21 +1779,3483 @@ library(googlesheets)</p>
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/writing-code-is-for-everyone-now-the-code-partners-scholarship-makes-it-affordable.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/BLOG3-b8317c.jpg);"></div><span class="related-item-text">Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable</span></a></li>
-            
-            
-            
-      
-    
-    
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
   
   
     
       
       
         
+        
+          
+          
         
           
           
@@ -2375,7 +5271,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2399,6 +5298,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2407,7 +5309,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2424,6 +5329,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2439,7 +5347,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2463,6 +5374,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2471,7 +5385,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2488,6 +5405,9 @@ library(googlesheets)</p>
       
       
         
+        
+          
+          
         
           
           
@@ -2503,7 +5423,10 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
         
           
           
@@ -2527,6 +5450,9 @@ library(googlesheets)</p>
           
           
         
+          
+          
+        
       
     
     
@@ -2535,20 +5461,40 @@ library(googlesheets)</p>
     
       
       
+        
         
+          
+          
+        
+          
+          
         
           
           
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/why-is-dai-investing-in-a-coding-school.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Code%20Partners%20Logo%20Stacked.png);"></div><span class="related-item-text">Why is DAI Investing in a Coding School?</span></a></li>
-            
-            
-            
+        
       
     
+    
+  
+  
     
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
       
+    
+    
+  
   <!-- If there's no actually related content show recent stuff -->
   
 </ul>
