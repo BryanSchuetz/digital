@@ -6,6 +6,8 @@ tags:
 - COVID-19
 - Digital Divide
 Author: Susannah Horton
+social-image: "/uploads/ulloa_DEA_COVID.jpg"
+thumbnail: "/uploads/ulloa_DEA_COVID.jpg"
 ---
 
 Our work at DAI’s Center for Digital Acceleration intersects with global COVID-19 responses in many ways. [Earlier this week](https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html), our data scientists presented an analysis of risk factors and [last week](https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html) we got a glimpse at the hardware community’s approach to the crisis. There is another element to our work that I think is critical to highlight—digital ecosystem assessments.
