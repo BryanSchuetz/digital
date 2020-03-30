@@ -15,9 +15,9 @@ One of the participants in the [Think Global Make Local](https://www.development
 
 <--!more-->
 
-![DAI 3D printer.jpg](/uploads/DAI%203D%20printer.jpg)`Picture of DAI's 3D printer in author's home. Image taken by author.`
+![DAI 3D printer.jpg](/uploads/DAI%203D%20printer.jpg)`DAI's 3D printer in author's home. Photo courtesy of author.`
 
-As I described in [my last post](https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html), the maker community has been energized around producing goods that face critical shortages, like personal protective equipment (PPE) and ventilators. But getting these products applied in clinical settings requires much more than printing a clever design. DAI’s printer – currently relocated to my basement work-from-home space – is producing parts for [Open Works](https://www.openworksbmore.org/), a Baltimore makerspace, which has addressed some of these issues. Here is how it works:
+As I described in [my last post](https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html), the maker community has been energized around producing goods that face critical shortages, such as personal protective equipment (PPE) and ventilators. But getting these products applied in clinical settings requires much more than printing a clever design. DAI’s printer—temporarily relocated to my basement work-from-home space—is producing parts for [Open Works](https://www.openworksbmore.org/), a Baltimore makerspace, which has addressed some of these issues. Here is how it works:
 
 * **Design Validation: **Few goods have more stringent criteria for validation than those for medical applications. Design, build quality, safety, and sterility are among the criteria, and clinical operations – and their lawyers – will generally insist on items built to the highest standards in these areas.
 
