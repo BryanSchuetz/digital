@@ -31,7 +31,7 @@ The Open Works project also has a set of [disinfection protocols](https://drive.
 
 ![3Dprinted mask.jpg](/uploads/3Dprinted%20mask.jpg)`Image of 3D-printed mask on display in Egypt.`
 
-* **Customers:** Finally, what the Open Works project has that many of the efforts online lack is a relationship with customers who want the printed PPE. The Baltimore-area facilities that Open Works is working with will likely not be giving these PPE to doctors and nurses, but assigning them to other staff in order to free up more traditional units for frontline clinical staff. Other, similar efforts from organizations around the country, including [Nova Labs](https://www.nova-labs.org/) in Reston, Virginia, and [NextFab](https://nextfab.com/) in Philadelphia, also have identified pipelines to local users in those areas.
+* **Customers:** Finally, what the Open Works project has that many of the efforts online lack is a relationship with customers who want the printed PPE. The Baltimore-area facilities that Open Works is working with will likely not be giving these PPE to doctors and nurses, but assigning them to other staff to free up more traditional units for frontline clinical staff. Other, similar efforts from organizations around the country, including [Nova Labs](https://www.nova-labs.org/) in Reston, Virginia, and [NextFab](https://nextfab.com/) in Philadelphia, also have identified pipelines to local users in those areas.
 
 The truth is, 3D printing is a terrible way to produce medical equipment at scale, but it is still better than having no way to produce medical equipment at all.
 
