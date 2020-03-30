@@ -14,7 +14,7 @@ One of the participants in the [Think Global Make Local](https://www.development
 3D printing is slow, expensive, and inefficient. It is great for small runs of one-off items or prototypes, but it is a terrible way to mass manufacture a product. But the lesson of *Doy Doy* is that a bad way to mass manufacture a product can still be better than having *no* way to mass manufacture a product. This is why I am currently manufacturing personal protective face shields for Baltimore-area hospitals in my basement.
 
 
-<--!more-->
+<!--more-->
 
 
 ![DAI 3D printer.jpg](/uploads/DAI%203D%20printer.jpg)`DAI's 3D printer in author's home. Photo courtesy of author.`
