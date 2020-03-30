@@ -1,7 +1,12 @@
 ---
 title: 'Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages'
 date: 2020-03-30 11:53:00 -04:00
+tags:
+- Hardware
+- COVID-19
 Author: Rob Ryan-Silva
+social-image: "/uploads/DAI%203D%20printer.jpg"
+thumbnail: "/uploads/DAI%203D%20printer.jpg"
 ---
 
 One of the participants in the [Think Global Make Local](https://www.development-innovations.org/success-stories/think-global-make-local-3d-printing-propels-young-cambodians-future/) product development workshop sponsored by our Cambodia Development Innovations project in 2016, produced a design for a toy called *[Doy Doy](https://www.facebook.com/Doydoycompany/)*. With *Doy Doy’s* silicone straws and plastic connectors, kids can build complex structures. The product has gone on to achieve modest commercial success locally. I found *Doy Doy* instructive because of the way its creator, Em Chanrithykol, ended up manufacturing the toy’s plastic connectors. Because of a lack of local injection molding capacity and administrative barriers to importing parts made by contract manufacturers outside Cambodia, Chanrithykol turned to a less traditional method: he contracted a local firm to churn out the parts on a battery of 3D printers.
