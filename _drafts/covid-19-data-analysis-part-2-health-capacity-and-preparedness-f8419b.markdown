@@ -14,6 +14,8 @@ thumbnail: "/uploads/COVID_Data_Map.png"
 
 *This article was written by DAI's [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/), with contributions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/), and [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/). This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.*
 
+<!--more-->
+
 ## Background
 
 The observed cross-country differences in the number of tests and infection and mortality rates as it relates to COVID-19 have provided a source for theorizing on factors that may lead to different outcomes across the globe. The first part of this series focused on the demographic and behavioral factors at the country-level that may cause increased stress on health systems in responding to COVID-19. Although demographic and behavioral factors clearly are an important piece of the puzzle in explaining the degree of risk countries face, it also brings into question the level of preparedness and capacity of countries in dealing with pandemics in the first place.
