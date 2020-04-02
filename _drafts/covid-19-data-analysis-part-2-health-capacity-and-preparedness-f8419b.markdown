@@ -1,6 +1,15 @@
 ---
 title: 'COVID-19 Data Analysis, Part 2: Health Capacity and Preparedness'
 date: 2020-04-02 17:30:00 -04:00
+categories:
+- Global Health
+tags:
+- Digital Health
+- Data Visualization
+- COVID-19
+Author: CDA Analytics Team
+social-image: "/uploads/COVID_Data_Map.png"
+thumbnail: "/uploads/COVID_Data_Map.png"
 ---
 
 *This article was written by DAI's [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/), with contributions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/), and [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/). This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.*
