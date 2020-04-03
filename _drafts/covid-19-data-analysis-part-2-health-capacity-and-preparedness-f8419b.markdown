@@ -66,7 +66,7 @@ In more recent times, as countries have moved towards lower-cost solutions and g
 
 ![map_f3.png](/uploads/map_f3.png)
 
-## Preparedness:
+## Preparedness
 
 While the principal elements of structural capacity provide a solid foundation in response to pandemics, there are many other factors in which countries must develop knowhow and resourcesto effectively respond to infectious disease outbreaks. The Global Health Security Index developed by the Nuclear Threat Initiative (NTI), Johns Hopkins Center for Health Security (JHU), and Economist Intelligence Unit (EIU) is a comprehensive assessment of health security and capabilities in preventing, detecting, and responding to public health emergencies, which Includes 195 countries. Given the emphasis on information being publicly available, the index scores favor countries who are more transparent in providing data and evidence of processes in place.
 
