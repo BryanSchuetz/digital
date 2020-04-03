@@ -32,7 +32,7 @@ While there are many measures of health system capacity, the most immediate ones
 
 Much attention has been paid to the capacity of countries and regions to adequately provide attention to severe and critical cases of COVID-19. While the sheer numbers will likely overwhelm every health system in the world, the number of hospital beds serves as an important proxy to assess capacity to provide care to patients.
 
-The most recent data from the World Health Organization suggests significant path dependency and political legacy in hospital bed density. In total, 17 of the top 25 countries are former Soviet republics or allied countries, and one country (Germany) that reunified following the fall of the Soviet Union. Beyond these, the data is naturally more heavily skewed towards countries with lower population totals such as East Timor, the Cook Islands, and Barbados, along with several higher income countries including France, Austria, Japan and South Korea.
+The most recent data from the World Health Organization suggests significant path dependency and political legacy in hospital bed density. In total, 17 of the top 25 countries are former Soviet republics or allied countries, and one country (Germany) that reunified after the fall of the Soviet Union. Beyond these, the data is naturally more heavily skewed towards countries with lower population totals such as East Timor, the Cook Islands, and Barbados, along with several higher income countries including France, Austria, Japan and South Korea.
 
 ![hist_factor1.png](/uploads/hist_factor1.png)
 
