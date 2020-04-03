@@ -20,17 +20,13 @@ The observed cross-country differences in the number of tests and infection and 
 
 The post examines health capacity and preparedness at the country level to comparatively assess the resources available in combating COVID-19. First, we will focus on general health systems capacity, assessed by reviewing health input indicators such as hospital beds, doctors, and nurses, per 10,000 inhabitants. The second part addresses the concept of preparedness and response to outbreaks, giving particular emphasis to the [Global Health Security Index](https://www.ghsindex.org/).
 
-## Structural Capacity
+# Structural Capacity
 
 Defining system capacity for any realm of public policy is difficult given the numerous actors and the multiple levels of government involved. This is particularly true concerning health systems, which incorporate a complex set of issues and dimensions of governance. As it relates to comparative assessment of country health systems, the [structural capacity](https://www.rwjf.org/en/library/research/2012/11/the-journal-of-public-health-management---practice-focuses-on-pu/defining-organizational-capacity-for-public-health-services-and-.html) of countries refers to the informational, organizational, physical, human, and fiscal resources available.
 
 While there are many measures of health system capacity, the most immediate ones as they relate to assessing the risk countries face in the COVID-19 pandemic, and for which there is systemic and complete data, are hospital beds, doctors, nurses, and midwives per 10,000 inhabitants, as collected by the [World Health Organization](https://www.who.int/).
 
 ## Factor 1: Hospital Beds
-
-# a
-
-## b
 
 Much attention has been paid to the capacity of countries and regions to adequately provide attention to severe and critical cases of COVID-19. While the sheer numbers will likely overwhelm every health system in the world, the number of hospital beds serves as an important proxy to assess capacity to provide care to patients.
 
@@ -68,7 +64,7 @@ In more recent times, as countries have moved towards lower-cost solutions and g
 
 ![map_f3.png](/uploads/map_f3.png)
 
-## Preparedness
+# Preparedness
 
 While the principal elements of structural capacity provide a solid foundation in response to pandemics, there are many other factors in which countries must develop know-how and resources to effectively respond to infectious disease outbreaks. The Global Health Security (GHS) Index—developed by the Nuclear Threat Initiative (NTI), Johns Hopkins Center for Health Security (JHU), and Economist Intelligence Unit (EIU)—is a comprehensive assessment of health security and capabilities in preventing, detecting, and responding to public health emergencies, which includes 195 countries. Given the emphasis on information being publicly available, the index scores favor countries that are more transparent in providing data and evidence of processes.
 
@@ -91,6 +87,7 @@ The Respond score is heavily based on the accessibility of plans to respond to p
 The GHS Report 2019 notes that they find only the top nine countries below (5 percent of all assessed) to be in the well-prepared tier, which indicates the overall weakness of all countries on these factors. Many of the same countries at the top of the Detection category also appear here, and many of the middle-income countries such as Argentina, Brazil, Georgia, South Africa, and Thailand are at the top in both. However, in this case there is a significant gap between the first and second country: the United Kingdom score of 91.9 is more than 10 points better than the United States (79.7). According to the [main report](https://www.ghsindex.org/wp-content/uploads/2019/10/2019-Global-Health-Security-Index.pdf), the difference between these two specific countries lies in the Exercising Response plans, which focuses on whether countries have carried out biological-threat exercises with the World Health Organization and review of best practices following such an exercise in the past year.
 
 ![bar_f5.png](/uploads/bar_f5.png)
+
 ![map_f5.png](/uploads/map_f5.png)
 
 ## Factor 6: Risk
