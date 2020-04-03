@@ -56,7 +56,7 @@ Similar to hospital bed density, the doctors indicator also shows a lasting lega
 
 ## Factor 3: Nursing and Midwifery
 
-Nurses represent a critical part of any health system and [historically](https://www.ncbi.nlm.nih.gov/pubmed/2235652) have played a vital role during pandemics. The [role of nurses in pandemics](https://healthcare-communications.imedpub.com/communicating-the-changing-role-of-a-nurse-in-an-epidemic-the-example-of-the-merscov-outbreak-in-saudi-arabia.php?aid=19286) has also been transformed in terms of providing care, monitoring cases, administering and educating on use of medication, and serving as communicators between patients, doctors and administrators.
+Nurses are a critical part of any health system and [historically](https://www.ncbi.nlm.nih.gov/pubmed/2235652) have played a vital role during pandemics. The [role of nurses in pandemics](https://healthcare-communications.imedpub.com/communicating-the-changing-role-of-a-nurse-in-an-epidemic-the-example-of-the-merscov-outbreak-in-saudi-arabia.php?aid=19286) has also been transformed in terms of providing care, monitoring cases, administering and educating on use of medication, and serving as communicators between patients, doctors and administrators.
 
 ![hist_f3.png](/uploads/hist_f3.png)
 
