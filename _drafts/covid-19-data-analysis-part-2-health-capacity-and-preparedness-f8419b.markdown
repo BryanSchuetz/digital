@@ -26,11 +26,11 @@ The post examines health capacity and preparedness at the country level to compa
 
 Defining system capacity for any realm of public policy is difficult given the numerous actors and the multiple levels of government involved. This is particularly true concerning health systems, which incorporate a complex set of issues and dimensions of governance. As it relates to comparative assessment of country health systems, the [structural capacity](https://www.rwjf.org/en/library/research/2012/11/the-journal-of-public-health-management---practice-focuses-on-pu/defining-organizational-capacity-for-public-health-services-and-.html) of countries refers to the informational, organizational, physical, human, and fiscal resources available.
 
-While there are many measures of health system capacity, the most immediate ones as they relate to assessing the risk countries face in the COVID-19 pandemic and for which there is systemic and complete data are Hospital Beds per 10K, Doctors per 10K, and Nurses and Midwives per 10K collected by the [World Health Organization](https://www.who.int/).
+While there are many measures of health system capacity, the most immediate ones as they relate to assessing the risk countries face in the COVID-19 pandemic, and for which there is systemic and complete data, are hospital beds, doctors, nurses, and midwives per 10,000 inhabitants, as collected by the [World Health Organization](https://www.who.int/).
 
-## Factor 1: Hospital beds per 10K
+## Factor 1: Hospital Beds
 
-A significant amount of attention has been paid to the capacity of countries and regions to adequately provide attention to severe and critical cases of COVID-19. While the sheer numbers will likely overwhelm every health system in the world, the number of hospital beds serves as an important proxy to assess capacity to provide care to patients.
+Much attention has been paid to the capacity of countries and regions to adequately provide attention to severe and critical cases of COVID-19. While the sheer numbers will likely overwhelm every health system in the world, the number of hospital beds serves as an important proxy to assess capacity to provide care to patients.
 
 The most recent data from the World Health Organization suggests significant path dependency and political legacy in hospital bed density. In total, 17 of the top 25 countries are former Soviet republics or allied countries, and one country (Germany) that reunified following the fall of the Soviet Union. Beyond these, the data is naturally more heavily skewed towards countries with lower population totals such as East Timor, the Cook Islands, and Barbados, along with several higher income countries including France, Austria, Japan and South Korea.
 
