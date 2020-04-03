@@ -44,17 +44,17 @@ It is worth noting that this indicator only tells us one small part of the large
 
 ## Factor 2: Medical Doctors 
 
-The importance of doctors per capita in measuring health system capacity is quite intuitive. Even in normal times, low supply of doctors directly implies limited access to care and higher overall prices, problems that are exacerbated in situations of disease outbreak. Unfortunately, [30% of countries](https://www.who.int/gho/health_workforce/doctors_density/en/) have a supply of doctors below the recommended number of 10 per 10,000. The histogram below shows a similar trend to hospital bed density, with few outliers and a heavily left-skewed distribution.
+The importance of doctors per capita in measuring health system capacity is quite intuitive. Even in normal times, low supply of doctors directly implies limited access to care and higher overall prices, problems that are exacerbated in situations of disease outbreak. Unfortunately, [30 percent of countries](https://www.who.int/gho/health_workforce/doctors_density/en/) have a supply of doctors below the recommended number of 10 per 10,000 people. The histogram below shows a similar trend to hospital bed density, with few outliers and a heavily left-skewed distribution.
 
 ![hist_f2.png](/uploads/hist_f2.png)
 
-Similar to hospital bed density, doctors per 10K also show the lasting legacy of communist and socialist rule, with the presence of Cuba and Russia, amongst others. Beyond these, countries with a strong historical emphasis on social protection systems unsurprisingly figure heavily in this graph, such as the Scandinavian countries and Southern Cone nations of Uruguay and Argentina. As a final note, it is worth noting that for Mediterranean countries such as Italy and Spain that have suffered greatly due to COVID-19 figure highly on this list.
+Similar to hospital bed density, the doctors indicator also shows a lasting legacy of communist and socialist rule, with the presence of Cuba and Russia, amongst others. Beyond these, countries with strong historical emphases on social protection systems unsurprisingly figure heavily in this graph, such as Scandinavian countries and Argentina and Uruguay. It is worth noting that the Mediterranean countries, such as Italy and Spain, have suffered greatly due to COVID-19 figure highly on this list.
 
 ![bar_f2.png](/uploads/bar_f2.png)
 
 ![map_f2.png](/uploads/map_f2.png)
 
-## Factor 3: Nursing and midwifery per 10K
+## Factor 3: Nursing and Midwifery
 
 Nurses represent a critical part of any health system and [historically](https://www.ncbi.nlm.nih.gov/pubmed/2235652) have played a vital role during pandemics. The [role of nurses in pandemics](https://healthcare-communications.imedpub.com/communicating-the-changing-role-of-a-nurse-in-an-epidemic-the-example-of-the-merscov-outbreak-in-saudi-arabia.php?aid=19286) has also been transformed in terms of providing care, monitoring cases, administering and educating on use of medication, and serving as communicators between patients, doctors and administrators.
 
