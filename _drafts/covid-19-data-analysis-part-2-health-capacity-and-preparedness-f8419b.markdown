@@ -56,11 +56,11 @@ Similar to hospital bed density, the doctors indicator also shows a lasting lega
 
 ## Factor 3: Nursing and Midwifery
 
-Nurses are a critical part of any health system and [historically](https://www.ncbi.nlm.nih.gov/pubmed/2235652) have played a vital role during pandemics. The [role of nurses in pandemics](https://healthcare-communications.imedpub.com/communicating-the-changing-role-of-a-nurse-in-an-epidemic-the-example-of-the-merscov-outbreak-in-saudi-arabia.php?aid=19286) has also been transformed in terms of providing care, monitoring cases, administering and educating on use of medication, and serving as communicators between patients, doctors and administrators.
+Nurses are a critical part of any health system and [historically](https://www.ncbi.nlm.nih.gov/pubmed/2235652) have played a vital role during pandemics. The [role of nurses in pandemics](https://healthcare-communications.imedpub.com/communicating-the-changing-role-of-a-nurse-in-an-epidemic-the-example-of-the-merscov-outbreak-in-saudi-arabia.php?aid=19286) has also been transformed in terms of providing care, monitoring cases, administering and educating on use of medication, and serving as communicators between patients, doctors, and administrators.
 
 ![hist_f3.png](/uploads/hist_f3.png)
 
-In more recent times, as countries have moved towards lower-cost solutions and greater focus on preventive and primary care, the number of nurses per capita has increased for many countries, particularly in the low to middle income ones. While these numbers in time-series have increased, the top countries in per capita terms are quite similar to countries emphasized previously, although there are relatively fewer post-Soviet republics highlighted here.
+In more recent times, as countries have moved towards lower-cost solutions and greater focus on preventive and primary care, the number of nurses per capita has increased for many countries, particularly in the low- to middle-income ones. While these numbers in time-series have increased, the top countries in per capita terms are quite similar to countries emphasized previously, although there are relatively fewer post-Soviet republics highlighted here.
 
 ![bar_f3.png](/uploads/bar_f3.png)
 
