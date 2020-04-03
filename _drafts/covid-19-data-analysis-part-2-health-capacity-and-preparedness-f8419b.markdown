@@ -42,7 +42,7 @@ It is worth noting that this indicator only tells us one small part of the large
 
 ![map_f1.png](/uploads/map_f1.png)
 
-## Factor 2: Medical doctors per 10K
+## Factor 2: Medical Doctors 
 
 The importance of doctors per capita in measuring health system capacity is quite intuitive. Even in normal times, low supply of doctors directly implies limited access to care and higher overall prices, problems that are exacerbated in situations of disease outbreak. Unfortunately, [30% of countries](https://www.who.int/gho/health_workforce/doctors_density/en/) have a supply of doctors below the recommended number of 10 per 10,000. The histogram below shows a similar trend to hospital bed density, with few outliers and a heavily left-skewed distribution.
 
