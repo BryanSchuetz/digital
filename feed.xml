@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Apr 2020 13:14:25 -0400</pubDate>
-    <lastBuildDate>Fri, 03 Apr 2020 13:14:25 -0400</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2020 14:38:34 -0400</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2020 14:38:34 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/COVID_Data_Map.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 2: Health Capacity and Preparedness</title>
+        <description>&lt;p&gt;&lt;em&gt;This article was written by DAI’s &lt;a href=&quot;https://www.linkedin.com/in/james-parr-4a534897/&quot;&gt;Jamie Parr&lt;/a&gt;, with contributions from &lt;a href=&quot;https://dai-global-digital.com/authors/greg-maly/&quot;&gt;Greg Maly&lt;/a&gt; and &lt;a href=&quot;https://dai-global-digital.com/authors/gratiana-fu/&quot;&gt;Gratiana Fu&lt;/a&gt;. This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Apr 2020 17:30:00 -0400</pubDate>
+        <author>CDA Analytics Team
+</author>
+        <link>https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html</guid>
+        
+        <category>Digital Health</category>
+        
+        <category>Data Visualization</category>
+        
+        <category>COVID-19</category>
+        
+        
+        <category>Global Health</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/DAI%203D%20printer.jpg" medium="image" /> 
@@ -186,25 +209,6 @@
         <category>Data</category>
         
         <category>Interoperability</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Sample_JReport_Dashboards.png" medium="image" /> 
-        <title>What the Food Systems Dashboard Taught Me About Data for Decision Making</title>
-        <description>&lt;p&gt;Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Feb 2020 07:08:00 -0500</pubDate>
-        <author>Araba Sapara-Grant
-</author>
-        <link>https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Data Visualization</category>
         
         
       </item>

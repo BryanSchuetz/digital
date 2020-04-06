@@ -1,4 +1,15 @@
 
+- title: "COVID-19 Data Analysis, Part 2: Health Capacity and Preparedness"
+  pub: "Digital"
+  date: 2020-04-02
+  link: "https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html?utm_source=daidotcom"
+  summary: "This article was written by DAI’s Jamie Parr, with contributions from Greg Maly and Gratiana Fu. This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data."
+  tags:
+    - digital acceleration 
+    - Digital Health 
+    - Data Visualization 
+    - COVID-19 
+
 - title: "Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages"
   pub: "Digital"
   date: 2020-03-30
@@ -221,16 +232,4 @@ In the humanitarian and development sectors, we are digitising faster than the l
     - Privacy 
     - Governance 
     - Digital Inclusion 
-
-- title: "Studying River Health through Citizen Science and Data Analysis in Maryland"
-  pub: "Digital"
-  date: 2019-11-21
-  link: "https://dai-global-digital.com/studying-river-health-through-citizen-science-and-data-analysis-in-maryland.html?utm_source=daidotcom"
-  summary: "Since 1970, DAI has worked in 160 countries on development issues ranging from good governance to environmental problems. But what about scientific policy-oriented initiatives in our backyard? With a headquarters in Bethesda, Maryland, DAI is surrounded by a vibrant and diverse social and ecological community, and civil society organizations that focus on sustainable development. At the Center for Digital Acceleration (CDA), we’ve had the good fortune of engaging two such organizations— Spa Creek Conservancy (SCC) and the Environmental Center at Anne Arundel Community College (AACC)—that combine formal academic research with citizen science and use data to bring awareness to the health of the Chesapeake Bay watershed.
-
-Water testing locations and test results in Spa and Back Creek."
-  tags:
-    - digital acceleration 
-    - Data Management Series 
-    - Environment & Energy 
 
