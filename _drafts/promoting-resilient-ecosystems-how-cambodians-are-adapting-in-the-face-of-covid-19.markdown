@@ -25,6 +25,7 @@ A few examples:
 
 In the face of the short- and long-term impact of COVID-19, development partners and donors must continue to rapidly adapt and respond with programming tailored that addresses these unique and ever-evolving challenges. To bolster local innovation ecosystems like Cambodia’s, whose innovators address local problems with local solutions, what should these donors and development partners keep in mind? 
 
+• Advance digital skills. Build digital literacy and digital skills by supporting local ecosystem players that are already addressing the digital divide – consider Cambodian models like the digital literacy and internet safety initiative from GSMA, Google, the Ministry of Posts and Telecommunications, MoEYS, and Smart Axiata; or IT Academy STEP’s digital skills training programs. Explore ways to get similar services and programs to more citizens in need. Stay flexible so that local partners can define exactly how to create and deliver training and support in a safe, appropriate, and effective way. 
 
         
 
