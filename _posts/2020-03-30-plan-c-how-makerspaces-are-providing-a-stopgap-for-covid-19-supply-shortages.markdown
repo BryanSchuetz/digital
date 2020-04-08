@@ -13,9 +13,7 @@ One of the participants in the [Think Global Make Local](https://www.development
 
 3D printing is slow, expensive, and inefficient. It is great for small runs of one-off items or prototypes, but it is a terrible way to mass manufacture a product. But the lesson of *Doy Doy* is that a bad way to mass manufacture a product can still be better than having *no* way to mass manufacture a product. This is why I am currently manufacturing personal protective face shields for Baltimore-area hospitals in my basement.
 
-
 <!--more-->
-
 
 ![DAI 3D printer.jpg](/uploads/DAI%203D%20printer.jpg)`DAI's 3D printer in author's home. Photo courtesy of author.`
 
@@ -26,9 +24,11 @@ As I described in [my last post](https://dai-global-digital.com/COVID-looking-fo
 [The face shield design](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3) we are currently producing for Open Works was developed by [Prusa Research](https://www.prusa3d.com/), a Czech printer manufacturer founded by Josef Prusa, who commands a great deal of respect in the hardware community. The design was prototyped and iterated in collaboration with the Czech Ministry of Health, which gives the design some credibility, though obviously far short of an official certification.
 
 * **Production:** As noted, 3D printing is not a volume-oriented process. Working around the clock, the DAI printer can produce four to five units per day. So Open Works is crowdsourcing the process, working with makers around Maryland and the region to produce parts. As of this writing, DAI is among 68 makers actively producing parts for the Open Works network.
+
 * **Quality Control:** Build quality will vary from printer to printer, and some cheap feedstock—the material you put into the printer—can also degrade quality. Open Works has specified the settings that should be used by those supporting the development of some of these parts. These standardized settings are the biggest factor determining quality. But it is difficult to verify that crowdsourced producers have correctly dialed in these settings.
 
 The Open Works project also has a set of [disinfection protocols](https://drive.google.com/file/d/1Dh0AOz_qGxefhJkCVkIbqK5fGdwxstkt/view) intended to ensure reasonably sterile parts, but they are quite basic, certainly fall well short of being medically sterile, and are also difficult to verify.
+
 * **Manufacturing Process Control:** In more placid times, the Baltimore organization [We The Builders](https://www.wethebuilders.com/) coordinated the distributed printing of sculptures for events. DAI has previously participated in We The Builders projects, such as printing a number of pieces of the crowdsourced Nefertiti statue at the Fab15 conference in Egypt this past summer, for example. The software that We The Builders created around this task has been cleverly repurposed for Open Works’ PPE effort, assigning parts to makers and tracking them through the process.
 
 ![3Dprinted mask.jpg](/uploads/3Dprinted%20mask.jpg)`Image of 3D-printed mask on display in Egypt.`
