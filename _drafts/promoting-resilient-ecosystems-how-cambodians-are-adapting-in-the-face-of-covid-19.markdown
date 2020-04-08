@@ -14,7 +14,7 @@ Five years in Cambodia leading the U.S. Agency for International Development (US
 
 <!--more-->
 
-In this new world, trusted local networks and communities are more important than ever. The transition to social distancing and working from home has not been easy: Cambodians – the ones with internet access, at least – have been forced to move much of their lives online. This poses a challenge for Cambodians who are new to the digital world and may need support in developing digital skills and digital literacy. Cambodia’s innovators and tech-enabled CSOs and businesses are critical in this environment and, unsurprisingly, are already developing context-specific programs and solutions to address the outbreak.
+In this new world, trusted local networks and communities are more important than ever. The transition to social distancing and working from home has not been easy: Cambodians—the ones with internet access, at least—have been forced to move much of their lives online. This poses a challenge for Cambodians who are new to the digital world and may need support in developing digital skills and digital literacy. Cambodia’s innovators and tech-enabled CSOs and businesses are critical in this environment and, unsurprisingly, are already developing context-specific programs and solutions to address the outbreak.
 
 ![SHE Investments' Ngeay Ngeay business info and online learning site.jpg](/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg)`SHE Investments' Ngeay Ngeay business info and online learning site. Photo credit: Development Innovations.`
 
