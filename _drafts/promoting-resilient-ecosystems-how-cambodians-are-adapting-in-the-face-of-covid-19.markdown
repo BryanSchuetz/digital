@@ -14,15 +14,14 @@ Five years in Cambodia leading the U.S. Agency for International Development (US
 
 <!--more-->
 
-In this new world, trusted local networks and communities are more important than ever. The transition to social distancing and working from home has not been easy: Cambodians—the ones with internet access, at least—have been forced to move much of their lives online. This poses a challenge for Cambodians who are new to the digital world and may need support in developing digital skills and digital literacy. Cambodia’s innovators and tech-enabled CSOs and businesses are critical in this environment and, unsurprisingly, are already developing context-specific programs and solutions to address the outbreak.
+In this new world, trusted local networks and communities are more important than ever. The transition to social distancing and working from home has not been easy: Cambodians—the ones with internet access, at least—have been forced to move much of their lives online. This poses a challenge for Cambodians who are new to the digital world and may need support in developing digital skills and digital literacy. Cambodia’s innovators and tech-enabled civil society groups and businesses are critical in this environment and, unsurprisingly, are already developing context-specific programs and solutions to address the outbreak.
 
 ![SHE Investments' Ngeay Ngeay business info and online learning site.jpg](/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg)`SHE Investments' Ngeay Ngeay business info and online learning site. Photo credit: Development Innovations.`
 
-A few examples:
+**A few examples:**
 
-•  [SHE Investments](https://www.sheinvestments.com/), the country’s only business support program exclusively for women entrepreneurs, is continuing to serve local businesses by moving its accelerators and coaching services online. They will expand their Khmer language e-learning options for entrepreneurs and add new content to help small and growing businesses ride out some of the shocks.
-
-•  [Technovation Girls](http://technovationcambodia.com/) has moved all their tech entrepreneurship training activities online, managing relationships between mentors and teams digitally. Technovation mentors will continue to support these young girls online to finish the four-month educational program and submit their mobile app ideas and business plans to the global Technovation Girls challenge.
+* [SHE Investments](https://www.sheinvestments.com/), the country’s only business support program exclusively for women entrepreneurs, is continuing to serve local businesses by moving its accelerators and coaching services online. They will expand their Khmer language e-learning options for entrepreneurs and add new content to help small and growing businesses ride out some of the shocks.
+* [Technovation Girls](http://technovationcambodia.com/) has moved all their tech entrepreneurship training activities online, managing relationships between mentors and teams digitally. Technovation mentors will continue to support these young girls online to finish the four-month educational program and submit their mobile app ideas and business plans to the global Technovation Girls challenge.
 
 •  Blogger and campaigner (and former DAI team member) Sotheavy AT, the founder of the popular environmental advocacy campaign [Think Plastic](https://www.facebook.com/ThinkPlasticNow), has switched gears to produce a Facebook-based campaign called Stay Home. [Stay Home](https://www.facebook.com/stayhome11/) gives Cambodians easily accessible information about managing social distancing and keeping themselves and their families safe at home.
 
