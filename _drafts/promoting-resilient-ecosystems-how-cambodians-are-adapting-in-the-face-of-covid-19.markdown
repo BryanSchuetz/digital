@@ -23,6 +23,7 @@ A few examples:
 • Golden West Humanitarian Foundation, a Cambodian non-governmental organization that provides [personal protective equipment](https://cambodianess.com/article/ngo-to-create-medical-face-shields-for-cambodian-healthcare-workers) for the safe disposal of land mines, is also shifting its efforts to print face shields for health workers and develop ventilator prototypes to address local shortages. 
 • The Royal Government of Cambodia’s Ministry of Education, Youth and Sport (MoEYS) is providing more online learning content through their popular Facebook page to assist students and parents. The Ministry recently announced a [competition for mobile applications](http://www.moeys.gov.kh/index.php/en/minister-page/3579.html#.Xo4LA4hKhPZ) that address COVID-19-related problems in Cambodia.  
 
+In the face of the short- and long-term impact of COVID-19, development partners and donors must continue to rapidly adapt and respond with programming tailored that addresses these unique and ever-evolving challenges. To bolster local innovation ecosystems like Cambodia’s, whose innovators address local problems with local solutions, what should these donors and development partners keep in mind? 
 
 
         
