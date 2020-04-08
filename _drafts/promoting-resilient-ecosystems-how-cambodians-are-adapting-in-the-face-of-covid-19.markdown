@@ -5,7 +5,7 @@ date: 2020-04-09 06:00:00 -04:00
 tags:
 - COVID-19
 - Innovation
-Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/)"
+Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) "
 social-image: "/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg"
 thumbnail: "/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg"
 ---
