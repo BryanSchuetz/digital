@@ -5,7 +5,9 @@ date: 2020-04-09 06:00:00 -04:00
 tags:
 - COVID-19
 - Innovation
+Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/)"
 social-image: "/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg"
+thumbnail: "/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg"
 ---
 
 Five years in Cambodia leading USAID’s Development Innovations project has taught me a lot about innovation. I have seen Cambodian innovators employ entrepreneurial thinking to develop out-of-the-box, creative solutions that solve problems for hundreds of thousands of Cambodians – [automated phone calls warning people of upcoming floods](https://www.development-innovations.org/blog/the-tech-mermaid-alert/) immediately come to mind, as does a [mobile test prep application](https://www.edemy.org/#tesdopi) to help high school students get ready for their national exams. It’s this entrepreneurial thinking that the world desperately needs in this time of hardship, where livelihoods, the economy, and social cohesion are being challenged in unprecedented ways. Which naturally begs the question: In the face of COVID-19, what happens next in Cambodia’s innovation community?
