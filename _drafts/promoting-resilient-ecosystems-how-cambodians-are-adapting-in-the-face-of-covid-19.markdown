@@ -2,6 +2,9 @@
 title: 'Promoting Resilient Ecosystems: How Cambodians are Adapting in the Face of
   COVID-19'
 date: 2020-04-09 06:00:00 -04:00
+tags:
+- COVID-19
+- Innovation
 social-image: "/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg"
 ---
 
