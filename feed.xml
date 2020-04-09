@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Apr 2020 10:34:46 -0400</pubDate>
-    <lastBuildDate>Thu, 09 Apr 2020 10:34:46 -0400</lastBuildDate>
+    <pubDate>Thu, 09 Apr 2020 10:36:13 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2020 10:36:13 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/SHE%20Investments'%20Ngeay%20Ngeay%20business%20info%20and%20online%20learning%20site.jpg" medium="image" /> 
+        <title>Promoting Resilient Ecosystems: How Cambodians are Adapting in the Face of COVID-19</title>
+        <description>&lt;p&gt;Five years in Cambodia leading the U.S. Agency for International Development (USAID)-funded &lt;a href=&quot;https://www.dai.com/our-work/projects/cambodia-development-innovations&quot;&gt;Development Innovations&lt;/a&gt; project taught me a lot about innovation. I saw innovators employ entrepreneurial thinking to develop out-of-the-box, creative solutions to problems, helping hundreds of thousands of Cambodians—automated phone calls warning people of &lt;a href=&quot;https://www.development-innovations.org/blog/the-tech-mermaid-alert/&quot;&gt;coming floods&lt;/a&gt; comes to mind, as does a mobile &lt;a href=&quot;https://www.edemy.org/#tesdopi&quot;&gt;test prep application&lt;/a&gt; to help high school students prepare for national exams. It’s this entrepreneurial thinking that the world desperately needs in this time of hardship, where livelihoods, the economy, and social cohesion are being challenged in unprecedented ways. Which naturally begs the question: In the face of COVID-19, what happens next in Cambodia’s innovation community?&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Apr 2020 06:00:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/kate-heuisler">Kate Heuisler</a>
+</author>
+        <link>https://dai-global-digital.com/promoting-resilient-ecosystems-how-cambodians-are-adapting-in-the-face-of-covid-19.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/promoting-resilient-ecosystems-how-cambodians-are-adapting-in-the-face-of-covid-19.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Innovation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/COVID_Data_Map.png" medium="image" /> 
@@ -188,27 +207,6 @@
         <category>Human-centered design</category>
         
         <category>Social Media</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/CLOUD.jpg" medium="image" /> 
-        <title>What's the Best Architecture for a Management Information System?</title>
-        <description>&lt;p&gt;I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.&lt;/p&gt;
-
-&lt;p&gt;At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this &lt;em&gt;translating:&lt;/em&gt; taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 26 Feb 2020 06:30:00 -0500</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/the-back-end-of-management-information-systems.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-back-end-of-management-information-systems.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Interoperability</category>
         
         
       </item>
