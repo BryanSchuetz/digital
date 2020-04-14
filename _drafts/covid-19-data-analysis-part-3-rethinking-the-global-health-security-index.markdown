@@ -12,14 +12,16 @@ social-image: "/uploads/days_joint.png"
 
 Our next installment in our COVID-19 analysis connects the dots between the datasets we have explored in our previous blog posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the [NTI’s Global Health Security Index](https://www.ghsindex.org/) and levels of response by country governments measured using the [Oxford COVID-19 Government Response Tracker](%5Bhttps://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D). You can read more about our initial exploratory analysis of the Global Health Security Index in our previous blog post. Oxford University has provided an initial report on their data on their website.
 
-## *Key Findings*
+## Key Findings
 
 * Countries that score lower in the Global Health Security Index Response category have mobilized more quickly against the spread of COVID-19 than countries that score higher.
 
 
 * For every additional point achieved on the Global Health Security Index Response score, we can expect the amount of time for a country to act to increase by \~0.60 days.
 
-\*\*If you have been following our posts, you may have noticed that we have not included COVID-19 case data in our work. This has been intentional. Our analyses compare countries around the world – each of these countries, however, have different methods and resources to measure COVID-19 cases and deaths. In the United States, there is a severe shortage of tests for the virus and, as a result, the reported case numbers are understating the real case numbers. [Different countries are also measuring deaths differently](https://www.bbc.com/future/article/20200401-coronavirus-why-death-and-mortality-rates-differ). Deaths in some countries are counted as COVID-19 deaths if the patient died from a health condition un-related to COVID-19 (ex: heart attack) but was diagnosed with the virus. Some COVID-19 deaths are also never counted because of the testing shortage we just mentioned. Officially, a person cannot die from COVID-19 if they never had it. We have chosen to look at other data because of these issues.\*\*
+<!-- read more -->
+
+*If you have been following our posts, you may have noticed that we have not included COVID-19 case data in our work. This has been intentional. Our analyses compare countries around the world – each of these countries, however, have different methods and resources to measure COVID-19 cases and deaths. In the United States, there is a severe shortage of tests for the virus and, as a result, the reported case numbers are understating the real case numbers. [Different countries are also measuring deaths differently](https://www.bbc.com/future/article/20200401-coronavirus-why-death-and-mortality-rates-differ). Deaths in some countries are counted as COVID-19 deaths if the patient died from a health condition un-related to COVID-19 (ex: heart attack) but was diagnosed with the virus. Some COVID-19 deaths are also never counted because of the testing shortage we just mentioned. Officially, a person cannot die from COVID-19 if they never had it. We have chosen to look at other data because of these issues.*
 
 # **Data**
 
