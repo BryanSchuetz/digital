@@ -8,11 +8,9 @@ tags:
 social-image: "/uploads/days_joint.png"
 ---
 
-# **Introduction**
-
 Our next installment in our COVID-19 analysis connects the dots between the datasets we have explored in our previous blog posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the [NTI’s Global Health Security Index](https://www.ghsindex.org/) and levels of response by country governments measured using the [Oxford COVID-19 Government Response Tracker](%5Bhttps://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D). You can read more about our initial exploratory analysis of the Global Health Security Index in our previous blog post. Oxford University has provided an initial report on their data on their website.
 
-## Key Findings
+### Key Findings
 
 * Countries that score lower in the Global Health Security Index Response category have mobilized more quickly against the spread of COVID-19 than countries that score higher.
 
@@ -23,15 +21,15 @@ Our next installment in our COVID-19 analysis connects the dots between the data
 
 *If you have been following our posts, you may have noticed that we have not included COVID-19 case data in our work. This has been intentional. Our analyses compare countries around the world – each of these countries, however, have different methods and resources to measure COVID-19 cases and deaths. In the United States, there is a severe shortage of tests for the virus and, as a result, the reported case numbers are understating the real case numbers. [Different countries are also measuring deaths differently](https://www.bbc.com/future/article/20200401-coronavirus-why-death-and-mortality-rates-differ). Deaths in some countries are counted as COVID-19 deaths if the patient died from a health condition un-related to COVID-19 (ex: heart attack) but was diagnosed with the virus. Some COVID-19 deaths are also never counted because of the testing shortage we just mentioned. Officially, a person cannot die from COVID-19 if they never had it. We have chosen to look at other data because of these issues.*
 
-# **Data**
+## Data
 
 This analysis uses data from two datasets: NTI’s Global Health Security Index (GHSI) and Oxford University’s COVID-19 Government Response Tracker (OxCGRT). The Global Health Security Index is an international standard for scoring country preparedness and response that capture country-level capacity to respond to global health outbreaks, like whether a country has a national public health preparedness & response plan. The OxCGRT measures actual country response, like school closings and international trade & travel regulations. It uses these measures to calculate an overall response score known as the Stringency Index. Specific details on how this score is calculated can be found on their [website](https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker).
 
-# **Hypothesis**
+## Hypothesis
 
 The GHSI Response score is meant to measure “Rapid response to and mitigation of the spread of an epidemic” but does not factor in time. We believe that there may be different relationships between actual government response and country response scores at different milestones of the pandemic. Here, we test our hypothesis that countries that score higher on the GHSI Response category will respond more quickly to an epidemic or pandemic than those that score lower.
 
-# **Analysis**
+## Analysis
 
 In order to measure the speed of government response, we calculated the amount of time of first action by measuring the number of days between a country’s first confirmed case of COVID-19 and its first action taken. We define the date of first action as the first date that a country has taken *any* measures, regardless of what those measures are. For example, a country that takes first action by restricting international travel on January 1 has the same date of first action as a country that takes first action by closing schools on January 1.
 
@@ -55,7 +53,7 @@ Our regression coefficient provides us with a specific measure of this relations
 
 ![days_model_2.png](/uploads/days_model_2.png)
 
-# **Conclusion**
+## Conclusion
 
 Ultimately, our model has shown us that this international standard for evaluating country response in a pandemic is not indicative of the speed of actual response, as measured by the number of days between a country’s first confirmed COVID-19 case and its first action. In this pandemic, countries that score lower on the index have acted more quickly than countries that score higher. This analysis does not invalidate the Global Health Security Index score for Response but rather identifies a gap in measurement. While certain countries may have, for example, robust response plans in place, there is no measure in the index to evaluate whether these plans will be enacted quickly or properly.
 
