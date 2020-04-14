@@ -1,6 +1,7 @@
 ---
 title: 'COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index'
 date: 2020-04-14 12:37:00 -04:00
+social-image: "/uploads/days_joint.png"
 ---
 
 # **Introduction**
