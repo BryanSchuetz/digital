@@ -15,7 +15,7 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
 
 ## Know Where People Are, Digitally Speaking
 
-While mobile penetration and internet access have grown rapidly, especially in the last few years, national-level statistics often hide regional or demographic variations in access, usage, and digital inclusion. In order to target digital communications, we must first have answers—even notional ones—to some basic questions:
+While mobile penetration and internet access have grown rapidly, especially in the last few years, national-level statistics often hide regional or demographic variations in access, usage, and digital inclusion. To target digital communications, we must first have answers—even notional ones—to some basic questions:
 
 - Who are we trying to reach? Who are the target populations whose behaviours need changing, and can have the widest, most positive impact on infection rates and other critical metrics?
 
