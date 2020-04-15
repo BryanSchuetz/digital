@@ -19,21 +19,21 @@ While mobile penetration and internet access have grown rapidly, especially in t
 
 - How – if at all – has COVID-19 affected digital access of users (e.g. is wifi access no longer a given in urban areas?)
 
-*Understand local context and users’ motivations, and use appropriate message design*
+## Understand local context and users’ motivations, and use appropriate message design
 
 All behavior change communications must contend with—and cut through—a crowded digital information ecosystem. Users’ attention is limited, and in an era where COVID-19-related material is being broadcast by local governments, private companies, local community leaders, and family networks, any new messaging needs to be based on a clear understanding of the local information landscape and users’ motivations, and messages need to be tailored to this context, using local languages, idioms, and content, ideally generated and vetted by trusted, influential local actors. For example, information from the World Health Organization (WHO) may be trusted and helpful for us sitting in capital cities like Nairobi or Washington, DC, but will not likely resonate with some of our most important constituents in rural Mexico or Cambodia, for example.
 
-*The messenger is just as important as the message, and don’t try to build trust from scratch*
+## The messenger is just as important as the message, and don’t try to build trust from scratch
 
 In the COVID-19 era, trust will be the defining characteristic of any successful attempt—digital or otherwise—to change behavior. In many developing markets, users are flooded—via WhatsApp messages, social networks, etc.—with a lot of information, and not all of it is based on science or best practice. For example, in certain Sub-Saharan African countries, there is a great deal of misinformation including the idea that people with black skin cannot get coronavirus. The basis of this myth is that COVID-19 hit predominately Asian, Arab and “White” countries, and the first few cases were imported by people with the means to travel. There is a secondary undercurrent to this misinformation—that the virus cannot survive in hot temperatures, which accounts for most of sub-Saharan Africa.
 
 In the era of online misinformation, users have to be able to trust the sources of their information, and this becomes all the more important when using digital channels, which are often impersonal or attempt to reach a wide variety of audiences at once. But trust is not simply a function of good audience segmentation. Digital communication channels must tap into and build on foundations created by ‘real’ relationships, the kind of created and fostered by agricultural extension networks, community savings and cooperative units, local civil society, and religious institutions. No attempt at quickly replicating these trust networks is likely to change the skepticism that often meets digital communications. The good news is that, in many cases, those same networks are also going online, adapting to the new reality. Building relationships with these networks to share and influence the behavior of target audiences will be critical, especially in the next few months of response.
 
-*Complement digital campaigns with traditional outreach*
+## Complement digital campaigns with traditional outreach
 
 Much like the trust networks mentioned above, local media and advertising channels – radio stations, television channels, billboards, or other media – often have direct links to target audiences. While digital communication channels can be better-targeted or more widely-distributed, these traditional channels play a critical role in establishing trust and providing different ways to configure content, especially where long-form content is needed. For example, in Zambia, the Ministry of Health has worked with all 3 mobile networks to send daily Whatsapp messages to all its citizens. Included in these updates is the status of COVID in Zambia, measures the government is taking, and specific measures individuals can take. Further, these text messages are translated into 7 local languages and turned into radio/TV readers for national and community broadcast.
 
-*Use digital data to monitor and improve campaigns*
+## Use digital data to monitor and improve campaigns
 
 Digital tools, in addition to being effective *output* channels, can also serve as valuable *input* channels for behavior change campaigns. By conducting baseline surveys (say, through SMS) of current knowledge, attitudes, and behavior, programs can identify priorities, establish targets, and measure progress over time.
 
