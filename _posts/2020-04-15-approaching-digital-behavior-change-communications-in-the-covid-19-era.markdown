@@ -15,6 +15,8 @@ While tackling the spread of the COVID-19 disease takes a multi-faceted approach
 
 Over the last few weeks, the DAI Center for Digital Acceleration has been exploring how digital communication tools can be used to build communications campaigns aimed at stemming the COVID-19 tide and spreading accurate information about targeted behaviors. We’ve pulled together some quick thoughts on the topic, but frankly, these are principles that apply in most *any* effort of this sort.
 
+<!--more-->
+
 ![COVID-19_BehaviorChange.jpg](/uploads/COVID-19_BehaviorChange.jpg)`Image from Upsplash posted by Brian McGowan.`
 
 ## Know Where People Are, Digitally Speaking
