@@ -1,5 +1,5 @@
 ---
-title: What are Digital Harms and Why Are They Important for Digital Development?
+title: What are Cyber Harms and Why Are They Important for Digital Development?
 date: 2020-03-05 06:06:00 -05:00
 tags:
 - Cybersecurity
