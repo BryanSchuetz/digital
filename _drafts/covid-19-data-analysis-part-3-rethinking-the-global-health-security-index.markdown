@@ -7,6 +7,7 @@ tags:
 - COVID-19
 - Data Visualization
 - Digital Health
+Author: Gratiana Fu
 social-image: "/uploads/days_joint.png"
 thumbnail: "/uploads/days_joint.png"
 ---
