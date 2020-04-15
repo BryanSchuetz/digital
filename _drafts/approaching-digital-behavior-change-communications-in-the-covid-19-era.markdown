@@ -11,9 +11,9 @@ Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptist
 
 While tackling the spread of the COVID-19 disease takes a multi-faceted approach, behavior change—especially around personal and respiratory hygiene, proper handwashing, social distancing, and so on—remains a critical need across countries where DAI and our clients operate. Further, as organizations and individuals increasingly embrace digital-based approaches to collaboration, communication, and information gathering, we are presented with an opportunity to incorporate these technologies across behavior change communication strategies. However, as many organizations have experienced since the start of near-global lockdowns, this transition to an all-digital way of working comes with unique roadblocks.
 
-Over the last few weeks, the DAI Center for Digital Acceleration has been exploring how digital communication tools can be used to build behavior change communications campaigns aimed at stemming the COVID-19 tide and spreading accurate information about targeted behaviors. We’ve pulled together some quick thoughts on the topic, but frankly, these are principles that apply in most *any* effort of this sort, whether COVID-related or not.
+Over the last few weeks, the DAI Center for Digital Acceleration has been exploring how digital communication tools can be used to build communications campaigns aimed at stemming the COVID-19 tide and spreading accurate information about targeted behaviors. We’ve pulled together some quick thoughts on the topic, but frankly, these are principles that apply in most *any* effort of this sort.
 
-## Know where people are, digitally-speaking
+## Know Where People Are, Digitally Speaking
 
 While mobile penetration and internet access have grown rapidly, especially in the last few years, national-level statistics often hide regional or demographic variations in access, usage, and digital inclusion. In order to target digital communications, we must first have answers—even notional ones—to some basic questions:
 
