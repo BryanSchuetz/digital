@@ -1,6 +1,9 @@
 ---
 title: Approaching Digital Behavior Change Communications (in the COVID-19 era)
 date: 2020-04-15 09:03:00 -04:00
+tags:
+- COVID-19
+- Digital Transformation
 Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptista/),
   [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/) and [Lindsey
   Kirn](https://www.linkedin.com/in/lindsey-kirn-8903a55/)"
