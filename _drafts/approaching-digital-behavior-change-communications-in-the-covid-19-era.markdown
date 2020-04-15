@@ -7,6 +7,8 @@ tags:
 Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptista/),
   [Anand Varghese](https://dai-global-digital.com/authors/anand-varghese/) and [Lindsey
   Kirn](https://www.linkedin.com/in/lindsey-kirn-8903a55/)"
+social-image: "/uploads/COVID-19_BehaviorChange.jpg"
+thumbnail: "/uploads/COVID-19_BehaviorChange.jpg"
 ---
 
 While tackling the spread of the COVID-19 disease takes a multi-faceted approach, behavior change—especially around personal and respiratory hygiene, proper handwashing, social distancing, and so on—remains a critical need across countries where DAI and our clients operate. Further, as organizations and individuals increasingly embrace digital-based approaches to collaboration, communication, and information gathering, we are presented with an opportunity to incorporate these technologies across behavior change communication strategies. However, as many organizations have experienced since the start of near-global lockdowns, this transition to an all-digital way of working comes with unique roadblocks.
