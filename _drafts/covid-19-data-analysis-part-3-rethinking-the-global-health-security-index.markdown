@@ -6,6 +6,7 @@ tags:
 - Data Visualization
 - Digital Health
 social-image: "/uploads/days_joint.png"
+thumbnail: "/uploads/days_joint.png"
 ---
 
 ## Introduction
