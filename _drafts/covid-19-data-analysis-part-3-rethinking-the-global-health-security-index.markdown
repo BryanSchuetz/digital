@@ -12,13 +12,14 @@ social-image: "/uploads/days_joint.png"
 thumbnail: "/uploads/days_joint.png"
 ---
 
-The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the [Nuclear Threat Initiative (NTI)’s Global Health Security Index](https://www.ghsindex.org) and levels of response by country governments measured using the [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D). You can read more about our initial exploratory analysis of the Global Health Security Index [here in our previous blog post](https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html). Oxford University has provided an initial report of its data on its website.
+The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous\` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the [Nuclear Threat Initiative (NTI)’s Global Health Security Index](https://www.ghsindex.org) and levels of response by country governments measured using the [Oxford COVID-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D). You can read more about our initial exploratory analysis of the Global Health Security Index [here in our previous blog post](https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html). Oxford University has provided an initial report of its data on its website.
 
 <!--more-->
 
 ### Key Findings
 
 * Countries that score lower in the Global Health Security Index Response category have mobilized *more quickly* against the spread of COVID-19 than countries that score higher.
+
 * For every additional point achieved on the Global Health Security Index Response score, countries take an additional \~0.60 days to act.
 
 *If you have been following our posts, you may have noticed that we have not included COVID-19 case data in our work. This has been intentional. Our analyses compare countries around the world—each of these countries, however, have different methods and resources to measure COVID-19 cases and deaths. In the United States, there is a severe shortage of tests for the virus and, as a result, the reported case numbers are understating the real case numbers. Different countries are also [measuring deaths differently](https://www.bbc.com/future/article/20200401-coronavirus-why-death-and-mortality-rates-differ). Deaths in some countries are counted as COVID-19 deaths if the patient died from a health condition unrelated to COVID-19 (a heart attack, for example) but was diagnosed with the virus. Some COVID-19 deaths are also never counted because of the testing shortage we just mentioned. Officially, a person cannot die from COVID-19 if they never had it. We have chosen to look at other data because of these issues.*
@@ -51,7 +52,7 @@ From our model output below, we can see that this model explains a small percent
 
 ![days_model.png](/uploads/days_model.png)
 
-Our regression co-efficient provides us with a specific measure of this relationship. This value (0.6026) indicates that for every additional point on the Global Health Security Index Response score, you can expect the number of days between first case and first action to increase by an average 0.60 days. Our p-value, \~0.00, indicates that this relationship is statistically significant—that is, that the differences in the Global Health Security Index Response score are associated with differences in the speed of action.
+Our regression co-efficient provides us with a specific measure of this relationship. This value (0.6026) indicates that for every additional point on the Global Health Security Index Response score, you can expect the number of days between first case and first action to increase by an average of 0.60 days. Our p-value, \~0.00, indicates that this relationship is statistically significant—that is, that the differences in the Global Health Security Index Response score are associated with differences in the speed of action.
 
 ![days_model_2.png](/uploads/days_model_2.png)
 
