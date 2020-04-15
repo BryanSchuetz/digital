@@ -1,5 +1,5 @@
 ---
-title: Approaching Digital Behavior Change Communications (in the COVID-19 era)
+title: Approaching Digital Behavior Change Communications in the COVID-19 Era
 date: 2020-04-15 09:03:00 -04:00
 tags:
 - COVID-19
