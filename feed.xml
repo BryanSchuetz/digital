@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Apr 2020 16:03:46 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2020 16:03:46 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2020 08:26:42 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2020 08:26:42 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -27,6 +27,29 @@
         
         <category>Digital Transformation</category>
         
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/days_joint.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index</title>
+        <description>&lt;p&gt;The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the &lt;a href=&quot;https://www.ghsindex.org&quot;&gt;Nuclear Threat Initiative (NTI)’s Global Health Security Index&lt;/a&gt; and levels of response by country governments measured using the &lt;a href=&quot;https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D&quot;&gt;Oxford COVID-19 Government Response Tracker&lt;/a&gt;. You can read more about our initial exploratory analysis of the Global Health Security Index &lt;a href=&quot;https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html&quot;&gt;here in our previous blog post&lt;/a&gt;. Oxford University has provided an initial report of its data on its website.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Apr 2020 12:37:00 -0400</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Data Visualization</category>
+        
+        <category>Digital Health</category>
+        
+        
+        <category>Global Health</category>
         
       </item>
     
@@ -188,25 +211,6 @@
 </author>
         <link>https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/cyber%20harms.jpg" medium="image" /> 
-        <title>What are Cyber Harms and Why Are They Important for Digital Development?</title>
-        <description>&lt;p&gt;Since 2014, the digital landscape has significantly changed globally. First, and most obvious, the number of internet users has nearly &lt;a href=&quot;https://www.statista.com/statistics/273018/number-of-internet-users-worldwide/&quot;&gt;doubled&lt;/a&gt; from 2.8 billion to more than 4 billion in the last six years. Second, and perhaps a bit less obvious, the number of cyber incidents, such as data breaches or cybercrimes, impacting the average internet user, has grown exponentially. For a while now, I’ve been thinking about what these cybersecurity trends mean for our work in digital development. I recently read an article that helped frame the challenge in a way that is easily digestible, even by the least digitally focused development expert.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Mar 2020 06:06:00 -0500</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/cyber-harm.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cyber-harm.html</guid>
-        
-        <category>Cybersecurity</category>
         
         <category>Digital Inclusion</category>
         
