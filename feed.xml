@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Apr 2020 08:26:42 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Apr 2020 08:26:42 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Apr 2020 08:33:05 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Apr 2020 08:33:05 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/days_joint.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index</title>
+        <description>&lt;p&gt;The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the &lt;a href=&quot;https://www.ghsindex.org&quot;&gt;Nuclear Threat Initiative (NTI)’s Global Health Security Index&lt;/a&gt; and levels of response by country governments measured using the &lt;a href=&quot;https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D&quot;&gt;Oxford COVID-19 Government Response Tracker&lt;/a&gt;. You can read more about our initial exploratory analysis of the Global Health Security Index &lt;a href=&quot;https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html&quot;&gt;here in our previous blog post&lt;/a&gt;. Oxford University has provided an initial report of its data on its website.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Apr 2020 08:00:00 -0400</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Data Visualization</category>
+        
+        <category>Digital Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/COVID-19_BehaviorChange.jpg" medium="image" /> 
@@ -27,29 +48,6 @@
         
         <category>Digital Transformation</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/days_joint.png" medium="image" /> 
-        <title>COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index</title>
-        <description>&lt;p&gt;The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the &lt;a href=&quot;https://www.ghsindex.org&quot;&gt;Nuclear Threat Initiative (NTI)’s Global Health Security Index&lt;/a&gt; and levels of response by country governments measured using the &lt;a href=&quot;https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker%5D&quot;&gt;Oxford COVID-19 Government Response Tracker&lt;/a&gt;. You can read more about our initial exploratory analysis of the Global Health Security Index &lt;a href=&quot;https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html&quot;&gt;here in our previous blog post&lt;/a&gt;. Oxford University has provided an initial report of its data on its website.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 14 Apr 2020 12:37:00 -0400</pubDate>
-        <author>Gratiana Fu
-</author>
-        <link>https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Data Visualization</category>
-        
-        <category>Digital Health</category>
-        
-        
-        <category>Global Health</category>
         
       </item>
     
