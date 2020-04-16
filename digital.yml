@@ -3,7 +3,7 @@
   pub: "Digital"
   date: 2020-04-16
   link: "https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html?utm_source=daidotcom"
-  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous` posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
+  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
   tags:
     - digital acceleration 
     - COVID-19 
