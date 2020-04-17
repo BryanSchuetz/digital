@@ -17,7 +17,7 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
 
 <!--more-->
 
-![COVID-19_BehaviorChange.jpg](/uploads/COVID-19_BehaviorChange.jpg)`Image from Upsplash posted by Brian McGowan.`
+![COVID-19_BehaviorChange.jpg](/uploads/COVID-19_BehaviorChange.jpg)
 
 ## Know Where People Are, Digitally Speaking
 
