@@ -36,4 +36,4 @@ Requests for clarification or additional information must be submitted in writin
 
 *Digital Frontiers is a buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements Digital Frontiers, which works closely with USAID’s Global Development Lab, the Center for Digital Development, USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
 
-*Kate Heuisler is a Principal Digital and Innovation Advisor for DAI.*
+*[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler) is a Principal Digital and Innovation Advisor for DAI.*
