@@ -2,6 +2,8 @@
 title: New RFA Calls for Innovative Solutions to Advance Digital Skills for Small
   Firms
 date: 2020-04-21 07:00:00 -04:00
+tags:
+- Digital Inclusion
 Author: Kate Heuisler
 social-image: "/uploads/coding%20classes_Cambodia%20DI.JPG"
 thumbnail: "/uploads/coding%20classes_Cambodia%20DI.JPG"
@@ -17,15 +19,18 @@ The initial operating countries for the Digital Asia Accelerator are Cambodia, L
 
 ![coding classes_Cambodia DI.JPG](/uploads/coding%20classes_Cambodia%20DI.JPG)`A coding class provided by the USAID Development Innovations project in Cambodia.`
 
-This week the Digital Asia Accelerator released a funding [opportunity](https://dai0-my.sharepoint.com/personal/kate_heuisler_dai_com/Documents/Link%20to%20RFA) to address some gaps in Cambodia, especially related to challenges faced by small- and medium-sized enterprises (SMEs) as they work to digitize processes and systems, and ensure their teams have the skills they need to take advantage of Cambodia’s potential for digital growth. This Request for Applications (RFA) is a call for concepts from innovative partners in Cambodia to address the need for digital skills training and digital security support for SMEs.
+This week the Digital Asia Accelerator released a funding [opportunity](https://drive.google.com/file/d/1D3dIvEoRGTC0IO7nJMLa1h88r7vzzA1M/view?usp=sharing) to address some gaps in Cambodia, especially related to challenges faced by small- and medium-sized enterprises (SMEs) as they work to digitize processes and systems, and ensure their teams have the skills they need to take advantage of Cambodia’s potential for digital growth. This Request for Applications (RFA) is a call for concepts from innovative partners in Cambodia to address the need for digital skills training and digital security support for SMEs.
 
 **Who Should Apply?**
 
 DAI is looking for organizations and businesses with the following qualifications:
 
 * Knowledge about digital skills gaps and the digital economy in Cambodia
+
 * Experience working on successful digital skills training and capacity building programs
+
 * Experience delivering successful support programs that address SME needs
+
 * Experience working with private sector partners to advance digital solutions and skills, especially U.S. companies, highly desirable
 
 More information on qualifications and how to apply can be found in the full RFA.
