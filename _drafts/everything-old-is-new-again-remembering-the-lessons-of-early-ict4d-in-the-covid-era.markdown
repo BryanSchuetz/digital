@@ -7,11 +7,12 @@ tags:
 - Digital Inclusion
 Author: Kristen Roggemann
 social-image: "/uploads/blog%201.webp"
+thumbnail: "/uploads/blog%201.webp"
 ---
 
 Often in the early days of digital development (back then, still called ICT4D), it felt like there was a small group of big, innovative brains in one room all working on similar visions of how best to leverage the growing presence of the iconic Nokia 3310 across the developing world. Frontline SMS, Ushahidi, Souktel and others were leading the charge from various corners of the Earth, and design luminaries like Jan Chipchase were [interviewed](https://www.nytimes.com/2008/04/13/magazine/13anthropology-t.html) in *New York Times* think pieces on how cellphones could end global poverty.  When I moved to Palestine to work for Souktel in the end of 2010, I was often literally in the same room as ICT4D "godparents" Ken Banks, Adele Waugaman and Erik Hersman, pleading our case to skeptical mobile network operators and Silicon Valley types who found our little ventures thrilling in a slightly Orientalist way. With SMS as the tech du jour, everyone codified similar lessons in real time around the successful design of, for example, mobile awareness campaigns. The ICT4D sector grew rapidly across markets, simultaneously building strong use cases for users and development practitioners alike. I do have some hilarious stories of mobile campaign lessons learned from the Somali piracy crisis, but I will save those for another day.
 
-Now, all these lessons are relevant again as we globally try to tackle COVID-19. 
+Now, all these lessons are relevant again as we globally try to tackle COVID-19.
 
 <!--more-->
 
@@ -26,7 +27,6 @@ On the digital team at DAI, we've been working together to rapidly develop quick
 * **Sensitize users to upcoming campaigns.** User engagement is higher if beneficiaries/constituents expect a project to contact them on a digital device.
 
 * **Create relevant local content.** Use the local language, and ensure that local sociocultural norms inform your messaging.
-
 
 * **Keep it short and simple.** Clear, direct, and succinct messages work best on digital devices. If launching an SMS-based survey, use maximum five questions and ideally a reverse-charge shortcode so as not to burden your user with the response fees.
 
