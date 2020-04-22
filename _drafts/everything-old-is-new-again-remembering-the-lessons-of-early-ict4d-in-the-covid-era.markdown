@@ -1,6 +1,6 @@
 ---
 title: 'Everything Old is New Again: Remembering the Lessons of Early ICT4D in the
-  COVID Era'
+  COVID-19 Era'
 date: 2020-04-22 09:04:00 -04:00
 tags:
 - COVID-19
