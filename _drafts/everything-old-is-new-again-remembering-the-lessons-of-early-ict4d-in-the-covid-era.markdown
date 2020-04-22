@@ -26,7 +26,7 @@ On the digital team at DAI, we've been working together to rapidly develop quick
 
 * **Keep it short and simple.** Clear, direct, and succinct messages work best on digital devices. If launching an SMS-based survey, use maximum five questions and ideally a reverse-charge shortcode so as not to burden your user with the response fees.
 
-* \*\*Use multiple outreach methods.\*\*  If budgets allow, consider creating a multi-channel campaign with a consistent identity that employs different digital platforms to reach the target audience (like South Korea!)
+* **Use multiple outreach methods.**  If budgets allow, consider creating a multi-channel campaign with a consistent identity that employs different digital platforms to reach the target audience (like South Korea!)
 
 * **Maintain user privacy.** Enact a clear set of guidelines governing data privacy and use.
 
