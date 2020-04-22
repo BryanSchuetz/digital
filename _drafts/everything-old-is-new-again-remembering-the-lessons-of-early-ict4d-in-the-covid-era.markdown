@@ -16,24 +16,17 @@ Now, all these lessons are relevant again as we globally try to tackle COVID-19.
 
 <!--more-->
 
-Despite the decade that has passed, and the almost unimaginable maturation and growth of both the global mobile sector and what we now call digital development, we once again dust off tried & true methods of engaging with users. Basic mobile solutions – from providing SMS and IVR gateways, using shortcodes, and developing outreach campaign strategies – are again becoming a compelling way to both connect at scale and fight the noise and misinformation passed around on social media platforms.
+Despite the decade that has passed, and the almost unimaginable maturation and growth of both the global mobile sector and what we now call digital development, we once again dust off tried & true methods of engaging with users. Basic mobile solutions—from providing SMS and IVR gateways, using shortcodes, and developing outreach campaign strategies—are again becoming a compelling way to both connect at scale and fight the noise and misinformation passed around on social media platforms.
 
 We have seen the success of this type of approach. In the peak of the South Korea COVID-19 crisis, the government used a [hard-coded contact ](https://thediplomat.com/2020/03/lessons-from-south-koreas-covid-19-outbreak-the-good-bad-and-ugly/)in each phone to send almost hourly, real-time SMS updates across the country around both general COVID-19 safety and user-specific contact tracing-based exposure alerts. This hard-coded contact meant there was no question about its authenticity, alleviating concerns about pranks and false reports. This SMS-based information, aligned with television, radio and internet campaigns, counteracted rumors and misinformation and was one of the driving reasons [South Korea](https://www.ictworks.org/wp-content/uploads/2020/04/korea-flattening-covid-19-curve.pdf) was able to mount such a successful COVID-19 response.
 
 On the digital team at DAI, we've been working together to rapidly develop quick reference guides for our projects around the world who now find themselves leaning far more heavily on digital solutions than previously anticipated.  I've put a selection of our user engagement best practices below, which I hope will be a help to folks who find themselves staring at the user interface of an online SMS gateway system with great trepidation about where to begin.
 
 * **Meet the users where they are.** Choose a digital solution that your target users already use and trust. Provide clear instructions to users about how to use the solution.
-
 * **Sensitize users to upcoming campaigns.** User engagement is higher if beneficiaries/constituents expect a project to contact them on a digital device.
-
 * **Create relevant local content.** Use the local language, and ensure that local sociocultural norms inform your messaging.
-
 * **Keep it short and simple.** Clear, direct, and succinct messages work best on digital devices. If launching an SMS-based survey, use maximum five questions and ideally a reverse-charge shortcode so as not to burden your user with the response fees.
-
-* **Use multiple outreach methods.**  If budgets allow, consider creating a multi-channel campaign with a consistent identity that employs different digital platforms to reach the target audience (like South Korea!)
-
+* **Use multiple outreach methods.** If budgets allow, consider creating a multi-channel campaign with a consistent identity that employs different digital platforms to reach the target audience (like South Korea!)
 * **Maintain user privacy.** Enact a clear set of guidelines governing data privacy and use.
-
 * **Pilot and iterate.** Conduct small tests with target users and make any changes as needed. Apply any lessons learned from the pilots before scaling up.
-
 * **There is no perfect solution.** Every option has drawbacks, but that should not stop us from trying.
