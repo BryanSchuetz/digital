@@ -25,17 +25,10 @@ We have seen the success of this type of approach. In the peak of South Korea's 
 The Center for Digital Acceleration at DAI has been working to rapidly develop quick reference guides for our projects around the world that now find themselves leaning far more heavily on digital solutions than previously anticipated. I've put a selection of our user engagement best practices below, which I hope will help folks who find themselves staring at the user interface of an online texting gateway system with trepidation about where to begin.
 
 * **Meet users where they are.** Choose a digital solution that your target users already use and trust. Provide clear instructions to users about how to use the solution.
-
 * **Sensitize users to upcoming campaigns.** User engagement is higher if beneficiaries and constituents expect a project to contact them on a digital device.
-
 * **Create relevant local content.** Use the local language and ensure that sociocultural norms inform your messaging.
-
 * **Keep it short and simple.** Clear, direct, and succinct messages work best on digital devices. If launching a text-based survey, use a maximum of five questions and ideally a reverse-charge shortcode so as not to burden your user with a fee for their response.
-
 * **Use multiple outreach methods.** If budgets allow, consider creating a multichannel campaign with a consistent identity that employs different digital platforms to reach the target audience (like South Korea!)
-
 * **Maintain user privacy.** Enact a clear set of guidelines governing data privacy and use.
-
 * **Pilot and iterate.** Conduct small tests with target users and make any changes as needed. Apply any lessons learned from the pilots before scaling up.
-
 * **There is no perfect solution.** Every option has drawbacks, but that should not stop us from trying.
