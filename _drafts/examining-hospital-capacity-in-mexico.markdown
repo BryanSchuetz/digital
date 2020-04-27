@@ -4,13 +4,14 @@ date: 2020-04-27 13:45:00 -04:00
 ---
 
 One of the most important determinants of death rates in a pandemic is hospital capacity rates. The principal reason public health officials have spoken so much about “flattening the curve” is due to the need to reduce hospital burden: when a city, state, or country has a large spike in cases over a short period of time, hospitals will get inundated with moderate to severe cases to the point where doctors must make choices on who receives care. This is the current reality experienced in New York and the tail end of what has transpired in the current wave of cases of Italy and Spain, among other European countries. 
+
 While focus has largely been on these hotspots, large middle-income countries such as Brazil, Mexico, and South Africa have recently suffered a surge in cases. In particular, DAI’s presence in Mexico with the Better Health project of the FCO leads us to ask what health care resources the country has at its disposal. Our national level population risk index suggests that Mexico has a medium level of risk, which makes it an interesting case study for other countries at this level. In this article, we evaluate hospital capacity in Mexico by providing scenario forecasts on bed availability at the subnational level. As such, this article is divided into three parts. First, we provide a brief overview of the Mexican health system and the hospital resources available. Second, we examine hospital capacity forecasting scenarios at the state level based upon the [Harvard Global Public Health Institute’s](https://globalhealth.harvard.edu/) estimates for regions of the United States. In doing so, we estimate a first set of scenarios of hospital occupancy rates using only public hospital resources, and then a second set of scenarios that includes the resources of the private hospital network. Finally, we conclude with some insights and implications of these forecasts.
 
 **A Brief Overview of Mexico’s Health System and Hospital Beds**
 
 According to the [World Health Organization’s Global Health Observatory](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population)), in 2015 Mexico has 15 hospital beds per 10,000 people, which puts it at 119 out of 181 countries in the world for which data is reported. The country has far fewer resources available compared to other countries of North America and also to other Latin American countries of the similar income per capita and population size. In fact, there isn’t a single indicator of the three shown below where Mexico ranks high compared to other countries and [this situation has worsened over the years as the system has been neglected.](https://www.washingtonpost.com/world/the_americas/mexico-coronavirus-hospital-outbreaks-imss-amlo/2020/04/18/e3a4e48e-7f66-11ea-84c2-0792d8591911_story.html)  
 
-XXXX
+![figure_1.png](/uploads/figure_1.png)
 
 Mexico is also a low spender in health. In 2018 the share of GDP allocated to health was 5.5%.  For the same year, the OECD average was 8.8%.  Compared to regional benchmarks, Brazil dedicated 9.2% of GDP to health, Chile 8.9% and Colombia 7.2%. As a result of the chronic underspending, most noticeable in the last few years, the hospital sub-system is underequipped and understaffed.   
 
@@ -20,7 +21,7 @@ According to [February 2020 data from the Secretary of Health](http://www.dgis.s
 
 As the figure below shows, 87% of all hospital beds in operating hospitals are under the IMSS, SSA, and private medical services (SMP) sectors. This corresponds to 30,180 in the SMP-run hospitals, 33,873 beds in IMSS-run hospitals, and 39,318 beds in the SSA-run hospital system. It is noteworthy that although the private system represents roughly a quarter of the hospital beds it has by far the largest number of operating hospitals at 3,303. This corresponds to 70% of the entire system. This discrepancy is [explained by the fact that many private hospitals are medium sized](https://www.gob.mx/cms/uploads/attachment/file/239410/ISSM_2016.pdf). Although some private hospitals are large highly specialized (JCI accredited) medical centers that are concentrated in the large cities, most private hospitals are small (0-20 beds) and cater to medium and low income patients and perform low complexity procedures.  
 
-XXXX
+![figure_2.png](/uploads/figure_2.png)
 
 How does this correspond to the distribution of the population by service provider? The Mexican health system is characterized by significant distortions, given the peculiar nature of providing entire social security regimes for single employers such as PEMEX, SEDEMA, and SEMAR. These three regimes have significantly more resources than the corresponding percentages of the population with access to them. 
 
@@ -37,13 +38,14 @@ Fitting these assumptions to our model using [INEGI population estimates for 202
 This analysis has important limitations, in that it does not consider at-risk demographic and behavioral risks or that access to healthcare will not be the same in a highly unequal country such as Mexico. While it does factor in the importance of age of hospital occupants, it does not consider factors such as obesity, respiratory conditions, and other risk factors. While we know these factors are important, no study yet has been able to quantify the increased likelihood of hospitalization for these population subgroups as has been done with age groups. Once these can be properly estimated, we can consider how this may change stress on hospitals in different regions. 
 
 Which scenario is closest to reality? This is unclear as much of it will depend on how the government is able to administer the utilization of the public and private systems. However, given the reliance of low to middle income families on private hospitals prior to COVID-19, there is no reason to believe that these resources will not be utilized by the population. Additionally, the federal government recently announced an [agreement with private sector hospitals](https://www.infobae.com/america/mexico/2020/04/08/en-que-consiste-el-acuerdo-al-que-el-gobierno-llego-con-hospitales-privados-para-atender-pacientes-con-covid-19/) to treat non-COVID-19 patients referred by public institutions to depressurize the public sector hospitals. 
+
 This suggests that the forecast including hospital beds of the private sector are a better indication of resources available, although this could be overly optimistic. This model does not consider doctor, nurse and administrative capacity or bandwidth to optimally allocate patients to where hospital beds are available and provide them adequate care once admitted. 
 
 **Baseline Occupancy Rates**
 
 It is not realistic to expect a flat occupancy rate across all hospitals and regions of Mexico, since some states simply have more efficient uses of their hospitals than others. The map below shows [hospital occupancy rates](https://www.health.pa.gov/topics/HealthStatistics/Statistical-Resources/UnderstandingHealthStats/Documents/Occupancy_Rates_in_Health_Facilities.pdf) for 2017, which are the most recent estimates available.
 
-XXXX
+![figure_3.png](/uploads/figure_3.png)
 
 The principal states that jump out are Queretaro and Guanajuato, at 96% and 88% occupancy, respectively. Many of the states with lower occupancy rates, such as Colima and Durango, are also less populated: Colima has the lowest total population at 785,159 and Durango is the ninth lowest in total population at 1,869,006. This is worth keeping in mind for sharing hospital resources across states: while the data suggests that these states might be the best options for sharing resources to overwhelmed states and hotspots, the fact that these states have fewer people also means they have fewer overall resources and thus less they can contribute overall.
  
@@ -55,7 +57,7 @@ For private hospitals, we utilize a flat 33% occupancy rate for all states, whic
 
 As is the case with estimates of the United States, the map gets red very quickly and estimated occupancy rates for all states are over 200% in all of the six-month scenarios. Even in the most optimistic scenarios, most states are well over 100%. For the most optimistic scenario of 20% infected in 18-months, the only states below 100% are Baja California Sur, Colima, Mexico City, Tamaulipas, Sonora, and Durango.   
 
-XXX
+![figure_4.png](/uploads/figure_4.png)
 
 Of particular concern are states with high baseline occupancy rates. Most specifically, the state of Queretaro is at very high risk: if Queretaro were to rely only on public hospital resources, they would face 673.39% occupancy rates in the best-case scenario. The forecast under this scenario is not much better for Hidalgo, Guanajuato, Tabasco, and Chiapas, whose rates are all over 250%. 
 
@@ -65,7 +67,7 @@ Secondly, there is significant stress in the states surrounding Mexico City in t
 
 The map below shows our state-level hospital occupancy rates estimates when private hospital beds are factored in. The overall situation improves significantly with the addition of these resources, which highlights the importance in maximizing their use as the number of patients increase. Nevertheless, the scenario with all resources on the table is still bleak and there is significant risk for all states in each scenario.
 
-XXX
+![figure_5.png](/uploads/figure_5.png)
 
 Regionally, there are some similarities and differences compared to the previous model. As before, the southern States are in the red and reach levels over 100% well before the North. The lack of presence of private hospitals in the South and their strong presence in Northern states such as Baja California, Nuevon Leon, and Chihuahua further exacerbate the regional inequalities. The situation is only mildly better moving towards the Yucatan peninsula, and the state of Campeche in particular has more predicted stress given its low baseline rate of public hospital occupancy. 
 
