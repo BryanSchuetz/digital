@@ -1,6 +1,14 @@
 ---
 title: 'COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico'
 date: 2020-04-27 13:45:00 -04:00
+categories:
+- Global Health
+- Data Analysis
+tags:
+- Global Health
+- Data Visualization
+- COVID-19
+- Latin America and the Caribbean
 Author: Jamie Parr
 ---
 
