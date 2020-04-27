@@ -7,6 +7,8 @@ tags:
 - COVID-19
 - Global Health
 - Latin America and the Caribbean
+Author: Jamie Parr
+Field name: 
 ---
 
 One of the most important determinants of death rates in a pandemic is hospital capacity rates. The principal reason public health officials have spoken so much about “flattening the curve” is due to the need to reduce hospital burden: when a city, state, or country has a large spike in cases over a short period of time, hospitals will get inundated with moderate to severe cases to the point where doctors must make choices on who receives care. This is the current reality experienced in New York and the tail end of what has transpired in the current wave of cases of Italy and Spain, among other European countries. 
