@@ -56,7 +56,7 @@ This suggests that the forecast including hospital beds of the private sector ar
 
 It is not realistic to expect a flat occupancy rate across all hospitals and regions of Mexico, since some states simply have more efficient uses of their hospitals than others. The map below shows [hospital occupancy rates](https://www.health.pa.gov/topics/HealthStatistics/Statistical-Resources/UnderstandingHealthStats/Documents/Occupancy_Rates_in_Health_Facilities.pdf) for 2017, which are the most recent estimates available.
 
-![figure_3-e4f57f.png](/uploads/figure_3-e4f57f.png)
+![figure_3-bcc8a9.png](/uploads/figure_3-bcc8a9.png)
 
 The principal states that jump out are Queretaro and Guanajuato, at 96% and 88% occupancy, respectively. Many of the states with lower occupancy rates, such as Colima and Durango, are also less populated: Colima has the lowest total population at 785,159 and Durango is the ninth lowest in total population at 1,869,006. This is worth keeping in mind for sharing hospital resources across states: while the data suggests that these states might be the best options for sharing resources to overwhelmed states and hotspots, the fact that these states have fewer people also means they have fewer overall resources and thus less they can contribute overall.
  
