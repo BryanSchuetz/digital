@@ -3,6 +3,9 @@ title: 'Information Liberation: What is Open Data, and Why Does it Matter?'
 date: 2020-04-28 14:44:00 -04:00
 tags:
 - Data
+Author: Erica Behrens
+social-image: "/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg"
+thumbnail: "/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg"
 ---
 
 Less than two weeks ago, on April 21, 2020, [Microsoft](https://blogs.microsoft.com/on-the-issues/2020/04/21/open-data-campaign-divide/) announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses [the Open Knowledge Foundation’s definition](http://opendatatoolkit.worldbank.org/en/essentials.html) for open data. According to them, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both *legally* open, publicly accessible or with minimal restrictions, and *technically* open, published in electronic formats that are computer readable and non-proprietary. This type of data is not to be confused with "big data." As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won't be spending more time on this particular topic, but if you're interested in learning more, I highly recommend reading a [guest post](https://dai-global-digital.com/should-big-data-be-open-data.html) we published on the subject in 2016.
