@@ -9,7 +9,7 @@ Less than two weeks ago, on April 21, 2020, [Microsoft](https://blogs.microsoft.
 
 <!--more-->
 
-**A Brief History**
+## A Brief History
 
 Though I myself only recently delved into the topic, the concept of open data itself is not new. According to the [Paris Tech Review](http://www.paristechreview.com/2013/03/29/brief-history-open-data/), the term “open data” first appeared in a 1995 report about geophysical and environmental data from an American scientific agency. That said,  the concept of knowledge-sharing for public good had long been promoted by  members of the scientific community, who recognized the benefits of freely available research results to build on people's previous findings.
 
@@ -19,15 +19,17 @@ The concept has recently gained renewed momentum, solidifying and growing in pop
 
 ![franki-chamaki-1K6IQsQbizI-unsplash.jpg](/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)`Photo by Franki Chamaki from Unsplash`
 
-**Who benefits?**
+## Who Benefits?
 
 The implications of open data can be seen across a wide variety of sectors and use cases. In some cases, like medical research, the benefits are more obvious. With access to results of other clinical trials, researchers can build upon the findings of others rather than starting anew, or can compare outcomes to confirm the accuracy, reliability, and consistency of results. In times of public health emergencies, such as the Ebola outbreak or the ongoing COVID-19 pandemic, the real-time sharing of data on effective treatments, new outbreaks, and demographic data, help shape a more effective response.
 
-In other cases, the benefits are less obvious, but nonetheless beneficial. In the financial sector, perhaps the greatest example of open data implementation is the recent adoption of [Open Banking regulations](https://www.openbanking.org.uk/) in the UK, among other European countries. Through this data-sharing mechanism, both consumers and society more broadly have greater options as smaller banks and financial service providers are able to access previously guarded data, providing them a chance to succeed in the market. In the transportation sector, like medicine, data-sharing has life-saving implications. Every day, traffic collisions between drivers, passengers, pedestrians, and cyclists kill and injure thousands worldwide, constituting not only a public health crisis but an economic and development issue as well. By sharing data, the road safety community can invest in evidence-based policies, create smarter technologies, and [allow for safer and smarter decision-making.](https://www.togetherforsaferroads.org/)
+In other cases, the benefits are less obvious, but nonetheless beneficial. In the financial sector, perhaps the greatest example of open data implementation is the recent adoption of [Open Banking regulations](https://www.openbanking.org.uk/) in the UK, among other European countries. Through this data-sharing mechanism, both consumers and society more broadly have greater options as smaller banks and financial service providers are able to access previously guarded data, providing them a chance to succeed in the market. 
+
+The transportation sector is another interesting case. Like in medicine, data-sharing has life-saving implications. Every day, traffic collisions between drivers, passengers, pedestrians, and cyclists kill and injure thousands worldwide, constituting not only a public health crisis but an economic and development issue as well. By sharing data, the road safety community can invest in evidence-based policies, create smarter technologies, and [allow for safer and smarter decision-making.](https://www.togetherforsaferroads.org/)
 
 ![ibrahim-rifath-cupT2oSGNJc-unsplash.jpg](/uploads/ibrahim-rifath-cupT2oSGNJc-unsplash.jpg) `Photo by Ibrahim Rifath on Unsplash`
 
-*See:* \*[What is ‘open data’ and why should we care?](https://theodi.org/article/what-is-open-data-and-why-should-we-care/) \*and my colleague’s post on [the use of open data for coordinated decision-making](https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html) across North, Central, South America, and the Caribbean.
+There are dozens of other case studies that highlight the benefits of open data. If you're interested in more of these, I recommend reading ODI's *[What is ‘open data’ and why should we care?](https://theodi.org/article/what-is-open-data-and-why-should-we-care/)* and my colleague’s post on [the use of open data for coordinated decision-making](https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html) across North, Central, South America, and the Caribbean.
 
 **Open Data and the Private Sector**
 
