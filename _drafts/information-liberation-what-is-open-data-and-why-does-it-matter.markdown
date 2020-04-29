@@ -30,7 +30,7 @@ In other cases, the benefits are less obvious, but nonetheless beneficial. In th
 
 The transportation sector is another interesting case. Like in medicine, data-sharing in this space has life-saving implications. Every day, traffic collisions between drivers, passengers, pedestrians, and cyclists kill and injure thousands worldwide, constituting not only a public health crisis but an economic and development issue as well. By sharing data, the road safety community can invest in evidence-based policies, create smarter technologies, and [allow for safer and smarter decision-making.](https://www.togetherforsaferroads.org/)
 
-![ibrahim-rifath-cupT2oSGNJc-unsplash.jpg](/uploads/ibrahim-rifath-cupT2oSGNJc-unsplash.jpg) `Photo by Ibrahim Rifath on Unsplash`
+![ibrahim-rifath-cupT2oSGNJc-unsplash.jpg](/uploads/ibrahim-rifath-cupT2oSGNJc-unsplash.jpg) `Photo Courtesy: Ibrahim Rifath on Unsplash.`
 
 There are dozens of other case studies that highlight the benefits of open data. If you're interested in more of these, I recommend checking out the Open Data Institute's [open and shared data case studies ](https://theodi.org/knowledge-opinion/case-studies/)and my colleague’s post on [the use of open data for coordinated decision-making](https://dai-global-digital.com/the-americas-effort-to-integrate-distribute-and-use-open-data.html) across North, Central, South America, and the Caribbean.
 
