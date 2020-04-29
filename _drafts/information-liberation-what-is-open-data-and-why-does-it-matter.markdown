@@ -18,9 +18,9 @@ Though I myself only recently delved into the topic, the concept of open data it
 
 With the advent of the internet, the concept and real-life applications of open knowledge sharing saw new potential, and ideas of how data should be shared, governed, and applied gained new complexities. Since arrival, the principles of open data have been implemented not just in scientific research contexts, but across varied sectors and actors, including private companies, public governing bodies, nongovernmental organizations, and individuals.
 
-The concept has recently gained renewed momentum, growing in popularity and credibility with big-name companies and governments showing their commitment to the movement. The merits of the movement and its objective to make data more widely available have been highlighted by the [role of data in response to COVID-19.](https://blog.okfn.org/2020/04/16/coronavirus-why-an-open-future-has-never-been-more-important/)
+The concept has recently gained renewed momentum, growing in popularity and credibility with big-name companies and governments showing their commitment to the movement. The merits of the movement and its objective to make data more widely available have been highlighted by the role of data in [response to COVID-19.](https://blog.okfn.org/2020/04/16/coronavirus-why-an-open-future-has-never-been-more-important/)
 
-![franki-chamaki-1K6IQsQbizI-unsplash.jpg](/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)`Photo by Franki Chamaki from Unsplash`
+![franki-chamaki-1K6IQsQbizI-unsplash.jpg](/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)`Photo Courtesy: Franki Chamaki from Unsplash.`
 
 ## Who Benefits?
 
