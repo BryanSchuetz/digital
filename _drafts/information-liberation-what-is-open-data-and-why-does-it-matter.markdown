@@ -1,10 +1,8 @@
 ---
 title: 'Information Liberation: What is Open Data, and Why Does it Matter?'
 date: 2020-04-28 14:44:00 -04:00
-categories:
-- open data
 tags:
-- open data
+- Data
 ---
 
 Less than two weeks ago, on April 21, 2020, [Microsoft](https://blogs.microsoft.com/on-the-issues/2020/04/21/open-data-campaign-divide/) announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses [the Open Knowledge Foundation’s definition](http://opendatatoolkit.worldbank.org/en/essentials.html) for open data. According to them, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both *legally* open, publicly accessible or with minimal restrictions, and *technically* open, published in electronic formats that are computer readable and non-proprietary. This type of data is not to be confused with "big data." As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won't be spending more time on this particular topic, but if you're interested in learning more, I highly recommend reading a [guest post](https://dai-global-digital.com/should-big-data-be-open-data.html) we published on the subject in 2016. 
@@ -13,11 +11,11 @@ Less than two weeks ago, on April 21, 2020, [Microsoft](https://blogs.microsoft.
 
 **A Brief History**
 
-Though I myself only recently delved into the topic, the concept of open data itself is not new. According to the [Paris Tech Review](http://www.paristechreview.com/2013/03/29/brief-history-open-data/), the term “open data” first appeared in a 1995 report about geophysical and environmental data from an American scientific agency. That said,  the concept of knowledge-sharing for public good had long been promoted by  members of the scientific community, who recognized the benefits of freely available research results for building progress.
+Though I myself only recently delved into the topic, the concept of open data itself is not new. According to the [Paris Tech Review](http://www.paristechreview.com/2013/03/29/brief-history-open-data/), the term “open data” first appeared in a 1995 report about geophysical and environmental data from an American scientific agency. That said,  the concept of knowledge-sharing for public good had long been promoted by  members of the scientific community, who recognized the benefits of freely available research results to build on people's previous findings.
 
-With the advent of the internet, however, the concept and real-life applications of open knowledge sharing saw new potential, and ideas of how data should be shared, governed, and applied gained new complexities. Since its arrival, the principles of open data have been implemented not just in scientific research contexts, but across varied sectors and actors, including private companies, public governing bodies, NGOs, and individuals.
+With the advent of the internet, the concept and real-life applications of open knowledge sharing saw new potential, and ideas of how data should be shared, governed, and applied gained new complexities. Since its arrival, the principles of open data have been implemented not just in scientific research contexts, but across varied sectors and actors, including private companies, public governing bodies, NGOs, and individuals.
 
-Though previously established, the concept has recently gained momentum, solidifying and growing in popularity and credibility with big-name companies and governments showing their commitment to the movement. The merits of the movement and its objective to make data more widely available have been highlighted by the evident [role of data in response to COVID-19.](https://blog.okfn.org/2020/04/16/coronavirus-why-an-open-future-has-never-been-more-important/)
+The concept has recently gained renewed momentum, solidifying and growing in popularity and credibility with big-name companies and governments showing their commitment to the movement. The merits of the movement and its objective to make data more widely available have been highlighted by the [role of data in response to COVID-19.](https://blog.okfn.org/2020/04/16/coronavirus-why-an-open-future-has-never-been-more-important/)
 
 ![franki-chamaki-1K6IQsQbizI-unsplash.jpg](/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg)`Photo by Franki Chamaki from Unsplash`
 
