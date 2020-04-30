@@ -6,6 +6,8 @@ tags:
 - COVID-19
 - Entrepreneurship
 Author: "[Zaki Raheem](https://www.linkedin.com/in/zaki-raheem-2130717/), [Doug McClean](https://www.linkedin.com/in/doug-mclean-6b029044/)"
+social-image: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
+thumbnail: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
 ---
 
 ![oscar-nilsson-1BHYZFVyGaw-unsplash.jpg](/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg)
