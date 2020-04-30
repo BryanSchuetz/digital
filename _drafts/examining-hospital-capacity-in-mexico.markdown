@@ -56,7 +56,7 @@ This suggests that the forecast including hospital beds of the private sector is
 
 **Baseline Occupancy Rates**
 
-It is not realistic to expect a flat occupancy rate across all hospitals and regions of Mexico, since some states simply have more efficient uses of their hospitals than others. The map below shows [hospital occupancy rates](https://www.health.pa.gov/topics/HealthStatistics/Statistical-Resources/UnderstandingHealthStats/Documents/Occupancy_Rates_in_Health_Facilities.pdf) for 2017, which are the most recent estimates available.
+It is not realistic to expect a flat occupancy rate across all hospitals and regions of Mexico, since some states simply have more efficient uses of their hospitals than others. The map below shows [hospital occupancy rates](https://www.health.pa.gov/topics/HealthStatistics/Statistical-Resources/UnderstandingHealthStats/Documents/Occupancy_Rates_in_Health_Facilities.pdf) for 2017, the most recent estimates available.
 
 ![figure_3-bcc8a9.png](/uploads/figure_3-bcc8a9.png)
 
