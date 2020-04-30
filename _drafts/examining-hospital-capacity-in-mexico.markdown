@@ -1,15 +1,13 @@
 ---
 title: 'COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico'
-date: 2020-04-27 13:45:00 -04:00
-categories:
-- Global Health
-- Data Analysis
+date: 2020-05-01 06:00:00 -04:00
 tags:
-- Global Health
 - Data Visualization
 - COVID-19
-- Latin America and the Caribbean
+- Digital Health
 Author: Jamie Parr
+social-image: "/uploads/figure_5.png"
+thumbnail: "/uploads/figure_5.png"
 ---
 
 *This article was written by DAI's [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/), with contributions and suggestions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/), [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/), [Eduardo González-Pier](https://www.dai.com/who-we-are/our-team/eduardo-gonzalez-pier), [Susan Scribner](https://www.dai.com/who-we-are/our-team/susan-scribner), and [Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks). This analysis is Part 4 of a series on known risk factors associated with COVID-19, which takes a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.*
