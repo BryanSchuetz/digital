@@ -52,7 +52,7 @@ This analysis has important limitations, in that it does not consider at-risk de
 
 Which scenario is closest to reality? This is unclear as much of it will depend on how the government is able to administer the utilization of the public and private systems. However, given the reliance of low- to middle-income families on private hospitals prior to COVID-19, there is no reason to believe that these resources will not be utilized by the population. Additionally, the federal government recently announced an agreement with [private sector hospitals](https://www.infobae.com/america/mexico/2020/04/08/en-que-consiste-el-acuerdo-al-que-el-gobierno-llego-con-hospitales-privados-para-atender-pacientes-con-covid-19/) to treat non-COVID-19 patients referred by public institutions to depressurize the public sector hospitals. 
 
-This suggests that the forecast including hospital beds of the private sector are a better indication of resources available, although this could be overly optimistic. This model does not consider doctor, nurse and administrative capacity or bandwidth to optimally allocate patients to where hospital beds are available and provide them adequate care once admitted. 
+This suggests that the forecast including hospital beds of the private sector is a better indication of resources available, although this could be overly optimistic. This model does not consider doctor, nurse, and administrative capacity or bandwidth to optimally allocate patients to where hospital beds are available and provide them adequate care once admitted. 
 
 **Baseline Occupancy Rates**
 
