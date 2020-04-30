@@ -10,7 +10,7 @@ social-image: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
 thumbnail: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
 ---
 
-![oscar-nilsson-1BHYZFVyGaw-unsplash.jpg](/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg)
+![oscar-nilsson-1BHYZFVyGaw-unsplash.jpg](/uploads/oscar-nilsson-Photo by Oscar Nilsson on Unsplash
 
 During this unprecedented global economic downturn caused by COVID-19, accelerators, incubators, and other entrepreneurship support organizations have a valuable role to play in helping entrepreneurs and small and medium-sized enterprises (SMEs) in emerging and frontier markets. Over the past two months supporting the [Shell LiveWIRE](https://www.dai.com/our-work/projects/worldwide-shell-livewire-global-consultancy) global entrepreneurship program and the [Kosmos Innovation Center](https://www.dai.com/our-work/projects/ghana-kosmos-innovation-center-kic), DAI’s [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) has worked closely with the Global Accelerator Network (\[GAN\](C:\\Users\\ZRaheem\\Documents\\DAI\\Sustainable Business Group (SBG)\\Brown Bag Presentations\\10 Trends Changing Entrepreneurship Ecosystems\\Blog on Entrepreneurship Trends\\gan.co)) and the Aspen Network of Development Entrepreneurs ([ANDE](http://andeglobal.org/)) to leverage technology in support of global entrepreneurship in emerging economies. For corporates, foundations, donors, and development banks that support similar entrepreneurship ecosystems, we offer some learning here from our projects and global networks.
 
