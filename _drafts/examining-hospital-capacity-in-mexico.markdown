@@ -54,7 +54,7 @@ Which scenario is closest to reality? This is unclear as much of it will depend 
 
 This suggests that the forecast including hospital beds of the private sector is a better indication of resources available, although this could be overly optimistic. This model does not consider doctor, nurse, and administrative capacity or bandwidth to optimally allocate patients to where hospital beds are available and provide them adequate care once admitted. 
 
-**Baseline Occupancy Rates**
+## Baseline Occupancy Rates
 
 It is not realistic to expect a flat occupancy rate across all hospitals and regions of Mexico, since some states simply have more efficient uses of their hospitals than others. The map below shows [hospital occupancy rates](https://www.health.pa.gov/topics/HealthStatistics/Statistical-Resources/UnderstandingHealthStats/Documents/Occupancy_Rates_in_Health_Facilities.pdf) for 2017, the most recent estimates available.
 
