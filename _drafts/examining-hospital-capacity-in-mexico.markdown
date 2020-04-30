@@ -66,7 +66,7 @@ This calls into question the degree to which these occupancy rates may have chan
 
 For private hospitals, we utilize a flat 33 percent occupancy rate for all states, which is what the most recent hospital entrance [data of the private sector](http://www3.inegi.org.mx/rnm/index.php/catalog/424/accesspolicy) suggests. Given the variety in hospital types in the private sector, it is likely that there is significant variation across regions: ones in larger cities tend to be larger, offer higher quality service, and may have different rates of occupancy than the smaller, uncertified ones. Nevertheless, given the lack of available data we cannot factor in variance across states. If this data comes available, we will update the forecast accordingly.
 
-**Scenario Forecasts**
+## Scenario Forecasts
 
 As is the case with estimates of the United States, the map gets red very quickly and estimated occupancy rates for all states are over 200 percent in all of the six-month scenarios. Even in the most optimistic scenarios, most states are well over 100 percent. For the most optimistic scenario of 20 percent infected in 18-months, the only states below 100 percent are Baja California Sur, Colima, Durango, Mexico City, Sonora, and Tamaulipas.   
 
@@ -86,7 +86,7 @@ Regionally, there are some similarities and differences compared to the previous
 
 There are significant differences in the states closest to Mexico City and this is where the private network may have the biggest impact. Picking up where we left off in our previous set of scenarios, Queretaro has the most to gain from the disposition of the private network, given that it has the third highest rate of private hospital beds per capita in the country. It moves from the most stressed state to the 13th highest overall, and its best-case scenario predicted occupancy rates drops from 673 percent to 105 percent. Another state of this region that stands to gain significantly from the use of the private network is Hidalgo, with rates in the best-case scenario dropping from 313 percent to 86.29 percent. Despite this, the three states with the highest occupancy rates are Aguascalientes, Guanajuato, and Zacatecas, which are all close to the capital. They face particular burden due to the lack of presence of private hospitals. Other important states of the region, including Edomex and Morelos where many marginalized populations living in the peripheries of Mexico City are located, also have very high comparative levels of stress. 
 
-**Conclusion**
+## What Next?
 
 This post assesses how Mexico will be impacted by COVID-19 by examining hospital capacity. Even with the limitations outlined, it highlights the overall fragility of the Mexican health system in responding to COVID-19 and the need for measures that go beyond standard operating procedures. Even in the best-case scenarios, many regions will be overwhelmed and face well over 100 percent occupancy rates, which will further push up the death rate as doctors have to make life and death choices on who receives care. 
 
