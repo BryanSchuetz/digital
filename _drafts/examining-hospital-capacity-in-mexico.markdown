@@ -42,7 +42,7 @@ Descriptive statistics based on data from the [Health and Nutrition Survey (ENSA
 
 **Hospital Stress and Scenario Forecasting**
 
-Forecasting hospital occupancy rates is difficult even under normal circumstances, much less in a pandemic. Many assumptions made for this type of forecast are based on estimations of demographic and behavioral health risk factors of greater susceptibility to severe cases. This produces a state of learning on the fly in a scenario where growth is exponential. 
+Forecasting hospital occupancy rates is difficult even under normal circumstances, much less during a pandemic. Many assumptions made for this type of forecast are based on estimations of demographic and behavioral health risk factors of greater susceptibility to severe cases. This produces a state of learning on the fly in a scenario where growth is exponential. 
 
 The Harvard Global Institute of Health [estimates for hospital occupancy for regions in the United States provides a useful methodology](https://globalepidemics.org/our-data/hospital-capacity/), based upon the percentage of the population getting infected over time intervals of 6, 12, and 18 months. Based on data collected by the WHO in Wuhan, they assume 19% hospitalization rate in those under 65 years of age and a 28.5% hospitalization rate for those over 65, with an average hospital stay of 12 days. 
 
