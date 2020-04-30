@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2020 12:00:30 -0400</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2020 12:00:30 -0400</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 08:05:12 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 08:05:12 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg" medium="image" /> 
+        <title>Information Liberation: What is Open Data, and Why Does it Matter?</title>
+        <description>&lt;p&gt;Less than two weeks ago, on April 21, 2020, &lt;a href=&quot;https://blogs.microsoft.com/on-the-issues/2020/04/21/open-data-campaign-divide/&quot;&gt;Microsoft&lt;/a&gt; announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses &lt;a href=&quot;http://opendatatoolkit.worldbank.org/en/essentials.html&quot;&gt;the Open Knowledge Foundation’s definition&lt;/a&gt; for open data. According to it, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both &lt;em&gt;legally&lt;/em&gt; open, publicly accessible or with minimal restrictions, and &lt;em&gt;technically&lt;/em&gt; open, published in electronic formats that are computer readable and nonproprietary. This type of data is not to be confused with “big data.” As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won’t be spending more time on this particular topic, but if you’re interested in learning more, I highly recommend reading a &lt;a href=&quot;https://dai-global-digital.com/should-big-data-be-open-data.html&quot;&gt;guest post&lt;/a&gt; we published on the subject in 2016.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 30 Apr 2020 06:00:00 -0400</pubDate>
+        <author>Erica Behrens
+</author>
+        <link>https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html</guid>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/blog%201.webp" medium="image" /> 
@@ -193,27 +210,6 @@
         
         
         <category>Global Health</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/CDC-coronavirus-image-23311-for-web.jpg" medium="image" /> 
-        <title>COVID-19: Looking for Helpers in the Hardware Community</title>
-        <description>&lt;p&gt;As the COVID-19 &lt;a href=&quot;https://www.cnn.com/2020/03/11/health/coronavirus-pandemic-world-health-organization/index.html&quot;&gt;pandemic&lt;/a&gt; makes its way across the globe, and even well-resourced health systems struggle with the availability of critical supplies needed to treat patients, initiatives have emerged in the hardware community looking to help solve the shortage of physical supplies.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Mar 2020 09:01:00 -0400</pubDate>
-        <author>Rob Ryan-Silva
-</author>
-        <link>https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/COVID-looking-for-the-helpers-in-the-hardware-community.html</guid>
-        
-        <category>Hardware</category>
-        
-        <category>Digital Health</category>
-        
-        <category>COVID-19</category>
-        
         
       </item>
     

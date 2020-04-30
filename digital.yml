@@ -1,4 +1,13 @@
 
+- title: "Information Liberation: What is Open Data, and Why Does it Matter?"
+  pub: "Digital"
+  date: 2020-04-30
+  link: "https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html?utm_source=daidotcom"
+  summary: "Less than two weeks ago, on April 21, 2020, Microsoft announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses the Open Knowledge Foundation’s definition for open data. According to it, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both legally open, publicly accessible or with minimal restrictions, and technically open, published in electronic formats that are computer readable and nonproprietary. This type of data is not to be confused with “big data.” As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won’t be spending more time on this particular topic, but if you’re interested in learning more, I highly recommend reading a guest post we published on the subject in 2016."
+  tags:
+    - digital acceleration 
+    - Data 
+
 - title: "Everything Old is New Again: Remembering the Lessons of Early ICT4D in the COVID-19 Era"
   pub: "Digital"
   date: 2020-04-22
@@ -204,15 +213,5 @@ Advertisement for the Kabul Municipality mobile app."
   summary: "It is not a coincidence that the most developed nations are also the ones with the highest levels of entrepreneurial activity and innovation. While starting from a minimal level of development helps the latter two, for example, through basic access to capital and institutional stability, the impact of innovation and entrepreneurship on the economy and society more broadly cannot be overstated. In fact, the impact goes beyond usual suspects such as increased productivity, competitiveness, and job creation, and spills over into areas as diverse as regulation, infrastructure, the environment, and social inclusion. Below I provide a (certainly nonexhaustive) list of six such effects. While every issue deserves an article (or even a book!) of its own, these are brief overviews of each point."
   tags:
     - digital acceleration 
-    - Innovation 
-
-- title: "Five Trends in Hardware to Watch"
-  pub: "Digital"
-  date: 2020-01-23
-  link: "https://dai-global-digital.com/five-trends-in-hardware-to-watch.html?utm_source=daidotcom"
-  summary: "With the fast pace of technological change, it can be difficult for development practitioners to keep up with tomorrow’s opportunities and risks. Even for more technologically sophisticated members of the community, the focus on technology often overlooks hardware and exclusively focuses on software. As we begin 2020, I wanted to share the five trends in hardware that I think international development stakeholders—implementers, policymakers, civil society, the private sector, and others—should be watching for changes in the near term."
-  tags:
-    - digital acceleration 
-    - Hardware 
     - Innovation 
 
