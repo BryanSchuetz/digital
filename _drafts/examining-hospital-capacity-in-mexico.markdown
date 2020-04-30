@@ -38,7 +38,7 @@ As the figure below shows, 87 percent of all hospital beds in operating hospital
 
 How does this correspond to the distribution of the population by service provider? The Mexican health system is characterized by significant distortions, given the peculiar nature of providing entire social security regimes for single employers such as PEMEX, SEDEMA, and SEMAR. These three regimes have significantly more resources than the corresponding percentages of the population with access to them. 
 
-Descriptive statistics based on data from the [Health and Nutrition Survey (ENSANUT) of 2018](https://ensanut.insp.mx/) suggest some distortions related to some of the smaller employment-based systems of the public system. The main system relied upon by the population largely matches the resource distribution of the three largest institutes: 19% of respondents selected the IMSS as their preferred system, 38.81% selected the SSA system and 31.89% selected SMS. 
+Descriptive statistics based on data from the [Health and Nutrition Survey (ENSANUT) of 2018](https://ensanut.insp.mx/) suggest some distortions related to some of the smaller employment-based systems of the public system. The main system relied upon by the population largely matches the resource distribution of the three largest institutes: 19 percent of respondents selected the IMSS as their preferred system; 38.81 percent selected the SSA system; and 31.89 percent selected SMS. 
 
 **Hospital Stress and Scenario Forecasting**
 
