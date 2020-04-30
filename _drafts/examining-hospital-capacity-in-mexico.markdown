@@ -12,9 +12,9 @@ thumbnail: "/uploads/figure_5.png"
 
 *This post was written by DAI Data Scientist [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/), with contributions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/), [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/), [Eduardo González-Pier](https://www.dai.com/who-we-are/our-team/eduardo-gonzalez-pier), [Susan Scribner](https://www.dai.com/who-we-are/our-team/susan-scribner), and [Kirsten Weeks](https://www.dai.com/who-we-are/our-team/kirsten-weeks). This analysis is Part 4 of a series on known risk factors associated with COVID-19, with a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.*
 
-![figure_6.png](/uploads/figure_6.png)
-
 <!--more-->
+
+![figure_6.png](/uploads/figure_6.png)
 
 One of the most important determinants of death rates in a pandemic is hospital capacity rates. The principal reason public health officials have spoken so much about “flattening the curve” is due to the need to reduce hospital burden: when a city, state, or country has a large spike in cases over a short period of time, hospitals will get inundated with moderate to severe cases to the point where doctors must make choices on who receives care. This is the current reality in New York and the tail end of what has transpired in the current wave of cases of Italy and Spain, among other European countries. 
 
