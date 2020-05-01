@@ -14,7 +14,6 @@ During this unprecedented global economic downturn caused by COVID-19, accelerat
 
 ![oscar-nilsson-1BHYZFVyGaw-unsplash.jpg](/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg)`Photo by Oscar Nilsson on Unsplash.`
 
-
 <!--more-->
 
 Here are five ways the entrepreneurship ecosystem is adapting to COVID-19:
