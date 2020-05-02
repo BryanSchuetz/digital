@@ -1,6 +1,6 @@
 ---
-title: 'COVID-19, Part 5: Different Methods to Model Infection Rates in Mexico and
-  What they Tell us'
+title: 'COVID-19 Data Analysis, Part 5: Different Methods to Model Infection Rates
+  in Mexico and What they Tell us'
 date: 2020-05-02 00:42:00 -04:00
 categories:
 - Global Health
