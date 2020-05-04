@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Apr 2020 13:35:08 -0400</pubDate>
-    <lastBuildDate>Thu, 30 Apr 2020 13:35:08 -0400</lastBuildDate>
+    <pubDate>Mon, 04 May 2020 11:26:10 -0400</pubDate>
+    <lastBuildDate>Mon, 04 May 2020 11:26:10 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/figure_5.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico</title>
+        <description>&lt;p&gt;&lt;em&gt;This post was written by DAI Data Scientist &lt;a href=&quot;https://www.linkedin.com/in/james-parr-4a534897/&quot;&gt;Jamie Parr&lt;/a&gt;, with contributions from &lt;a href=&quot;https://dai-global-digital.com/authors/greg-maly/&quot;&gt;Greg Maly&lt;/a&gt;, &lt;a href=&quot;https://dai-global-digital.com/authors/gratiana-fu/&quot;&gt;Gratiana Fu&lt;/a&gt;, &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/eduardo-gonzalez-pier&quot;&gt;Eduardo González-Pier&lt;/a&gt;, &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/susan-scribner&quot;&gt;Susan Scribner&lt;/a&gt;, and &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/kirsten-weeks&quot;&gt;Kirsten Weeks&lt;/a&gt;. This analysis is Part 4 of a series on known risk factors associated with COVID-19, with a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 May 2020 06:00:00 -0400</pubDate>
+        <author>Jamie Parr
+</author>
+        <link>https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>COVID-19</category>
+        
+        <category>Digital Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg" medium="image" /> 
@@ -187,29 +208,6 @@
         
         <category>Digital Divide</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/COVID_Data_Map.png" medium="image" /> 
-        <title>COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment</title>
-        <description>&lt;p&gt;&lt;em&gt;This article was written by DAI’s &lt;a href=&quot;https://dai-global-digital.com/authors/gratiana-fu/&quot;&gt;Gratiana Fu&lt;/a&gt;, with contributions from &lt;a href=&quot;https://dai-global-digital.com/authors/greg-maly/&quot;&gt;Greg Maly&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/james-parr-4a534897/&quot;&gt;Jamie Parr&lt;/a&gt;. This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 Mar 2020 11:30:00 -0400</pubDate>
-        <author>CDA Analytics Team
-</author>
-        <link>https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html</guid>
-        
-        <category>Data Visualization</category>
-        
-        <category>Digital Health</category>
-        
-        <category>COVID-19</category>
-        
-        
-        <category>Global Health</category>
         
       </item>
     

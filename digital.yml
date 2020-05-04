@@ -1,4 +1,15 @@
 
+- title: "COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico"
+  pub: "Digital"
+  date: 2020-05-01
+  link: "https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html?utm_source=daidotcom"
+  summary: "This post was written by DAI Data Scientist Jamie Parr, with contributions from Greg Maly, Gratiana Fu, Eduardo González-Pier, Susan Scribner, and Kirsten Weeks. This analysis is Part 4 of a series on known risk factors associated with COVID-19, with a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly."
+  tags:
+    - digital acceleration 
+    - Data Visualization 
+    - COVID-19 
+    - Digital Health 
+
 - title: "Information Liberation: What is Open Data, and Why Does it Matter?"
   pub: "Digital"
   date: 2020-04-30
@@ -205,13 +216,4 @@ Advertisement for the Kabul Municipality mobile app."
     - Human-centered design 
     - Governance 
     - Mobile 
-
-- title: "6 Ways Innovation and Entrepreneurship Promote Prosperity"
-  pub: "Digital"
-  date: 2020-01-30
-  link: "https://dai-global-digital.com/6-ways-innovation-and-entrepreneurship-promote-prosperity.html?utm_source=daidotcom"
-  summary: "It is not a coincidence that the most developed nations are also the ones with the highest levels of entrepreneurial activity and innovation. While starting from a minimal level of development helps the latter two, for example, through basic access to capital and institutional stability, the impact of innovation and entrepreneurship on the economy and society more broadly cannot be overstated. In fact, the impact goes beyond usual suspects such as increased productivity, competitiveness, and job creation, and spills over into areas as diverse as regulation, infrastructure, the environment, and social inclusion. Below I provide a (certainly nonexhaustive) list of six such effects. While every issue deserves an article (or even a book!) of its own, these are brief overviews of each point."
-  tags:
-    - digital acceleration 
-    - Innovation 
 
