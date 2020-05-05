@@ -79,8 +79,8 @@ Similar to the trend in Mexico City, the data for the entire country suggests th
 
 The evidence provided by estimating the reproduction rate suggests that the disease is spreading slightly lower than what we would normally expect, although the clear lack of detection of the total number of cases in all parts of Mexico limits one’s ability to accurately predict the total number of infected and timeframe of the spread. Perhaps when other countries begin to experience a dip in cases and demand for test kits lowers, countries such as Mexico will be able to ramp up testing and provide researchers with a clearer picture to model infection for all regions.
 
-**Model 3: Estimating Infection Rates based on Deaths
-**
+**Model 3: Estimating Infection Rates based on Deaths**
+
 A problem with the previously reviewed models is that they rely on testing capacity providing reliable insight in capturing the number of infected. Trying to make sense of the world with flawed data is a problem that isn’t unique to COVID-19, but given the speed of its spread it calls into question the use of other methods to estimate outbreak. 
 
 The figure below shows that Mexico has a very high case fatality ratio, particularly for a country that has not reached a peak in the way Italy, Spain, and other countries have. This leaves two possibilities: one, that the strands of COVID-19 in Mexico are more deadly, or the more likely explanation is that cases are artificially low in Mexico relative to the rest of the world. 
