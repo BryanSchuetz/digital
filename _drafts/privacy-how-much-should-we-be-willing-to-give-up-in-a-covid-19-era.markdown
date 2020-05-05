@@ -16,7 +16,7 @@ But the vital question is: to what extent are such measures an overreach?
 
 <!--more-->
 
-![photo-1585411241969-9ac0c565451b.webp](/uploads/photo-1585411241969-9ac0c565451b.webp)
+![photo-1585411241969-9ac0c565451b.webp](/uploads/photo-1585411241969-9ac0c565451b.webp)`Photo Courtesy: Brian McGowan from Unsplash.`
 
 A recent report by the [Brookings](https://www.brookings.edu/research/freedom-and-privacy-in-the-time-of-coronavirus/) Institute argues that the social benefits of an anonymised (mandatory) contact-tracing system are worth the temporary privacy costs. [Privacy International](https://privacyinternational.org/long-read/3675/theres-app-coronavirus-apps) recognise the potential of such apps, but caveat with the need for trust, built through vigilant monitoring, scrutiny and testing. We have already seen how these apps do and do not work. In [South Korea](https://www.theguardian.com/world/2020/mar/06/more-scary-than-coronavirus-south-koreas-health-alerts-expose-private-lives), the app have been lauded with successfully keeping on top of cases, yet messages which trace the movement of people recently diagnosed with COVID-19 have been exposing the private lives of individuals, leading to speculation of extramarital affairs or private medical appointments.
 
