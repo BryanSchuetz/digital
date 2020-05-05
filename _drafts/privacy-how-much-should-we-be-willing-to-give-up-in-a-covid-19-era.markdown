@@ -5,6 +5,8 @@ tags:
 - COVID-19
 - Cybersecurity
 Author: Galia Nurko
+social-image: "/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp"
+Field name: 
 ---
 
 As many countries struggle to manage the COVID-19 crisis, governments globally are [looking to data-driven technologies](https://www.bloomberg.com/news/articles/2020-04-30/the-world-embraces-contact-tracing-technology-to-fight-covid-19?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) to keep cases low, or to facilitate the transition from lockdown to a semblance of normalcy. The technologies being claimed to protect, prevent and track include: \[symptom tracking apps\](https://dai0-my.sharepoint.com/personal/chloe_messenger_dai_com/Documents/DAI Digital/8. Blog/2020/corona.asan.gov.af) to help us understand the disease, digital contact tracing apps to alert us to our interaction with the virus, quarantine enforcement apps that report on people (such as those in Hong Kong, Poland and Kazakhstan; proposed in Russia and Egypt), and[ immunity certification](https://www.ukauthority.com/articles/open-university-develops-digital-certificate-for-covid-19-immunity/) to allow those who have had COVID-19 to be identified.
