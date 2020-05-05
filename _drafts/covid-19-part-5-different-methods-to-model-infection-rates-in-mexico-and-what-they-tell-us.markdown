@@ -20,9 +20,12 @@ In Mexico, the number of cases has slowly risen. Public health experts have [urg
 
 <!--more-->
 
-What inferences can we make on the spread of COVID-19 in a context of undertesting? In the [previous post of this series](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html), we focused on Mexico's hospital capacity and the risks that different regions within the country face. In this post, we evaluate the spread of the disease thus far using models that forecast the number of infected and the rate of reproduction. Specifically, we highlight three different models: 1. the SIR model 2. modeling the effective reproductive number using the model outlined in [Cori et al 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816335/), and 3. estimating the number of true infected cases based on deaths. In doing so, we aim to assess not only the results but also the assumptions each of these models make and their limitations. 
+What inferences can we make on the spread of COVID-19 in a context of undertesting? In the [previous post of this series](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html), we focused on Mexico's hospital capacity and the risks that different regions within the country face. In this post, we evaluate the spread of the disease thus far using models that forecast the number of infected and the rate of reproduction. Specifically, we highlight three different models: 
+1. The SIR model, which consists of three compartments: S for the number of susceptible, I for the number of infectious, and R for the number of recovered or deceased (or immune) individuals. 
+2. Modeling the effective reproductive number using the model outlined [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3816335/). 
+3. Estimating the number of true infected cases based on deaths. In doing so, we aim to assess not only the results but also the assumptions each of these models make and their limitations. 
 
-**Exploratory Data Analysis: What We Know Thus Far**
+## Exploratory Data Analysis: What We Know Thus Far
 
 Based on data from the [John Hopkins University School of Medicine](https://coronavirus.jhu.edu/map.html), the first COVID-19 confirmed case in Mexico was on February 23, 2020 and as of May 1st has a total of 19,224 cases and 1,859 reported deaths. The total number of cases of 149 per 1 million people is on the lower end of countries, which fits the narrative on the [low number](http://worldometers.info/coronavirus/country/mexico/) of tests per capita, which currently stands at 635 per 1 million people.  
 
