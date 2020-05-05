@@ -24,21 +24,21 @@ Prior to the COVID-19 outbreak, the [Carnegie Endowment for International Peace]
 
 In many of countries in which we work, the wider political, economic and security factors may not allow for people to engage in robust debates about privacy and security. Therefore, there is a greater risk that the roll-out of contact tracing or disease tracking technologies will set a dangerous precedent that in the long term will infringe on people’s rights. As the world continues to look for the best approaches to reopen economies while keeping their populations safe, here are some factors we think are important to consider based on lessons we’ve learned from implementing digital development projects for over a decade.
 
-1. **Trust**
+## Trust
 
 Trust in government is not a luxury afforded to populations in many countries, due to rife corruption, institutionalized discrimination, lack of access to reliable resources, or other factors. Even in countries where the government may be widely trusted, emergency measures may undermine this trust. In India, those [returning from abroad](https://www.news18.com/news/india/privacy-not-a-concern-checking-virus-spread-is-ktaka-govt-publishes-details-of-foreign-returnees-2550835.html) to Karnataka had their personal medical data published by the government. It has been [well noted](https://onezero.medium.com/immunity-passports-could-create-a-new-category-of-privilege-2f70ce1b905) that flagging someone as having been infected with COVID-19 or not could have longer term implications (for instance for someone who does not have ‘immunity’ may have less freedoms), and information as personal as medical data in general could have longer term implications for as persons social and economic life.
 
 For marginalised communities or those living in repressive regimes, the potential for the government – or other groups - having any of their personal data, or knowing their location or movements, could put them and their families at increased risk of harm.
 
-**2. Less robust data protection legislation**
+## Less robust data protection legislation
 
 Trust also extends to the opportunities for redress or the backing to do so. [UNCTAD analysis](https://unctad.org/en/Pages/DTL/STI_and_ICTs/ICT4D-Legislation/eCom-Data-Protection-Laws.aspx) found that 19 per cent of countries have no data protection and privacy legislation, and only 43 percent of African countries have any data privacy laws. According to Privacy International, in those African countries that do have data privacy laws, [critics and advocates](https://privacyinternational.org/long-read/3109/africa-sim-card-registration-only-increases-monitoring-and-exclusion) have raised concerns about the lack of sufficient protections and safeguards. Vulnerable communities, or those living in repressive states, in particular may feel that they cannot seek redress for the violation of their privacy rights. For instance, there is no law in China to regulate the use of surveillance cameras, which in in some cities are being installed [without warning](https://edition.cnn.com/2020/04/27/asia/cctv-cameras-china-hnk-intl/index.html?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) outside the homes of people being quarantined. Citizens therefore cannot seek redress for the increased monitoring they are facing.
 
-**2. Digital literacy and Cyber Hygiene**
+## Digital literacy and Cyber Hygiene
 
 In many of the countries in which we work, digital literacy is lower and smartphones, where used, are relatively new to the market. Users entering digital platforms for the first time are particularly vulnerable to data privacy concerns, such as accepting user agreements which compromise their data, or downloading false apps which are covers for ransomware, such as [COVIDLock](https://www.domaintools.com/resources/blog/covidlock-mobile-coronavirus-tracking-app-coughs-up-ransomware). Already, the digital marketplace is full of [false COVID-19](https://www.zdnet.com/article/thousands-of-covid-19-scam-and-malware-sites-are-being-created-on-a-daily-basis/) websites or applications. A time of such crisis, demands that we increase our investment in [digital literacy](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html). This includes not only helping people learn how to use web and mobile based apps, but also basic practices that help protect their accounts and information. This could include, teaching people how to create strong passwords, explaining to people why its important to change those passwords frequently, and explaining why its important to update software and avoid purchasing pirated versions of programs.
 
-**2. Cultural differences**
+## Cultural differences
 
 Linked to the above point of differing contexts and data protection legislation, we must also consider the different attitudes towards data privacy and government role. There are already numerous analyses of different cultural attitudes to the coronavirus pandemic, such as the extent to which some nations are more individualistic or obedient and how this affects adherence to quarantine measures.
 
