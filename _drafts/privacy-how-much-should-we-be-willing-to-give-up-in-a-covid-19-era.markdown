@@ -15,7 +15,7 @@ In more developed nations such as the UK and USA, conversations around data priv
 
 In the face of threats, many of us might say there are reasonable expectations that our government will use technology to track and pre-empt the risks we face. In the same way we might expect protection from terrorist attacks, we may accept such measures can help mitigate the effects of public health threats, like the COVID-19 pandemic.
 
-But the vital question is: to what extent are such measures an overreach?
+But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?
 
 <!--more-->
 
