@@ -13,7 +13,6 @@ As many countries struggle to manage the COVID-19 crisis, governments globally a
 
 In more developed nations such as the UK and USA, conversations around data privacy are rife, such as [negotiations](https://www.bbc.co.uk/news/technology-52441428) between the UK National Health Service (NHS) and Google and Apple around the efficacy of their proposed contact-tracing app in light of their stringent adherence to privacy.
 
-
 In the face of threats, many of us might say there are reasonable expectations that our government will use technology to track and pre-empt the risks we face. In the same way we might expect protection from terrorist attacks, we may accept such measures can help mitigate the effects of public health threats, like the COVID-19 pandemic.
 
 But the vital question is: to what extent are such measures an overreach?
@@ -30,7 +29,7 @@ In many of countries in which we work, the wider political, economic and securit
 
 ## Trust
 
-Trust in government is not a luxury afforded to populations in many countries, due to rife corruption, institutionalized discrimination, lack of access to reliable resources, or other factors. Even in countries where the government may be widely trusted, emergency measures may undermine this trust. In India, those [returning from abroad](https://www.news18.com/news/india/privacy-not-a-concern-checking-virus-spread-is-ktaka-govt-publishes-details-of-foreign-returnees-2550835.html) to Karnataka had their personal medical data published by the government, which many felt was a violation of their privacy It has been [well documented](https://onezero.medium.com/immunity-passports-could-create-a-new-category-of-privilege-2f70ce1b905) that flagging someone as having been infected with COVID-19 or not could have longer term implications (for instance for someone who does not have ‘immunity’ may have less freedoms), and information as personal as medical data in general could have longer term implications for as persons social and economic life.
+Trust in government is not a luxury afforded to populations in many countries, due to rife corruption, institutionalized discrimination, lack of access to reliable resources, or other factors. Even in countries where the government may be widely trusted, emergency measures may undermine this trust. In India, those [returning from abroad](https://www.news18.com/news/india/privacy-not-a-concern-checking-virus-spread-is-ktaka-govt-publishes-details-of-foreign-returnees-2550835.html) to Karnataka had their personal medical data published by the government, which many felt was a violation of their privacy It has been [well documented](https://onezero.medium.com/immunity-passports-could-create-a-new-category-of-privilege-2f70ce1b905) that flagging someone as having been infected with COVID-19 or not could have longer term implications (for instance for someone who does not have ‘immunity’ may have less freedoms), and information as personal as medical data in general could have longer term implications for a persons social and economic life.
 
 For marginalised communities or those living in repressive regimes, the potential for the government – or other groups - having any of their personal data, or knowing their location or movements, could put them and their families at increased risk of harm.
 
