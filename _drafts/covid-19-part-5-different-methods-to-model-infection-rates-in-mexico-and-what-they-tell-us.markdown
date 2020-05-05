@@ -1,6 +1,6 @@
 ---
-title: 'COVID-19 Data Analysis, Part 5: Different Methods to Model Infection Rates
-  in Mexico and What they Tell us'
+title: 'COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico
+  and What they Tell us'
 date: 2020-05-02 00:42:00 -04:00
 categories:
 - Global Health
@@ -18,7 +18,7 @@ Mexico is one country where the number of cases has slowly risen. Public health 
 
 ![fig1_testingpercap.png](/uploads/fig1_testingpercap.png)
 
-What inferences can we make on the spread of COVID-19 in a context of undertesting such as Mexico?  In the previous part of this series, we focused on the hospital capacity of Mexico and the risks that different regions within the country face. In this post, we evaluate the spread of the disease thus far,  and attempt to fit a SIR model onto the daily numbers of cases for Mexico City.
+What inferences can we make on the spread of COVID-19 in a context of undertesting such as Mexico?  In the previous part of this series, we focused on the hospital capacity of Mexico and the risks that different regions within the country face. In this post, we evaluate the spread of the disease thus far using models that forecast the number of infected and the rate of reproduction. Specifically, we highlight three different models: 1. the SIR model 2. modeling the effective reproductive number using the model outlined in Cori et al 2013, and 3. estimating the number of true infected cases based on deaths. In doing so, we aim to assess not only the results but also the assumptions each of these models make and their limitations. 
 
 **Exploratory Data Analysis: What We Know Thus Far**
 
