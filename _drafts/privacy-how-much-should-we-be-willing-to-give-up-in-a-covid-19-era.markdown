@@ -4,8 +4,11 @@ date: 2020-05-05 05:09:00 -04:00
 tags:
 - COVID-19
 - Cybersecurity
-Author: Galia Nurko
+- Digital Health
+Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
+  and [Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
 social-image: "/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp"
+thumbnail: "/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp"
 Field name: 
 ---
 
