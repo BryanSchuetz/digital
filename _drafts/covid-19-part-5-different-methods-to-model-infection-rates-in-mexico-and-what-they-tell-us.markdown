@@ -63,7 +63,7 @@ This brings us to the question of how the effective reproduction number may be e
 
 To assess this, we utilize the existing records on imported and locally transmitted cases in Mexico City, which are recorded up to April 7. After this, we assume that subsequent cases are all local. 
 
-Along with this, we must impute the serial interval (SI), which is the time between onset of systems of each case and the onset of symptoms of secondary cases resulting from transmission from the primary cases. Based on a study of the first 450 cases [in Wuhan](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316), we run 1,000 MCMV simulations to allow for variance in the serial interval with a mean serial interval distribution of 7.5 days and a standard deviation of 3.4 days.
+Along with this, we must impute the serial interval (SI), which is the time between onset of systems of each case and the onset of symptoms of secondary cases resulting from transmission from the primary cases. Based on a study of the first 450 cases [in Wuhan](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316), we run 1,000 [Markov Chain Monte Carlo method](http://stat.wharton.upenn.edu/~stjensen/stat542/lecture14.mcmchistory.pdf) simulations to allow for variance in the serial interval with a mean serial interval distribution of 7.5 days and a standard deviation of 3.4 days.
 
 ![fig6_effrepmxcty.png](/uploads/fig6_effrepmxcty.png)
 
