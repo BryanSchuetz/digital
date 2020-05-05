@@ -14,7 +14,7 @@ In the face of threats, many of us might say there are reasonable expectations t
 
 But the vital question is: to what extent are such measures an overreach?
 
-</more>
+<!--more-->
 
 ![photo-1585411241969-9ac0c565451b.webp](/uploads/photo-1585411241969-9ac0c565451b.webp)
 
