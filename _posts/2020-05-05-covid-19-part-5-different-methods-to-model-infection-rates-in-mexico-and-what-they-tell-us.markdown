@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico
   and What they Tell Us'
-date: 2020-05-05 06:00:00 -04:00
+date: 2020-05-05 18:00:00 -04:00
 tags:
 - Digital Health
 - COVID-19
