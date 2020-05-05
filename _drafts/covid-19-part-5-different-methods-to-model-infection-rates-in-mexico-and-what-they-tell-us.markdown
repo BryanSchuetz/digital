@@ -43,9 +43,9 @@ Senior Fellow of the University of New South Wales Tim Churches’ excellent wal
 
 ![fig4_siropt.png](/uploads/fig4_siropt.png)
 
-Above is a fitted model of infection rates that most optimally minimizes the residual sum of squares for Mexico City given the current trajectory thus far. It makes the most sense to focus on Mexico City as this is where we have the most number of cases reported, which is particularly important given the issues with testing. This will likely give us the most accurate reflection of what infection rates can be expected for the country as a whole. 
+Above is a fitted model of infection rates that most optimally minimizes the residual sum of squares for Mexico City given the current trajectory thus far. It makes the most sense to focus on Mexico City, where the most number of cases have been reported, which is particularly important given the issues with testing. This will likely give us the most accurate reflection of what infection rates can be expected for the country as a whole. 
 
-This model estimates that the basic reproduction number (how many susceptible are infected by one infected person) of R0 is 1.31. This is significantly lower than [estimates of the reproduction rate of COVID-19 from studies in China](https://www.nejm.org/doi/full/10.1056/NEJMc2003717). It is higher than the generally accepted rates of [SARS](https://www.who.int/csr/sars/en/WHOconsensus.pdf) and lower than [MERS](https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus/factsheet), which generally fall between 2.2 and 3.1. 
+This model estimates that the basic reproduction number (how many susceptible are infected by one infected person) of [R0](https://www.healthline.com/health/r-nought-reproduction-number) is 1.31. This is significantly lower than estimates of the reproduction rate of COVID-19 from [studies in China](https://www.nejm.org/doi/full/10.1056/NEJMc2003717). It is higher than the generally accepted rates of [SARS](https://www.who.int/csr/sars/en/WHOconsensus.pdf) and lower than [MERS](https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus/factsheet), which generally fall between 2.2 and 3.1. 
 
 ![fig5_sircomp.png](/uploads/fig5_sircomp.png)
 
