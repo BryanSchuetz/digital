@@ -1,15 +1,14 @@
 ---
 title: 'COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico
   and What they Tell Us'
-date: 2020-05-02 00:42:00 -04:00
-categories:
-- Global Health
+date: 2020-05-05 06:00:00 -04:00
 tags:
-- Global Health
 - Digital Health
-- Latin America and the Caribbean
 - COVID-19
+- Data
 Author: Jamie Parr
+social-image: "/uploads/fig8_cfr-0d2f6a.png"
+thumbnail: "/uploads/fig8_cfr-0d2f6a.png"
 ---
 
 The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases. 
