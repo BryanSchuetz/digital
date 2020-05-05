@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 May 2020 14:28:03 -0400</pubDate>
-    <lastBuildDate>Tue, 05 May 2020 14:28:03 -0400</lastBuildDate>
+    <pubDate>Tue, 05 May 2020 18:23:06 -0400</pubDate>
+    <lastBuildDate>Tue, 05 May 2020 18:23:06 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/fig8_cfr-0d2f6a.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us</title>
+        <description>&lt;p&gt;The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases.&lt;/p&gt;
+
+&lt;p&gt;In Mexico, the number of cases has slowly risen. Public health experts have &lt;a href=&quot;https://mexiconewsdaily.com/news/coronavirus/experts-say-mexico-hasnt-done-enough-virus-testing/&quot;&gt;urgently suggested&lt;/a&gt; that testing needs to be dramatically increased to appropriately track the spread of the COVID-19 pandemic. As the graph below shows, the &lt;a href=&quot;https://www.worldometers.info/coronavirus/#countries&quot;&gt;numbers reported from Worldometer&lt;/a&gt; corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1 million people in the region, even among countries of similar size and income per capita.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/fig1_testingpercap-c8bcbb.png&quot; alt=&quot;fig1_testingpercap-c8bcbb.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 May 2020 06:00:00 -0400</pubDate>
+        <author>Jamie Parr
+</author>
+        <link>https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html</guid>
+        
+        <category>Digital Health</category>
+        
+        <category>COVID-19</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg" medium="image" /> 
@@ -187,27 +212,6 @@
         
         
         <category>Global Health</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/DAI%203D%20printer.jpg" medium="image" /> 
-        <title>Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages</title>
-        <description>&lt;p&gt;One of the participants in the &lt;a href=&quot;https://www.development-innovations.org/success-stories/think-global-make-local-3d-printing-propels-young-cambodians-future/&quot;&gt;Think Global Make Local&lt;/a&gt; product development workshop, sponsored by our &lt;a href=&quot;https://www.dai.com/our-work/projects/cambodia-development-innovations&quot;&gt;Cambodia Development Innovations&lt;/a&gt; project in 2016, created a design for a toy called &lt;em&gt;&lt;a href=&quot;https://www.facebook.com/Doydoycompany/&quot;&gt;Doy Doy&lt;/a&gt;&lt;/em&gt;. With &lt;em&gt;Doy Doy’s&lt;/em&gt; silicone straws and plastic connectors, kids can build complex structures. The product has gone on to achieve modest commercial success locally. I found &lt;em&gt;Doy Doy&lt;/em&gt; instructive because of the way its creator, Em Chanrithykol, ended up manufacturing the toy’s plastic connectors. Because of a lack of local injection-molding capacity and administrative barriers to importing parts made by contract manufacturers outside of Cambodia, Chanrithykol turned to a less traditional method: He contracted a local firm to churn out the parts on a battery of 3D printers.&lt;/p&gt;
-
-&lt;p&gt;3D printing is slow, expensive, and inefficient. It is great for small runs of one-off items or prototypes, but it is a terrible way to mass manufacture a product. But the lesson of &lt;em&gt;Doy Doy&lt;/em&gt; is that a bad way to mass manufacture a product can still be better than having &lt;em&gt;no&lt;/em&gt; way to mass manufacture a product. This is why I am currently manufacturing personal protective face shields for Baltimore-area hospitals in my basement.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 30 Mar 2020 11:53:00 -0400</pubDate>
-        <author>Rob Ryan-Silva
-</author>
-        <link>https://dai-global-digital.com/plan-c-how-makerspaces-are-providing-a-stopgap-for-covid-19-supply-shortages.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/plan-c-how-makerspaces-are-providing-a-stopgap-for-covid-19-supply-shortages.html</guid>
-        
-        <category>Hardware</category>
-        
-        <category>COVID-19</category>
-        
         
       </item>
     
