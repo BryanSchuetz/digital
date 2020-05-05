@@ -31,11 +31,11 @@ Based on data from the [John Hopkins University School of Medicine](https://coro
 
 ![fig2_cuminc.png](/uploads/fig2_cuminc.png)
 
-Utilizing data from the [Secretary of Health of Mexico](https://www.gob.mx/salud/en), a breakdown of the cumulative incidence of cases by state suggests that there have been significant regional variance, with Mexico City having the largest cumulative total of 6,113 cases. Estado de Mexico is the only other state thus far with cases over 2000, at 2,258. This distribution is likely reflecting reality in the sense that we would expect the largest city and area with the most amount of international travel to have the first cases, highest initial infection rate, and highest overall number of cumulative cases. Nevertheless, the clear issues with testing mean that the [ascertainment rate](https://mexiconewsdaily.com/news/coronavirus/experts-say-mexico-hasnt-done-enough-virus-testing/), or the relative number of cases going undetected, is likely very high even in places such as Mexico City where there is at least some cases detected. The extent to which this is causing problems is not yet clear. 
+Utilizing data from the [Secretary of Health of Mexico](https://www.gob.mx/salud/en), a breakdown of the cumulative incidence of cases by state suggests that there have been significant regional variance, with Mexico City having the largest cumulative total of 6,113 cases. Estado de Mexico is the only other state thus far with cases over 2000, at 2,258. This distribution is likely reflecting reality in the sense that we would expect the largest city and area with the most amount of international travel to have the first cases, highest initial infection rate, and highest overall number of cumulative cases. Nevertheless, the clear issues with testing mean that the [ascertainment rate](https://mexiconewsdaily.com/news/coronavirus/experts-say-mexico-hasnt-done-enough-virus-testing/), or the relative number of cases going undetected, is likely very high even in places such as Mexico City where there are at least some cases detected. The extent to which this is causing problems is not yet clear. 
 
 ![fig3_cumincstate.png](/uploads/fig3_cumincstate.png)
 
-** Attempting to model COVID-19 in Mexico and Mexico City **
+## Attempting to Model COVID-19 in Mexico and Mexico City
 
 **Model 1: The SIR Model**
 
