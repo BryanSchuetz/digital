@@ -12,7 +12,7 @@ tags:
 Author: Jamie Parr
 ---
 
-The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low and middle-income countries have begun to see increases in reported cases. 
+The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases. 
 
 Mexico is one country where the number of cases has slowly risen. Public health experts have [urgently suggested](https://mexiconewsdaily.com/news/coronavirus/experts-say-mexico-hasnt-done-enough-virus-testing/) that testing needs to be dramatically increased to appropriately track the spread of COVID-19. As the graph below shows, the [numbers reported from Worldometer](https://www.worldometers.info/coronavirus/#countries) corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1M population in the region, even among countries of similar size and income per capita.
 
