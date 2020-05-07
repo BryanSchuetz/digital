@@ -2,7 +2,7 @@
 title: Alejandro Solis
 date: 2018-06-12 08:02:00 -04:00
 Job: ICT Specialist, Latin America
-Image: "/uploads/ale.png"
+Image: "/uploads/new%20Alejandro%20-%20HQ-1.jpg"
 ---
 
 Alejandro Solis works as DAI’s ICT specialist for the Latin America region, developing [Centro Clima](http://www.centroclima.org) as the Regional Information Center, [Coffee Cloud](http://www.centroclima.org/coffee-cloud) (Coffee Farmers and Technicians Solution), [Clima Pesca](http://www.climapesca.org) (Climate Information for Fisheries), and Hidro Clima (Tool for Small Hydroelectricity Generators). He has extensive experience working on development projects across Central America and the Caribbean. Alejandro has implemented projects for the Inter-American Development Bank, NASA, and the World Bank in climate change and environmental ICT applications.
