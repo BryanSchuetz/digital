@@ -5,7 +5,8 @@ date: 2020-05-05 06:00:00 -04:00
 tags:
 - COVID-19
 - Entrepreneurship
-Author: "[Zaki Raheem](https://www.linkedin.com/in/zaki-raheem-2130717/), [Doug McClean](https://www.linkedin.com/in/doug-mclean-6b029044/)"
+Author: "[Zaki Raheem](https://www.dai.com/who-we-are/our-team/zaki-raheem) and [Doug
+  McLean](https://www.dai.com/who-we-are/our-team/doug-mclean)"
 social-image: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
 thumbnail: "/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg"
 ---
