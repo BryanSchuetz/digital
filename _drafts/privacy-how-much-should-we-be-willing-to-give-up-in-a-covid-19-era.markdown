@@ -1,5 +1,5 @@
 ---
-title: 'Privacy: How COVID-19 has sped up the debate'
+title: 'Privacy: How COVID-19 Has Sped Up the Debate'
 date: 2020-05-05 05:09:00 -04:00
 tags:
 - COVID-19
