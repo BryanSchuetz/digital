@@ -9,7 +9,6 @@ Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenge
   and [Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/)"
 social-image: "/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp"
 thumbnail: "/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp"
-Field name: 
 ---
 
 As many countries struggle to manage the COVID-19 crisis, governments globally are [looking to data-driven technologies](https://www.bloomberg.com/news/articles/2020-04-30/the-world-embraces-contact-tracing-technology-to-fight-covid-19?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) to minimize cases or to help facilitate a transition out of lockdown. The technologies being claimed to protect, prevent, and track include [symptom tracking apps](corona.asan.gov.af) that help us understand the disease, digital contact tracing apps that alert us to our interaction with the virus, quarantine enforcement apps that monitor people's compliance (such as those in Hong Kong, Poland and Kazakhstan; proposed in Russia and Egypt), and [immunity certification](https://www.ukauthority.com/articles/open-university-develops-digital-certificate-for-covid-19-immunity/) that identify individuals who have had COVID-19.
