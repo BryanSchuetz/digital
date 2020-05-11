@@ -15,7 +15,7 @@ As many countries struggle to manage the COVID-19 crisis, governments globally a
 
 In more developed nations such as the United Kingdom and United States, conversations around data privacy are rife. For example, the UK National Health Service (NHS) is [negotiating](https://www.bbc.co.uk/news/technology-52441428) with Google and Apple about the efficacy of its proposed contact-tracing app in light of the two tech giants' stringent adherence to privacy.
 
-In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the COVID-19 pandemic.
+In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the current pandemic.
 
 But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?
 
