@@ -27,7 +27,7 @@ A recent [report by the Brookings](https://www.brookings.edu/research/freedom-an
 
 Prior to the COVID-19 outbreak, the [Carnegie Endowment for International Peace](https://carnegieendowment.org/2019/09/17/global-expansion-of-ai-surveillance-pub-79847) published a report on the expansion of surveillance technologies. It found that ***“the most important factor determining whether governments will deploy this technology for repressive purposes is the quality of their governance.”***
 
-In many of the countries where we work, political, economic, and security factors may not allow people to engage in robust debates about privacy and security. Therefore, there is a greater risk that the roll-out of contact tracing or disease-tracking technologies will set a dangerous precedent that in the long term will infringe on people’s rights. As the world continues to look for the best approaches to reopen economies while keeping their populations safe, here are some factors we think are important to consider based on lessons we’ve learned from implementing digital development projects for over a decade.
+In many of the countries where we work, political, economic, and security factors may not allow people to engage in robust debates about privacy and security. Therefore, there is a greater risk that the roll-out of contact tracing or disease-tracking technologies will set a dangerous precedent that in the long term will infringe on people’s rights. As the world continues to look for the best approaches to reopen economies while keeping populations safe, here are some factors we think are important to consider based on lessons we’ve learned from implementing digital development projects for more than a decade.
 
 ## 1. Trust
 
