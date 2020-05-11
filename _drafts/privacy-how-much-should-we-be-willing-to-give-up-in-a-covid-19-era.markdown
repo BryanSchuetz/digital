@@ -1,6 +1,6 @@
 ---
 title: 'Privacy: How COVID-19 Has Sped Up the Debate'
-date: 2020-05-05 05:09:00 -04:00
+date: 2020-05-11 05:09:00 -04:00
 tags:
 - COVID-19
 - Cybersecurity
