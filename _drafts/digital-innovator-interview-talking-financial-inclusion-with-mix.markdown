@@ -6,9 +6,11 @@ tags:
 - Digital Financial Services
 - Entrepreneurship
 Author: Digital@DAI Team
+social-image: "/uploads/Capture-df7c9a.PNG"
+thumbnail: "/uploads/Capture-df7c9a.PNG"
 ---
 
-*We recently spoke with Nikhil Gehani, Director of Communications at [MIX](https://www.themix.org/), a global data resource for socially responsible investors and businesses, about inclusive finance and what it means for low-income countries. This is an except of that interview.*
+*We recently spoke with Nikhil Gehani, Director of Communications at [MIX](https://www.themix.org/), a global data resource for socially responsible investors and businesses, about inclusive finance and what it means for low-income countries. This is an excerpt of that interview.*
 
 <!--more-->
 
