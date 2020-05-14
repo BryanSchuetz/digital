@@ -5,10 +5,12 @@ tags:
 - Economic Growth
 - Digital Financial Services
 - Entrepreneurship
-Author: Nikhil Gehani
+Author: Digital@DAI Team
 ---
 
 *Today’s post is taken from an interview we conducted with Nikhil Gehani, Director of Marketing and Communications at [MIX](https://www.themix.org/), a global data resource for socially responsible investors and businesses focused on inclusive finance.*
+
+<!--more-->
 
 **Why is MIX focused on inclusive finance? How has the inclusive finance landscape changed over the last 5, 10, and 15 years? And how has MIX changed alongside it?**
 
