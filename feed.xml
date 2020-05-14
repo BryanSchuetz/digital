@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 May 2020 14:45:32 -0400</pubDate>
-    <lastBuildDate>Mon, 11 May 2020 14:45:32 -0400</lastBuildDate>
+    <pubDate>Thu, 14 May 2020 09:16:08 -0400</pubDate>
+    <lastBuildDate>Thu, 14 May 2020 09:16:08 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp" medium="image" /> 
+        <title>Privacy: How COVID-19 Has Sped Up the Debate</title>
+        <description>&lt;p&gt;As many countries struggle to manage the COVID-19 crisis, governments globally are looking to &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-04-30/the-world-embraces-contact-tracing-technology-to-fight-covid-19?utm_campaign=The%20Interface&amp;amp;utm_medium=email&amp;amp;utm_source=Revue%20newsletter&quot;&gt;data-driven technologies&lt;/a&gt; to minimize cases or to help facilitate a transition out of lockdown. The technologies being claimed to protect, prevent, and track include &lt;a href=&quot;corona.asan.gov.af&quot;&gt;symptom tracking apps&lt;/a&gt; that help us understand the disease, digital contact tracing apps that alert us to our interaction with the virus, quarantine enforcement apps that monitor people’s compliance (such as those in Hong Kong, Poland, and Kazakhstan; proposed in Russia and Egypt), and &lt;a href=&quot;https://www.ukauthority.com/articles/open-university-develops-digital-certificate-for-covid-19-immunity/&quot;&gt;immunity certification&lt;/a&gt; that identify individuals who have had COVID-19.&lt;/p&gt;
+
+&lt;p&gt;In more developed nations such as the United Kingdom and United States, conversations around data privacy are rife. For example, the UK National Health Service (NHS) is &lt;a href=&quot;https://www.bbc.co.uk/news/technology-52441428&quot;&gt;negotiating&lt;/a&gt; with Google and Apple about the efficacy of its proposed contact-tracing app in light of the two tech giants’ stringent adherence to privacy.&lt;/p&gt;
+
+&lt;p&gt;In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the current pandemic.&lt;/p&gt;
+
+&lt;p&gt;But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 May 2020 05:09:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/galia-nurko/">Galia Nurko</a>
+</author>
+        <link>https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Digital Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/fig8_cfr-0d2f6a.png" medium="image" /> 
@@ -189,29 +216,6 @@
         
         <category>Innovation</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/COVID_Data_Map.png" medium="image" /> 
-        <title>COVID-19 Data Analysis, Part 2: Health Capacity and Preparedness</title>
-        <description>&lt;p&gt;&lt;em&gt;This article was written by DAI’s &lt;a href=&quot;https://www.linkedin.com/in/james-parr-4a534897/&quot;&gt;Jamie Parr&lt;/a&gt;, with contributions from &lt;a href=&quot;https://dai-global-digital.com/authors/greg-maly/&quot;&gt;Greg Maly&lt;/a&gt; and &lt;a href=&quot;https://dai-global-digital.com/authors/gratiana-fu/&quot;&gt;Gratiana Fu&lt;/a&gt;. This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Apr 2020 17:30:00 -0400</pubDate>
-        <author>CDA Analytics Team
-</author>
-        <link>https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html</guid>
-        
-        <category>Digital Health</category>
-        
-        <category>Data Visualization</category>
-        
-        <category>COVID-19</category>
-        
-        
-        <category>Global Health</category>
         
       </item>
     

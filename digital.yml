@@ -1,4 +1,21 @@
 
+- title: "Privacy: How COVID-19 Has Sped Up the Debate"
+  pub: "Digital"
+  date: 2020-05-11
+  link: "https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html?utm_source=daidotcom"
+  summary: "As many countries struggle to manage the COVID-19 crisis, governments globally are looking to data-driven technologies to minimize cases or to help facilitate a transition out of lockdown. The technologies being claimed to protect, prevent, and track include symptom tracking apps that help us understand the disease, digital contact tracing apps that alert us to our interaction with the virus, quarantine enforcement apps that monitor people’s compliance (such as those in Hong Kong, Poland, and Kazakhstan; proposed in Russia and Egypt), and immunity certification that identify individuals who have had COVID-19.
+
+In more developed nations such as the United Kingdom and United States, conversations around data privacy are rife. For example, the UK National Health Service (NHS) is negotiating with Google and Apple about the efficacy of its proposed contact-tracing app in light of the two tech giants’ stringent adherence to privacy.
+
+In the face of serious threats, many of us might say we have a reasonable expectation that our government will use technology to track and pre-empt risks. In the same way we might expect protection from terrorist attacks, we may also accept such measures to be employed during a public health crisis like the current pandemic.
+
+But the vital question is: how can we ensure that the deployment of these digital tools are effective and do not set a dangerous precedent of digital surveillance?"
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Cybersecurity 
+    - Digital Health 
+
 - title: "COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us"
   pub: "Digital"
   date: 2020-05-05
@@ -204,14 +221,4 @@ At first glance, you might think our products team only builds full-stack web ap
     - digital acceleration 
     - Data 
     - Interoperability 
-
-- title: "What the Food Systems Dashboard Taught Me About Data for Decision Making"
-  pub: "Digital"
-  date: 2020-02-20
-  link: "https://dai-global-digital.com/what-the-food-systems-dashboard-taught-me-about-data-for-decision-making.html?utm_source=daidotcom"
-  summary: "Since I began working with DAI’s Center for Digital Acceleration, I have had the chance to explore many of the exciting opportunities presented by our quickly digitizing world. Though I spend most of my time researching how digital tools and service platforms impact economic empowerment and productivity in the agriculture sector, an area that I am eager to explore further is the role of data in policy and decision making."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Data Visualization 
 
