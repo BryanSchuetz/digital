@@ -10,6 +10,7 @@ thumbnail: "/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg"
 ---
 
 Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impacts on how that foundation is laid, and by whom.
+
 <!--more-->
 
 Most people are aware of Moore’s Law, the idea that the number of transistors that manufacturers can etch on a chip doubles roughly every 24 months, while the cost is halved. The imperative of Moore’s Law has had a lot to do with the shape of the silicon industry as it exists today. The capital expenditures that enable ever-shrinking transistors have historically been shockingly expensive, meaning that only the largest and best-funded companies could produce silicon that kept pace with the state of the art.
