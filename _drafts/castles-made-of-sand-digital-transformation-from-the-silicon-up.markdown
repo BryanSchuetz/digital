@@ -1,6 +1,12 @@
 ---
 title: 'Castles Made of Sand: Digital Transformation from the Silicon Up'
 date: 2020-05-15 13:39:00 -04:00
+tags:
+- Makerspace
+- Hardware
+Author: Rob Ryan-Silva
+social-image: "/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg"
+thumbnail: "/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg"
 ---
 
 Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impacts on how that foundation is laid, and by whom.
@@ -13,5 +19,8 @@ What many people do not realize is that Moore’s Law is widely considered to be
 Another recent development is that of open source instruction set architectures (ISAs). ISAs are the interface by which software can manipulate the power of silicon. Intel’s x86 ISA is the most likely to be recognized by the non-specialist. ISAs have historically been proprietary, with companies like Intel and MIPS owning the rights. The most commonly used ISAs at the moment are the intellectual property of a European company called [ARM](https://www.arm.com/), which makes no silicon itself – it merely licenses its ISAs to manufacturers. Its revenues last year are estimated at $1.6 billion.
 
 A relatively new ISA has been making waves, however. [RISC-V](https://riscv.org/) is an open source ISA that any manufacturer can use royalty-free. While it was initially derided by some as an academic exercise, its use has exploded in the last two years, driven in part by rising trade barriers and disputes that made some companies’ access to licenses from ARM and its competitors difficult or uncertain. Companies like Google have seen the opportunity to build their own custom silicon for specialized tasks without being beholden to other rights holders. In 2019, RISC-V-based chips began appearing on the market that are intended as drop-in replacements for popular ARM-based microcontrollers. While RISC-V-based chips are still a tiny fraction of the market, it does look as if they are here to stay.
+
+![1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg](/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg)`RISC V prototype chip. Image courtesy Wikimedia Commons`
+
 
 What all this means for tools for development is hard to say with precision, but we can make some good guesses. Cheaper foundries producing chips based on open source architectures mean that a silicon industry becomes a realistic proposition for some middle-income countries, and that becomes a foundation for downstream electronics industries. As China’s dominance of supply chains begins to loosen, as many expect to happen in the post-COVID world, important opportunities for new players will arise. Some of the models that have driven open source hardware development in recent years, like making printed circuit board production available to small-scale producers by aggregating many orders into a single production run, could become feasible for chips as well – and [some startups are looking at it](https://abopen.com/news/onchip-unveils-itsy-chipsy-ultra-low-cost-ic-fabrication-platform/). That would likely mean greater innovation in the silicon space, and more importantly for our purposes, a lowering of barriers to design. What solutions to unaddressed needs might developing country chip designers come up with? I cannot say. And that is what makes it exciting.
