@@ -1,4 +1,15 @@
 
+- title: "Digital Innovator Interview: Talking Financial Inclusion with MIX"
+  pub: "Digital"
+  date: 2020-05-13
+  link: "https://dai-global-digital.com/digital-innovator-interview-talking-financial-inclusion-with-mix.html?utm_source=daidotcom"
+  summary: "We recently spoke with Nikhil Gehani, Director of Communications at MIX, a global data resource for socially responsible investors and businesses, about inclusive finance and what it means for low-income countries. This is an excerpt of that interview."
+  tags:
+    - digital acceleration 
+    - Economic Growth 
+    - Digital Financial Services 
+    - Entrepreneurship 
+
 - title: "Privacy: How COVID-19 Has Sped Up the Debate"
   pub: "Digital"
   date: 2020-05-11
@@ -209,16 +220,4 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
     - digital acceleration 
     - Human-centered design 
     - Social Media 
-
-- title: "What's the Best Architecture for a Management Information System?"
-  pub: "Digital"
-  date: 2020-02-26
-  link: "https://dai-global-digital.com/the-back-end-of-management-information-systems.html?utm_source=daidotcom"
-  summary: "I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.
-
-At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this translating: taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Interoperability 
 
