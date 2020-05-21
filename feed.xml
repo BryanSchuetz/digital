@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 May 2020 09:19:52 -0400</pubDate>
-    <lastBuildDate>Thu, 21 May 2020 09:19:52 -0400</lastBuildDate>
+    <pubDate>Thu, 21 May 2020 09:29:30 -0400</pubDate>
+    <lastBuildDate>Thu, 21 May 2020 09:29:30 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" medium="image" /> 
+        <title>Castles Made of Sand: Digital Transformation From the Silicon Up</title>
+        <description>&lt;p&gt;Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impact on how that foundation is laid, and by whom.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 May 2020 13:39:00 -0400</pubDate>
+        <author>Rob Ryan-Silva
+</author>
+        <link>https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html</guid>
+        
+        <category>Makerspace</category>
+        
+        <category>Hardware</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Capture-df7c9a.PNG" medium="image" /> 
@@ -196,27 +215,6 @@
         <category>Data Visualization</category>
         
         <category>Digital Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/COVID-19_BehaviorChange.jpg" medium="image" /> 
-        <title>Approaching Digital Behavior Change Communications in the COVID-19 Era</title>
-        <description>&lt;p&gt;While tackling the spread of the COVID-19 disease takes a multi-faceted approach, behavior change—especially around personal and respiratory hygiene, proper handwashing, social distancing, and so on—remains a critical need across countries where DAI and our clients operate. Further, as organizations and individuals increasingly embrace digital-based approaches to collaboration, communication, and information gathering, we are presented with an opportunity to incorporate these technologies across behavior change communication strategies. However, as many organizations have experienced since the start of near-global lockdowns, this transition to an all-digital way of working comes with unique roadblocks.&lt;/p&gt;
-
-&lt;p&gt;Over the last few weeks, the DAI Center for Digital Acceleration has been exploring how digital communication tools can be used to build communications campaigns aimed at stemming the COVID-19 tide and spreading accurate information about targeted behaviors. We’ve pulled together some quick thoughts on the topic, but frankly, these are principles that apply in most &lt;em&gt;any&lt;/em&gt; effort of this sort.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 15 Apr 2020 15:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/krista-baptista/">Krista Baptista</a>, <a href="https://dai-global-digital.com/authors/anand-varghese/">Anand Varghese</a> and <a href="https://www.linkedin.com/in/lindsey-kirn-8903a55/">Lindsey Kirn</a>
-</author>
-        <link>https://dai-global-digital.com/approaching-digital-behavior-change-communications-in-the-covid-19-era.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/approaching-digital-behavior-change-communications-in-the-covid-19-era.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Digital Transformation</category>
         
         
       </item>

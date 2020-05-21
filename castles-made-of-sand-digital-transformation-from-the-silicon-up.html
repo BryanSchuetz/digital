@@ -9,12 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Data Management Series Part 3: Painting a Vivid Picture with Data">
-  <meta name="twitter:description" content="Welcome back! After reading the previous two posts in this series, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning p...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/160939707%20data%20visualisation-f66a64.jpg">
+  <meta name="twitter:title" content="Castles Made of Sand: Digital Transformation From the Silicon Up">
+  <meta name="twitter:description" content="Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devic...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Data Management Series Part 3: Painting a Vivid Picture with Data</title>
-  <meta name="description" content="Welcome back! After reading the previous two posts in this series, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning pl...">
+  <title>Castles Made of Sand: Digital Transformation From the Silicon Up</title>
+  <meta name="description" content="Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that t...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=21">
-  <link rel="canonical" href="https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html">
+  <link rel="canonical" href="https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,107 +98,37 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Data Management Series Part 3: Painting a Vivid Picture with Data</h1>
+    <h1 class="post-title">Castles Made of Sand: Digital Transformation From the Silicon Up</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=data-management-series">series of posts</a> on Data Management.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Sep 4, 2017</p>
+      <p class="post-details--date">May 15, 2020</p>
       
       
-      <p class="post-details--byline">By <a href="https://www.dai.com/who-we-are/our-team/karim-bin-humam">Karim Bin-Humam</a>; <a href="https://www.dai.com/who-we-are/our-team/ben-mann">Ben Mann</a>
-</p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=data-visualization" class="without-style">Data Visualization</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span> • <span class="post-topic"><a href="/tags/?tag=data-management-series" class="without-style">Data Management Series</a></span></p>
+      <p class="post-details--byline">By <a href="/authors/rob-ryan-silva/" class="without-style">Rob Ryan-Silva
+</a></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=makerspace" class="without-style">Makerspace</a></span> • <span class="post-topic"><a href="/tags/?tag=hardware" class="without-style">Hardware</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>Welcome back! After reading the <a href="https://dai-global-digital.com/tags/?tag=data-management-series">previous two posts in this series</a>, you’ve come a long way: you’ve devised a brilliant monitoring, evaluation, and learning plan, set up your data storage and management infrastructure, and conducted your baseline data collection. It’s finally time to get to the good stuff and dive into the data to make sense of it all—with eye-popping graphics worth of downtown billboards!</p>
-
-<p><img src="/uploads/160939707%20data%20visualisation-ab2ed4.jpg" alt="160939707 data visualisation-ab2ed4.jpg" /></p>
+    <p>Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impact on how that foundation is laid, and by whom.</p>
 
 <!--more-->
 
-<p>To begin, have a solid understanding of what type of data you have to analyze. Is it quantitative or qualitative? Do you have georeferenced data sets? Are you measuring integers, percentages, or scores? What units of measure are related to your various data points and are they easily related? This knowledge will make it simpler to select the appropriate method of analysis and how to present your results.</p>
+<p>Most people are aware of Moore’s Law, or the idea that the number of transistors that manufacturers can etch on a chip doubles roughly every 24 months, while the cost is halved. The imperative of Moore’s Law has had a lot to do with the shape of the silicon industry as it exists today. The capital expenditures that enable ever-shrinking transistors have historically been shockingly expensive, meaning that only the largest and best-funded companies could produce silicon that kept pace with the state of the art.</p>
 
-<p>There are many different approaches to data analysis. Each of these approaches lends themselves to specific applications and contexts that define why you are collecting data and what you want to use it for:</p>
+<p>What many people do not realize is that Moore’s Law is widely considered to be dead. The constraints of physics make it difficult to get transistors much smaller, and many of the innovations speeding computers in the last decade have had less to do with improvements in silicon than with clever programming and architecture <a href="https://en.wikipedia.org/wiki/Speculative_execution">workarounds</a>—some of which have had unexpected <a href="https://meltdownattack.com/">side effects</a>. As a result, it is no longer necessary to have cutting-edge capital equipment to make the current generation of silicon. In 2000, using 10-year-old manufacturing processes to produce chips would have yielded a hopelessly obsolete product, but in 2020 it is possible to make competitive chips using decade-old technology. While silicon manufacturing remains a specialized process, this slowdown opens the field to a much more diverse field of players.</p>
 
-<ul>
-  <li>
-    <p><strong>Descriptive:</strong> Summarizing quantitatively the main features of a collected dataset. This approach is typically employed across just about any data analysis application and is often the first kind of data analysis performed on large datasets such as census data.</p>
-  </li>
-  <li>
-    <p><strong>Exploratory:</strong> An approach that seeks to utilize collected data to find embedded relationships hidden within the data. Exploratory analysis results in insights into correlations between data points (remember, correlation doesn’t mean causation!)</p>
-  </li>
-  <li>
-    <p><strong>Inferential:</strong> This approach tests theories by inferring conclusions about a broad population or other subject matter based on relatively small samples thereof. This is typically the goal of statistical models and brings with it additional analytical rigor required to calculate the uncertainty of inferences.</p>
-  </li>
-  <li>
-    <p><strong>Predictive:</strong> The predictive approach combines historical data with current data to identify trends and make forecasts about the future.</p>
-  </li>
-  <li>
-    <p><strong>Causal:</strong> A causal analysis takes the exploratory approach a step beyond identifying correlation between data points, and examining causation between them, and figuring out what happens to one variable when another is changed.</p>
-  </li>
-</ul>
+<p>Another recent development is that of open source instruction set architecture (ISA). ISAs are the interface by which software can manipulate the power of silicon. Intel’s x86 ISA is the most likely to be recognized by the nonspecialist. ISAs have historically been proprietary, with companies like Intel and MIPS Technologies owning the rights. The most commonly used ISAs at the moment are the intellectual property of a European company called <a href="https://www.arm.com/">ARM</a>, which makes no silicon itself—it merely licenses its ISAs to manufacturers. Its revenues last year are estimated at $1.6 billion.</p>
 
-<p>Your data analysis could use any of these approaches or a mix of approaches, but the distinction is important because the different data types and tools for analysis at our disposal tend to lend themselves better to one or the other approach. At DAI we focus on using a mixture of versatile tools and platforms that can help us do more than one type of analysis. This mixture of tools tends to incorporate:</p>
+<p>A relatively new ISA has been making waves, however. <a href="https://riscv.org/">RISC-V</a> is an open source ISA that any manufacturer can use royalty-free. While it was initially derided by some as an academic exercise, its use has exploded in the last two years, driven in part by rising trade barriers and disputes that made some companies’ access to licenses from ARM and its competitors difficult or uncertain. Companies like Google have seen the opportunity to build their own custom silicon for specialized tasks without being beholden to other rights holders. In 2019, RISC-V-based chips began appearing on the market that are intended as drop-in replacements for popular ARM-based microcontrollers. While RISC-V-based chips are still a tiny fraction of the market, it does look as if they are here to stay.</p>
 
-<ul>
-  <li>
-    <p><strong>Geospatial analysis:</strong> ranging from simple heat maps to complex point-source-network analysis using <a href="http://www.arcgis.com/features/index.html">ArcGIS</a> or <a href="https://dai-global-digital.com/open-source-series-spatial-analysis-with-qgis.html">QGIS</a></p>
-  </li>
-  <li>
-    <p><strong>Statistical models:</strong> basic summary statistics, weighted averages, or Bayesian models using <a href="https://www.ibm.com/analytics/us/en/technology/spss/">SPSS</a> or <a href="https://www.rstudio.com/">R-Studio</a></p>
-  </li>
-  <li>
-    <p><strong>Machine learning:</strong> predictive analytics, natural language learning, or neural network trend analysis using <a href="https://www.tensorflow.org/">TensorFlow</a> or [IBM Watson Knowledge Studio(https://www.ibm.com/watson/)</p>
-  </li>
-  <li>
-    <p><strong>Network analysis:</strong> for force-directed graphs, node-network clustering, and social network mapping using <a href="https://gephi.org/">Gephi</a> or <a href="http://centrifugesystems.com/">Centrifuge</a></p>
-  </li>
-</ul>
+<p><img src="/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" alt="1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" /><code class="language-plaintext highlighter-rouge">RISC V prototype chip. Image courtesy Wikimedia Commons.</code></p>
 
-<h2 id="five-key-reminders-for-data-visualization">Five Key Reminders for Data Visualization</h2>
+<p>What all this means for tools for development is hard to say with precision, but we can make some good guesses. Cheaper foundries producing chips based on open source architecture means that a silicon industry becomes a realistic proposition for some middle-income countries, and that becomes a foundation for downstream electronics industries. As China’s dominance of supply chains begins to loosen, as many expect to happen in the post-COVID-19 world, important opportunities for new players will arise. Some of the models that have driven open source hardware development in recent years, like making printed circuit board production available to small-scale producers by aggregating many orders into a single production run, could become feasible for chips as well—and some startups are <a href="https://abopen.com/news/onchip-unveils-itsy-chipsy-ultra-low-cost-ic-fabrication-platform/">looking at it</a>. That would likely mean greater innovation in the silicon space, and more importantly for our purposes, a lowering of barriers to design. What solutions to unaddressed needs might developing country chip designers come up with? I cannot say. And that is what makes it exciting.</p>
 
-<p>Data visualization can be considered the art to data analysis’ science. This is where you get to be really creative in finding ways to communicate the secrets hidden within your raw data. The field of data visualization continues to explode, flooding that market with all strata of platforms from the simple (infogram) to the highly complex (power BI, Tableau). Artistry has a role in your data presentation, which can be strengthened by SVG tools such as <a href="http://rawgraphs.io/">RAWGraphs</a>.</p>
-
-<p>Data can be represented in an infinite number of ways and the number is only increasing. From time-series data to geospatial data, scatter plots to nominal comparisons, bubble charts to spider charts, hierarchical tree diagrams to network maps and relational visualizations, you won’t lack for options. But among all the choices, we at DAI recognize that when creating a compelling visual narrative, it is important to make sure we take into account the following:</p>
-
-<ol>
-  <li>
-    <p><strong>Have a purpose for each visual.</strong> Having a visual for the sake of having a visual doesn’t contribute to a narrative that you are trying to communicate about the data.</p>
-  </li>
-  <li>
-    <p><strong>Choose an appropriate chart.</strong> If you decide to use a chart or graph, pick one that is a good fit for your data. Showing change over time? Don’t use a pie chart. Are different variables influencing your results? Maybe select a spider-gram.</p>
-  </li>
-  <li>
-    <p><strong>Keep it simple.</strong> A user shouldn’t have to spend more than a few seconds looking at a visual to quickly draw out its key message.</p>
-  </li>
-  <li>
-    <p><strong>Let the user explore.</strong> When working with digital platforms as opposed to static .pdfs, we like to make our visuals interactive to allow the user to explore the data in depth drawing out the specific insights he or she is looking for.</p>
-  </li>
-  <li>
-    <p><strong>Compare figures.</strong> Simply providing aggregates can say something about your data, but providing a yardstick by which to measure summary data gives a sense of significance to each insight.</p>
-  </li>
-</ol>
-
-<h2 id="what-is-successful-data-management">What is Successful Data Management?</h2>
-
-<p>So we’ve covered all links in the data management chain that we introduced in the <a href="https://dai-global-digital.com/data-management-series-planning-and-collecting-part-1.html">first post in this series</a>. From establishing a clear data management plan, through collection and storage all the way to analysis and visualization, what we are trying to communicate with this series of posts is that taking a holistic approach to the chain is the way to ensure your organization will make the most of its data. With this approach, two things should happen:</p>
-
-<ol>
-  <li>
-    <p><strong>Every person directly involved in the chain understands how the system works:</strong> Monitoring and evaluation specialists, data collectors/enumerators, chiefs of party, and others will know what types of data need to be collected, how to ensure collected data is clean and where it has to be stored for analysts to access and analyze it.</p>
-  </li>
-  <li>
-    <p><strong>Everyone else in the organization knows how to find the data they need:</strong> Communications specialists, new business specialists, project backstoppers, and others have quick and easy access to a variety of data across departments and geographies. Need to know how many grants your company has administered to private businesses across Latin America? No problem, this should take just a few minutes!</p>
-  </li>
-</ol>
-
-<p>As this year’s <a href="http://merltech.org/">MERLTech conference</a> takes place, we will undoubtedly consistently be reminded of all the potential that data holds for improving development outcomes. But for all of the hype, one thing will remain unchanged: Data is just data—it is what we do with the data that defines its impact, and designing a management system that leverages it effectively is the difference between a bucket of crude and high octane jet fuel.</p>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/data-management-series-analysis-and-visualization-part-3.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -226,12 +156,13 @@
   
   
     
+    
+  
+  
+    
       
       
         
-        
-          
-          
         
           
           
@@ -255,6 +186,19 @@
           
           
         
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
           
           
         
@@ -270,6 +214,131 @@
         
           
           
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
         
           
           
@@ -294,7 +363,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/fig8_cfr-0d2f6a.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/plan-c-how-makerspaces-are-providing-a-stopgap-for-covid-19-supply-shortages.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/DAI%203D%20printer.jpg);"></div><span class="related-item-text">Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages</span></a></li>
             
             
             
@@ -307,67 +376,6 @@
       
       
         
-        
-          
-          
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/examining-hospital-capacity-in-mexico.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/figure_5.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/information-liberation-what-is-open-data-and-why-does-it-matter.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg);"></div><span class="related-item-text">Information Liberation: What is Open Data, and Why Does it Matter?</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -391,6 +399,525 @@
           
           
         
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/COVID-looking-for-the-helpers-in-the-hardware-community.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/CDC-coronavirus-image-23311-for-web.jpg);"></div><span class="related-item-text">COVID-19: Looking for Helpers in the Hardware Community</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/five-trends-in-hardware-to-watch.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/5e29aca9a055b1488ea32c12.png);"></div><span class="related-item-text">Five Trends in Hardware to Watch</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
           
           
         
@@ -408,7 +935,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/days_joint.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/lessons-from-the-makerspace-community-in-high-income-countries.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/image001.jpg);"></div><span class="related-item-text">Lessons from the Makerspace Community in High-Income Countries</span></a></li>
             
             
             
