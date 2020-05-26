@@ -6,6 +6,7 @@ tags:
 - Virtual Meetings
 - Digital
 Author: Talia Dweck
+social-image: "/uploads/Talia-blog-CDAteam.jpeg"
 ---
 
 Over the past few months, I have been reading article after article about how to run a successful virtual workshop, training, event, and so on, all of which provided useful advice. But, as I have run my fair share of virtual meetings these days, and because I am often described as “direct” by my peers and colleagues, I thought I would take a stab at making my own list of to-the-point recommendations.
@@ -15,6 +16,8 @@ Over the past few months, I have been reading article after article about how to
 Before I start, I want to stress one fact that I’m sure we can all agree on: No combination of meeting software, virtual activities, co-creation websites, etc., can replace human interaction. Working together, in person, creates intangible benefits that simply cannot be replicated online. Once we accept that, all we can do is try our best with the tools that we have. So here goes:
 
 * **When you think you’re done prepping, prep some more:** I’m sure you have heard this one before, but it’s too important to leave out. When I was organizing a three-day virtual workshop, I went through all the capabilities of Teams, Zoom, and Webex, looking at the pros and cons of each and testing what they could do. Luckily, I had the help of a digital collaboration reference guide developed by my colleague in the Center for Digital Acceleration. In the end, I chose Webex Training because I wanted to see more than four people on video at the same time (Teams did not allow for that prior to the [recent update](https://www.thurrott.com/cloud/234690/microsoft-teams-now-shows-9-people-in-participant-view)), was concerned with the [privacy issues in Zoom](https://nymag.com/intelligencer/2020/04/the-zoom-app-has-a-lot-of-security-problems.html), and wanted to have breakout sessions within the workshop. Once chosen, I roped in someone from our IT team to give me a one-on-one training on the software and its capabilities and then proceeded to test it not one, not two, but three times with my internal DAI test dummies (they are not actually dumb). Only then did I feel prepared and confident to host a workshop.
+
+![Talia-blog-CDAteam.jpg](/uploads/Talia-blog-CDAteam.jpeg)`DAI's Center for Digital Acceleration team.`
 
 * **Bring out your inner bully:** Over the past few months I have facilitated several virtual meetings and workshops and realized that my previous life as a high school soccer coach has worked to my advantage. I want to be clear that I am not telling you go out and yell at your participants in the same way that I used to yell at 16-year-old girls to shoot low and to the corners, but sooner or later, you’ll need to assert control over a meeting. Social cues barely exist in a virtual setting. Someone who is talking too long won’t recognize annoyed faces, and introverts are often even more reluctant to pipe up online. Sometimes, it’s OK to be a bit of a bully. It’s OK to call people out if they are not contributing and to cut people off if they are contributing too much. And, when possible, I strongly (borderline aggressively) suggest that people use their video. Being on video automatically forces people to pay better attention and stay engaged.
 
