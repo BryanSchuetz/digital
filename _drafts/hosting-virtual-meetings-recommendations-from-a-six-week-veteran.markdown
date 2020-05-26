@@ -9,6 +9,7 @@ Author: Talia Dweck
 ---
 
 Over the past few months, I have been reading article after article about how to run a successful virtual workshop, training, event, and so on, all of which provided useful advice. But, as I have run my fair share of virtual meetings these days, and because I am often described as “direct” by my peers and colleagues, I thought I would take a stab at making my own list of to-the-point recommendations.
+<!--more-->
 
 Before I start, I want to stress one fact that I’m sure we can all agree on: No combination of meeting software, virtual activities, co-creation websites, etc., can replace human interaction. Working together, in person, creates intangible benefits that simply cannot be replicated online. Once we accept that, all we can do is try our best with the tools that we have. So here goes:
 
