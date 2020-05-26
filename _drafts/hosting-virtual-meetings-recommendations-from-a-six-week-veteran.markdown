@@ -29,4 +29,4 @@ Before I start, I want to stress one fact that I’m sure we can all agree on: N
 
 Hopefully this advice is helpful as you look to organize and facilitate your own virtual event. The key is to prepare, hope for the best, and plan for the worst. Good Luck!
 
-*This is the first in a series on virtual workshops, stay tuned as we gather learnings and share how to apply them to current and future work.* 
+*This is the first in a series on virtual workshops, stay tuned as we gather learnings and share how to apply them to current and future work.*
