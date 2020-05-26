@@ -1,9 +1,10 @@
 ---
-title: 'Virtual Workshops: Recommendations from a Six-Week Veteran'
+title: 'Digital Collaboration: Recommendations from a Six-Week Veteran'
 date: 2020-05-25 10:30:00 -04:00
 tags:
 - Events
 - Virtual Workshops
+- Digital Collaboration
 Author: Talia Dweck
 social-image: "/uploads/Talia-blog-CDAteam.jpeg"
 thumbnail: "/uploads/Talia-blog-CDAteam.jpeg"
@@ -29,4 +30,4 @@ Before I start, I want to stress one fact that I’m sure we can all agree on: N
 
 Hopefully this advice is helpful as you look to organize and facilitate your own virtual event. The key is to prepare, hope for the best, and plan for the worst. Good Luck!
 
-*This is the first in a series on virtual workshops, stay tuned as we gather and share lessons learned and how they apply to current and future work.*
+*This is the first in a series on digital collaboration, stay tuned as we gather and share our experiences and lessons learned on virtual workshops and presentations, e-learning products, user engagement and more!*
