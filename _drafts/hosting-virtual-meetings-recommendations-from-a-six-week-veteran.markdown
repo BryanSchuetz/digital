@@ -5,6 +5,7 @@ tags:
 - Events
 - Virtual Meetings
 - Digital
+Author: Talia Dweck
 ---
 
 Over the past few months, I have been reading article after article about how to run a successful virtual workshop, training, event, and so on, all of which provided useful advice. But, as I have run my fair share of virtual meetings these days, and because I am often described as “direct” by my peers and colleagues, I thought I would take a stab at making my own list of to-the-point recommendations.
