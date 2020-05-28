@@ -1,0 +1,34 @@
+---
+title: Disinformation and dating apps - a match made in heaven (but swipe left though)
+date: 2020-05-28 18:08:00 -04:00
+Author: Inta Plostins
+---
+
+Digital@DAI community – we can all agree that it’s been a verrrrrrrrrry long 2.5 months in quarantine. I can unscientifically report that 98% of news is depressing, 97% of it is about COVID (including 14/18 of the [last](https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html) [articles](https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html) [posted](https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html) [to](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html) [this](https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html) [blog](https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html)), and all of it is too much.  So! Let’s change the subject and talk about something fun – **disinformation on dating apps.**
+
+![Datings Apps](https://live.staticflickr.com/4481/37863941771_33bfcfb19c.jpg)
+
+
+Before diving into the online dating world (a terrifying prospect in literally all of the ways), let’s clarify an important question.** Are misinformation and disinformation the same thing? No! **[Misinformation refers to ](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf)any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong. As we all know – or **definitely** should assume – misinformation is rife on dating apps. Everyone is exaggerating left, right, and center about their height, their interests, and general levels of coolness. (Don’t @ me.) However, disinformation on dating apps – now that’s pretty new.\
+Here are some recent examples:
+
+* [In 2018](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf), a Ukrainian woman named Nataliia Bureiko posted screenshots of a purported Tinder exchange with Officer Oleksandr Varchenko to her Facebook page. They appeared to show Officer  Varchenko pressuring her into a sexual relationship and then retaliating when she did not acquiesce. Popular Ukrainian news outlets ran with the story, which quickly captured the Ukrainian public’s attention. In a strange twist, Nataliia later claimed that she did not post these messages, but that an unspecified acquaintance offered her USD$50 for access to her Facebook page. She is now in hiding under the protection of the Ukrainian police. In a significantly less surprising twist, Officer Oleksandr Varchenko happens to be married to the first Deputy Director of [Ukraine’s State Bureau of Investigations](https://www.rferl.org/a/ukraine-parliament-votes-to-reboot-graft-fighting-agency-amid-150-000-bribe-scandal/30306463.html) Olga Varchenko. (I highly recommend reading [pages 1-3](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf) for the full story; it is a truly wild ride.)
+
+* Also in 2018, [NATO’s Centre for Strategic Communications](https://www.stratcomcoe.org/) perpetrated a modern [“honey trap”](https://foreignpolicy.com/2010/03/12/the-history-of-the-honey-trap/) on Tinder in my ancestral homeland, Latvia. [To see how far the Latvian soldiers would go](https://www.euractiv.com/section/eastern-europe/news/fighting-fake-news-online-how-soldiers-in-latvia-got-fooled-by-bots/), Centre employees impersonated a woman on Tinder. Two soldiers eventually sent this “woman” photos of themselves in uniform and even abandoned post to go meet her. Even though this was just a test (that these two soldiers clearly failed), it helped the Latvian Army identify key weaknesses that its enemies could potentially exploit in the future.
+
+* For just £500, pro-Labour Party activists developed [a Tinder chatbot](https://www.wired.co.uk/article/tinder-political-bots-jeremy-corbyn-labour) before the UK’s general elections in 2017 that pushed out pro-Labour messages to all its matches. First, they took over the profiles of actual Tinder users (who somehow agreed to this?) and then paid for a Tinder Premium account, which allowed them to switch their location to hotly contested constituencies. These bots sent out 30,000-40,000 messages to any undecided or presumptive Tory 18-25 year-old voters in the target areas, consisting of criticisms of Tory policies and/or lists of Labour policies. Users had no idea that they were interacting with bots, instead of real people.
+
+* In a less baldly political example, Chinese-owned dating apps appear to be [exploiting men in India ](https://qz.com/india/1811151/chinese-dating-apps-are-exploiting-loneliness-of-indias-men/)to turn a profit. On apps like L’amour, LivU, and Tumile, it appears as though bots impersonating women initially reel in male users. If these men want to have a phone call with one of their female matches, they need to buy in-app currency (paying by the second for each call, of course). At this point, bots will no longer do, and the apps appear to hire real women to take calls from male users. Women earn points for each interaction, which they can convert to cash.
+
+  **What is to be done?** Honestly, the normal best practices for online dating also apply really well to disinformation:
+
+* **Don’t believe everything you read. **If it seems too good to be true, it probably is.
+
+* **Don’t overshare.** A little mystery is not a bad thing… especially when dealing with bots, scammers, or people who want to exploit you (for political gain).
+
+* **Report suspicious behavior to the app. **Legitimate dating apps, like Tinder, do not want this happening to you any more than you want it to happen yourself.
+
+* **Think critically.** Use your head!
+  
+
+**Bottom line – be careful, readers.** It’s a jungle out there. Stay safe, and stay healthy!
