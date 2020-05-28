@@ -8,8 +8,7 @@ Digital@DAI community – we can all agree that it’s been a verrrrrrrrrry long
 
 ![Datings Apps](https://live.staticflickr.com/4481/37863941771_33bfcfb19c.jpg)
 
-
-Before diving into the online dating world (a terrifying prospect in literally all of the ways), let’s clarify an important question.** Are misinformation and disinformation the same thing? No! **[Misinformation refers to ](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf)any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong. As we all know – or **definitely** should assume – misinformation is rife on dating apps. Everyone is exaggerating left, right, and center about their height, their interests, and general levels of coolness. (Don’t @ me.) However, disinformation on dating apps – now that’s pretty new.\
+Before diving into the online dating world (a terrifying prospect in literally all of the ways), let’s clarify an important question. **Are misinformation and disinformation the same thing? No! **[Misinformation refers to ](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf)any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong. As we all know – or **definitely** should assume – misinformation is rife on dating apps. Everyone is exaggerating left, right, and center about their height, their interests, and general levels of coolness. (Don’t @ me.) However, disinformation on dating apps – now that’s pretty new.\
 Here are some recent examples:
 
 * [In 2018](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf), a Ukrainian woman named Nataliia Bureiko posted screenshots of a purported Tinder exchange with Officer Oleksandr Varchenko to her Facebook page. They appeared to show Officer  Varchenko pressuring her into a sexual relationship and then retaliating when she did not acquiesce. Popular Ukrainian news outlets ran with the story, which quickly captured the Ukrainian public’s attention. In a strange twist, Nataliia later claimed that she did not post these messages, but that an unspecified acquaintance offered her USD$50 for access to her Facebook page. She is now in hiding under the protection of the Ukrainian police. In a significantly less surprising twist, Officer Oleksandr Varchenko happens to be married to the first Deputy Director of [Ukraine’s State Bureau of Investigations](https://www.rferl.org/a/ukraine-parliament-votes-to-reboot-graft-fighting-agency-amid-150-000-bribe-scandal/30306463.html) Olga Varchenko. (I highly recommend reading [pages 1-3](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf) for the full story; it is a truly wild ride.)
@@ -22,13 +21,12 @@ Here are some recent examples:
 
   **What is to be done?** Honestly, the normal best practices for online dating also apply really well to disinformation:
 
-* **Don’t believe everything you read. **If it seems too good to be true, it probably is.
+* \*\*Don’t believe everything you read. \*\*If it seems too good to be true, it probably is.
 
 * **Don’t overshare.** A little mystery is not a bad thing… especially when dealing with bots, scammers, or people who want to exploit you (for political gain).
 
-* **Report suspicious behavior to the app. **Legitimate dating apps, like Tinder, do not want this happening to you any more than you want it to happen yourself.
+* \*\*Report suspicious behavior to the app. \*\*Legitimate dating apps, like Tinder, do not want this happening to you any more than you want it to happen yourself.
 
 * **Think critically.** Use your head!
-  
 
 **Bottom line – be careful, readers.** It’s a jungle out there. Stay safe, and stay healthy!
