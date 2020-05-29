@@ -32,4 +32,4 @@ Here are some recent examples:
 * **Report suspicious behavior to the app.** Legitimate dating apps, like Tinder, do not want this happening to you any more than you want it to happen yourself.
 * **Think critically.** Use your head!
 
-**Bottom line—be careful, readers.** It’s a jungle out there. Stay safe, and stay healthy!
+**Bottom line—be careful, readers.** It’s a jungle out there. Stay safe and stay healthy!
