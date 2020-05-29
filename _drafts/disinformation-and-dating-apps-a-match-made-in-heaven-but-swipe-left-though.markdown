@@ -31,7 +31,7 @@ Here are some recent examples:
 
 * **Don’t believe everything you read**.  If it seems too good to be true, it probably is.
 
-* **Don’t overshare.** A little mystery is not a bad thing… especially when dealing with bots, scammers, or people who want to exploit you (for political gain).
+* **Don’t overshare.** A little mystery is not a bad thing… especially when dealing with bots, scammers, or people who want to exploit you for political gain.
 
 * **Report suspicious behavior to the app.** Legitimate dating apps, like Tinder, do not want this happening to you any more than you want it to happen yourself.
 
