@@ -1,5 +1,5 @@
 ---
-title: Disinformation and dating apps - a match made in heaven (but swipe left though)
+title: Disinformation and Dating Apps—A Match Made in Heaven (But Swipe Left Though)
 date: 2020-05-28 18:08:00 -04:00
 tags:
 - Cybersecurity
