@@ -5,13 +5,19 @@ tags:
 - Cybersecurity
 - Trust
 Author: Inta Plostins
+social-image: "/uploads/Inta%20blog%20creative%20commons.jpg"
+thumbnail: "/uploads/Inta%20blog%20creative%20commons.jpg"
 ---
 
 Digital@DAI community – we can all agree that it’s been a verrrrrrrrrry long 2.5 months in quarantine. I can unscientifically report that 98% of news is depressing, 97% of it is about COVID (including 14/18 of the [last](https://dai-global-digital.com/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html) [articles](https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html) [posted](https://dai-global-digital.com/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html) [to](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html) [this](https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html) [blog](https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html)), and all of it is too much.  So! Let’s change the subject and talk about something fun – **disinformation on dating apps.**
 
-![Datings Apps](https://live.staticflickr.com/4481/37863941771_33bfcfb19c.jpg) `Image source: Creative Commons`
+<!--more-->
 
-Before diving into the online dating world (a terrifying prospect in literally all of the ways), let’s clarify an important question. \*\*Are misinformation and disinformation the same thing? No! \*\*[Misinformation refers to ](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf)any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong. As we all know – or **definitely** should assume – misinformation is rife on dating apps. Everyone is exaggerating left, right, and center about their height, their interests, and general levels of coolness. (Don’t @ me.) However, disinformation on dating apps – now that’s pretty new.\
+![/uploads/Inta%20blog%20creative%20commons.jpg](/uploads/Inta%20blog%20creative%20commons.jpg) `Image source: Creative Commons`
+
+Before diving into the online dating world (a terrifying prospect in literally all of the ways), let’s clarify an important question. **Are misinformation and disinformation the same thing? No!** [Misinformation refers to ](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf)any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong. As we all know – or **definitely** should assume – misinformation is rife on dating apps. Everyone is exaggerating left, right, and center about their height, their interests, and general levels of coolness. (Don’t @ me.) However, disinformation on dating apps – now that’s pretty new.
+
+\
 Here are some recent examples:
 
 * [In 2018](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf), a Ukrainian woman named Nataliia Bureiko posted screenshots of a purported Tinder exchange with Officer Oleksandr Varchenko to her Facebook page. They appeared to show Officer  Varchenko pressuring her into a sexual relationship and then retaliating when she did not acquiesce. Popular Ukrainian news outlets ran with the story, which quickly captured the Ukrainian public’s attention. In a strange twist, Nataliia later claimed that she did not post these messages, but that an unspecified acquaintance offered her USD$50 for access to her Facebook page. She is now in hiding under the protection of the Ukrainian police. In a significantly less surprising twist, Officer Oleksandr Varchenko happens to be married to the first Deputy Director of [Ukraine’s State Bureau of Investigations](https://www.rferl.org/a/ukraine-parliament-votes-to-reboot-graft-fighting-agency-amid-150-000-bribe-scandal/30306463.html) Olga Varchenko. (I highly recommend reading [pages 1-3](https://raineycenter.org/wp-content/uploads/2019/02/PostSovietDisinformation_FINAL.pdf) for the full story; it is a truly wild ride.)
@@ -22,7 +28,7 @@ Here are some recent examples:
 
 * In a less baldly political example, Chinese-owned dating apps appear to be [exploiting men in India ](https://qz.com/india/1811151/chinese-dating-apps-are-exploiting-loneliness-of-indias-men/)to turn a profit. On apps like L’amour, LivU, and Tumile, it appears as though bots impersonating women initially reel in male users. If these men want to have a phone call with one of their female matches, they need to buy in-app currency (paying by the second for each call, of course). At this point, bots will no longer do, and the apps appear to hire real women to take calls from male users. Women earn points for each interaction, which they can convert to cash.
 
-  **What is to be done?** Honestly, the normal best practices for online dating also apply really well to disinformation:
+**What is to be done?** Honestly, the normal best practices for online dating also apply really well to disinformation:
 
 * **Don’t believe everything you read**.  If it seems too good to be true, it probably is.
 
