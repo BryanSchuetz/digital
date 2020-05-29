@@ -1,6 +1,9 @@
 ---
 title: Disinformation and dating apps - a match made in heaven (but swipe left though)
 date: 2020-05-28 18:08:00 -04:00
+tags:
+- Cybersecurity
+- Trust
 Author: Inta Plostins
 ---
 
