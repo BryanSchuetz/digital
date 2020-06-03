@@ -5,9 +5,22 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2020 09:50:14 -0400</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2020 09:50:14 -0400</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2020 09:59:43 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2020 09:59:43 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com" medium="image" /> 
+        <title>This Week</title>
+        <description>&lt;p&gt;&lt;em&gt;Dear friends and colleagues: we had a lighthearted blog post ready to go this week, but in light of recent events, we’re sure it can wait. Instead, we’re using this time to pause and reflect about the killing of George Floyd and the years of structural racism and inequities that his story represents, both in the U.S. and across the countries where DAI works. We’re also thinking about cities and communities reeling from a combination of a global pandemic and widespread unrest. In the meantime, take care and stay strong.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Jun 2020 20:53:00 -0400</pubDate>
+        <author></author>
+        <link>https://dai-global-digital.com/this-week.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/this-week.html</guid>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Talia-blog-CDAteam.jpeg" medium="image" /> 
@@ -196,23 +209,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html</guid>
         
         <category>COVID-19</category>
-        
-        <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/coding%20classes_Cambodia%20DI.JPG" medium="image" /> 
-        <title>New RFA Calls for Innovative Solutions to Advance Digital Skills for Small Firms</title>
-        <description>&lt;p&gt;Everyone is talking about digital transformation—especially now that digital processes and tools are a mandatory part of daily activities for most businesses, schools, and citizens across the world in response to the global COVID-19 outbreak. The U.S. Agency for International Development (USAID) and DAI have been working to enhance digital skills, improve connectivity, and enable locally led innovation for years. Today, we are all confronted with a new set of urgent challenges. How do we ensure that citizens can safely and effectively use digital technologies to advance their own economic livelihoods and those of their countries?&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Apr 2020 07:00:00 -0400</pubDate>
-        <author>Kate Heuisler
-</author>
-        <link>https://dai-global-digital.com/new-rfa-calls-for-innovative-solutions-to-advance-digital-skills-for-smes.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/new-rfa-calls-for-innovative-solutions-to-advance-digital-skills-for-smes.html</guid>
         
         <category>Digital Inclusion</category>
         

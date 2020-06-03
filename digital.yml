@@ -1,4 +1,12 @@
 
+- title: "This Week"
+  pub: "Digital"
+  date: 2020-06-02
+  link: "https://dai-global-digital.com/this-week.html?utm_source=daidotcom"
+  summary: "Dear friends and colleagues: we had a lighthearted blog post ready to go this week, but in light of recent events, we’re sure it can wait. Instead, we’re using this time to pause and reflect about the killing of George Floyd and the years of structural racism and inequities that his story represents, both in the U.S. and across the countries where DAI works. We’re also thinking about cities and communities reeling from a combination of a global pandemic and widespread unrest. In the meantime, take care and stay strong."
+  tags:
+    - digital acceleration 
+
 - title: "Digital Collaboration: Recommendations from a Six-Week Veteran"
   pub: "Digital"
   date: 2020-05-25
@@ -212,13 +220,4 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
     - digital acceleration 
     - Digital Transformation 
     - Innovation 
-
-- title: "Closing the Gender Digital Divide: What We’re Doing to Bring Women Online"
-  pub: "Digital"
-  date: 2020-03-10
-  link: "https://dai-global-digital.com/closing-the-gender-digital-divide-what-were-doing-to-bring-women-online.html?utm_source=daidotcom"
-  summary: "Digital technologies are revolutionizing the way we access information, financing, and networks—all critical tools for fully participating in the global economy. Yet, these technologies, most notably internet connectivity and mobile phones, are not reaching all people equally. In recognition of International Women’s Day, we are looking at one of the most pressing barriers women face to their economic advancement—the gender digital divide—and how DAI is addressing this problem through the U.S. Agency for International Development’s W-GDP WomenConnect Challenge, implemented by DAI’s Digital Frontiers project. (For the latest information, please read our most recent newsletter)."
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
 
