@@ -12,6 +12,8 @@ tags:
 Author: Jamie Parr
 ---
 
+*This post was written by DAI Data Scientist Jamie Parr, with contributions from Greg Maly, Gratiana Fu, Eduardo González-Pier, Susan Scribner, and Kirsten Weeks. This analysis is Part 4 of a series on known risk factors associated with COVID-19, with a specific focus on Mexico. It is the first of several posts that will provide an analytical overview of different aspects of COVID-19 in Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.*
+
 The past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States daily incidence of deaths slowly declines, Mexico reported its largest daily incidence of deaths yet with 1,092 deaths on Thursday, June 4th.
 
 As the country  begins [to reopen certain parts of the economy](https://www.aljazeera.com/news/2020/06/mexico-begins-reopen-covid-19-crisis-200609140246098.html) and thereby relax social distancing measures, we ask: what is the state of the spread of COVID-19 at the subnational level and what areas are at greatest risk? 
