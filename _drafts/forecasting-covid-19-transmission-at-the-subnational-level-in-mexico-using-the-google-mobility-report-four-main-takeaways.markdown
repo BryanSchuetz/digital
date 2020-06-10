@@ -2,6 +2,13 @@
 title: 'Forecasting COVID-19 Transmission at the Subnational Level in Mexico using
   the Google Mobility Report: Four Main Takeaways'
 date: 2020-06-10 14:35:00 -04:00
+categories:
+- Global Health
+tags:
+- Global Health
+- Data Visualization
+- Data
+- COVID-19
 Author: Jamie Parr
 ---
 
