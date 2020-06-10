@@ -16,6 +16,8 @@ Author: Jamie Parr
 
 The past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States daily incidence of deaths slowly declines, Mexico reported its largest daily incidence of deaths yet with 1,092 deaths on Thursday, June 4th.
 
+<!--more-->
+
 As the country  begins [to reopen certain parts of the economy](https://www.aljazeera.com/news/2020/06/mexico-begins-reopen-covid-19-crisis-200609140246098.html) and thereby relax social distancing measures, we ask: what is the state of the spread of COVID-19 at the subnational level and what areas are at greatest risk?
 
 Our past articles have focused on [scenario forecasting of hospital occupancy rates ](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html)and the challenges of [modeling infection rates in Mexico](https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=related-box). In this article, we provide an overview of our statistical model on the infection, death and reproduction rates at the subnational level. We use a Bayesian hierarchical model developed by the  [Imperial College COVID-19 Response Team](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/) for estimating the [rate of transmission at the subnational level in Brazil]((https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2020-05-08-COVID19-Report-21.pdf)). It utilizes data on the daily incidence of infected, deaths, and individual movement from the Google Mobility Report.
@@ -44,9 +46,10 @@ The first insight highlighted a group of states shared a common trend in their e
 ![figure_3-6675ac.png](/uploads/figure_3-6675ac.png)
 
 Several of these states are smaller in size and population. This would thus mean fewer aggregation of cases of deaths for the model to accurately read thus far, which could impact its predicting capacity. This may lead to a slower and more gradual spread over time.
+
 The government’s recent plan is to relax social distancing measures in 300 [“municipalities of hope”](https://www.marca.com/claro-mx/trending/2020/05/17/5ec193d1e2704eed4f8b4629.html) on June 1st, many of which happen to be located in these states. While the model suggests that COVID-19 transmission is growing in all these states, the fact that they  all have R0 greater than 1 along with the lack of a decreasing trend should give cause for concern. Furthermore, many of these states have not seen a  drastic decline in social mobility when compared to the other group outlines, thus making it even more crucial that officials emphasize the importance of appropriate measures such as mask wearing and maintaining a distance of 2 meters where possible.
 
-\*\*4. There is evidence that Mexico City is flattening the curve. Other states with large cities are not there yet. \*\*
+**4. There is evidence that Mexico City is flattening the curve. Other states with large cities are not there yet. **
 
 The first reported cases in the country were in Mexico City and Sinaloa in late February, although the former has faced a far more significant outbreak, largely due to its metropolis status and being Mexico’s main travel hub. Currently, Mexico City is going through its highest numbers of deaths and reported infections: as of June 7th, there have been 3,729 total deaths and 37,278 reported  infections. However, the silver lining for Mexico City is that our model estimates that it  is reaching its peak soon.
 
@@ -60,7 +63,7 @@ What explains this predicted difference? There are a few reasons. First, the out
 
 The graph below suggests Jalisco and Baja California both have seen increases in mobility, while Mexico City’s rate across all types of mobility have remained low. Furthermore, it is worth noting that Jalisco never achieved as significant of a percentage reduction in movement as Baja California and Mexico City, in which workplace movement largely stayed above -40%.
 
-It is important to note that unlike Mexico City Jalisco and Baja California encompass far more territory than just a major city. In this sense, it is possible that greater increases in movement could be occurring outside of Tijuana and Guadalajara, but the point still stands that in Mexico City people are moving less than their average level of movement than in Jalisco and Baja California. 
+It is important to note that unlike Mexico City Jalisco and Baja California encompass far more territory than just a major city. In this sense, it is possible that greater increases in movement could be occurring outside of Tijuana and Guadalajara, but the point still stands that in Mexico City people are moving less than their average level of movement than in Jalisco and Baja California.
 
 These takeaways are part of a larger forecast that includes additional information beyond the scope of the analysis highlighted in this post. It will be updated weekly to include insights on the progression of COVID-19 for all Mexican states.
 
