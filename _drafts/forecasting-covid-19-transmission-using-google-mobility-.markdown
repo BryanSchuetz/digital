@@ -15,7 +15,7 @@ social-image: "/uploads/COVID%20blog%20image.png"
 
 *This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.*
 
-The past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States daily incidence of deaths slowly declines, Mexico reported its largest daily incidence of deaths yet with 1,092 deaths on Thursday, June 4th.
+For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States daily incidence of deaths slowly declines, Mexico reported its largest daily incidence of deaths yet with 1,092 deaths on Thursday, June 4.
 
 <!--more-->
 
