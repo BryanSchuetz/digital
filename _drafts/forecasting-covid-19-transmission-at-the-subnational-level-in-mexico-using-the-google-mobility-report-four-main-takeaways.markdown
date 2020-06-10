@@ -64,4 +64,4 @@ It is important to note that unlike Mexico City Jalisco and Baja California enco
 
 These takeaways are part of a larger forecast that includes additional information beyond the scope of the analysis highlighted in this post. It will be updated weekly to include insights on the progression of COVID-19 for all Mexican states.
 
-<iframe src="https://jcp109.shinyapps.io/MX_app/"></iframe>
+<iframe src="https://jcp109.shinyapps.io/MX_app/" width="900" height="700" allow="fullscreen"></iframe>
