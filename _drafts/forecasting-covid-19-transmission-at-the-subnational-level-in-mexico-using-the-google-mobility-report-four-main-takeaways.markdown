@@ -1,6 +1,6 @@
 ---
-title: 'Forecasting COVID-19 Transmission at the Subnational Level in Mexico using
-  the Google Mobility Report: Four Main Takeaways'
+title: 'COVID-19 Data Analysis, Part 6: Four Main Takeaways from the Forecast of Transmission
+  Rates at the Subnational Level in Mexico using Google Mobility Data'
 date: 2020-06-10 14:35:00 -04:00
 categories:
 - Global Health
