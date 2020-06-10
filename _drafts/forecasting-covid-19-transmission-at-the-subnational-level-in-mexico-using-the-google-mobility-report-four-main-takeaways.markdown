@@ -66,5 +66,3 @@ The graph below suggests Jalisco and Baja California both have seen increases in
 It is important to note that unlike Mexico City Jalisco and Baja California encompass far more territory than just a major city. In this sense, it is possible that greater increases in movement could be occurring outside of Tijuana and Guadalajara, but the point still stands that in Mexico City people are moving less than their average level of movement than in Jalisco and Baja California.
 
 These takeaways are part of a larger forecast that includes additional information beyond the scope of the analysis highlighted in this post. It will be updated weekly to include insights on the progression of COVID-19 for all Mexican states.
-
-<iframe src="https://jcp109.shinyapps.io/MX_app/" width="600" height="700" allow="fullscreen"></iframe>
