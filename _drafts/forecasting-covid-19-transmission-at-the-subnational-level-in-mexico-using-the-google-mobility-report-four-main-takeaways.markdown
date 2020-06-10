@@ -1,6 +1,6 @@
 ---
-title: 'COVID-19 Data Analysis, Part 6: Four Main Takeaways from the Forecast of Transmission
-  Rates at the Subnational Level in Mexico using Google Mobility Data'
+title: 'COVID-19 Data Analysis, Part 6: Forecasting of Transmission Rates at the Subnational
+  Level in Mexico using Google Mobility Data. Four Main Takeaways.'
 date: 2020-06-10 14:35:00 -04:00
 categories:
 - Global Health
