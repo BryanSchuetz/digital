@@ -11,6 +11,7 @@ tags:
 - COVID-19
 Author: Jamie Parr
 social-image: "/uploads/COVID%20blog%20image.png"
+thumbnail: "/uploads/COVID%20blog%20image.png"
 ---
 
 *This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.*
