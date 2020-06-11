@@ -9,12 +9,14 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes">
-  <meta name="twitter:description" content="Last year I wrote a post called “I Made a Facebook Chatbot (And You Can, Too)” where I laid out the case for chatbots as an outreach and engagement tool in internation...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/keyboard-1804325_640.jpg">
+  <meta name="twitter:title" content="COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data">
+  <meta name="twitter:description" content="This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.
+
+For th...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/COVID%20blog%20image.png">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes</title>
-  <meta name="description" content="Last year I wrote a post called “I Made a Facebook Chatbot (And You Can, Too)” where I laid out the case for chatbots as an outreach and engagement tool in i...">
+  <title>COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data</title>
+  <meta name="description" content="This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -24,7 +26,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=21">
-  <link rel="canonical" href="https://dai-global-digital.com/facebook-messenger-chatbot-1.html">
+  <link rel="canonical" href="https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -98,82 +100,75 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Build a Facebook Messenger Chatbot in 5 Steps in Just 5 Minutes</h1>
+    <h1 class="post-title">COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data</h1>
       
       
     <div class="post-details">
-      <p class="post-details--date">Jan 17, 2018</p>
+      <p class="post-details--date">Jun 10, 2020</p>
       
       
-      <p class="post-details--byline">By Adam Fivenson
-</p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=innovation" class="without-style">Innovation</a></span> • <span class="post-topic"><a href="/tags/?tag=social-media" class="without-style">Social Media</a></span></p>
+      <p class="post-details--byline">By <a href="/authors/jamie-parr/" class="without-style">Jamie Parr
+</a></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=global-health" class="without-style">Global Health</a></span> • <span class="post-topic"><a href="/tags/?tag=data-visualization" class="without-style">Data Visualization</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span> • <span class="post-topic"><a href="/tags/?tag=covid-19" class="without-style">COVID-19</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>Last year I wrote a post called <a href="https://dai-global-digital.com/facebook-chatbot.html">“I Made a Facebook Chatbot (And You Can, Too)”</a> where I laid out the case for chatbots as an outreach and engagement tool in international development. To recap, here’s why:</p>
+    <p><em>This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.</em></p>
+
+<p>For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States’ daily incidence of deaths slowly declines, Mexico reported its largest daily incidence yet with 1,092 deaths on June 4.</p>
 
 <!--more-->
 
-<p><img src="/uploads/keyboard-1804325_640.jpg" alt="keyboard-1804325_640.jpg" /></p>
+<p>As the country begins to reopen <a href="https://www.aljazeera.com/news/2020/06/mexico-begins-reopen-covid-19-crisis-200609140246098.html">certain parts of the economy</a> and relaxing social distancing measures, we ask: What is the state of the spread of COVID-19 at the subnational level and which areas are at greatest risk?</p>
 
-<ul>
-  <li><a href="https://venturebeat.com/2017/09/14/facebook-messenger-passes-1-3-billion-monthly-active-users/">1.3 billion active users</a>, a large and growing number of whom are in developing countries, as DAI’s <a href="https://dai-global-digital.com/tags/?tag=digital-insights">Digital Insights</a> work has highlighted. That’s hard to ignore.</li>
-  <li>Low data usage puts the tool (and services riding on it) in a category of communication that’s even cheaper than texting in many instances, especially when users are connected to WiFi.</li>
-  <li>Natural language and conversation may be easier for some people to use than a GUI interface (to take it a step further, this might be an argument in favor of IVR, but I digress).</li>
-  <li>This one is new, but maybe the most relevant to you if you’re reading this: they’re super easy to build!</li>
-</ul>
+<p>Our past articles have focused on scenario forecasting of <a href="https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html">hospital occupancy rates</a> and the challenges of modeling <a href="https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=related-box">infection rates in Mexico</a>. In this article, we provide an overview of our statistical model on the infection, death, and reproduction rates at the subnational level. We use a Bayesian hierarchical model developed by the Imperial College <a href="https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/">COVID-19 Response Team</a> for estimating the rate of transmission at the <a href="(https://www.imperial.ac.uk/media/imperial-college/medicine/mrc-gida/2020-05-08-COVID19-Report-21.pdf)">subnational level in Brazil</a>. It utilizes data on the daily incidence of infected, deaths, and individual movement from the Google Mobility Report.</p>
 
-<p>I also featured <a href="https://www.messenger.com/t/1276881939061378">Siti</a>, a very simple Facebook Messenger chatbot bot I built using <a href="http://www.chatfuel.com">Chatfuel</a>, and gave readers some really bad directions for making their own bot. Since then I’ve upgraded my chatbot skills significantly: from Apprentice to Wizard, and I’m eager to share a bit of the magic with the world.</p>
+<p>The link to the full forecast can be found <a href="https://analytics.dai.com/public/dashboard/Mexico_Health">here,</a> along with the complete methodology. The dashboard also includes descriptive statistics on COVID-19 for each state and a summary of our prior analysis on hospital occupancy rates.</p>
 
-<p>So, here’s how to make your own chatbot in five easy steps. Follow along and make your own.</p>
+<p><strong>1. The current rate of reproduction (R0) is between 1 and 2 for all Mexican states.</strong></p>
 
-<h2 id="1a-have-a-facebook-account">1a. Have a Facebook Account</h2>
+<p>The rate of reproduction can be thought of as the expected number of cases directly generated by one case in a population where all individuals are susceptible. A reproduction number below 1 (one case is infecting on average less than one person) means that the virus will not spread. Estimates of the basic reproduction number of coronavirus in the <a href="https://docs.google.com/spreadsheets/d/1ZoWJrrKbZI_yb2JJh36sU0IiF3J0JNp8UwLwLEbqO9M/edit#gid=0">first outbreaks</a> of Wuhan, Italy, South Korea, and other initial epicenters suggest that R0 is between 2 and 3. Given that many of these estimates were done before any social distancing measures had been put in place, they provide a reasonable baseline estimate of COVID-19’s transmission under normal circumstances.</p>
 
-<p>Admittedly, only <a href="https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/">2.06 billion</a> of the 7.6 billion people on Earth actually have a Facebook account so if you’re among the 27 percent who do, you’ve cleared the first hurdle. If you’re among the 63 percent without one and want to change that, point your browser to the following web site: <a href="http://www.facebook.com">Facebook.com</a>. Assuming you’re among the 27 percent, the clock stays at 5:00 minutes.</p>
+<p><img src="/uploads/figure_1-395ff7.png" alt="figure_1-395ff7.png" /></p>
 
-<h2 id="1b-make-a-facebook-page-to-house-your-bot">1b. Make a Facebook Page to House Your Bot</h2>
+<p>Our model suggests a low degree of variance in the current rate of reproduction across Mexican states: all except Quintana Roo have the upper and lower bounds of their current reproduction rate fall between 1 and 2. While this provides a clear picture on where Mexico stands nationally, there are important differences between the states at the top and bottom of this graph. Much evidence suggests that pushing the reproduction number below 2 can be done with effective social distancing. Thus, stringent adherence to social distancing in states such as Quintana Roo, Morelos, and Baja California Sur will likely lead to elimination of COVID-19 transmission quicker than in Jalisco, Sonora, and Queretaro.</p>
 
-<p>(This doesn’t count as step 2 because it’s just an extension of the previous step.) If you’re on your newsfeed, see the ‘Create:Page’ button in the lower right, or just visit  <a href="http://www.facebook.com/pages/create">facebook.com/pages/create</a>. Choose a page type, give your page a name. Also, choose a featured photo. It should only take about 30 seconds to get it up and running, so the clock’s at 4:30.</p>
+<p><strong>2. The effective rate of reproduction has significantly declined in states with significant initial outbreak.</strong></p>
 
-<p><img src="/uploads/siti.PNG" alt="siti.PNG" /></p>
+<p>Observing the trend of the effective rate of reproduction provides important information on how the virus has evolved across time. In Mexico, we observe a similar pattern in the states of Coahuila, Guerrero, Hidalgo, Jalisco, Morelos, Puebla, Quintana Roo, State of Mexico, Sinaloa, Veracruz, Yucatan, and Mexico City, in which the average estimate of R0 was significantly over 2 in mid-April, quickly dropped off in the second half of the month and has slowly declined towards 1 from the month of May to the present. As the graph below shows, these states have managed to mitigate the spread of COVID-19 since then. The data on mobility suggests that this has largely been achieved through effective social distancing and these efforts will have an enormous impact on hospitals in their attempt to manage caseloads. Nevertheless, for these states to effectively eliminate transmission they need to get the rate of reproduction below 1. These states will need to continue encouraging social distancing efforts whenever possible and maximizing caution to push the number below 1.</p>
 
-<h2 id="2-launch-chatfuel">2. Launch Chatfuel</h2>
+<p><img src="/uploads/figure_2-27da84.png" alt="figure_2-27da84.png" /></p>
 
-<p>Go to <a href="http://www.chatfuel.com">Chafuel.com</a> and login using your Facebook account. Select the option to ‘Create a new bot.’ This will open a new bot with a sample sequence in place. This also should only take you about 30 seconds, so we’re down to 4:00 on the clock.</p>
+<p><strong>3. There is not a clear trend for smaller states with more recent outbreaks.</strong></p>
 
-<p><img src="/uploads/test.PNG" alt="test.PNG" /></p>
+<p>The first insight highlighted a group of states that shared a common trend in their effective rate of reproduction, whereby it began initially high and since has been drastically reduced closer to 1. A second group of 14 states that have not experienced significant outbreaks, including Aguascalientes, Baja California Sur, Chiapas, Colima, Durango, Guanajuato, Nayarit, Nuevo Leon, Oaxaca, Queretaro, San Luis Potosi, Tlaxcala, Tamaulipas, and Zacatecas, display a common pattern in that they lack a large initial rate of transmission and sudden drop-off as social distancing became more common.</p>
 
-<h2 id="3-connect-bot-to-your-facebook-page">3. Connect Bot to Your Facebook Page</h2>
+<p><img src="/uploads/figure_3-6675ac.png" alt="figure_3-6675ac.png" /></p>
 
-<p>You’ll see a button in the upper right to ‘Connect to Facebook.’ Click it, then select the page you just created. This gives the bot a home on Facebook, and you can use the Facebook page, but you don’t have to. Depending on how you’re using the bot, a user can access it directly from Messenger or through your new Facebook page. This probably takes 15 seconds, so there should still be about 3:45 on the clock.</p>
+<p>Several of these states are smaller in size and population. This would thus mean fewer aggregation of cases of deaths for the model to accurately read thus far, which could impact its predicting capacity. This may lead to a slower and more gradual spread over time.</p>
 
-<p><img src="/uploads/test%20page.PNG" alt="test page.PNG" /></p>
+<p>The government’s recent plan is to relax social distancing measures in 300 <a href="https://www.marca.com/claro-mx/trending/2020/05/17/5ec193d1e2704eed4f8b4629.html">“municipalities of hope”</a> on June 1, many of which happen to be located in these states. While the model suggests that COVID-19 is growing in all these states, the fact that they all have R0 greater than 1, along with the lack of a decreasing trend, should give cause for concern. Furthermore, many of these states have not seen a drastic decline in social mobility when compared to the other group outlines, thus making it even more crucial that officials emphasize the importance of appropriate measures such as mask wearing and maintaining a distance of two meters where possible.</p>
 
-<h2 id="4-build-your-bot">4. Build Your Bot</h2>
+<p><strong>4. There is evidence that Mexico City is flattening the curve. Other states with large cities are not there yet.</strong></p>
 
-<p>On the right, you have a vertical menu of options. You’ll only need ‘Automate’ to start. The left half of the screen includes your blocks, groups of blocks, and sequences. The right side is the edit pane for the content of the active block or sequence. As of the writing of this post—on January 17, 2018—the bot comes equipped with a sample Welcome Message, Default Answer, Sequence, and Group of Content Blocks. These will change over time as features evolve, of course.</p>
+<p>The first reported cases in the country were in Mexico City and Sinaloa in late February, although the former has faced a far more significant outbreak, largely due to its metropolis status and being Mexico’s main travel hub. Currently, Mexico City is experiencing its highest numbers of deaths and reported infections: As of June 7, there have been 3,729 total deaths and 37,278 reported infections. However, the silver lining for Mexico City is that our model estimates that it will be reaching its peak soon.</p>
 
-<p>Look through each of the default blocks to get a sense of how they’re built and how they’re connected. Note that users of your bot will always begin with the Welcome Message, but unless you direct them back to this block, they’ll never see it again, so don’t put your main content here. Sequences are more complex, so initially stick with blocks (you can delete the default sequence).</p>
+<p>Other states with large cities are at greater risk. The graph below displays the true daily incidence of the number of infected in Mexico City, Baja California, and Jalisco. This is modeled by working backwards from death counts to infer the true number of infected (the full methodology is available in the <a href="https://analytics.dai.com/public/dashboard/Mexico_Health">dashboard</a>). Baja California, where Tijuana, the fifth largest city is, is expected to have an R0 of 1.54. The situation is even worse in Jalisco, where the third-largest city Guadalajara is. Our model predicts that transmission is increasing in this state.</p>
 
-<p>If you choose the block you want to edit (Welcome Message, for example), you’ll see at the bottom of the edit pane a series of options: Text, Typing, Quick Reply, Image, Gallery, Go To Block, To Sequence, and a Plus sign to access other options. These are the basic components of the bot itself. Drag them into the edit pane of your blocks and edit them as appropriate. Be sure to link each block to another block so your users don’t get stuck.</p>
+<p><img src="/uploads/figure_4-3a4143.png" alt="figure_4-3a4143.png" /></p>
 
-<p><img src="/uploads/ada%20a%20card.PNG" alt="ada a card.PNG" /></p>
+<p>What explains this predicted difference? There are a few reasons. First, the outbreak in Mexico City began earlier than anywhere else in the country. In this sense, the data indicates that the city is one to three weeks ahead of other cities and regions, which means that they will peak sooner. The other factor influencing this deviation is that social distancing has been more strictly adhered to in Mexico City. The Google Mobility Report, which the forecasting model uses to predict future rates, tracks community movement by mobile phone. It categorizes these movements around six key types of areas: residential; grocery and pharmacy; transit stations; parks; retail and recreation; and workplaces.</p>
 
-<p>Admittedly this step should take longer, but for the purposes of getting to the final step, only spend about 3 minutes on it for now, which brings you to 0:45 on the clock; just enough to customize the bot a bit and see how it looks once you’ve launched it in Messenger.</p>
+<p><img src="/uploads/figure_5-78cfb0.png" alt="figure_5-78cfb0.png" /></p>
 
-<h2 id="5-test-your-bot">5. Test Your Bot</h2>
+<p>The graph above suggests Jalisco and Baja California have seen increases in mobility, while Mexico City’s rate across all types of mobility have remained low. Furthermore, it is worth noting that Jalisco never achieved as significant of a percentage reduction in movement as Baja California and Mexico City, in which workplace movement largely stayed above -40 percent.</p>
 
-<p>Click the blue ‘Test Bot’ button in the upper right to try your bot out. Run through every block, menu, and option to make sure they’re working and that your content is solid. If the bot is simple, it shouldn’t take more than about 45 seconds to get through it, but be aware that sometimes new blocks are a bit slow to load.</p>
+<p>It is important to note that unlike Mexico City Jalisco and Baja California encompass far more territory than just a major city. In this sense, it is possible that greater increases in movement could be occurring outside of Tijuana and Guadalajara, but the point still stands that in Mexico City people are moving less than their average level of movement than in Jalisco and Baja California.</p>
 
-<p>Now that you’ve spent 5 minutes getting to know the basics, experiment with your bot and think about how this can be useful for people in need. What do you know about your users and their challenges? How can customized information provided by a bot help? Is a bot the right solution? Do your users have mobile phones? Do they have Facebook Messenger? All good things to know as you think about how this tool can be useful in the context of a development project.</p>
+<p>These takeaways are part of a larger forecast that includes additional information beyond the scope of the analysis highlighted in this post. It will be updated weekly to include insights on the progression of COVID-19 for all Mexican states.</p>
 
-<p>What will your bot actually do? That’s up to you. Check out <a href="http://www.wired.co.uk/article/chatbot-list-2017">WIRED’s Best Bots of 2017 for some ideas.</a></p>
-
-<p><em>Next time: connecting your bot to a database so you can access &amp; visualize data and tie in other web sites and web-based tools.</em></p>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/facebook-messenger-chatbot-1.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -201,9 +196,19 @@
   
   
     
+    
+  
+  
+    
       
       
         
+        
+          
+          
+        
+          
+          
         
           
           
@@ -227,16 +232,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -258,16 +253,6 @@
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -291,16 +276,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -323,117 +298,14 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/promoting-resilient-ecosystems-how-cambodians-are-adapting-in-the-face-of-covid-19.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Screen%20Shot%202020-04-23%20at%207.54.36%20AM.png);"></div><span class="related-item-text">Promoting Resilient Ecosystems: How Cambodians are Adapting in the Face of COVID-19</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/privacy-how-much-should-we-be-willing-to-give-up-in-a-covid-19-era.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/photo-1585411241969-9ac0c565451b-a68beb.webp);"></div><span class="related-item-text">Privacy: How COVID-19 Has Sped Up the Debate</span></a></li>
             
             
             
@@ -453,85 +325,11 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/unlocking-the-value-of-digital-transformation-in-the-social-sector.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Imagen%201-18c18f.png);"></div><span class="related-item-text">Unlocking the Value of Digital Transformation in the Social Sector</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/fig8_cfr-0d2f6a.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us</span></a></li>
             
             
             
@@ -551,32 +349,6 @@
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -584,7 +356,7 @@
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/using-social-media-to-build-community-and-advance-your-projects-goals-tips-and-tricks-from-development-innovations.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg);"></div><span class="related-item-text">Using Social Media to Build Community (and Advance Project Goals)—Tips and Tricks from Development Innovations</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/5-ways-entrepreneurship-ecosystems-are-using-technology-to-adapt-to-the-covid-19-crisis.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/oscar-nilsson-1BHYZFVyGaw-unsplash.jpg);"></div><span class="related-item-text">5 Ways Entrepreneurship Ecosystems are Using Technology to Adapt to the COVID-19 Crisis</span></a></li>
             
             
             
@@ -603,70 +375,9 @@
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/6-ways-innovation-and-entrepreneurship-promote-prosperity.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/innovation%20averbug.jpg);"></div><span class="related-item-text">6 Ways Innovation and Entrepreneurship Promote Prosperity</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/examining-hospital-capacity-in-mexico.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/figure_5.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 4: Forecasting Hospital Capacity in Mexico</span></a></li>
             
             
             

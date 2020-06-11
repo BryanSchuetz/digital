@@ -1,4 +1,18 @@
 
+- title: "COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data"
+  pub: "Digital"
+  date: 2020-06-10
+  link: "https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html?utm_source=daidotcom"
+  summary: "This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.
+
+For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States’ daily incidence of deaths slowly declines, Mexico reported its largest daily incidence yet with 1,092 deaths on June 4."
+  tags:
+    - digital acceleration 
+    - Global Health 
+    - Data Visualization 
+    - Data 
+    - COVID-19 
+
 - title: "This Week"
   pub: "Digital"
   date: 2020-06-02
@@ -210,14 +224,4 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
     - Hardware 
     - Digital Health 
     - COVID-19 
-
-- title: "Unlocking the Value of Digital Transformation in the Social Sector"
-  pub: "Digital"
-  date: 2020-03-12
-  link: "https://dai-global-digital.com/unlocking-the-value-of-digital-transformation-in-the-social-sector.html?utm_source=daidotcom"
-  summary: "For many years, the support of international donors to civil society organizations and private and public sectors in the technology field revolved around the provision of equipment, hardware, and software. On many occasions, these types of support have proved ineffective. As researchers wrote in 2013, these investments quickly became obsolete or abandoned. Since then, we in the digital development community have supported international donors and international programming to better integrate technology into our work."
-  tags:
-    - digital acceleration 
-    - Digital Transformation 
-    - Innovation 
 

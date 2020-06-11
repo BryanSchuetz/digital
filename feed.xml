@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Jun 2020 17:29:10 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2020 17:29:10 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2020 09:22:19 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2020 09:22:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/COVID%20blog%20image.png" medium="image" /> 
+        <title>COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data</title>
+        <description>&lt;p&gt;&lt;em&gt;This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States’ daily incidence of deaths slowly declines, Mexico reported its largest daily incidence yet with 1,092 deaths on June 4.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Jun 2020 14:35:00 -0400</pubDate>
+        <author>Jamie Parr
+</author>
+        <link>https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html</guid>
+        
+        <category>Global Health</category>
+        
+        <category>Data Visualization</category>
+        
+        <category>Data</category>
+        
+        <category>COVID-19</category>
+        
+        
+        <category>Global Health</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com" medium="image" /> 
@@ -191,27 +218,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html</guid>
         
         <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/blog%201.webp" medium="image" /> 
-        <title>Everything Old is New Again: Remembering the Lessons of Early ICT4D in the COVID-19 Era</title>
-        <description>&lt;p&gt;Often in the early days of digital development, it felt like there was a small group of big, innovative brains in one room all working on similar visions of how best to leverage the growing presence of the iconic Nokia 3310 across the developing world. Frontline SMS, Ushahidi, Souktel, and other groups were leading the charge from various corners of the earth, and design luminaries such as Jan Chipchase were &lt;a href=&quot;https://www.nytimes.com/2008/04/13/magazine/13anthropology-t.html&quot;&gt;interviewed&lt;/a&gt; in &lt;em&gt;New York Times&lt;/em&gt; think pieces on how cellphones could end global poverty. When I moved to Palestine to work for Souktel at the end of 2010, I was often in the same room as ICT4D “godparents” &lt;a href=&quot;https://en.wikipedia.org/wiki/Ken_Banks&quot;&gt;Ken Banks&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/waugaman/&quot;&gt;Adele Waugaman&lt;/a&gt;, and &lt;a href=&quot;https://en.wikipedia.org/wiki/Erik_Hersman&quot;&gt;Erik Hersman&lt;/a&gt;, pleading our case to skeptical mobile network operators and Silicon Valley types who found our little ventures thrilling in a slightly Orientalist way. With texting as the tech &lt;em&gt;du jour&lt;/em&gt;, everyone codified similar lessons in real time around the successful design of, for example, mobile awareness campaigns. The ICT4D sector grew rapidly across markets, simultaneously building strong use cases for users and development practitioners alike. I do have some hilarious stories of mobile campaign lessons learned from the Somali piracy crisis, but I will save those for another post.&lt;/p&gt;
-
-&lt;p&gt;Now, all these lessons are relevant again as we globally try to tackle the COVID-19 pandemic.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 22 Apr 2020 09:04:00 -0400</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/everything-old-is-new-again-remembering-the-lessons-of-early-ict4d-in-the-covid-era.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
