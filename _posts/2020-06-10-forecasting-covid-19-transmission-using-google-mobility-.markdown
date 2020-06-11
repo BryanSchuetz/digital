@@ -58,7 +58,7 @@ Other states with large cities are at greater risk. The graph below displays the
 
 ![figure_4-3a4143.png](/uploads/figure_4-3a4143.png)
 
-What explains this predicted difference? There are a few reasons. First, the outbreak in Mexico City began earlier than anywhere else in the country. In this sense, the data indicates that the city is one to three weeks ahead of other cities and regions, which means that they will peak sooner. The other factor influencing this deviation is that social distancing has been more strictly adhered to in Mexico City. The Google Mobility Report, which the forecasting model uses to predict future rates, tracks community movement by mobile phone. It categorizes these movements around six key types of areas: residential; grocery and pharmacy; transit stations; parks; retail and recreation; and workplaces.
+What explains this difference? There are a few reasons. First, the outbreak in Mexico City began earlier than anywhere else in the country. In this sense, the data indicates that the city is one to three weeks ahead of other cities and regions, which means that they will peak sooner. The other factor influencing this deviation is that social distancing has been more strictly adhered to in Mexico City. The Google Mobility Report, which the forecasting model uses to predict future rates, tracks community movement by mobile phone. It categorizes these movements around six key types of areas: residential; grocery and pharmacy; transit stations; parks; retail and recreation; and workplaces.
 
 ![figure_5-78cfb0.png](/uploads/figure_5-78cfb0.png)
 
