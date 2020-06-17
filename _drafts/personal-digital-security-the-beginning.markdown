@@ -1,0 +1,49 @@
+---
+title: 'Personal Digital Security: The Beginning'
+date: 2020-06-16 20:30:00 -04:00
+categories:
+- Security
+- Privacy
+tags:
+- security
+- Cyber Security Series
+- data
+- Digital Principles
+- Privacy
+Author: Trevor Olexy
+social-image: "/uploads/lock.png"
+---
+
+Privacy is paramount in this day and age. In the current climate of data collection and stockpiling (harvesting?) by every website, company, government or official body that has access to your browser traffic, usage history, and location, your data is always at risk and always vulnerable. To add to this, nothing is absolutely, unequivocally, 100% secure. Even air-gapped computers that have no connection to the internet: see [CIA infects Iranian centrifuges with Stuxnet](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/).
+
+Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures anyone from web and software developers, tech-savvy power users to computer laypersons can take to protect themselves and their applications against the inevitable breach of their data from VISA card processors or online document storage sites. The more aware we are and the more precautions and preventative measures we take to avoid exposing our “IRL”-selves to the ever-present threats, the better are our chances of staying secured. There is a balance between security, privacy, and user-friendliness. Often one cannot achieve maximum privacy or maximum security while maintaining an easy-to-use system. As with most things in life, there are tradeoffs. Under the ever-watchful eye of an oppressive regime, perhaps you value anonymity over ease-of-use. Perhaps you simply wish to keep your private data just that.
+
+Your use-case, personal preference, risk-tolerance, government, and need for security can help you decide what levels of security best suit you. Google is your friend here as there are myriad articles addressing cyber-security and hygiene (in fact CDA has some already). What you read in the rest of this article touch on some simple, first line defenses to keep your digital-self safe.
+
+### When was the last time you changed your password?
+
+At this point, my advice to you to change your password probably sounds like a broken record played out by your IT department. But honestly, on how many sites does your password work: two, three, ten? These are important questions. If you don’t believe me, check [https://haveibeenpwned.com/](https://haveibeenpwned.com/) by entering your email. My personal email returned several breaches of well known services seen below.![breaches.png](/uploads/breaches.png)
+
+Mozilla also has a handy feature called [Mozilla Monitor](https://monitor.firefox.com/user/dashboard) that does something similar.
+
+![mozilla.png](/uploads/mozilla.png)
+
+Both are useful and I recommend using both. For added measure, you can check your password’s crackability (how easy it is to guess) directly at [https://password.kaspersky.com/](https://password.kaspersky.com/). The tool will also alert you if your password has been compromised in any data leaks or breaches. Easily guessable and leaked or cracked passwords are very likely to exist in databases of passwords and usernames that malicious actors share, trade, and sell across the internet and put you and your identity at increased risk. If you see an alert like the one below, it is best to heed the warnings and update your password(s).
+
+![kaspersky.png](/uploads/kaspersky.png)
+
+If you find your data has been breached and you haven’t updated your password in a while – maybe even if you have -- it is never a bad idea to do so RIGHT NOW. I won’t delve too deep into password managers like [LastPass](https://www.lastpass.com/solutions/business-password-manager) or [1password](https://1password.com/), but they are immensely important. While they might take some time to get used to, they save time, and immediately increase your personal digital security. The more tools you use the more you may find as one tool may not have access to or knowledge of all breaches or known Common Vulnerabilities and Exposures (CVE - [https://nvd.nist.gov/](https://nvd.nist.gov/)). Those sites might be a bit detailed for most, but know that there are people out there keeping track of threats to keep digital-you safe.
+
+### Keep Your Apps/OS Updated
+
+Firstly, only ever install trusted software. How do you trust software? First don’t download installers or programs from sites that you don’t know, or if you don’t explicitly know WHY you are downloading something. For example it is often not advisable to visit or download files or otherwise interact with sites that don’t use HTTPS unless you explicitly know what you are doing on the site and trust the site host. Attackers can even fake the look of a site to appear like legitimate software offerings. This is a topic unto itself and I digress.
+
+Look for the lock icon in addition to the https:// prefix in the URL path as seen below:
+
+![https.png](/uploads/https.png)
+
+Keep your operating system (Windows, MacOS, Linux) and all apps updated and as current as possible. Security vulnerabilities (see CVE above) emerge regularly and these vulnerabilities or holes are often patched very quickly. The more up to date your system is, the fewer attack surfaces exist for potential malicious actors to infiltrate your computer or application.
+
+This is intended to be almost a quick start guide to personal digital security, but this is merely the beginning to your journey of digital security. I truly hope that none of this is new, but to some it will be and to those it will be a valuable step in the right direction. 
+
+ We can (and will) delve much deeper into things like home router security, web application security, and various other methods by which to secure yourself. Some methods are for developers only, some for web-surfers. In future articles I will take deeper dives into more specific cases to shed some light on common security threats and ways in which developers and users can fend off would-be attackers with simple settings and behavior changes.
