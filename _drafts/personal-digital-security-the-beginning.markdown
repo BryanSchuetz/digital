@@ -12,13 +12,14 @@ tags:
 - Privacy
 Author: Trevor Olexy
 social-image: "/uploads/lock.png"
+thumbnail: "/uploads/lock.png"
 ---
 
 Privacy is paramount in this day and age. In the current climate of data collection and data harvesting by every website, company, government or official body that has access to your browser traffic, usage history, and location, your data is always at risk and vulnerable. To add to this, nothing is absolutely, unequivocally, 100% secure. Even air-gapped computers that have no connection to the internet, as demonstrated with the [CIA infected Iranian centrifuges with Stuxnet](https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/).
 
 Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures that anyone from web and software developers,  to tech-savvy power users to computer laypersons can take to protect themselves and their applications against the inevitable breach of their data **from VISA card processors or online document storage sites**. The more aware we are and the more precautions and preventative measures we take to avoid exposing our “IRL”-selves to the ever-present threats, the better are our chances of staying secured. There is a balance between security, privacy, and user-friendliness. Often one cannot achieve maximum privacy or maximum security while maintaining an easy-to-use system. As with most things in life, there are tradeoffs. Under the ever-watchful eye of an oppressive regime, perhaps you value anonymity over ease-of-use. Perhaps you simply wish to keep your private data just that.
 
-Your use-case, personal preference, risk-tolerance, government, and need for security can help you decide what levels of security best suits your needs. Google is your friend here as there are myriad articles addressing cybersecurity and hygiene (in fact CDA has some already). What you read in the rest of this article touch on some simple, first line defenses to keep your digital-self safe.
+Your use-case, personal preference, risk-tolerance, government, and need for security can help you decide what levels of security best suits your needs. Google is your friend here as there are myriad articles addressing cybersecurity and hygiene (in fact [CDA](https://dai-global-digital.com/tags/?tag=cybersecurity) has some already). What you read in the rest of this article touch on some simple, first line defenses to keep your digital-self safe.
 
 ### When was the last time you changed your password?
 
