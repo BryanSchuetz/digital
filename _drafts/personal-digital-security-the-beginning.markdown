@@ -1,15 +1,10 @@
 ---
 title: 'Personal Digital Security: The Beginning'
-date: 2020-06-16 20:30:00 -04:00
-categories:
-- Security
-- Privacy
+date: 2020-06-18 06:00:00 -04:00
 tags:
-- security
-- Cyber Security Series
-- data
 - Digital Principles
 - Privacy
+- Cybersecurity
 Author: Trevor Olexy
 social-image: "/uploads/lock.png"
 thumbnail: "/uploads/lock.png"
