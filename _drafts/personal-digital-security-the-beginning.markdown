@@ -14,6 +14,8 @@ Privacy is paramount in this day and age. In the current climate of data collect
 
 Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures that anyone from web and software developers,  to tech-savvy power users to computer laypersons can take to protect themselves and their applications against the inevitable breach of their data. The more aware we are and the more precautions and preventative measures we take to avoid exposing our “IRL”-selves to the ever-present threats, the better are our chances of staying secured. There is a balance between security, privacy, and user-friendliness. Often one cannot achieve maximum privacy or maximum security while maintaining an easy-to-use system. As with most things in life, there are tradeoffs. Under the ever-watchful eye of an oppressive regime, perhaps you value anonymity over ease-of-use. Perhaps you simply wish to keep your private data just that.
 
+<!--more-->
+
 Your use-case, personal preference, risk-tolerance, government, and need for security can help you decide what levels of security best suits your needs. Google is your friend here as there are myriad articles addressing cybersecurity and hygiene (in fact [CDA](https://dai-global-digital.com/tags/?tag=cybersecurity) has some already). What you read in the rest of this article touch on some simple, first line defenses to keep your digital-self safe.
 
 ### When was the last time you changed your password?
@@ -24,7 +26,7 @@ Mozilla also has a handy feature called [Mozilla Monitor](https://monitor.firefo
 
 ![mozilla.png](/uploads/mozilla.png)
 
-Both are useful and I recommend using both. For added measure, you can use Google's built in password checker. See the example report below. It reports no passwords have been compromised (great!) but that one of the passwords has been reused 113 times! One breach is all it takes to make all 113 accounts instantly vulnerable. Obviously 16 passwords are weak, meaning they can be guessed quickly using password cracking software or commonly used password databases. 
+Both are useful and I recommend using both. For added measure, you can use Google's built in password checker. See the example report below. It reports no passwords have been compromised (great!) but that one of the passwords has been reused 113 times! One breach is all it takes to make all 113 accounts instantly vulnerable. Obviously 16 passwords are weak, meaning they can be guessed quickly using password cracking software or commonly used password databases.
 
 ![google_pwd_mgr-cf6263.png](/uploads/google_pwd_mgr-cf6263.png) Easily guessable and leaked or cracked passwords are very likely to exist in databases of passwords and usernames that malicious actors share, trade, and sell across the internet and put you and your identity at increased risk. If you see an alert like the ones above, it is best to heed the warnings and update your password(s).
 
