@@ -25,7 +25,7 @@ Your use-case, personal preference, risk-tolerance, government, and need for sec
 
 ### When Did You Last Change Your Password?
 
-At this point, my advice to you to change your password probably sounds like a broken record played out by your IT department. But honestly, on how many sites does your password work: two, three, ten? These are important questions. If you don’t believe me, check [https://haveibeenpwned.com/](https://haveibeenpwned.com/) by entering your email. My personal email returned several breaches of well known services seen below.![breaches.png](/uploads/breaches.png)
+At this point, my advice to you to change your password probably sounds like a broken record played out by your IT department. But honestly, on how many sites does your password work: two, three, 10? These are important questions. If you don’t believe me, check [https://haveibeenpwned.com/](https://haveibeenpwned.com/) by entering your email. My personal email returned several breaches of well-known services seen below![breaches.png](/uploads/breaches.png)
 
 Mozilla also has a handy feature called [Mozilla Monitor](https://monitor.firefox.com/user/dashboard) that does something similar.
 
