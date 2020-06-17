@@ -49,7 +49,7 @@ Look for the lock icon in addition to the https:// prefix in the URL path as see
 
 ![https.png](/uploads/https.png)
 
-Keep your operating system (Windows, MacOS, Linux) and all apps updated and as current as possible. Security vulnerabilities (see CVE above) emerge regularly and these vulnerabilities or holes are often patched very quickly. The more up to date your system is, the fewer attack surfaces exist for potential malicious actors to infiltrate your computer or application.
+Keep your operating system (Windows, MacOS, Linux) and all apps updated and as current as possible. Security vulnerabilities (see CVE above) emerge regularly and these vulnerabilities or holes are often patched very quickly. The more up-to-date your system is, the fewer attack surfaces exist for potential malicious actors to infiltrate your computer or application.
 
 This is intended to be almost a quick start guide to personal digital security, but this is merely the beginning to your journey of digital security. I truly hope that none of this is new, but to some it will be and to those it will be a valuable step in the right direction.
 
