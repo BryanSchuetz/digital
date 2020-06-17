@@ -31,7 +31,7 @@ Mozilla also has a handy feature called [Mozilla Monitor](https://monitor.firefo
 
 ![mozilla.png](/uploads/mozilla.png)
 
-Both are useful and I recommend using both. For added measure, you can use Google's built in password checker. See the example report below. It reports no passwords have been compromised (great!) but that one of the passwords has been reused 113 times! One breach is all it takes to make all 113 accounts instantly vulnerable. Obviously 16 passwords are weak, meaning they can be guessed quickly using password cracking software or commonly used password databases. 
+Both are useful and I recommend using them. For added measure, you can use Google's built-in password checker. See the example report below. It reports no passwords have been compromised (great!) but that one of the passwords has been reused 113 times! One breach is all it takes to make all 113 accounts instantly vulnerable. Obviously 16 passwords are weak, meaning they can be guessed quickly using password cracking software or commonly used password databases. 
 
 ![google_pwd_mgr-cf6263.png](/uploads/google_pwd_mgr-cf6263.png) Easily guessable and leaked or cracked passwords are very likely to exist in databases of passwords and usernames that malicious actors share, trade, and sell across the internet and put you and your identity at increased risk. If you see an alert like the ones above, it is best to heed the warnings and update your password(s).
 
