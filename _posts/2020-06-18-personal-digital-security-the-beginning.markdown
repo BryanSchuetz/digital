@@ -1,5 +1,5 @@
 ---
-title: Personal Digital Security
+title: The Importance of Personal Digital Security
 date: 2020-06-18 06:00:00 -04:00
 tags:
 - Privacy
