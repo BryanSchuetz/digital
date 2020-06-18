@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jun 2020 11:46:41 -0400</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2020 11:46:41 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2020 11:29:55 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2020 11:29:55 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/lock.png" medium="image" /> 
+        <title>Personal Digital Security</title>
+        <description>&lt;p&gt;In the current climate of data collection and data harvesting by every website, company, government or official body that has access to your browser traffic, usage history, and location, your data is always at risk and vulnerable. To add to this, nothing is absolutely, unequivocally, 100 percent secure. Even air-gapped computers that have no connection to the internet, as demonstrated with the CIA-infected Iranian centrifuges with &lt;a href=&quot;https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/&quot;&gt;Stuxnet&lt;/a&gt; are vulnerable.&lt;/p&gt;
+
+&lt;p&gt;Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures that anyone from web and software developers to computer laypersons can take to protect themselves from the inevitable breach of their data. The more aware we are and the more precautions we take to avoid exposing our “IRL”-selves to the ever-present threats, the better our chances are of staying secure.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Jun 2020 06:00:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/personal-digital-security-the-beginning.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/personal-digital-security-the-beginning.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/COVID%20blog%20image.png" medium="image" /> 
@@ -201,23 +222,6 @@
         <category>COVID-19</category>
         
         <category>Digital Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/franki-chamaki-1K6IQsQbizI-unsplash.jpg" medium="image" /> 
-        <title>Information Liberation: What is Open Data, and Why Does it Matter?</title>
-        <description>&lt;p&gt;Less than two weeks ago, on April 21, 2020, &lt;a href=&quot;https://blogs.microsoft.com/on-the-issues/2020/04/21/open-data-campaign-divide/&quot;&gt;Microsoft&lt;/a&gt; announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses &lt;a href=&quot;http://opendatatoolkit.worldbank.org/en/essentials.html&quot;&gt;the Open Knowledge Foundation’s definition&lt;/a&gt; for open data. According to it, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both &lt;em&gt;legally&lt;/em&gt; open, publicly accessible or with minimal restrictions, and &lt;em&gt;technically&lt;/em&gt; open, published in electronic formats that are computer readable and nonproprietary. This type of data is not to be confused with “big data.” As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won’t be spending more time on this particular topic, but if you’re interested in learning more, I highly recommend reading a &lt;a href=&quot;https://dai-global-digital.com/should-big-data-be-open-data.html&quot;&gt;guest post&lt;/a&gt; we published on the subject in 2016.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 30 Apr 2020 06:00:00 -0400</pubDate>
-        <author>Erica Behrens
-</author>
-        <link>https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html</guid>
-        
-        <category>Data</category>
         
         
       </item>
