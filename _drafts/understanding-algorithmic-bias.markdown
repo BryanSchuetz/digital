@@ -17,7 +17,7 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 **Articles**
 
-* “Dissecting racial bias in an algorithm used to manage the health of populations,” \*Science Magazine, \*Ziad Obermeyer, Brian Powers, Christine Vogeli Sendhil Mullainathan,. It can be read, [here](https://science.sciencemag.org/content/366/6464/447).
+* “Dissecting racial bias in an algorithm used to manage the health of populations,” *Science Magazine,* Ziad Obermeyer, Brian Powers, Christine Vogeli Sendhil Mullainathan,. It can be read, [here](https://science.sciencemag.org/content/366/6464/447).
 
 * “Facial recognition fails on race, government study says,” *BBC.* It can be read, [here](https://www.bbc.com/news/technology-50865437).
 
