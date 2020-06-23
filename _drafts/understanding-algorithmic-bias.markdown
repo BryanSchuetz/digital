@@ -29,15 +29,15 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 * “[I know some algorithms are biased—because I created one](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/),” *Scientific American*, By Nicholas T. Young. 
 * “[Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes](https://arxiv.org/pdf/1904.02095.pdf),” Cornell University, By Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. 
 * “[Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684),” PNAS, By Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel.
-* “Why racial bias is still inherent in biometric tech”, *Raconteur*, Peter Yeung. It can be read, [here](https://www.raconteur.net/technology/biometrics-ethics-bias).
+* “[Why racial bias is still inherent in biometric tech](https://www.raconteur.net/technology/biometrics-ethics-bias)”, *Raconteur*, By Peter Yeung. 
 
 **Books**
 
 * Charlton Mcllwain, *Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter*
 * Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*
-* Cathy O’Neil, *Weapons of Math Destruction: How big data increases inequality and threatens democracy*
-* Hannah Fry, *Hello World*: *How to be human in the age of the machine*
-* Caroline Criado Perez, I*nvisible Women: Exposing data bias in a world designed for men*
+* Cathy O’Neil, *Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*
+* Hannah Fry, *Hello World*: *How to be Human in the Age of the Machine*
+* Caroline Criado Perez, *Invisible Women: Exposing Data Bias in a World Designed for Men*
 
 **Other Resources**
 
