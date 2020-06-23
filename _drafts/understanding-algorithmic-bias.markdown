@@ -26,9 +26,9 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 * “[Biased policing is made worse by errors in pre-crime algorithms](https://www.newscientist.com/article/mg23631464-300-biased-policing-is-made-worse-by-errors-in-pre-crime-algorithms/#ixzz6PchoHZu1),” *New Scientist,* By Matt Reynolds. 
 * “[Reclaiming the stories that algorithms tell](https://www.oreilly.com/radar/reclaiming-the-stories-that-algorithms-tell/),” O’Reilly.com, By David G. Grossman. 
 * “[Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/),” Brookings Institute, By Nicol Turner Lee, Paul Resnick, and Genie Barton. 
-* “I know some algorithms are biased--because I created one,” *Scientific American*, Nicholas T. Young. It can be read, [here](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/).
-* “Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes,” Cornell University, Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. It can be read, [here](https://arxiv.org/pdf/1904.02095.pdf).
-* “Racial disparities in automated speech recognition,” PNAS, Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel. It can be read, [here](https://www.pnas.org/content/117/14/7684).
+* “[I know some algorithms are biased—because I created one](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/),” *Scientific American*, By Nicholas T. Young. 
+* “[Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes](https://arxiv.org/pdf/1904.02095.pdf),” Cornell University, By Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. 
+* “[Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684),” PNAS, By Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel.
 * “Why racial bias is still inherent in biometric tech”, *Raconteur*, Peter Yeung. It can be read, [here](https://www.raconteur.net/technology/biometrics-ethics-bias).
 
 **Books**
