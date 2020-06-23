@@ -1,5 +1,5 @@
 ---
-title: How Technology Reflects Human Bias—And How We Can Fix It
+title: How Technology Can Reflect Human Bias—And Efforts to Address It
 date: 2020-06-25 08:43:00 -04:00
 tags:
 - Think Piece
