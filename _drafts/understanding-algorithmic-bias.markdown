@@ -1,5 +1,5 @@
 ---
-title: Understanding Algorithmic Bias
+title: How Technology Reflects Human Bias—And How We Can Fix It
 date: 2020-06-25 08:43:00 -04:00
 tags:
 - Think Piece
@@ -9,9 +9,9 @@ social-image: "/uploads/AI%202%20(2).svg"
 thumbnail: "/uploads/AI%202%20(2).svg"
 ---
 
-With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job or what books or movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to and eradicate systemic racism in the United States, and in other parts of the world, over the last few weeks have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased too.
+With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
 
-Over the next several months DAI's Center for Digital Acceleration will be exploring this topic more deeply by trying to answer the following questions in a series of posts. Questions to be explored will include, but not be limited to: (a) How pervasive is algorithmic bias, and which platforms are the worst offenders?; (b) How does algorithmic bias work, and how we can tackle it at a fundamental technological level?; (c) What other responses—policy, digital literacy, etc.—exist to tackle this phenomenon?; (d) What are the effects of algorithmic bias on the broader digital development sector?
+Over the next several months DAI's Center for Digital Acceleration will explore this topic more deeply by trying to answer the following questions in a series of posts. Questions to be explored will include, but not be limited to: (a) How pervasive is algorithmic bias, and which platforms are the worst offenders?; (b) How does algorithmic bias work, and how we can tackle it at a fundamental technological level?; (c) What other responses—policy, digital literacy, etc.—exist to tackle this phenomenon?; (d) What are the effects of algorithmic bias on the broader digital development sector?
 
 <!--more-->
 
