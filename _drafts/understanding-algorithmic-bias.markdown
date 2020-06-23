@@ -4,6 +4,7 @@ date: 2020-06-25 08:43:00 -04:00
 tags:
 - Think Piece
 - Digital Inclusion
+Author: Center for Digital Acceleration Staff
 ---
 
 With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job or what books or movies are recommended to us -- and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to and eradicate systemic racism in the US, and in other parts of the world, over the last few weeks have made clear something we already knew - humans are biased. Because we are biased, the technology we create is biased too.
