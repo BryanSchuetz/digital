@@ -11,7 +11,7 @@ thumbnail: "/uploads/AI%202%20(2).svg"
 
 With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
 
-Over the next several months DAI's Center for Digital Acceleration will explore this topic more deeply by trying to answer the following questions in a series of posts. Questions to be explored will include, but not be limited to: (a) How pervasive is algorithmic bias, and which platforms are the worst offenders?; (b) How does algorithmic bias work, and how we can tackle it at a fundamental technological level?; (c) What other responses—policy, digital literacy, etc.—exist to tackle this phenomenon?; (d) What are the effects of algorithmic bias on the broader digital development sector?
+Over the next several months DAI's Center for Digital Acceleration will explore this topic by trying to answer the following questions (and more) in a new series: How pervasive is algorithmic bias, and which platforms are the worst offenders? (b) How does algorithmic bias work, and how we can tackle it at a technological level? (c) What other responses—policy, digital literacy, and so on—exist to tackle this phenomenon? (d) What are the effects of algorithmic bias on the broader digital development sector?
 
 <!--more-->
 
@@ -21,11 +21,11 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 **Articles**
 
-* “Dissecting racial bias in an algorithm used to manage the health of populations,” *Science Magazine,* Ziad Obermeyer, Brian Powers, Christine Vogeli Sendhil Mullainathan,. It can be read, [here](https://science.sciencemag.org/content/366/6464/447).
-* “Facial recognition fails on race, government study says,” *BBC.* It can be read, [here](https://www.bbc.com/news/technology-50865437).
-* “Biased policing is made worse by errors in pre-crime algorithms,” *New Scientist,* Matt Reynolds. It can be read, [here](https://www.newscientist.com/article/mg23631464-300-biased-policing-is-made-worse-by-errors-in-pre-crime-algorithms/#ixzz6PchoHZu1).
-* “Reclaiming the stories that algorithms tell,” O’Reilly, David G. Grossman. It can be read, [here](https://www.oreilly.com/radar/reclaiming-the-stories-that-algorithms-tell/).
-* “Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms”, Brookings Institute, Nicol Turner Lee, Paul Resnick and Genie Barton. It can be read, [here](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/).
+* “[Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447),” *Science Magazine,* By Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 
+* “[Facial recognition fails on race, government study says](https://www.bbc.com/news/technology-50865437),” *BBC.* 
+* “[Biased policing is made worse by errors in pre-crime algorithms](https://www.newscientist.com/article/mg23631464-300-biased-policing-is-made-worse-by-errors-in-pre-crime-algorithms/#ixzz6PchoHZu1),” *New Scientist,* By Matt Reynolds. 
+* “[Reclaiming the stories that algorithms tell](https://www.oreilly.com/radar/reclaiming-the-stories-that-algorithms-tell/),” O’Reilly.com, By David G. Grossman. 
+* “[Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/),” Brookings Institute, By Nicol Turner Lee, Paul Resnick, and Genie Barton. 
 * “I know some algorithms are biased--because I created one,” *Scientific American*, Nicholas T. Young. It can be read, [here](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/).
 * “Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes,” Cornell University, Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. It can be read, [here](https://arxiv.org/pdf/1904.02095.pdf).
 * “Racial disparities in automated speech recognition,” PNAS, Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel. It can be read, [here](https://www.pnas.org/content/117/14/7684).
