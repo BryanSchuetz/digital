@@ -11,6 +11,8 @@ With each technological advancement, more decisions in our daily lives are made 
 
 Over the next several months CDA will be exploring this topic more deeply by trying to answer the following questions in a series of posts. Questions to be explored will include, but not be limited to: (a) How pervasive is algorithmic bias, and which platforms are the worst offenders?; (b) How does algorithmic bias work, and how we can tackle it at a fundamental technological level?; (c) What other responses -- policy, digital literacy, etc. -- exist to tackle this phenomenon?; (d) What are the effects of algorithmic bias on the broader digital development sector?
 
+<!--more-->
+
 In the meantime, and as we learn more as a team, here is a list of resources we’ve found useful.
 
 ## Resources
@@ -27,13 +29,13 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 * “Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms”, Brookings Institute, Nicol Turner Lee, Paul Resnick and Genie Barton. It can be read, [here](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/).
 
-* “I know some algorithms are biased--because I created one,” \*Scientific American, \*Nicholas T. Young. It can be read, [here](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/).
+* “I know some algorithms are biased--because I created one,” *Scientific American*, Nicholas T. Young. It can be read, [here](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/).
 
 * “Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes,” Cornell University, Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. It can be read, [here](https://arxiv.org/pdf/1904.02095.pdf).
 
 * “Racial disparities in automated speech recognition,” PNAS, Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel. It can be read, [here](https://www.pnas.org/content/117/14/7684).
 
-* “Why racial bias is still inherent in biometric tech”, \*Raconteur, \*Peter Yeung. It can be read, [here](https://www.raconteur.net/technology/biometrics-ethics-bias).
+* “Why racial bias is still inherent in biometric tech”, *Raconteur*, Peter Yeung. It can be read, [here](https://www.raconteur.net/technology/biometrics-ethics-bias).
 
 **Books**
 
@@ -45,7 +47,7 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 * Hannah Fry, *Hello World*: *How to be human in the age of the machine*
 
-* Caroline Criado Perez\*, Invisible Women: Exposing data bias in a world designed for men\*
+* Caroline Criado Perez, I*nvisible Women: Exposing data bias in a world designed for men*
 
 **Other Resources**
 
@@ -57,7 +59,7 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 * Data & Society’s [AI On The Ground Initiative](https://datasociety.net/research/ai-on-the-ground/)
 
-* \*ProPublica’s \*[Machine Bias](https://www.propublica.org/series/machine-bias)
+* *ProPublica’s*  [Machine Bias](https://www.propublica.org/series/machine-bias) research
 
 * University of Pennsylvania [Toolkit for Centering Racial Equity Throughout Data Integration](https://www.aisp.upenn.edu/equity-toolkit/)
 
