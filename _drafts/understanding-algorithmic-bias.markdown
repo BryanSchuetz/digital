@@ -21,15 +21,15 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 
 **Articles**
 
-* “[Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447),” *Science Magazine,* By Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 
+* “[Dissecting racial bias in an algorithm used to manage the health of populations](https://science.sciencemag.org/content/366/6464/447),” *Science Magazine.* By Ziad Obermeyer, Brian Powers, Christine Vogeli, and Sendhil Mullainathan. 
 * “[Facial recognition fails on race, government study says](https://www.bbc.com/news/technology-50865437),” *BBC.* 
-* “[Biased policing is made worse by errors in pre-crime algorithms](https://www.newscientist.com/article/mg23631464-300-biased-policing-is-made-worse-by-errors-in-pre-crime-algorithms/#ixzz6PchoHZu1),” *New Scientist,* By Matt Reynolds. 
-* “[Reclaiming the stories that algorithms tell](https://www.oreilly.com/radar/reclaiming-the-stories-that-algorithms-tell/),” O’Reilly.com, By David G. Grossman. 
-* “[Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/),” Brookings Institute, By Nicol Turner Lee, Paul Resnick, and Genie Barton. 
-* “[I know some algorithms are biased—because I created one](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/),” *Scientific American*, By Nicholas T. Young. 
-* “[Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes](https://arxiv.org/pdf/1904.02095.pdf),” Cornell University, By Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. 
-* “[Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684),” PNAS, By Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel.
-* “[Why racial bias is still inherent in biometric tech](https://www.raconteur.net/technology/biometrics-ethics-bias)”, *Raconteur*, By Peter Yeung. 
+* “[Biased policing is made worse by errors in pre-crime algorithms](https://www.newscientist.com/article/mg23631464-300-biased-policing-is-made-worse-by-errors-in-pre-crime-algorithms/#ixzz6PchoHZu1),” *New Scientist.* By Matt Reynolds. 
+* “[Reclaiming the stories that algorithms tell](https://www.oreilly.com/radar/reclaiming-the-stories-that-algorithms-tell/),” O’Reilly.com. By David G. Grossman. 
+* “[Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/),” Brookings Institute. By Nicol Turner Lee, Paul Resnick, and Genie Barton. 
+* “[I know some algorithms are biased—because I created one](https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/),” *Scientific American.* By Nicholas T. Young. 
+* “[Discrimination through optimization: How Facebook's ad delivery can lead to skewed outcomes](https://arxiv.org/pdf/1904.02095.pdf),” Cornell University,. By Muhammad Ali, Piotr Sapiezynski, Miranda Bogen, Aleksandra Korolova, Alan Mislove, and Aaron Rieke. 
+* “[Racial disparities in automated speech recognition](https://www.pnas.org/content/117/14/7684),” PNAS. By Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John R. Rickford, Dan Jurafsky, and Sharad Goel.
+* “[Why racial bias is still inherent in biometric tech](https://www.raconteur.net/technology/biometrics-ethics-bias)”, *Raconteur.* By Peter Yeung. 
 
 **Books**
 
