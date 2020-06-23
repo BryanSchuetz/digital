@@ -42,11 +42,11 @@ In the meantime, and as we learn more as a team, here is a list of resources we�
 **Other Resources**
 
 * The film “[Coded Bias](https://www.hrwfilmfestivalstream.org/film/coded-bias/)” follows the work of women who seek to expose racial and gender bias in technology.
-* Reflections from [The Engine Room](https://www.theengineroom.org/tech-bias-people-bias/):
+* Reflections from [The Engine Room](https://www.theengineroom.org/tech-bias-people-bias/)
 * *Future Tense* frequently publishes articles about algorithmic bias—see [here](https://slate.com/technology/2020/02/algorithmic-bias-people-with-disabilities.html) and [here](https://slate.com/technology/2020/03/ice-lawsuit-hijacked-algorithm.html).
 * Data & Society’s [AI On The Ground Initiative](https://datasociety.net/research/ai-on-the-ground/)
 * *ProPublica’s* [Machine Bias](https://www.propublica.org/series/machine-bias) research
-* University of Pennsylvania [Toolkit for Centering Racial Equity Throughout Data Integration](https://www.aisp.upenn.edu/equity-toolkit/)
+* University of Pennsylvania's [Toolkit for Centering Racial Equity Throughout Data Integration](https://www.aisp.upenn.edu/equity-toolkit/)
 * [Research](https://www.ajlunited.org/library/research) from the Algorithmic Justice League
 * [Insights](https://cdt.org/insights/?keyword=Algorithmic\+bias&area-of-focus%5B%5D=ai-machine-learning#results) from the Center for Democracy and Technology
 * Report by [AI Now Institute](https://ainowinstitute.org/reports.html) housed at NYU
