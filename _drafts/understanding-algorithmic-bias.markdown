@@ -1,5 +1,5 @@
 ---
-title: How Technology Can Reflect Human Bias—And Efforts to Address It
+title: How Technology Can Reflect Human Bias—And Resources to Understand It
 date: 2020-06-25 08:43:00 -04:00
 tags:
 - Digital Inclusion
