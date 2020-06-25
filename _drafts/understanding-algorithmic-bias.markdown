@@ -2,11 +2,10 @@
 title: How Technology Can Reflect Human Bias—And Efforts to Address It
 date: 2020-06-25 08:43:00 -04:00
 tags:
-- Think Piece
 - Digital Inclusion
 Author: Center for Digital Acceleration Staff
 social-image: "/uploads/AI%202%20copy%20(002).jpg"
-thumbnail: "/uploads/AI%202%20(2).svg"
+thumbnail: "/uploads/AI%202%20copy%20(002).jpg"
 ---
 
 With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
