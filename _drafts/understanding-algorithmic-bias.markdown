@@ -5,7 +5,7 @@ tags:
 - Think Piece
 - Digital Inclusion
 Author: Center for Digital Acceleration Staff
-social-image: "/uploads/AI%202%20(2).svg"
+social-image: "/uploads/AI%202%20copy%20(002).jpg"
 thumbnail: "/uploads/AI%202%20(2).svg"
 ---
 
