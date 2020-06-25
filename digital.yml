@@ -1,4 +1,15 @@
 
+- title: "How Technology Can Reflect Human Bias—And Resources to Understand It"
+  pub: "Digital"
+  date: 2020-06-25
+  link: "https://dai-global-digital.com/understanding-algorithmic-bias.html?utm_source=daidotcom"
+  summary: "With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
+
+Over the next several months DAI’s Center for Digital Acceleration will explore this topic by trying to answer the following questions (and more) in a new series: How pervasive is algorithmic bias, and which platforms are the worst offenders? (b) How does algorithmic bias work, and how we can tackle it at a technological level? (c) What other responses—policy, digital literacy, and so on—exist to tackle this phenomenon? (d) What are the effects of algorithmic bias on the broader digital development sector?"
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+
 - title: "The Importance of Personal Digital Security"
   pub: "Digital"
   date: 2020-06-18
@@ -214,15 +225,4 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
     - Digital Ecosystems 
     - COVID-19 
     - Digital Divide 
-
-- title: "COVID-19 Data Analysis, Part 1: Demography, Behavior, and Environment"
-  pub: "Digital"
-  date: 2020-03-23
-  link: "https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html?utm_source=daidotcom"
-  summary: "This article was written by DAI’s Gratiana Fu, with contributions from Greg Maly, and Jamie Parr. This analysis is Part 1 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data."
-  tags:
-    - digital acceleration 
-    - Data Visualization 
-    - Digital Health 
-    - COVID-19 
 
