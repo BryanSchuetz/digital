@@ -1,7 +1,6 @@
 ---
 title: Disinformation and Dating Apps—A Match Made in Heaven (But Swipe Left Though)
-date: 2020-05-28 18:08:00 -04:00
-published: false
+date: 2020-07-02 06:08:00 -04:00
 tags:
 - Cybersecurity
 - Trust
@@ -10,7 +9,7 @@ social-image: "/uploads/Inta%20blog%20creative%20commons.jpg"
 thumbnail: "/uploads/Inta%20blog%20creative%20commons.jpg"
 ---
 
-Somehow, we have made it to the halfway point of 2020. This year has been WILD, to say the least – [over 500,000 people](https://coronavirus.jhu.edu/map.html) around the world have died due to COVID-19. The murders of George Floyd, Ahmaud Arbery, Breonna Taylor, Riah Milton, Dominique Fells, Oluwatoyin "Toyin" Salau, and quite literally countless other members of the Black community have led to a crisis of conscience and a (sorely needed, long overdue, how-is-this-only-happening-now) reckoning in the United States. In all honesty, I wrote this blog post, about disinformation and dating apps, over a month ago. We held it because the light tone wasn’t right for the historical moment we found – and continue to find – ourselves in. I still think it might be too early. However, as my wise friend and colleague [Gratiana](https://dai-global-digital.com/authors/gratiana-fu/) pointed out, the topic of disinformation is especially relevant, right now, **precisely because** disinfo about is spreading so quickly on COVID-19, Black Lives Matter, and many other topics. So, with no further ado --- enjoy this silly little romp through the world of disinfo on dating apps. May you learn something to apply in your everyday life and laugh a little bit in the process.
+Somehow, we have made it to the halfway point of 2020. This year has been WILD, to say the least – [over 500,000 people](https://coronavirus.jhu.edu/map.html) around the world have died due to COVID-19. The murders of George Floyd, Ahmaud Arbery, Breonna Taylor, Riah Milton, Dominique Fells, Oluwatoyin "Toyin" Salau, and quite literally countless other members of the Black community have led to a crisis of conscience and a (sorely needed, long overdue, how-is-this-only-happening-now) reckoning in the United States. In all honesty, I wrote this blog post, about disinformation and dating apps, over a month ago. We held it because the light tone wasn’t right for the historical moment we found – and continue to find – ourselves in. I still think it might be too early. However, as my wise friend and colleague [Gratiana](https://dai-global-digital.com/authors/gratiana-fu/) pointed out, the topic of disinformation is especially relevant, right now, **precisely because** disinformation about  COVID-19, Black Lives Matter, and many other topics is spreading so quickly. So, with no further ado --- enjoy this silly little romp through the world of disinformation on dating apps.
 
 <!--more-->
 
@@ -26,7 +25,7 @@ Here are some recent examples:
 
 * For just £500, pro-Labour Party activists developed [a Tinder chatbot](https://www.wired.co.uk/article/tinder-political-bots-jeremy-corbyn-labour) before the United Kingdom’s general elections in 2017 that pushed out pro-Labour messages to all its matches. First, they took over the profiles of actual Tinder users (who somehow agreed to this?) and then paid for a Tinder Premium account, which allowed them to switch their location to hotly contested constituencies. These bots sent out 30,000 to 40,000 messages to any undecided or presumptive Tory 18- to 25-year-old voters in the target areas, consisting of criticisms of Tory policies and/or lists of Labour policies. Users had no idea that they were interacting with bots instead of real people.
 
-* In a less baldly political example, Chinese-owned dating apps appear to be [exploiting men in India](https://qz.com/india/1811151/chinese-dating-apps-are-exploiting-loneliness-of-indias-men/) to turn a profit. On apps like L’amour, LivU, and Tumile, it appears as though bots impersonating women initially reel in male users. If these men want to have a phone call with one of their female matches, they need to buy in-app currency (paying by the second for each call, of course). At this point, bots will no longer do, and the apps appear to hire real women to take calls from male users. Women earn points for each interaction, which they can convert to cash.
+* In a less baldly political example, Chinese-owned dating apps appear to be [exploiting men in India](https://qz.com/india/1811151/chinese-dating-apps-are-exploiting-loneliness-of-indias-men/) to turn a profit. On apps like L’amour, LivU, and Tumile, it appears as though bots impersonating women initially reel in male users. If these men want to have a phone call with one of their female matches, they need to buy in-app currency (paying by the second for each call, of course). At this point, bots will no longer do, and the apps appear to hire real women to take calls from male users. Women earn points for each interaction, which they can convert to cash. (Interestingly, none of these apps seem to have been [banned](https://www.indiatvnews.com/technology/news-tiktok-helo-uc-browser-shareit-among-59-chinese-apps-banned-by-govt-630280) by the Indian government as a response to increased tensions with China).
 
 **What is to be done?** Honestly, the normal best practices for online dating also apply really well to disinformation:
 
