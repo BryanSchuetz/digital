@@ -8,5 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Update Algolia & Proof
-        env: 
         uses: BryanSchuetz/jekyll-search-and-proof@master
