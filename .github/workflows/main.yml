@@ -1,0 +1,12 @@
+name: Search and Proof
+
+on: [push]
+
+jobs: 
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Update Algolia & Proof
+        env: 
+        uses: BryanSchuetz/jekyll-search-and-proof@master
