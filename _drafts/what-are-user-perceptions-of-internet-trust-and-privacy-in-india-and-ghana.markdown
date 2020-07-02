@@ -21,6 +21,8 @@ Ultimately, our goal is to understand how we can ensure the internet is *trusted
 
 A talk I recently gave at the [Global Digital Development Forum](https://www.ictworks.org/global-digital-development-forum-success/) can be found below; high-level findings from our research can be found below. We will be publishing our full report on this topic this fall ([subscribe here](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to follow updates).
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/zwhVRIv0jWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 High-level findings from Ghana
 
 1. **The internet is generally trusted:** Most focus group participants felt they had absolute control over social media and email accounts due to the use of passwords. This perception is widespread thus the internet is used without hesitation.
