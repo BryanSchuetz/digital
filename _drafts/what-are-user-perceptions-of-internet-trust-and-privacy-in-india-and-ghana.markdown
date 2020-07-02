@@ -17,7 +17,7 @@ These supply-side focused solutions are indeed powerful, scalable tools in the f
 
 ## What Are User Perceptions of Internet Safety?
 
-![CDA_CyberFramework.PNG](/uploads/CDA_CyberFramework.PNG)`Framework developed by DAI's Center for Digital Acceleration.`
+![CDA_CyberFramework.PNG](/uploads/CDA_CyberFramework.PNG)
 
 In an effort to kickstart a conversation around demand-side needs, our Center for Digital Acceleration (CDA) recently conducted research in [Ghana](https://www.ictworks.org/tag/ghana/) and [India](https://www.ictworks.org/tag/india/) on internet users’ perceptions of trust and privacy on the web. We sought to understand how users themselves parsed their own trust in internet platforms, what tools and tactics they used to keep their information private and themselves safe online, and what knowledge they had about certain aspects of internet use, such as platforms sharing user data.
 
