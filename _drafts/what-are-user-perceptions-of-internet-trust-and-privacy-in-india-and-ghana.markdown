@@ -7,9 +7,9 @@ tags:
 - Cybersecurity
 ---
 
-It’s been a hard couple of years for the internet. Between [election interference](https://intelligence.house.gov/social-media-content/) via social media platforms, disinformation going viral and [facilitating genocides](https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf), and most recently, the rampant spread of a conspiracy theories that 5G internet broadband [caused the COVID-19 pandemic](https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube), optimism in the internet’s force for good seems shaky at best.
+It’s been a hard couple of years for the internet. Between [election interference](https://intelligence.house.gov/social-media-content/) via social media platforms, disinformation going viral and [facilitating genocides](https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf), and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the [COVID-19 pandemic](https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube), optimism in the internet’s force for good seems shaky at best.
 
-I was scrolling [Twitter](https://www.ictworks.org/tag/twitter/) recently and saw a Tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.
+I was scrolling [Twitter](https://www.ictworks.org/tag/twitter/) recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.
 
 Internet platforms such as [Google](https://www.ictworks.org/tag/google/) and [Facebook](https://www.ictworks.org/tag/facebook/) have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine learning capabilities to uproot disinformation and box out cyber-criminals before real harm occurs.
 
