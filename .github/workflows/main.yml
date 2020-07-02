@@ -8,4 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Update Algolia & Proof
+        env:  
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         uses: BryanSchuetz/jekyll-search-and-proof@master
