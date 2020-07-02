@@ -1,6 +1,10 @@
 ---
 title: What Are User Perceptions of Internet Trust and Privacy in India and Ghana?
 date: 2020-07-02 09:20:00 -04:00
+tags:
+- Trust
+- Privacy
+- Cybersecurity
 ---
 
 It’s been a hard couple of years for the internet. Between [election interference](https://intelligence.house.gov/social-media-content/) via social media platforms, disinformation going viral and [facilitating genocides](https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf), and most recently, the rampant spread of a conspiracy theories that 5G internet broadband [caused the COVID-19 pandemic](https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube), optimism in the internet’s force for good seems shaky at best.
