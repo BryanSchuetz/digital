@@ -5,6 +5,9 @@ tags:
 - Trust
 - Privacy
 - Cybersecurity
+Author: Kristen Roggemann
+social-image: "/uploads/internet-usage-india.png"
+thumbnail: "/uploads/internet-usage-india.png"
 ---
 
 It’s been a hard couple of years for the internet. Between [election interference](https://intelligence.house.gov/social-media-content/) via social media platforms, disinformation going viral and [facilitating genocides](https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf), and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the [COVID-19 pandemic](https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube), optimism in the internet’s force for good seems shaky at best.
@@ -44,3 +47,5 @@ A talk I recently gave at the [Global Digital Development Forum](https://www.ict
 2. **Trust by feature:** Interestingly, Indian focus group participants based their trust of a platform both off of word-of-mouth popularity as well as by specific privacy features, such as end-to-end encryption.
 
 3. **Passwords and settings:** Because phone sharing was also an aspect of the population we sampled with our focus group, there was an advanced understanding of how to navigate a phone’s more complex password and privacy settings, from erasing browser history to using app-specific passwords and changing out SIM cards and contact data.
+
+*This post originally appeared on [ICTWorks](https://www.ictworks.org/user-perceptions-internet-trust-privacy-india-ghana/#.Xv3fpShKhPZ) on July 1, 2020. *
