@@ -2,8 +2,8 @@
 title: Disinformation and Dating Apps—A Match Made in Heaven (But Swipe Left Though)
 date: 2020-07-02 06:08:00 -04:00
 tags:
-- Cybersecurity
 - Trust
+- Disinformation
 Author: Inta Plostins
 social-image: "/uploads/Inta%20blog%20creative%20commons.jpg"
 thumbnail: "/uploads/Inta%20blog%20creative%20commons.jpg"
