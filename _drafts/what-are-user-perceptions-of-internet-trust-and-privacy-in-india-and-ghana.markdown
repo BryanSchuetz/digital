@@ -11,15 +11,15 @@ It’s been a hard couple of years for the internet. Between [election interfere
 
 I was scrolling [Twitter](https://www.ictworks.org/tag/twitter/) recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.
 
-Internet platforms such as [Google](https://www.ictworks.org/tag/google/) and [Facebook](https://www.ictworks.org/tag/facebook/) have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine learning capabilities to uproot disinformation and box out cyber-criminals before real harm occurs.
+Internet platforms such as [Google](https://www.ictworks.org/tag/google/) and [Facebook](https://www.ictworks.org/tag/facebook/) have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine-learning capabilities to uproot disinformation and box out cyber criminals before real harm occurs.
 
 These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been [less effort](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) to develop demand-side solutions at scale, such as meaningful, global [digital literacy](https://www.ictworks.org/tag/digital-literacy/) and regulatory protections for users.
 
 ## What Are User Perceptions of Internet Safety?
 
-![CDA_CyberFramework.PNG](/uploads/CDA_CyberFramework.PNG)\`Frame work developed by DAI's Center for Digital Acceleration.\`
+![CDA_CyberFramework.PNG](/uploads/CDA_CyberFramework.PNG)`Framework developed by DAI's Center for Digital Acceleration.`
 
-In an effort to kickstart a conversation around demand-side needs, DAI’s Center for Digital Acceleration (CDA) recently conducted research in [Ghana](https://www.ictworks.org/tag/ghana/) and [India](https://www.ictworks.org/tag/india/) on internet users’ perceptions of trust and privacy on the web. We sought to understand how users themselves parsed their own trust in internet platforms, what tools and tactics they used to keep their information private and themselves safe online, and what knowledge they had about certain aspects of internet use, such as platforms sharing user data.
+In an effort to kickstart a conversation around demand-side needs, our Center for Digital Acceleration (CDA) recently conducted research in [Ghana](https://www.ictworks.org/tag/ghana/) and [India](https://www.ictworks.org/tag/india/) on internet users’ perceptions of trust and privacy on the web. We sought to understand how users themselves parsed their own trust in internet platforms, what tools and tactics they used to keep their information private and themselves safe online, and what knowledge they had about certain aspects of internet use, such as platforms sharing user data.
 
 Ultimately, our goal is to understand how we can ensure the internet is *trusted* – as one young man we interviewed in India pointed out, **“if they don’t trust \[the internet\], no one will use it.”** Trust is the foundational element of meaningful digital inclusion, and meaningful digital inclusion should be the end goal we all seek.
 
