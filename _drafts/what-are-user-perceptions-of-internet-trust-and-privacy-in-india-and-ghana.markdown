@@ -33,14 +33,14 @@ A talk I recently gave at the [Global Digital Development Forum](https://www.ict
 
 2. **Peer effect of trust:** If apps were popular and many of their friends used or trusted them, they felt comfortable trusting them, too. A clear example is [Whatsapp](https://www.ictworks.org/tag/whatsapp/).
 
-3. **Low awareness of data sharing**: There was *very* low awareness of platforms like Google and Facebook sharing user data with third party advertisers. When prompted, focus group participants felt insecure and disappointed and that their privacy terms had been breached.
+3. **Low awareness of data sharing**: There was *very* low awareness of platforms such as Google and Facebook sharing user data with third-party advertisers. When prompted, focus group participants felt insecure and disappointed and that their privacy terms had been breached.
 
 4. **Control and agency**: Many participants felt they had full agency over their social media accounts because they decided what content they shared and how they engaged in that space; additionally, the use of passwords to access accounts gave them a real sense of control.
 
 ## High-level findings from India
 
-1. **Privacy is utopian…but the internet is fun:** When asked about what they think about privacy on the internet, many respondents expressed feeling like it was a utopian dream. In other words, noting that it was unlikely. However, they all continued to engage online as it’s fun and social and offers value to their lives.
+1. **Privacy is utopian…but the internet is fun:** When asked about what they think about privacy on the internet, many respondents expressed feeling like it was a utopian dream. In other words, noting that it was unlikely. However, they all continued to engage online as it's fun and social and offers value to their lives.
 
-2. **Trust by feature:** Interestingly, Indian focus group participants based their trust of a platform both off of word of mouth popularity as well as by specific privacy features, such as end-to-end encryption.
+2. **Trust by feature:** Interestingly, Indian focus group participants based their trust of a platform both off of word-of-mouth popularity as well as by specific privacy features, such as end-to-end encryption.
 
-3. **Passwords and settings:** Because phone sharing was also an aspect of the population we sampled with our focus group, there was an advanced understanding of how to navigate a phone’s more complex password and privacy settings, from erasing browser history to using app-specific passwords and changing out SIMs and contact data.
+3. **Passwords and settings:** Because phone sharing was also an aspect of the population we sampled with our focus group, there was an advanced understanding of how to navigate a phone’s more complex password and privacy settings, from erasing browser history to using app-specific passwords and changing out SIM cards and contact data.
