@@ -21,7 +21,7 @@ These supply-side focused solutions are indeed powerful, scalable tools in the f
 
 In an effort to kickstart a conversation around demand-side needs, our Center for Digital Acceleration (CDA) recently conducted research in [Ghana](https://www.ictworks.org/tag/ghana/) and [India](https://www.ictworks.org/tag/india/) on internet users’ perceptions of trust and privacy on the web. We sought to understand how users themselves parsed their own trust in internet platforms, what tools and tactics they used to keep their information private and themselves safe online, and what knowledge they had about certain aspects of internet use, such as platforms sharing user data.
 
-Ultimately, our goal is to understand how we can ensure the internet is *trusted* – as one young man we interviewed in India pointed out, **“if they don’t trust \[the internet\], no one will use it.”** Trust is the foundational element of meaningful digital inclusion, and meaningful digital inclusion should be the end goal we all seek.
+Ultimately, our goal is to understand how we can ensure the internet is *trusted*—as one young man we interviewed in India pointed out, **“if they don’t trust \[the internet\], no one will use it.”** Trust is the foundational element of meaningful digital inclusion, and meaningful digital inclusion should be the end goal we all seek.
 
 A talk I recently gave at the [Global Digital Development Forum](https://www.ictworks.org/global-digital-development-forum-success/) can be found below; high-level findings from our research can be found below. We will be publishing our full report on this topic this fall ([subscribe here](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to follow updates).
 
@@ -31,7 +31,7 @@ A talk I recently gave at the [Global Digital Development Forum](https://www.ict
 
 1. **The internet is generally trusted:** Most focus group participants felt they had absolute control over social media and email accounts due to the use of passwords. This perception is widespread thus the internet is used without hesitation.
 
-2. **Peer effect of trust:** If apps were popular and many of their friends used or trusted them, they felt comfortable trusting them too. A clear example is [Whatsapp](https://www.ictworks.org/tag/whatsapp/).
+2. **Peer effect of trust:** If apps were popular and many of their friends used or trusted them, they felt comfortable trusting them, too. A clear example is [Whatsapp](https://www.ictworks.org/tag/whatsapp/).
 
 3. **Low awareness of data sharing**: There was *very* low awareness of platforms like Google and Facebook sharing user data with third party advertisers. When prompted, focus group participants felt insecure and disappointed and that their privacy terms had been breached.
 
