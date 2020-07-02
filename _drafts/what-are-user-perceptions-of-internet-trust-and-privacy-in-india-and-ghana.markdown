@@ -15,7 +15,7 @@ Internet platforms such as [Google](https://www.ictworks.org/tag/google/) and [F
 
 These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been [less effort](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) to develop demand-side solutions at scale, such as meaningful, global [digital literacy](https://www.ictworks.org/tag/digital-literacy/) and regulatory protections for users.
 
-What Are User Perceptions of Internet Safety?
+## What Are User Perceptions of Internet Safety?
 
 ![CDA_CyberFramework.PNG](/uploads/CDA_CyberFramework.PNG)\`Frame work developed by DAI's Center for Digital Acceleration.\`
 
@@ -27,7 +27,7 @@ A talk I recently gave at the [Global Digital Development Forum](https://www.ict
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/zwhVRIv0jWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-High-level findings from Ghana
+## High-level findings from Ghana
 
 1. **The internet is generally trusted:** Most focus group participants felt they had absolute control over social media and email accounts due to the use of passwords. This perception is widespread thus the internet is used without hesitation.
 
@@ -37,7 +37,7 @@ High-level findings from Ghana
 
 4. **Control and agency**: Many participants felt they had full agency over their social media accounts because they decided what content they shared and how they engaged in that space; additionally, the use of passwords to access accounts gave them a real sense of control.
 
-High-level findings from India
+## High-level findings from India
 
 1. **Privacy is utopian…but the internet is fun:** When asked about what they think about privacy on the internet, many respondents expressed feeling like it was a utopian dream. In other words, noting that it was unlikely. However, they all continued to engage online as it’s fun and social and offers value to their lives.
 
