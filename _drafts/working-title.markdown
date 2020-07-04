@@ -5,6 +5,7 @@ tags:
 - Education
 - e-learning
 - Digital Collaboration
+Author: Addie Ryan
 ---
 
 Since we were catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
