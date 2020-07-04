@@ -13,7 +13,7 @@ As DAI works to scale support to meet this rising demand, who better to consult 
 
 <!--more-->
 
-**5 Tips for Engaging Distant Learners**
+## 5 Tips for Engaging Distant Learners
 The advice below is primarily geared toward asynchronous learning experiences, that is, training content that is pre-prepared such that learners can work through the materials on their own time without a instructor or facilitator present. I recommend checking out this earlier post for digital collaboration recommendations related to convening virtual workshops, trainings and other “live” remote events.
 
 **1. Consider participants’ conditions for distance learning**
