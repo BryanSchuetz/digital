@@ -7,7 +7,7 @@ tags:
 - Digital Collaboration
 ---
 
-As the world catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
+As we catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
 
 ![Jess screenshot 1_crop.png](/uploads/Jess%20screenshot%201_crop.png)
 `Tools like Screencast-O-Matic allow teachers to record full screen content, full screen video, or screen and video together (shown). Photo courtesy of Jessica Listerud, Elementary Music Teacher, USA.`
