@@ -42,6 +42,8 @@ Adult learners are not immune to procrastination and time mismanagement. Clearly
 
 **5. Evaluate and Adapt**
 When Ms. Larsen sent out parent surveys two-weeks into distance learning, she learned her first-graders were struggling to pay attention for the duration of her online lessons and they were also missing the human connection with their teacher. This feedback allowed her to improve the students’ learning experience by shortening lessons and adding optional one-on-one “Read to Mrs. Larsen” time blocks to the weekly schedule. While it’s common in international development to collect feedback from participants after a workshop or training session, this is most often solicited via an end-of-activity evaluation. In the case of remote training delivery, if the learning style is new (such as during a global pandemic when swift adjustments are necessary) or the material is being delivered over an extended period of time, check in with participants throughout the course to evaluate their access to the materials, understanding of the content, and overall experience. Then use that feedback to provide better support for the remainder of the training. This might mean providing additional learning resources, shifting deadlines or expanding virtual “office hours”.
+![WhatsApp Image 2020-07-03 at 11.56.07 AM_crop.jpeg](/uploads/WhatsApp%20Image%202020-07-03%20at%2011.56.07%20AM_crop.jpeg)
+`Pre-recorded lessons uploaded and shared with students via the online learning platform DB Primary. Photo courtesy of Christina van Wageningen, Primary School Teacher, UK.`
 
 ## So What Tech Tool Should I Use?
 
