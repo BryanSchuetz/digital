@@ -10,12 +10,12 @@ social-image: "/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize
 ---
 
 Since we were catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
-![WhatsApp Image 2020-07-04 at 2.09.44 PM (1)_crop.jpeg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM%20(1)_crop.jpeg)
+
+![WhatsApp Image 2020-07-04 at 2.09.44 PM (1)_crop2.jpeg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM%20(1)_crop2.jpeg)
+`Photo courtesy of Shaula Bellour.`
 
 ![WhatsApp Image 2020-07-04 at 2.09.44 PM_resize (1).jpg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1).jpg)
-
-![Jess screenshot 1_crop.png](/uploads/Jess%20screenshot%201_crop.png)
-`Tools like Screencast-O-Matic allow teachers to record full screen content, full screen video, or screen and video together (shown). Photo courtesy of Jessica Listerud, Elementary Music Teacher, USA.`
+`Photo courtesy of Shaula Bellour.`
 
 <!--more-->
 
@@ -41,14 +41,18 @@ Non-synchronous learning does not have to mean non-interactive learning. You may
 
 Additionally, distance learning does not necessarily mean only staring at a computer screen. Mrs. Wageningen, a primary school teacher in the UK, advises “incorporating a mixture of media such as videos, audio, interactive computer programs, and practical tasks or activities using materials available in the home”. Mr. Mueller also noted that his students thrived with project-based learning that involved less direction and more creativity.  Even the best of us can lose focus when reading endless slides on a screen, so vary the method of content delivery and type of assignments you give to help keep learners interested and engaged.
 
+![WhatsApp Image 2020-07-03 at 11.56.07 AM_crop_resize.jpg](/uploads/WhatsApp%20Image%202020-07-03%20at%2011.56.07%20AM_crop_resize.jpg)
+`Pre-recorded lessons uploaded and shared with students via the online learning platform DB Primary. Photo courtesy of Christina van Wageningen, Primary School Teacher, UK.`
+
 **4. Provide Guidelines for Pacing and Time Management**
 Depending on factors such as age, previous experience with remote learning, and cultural norms, learners may need support managing their time and pacing their e-learning content.  Jenny Larsen, a first-grade teacher in Minnesota, emphasized the importance of setting daily and weekly schedules for students to tackle their learning plan, emphasizing that “time management and procrastination are some of the hardest things to overcome. Give deadlines and encourage students to designate specific windows of time for certain tasks, writing out when they will start and stop, including when they will take breaks.”
 Adult learners are not immune to procrastination and time mismanagement. Clearly communicate your expectations and deadlines and consider providing pacing guidance. Mr. Alcodray also noted the importance of teachers to be mindful of their time boundaries. When education transitions from the classroom to the digital realm, it is easy for teachers to constantly be “plugged in” and responsive to their students. For their own health and wellness, instructors should likewise set schedules that provide a separation between work and home.
 
 **5. Evaluate and Adapt**
 When Ms. Larsen sent out parent surveys two-weeks into distance learning, she learned her first-graders were struggling to pay attention for the duration of her online lessons and they were also missing the human connection with their teacher. This feedback allowed her to improve the students’ learning experience by shortening lessons and adding optional one-on-one “Read to Mrs. Larsen” time blocks to the weekly schedule. While it’s common in international development to collect feedback from participants after a workshop or training session, this is most often solicited via an end-of-activity evaluation. In the case of remote training delivery, if the learning style is new (such as during a global pandemic when swift adjustments are necessary) or the material is being delivered over an extended period of time, check in with participants throughout the course to evaluate their access to the materials, understanding of the content, and overall experience. Then use that feedback to provide better support for the remainder of the training. This might mean providing additional learning resources, shifting deadlines or expanding virtual “office hours”.
-![WhatsApp Image 2020-07-03 at 11.56.07 AM_crop_resize.jpg](/uploads/WhatsApp%20Image%202020-07-03%20at%2011.56.07%20AM_crop_resize.jpg)
-`Pre-recorded lessons uploaded and shared with students via the online learning platform DB Primary. Photo courtesy of Christina van Wageningen, Primary School Teacher, UK.`
+
+![Jess screenshot 1_crop.png](/uploads/Jess%20screenshot%201_crop.png)
+`Tools like Screencast-O-Matic allow teachers to record full screen content, full screen video, or screen and video together (shown). Photo courtesy of Jessica Listerud, Elementary Music Teacher, USA.`
 
 ## So What Tech Tool Should I Use?
 
