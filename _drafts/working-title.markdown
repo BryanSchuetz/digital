@@ -1,5 +1,5 @@
 ---
-title: 'Working title: Teachers’ tips for effective distance learning'
+title: 'Remote training: Teachers’ tips for effective distance learning (working title)'
 date: 2020-07-03 20:42:00 -04:00
 tags:
 - Education
@@ -9,6 +9,9 @@ Author: Addie Ryan
 ---
 
 Since we were catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
+![WhatsApp Image 2020-07-04 at 2.09.44 PM (1).jpeg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM%20(1).jpeg)
+
+![WhatsApp Image 2020-07-04 at 2.09.44 PM.jpeg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM.jpeg)
 
 ![Jess screenshot 1_crop.png](/uploads/Jess%20screenshot%201_crop.png)
 `Tools like Screencast-O-Matic allow teachers to record full screen content, full screen video, or screen and video together (shown). Photo courtesy of Jessica Listerud, Elementary Music Teacher, USA.`
