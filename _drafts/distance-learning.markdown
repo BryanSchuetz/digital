@@ -17,7 +17,7 @@ As we work to scale support to meet this rising demand, who better to consult on
 ![WhatsApp Image 2020-07-04 at 2.09.44 PM_resize (1)_crop.jpg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_crop.jpg)
 `Photo courtesy of Shaula Bellour.`
 
-## 5 Tips for Engaging Distant Learners
+## 5 Tips for Effective Distance Learning
 
 The advice below is focuses on asynchronous learning experiences, that is, pre-prepared training content that learners can work through on their own time without a instructor or facilitator present. Check out this earlier post on [digital collaboration recommendations](https://568d4cf73aaede128400000b.preview.siteleaf.com/hosting-virtual-meetings-recommendations-from-a-six-week-veteran.html?utm_source=related-box) for convening virtual workshops, trainings and other “live” remote events.
 
