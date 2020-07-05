@@ -15,7 +15,7 @@ As we work to scale support to meet this rising demand, who better to consult on
 <!--more-->
 
 ![WhatsApp Image 2020-07-04 at 2.09.44 PM_resize (1)_crop.jpg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_crop.jpg)
-`Photo courtesy of Shaula Bellour.`
+`Photo courtesy of Shaula Bellour, mother of two children who have been taking their classes online since March.`
 
 ## 5 Tips for Effective Distance Learning
 
