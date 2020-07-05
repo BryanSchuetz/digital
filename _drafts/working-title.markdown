@@ -8,7 +8,7 @@ Author: Addie Ryan
 social-image: "/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_thumbnail.jpg"
 ---
 
-Since we were catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
+Since the world was catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for their staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
 
 <!--more-->
 
