@@ -1,5 +1,5 @@
 ---
-title: 'Remote training: Teachers’ tips for effective distance learning'
+title: 'Remote Training: Teachers’ tips for effective distance learning'
 date: 2020-07-09 06:00:00 -04:00
 tags:
 - Education
