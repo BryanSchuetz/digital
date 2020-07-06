@@ -1,0 +1,43 @@
+---
+title: 'Digital Innovator Series: Talking equitable access to healthcare during COVID-19
+  with Vanderbilt Pediatrics'
+date: 2020-07-06 09:13:00 -04:00
+tags:
+- COVID-19
+- Global Health
+- digital health
+- health equity
+Author: Digital@DAI Team
+---
+
+*We recently spoke with Shari Barkin, MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Write Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview.*
+
+**In our work in global health and international development more broadly, when applying digital solutions we ground ourselves in the local context, and as the Principles for Digital Development prescribe, we first “design with the user”. How does this resonate with the adaptations you’ve been making to provide quality care to all patients and how has the COVID-19 crisis pushed or accelerated innovation in your work?**
+
+Necessity is truly the mother of invention, and in this case, innovation. We were faced with creating equal access for our patients who had limited access. This forced us to problem solve, creating opportunities to learn forward through something we call N-of-One experiments. That means we reached out to our patients one at a time and co-created a customized approach to see what worked. For example, for our patients who are non-English speakers we found that using FaceTime or WhatsApp as the platform was more readily understandable than downloading applications such as Zoom. It was also important to use platforms that allowed us to create links to other members of the healthcare team, such as interpreters, social workers, and case managers. The quality of the connection ultimately depended both on internet access and on patients’ level of understanding of how to use technology - not just the availability of technology.
+
+**What are the implications of this innovation for improved access and quality care, particularly for disadvantage communities?**
+
+In the case of telemedicine equity, we were able to redesign primary care so that it wasn’t just a dichotomous choice between coming to the doctor or not coming to the doctor. Instead, you now have the option of connecting to families in their home environment. This allows you to address problems in a context-forward manner. It also expanded touch points for more patients in need.
+
+**What have been the biggest challenges moving from in-person to more telemedicine based care and how have you overcome them?**
+
+The biggest challenge is that not everyone has equal access to the internet, nor do they have the same digital literacy. So, while you might be able to set up a telemedicine appointment, not everyone knows how to use it. Moreover, language consonance needs to be considered. Ideally, providers and patients speak the same language. However, in our clinic more than 54 languages are spoken and this is an impossibility. That means including an interpreter as part of the telehealth visit is essential.
+
+**Can you tell us a bit about the importance of leveraging your relationships with different community organizations to providing quality care and how that changes with the introduction of more technology?**
+
+An example of leveraging trusted relationships with community organizations is that while several of our patients did not have access to the internet, we were able to work with the library and parks and recreation. They boosted internet access in their parking lots. This was a creative solution to a gnarly problem.
+
+**With children being a less-vulnerable population during the COVID-19 crisis, what are some of the unforeseen, unintended, or less talked about impacts of the COVID-19 crisis on health care, particularly for children? Do you see any role for technology in your work that might help address this?**
+
+One unintended consequence is that fewer children are coming for their routine assessments and this decreases immunization rates. This is a significant concern due to something called Herd immunity. If the population’s Herd immunity falls below a certain threshold, we increase the risk of an epidemic on top of a pandemic. For example, Measles which we know has severe consequences for children. Additionally, families are delaying seeking care for their children because of their concerns of exposure to COVID-19. Unfortunately, this has resulted in delayed diagnosis of cancer and malnutrition, among other things, which can change the prognosis. We also know that social isolation creates increases in anxiety, depression, and frustration. This can lead to increased rates of child abuse, domestic violence, suicide, and homicide.
+
+Keeping safe physical distance does not mean we have to forgo social connection. Technology can be used to create group visits for common problems. For example, developing group visits for adolescents who are feeling anxious or depressed allows them to share common feelings and we can develop potential strategies for treatment. We can also create a tiered approach to healthcare, which allows for targeted preventive strategies for common health conditions. Such as setting up a telemedicine screening visit for children with asthma to assess symptom control rather than waiting for the child to develop symptoms. The added benefit of using telemedicine in this way is that families can show you their home environment to identify environmental controls to reduce asthma symptoms as well as show you where they keep their medicines and how they use them.
+
+**What do you see as the long-lasting impacts of the COVID-19 crisis on healthcare?**
+
+I am most concerned about the lasting impacts of COVID-19 on *health*. It is clear that it does not affect all people equally. Those populations that are unable to maintain physical distance due to their housing or work situation are often the same populations who have higher rates of chronic disease and lower rates of health insurance. I am concerned about the health of our elderly and the need to reimagine care where people are clustered closely together such as in nursing homes. I am concerned about all the things that we don’t know related to early exposure to COVID-19 during early pregnancy and childhood and how that might affect the future health of children.
+
+Regarding *healthcare*, due to fewer people seeking healthcare several healthcare organizations are in danger of going out of business. Paradoxically, we will need more access to healthcare as we move into the winter months and other common illnesses increase that will likely interact with COVID-19. Rural communities are especially hit hard with many hospitals closing at a time when we will likely need more hospital beds, not fewer.
+
+**You can find more data-backed information on Dr Barkin’s work in health equity in a May 2020 memo she co-authored, *[Addressing the COVID-19 Health Equity Chasm](https://www.vumc.org/health-policy/sites/default/files/COVID%20Memo%20-%20Equity.pdf)*.**
