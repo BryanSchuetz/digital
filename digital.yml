@@ -1,4 +1,21 @@
 
+- title: "What are User Perceptions of Internet Trust and Privacy in India and Ghana?"
+  pub: "Digital"
+  date: 2020-07-06
+  link: "https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html?utm_source=daidotcom"
+  summary: "It’s been a hard couple of years for the internet. Between election interference via social media platforms, disinformation going viral and facilitating genocides, and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the COVID-19 pandemic, optimism in the internet’s force for good seems shaky at best.
+
+I was scrolling Twitter recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.
+
+Internet platforms such as Google and Facebook have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine-learning capabilities to uproot disinformation and box out cyber criminals before real harm occurs.
+
+These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been less effort to develop demand-side solutions at scale, such as meaningful, global digital literacy and regulatory protections for users."
+  tags:
+    - digital acceleration 
+    - Trust 
+    - Privacy 
+    - Cybersecurity 
+
 - title: "Disinformation and Dating Apps—A Match Made in Heaven (But Swipe Left Though)"
   pub: "Digital"
   date: 2020-07-02
@@ -211,17 +228,5 @@ Over the last few weeks, the DAI Center for Digital Acceleration has been explor
     - digital acceleration 
     - Digital Health 
     - Data Visualization 
-    - COVID-19 
-
-- title: "Plan C: How Makerspaces are Providing a Stopgap for COVID-19 Supply Shortages"
-  pub: "Digital"
-  date: 2020-03-30
-  link: "https://dai-global-digital.com/plan-c-how-makerspaces-are-providing-a-stopgap-for-covid-19-supply-shortages.html?utm_source=daidotcom"
-  summary: "One of the participants in the Think Global Make Local product development workshop, sponsored by our Cambodia Development Innovations project in 2016, created a design for a toy called Doy Doy. With Doy Doy’s silicone straws and plastic connectors, kids can build complex structures. The product has gone on to achieve modest commercial success locally. I found Doy Doy instructive because of the way its creator, Em Chanrithykol, ended up manufacturing the toy’s plastic connectors. Because of a lack of local injection-molding capacity and administrative barriers to importing parts made by contract manufacturers outside of Cambodia, Chanrithykol turned to a less traditional method: He contracted a local firm to churn out the parts on a battery of 3D printers.
-
-3D printing is slow, expensive, and inefficient. It is great for small runs of one-off items or prototypes, but it is a terrible way to mass manufacture a product. But the lesson of Doy Doy is that a bad way to mass manufacture a product can still be better than having no way to mass manufacture a product. This is why I am currently manufacturing personal protective face shields for Baltimore-area hospitals in my basement."
-  tags:
-    - digital acceleration 
-    - Hardware 
     - COVID-19 
 

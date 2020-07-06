@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jul 2020 09:59:14 -0400</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2020 09:59:14 -0400</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2020 12:46:24 -0400</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2020 12:46:24 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/internet-usage-india.png" medium="image" /> 
+        <title>What are User Perceptions of Internet Trust and Privacy in India and Ghana?</title>
+        <description>&lt;p&gt;It’s been a hard couple of years for the internet. Between &lt;a href=&quot;https://intelligence.house.gov/social-media-content/&quot;&gt;election interference&lt;/a&gt; via social media platforms, disinformation going viral and &lt;a href=&quot;https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf&quot;&gt;facilitating genocides&lt;/a&gt;, and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the &lt;a href=&quot;https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube&quot;&gt;COVID-19 pandemic&lt;/a&gt;, optimism in the internet’s force for good seems shaky at best.&lt;/p&gt;
+
+&lt;p&gt;I was scrolling &lt;a href=&quot;https://www.ictworks.org/tag/twitter/&quot;&gt;Twitter&lt;/a&gt; recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.&lt;/p&gt;
+
+&lt;p&gt;Internet platforms such as &lt;a href=&quot;https://www.ictworks.org/tag/google/&quot;&gt;Google&lt;/a&gt; and &lt;a href=&quot;https://www.ictworks.org/tag/facebook/&quot;&gt;Facebook&lt;/a&gt; have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine-learning capabilities to uproot disinformation and box out cyber criminals before real harm occurs.&lt;/p&gt;
+
+&lt;p&gt;These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been &lt;a href=&quot;https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html&quot;&gt;less effort&lt;/a&gt; to develop demand-side solutions at scale, such as meaningful, global &lt;a href=&quot;https://www.ictworks.org/tag/digital-literacy/&quot;&gt;digital literacy&lt;/a&gt; and regulatory protections for users.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 06 Jul 2020 06:20:00 -0400</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html</guid>
+        
+        <category>Trust</category>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Inta%20blog%20creative%20commons.jpg" medium="image" /> 
@@ -193,31 +220,6 @@
         <category>Cybersecurity</category>
         
         <category>Digital Health</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/fig8_cfr-0d2f6a.png" medium="image" /> 
-        <title>COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us</title>
-        <description>&lt;p&gt;The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases.&lt;/p&gt;
-
-&lt;p&gt;In Mexico, the number of cases has slowly risen. Public health experts have &lt;a href=&quot;https://mexiconewsdaily.com/news/coronavirus/experts-say-mexico-hasnt-done-enough-virus-testing/&quot;&gt;urgently suggested&lt;/a&gt; that testing needs to be dramatically increased to appropriately track the spread of the COVID-19 pandemic. As the graph below shows, the &lt;a href=&quot;https://www.worldometers.info/coronavirus/#countries&quot;&gt;numbers reported from Worldometer&lt;/a&gt; corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1 million people in the region, even among countries of similar size and income per capita.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/fig1_testingpercap-c8bcbb.png&quot; alt=&quot;fig1_testingpercap-c8bcbb.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 May 2020 18:00:00 -0400</pubDate>
-        <author>Jamie Parr
-</author>
-        <link>https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html</guid>
-        
-        <category>Digital Health</category>
-        
-        <category>COVID-19</category>
-        
-        <category>Data</category>
         
         
       </item>
