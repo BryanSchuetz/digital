@@ -50,4 +50,4 @@ A talk I recently gave at the [Global Digital Development Forum](https://www.ict
 
 3. **Passwords and settings:** Because phone sharing was also an aspect of the population we sampled with our focus group, there was an advanced understanding of how to navigate a phone’s more complex password and privacy settings, from erasing browser history to using app-specific passwords and changing out SIM cards and contact data.
 
-*This post originally appeared on [ICTWorks](https://www.ictworks.org/user-perceptions-internet-trust-privacy-india-ghana/#.Xv3fpShKhPZ) on July 1, 2020. *
+*This post originally appeared on [ICTWorks](https://www.ictworks.org/user-perceptions-internet-trust-privacy-india-ghana/#.Xv3fpShKhPZ) on July 1, 2020.* 
