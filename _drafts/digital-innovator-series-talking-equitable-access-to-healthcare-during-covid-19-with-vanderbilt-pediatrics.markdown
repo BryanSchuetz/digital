@@ -8,9 +8,12 @@ tags:
 - digital health
 - health equity
 Author: Digital@DAI Team
+social-image: "/uploads/Coronavirus-doc-telecom.png"
+thumbnail: "/uploads/Coronavirus-doc-telecom.png"
 ---
 
 *We recently spoke with Shari Barkin, MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Write Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview.*
+<!--more-->
 
 **In our work in global health and international development more broadly, when applying digital solutions we ground ourselves in the local context, and as the Principles for Digital Development prescribe, we first “design with the user”. How does this resonate with the adaptations you’ve been making to provide quality care to all patients and how has the COVID-19 crisis pushed or accelerated innovation in your work?**
 
@@ -19,6 +22,8 @@ Necessity is truly the mother of invention, and in this case, innovation. We wer
 **What are the implications of this innovation for improved access and quality care, particularly for disadvantage communities?**
 
 In the case of telemedicine equity, we were able to redesign primary care so that it wasn’t just a dichotomous choice between coming to the doctor or not coming to the doctor. Instead, you now have the option of connecting to families in their home environment. This allows you to address problems in a context-forward manner. It also expanded touch points for more patients in need.
+
+![Coronavirus-doc-telecom.png](/uploads/Coronavirus-doc-telecom.png)`Photo courtesy of Crunchbase News.`
 
 **What have been the biggest challenges moving from in-person to more telemedicine based care and how have you overcome them?**
 
