@@ -1,5 +1,5 @@
 ---
-title: 'Lessons from a Schoolteacher: 5 Tips for Effective Distance Learning'
+title: 'Lessons from a School Teacher: 5 Tips for Effective Distance Learning'
 date: 2020-07-09 06:00:00 -04:00
 tags:
 - Education
