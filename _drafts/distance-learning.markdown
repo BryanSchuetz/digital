@@ -9,14 +9,13 @@ social-image: "/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize
 thumbnail: "/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_thumbnail.jpg"
 ---
 
-Since the world was catapulted into a socially-distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
+Since the world was catapulted into a socially distant reality earlier this year, donor-funded development projects have been forced to re-envision what it means to transfer knowledge, build capacity, and implement training courses for staff, partners and beneficiaries. As a result, DAI’s Center for Digital Acceleration has experienced a swell in requests to support the digital transformation of activities previously envisaged for in-person learning.
 
-As we work to scale support to meet this rising demand, who better to consult on the topic than schoolteachers? Teachers and students around the world were recently thrown into distance teaching with little notice and wildly varied levels of preparation. This disruption sparked newfound – but long deserved – teacher accolades from parents suddenly playing an intimate role in their child’s daily learning. Surely anyone with the ability to command a 6-year old's attention from 30 miles away is worthy of our discipleship. So how did they do it and what did they learn? I spoke with elementary, middle, and high school teachers to glean their lessons learned for engaging learners at a distance. While they had much to share on the matter, what I’ve highlighted below are those takeaways most applicable to the field of international development.
+As we work to scale support to meet this rising demand, who better to consult on the topic than schoolteachers? Teachers and students around the world were recently thrown into distance teaching with little notice and wildly varied levels of preparation. This disruption sparked newfound—but long deserved—teacher accolades from parents suddenly playing an intimate role in their child’s daily learning. Surely anyone with the ability to command a 6-year old’s attention from 30 miles away is worthy of our discipleship. So how did they do it and what did they learn? I spoke with elementary, middle, and high school teachers to glean their lessons learned for engaging learners at a distance. While they had much to share on the matter, what I’ve highlighted below are those takeaways most applicable to the field of international development.
 
 <!--more-->
 
-![WhatsApp Image 2020-07-04 at 2.09.44 PM_resize (1)_crop.jpg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_crop.jpg)
-`Photo courtesy of Shaula Bellour, whose children have been taking their school classes online since March 2020.`
+![WhatsApp Image 2020-07-04 at 2.09.44 PM_resize (1)_crop.jpg](/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_crop.jpg)`Photo courtesy of Shaula Bellour, whose children have been taking their school classes online since March 2020.`
 
 ## 5 Tips for Effective Distance Learning
 
