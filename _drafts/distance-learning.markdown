@@ -4,7 +4,6 @@ date: 2020-07-09 06:00:00 -04:00
 tags:
 - Education
 - Digital Collaboration
-- e-learning
 Author: Addie Ryan
 social-image: "/uploads/WhatsApp%20Image%202020-07-04%20at%202.09.44%20PM_resize%20(1)_thumbnail.jpg"
 ---
@@ -22,13 +21,13 @@ As we work to scale support to meet this rising demand, who better to consult on
 
 The advice below focuses on asynchronous learning experiences, that is, pre-prepared content that learners can work through on their own time without an instructor or facilitator present. Check out this earlier post on [digital collaboration recommendations](https://568d4cf73aaede128400000b.preview.siteleaf.com/hosting-virtual-meetings-recommendations-from-a-six-week-veteran.html?utm_source=related-box) for convening virtual workshops, webinars and other “live” remote training forums.
 
-**1. Consider Learners’ Conditions for Distance Learning:**
+**1. Consider Learners’ Conditions for Distance Learning**
 Before designing your distance learning or e-learning course, understand the technology access and literacy among your target participants, as well as other constraints they may be facing in their home environment. For example, when Minnesota transitioned to distance learning in March, about 15% of 6th graders at the Hmong charter school where Bob Mueller taught were without internet access at home; those with access often had to share device time with siblings and other family members. To engage all his students in remote learning, Mr. Mueller prepared two versions of his lessons, one in hard copy and another online. He also offered a window of time (instead of a specific time) and multiple communication channels for daily check-ins. To the contrary, at the international school in Japan where Aaron Alcodray serves as Personalized Learning Coordinator, the infrastructure was already largely in place for the transition to distance learning. High schoolers had internet access at home, were each in possession of a school-issued Macbook and were already comfortable navigating Edsby, the school’s online learning management system (LMS). In addition to technology access, consider other conditions or constraints that might affect how or when learners will be able to engage. In the international development context we may ask: Are the trainees farmers who need to spend much of their daylight hours outside and away from a computer? Are they mothers juggling childcare along with their learning? Is email an effective means of communication or are they more likely to respond via SMS or Whatsapp? Understanding these likely learner conditions and preferences will help inform the best platform for engagement, as well as your curriculum design and pacing.
 
 ![LMS_edit_resize.jpg](/uploads/LMS_edit_resize.jpg)
 `When switching to distance learning, many schools increased utilization of their existing Learning Management System (such as Edsby, pictured) for online learning solutions, data management and communication. Photo courtesy of Aaron Alcodray, High School Personalized Learning Coordinator, Japan.`
 
-**2. Rethink Your Approach:**
+**2. Rethink Your Approach**
 Your initial instinct may be to take everything that you would otherwise do in the classroom and just do it online. This is a common pitfall and teachers quickly realized it wasn’t going to work. Learners don’t have the same attention span and access at home as they do in the classroom so “less is more”. Consider the constraints as well as new possibilities offered by the remote learning opportunity and be thoughtful about your content design. Mr. Alcodray advises, “as a teacher you have to reflect on what is absolutely necessary to achieve your learning objective; what is essential for your students to experience. This distance learning experience got everyone to pause and pare down to the most essential things in order to avoid burn-out for students and teachers alike.” For synchronous elements of distance learning, Mr. Alcodray also recommends teachers re-envision their role as facilitators of student understanding rather than distributors of knowledge. If students can do the learning experience (watch the video, read the article, etc.) on their own time, the limited time they have with their teacher can be spent on activities that apply their new knowledge and skills. In the education world this model is known as a “[flipped classroom](https://www.educationnext.org/the-flipped-classroom/)”.
 
 **3. Keep Learning Interactive:**
