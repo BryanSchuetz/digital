@@ -1,6 +1,6 @@
 ---
-title: 'Digital Innovator Series: Talking equitable access to healthcare during COVID-19
-  with Vanderbilt Pediatrics'
+title: 'Digital Innovator Series: Talking Equitable Access to Healthcare During COVID-19
+  Pandemic with Vanderbilt Pediatrics'
 date: 2020-07-06 09:13:00 -04:00
 tags:
 - COVID-19
@@ -12,12 +12,13 @@ social-image: "/uploads/Coronavirus-doc-telecom.png"
 thumbnail: "/uploads/Coronavirus-doc-telecom.png"
 ---
 
-*We recently spoke with Shari Barkin, MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Write Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview.*
+*We recently spoke with [Shari Barkin](https://www.childrenshospitalvanderbilt.org/doctors/barkin-shari), MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Wright Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview.*
+
 <!--more-->
 
-**In our work in global health and international development more broadly, when applying digital solutions we ground ourselves in the local context, and as the Principles for Digital Development prescribe, we first “design with the user”. How does this resonate with the adaptations you’ve been making to provide quality care to all patients and how has the COVID-19 crisis pushed or accelerated innovation in your work?**
+**In our work in global health and international development more broadly, when applying digital solutions we ground ourselves in the local context, and as the Principles for Digital Development prescribe, we first “design with the user.” How does this resonate with the adaptations you’ve been making to provide quality care to all patients and how has the COVID-19 crisis pushed or accelerated innovation in your work?**
 
-Necessity is truly the mother of invention, and in this case, innovation. We were faced with creating equal access for our patients who had limited access. This forced us to problem solve, creating opportunities to learn forward through something we call N-of-One experiments. That means we reached out to our patients one at a time and co-created a customized approach to see what worked. For example, for our patients who are non-English speakers we found that using FaceTime or WhatsApp as the platform was more readily understandable than downloading applications such as Zoom. It was also important to use platforms that allowed us to create links to other members of the healthcare team, such as interpreters, social workers, and case managers. The quality of the connection ultimately depended both on internet access and on patients’ level of understanding of how to use technology - not just the availability of technology.
+Necessity is truly the mother of invention, and in this case, innovation. We were faced with creating equal access for our patients who had limited access. This forced us to problem solve, creating opportunities to learn forward through something we call N-of-One experiments. That means we reached out to our patients one at a time and co-created a customized approach to see what worked. For example, for our patients who are non-English speakers, we found that using FaceTime or WhatsApp as the platform was more readily understandable than downloading applications such as Zoom. It was also important to use platforms that allowed us to create links to other members of the healthcare team, such as interpreters, social workers, and case managers. The quality of the connection ultimately depended both on internet access and on patients’ level of understanding of how to use technology - not just the availability of technology.
 
 **What are the implications of this innovation for improved access and quality care, particularly for disadvantage communities?**
 
