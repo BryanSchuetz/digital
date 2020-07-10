@@ -28,11 +28,11 @@ A: "In the case of telemedicine equity, we were able to redesign primary care so
 
 **Q: What have been the biggest challenges moving from in-person to more telemedicine-based care and how have you overcome them?**
 
-The biggest challenge is that not everyone has equal access to the internet, nor do they have the same digital literacy. So, while you might be able to set up a telemedicine appointment, not everyone knows how to use it. Moreover, language consonance needs to be considered. Ideally, providers and patients speak the same language. However, in our clinic more than 54 languages are spoken and this is an impossibility. That means including an interpreter as part of the telehealth visit is essential.
+A: "The biggest challenge is that not everyone has equal access to the internet, nor do they have the same digital literacy. So, while you might be able to set up a telemedicine appointment, not everyone knows how to use it. Moreover, language consonance needs to be considered. Ideally, providers and patients speak the same language. However, in our clinic more than 54 languages are spoken and this is an impossibility. That means including an interpreter as part of the telehealth visit is essential."
 
-**Can you tell us a bit about the importance of leveraging your relationships with different community organizations to providing quality care and how that changes with the introduction of more technology?**
+**Q: Can you tell us a bit about the importance of leveraging your relationships with different community organizations to providing quality care and how that changes with the introduction of more technology?**
 
-An example of leveraging trusted relationships with community organizations is that while several of our patients did not have access to the internet, we were able to work with the library and parks and recreation. They boosted internet access in their parking lots. This was a creative solution to a gnarly problem.
+A: "An example of leveraging trusted relationships with community organizations is that while several of our patients did not have access to the internet, we were able to work with the library and parks and recreation. They boosted internet access in their parking lots. This was a creative solution to a gnarly problem.
 
 **With children being a less-vulnerable population during the COVID-19 crisis, what are some of the unforeseen, unintended, or less talked about impacts of the COVID-19 crisis on health care, particularly for children? Do you see any role for technology in your work that might help address this?**
 
