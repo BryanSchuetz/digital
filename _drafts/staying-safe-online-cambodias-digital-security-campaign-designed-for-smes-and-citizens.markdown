@@ -1,6 +1,6 @@
 ---
-title: Staying Safe Online – Cambodia’s Digital Security Campaign Designed for SMEs
-  and Citizens
+title: Staying Safe Online – An Effort to Help SME Owners Learn Cyber Hygiene Skills
+  and Strengthen Their Resilience Even In Times of Crisis
 date: 2020-07-10 08:42:00 -04:00
 ---
 
