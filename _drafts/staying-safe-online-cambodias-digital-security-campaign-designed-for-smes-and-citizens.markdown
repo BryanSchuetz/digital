@@ -5,6 +5,9 @@ date: 2020-07-13 06:00:00 -04:00
 tags:
 - Cybersecurity
 - Digital Inclusion
+Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
+social-image: "/uploads/Online%20Safety%20Campaign%202020.png"
+thumbnail: "/uploads/Online%20Safety%20Campaign%202020.png"
 ---
 
 As COVID-19 drives more people online for work, entertainment, and even connection to friends and family, digital and data security issues are increasingly important across the US and around the world. However, citizen-focused digital and data security discussions are still in early stages in some countries, especially in Southeast Asia, and my home base, Cambodia. So - who really gets left behind? It is often the citizens and small businesses that rely on digital tools, but do not all have strong cyber skills, to safely do business online.
