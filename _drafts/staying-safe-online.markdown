@@ -1,6 +1,6 @@
 ---
-title: Staying Safe Online—Cyber Hygiene Skills Strengthen Resilience for Small Business,
-  Even In Times of Crisis
+title: Staying Safe Online—An Effort to Help SME Owners Learn Cyber Hygiene Skills
+  and Protect Themselves
 date: 2020-07-13 06:00:00 -04:00
 tags:
 - Cybersecurity
