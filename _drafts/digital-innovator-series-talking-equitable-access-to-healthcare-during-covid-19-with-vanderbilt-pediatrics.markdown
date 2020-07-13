@@ -7,7 +7,7 @@ tags:
 - Global Health
 - digital health
 - health equity
-Author: Digital@DAI Team
+Author: Susannah Horton
 social-image: "/uploads/Coronavirus-doc-telecom.png"
 thumbnail: "/uploads/Coronavirus-doc-telecom.png"
 ---
