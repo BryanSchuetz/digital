@@ -9,7 +9,7 @@ social-image: "/uploads/CLOUD.jpg"
 thumbnail: "/uploads/CLOUD.jpg"
 ---
 
-I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.
+What is the best architecture for a management information system? I hate to say it, but it depends. Generally though, I do have an opinion, and while your mileage may vary, I think one model might often better serve more use cases.
 
 At first glance, you might think our products team only builds full-stack web applications. That is only half our story. We also spend a significant time providing technical advice to DAI project staff and their government counterparts on the technology solutions they are looking to procure. I call this *translating:* taking the needs and requirements of the project and explaining it in technical terms to developers and IT experts. One common area we help project staff understand, update, or integrate is a management information system (MIS) in disparate and un-harmonized contexts.
 
@@ -31,9 +31,9 @@ A **single database** architecture is one in which all contributing entities use
 
 For example, once any organization stores GIS data, the database structure must account for that, even if only one organization requires it. As such, the database can become very large and difficult to manage, making data stewardship a possible concern if management is inadequate. Second, this MIS type also presents a single point of failure, meaning that if the system were to be compromised or damaged, all data would be at risk for deletion, manipulation, or damage. This is opposed to different models in which data is de-centralized, but still available for exchange.
 
-A **centralized system** is one in which participating entities copy some or all of their data to a central repository where it is organized and stored based on a common data model. In this case, each independent system still maintains its own database but makes it available to a central and external database system. This might typically be managed by an independent organization or regulatory body. 
+A **centralized system** is one in which participating entities copy some or all of their data to a central repository where it is organized and stored based on a common data model. In this case, each independent system still maintains its own database but makes it available to a central and external database system. This might typically be managed by an independent organization or regulatory body.
 
-![centralized-6cd747.png](/uploads/centralized-6cd747.png)This graphic represents a centralized system MIS.`
+![centralized-6cd747.png](/uploads/centralized-6cd747.png)This graphic represents a centralized system MIS.\`
 
 In a centralized model, data is still owned and maintained by individual entities, and they relinquish that control once the data is shared with that centralized system, meaning that the institution managing the MIS then has control. In this model, adding new participants to the MIS requires updating the database, which can take a lot of time, be hazardous to data, and might not even be possible depending on technical considerations or limitations of the newly added organization.
 
