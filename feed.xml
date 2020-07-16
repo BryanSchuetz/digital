@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jul 2020 11:53:21 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2020 11:53:21 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2020 08:46:10 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2020 08:46:10 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Coronavirus-doc-telecom.png" medium="image" /> 
+        <title>Digital Innovator Series: Talking Equitable Access to Healthcare During COVID-19 Pandemic with Vanderbilt Pediatrics</title>
+        <description>&lt;p&gt;&lt;em&gt;We recently spoke with &lt;a href=&quot;https://www.childrenshospitalvanderbilt.org/doctors/barkin-shari&quot;&gt;Shari Barkin&lt;/a&gt;, MD, MSHS, William K. Warren Foundation Chair in Medicine; Marian Wright Edelman Professor of Pediatrics; Director, Division of General Pediatrics, Vanderbilt University Medical Center, about how COVID-19 highlights issues around health equity and acts as a forcing mechanism for technology-driven innovation. This is an excerpt from that interview.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jul 2020 06:13:00 -0400</pubDate>
+        <author>Susannah Horton
+</author>
+        <link>https://dai-global-digital.com/digital-innovator-series-talking-equitable-access-to-healthcare-during-covid-19-with-vanderbilt-pediatrics.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-innovator-series-talking-equitable-access-to-healthcare-during-covid-19-with-vanderbilt-pediatrics.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Global Health</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Online%20Safety%20Campaign%202020.png" medium="image" /> 
@@ -193,25 +212,6 @@
         <category>Virtual Workshops</category>
         
         <category>Digital Collaboration</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/1200px-Yunsup_Lee_holding_RISC_V_prototype_chip.jpg" medium="image" /> 
-        <title>Castles Made of Sand: Digital Transformation From the Silicon Up</title>
-        <description>&lt;p&gt;Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impact on how that foundation is laid, and by whom.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 15 May 2020 13:39:00 -0400</pubDate>
-        <author>Rob Ryan-Silva
-</author>
-        <link>https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html</guid>
-        
-        <category>Makerspace</category>
-        
-        <category>Hardware</category>
         
         
       </item>
