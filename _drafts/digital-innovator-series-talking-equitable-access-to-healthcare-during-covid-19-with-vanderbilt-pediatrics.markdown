@@ -1,12 +1,10 @@
 ---
 title: 'Digital Innovator Series: Talking Equitable Access to Healthcare During COVID-19
   Pandemic with Vanderbilt Pediatrics'
-date: 2020-07-06 09:13:00 -04:00
+date: 2020-07-16 06:13:00 -04:00
 tags:
 - COVID-19
 - Global Health
-- digital health
-- health equity
 Author: Susannah Horton
 social-image: "/uploads/Coronavirus-doc-telecom.png"
 thumbnail: "/uploads/Coronavirus-doc-telecom.png"
