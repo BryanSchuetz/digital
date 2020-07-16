@@ -44,4 +44,4 @@ A: "I am most concerned about the lasting impacts of COVID-19 on *health*. It is
 
 "Regarding *healthcare*, due to fewer people seeking it, several healthcare organizations are in danger of going out of business. Paradoxically, we will need more access to healthcare as we move into the winter when other common illnesses increase and will likely interact with COVID-19. Rural communities are especially hit hard with many hospitals closing at a time when we will likely need more hospital beds, not fewer."
 
-**You can find more data-backed information on Barkin’s work in health equity in a May memo she co-authored, *[Addressing the COVID-19 Health Equity Chasm](https://www.vumc.org/health-policy/sites/default/files/COVID%20Memo%20-%20Equity.pdf)*.**
+**You can find more data-backed information on Dr. Barkin’s work in health equity in a May memo she co-authored, *[Addressing the COVID-19 Health Equity Chasm](https://www.vumc.org/health-policy/sites/default/files/COVID%20Memo%20-%20Equity.pdf)*.**
