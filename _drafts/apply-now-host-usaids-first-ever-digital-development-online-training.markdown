@@ -16,7 +16,7 @@ The cornerstone of the Digital skills initiative is the Digital Development trai
 
 ![Feed the Future Land Tenure Assistance Activity USAID Tanzania (002).jpg](/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg)`Picture of a USAID Feed the Future participant.`
 
-Today, Digital Frontiers releases a request for proposals (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID Staff.
+Today, Digital Frontiers releases a [request for proposals](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID Staff.
 
 ## Who Should Apply?
 
@@ -40,6 +40,6 @@ DAI is looking for tech organizations with the following qualifications:
 
 More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing).
 
-Proposals are due July X at 5pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing) are due July X by 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
+Proposals are due July X at 5pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) are due July X by 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
 
 *Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the CDD, USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
