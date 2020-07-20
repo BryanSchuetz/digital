@@ -40,6 +40,6 @@ DAI is looking for tech organizations with the following qualifications:
 
 More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing).
 
-Proposals are due July X at 5pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) are due July X by 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
+Proposals are due August 4, 2020 at 5pm EST to DigitalFrontiers@dai.com. Questions regarding the [RFP](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) are due July 27, 2020 by 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP please email DigitalFrontiers@dai.com.
 
 *Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the CDD, USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
