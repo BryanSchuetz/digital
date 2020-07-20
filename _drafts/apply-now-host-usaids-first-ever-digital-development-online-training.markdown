@@ -14,6 +14,8 @@ As part of the Digital Strategy, the Digital Skills Initiative is developing tra
 
 The cornerstone of the Digital skills initiative is the Digital Development training, typically 4-5 days and in-person, it provides USAID staff with a holistic overview of digital development -- from the foundations of digital and cross-cutting sectoral focus, to risks and opportunities and implementation strategies. However, due to COVID, traditional training and events have moved to a virtual format.
 
+![Feed the Future Land Tenure Assistance Activity USAID Tanzania (002).jpg](/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg)`Picture of a USAID Feed the Future participant.`
+
 Today, Digital Frontiers releases a request for proposals (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID Staff.
 
 ## Who Should Apply?
