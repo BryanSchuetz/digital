@@ -10,6 +10,8 @@ Within the U.S. Agency for International Development (USAID) Global Development 
 
 As part of the Digital Strategy, the Digital Skills Initiative is developing trainings and resources geared towards USAID staff to support an increased understanding of, and ability to use digital tools and skills.
 
+<!--more-->
+
 The cornerstone of the Digital skills initiative is the Digital Development training, typically 4-5 days and in-person, it provides USAID staff with a holistic overview of digital development -- from the foundations of digital and cross-cutting sectoral focus, to risks and opportunities and implementation strategies. However, due to COVID, traditional training and events have moved to a virtual format.
 
 Today, Digital Frontiers releases a request for proposals (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID Staff.
