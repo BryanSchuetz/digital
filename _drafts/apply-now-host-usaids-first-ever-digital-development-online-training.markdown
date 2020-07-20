@@ -1,6 +1,8 @@
 ---
 title: 'Apply Now: Host USAID’s first-ever Digital Development Online Training'
 date: 2020-07-20 10:56:00 -04:00
+tags:
+- Digital Collaboration
 Author: "[Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
 social-image: "/uploads/FTF_DF.jpg"
 thumbnail: "/uploads/FTF_DF.jpg"
