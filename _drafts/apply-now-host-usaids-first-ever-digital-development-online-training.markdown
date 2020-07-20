@@ -6,7 +6,7 @@ social-image: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activ
 thumbnail: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg"
 ---
 
-Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
+Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
 
 As part of the Digital Strategy, the Digital Skills Initiative is developing training sessions and resources geared towards USAID staff. These resources will support staff to increase their understanding of--and ability to use--digital tools and skills.
 
