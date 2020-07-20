@@ -2,8 +2,8 @@
 title: 'Apply Now: Host USAID’s first-ever Digital Development Online Training'
 date: 2020-07-20 10:56:00 -04:00
 Author: "[Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
-social-image: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg"
-thumbnail: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg"
+social-image: "/uploads/FTF_DF.jpg"
+thumbnail: "/uploads/FTF_DF.jpg"
 ---
 
 Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
@@ -14,7 +14,7 @@ As part of the Digital Strategy, the Digital Skills Initiative is developing tra
 
 Digital Development training is the cornerstone of the Digital Skills Initiative. These in-person events typically take place over four or five days and provide USAID staff with a holistic overview of digital development. Themes range  from the foundations of digital and cross-cutting sectoral topics, to risks, opportunities, and implementation strategies. Due to COVID-19 prevention measures, these training events have recently moved to virtual formats.
 
-![Feed the Future Land Tenure Assistance Activity USAID Tanzania (002).jpg](/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg)`Picture of a USAID Feed the Future participant.`
+![FTF_DF.jpg](/uploads/FTF_DF.jpg)`Picture of a USAID Feed the Future participant.`
 
 Today, Digital Frontiers releases a [request for proposals](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID staff.
 
