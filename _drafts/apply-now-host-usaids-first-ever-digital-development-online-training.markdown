@@ -6,37 +6,37 @@ social-image: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activ
 thumbnail: "/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg"
 ---
 
-Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD team to roll-out and implement USAID’s Agency-wide Digital Strategy, released in April 2020.
+Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
 
-As part of the Digital Strategy, the Digital Skills Initiative is developing trainings and resources geared towards USAID staff to support an increased understanding of, and ability to use digital tools and skills.
+As part of the Digital Strategy, the Digital Skills Initiative is developing training sessions and resources geared towards USAID staff. These resources will support staff to increase their understanding of--and ability to use--digital tools and skills.
 
 <!--more-->
 
-The cornerstone of the Digital skills initiative is the Digital Development training, typically 4-5 days and in-person, it provides USAID staff with a holistic overview of digital development -- from the foundations of digital and cross-cutting sectoral focus, to risks and opportunities and implementation strategies. However, due to COVID, traditional training and events have moved to a virtual format.
+Digital Development training is the cornerstone of the Digital Skills Initiative. These in-person events typically take place over four or five days and provide USAID staff with a holistic overview of digital development. Themes range  from the foundations of digital and cross-cutting sectoral topics, to risks, opportunities, and implementation strategies. Due to COVID-19 prevention measures, these training events have recently moved to virtual formats.
 
 ![Feed the Future Land Tenure Assistance Activity USAID Tanzania (002).jpg](/uploads/Feed%20the%20Future%20Land%20Tenure%20Assistance%20Activity%20USAID%20Tanzania%20(002).jpg)`Picture of a USAID Feed the Future participant.`
 
-Today, Digital Frontiers releases a [request for proposals](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID Staff.
+Today, Digital Frontiers releases a [request for proposals](https://drive.google.com/file/d/1tCxhBBjip44skPLsvKHln5z2c0L7Oyfi/view) (RFP) for experienced organizations to work with Digital Frontiers and USAID to adapt the Digital Development training into an iterative and interactive online training for dissemination to USAID staff.
 
 ## Who Should Apply?
 
 DAI is looking for tech organizations with the following qualifications:
 
-* Experience adapting existing training content into blended multimedia online trainings
+* Experience adapting existing training content into blended multimedia online trainings.
 
-* Experience converting a multi-course blended training into multiple individual trainings
+* Experience converting a multi-course blended training into multiple individual trainings.
 
-* Experience hosting blended trainings on their platform
+* Experience hosting blended trainings on their platform.
 
-* Previous experience working with USAID
+* Previous experience working with USAID.
 
-* Project manager for this activity with experience working with the U.S. Government, preferably USAID
+* A project manager for this activity with experience working with the U.S. Government, preferably USAID.
 
-* Familiarity with digital development
+* Familiarity with digital development.
 
-* Ability to co-facilitate to participants based in the US and in countries which USAID works
+* The ability to co-facilitate to participants based in the U.S. and in countries where USAID works.
 
-* Ability to work under tight timeframes and successfully meet deadlines
+* The ability to work under tight time frames and successfully meet deadlines.
 
 More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1cDuXqYXtE4GERldfmFNbnSXuYSj6zOFa/view?usp=sharing).
 
