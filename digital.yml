@@ -1,4 +1,15 @@
 
+- title: "Apply Now: Host USAID’s first-ever Digital Development Online Training"
+  pub: "Digital"
+  date: 2020-07-21
+  link: "https://dai-global-digital.com/apply-now-host-usaids-first-ever-digital-development-online-training.html?utm_source=daidotcom"
+  summary: "Within the U.S. Agency for International Development (USAID) Global Development Lab, the Center for Digital Development (CDD) addresses gaps in digital access and affordability and advances the use of technology and advanced data analysis in development. DAI’s Digital Frontiers project works closely with the CDD team to roll out and implement USAID’s Agency-wide Digital Strategy, which was released in April 2020.
+
+As part of the Digital Strategy, the Digital Skills Initiative is developing training sessions and resources geared towards USAID staff. These resources will support staff to increase their understanding of–and ability to use–digital tools and skills."
+  tags:
+    - digital acceleration 
+    - Digital Collaboration 
+
 - title: "Digital Innovator Series: Talking Equitable Access to Healthcare During COVID-19 Pandemic with Vanderbilt Pediatrics"
   pub: "Digital"
   date: 2020-07-16
@@ -217,15 +228,4 @@ Now, all these lessons are relevant again as we globally try to tackle the COVID
   tags:
     - digital acceleration 
     - Digital Inclusion 
-
-- title: "COVID-19 Data Analysis, Part 3: Rethinking the Global Health Security Index"
-  pub: "Digital"
-  date: 2020-04-16
-  link: "https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html?utm_source=daidotcom"
-  summary: "The next installment in our COVID-19 analysis series connects the dots between the datasets we have explored in our previous posts and brings in a new dataset that came to our attention over the past couple of weeks. In this paper, we look at the relationship between country scores from the Nuclear Threat Initiative (NTI)’s Global Health Security Index and levels of response by country governments measured using the Oxford COVID-19 Government Response Tracker. You can read more about our initial exploratory analysis of the Global Health Security Index here in our previous blog post. Oxford University has provided an initial report of its data on its website."
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Data Visualization 
-    - Digital Health 
 
