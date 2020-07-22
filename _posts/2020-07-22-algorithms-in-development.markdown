@@ -1,5 +1,5 @@
 ---
-title: Algorithms in Development
+title: Algorithms in Health & Development
 date: 2020-07-22 14:13:00 -04:00
 Author: Gratiana Fu
 ---
@@ -20,19 +20,21 @@ These three steps I take and the order I do them in are an algorithm.
 
 ![algorithms.PNG](/uploads/algorithms.PNG)
 
-Let's move onto algorithmic bias. Algorithmic bias refers to the errors that appear in algorithms that lead to unfair outcomes. What does that look like in practice? Let’s go back to coffee and waking up. If we ask three other people what steps they take to get ready in the morning, their answers are a little bit different. The first person exercises, showers, and drinks coffee. The second drinks coffee, brushes their teeth, and eats breakfast while the third brushes their teeth before drinking coffee, and eats breakfast.
+Let's move onto algorithmic bias. Algorithmic bias refers to the errors that appear in algorithms that lead to unfair outcomes. What does that look like in practice? Let’s go back to coffee and waking up. If we ask three other people what steps they take to get ready in the morning, their answers are a little bit different. The first person exercises, showers, and drinks coffee. The second person drinks coffee, brushes their teeth, and eats breakfast while the third person brushes their teeth before drinking coffee, and eats breakfast.
 
 ![icons.PNG](/uploads/icons.PNG)
 
-If we were to create a set of rules to explain or predict the steps that every person in the entire world take to get ready in the morning based on these three people, it would be a very bad algorithm. It would fail to recognize people who don’t drink coffee.
+If we were to create a set of rules to explain or predict the steps that every person in the entire world take to get ready in the morning based on these three people, it would be a very bad algorithm. It would fail for peole who don't drink coffee. It would fail for those who have 
 
 This is an vast oversimplification of algorithmic bias but it shows how each individual perspective and life experience influences the rules and methods that we choose to complete the same objective. The rules matter a lot more when the stakes are higher – algorithmic bias shows up everywhere, from [search engines](https://time.com/5318918/search-results-engine-google-bias-trusted-sources/) to [hiring practices](https://resources.workable.com/stories-and-insights/unconscious-bias-in-recruitment) to [healthcare delivery](https://news.uchicago.edu/story/health-care-prediction-algorithm-biased-against-black-patients-study-finds).
 
-There are a number of mobile applications out there that help to detect skin cancer – you take a picture of a mole or discoloration on your skin and the algorithm tells you whether it could be cancerous or not. It’s a useful tool that provides a way to pre-screen people before going to see a specialist. But a study found that these applications are more accurate at detecting skin cancer on people with white or pale skin versus black and brown skin. A story came out last month about Malone Mukwende, a second-year medical student at St. George’s in London who created a booklet on clinical care guidelines for people with Black and brown skin – he wanted to bring awareness of how symptoms of certain diseases present differently on darker skin, something that had not been addressed in his formal medical education.
+There are a number of mobile applications that help to detect skin cancer by analyzing a picture of a mole or discoloration on a person's skin and then predicting whether the  you whether it could be cancerous or not. It’s a useful tool that provides a way to pre-screen people before going to see a specialist. But [multiple studies](https://www.theatlantic.com/health/archive/2018/08/machine-learning-dermatology-skin-color/567619/) found that these applications are more accurate at detecting skin cancer on people with white or pale skin versus black or brown skin. 
+
+A story came out last month about Malone Mukwende, a second-year medical student at St. George’s in London who created a booklet on clinical care guidelines for people with Black and brown skin – he wanted to bring awareness of how symptoms of certain diseases present differently on darker skin, something that had not been addressed in his formal medical education.
 
 ![ou_200710_bame_handbook_kawasaki_disease_malone_mukwende_575x600.jpg](/uploads/ou_200710_bame_handbook_kawasaki_disease_malone_mukwende_575x600.jpg)
 
-There will be more opportunities to use advanced algorithms for diagnostics, as well as in other health and non-related fields. However, we have to learn from the mistakes that have been made in to ensure that the tools we use are not favoring or excluding any individual or group. Applications of AI and machine learning techniques in many of the countries that our team work in are still relatively nascent.
+There will only be more opportunities to use advanced algorithms in healthcare and the international development space like the one behind the skin cancer application. However, we have to learn from the mistakes that have been made in to ensure that the tools we use are not favoring or excluding any individual or group. Applications of AI and machine learning techniques in many of the countries that our team works in are still relatively nascent so it's up to us, as responsible development professionals, to use these tools properly and ethically. 
 
 Additional resources:
 
