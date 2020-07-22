@@ -7,6 +7,8 @@ tags:
 - Algorithmic Bias
 - Digital Health
 Author: Gratiana Fu
+social-image: "/uploads/algorithms.PNG"
+thumbnail: "/uploads/algorithms.PNG"
 ---
 
 Algorithms. In the age of Big Tech and social media, the term algorithm gets thrown around a lot to describe the black box that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm?
@@ -47,7 +49,7 @@ Here are some suggestions you can take to mitigate algorithmic bias:
 
 2\. **Use appropriate data and information to create your algorithms**: Bad data leads to bad algorithms. Like the example above, we cannot create algorithms with a small subset of the population and expect it to work for the general population. In a similar vein, we cannot simply export a solution that has been developed in the Global North and expect it to work in the Global South.
 
-3\. **Question if automation is necessary and/or appropriate**: Algorithms that are executed by a computer are much more rigid than algorithms executed by a human being. As humans, we are able to make split-second decisions - decisions that in a healthcare setting could save someone's life - which computers are unable to do. Ask yourself if it is necessary to automate an algorithm - in many cases, it's neither necessary or appropriate.
+3\. **Question if automation is necessary and/or appropriate**: Algorithms that are executed by a computer are much more rigid than algorithms executed by a human being. As humans, we are able to make split-second decisions - decisions that in a healthcare setting could save someone's life - which computers are unable to do. Ask yourself if it is necessary to automate an algorithm - in many cases, it's neither necessary nor appropriate.
 
 4\. **Raise your individual awareness of algorithms**: This suggestion goes beyond just development and health. Big tech companies like Facebook and Google are using algorithms every day to control what we see and what we don't see.  Take a closer look - try to identify the different algorithms that are operating around you and how they might be biased.
 
