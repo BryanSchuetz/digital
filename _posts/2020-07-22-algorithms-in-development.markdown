@@ -28,11 +28,16 @@ If we were to create a set of rules to explain or predict the steps that every p
 
 This is an vast oversimplification of algorithmic bias but it shows how each individual perspective and life experience influences the rules and methods that we choose to complete the same objective. The rules matter a lot more when the stakes are higher – algorithmic bias shows up everywhere, from [search engines](https://time.com/5318918/search-results-engine-google-bias-trusted-sources/) to [hiring practices](https://resources.workable.com/stories-and-insights/unconscious-bias-in-recruitment) to [healthcare delivery](https://news.uchicago.edu/story/health-care-prediction-algorithm-biased-against-black-patients-study-finds).
 
-There are a number of mobile applications out there that help to detect skin cancer – you take a picture of a mole or discoloration on your skin and the algorithm tells you whether it could be cancerous or not. It’s a useful tool that provides a way to pre-screen people before going to see a specialist. But a study found that these applications are more accurate at detecting skin cancer on people with white or pale skin versus black and brown skin. A story came out last month about Malone Mukwende, a second-year medical student at St. George’s in London who created a booklet on clinical care guidelines for people with Black and brown skin – he wanted to bring awareness of how symptoms of certain diseases present differently on darker skin, something that had not been addressed in his formal medical education. A condition that shows up as red rashes and welts on white skin is much less visible on Black skin.
+There are a number of mobile applications out there that help to detect skin cancer – you take a picture of a mole or discoloration on your skin and the algorithm tells you whether it could be cancerous or not. It’s a useful tool that provides a way to pre-screen people before going to see a specialist. But a study found that these applications are more accurate at detecting skin cancer on people with white or pale skin versus black and brown skin. A story came out last month about Malone Mukwende, a second-year medical student at St. George’s in London who created a booklet on clinical care guidelines for people with Black and brown skin – he wanted to bring awareness of how symptoms of certain diseases present differently on darker skin, something that had not been addressed in his formal medical education.
+
+![ou_200710_bame_handbook_kawasaki_disease_malone_mukwende_575x600.jpg](/uploads/ou_200710_bame_handbook_kawasaki_disease_malone_mukwende_575x600.jpg)
 
 There will be more opportunities to use advanced algorithms for diagnostics, as well as in other health and non-related fields. However, we have to learn from the mistakes that have been made in to ensure that the tools we use are not favoring or excluding any individual or group. Applications of AI and machine learning techniques in many of the countries that our team work in are still relatively nascent.
 
 Additional resources:
+
 1. [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) by Dr. Safiya Noble
+
 2. [Automating Inequality](https://us.macmillan.com/books/9781250074317) by Virginia Eubanks
+
 3. [Data Feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D’Ignazio and Lauren F. Klein
