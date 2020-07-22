@@ -11,11 +11,11 @@ social-image: "/uploads/algorithms.PNG"
 thumbnail: "/uploads/algorithms.PNG"
 ---
 
-Algorithms. In the age of Big Tech and social media, the term algorithm gets thrown around a lot to describe the black box that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm?
+In the age of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) and social media, the term algorithm gets thrown around a lot to describe the black box that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm?
 
 <!--more-->
 
-Algorithms are simple. By definition, an algorithm is a set of rules used to achieve a specific objective. These rules can be implemented in different ways – not just by computers. For example, for me to fully wake up every day, there are many things that I must do:
+Algorithms are simple. By definition, an algorithm is a set of rules used to achieve a specific objective. These rules can be implemented in different ways – not just by computers, which is a common misconception. Let's take a non-computer example, waking up and getting ready for work. For me, that means going through a routine to  fully wake up every day. As part of that routine, there are many things that I must do to feel awake. They are:
 
 1. Wake up
 
@@ -23,9 +23,9 @@ Algorithms are simple. By definition, an algorithm is a set of rules used to ach
 
 3. Drink some coffee
 
-These three steps I take and the order I do them in are an algorithm.
+These three steps I take, and the order in which I do them in, are an algorithm.
 
-![algorithms.PNG](/uploads/algorithms.PNG)
+![algorithms.PNG](/uploads/algorithms.PNG)`When you Google search "algorithm" these are some of the images that come up, furthering the common misconception that understanding an algorithm is complex.`
 
 Let's move onto algorithmic bias. Algorithmic bias refers to the errors that appear in algorithms that lead to unfair outcomes. What does that look like in practice? Let’s go back to coffee and waking up. If we ask three other people what steps they take to get ready in the morning, their answers are a little bit different. The first person exercises, showers, and drinks coffee. The second person drinks coffee, brushes their teeth, and eats breakfast while the third person brushes their teeth before drinking coffee, and eats breakfast.
 
