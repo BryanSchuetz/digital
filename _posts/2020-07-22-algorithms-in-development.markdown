@@ -1,5 +1,5 @@
 ---
-title: Algorithms. What Are There
+title: Algorithms in Development
 date: 2020-07-22 14:13:00 -04:00
 ---
 
