@@ -18,11 +18,10 @@ Algorithms are simple. By definition, an algorithm is a set of rules used to ach
 
 These three steps I take and the order I do them in are an algorithm.
 
-![algorithms.PNG](/uploads/algorithms.PNG)
+
 
 Let's move onto algorithmic bias. Algorithmic bias refers to the errors that appear in algorithms that lead to unfair outcomes. What does that look like in practice? Let’s go back to coffee and waking up. If we ask three other people what steps they take to get ready in the morning, their answers are a little bit different. The first person exercises, showers, and drinks coffee. The second drinks coffee, brushes their teeth, and eats breakfast while the third brushes their teeth before drinking coffee, and eats breakfast.
 
-![icons.PNG](/uploads/icons.PNG)
 
 If we were to create a set of rules to explain or predict the steps that every person in the entire world take to get ready in the morning based on these three people, it would be a very bad algorithm. It would fail to recognize people who don’t drink coffee. It would also fail to
 
