@@ -1,6 +1,6 @@
 ---
 title: What Are Algorithms and How Are They Biased?
-date: 2020-07-22 14:13:00 -04:00
+date: 2020-07-23 06:00:00 -04:00
 tags:
 - Algorithmic Bias
 - Digital Health
