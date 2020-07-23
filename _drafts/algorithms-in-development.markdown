@@ -17,9 +17,7 @@ In the age of [Big Tech](https://en.wikipedia.org/wiki/Big_Tech) and social medi
 Algorithms are simple. By definition, an algorithm is a set of rules used to achieve a specific objective. These rules can be implemented in different ways – not just by computers, which is a common misconception. Let's take a non-computer example, waking up and getting ready for work. For me, that means going through a routine to  fully wake up every day. As part of that routine, there are many things that I must do to feel awake. They are:
 
 1. Wake up
-
 2. Take a shower
-
 3. Drink some coffee
 
 These three steps I take, and the order in which I do them in, are an algorithm.
@@ -33,31 +31,22 @@ Now that we understand what an algorithm is, let's explore whether an algorithm 
 The first person takes the following steps to fully wake up.
 
 1. Wakes up
-
 2. Exercises
-
 3. Takes a shower
-
 4. Drinks coffee
 
 The second person takes the following steps to fully wake up.
 
 1. Wakes up
-
 2. Drinks coffee
-
 3. Brushes their teeth
-
 4. Eats Breakfast
 
 The third person takes the following steps to fully wake up.
 
 1. Wakes up
-
 2. Brushes their teeth
-
 3. Drinks coffee
-
 4. Eats Breakfast
 
 In other words each of them has their own unique steps they take to wake up. Now imagine, if I were to create a set of rules (an algorithm) to explain or predict the steps that every person in the entire world takes to get ready in the morning based on these three people?  The algorithm I would build  would be a very bad algorithm, because it would fail to account for people who do not drink coffee, or others who have a different routine.
@@ -76,18 +65,13 @@ As technology continues to become an integral part of peoples lives, there will 
 
 In the meantime, gere are some suggestions you can take to mitigate algorithmic bias:
 
-1\. **Diversify your staff**: Algorithms are only as inclusive the team that creates them are.  The lack of people of color, especially Black people, in technology and in development is so much more apparent in the biased algorithms that we use.
-
-2\. **Use appropriate data and information to create your algorithms**: Bad data leads to bad algorithms. Like the example above, we cannot create algorithms with a small subset of the population and expect it to work for the general population. In a similar vein, we cannot simply export a solution that has been developed in the Global North and expect it to work in the Global South.
-
-3\. **Question if automation is necessary and/or appropriate**: Algorithms that are executed by a computer are much more rigid than algorithms executed by a human being. As humans, we are able to make split-second decisions - decisions that in a healthcare setting could save someone's life - which computers are unable to do. Ask yourself if it is necessary to automate an algorithm - in many cases, it's neither necessary nor appropriate.
-
-4\. **Raise your individual awareness of algorithms**: This suggestion goes beyond just development and health. Big tech companies like Facebook and Google are using algorithms every day to control what we see and what we don't see.  Take a closer look - try to identify the different algorithms that are operating around you and how they might be biased.
+1. **Diversify your staff**: Algorithms are only as inclusive the team that creates them are.  The lack of people of color, especially Black people, in technology and in development is so much more apparent in the biased algorithms that we use. 
+2. **Use appropriate data and information to create your algorithms**: Bad data leads to bad algorithms. Like the example above, we cannot create algorithms with a small subset of the population and expect it to work for the general population. In a similar vein, we cannot simply export a solution that has been developed in the Global North and expect it to work in the Global South.
+3. **Question if automation is necessary and/or appropriate**: Algorithms that are executed by a computer are much more rigid than algorithms executed by a human being. As humans, we are able to make split-second decisions - decisions that in a healthcare setting could save someone's life - which computers are unable to do. Ask yourself if it is necessary to automate an algorithm - in many cases, it's neither necessary nor appropriate.
+4. **Raise your individual awareness of algorithms**: This suggestion goes beyond just development and health. Big tech companies like Facebook and Google are using algorithms every day to control what we see and what we don't see.  Take a closer look - try to identify the different algorithms that are operating around you and how they might be biased.
 
 Interested in learning more? Here are some additional resources in addition to those listed on our previous [post](https://dai-global-digital.com/understanding-algorithmic-bias.html):
 
 1. [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) by Dr. Safiya Noble
-
 2. [Automating Inequality](https://us.macmillan.com/books/9781250074317) by Virginia Eubanks
-
 3. [Data Feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D’Ignazio and Lauren F. Klein
