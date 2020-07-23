@@ -1,7 +1,9 @@
 ---
 title: Algorithms in Health & Development
 date: 2020-07-22 14:13:00 -04:00
+published: false
 tags:
+- Algorithmic Bias
 - Digital Health
 - Digital Inclusion
 Author: Gratiana Fu
