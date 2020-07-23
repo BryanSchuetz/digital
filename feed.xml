@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Jul 2020 08:28:08 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 08:28:08 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2020 11:24:56 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2020 11:24:56 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/icons.PNG" medium="image" /> 
+        <title>What Are Algorithms and How Are They Biased?</title>
+        <description>&lt;p&gt;In the age of &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_Tech&quot;&gt;Big Tech&lt;/a&gt; and social media, the term *algorithm *gets thrown around a lot to describe the unseen mechanism that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm? And can an algorithm be biased?&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Jul 2020 14:13:00 -0400</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/algorithms-in-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/algorithms-in-development.html</guid>
+        
+        <category>Algorithmic Bias</category>
+        
+        <category>Digital Health</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/FTF_DF.jpg" medium="image" /> 
@@ -197,20 +218,6 @@
         
         
         <category>Global Health</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com" medium="image" /> 
-        <title>This Week</title>
-        <description>&lt;p&gt;&lt;em&gt;Dear friends and colleagues: we had a lighthearted blog post ready to go this week, but in light of recent events, we’re sure it can wait. Instead, we’re using this time to pause and reflect about the killing of George Floyd and the years of structural racism and inequities that his story represents, both in the U.S. and across the countries where DAI works. We’re also thinking about cities and communities reeling from a combination of a global pandemic and widespread unrest. In the meantime, take care and stay strong.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Jun 2020 20:53:00 -0400</pubDate>
-        <author>Center for Digital Acceleration Staff
-</author>
-        <link>https://dai-global-digital.com/this-week.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/this-week.html</guid>
-        
         
       </item>
     
