@@ -10,11 +10,11 @@ social-image: "/uploads/aleblog.png"
 thumbnail: "/uploads/aleblog.png"
 ---
 
-COVID-19 pushed people into their homes and brought to lights the different options that exist to transform the way we learn from in-person dominated settings to online classrooms. Although online learning is not new, the adoption of these learning platforms by the general global population has been slow in comparison to the development of new technology-enabled education solutions.
+COVID-19 pushed people into their homes and brought to light the different options that exist to transform the way we learn from in-person settings to online classrooms. Although online learning is not new, the adoption of these learning platforms by the general population has been slow in comparison to the development of new technology-enabled education solutions.
 
 <!--more-->
 
-Ginni Rometty, former CEO of IBM said that the only way to survive is to continually transform into something different. COVID-19 has forced all different aspects of society to transform. International development projects are no different. In recent months, DAI’s Center for Digital Acceleration has received several requests to assist projects in transitioning from what were traditionally online events, workshops or in-person learning activities to effective virtual experiences. In the post below, I share both my experience and some considerations for teams going through similar transitions.
+Ginni Rometty, the former CEO of IBM, said that the only way to survive is to continually transform into something different. COVID-19 has forced all different aspects of society to transform. International development projects are no different. In recent months, DAI’s Center for Digital Acceleration has received several requests to assist projects in transitioning from what were traditionally online events, workshops or in-person learning activities to effective virtual experiences. In the post below, I share both my experience and some considerations for teams going through similar transitions.
 
 ### Identify Best Tools to Achieve Desired Goal
 
