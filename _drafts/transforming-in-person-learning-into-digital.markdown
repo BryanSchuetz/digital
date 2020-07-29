@@ -1,10 +1,10 @@
 ---
-title: Transforming in person learning into digital
+title: 'Digital Collaboration: Transforming in person learning into digital'
 date: 2020-07-29 08:12:00 -04:00
 tags:
 - COVID-19
 - Digital Transformation
-- digital learning
+- Digital Collaboration
 Author: Alejandro Solis
 social-image: "/uploads/aleblog.png"
 thumbnail: "/uploads/aleblog.png"
