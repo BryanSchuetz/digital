@@ -41,7 +41,7 @@ Similar to product development, omissions of clear [research and design](https:/
 ### Other Important Recommendations
 
 * **Define whether the product is temporary or permanent to project success**: this is a key factor when defining a technological stack, so you will know whether to buy a license, use the ones you have, or search for something different.
-* **Consider the multidimensionality of the resources**: audio, video, documents, drawings—depending on your audience—can be leveraged to achieve your objective. But remember, don’t get distracted by flashy new software, trying to teach participants a new system can distract from your intended goal.
-* **Integration**: there are hundreds of tools to achieve a good experience, analyze the level of integration of the tools or technologies that are most convenient for you and your project. Again, technology should work for you not against you.
+* **Consider the multidimensionality of the resources**: audio, video, documents, drawings—depending on your audience—can be leveraged to achieve your objective. But remember, don’t get distracted by flashy new software; trying to teach participants a new system can distract from your intended goal.
+* **Integration**: there are hundreds of tools to achieve a good experience; analyze the level of integration of the tools or technologies that are most convenient for you and your project. Again, technology should work for you—not against you.
 
 None of these observations are new. We knew this all before the COVID-19, yet what the pandemic has brought renewed attention to the tools and platforms available to us to conduct virtual learning and meetings. Just because COVID-19 forced the world to take an unexpected turn, do not forget the general principles of engaging people effectively online. The good news is if you get too distracted DAI’s Center for Digital Acceleration is here to guide you back on the best path forward.
