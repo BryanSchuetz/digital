@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2020 09:47:28 -0400</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2020 09:47:28 -0400</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2020 09:51:14 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2020 09:51:14 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/aleblog.png" medium="image" /> 
+        <title>Transforming In-Person Learning into Digital Collaboration</title>
+        <description>&lt;p&gt;COVID-19 pushed people into their homes and brought to light the different options that exist to transform the way we learn from in-person settings to online classrooms. Although online learning is not new, the adoption of these learning platforms by the general population has been slow in comparison to the development of new technology-enabled education solutions.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 30 Jul 2020 06:12:00 -0400</pubDate>
+        <author>Alejandro Solis
+</author>
+        <link>https://dai-global-digital.com/transforming-in-person-learning-into-digital.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/transforming-in-person-learning-into-digital.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>Digital Transformation</category>
+        
+        <category>Digital Collaboration</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/icons.PNG" medium="image" /> 
@@ -191,33 +212,6 @@
         
         <category>Cybersecurity</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/COVID%20blog%20image.png" medium="image" /> 
-        <title>COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data</title>
-        <description>&lt;p&gt;&lt;em&gt;This analysis is Part 6 of a series on COVID-19, with a specific focus on Mexico. The analysis will be updated as we receive additional data and the code for all related analysis will be made available shortly.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For the past two months, COVID-19 has made its way beyond the borders of the United States and into other countries of the Americas, namely the second and third largest countries of the region: Brazil and Mexico. While the United States’ daily incidence of deaths slowly declines, Mexico reported its largest daily incidence yet with 1,092 deaths on June 4.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 10 Jun 2020 14:35:00 -0400</pubDate>
-        <author>Jamie Parr
-</author>
-        <link>https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html</guid>
-        
-        <category>Global Health</category>
-        
-        <category>Data Visualization</category>
-        
-        <category>Data</category>
-        
-        <category>COVID-19</category>
-        
-        
-        <category>Global Health</category>
         
       </item>
     
