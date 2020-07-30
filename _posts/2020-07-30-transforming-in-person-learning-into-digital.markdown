@@ -1,6 +1,6 @@
 ---
 title: Transforming In-Person Learning into Digital Collaboration
-date: 2020-07-29 08:12:00 -04:00
+date: 2020-07-30 06:12:00 -04:00
 tags:
 - COVID-19
 - Digital Transformation
@@ -36,7 +36,7 @@ In contrast, for a project in Mozambique, I had to adapt virtual training due to
 
 Many projects see attractive platforms and think they are the best fit for their online learning or virtual training. In reality, the learning curve for these platforms, both for project staff and participants, can be high, diverting energy from important content. It’s important to remember that technology needs to serve the project, not complicate it. Therefore, I recommend  clearly defining the objective of your virtual meeting prior to choosing a technology platform. The platform should facilitate that objective. Don’t get distracted with all the fancy software out there.
 
-In product development, omissions of clear [research and design](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/human-centered-design) of a system or software can lead to failure or creating an unsustainable tool. The same is true for virtual events, except in this case there are really no second chances to gather the same group of people on the same topic in a more effective way.
+In product development, omissions of clear [research and design](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/human-centered-design) of a system or software can lead to failure or creating an unsustainable tool. The same is true for virtual events, except in this case there are really no second chances to replicate the same virtual meeting after learning from your failures. 
 
 ### Other Important Recommendations
 
@@ -44,6 +44,6 @@ In product development, omissions of clear [research and design](https://www.dai
 
 * **Consider the multidimensionality of the resources**: audio, video, documents, drawings—depending on your audience—can be leveraged to achieve your objective. But remember, don’t get distracted by flashy new software; trying to teach participants a new system can distract from your intended goal.
 
-* **Integration**: there are hundreds of tools to achieve a good experience; analyze the level of integration of the tools or technologies that are most convenient for you and your project. Again, technology should work for you—not against you.
+* **Integration**: there are hundreds of tools out there that can help achieve a good experience; analyze the level of integration of the tools or technologies that are most convenient for you and your project. Again, technology should work for you—not against you.
 
-Just because COVID-19 forced the world to take an unexpected turn, do not forget the general principles of engaging people effectively online.
+COVID-19 forced the world to take an unexpected turn. But, keep in mind that this drastic change of circumstances is not a reason to lose sight of  the general principles we know to be most effective when engaging people online.
