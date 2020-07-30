@@ -36,7 +36,7 @@ In contrast, for a project in Mozambique, I had to adapt virtual training due to
 
 Many projects see attractive platforms and think they are the best fit for their online learning or virtual training. In reality, the learning curve for these platforms, both for project staff and participants, can be high, diverting energy from important content. It’s important to remember that technology needs to serve the project, not complicate it. Therefore, I recommend  clearly defining the objective of your virtual meeting prior to choosing a technology platform. The platform should facilitate that objective. Don’t get distracted with all the fancy software out there.
 
-Similar to product development, omissions of clear [research and design](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/human-centered-design) of a system or software can lead to failure or creating an unsustainable tool. The same is true for virtual events, except in this case there are really no second chances to gather the same group of people on the same topic in a more effective way.
+In product development, omissions of clear [research and design](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/human-centered-design) of a system or software can lead to failure or creating an unsustainable tool. The same is true for virtual events, except in this case there are really no second chances to gather the same group of people on the same topic in a more effective way.
 
 ### Other Important Recommendations
 
