@@ -24,7 +24,7 @@ Virtual training requires a much smaller confluence of expertise. It often requi
 
 ### Connectivity and Complexity
 
-International development projects are spread across the globe, which means the digital infrastructure available will differ. This is why it is critical to know your [user ecosystem](https://digitalprinciples.org/principle/understand-the-existing-ecosystem/), which will help determine their access to digitally connected devices and the reliability of that connection. Understanding this will determine which digital applications, tools, and platforms are best suited for a virtual training or learning experience.
+International development projects are spread across the globe, which means the digital infrastructure available to them will differ. This is why it is critical to know your [user ecosystem](https://digitalprinciples.org/principle/understand-the-existing-ecosystem/), which will help determine their access to digitally connected devices and the reliability of that connection. Understanding this will determine which digital applications, tools, and platforms are best suited for a virtual training or learning experience.
 
 What does this look like in action? In April, DAI held a virtual co-creation workshop for a project in Mexico with 70 participants from around the world. To understand the user’s ecosystem, we ran a quick survey to understand their connectivity. Eighty percent of the respondents had an internet connection via fiber optic or cable. Therefore, we concluded that using technology to coordinate the workshop would not be difficult. For many projects, this is not the reality. Below you can see which tools are available for projects depending on their level of connectivity and the complexity of the training they need to deliver.
 
@@ -41,7 +41,9 @@ Similar to product development, omissions of clear [research and design](https:/
 ### Other Important Recommendations
 
 * **Define whether the product is temporary or permanent to project success**: this is a key factor when defining a technological stack, so you will know whether to buy a license, use the ones you have, or search for something different.
+
 * **Consider the multidimensionality of the resources**: audio, video, documents, drawings—depending on your audience—can be leveraged to achieve your objective. But remember, don’t get distracted by flashy new software; trying to teach participants a new system can distract from your intended goal.
+
 * **Integration**: there are hundreds of tools to achieve a good experience; analyze the level of integration of the tools or technologies that are most convenient for you and your project. Again, technology should work for you—not against you.
 
 Just because COVID-19 forced the world to take an unexpected turn, do not forget the general principles of engaging people effectively online.
