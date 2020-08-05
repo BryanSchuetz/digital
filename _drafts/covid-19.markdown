@@ -13,7 +13,7 @@ For those of us who work in digital development internationally, the pervasivene
 
 <!—more-->
 
-A recent op-ed in the *[Washington Post](https://www.washingtonpost.com/opinions/2020/06/23/americas-digital-divide-is-an-emergency/) * summarized the challenges of the American digital divide. In summary the challenges fall under the following categories:
+A recent op-ed in the *[Washington Post](https://www.washingtonpost.com/opinions/2020/06/23/americas-digital-divide-is-an-emergency/)*  summarized the challenges of the American digital divide. In summary the challenges fall under the following categories:
 
 1. Limited options for affordable internet access, in some cases due to inadequate choice or competition in the market
 
