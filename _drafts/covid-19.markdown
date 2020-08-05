@@ -1,5 +1,5 @@
 ---
-title: COVID-19
+title: What COVID-19 Has Taught Us About The Digital Divide in the U.S.
 date: 2020-08-06 06:00:00 -04:00
 tags:
 - Digital Inclusion
@@ -13,15 +13,15 @@ For those of us who work in digital development internationally, the pervasivene
 
 <!—more-->
 
-A recent op-ed in the *[Washington Post](https://www.washingtonpost.com/opinions/2020/06/23/americas-digital-divide-is-an-emergency/) *summarized the challenges of the American digital divide. In summary the challenges fall under the following categories:
+A recent op-ed in the *[Washington Post](https://www.washingtonpost.com/opinions/2020/06/23/americas-digital-divide-is-an-emergency/) * summarized the challenges of the American digital divide. In summary the challenges fall under the following categories:
 
-1) Limited options for affordable internet access, in some cases due to inadequate choice or competition in the market
+1. Limited options for affordable internet access, in some cases due to inadequate choice or competition in the market
 
-2) Limited digital literacy skills, most commonly amongst seniors (those 65 and older)
+2. Limited digital literacy skills, most commonly amongst seniors (those 65 and older)
 
-3) Limited access to digital devices
+3. Limited access to digital devices
 
-4) Patchwork policies and initiatives across states to increase access to affordable internet.
+4. Patchwork policies and initiatives across states to increase access to affordable internet.
 
 None of these challenges are a surprise to those of us who work within the digital development community. Although the digital divide in the U.S. by no means compares to the digital divide in many of the low- and middle-income countries in which we often work, the challenges posed are no less significant. According to a 2019 [report](https://www.kansascityfed.org/en/community/\~/media/31dc7512db164fce8ae79ec7709924fd.ashx) by the Federal Reserve Bank in Kansas City on the U.S. digital divide, 34 million Americans lack access to fixed broadband. Of those that do not have access, the majority live in rural areas or are low-income households. For instance, the report found that only 53% of adults with an annual income of less than $30,000 had access to broadband at home, in comparison to 95% of adults with an annual income of $75,000. Without access to affordable broadband, these households are unable to do data-intensive tasks such as reliably access online learning, a current cornerstone of the American education as the country continues to battle with COVID-19.
 
