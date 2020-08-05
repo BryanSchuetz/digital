@@ -1,6 +1,12 @@
 ---
 title: COVID-19
-date: 2020-08-05 12:54:00 -04:00
+date: 2020-08-06 06:00:00 -04:00
+tags:
+- Digital Inclusion
+- COVID-19
+Author: Galia Nurko
+social-image: "/uploads/2018%20MHI%20in%20the%20United%20States.png"
+thumbnail: "/uploads/2018%20MHI%20in%20the%20United%20States.png"
 ---
 
 For those of us who work in digital development internationally, the pervasiveness of the global digital divide is constantly top of mind. The majority of our work requires us to understand the digital ecosystem in which we are operating to reach different segments of the population in a specific country. At home in the U.S., COVID-19 and the push for virtual schooling and telemedicine has laid bare, for many Americans, how significant and challenging the digital divide is within the U.S.
