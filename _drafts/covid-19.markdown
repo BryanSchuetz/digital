@@ -1,5 +1,5 @@
 ---
-title: What COVID-19 Has Taught Us About The Digital Divide in the U.S.
+title: How the Global Pandemic is Accentuating U.S.'s Digital Divide
 date: 2020-08-06 06:00:00 -04:00
 tags:
 - Digital Inclusion
