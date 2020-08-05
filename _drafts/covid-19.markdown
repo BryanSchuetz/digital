@@ -17,7 +17,7 @@ A recent op-ed in the *[Washington Post](https://www.washingtonpost.com/opinions
 
 1. Limited options for affordable internet access, in some cases due to inadequate choice or competition in the market
 
-2. Limited digital literacy skills, most commonly amongst seniors (those 65 and older)
+2. Limited digital literacy skills, most commonly among seniors (those 65 and older)
 
 3. Limited access to digital devices
 
