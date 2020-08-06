@@ -1,5 +1,6 @@
 ---
-title: How the COVID-19 Pandemic is Exposing the Digital Divide in the United States
+title: How the COVID-19 Pandemic is Accentuating the Digital Divide in the United
+  States
 date: 2020-08-06 06:00:00 -04:00
 tags:
 - Digital Inclusion
