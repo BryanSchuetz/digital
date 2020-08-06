@@ -1,4 +1,14 @@
 
+- title: "How the COVID-19 Pandemic is Accentuating the Digital Divide in the United States"
+  pub: "Digital"
+  date: 2020-08-06
+  link: "https://dai-global-digital.com/covid-19.html?utm_source=daidotcom"
+  summary: "For those of us who work in digital development internationally, the pervasiveness of the global digital divide is constantly top of mind. The majority of our work requires us to understand the digital ecosystem in which we are operating to reach different segments of the population in a specific country. At home in the United States, COVID-19 and the push for virtual schooling and telemedicine has laid bare, for many Americans, how significant and challenging the digital divide is within the United States."
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+    - COVID-19 
+
 - title: "Transforming In-Person Learning into Digital Collaboration"
   pub: "Digital"
   date: 2020-07-30
@@ -220,13 +230,4 @@ Photo by Oscar Nilsson on Unsplash."
     - Data Visualization 
     - COVID-19 
     - Digital Health 
-
-- title: "Information Liberation: What is Open Data, and Why Does it Matter?"
-  pub: "Digital"
-  date: 2020-04-30
-  link: "https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html?utm_source=daidotcom"
-  summary: "Less than two weeks ago, on April 21, 2020, Microsoft announced its support for the growing open data movement through the launch of an “Open Data Campaign.” Having recently spent several days researching successful open data initiatives, the statement caught my attention. The World Bank uses the Open Knowledge Foundation’s definition for open data. According to it, open data means data “can be freely used, modified, and shared by anyone for any purpose.” In practical terms, this means data that is both legally open, publicly accessible or with minimal restrictions, and technically open, published in electronic formats that are computer readable and nonproprietary. This type of data is not to be confused with “big data.” As I recently learned, there are differences. For instance, open data derives its value from the sharing of the data and its widespread availability, rather than the volume (as big data does). I won’t be spending more time on this particular topic, but if you’re interested in learning more, I highly recommend reading a guest post we published on the subject in 2016."
-  tags:
-    - digital acceleration 
-    - Data 
 

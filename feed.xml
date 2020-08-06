@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Aug 2020 10:02:53 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Aug 2020 10:02:53 -0400</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2020 10:16:26 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2020 10:16:26 -0400</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/2018%20MHI%20in%20the%20United%20States.png" medium="image" /> 
+        <title>How the COVID-19 Pandemic is Accentuating the Digital Divide in the United States</title>
+        <description>&lt;p&gt;For those of us who work in digital development internationally, the pervasiveness of the global digital divide is constantly top of mind. The majority of our work requires us to understand the digital ecosystem in which we are operating to reach different segments of the population in a specific country. At home in the United States, COVID-19 and the push for virtual schooling and telemedicine has laid bare, for many Americans, how significant and challenging the digital divide is within the United States.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Aug 2020 06:00:00 -0400</pubDate>
+        <author>Galia Nurko
+</author>
+        <link>https://dai-global-digital.com/covid-19.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/covid-19.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>COVID-19</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/aleblog.png" medium="image" /> 
@@ -190,27 +209,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/understanding-algorithmic-bias.html</guid>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/lock.png" medium="image" /> 
-        <title>The Importance of Personal Digital Security</title>
-        <description>&lt;p&gt;In the current climate of data collection and data harvesting by every website, company, government or official body that has access to your browser traffic, usage history, and location, your data is always at risk and vulnerable. To add to this, nothing is absolutely, unequivocally, 100 percent secure. Even air-gapped computers that have no connection to the internet, as demonstrated with the CIA-infected Iranian centrifuges with &lt;a href=&quot;https://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/&quot;&gt;Stuxnet&lt;/a&gt; are vulnerable.&lt;/p&gt;
-
-&lt;p&gt;Did that sound alarmist? Well, it was meant to be. The good thing is there are simple measures that anyone from web and software developers to computer laypersons can take to protect themselves from the inevitable breach of their data. The more aware we are and the more precautions we take to avoid exposing our “IRL”-selves to the ever-present threats, the better our chances are of staying secure.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 18 Jun 2020 06:00:00 -0400</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/personal-digital-security-the-beginning.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/personal-digital-security-the-beginning.html</guid>
-        
-        <category>Privacy</category>
-        
-        <category>Cybersecurity</category>
         
         
       </item>
