@@ -4,7 +4,6 @@ title: 'Success to Sustainability: the use of digital tools to engage horticultu
 date: 2020-08-11 10:03:00 -04:00
 tags:
 - Digital Insights
-- Digital Principles
 - Social Media
 - Agriculture
 Author:
