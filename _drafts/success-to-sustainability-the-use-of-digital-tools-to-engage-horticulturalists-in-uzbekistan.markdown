@@ -7,6 +7,7 @@ tags:
 - Digital Principles
 - Social Media
 - Agriculture
+Author: Talia Dweck
 ---
 
 When DAI staff and partners ask me for examples of how our projects have successfully used digital tools, I inevitably describe the USAID-funded Uzbekistan Agricultural Value Chains (AVC) activity as one of my examples. To provide a very brief background on the project, AVC works to strengthen agricultural value chains by engaging horticultural producers, processors, input suppliers, and exporters. Given this goal, it did not take long for the project to hypothesize that to engage as many people as possible they could leverage digital tools already widely used throughout the country to reach their target audience. They were right. A key part of this approach was understanding their audience and their social media habits – in short, knowing their users. As the project now looks to build on their success of using social media as a tool for development, they are creating a sustainability model that is based on insights from their target audience: horticulturalists in Uzbekistan.
