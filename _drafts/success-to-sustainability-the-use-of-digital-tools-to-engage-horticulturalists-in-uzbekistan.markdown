@@ -7,9 +7,8 @@ tags:
 - Social Media
 - Agriculture
 Author:
-- Talia Dweck
-- Gratiana Fu
-- Komil Yakubov
+- "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/), [Gratian Fu](https://dai-global-digital.com/authors/gratiana-fu/),
+  and Komil Yakubov"
 ---
 
 When DAI staff and partners ask us for examples of how our projects have successfully used digital tools, we inevitably describe the U.S. Agency for International Development-funded [Uzbekistan Agricultural Value Chains (AVC)](https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc) activity as one of the best examples. AVC strengthens agricultural value chains by engaging horticultural producers, processors, input suppliers, and exporters. With that goal in mind, it did not take long for the project to realize they could engage people through digital tools already widely used throughout the country to reach their target audience. They were right. A key part of this approach was understanding their audience and their social media habits—in short, knowing their users. As the project now looks to build on its success in using social media as a tool for development, it is creating a sustainability model based on insights from its target audience: horticulturalists in Uzbekistan.
