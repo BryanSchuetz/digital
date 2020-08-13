@@ -26,6 +26,8 @@ As the project comes to a close, the team rightfully wanted to think through ano
 
 ![avc age.png](/uploads/avc%20age.png)
 
+![avc education.png](/uploads/avc%20education.png)
+
 As demonstrated in the charts above, the majority of respondents have a high school education or above, with 41 percent graduating from university. It was also interesting to see that 45 percent is between the ages of 35-50, countering perceptions that digital tools are mostly used to reach younger people. Unfortunately, 95.5 percent of respondents were male, although 10.5 percent of YouTube viewers in 2019, and 14.6 percent of the Facebook group followers are women. A deeper dive into this issue would help us better understand why our digital tools are mostly reaching men, or if other reasons exist for this gap in our results.
 
 **Horticulture Practices**
