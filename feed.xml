@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Aug 2020 15:37:18 -0400</pubDate>
-    <lastBuildDate>Tue, 11 Aug 2020 15:37:18 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2020 08:37:35 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2020 08:37:35 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/avc%20crops.png" medium="image" /> 
+        <title>Success to Sustainability: Engaging Horticulturalists in Uzbekistan with Digital Tools</title>
+        <description>&lt;p&gt;When DAI staff and partners ask us for examples of how our projects have successfully used digital tools, we inevitably describe the U.S. Agency for International Development-funded &lt;a href=&quot;https://www.dai.com/our-work/projects/uzbekistan-usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc&quot;&gt;Uzbekistan Agricultural Value Chains (AVC)&lt;/a&gt; activity as one of the best examples. AVC strengthens agricultural value chains by engaging horticultural producers, processors, input suppliers, and exporters. With that goal in mind, it did not take long for the project to realize they could engage people through digital tools already widely used throughout the country to reach their target audience. They were right. A key part of this approach was understanding their audience and their social media habits—in short, knowing their users. As the project now looks to build on its success in using social media as a tool for development, it is creating a sustainability model based on insights from its target audience: horticulturalists in Uzbekistan.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Aug 2020 06:03:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/talia-dweck/">Talia Dweck</a>, <a href="https://dai-global-digital.com/authors/gratiana-fu/">Gratian Fu</a>, and Komil Yakubov
+</author>
+        <link>https://dai-global-digital.com/success-to-sustainability-the-use-of-digital-tools-to-engage-horticulturalists-in-uzbekistan.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/success-to-sustainability-the-use-of-digital-tools-to-engage-horticulturalists-in-uzbekistan.html</guid>
+        
+        <category>Digital Insights</category>
+        
+        <category>Social Media</category>
+        
+        <category>Agriculture</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2018%20MHI%20in%20the%20United%20States.png" medium="image" /> 
@@ -190,25 +211,6 @@
         <category>Trust</category>
         
         <category>Disinformation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/AI%202%20copy%20(002).jpg" medium="image" /> 
-        <title>How Technology Can Reflect Human Bias—And Resources to Understand It</title>
-        <description>&lt;p&gt;With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.&lt;/p&gt;
-
-&lt;p&gt;Over the next several months DAI’s Center for Digital Acceleration will explore this topic by trying to answer the following questions (and more) in a new series: How pervasive is algorithmic bias, and which platforms are the worst offenders? (b) How does algorithmic bias work, and how we can tackle it at a technological level? (c) What other responses—policy, digital literacy, and so on—exist to tackle this phenomenon? (d) What are the effects of algorithmic bias on the broader digital development sector?&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Jun 2020 08:43:00 -0400</pubDate>
-        <author>Center for Digital Acceleration Staff
-</author>
-        <link>https://dai-global-digital.com/understanding-algorithmic-bias.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/understanding-algorithmic-bias.html</guid>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
