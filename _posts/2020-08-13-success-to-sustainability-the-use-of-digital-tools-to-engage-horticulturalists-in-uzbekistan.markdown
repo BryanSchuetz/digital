@@ -6,9 +6,8 @@ tags:
 - Digital Insights
 - Social Media
 - Agriculture
-Author:
-- "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/), [Gratian Fu](https://dai-global-digital.com/authors/gratiana-fu/),
-  and Komil Yakubov"
+Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/), [Gratian
+  Fu](https://dai-global-digital.com/authors/gratiana-fu/), and Komil Yakubov"
 social-image: "/uploads/avc%20crops.png"
 thumbnail: "/uploads/avc%20crops.png"
 ---
