@@ -4,7 +4,9 @@ date: 2020-08-14 12:48:00 -04:00
 tags:
 - Digital Innovator
 - ecommerce
-Author: Susannah Horton
+Author:
+- Susannah Horton
+- Ariel Magid
 social-image: "/uploads/nepalecommerce.jpg"
 thumbnail: "/uploads/nepalecommerce.jpg"
 ---
