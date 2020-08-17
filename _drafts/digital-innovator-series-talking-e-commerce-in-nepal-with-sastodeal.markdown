@@ -20,8 +20,8 @@ thumbnail: "/uploads/nepalecommerce.jpg"
 A: “Not only does Nepal have very challenging geography compared to most countries; from the mountain regions to the hills, and the flatlands, the entire country is largely dependent on the capital city of Kathmandu for supplies. As a result, e-commerce companies like Sastodeal play a crucial role in connecting businesses and consumers across the country.”
 
 “SMEs across Nepal have unique regional resources and products. However, they do not have the capacity or internet accessibility to promote their products. For example, Yak cheese and honey from the mountain regions are precious and abundant and demand is soaring. However, entrepreneurs in those rural areas can’t reach the global market, let alone the local Nepali market outside their hyper local area.” \
- \
- “Sastodeal immediately solves this problem by connecting rural entrepreneurs to buyers across the nation and vice-versa. We’re looking into ways to promote these unique products globally. SMEs in Nepal have the potential to contribute at least 30% - 40% to national GDP. However, that number is not being realized because of a lack of e-commerce platforms like Sastodeal.”
+\
+“Sastodeal immediately solves this problem by connecting rural entrepreneurs to buyers across the nation and vice-versa. We’re looking into ways to promote these unique products globally. SMEs in Nepal have the potential to contribute at least 30% - 40% to national GDP. However, that number is not being realized because of a lack of e-commerce platforms like Sastodeal.”
 
 **Q: Can you tell us about your partnership with Women Human Right’s Nepal; what motivated you to pursue this partnership and, more broadly how does it fit within Sastodeal’s broader commitment to gender and social inclusion?**
 
@@ -33,7 +33,7 @@ A: “We believe in gender and social inclusion and in partnering with many comp
 
 A: “We currently cover an estimated 70% - 80% of the areas in terms of distribution with a mixed model of self-fulfillment and outsourced logistics. However, we are in a phase of building last-mile delivery centers across Nepal so that people in cities and rural areas outside Kathmandu can receive their products within one-to-three days compared to five-to-seven days at present. We’re also exploring ways to promote local products in global markets by partnering with companies and platforms like ours outside of Nepal.”
 
-!\[nepalecommerce.jpg\](/uploads/nepalecommerce.jpg)\`Photo courtesy of UNCTAD Nepal Rapid eTrade Readiness Assessment.\`
+![nepalecommerce.jpg](/uploads/nepalecommerce.jpg)`Photo courtesy of UNCTAD Nepal Rapid eTrade Readiness Assessment.`
 
 **Q: What are some of the biggest regulatory challenges concerning e-commerce in Nepal? In your opinion, in an ideal world what would the regulatory environment look like?**
 
