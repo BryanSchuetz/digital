@@ -3,7 +3,7 @@ title: 'Digital Innovator Series: Talking E-Commerce in Nepal with Sastodeal'
 date: 2020-08-14 12:48:00 -04:00
 tags:
 - Digital Innovator
-- ecommerce
+- Digital Financial Services
 Author:
 - Susannah Horton
 - Ariel Magid
