@@ -4,7 +4,7 @@ date: 2020-08-20 06:00:00 -04:00
 tags:
 - Digital Innovator
 - E-Commerce
-Author: "[Susannah Horton] (https://dai-global-digital.com/authors/susannah-horton/)
+Author: "[Susannah Horton](https://dai-global-digital.com/authors/susannah-horton/)
   and [Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
 social-image: "/uploads/nepalecommerce.jpg"
 thumbnail: "/uploads/nepalecommerce.jpg"
