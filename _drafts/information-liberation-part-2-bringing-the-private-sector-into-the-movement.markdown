@@ -6,7 +6,7 @@ Erica Behrens:
 
 *Open data sharing can offer huge benefits for development. How do we get the private sector to contribute?*
 
-In my previous blog post – [Information Liberation: What is Open Data, and Why Does it Matter?](https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html) – posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement earlier this year of its support for the Movement – vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those who do not.
+In my previous blog – [Information Liberation: What is Open Data, and Why Does it Matter?](https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html) – posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement earlier this year of its support for the Movement – vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those who do not.
 
 With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector – experts in collecting, organizing, and interpreting data to improve business decisions and operations.
 
