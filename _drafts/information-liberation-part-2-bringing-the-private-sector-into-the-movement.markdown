@@ -11,6 +11,8 @@ In my previous blog post – [Information Liberation: What is Open Data, and Why
 With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector – experts in collecting, organizing, and interpreting data to improve business decisions and operations.
 
 **<!--more-->**
+![phil-aicken-psjK6R48oxU-unsplash.jpg](/uploads/phil-aicken-psjK6R48oxU-unsplash.jpg)
+'text of caption' Apple Store on Fifth Ave, New York, NY. As of April 2019, Apple claimed [over 1.4 billion active devices](https://www.apple.com/newsroom/2019/04/apple-reports-second-quarter-results/) worldwide. Photo by Phil Aickenon on Unsplash.
 
 **Data Gatekeepers**
 
