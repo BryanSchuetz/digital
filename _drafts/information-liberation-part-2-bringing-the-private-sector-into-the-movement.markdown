@@ -16,7 +16,7 @@ With data comes power: the power to make better, smarter decisions; to use infor
 
 **<!--more-->**
 
-![ericablog.jpg](/uploads/ericablog.jpg)`Apple Store on Fifth Ave, New York, NY. As of April 2019, Apple claimed [over 1.4 billion active devices] (https://www.apple.com/newsroom/2019/04/apple-reports-second-quarter-results/) worldwide. Photo by Phil Aickenon on Unsplash.`
+![ericablog.jpg](/uploads/ericablog.jpg)`Apple Store on Fifth Ave, New York, NY. As of April 2019, Apple claimed [over 1.4 billion active devices](https://www.apple.com/newsroom/2019/04/apple-reports-second-quarter-results/) worldwide. Photo by Phil Aickenon on Unsplash.`
 
 ## **Data Gatekeepers**
 
