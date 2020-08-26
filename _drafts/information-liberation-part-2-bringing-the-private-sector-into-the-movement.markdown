@@ -4,7 +4,6 @@ date: 2020-08-25 17:34:00 -04:00
 Author: Erica Behrens
 social-image: "/uploads/ericablog.jpg"
 thumbnail: "/uploads/ericablog.jpg"
-Erica Behrens: 
 ---
 
 *Open data sharing can offer huge benefits for development. How do we get the private sector to contribute?*
