@@ -3,6 +3,7 @@ title: 'Information Liberation, Part 2: Bringing the Private Sector into the Mov
 date: 2020-08-25 17:34:00 -04:00
 tags:
 - data
+- Think Piece
 Author: Erica Behrens
 social-image: "/uploads/ericablog.jpg"
 thumbnail: "/uploads/ericablog.jpg"
