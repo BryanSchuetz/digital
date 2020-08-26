@@ -8,17 +8,17 @@ social-image: "/uploads/ericablog.jpg"
 thumbnail: "/uploads/ericablog.jpg"
 ---
 
-*Open data sharing can offer huge benefits for development. How do we get the private sector to contribute?*
+*Open-data sharing can offer huge benefits for development. How do we get the private sector to contribute?*
 
-In my previous blog – [Information Liberation: What is Open Data, and Why Does it Matter?](https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html) – posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement earlier this year of its support for the Movement – vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those without.
+In my previous blog—[Information Liberation: What is Open Data, and Why Does it Matter?](https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html)—posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement of its support for the movement, vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those without.
 
-With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector – experts in collecting, organizing, and interpreting data to improve business decisions and operations.
+With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector—experts in collecting, organizing, and interpreting data to improve business decisions and operations.
 
 **<!--more-->**
 
-![ericablog.jpg](/uploads/ericablog.jpg)`Apple Store on Fifth Ave, New York, NY. As of April 2019, Apple claimed [over 1.4 billion active devices](https://www.apple.com/newsroom/2019/04/apple-reports-second-quarter-results/) worldwide. Photo by Phil Aickenon on Unsplash.`
+![ericablog.jpg](/uploads/ericablog.jpg)`Apple Store on Fifth Ave, New York. As of April 2019, Apple claimed more than 1.4 billion active devices worldwide. Photo by Phil Aickenon on Unsplash.`
 
-## **Data Gatekeepers**
+## Data Gatekeepers
 
 As mentioned in my previous post, private companies, in comparison to public agencies or individuals, generally possess far more sophisticated, numerous, and comprehensive data sets. They have a strong incentive to collect consumer data and have set up a variety of mechanisms to do so. Have you ever been offered free WiFi in exchange for your email or social media profile? Asked to allow cookies on a website? Allowed an app to track your location? This information collected through these processes helps the company create better, more personalized marketing and to create new products that better respond to customer demand. Companies with a huge global presence and usership – such as Microsoft, but also Facebook, Google, Uber, and Amazon, to name a few – receive new information daily from their millions (or billions) of users.
 
