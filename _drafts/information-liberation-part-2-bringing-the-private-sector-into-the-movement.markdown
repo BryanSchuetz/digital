@@ -32,14 +32,11 @@ In the end, it was evident that there is no one-size-fits-all incentive package 
 
 ## Looking Forward
 
-Open-data sharing is, encouragingly, a growing movement. Despite its attention and recognition as an important problem-solving mechanism for improvement in both domestic and international development, the “how” of safe, effective data sharing, especially on a large scale, is less agreed-upon. Certain companies, nonprofit organizations, research institutions, governments, and public-private partnerships have begun to promote the value of data-sharing and work to reduce the obstacles, such as the creation of safe, interoperable, data collection and sharing tools. The [Open Data Institute](https://theodi.org/), a nonprofit organization and global network of businesses, data experts, and government leaders, completed a variety of studies and initiatives to better understand how data-sharing can work effectively, and to demonstrate the benefits of data sharing in both the private and public sectors.
+Open-data sharing is, encouragingly, a growing movement. Despite its attention and recognition as an important problem-solving mechanism for improvement in both domestic and international development, the “how” of safe, effective data sharing, especially on a large scale, is less agreed-upon. Certain companies, nonprofit organizations, research institutions, governments, and public-private partnerships have begun to promote the value of data sharing and work to reduce the obstacles, such as the creation of safe, interoperable, data collection and sharing tools. The [Open Data Institute](https://theodi.org/), a nonprofit organization and global network of businesses, data experts, and government leaders, completed a variety of studies and initiatives to better understand how data sharing can work effectively and to demonstrate the benefits of data sharing in both the private and public sectors.
 
-For more information on data sharing mechanisms, resources, and initiatives, check out the below:
+For more information on data sharing mechanisms, resources, and initiatives, check out the links below:
 
-* [Private Sector Case studies ](https://theodi.org/service/business-data-sharing/#1583247173913-55b17701-0733)from the ODI
-
+* [Private Sector Case studies](https://theodi.org/service/business-data-sharing/#1583247173913-55b17701-0733)from the ODI
 * ODI research into [data trusts as a mechanism for effective data-sharing](https://theodi.org/article/defining-a-data-trust/)
-
 * Projects from [NYU’s GovLab](http://www.thegovlab.org/projects.html) – including a study on the impact of open data in developing economies
-
 * [KPMG: Open Banking Opens Greater Value](https://home.kpmg/xx/en/home/insights/2019/05/open-banking-for-greater-customer-value-fs.html)
