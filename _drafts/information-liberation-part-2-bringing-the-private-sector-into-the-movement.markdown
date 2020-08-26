@@ -38,6 +38,9 @@ Open-data sharing is, encouragingly, a growing movement. Despite its attention a
 For more information on data sharing mechanisms, resources, and initiatives, check out the links below:
 
 * [Private Sector Case studies] (https://theodi.org/service/business-data-sharing/#1583247173913-55b17701-0733)from the ODI
+
 * ODI research into [data trusts as a mechanism for effective data-sharing](https://theodi.org/article/defining-a-data-trust/)
+
 * Projects from [NYU’s GovLab](http://www.thegovlab.org/projects.html) – including a study on the impact of open data in developing economies
+
 * [KPMG: Open Banking Opens Greater Value](https://home.kpmg/xx/en/home/insights/2019/05/open-banking-for-greater-customer-value-fs.html)
