@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Aug 2020 13:23:53 -0400</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2020 13:23:53 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2020 08:06:23 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2020 08:06:23 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ericablog.jpg" medium="image" /> 
+        <title>Information Liberation, Part 2: Bringing the Private Sector into the Movement</title>
+        <description>&lt;p&gt;&lt;em&gt;Open-data sharing can offer huge benefits for development. How do we get the private sector to contribute?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In my previous blog—&lt;a href=&quot;https://dai-global-digital.com/information-liberation-what-is-open-data-and-why-does-it-matter.html&quot;&gt;Information Liberation: What is Open Data, and Why Does it Matter?&lt;/a&gt;—posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement of its support for the movement, vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those without.&lt;/p&gt;
+
+&lt;p&gt;With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector—experts in collecting, organizing, and interpreting data to improve business decisions and operations.&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Aug 2020 17:34:00 -0400</pubDate>
+        <author>Erica Behrens
+</author>
+        <link>https://dai-global-digital.com/information-liberation-part-2-bringing-the-private-sector-into-the-movement.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/information-liberation-part-2-bringing-the-private-sector-into-the-movement.html</guid>
+        
+        <category>data</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/nepalecommerce.jpg" medium="image" /> 
@@ -186,33 +211,6 @@
         <category>Education</category>
         
         <category>Digital Collaboration</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/internet-usage-india.png" medium="image" /> 
-        <title>What are User Perceptions of Internet Trust and Privacy in India and Ghana?</title>
-        <description>&lt;p&gt;It’s been a hard couple of years for the internet. Between &lt;a href=&quot;https://intelligence.house.gov/social-media-content/&quot;&gt;election interference&lt;/a&gt; via social media platforms, disinformation going viral and &lt;a href=&quot;https://www.ohchr.org/Documents/HRBodies/HRCouncil/FFM-Myanmar/A_HRC_39_64.pdf&quot;&gt;facilitating genocides&lt;/a&gt;, and most recently, the rampant spread of a conspiracy theories that 5G internet broadband caused the &lt;a href=&quot;https://www.vox.com/recode/2020/4/24/21231085/coronavirus-5g-conspiracy-theory-covid-facebook-youtube&quot;&gt;COVID-19 pandemic&lt;/a&gt;, optimism in the internet’s force for good seems shaky at best.&lt;/p&gt;
-
-&lt;p&gt;I was scrolling &lt;a href=&quot;https://www.ictworks.org/tag/twitter/&quot;&gt;Twitter&lt;/a&gt; recently and saw a tweet that ironically, mournfully noted, “Remember when this was the platform that was going to save democracy?” I do indeed remember. Simpler times, my friends.&lt;/p&gt;
-
-&lt;p&gt;Internet platforms such as &lt;a href=&quot;https://www.ictworks.org/tag/google/&quot;&gt;Google&lt;/a&gt; and &lt;a href=&quot;https://www.ictworks.org/tag/facebook/&quot;&gt;Facebook&lt;/a&gt; have invested immense resources in countering the more nefarious consequences of internet-enabled bad actors, including significant investment in machine-learning capabilities to uproot disinformation and box out cyber criminals before real harm occurs.&lt;/p&gt;
-
-&lt;p&gt;These supply-side focused solutions are indeed powerful, scalable tools in the fight against digital harms. However, to date, there has been &lt;a href=&quot;https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html&quot;&gt;less effort&lt;/a&gt; to develop demand-side solutions at scale, such as meaningful, global &lt;a href=&quot;https://www.ictworks.org/tag/digital-literacy/&quot;&gt;digital literacy&lt;/a&gt; and regulatory protections for users.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 06 Jul 2020 06:20:00 -0400</pubDate>
-        <author>Kristen Roggemann
-</author>
-        <link>https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html</guid>
-        
-        <category>Trust</category>
-        
-        <category>Privacy</category>
-        
-        <category>Cybersecurity</category>
         
         
       </item>

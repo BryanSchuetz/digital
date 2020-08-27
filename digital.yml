@@ -1,4 +1,20 @@
 
+- title: "Information Liberation, Part 2: Bringing the Private Sector into the Movement"
+  pub: "Digital"
+  date: 2020-08-25
+  link: "https://dai-global-digital.com/information-liberation-part-2-bringing-the-private-sector-into-the-movement.html?utm_source=daidotcom"
+  summary: "Open-data sharing can offer huge benefits for development. How do we get the private sector to contribute?
+
+In my previous blog—Information Liberation: What is Open Data, and Why Does it Matter?—posted back in April, I wrote about the Open Data Movement, including its origins, advantages, and relevance to international development. The post referenced Microsoft’s announcement of its support for the movement, vowing to use the company’s resources to address the “data divide” that separates those with access to data and the ability to interpret it, from those without.
+
+With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector—experts in collecting, organizing, and interpreting data to improve business decisions and operations.
+
+**"
+  tags:
+    - digital acceleration 
+    - data 
+    - Think Piece 
+
 - title: "Digital Innovator Series: Talking E-Commerce in Nepal with Sastodeal"
   pub: "Digital"
   date: 2020-08-20
@@ -218,17 +234,4 @@ But the vital question is: how can we ensure that the deployment of these digita
     - COVID-19 
     - Cybersecurity 
     - Digital Health 
-
-- title: "COVID-19 Data Analysis, Part 5: Different Models of Infection Rates in Mexico and What they Tell Us"
-  pub: "Digital"
-  date: 2020-05-05
-  link: "https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html?utm_source=daidotcom"
-  summary: "The challenges of measuring the infection rates of COVID-19 are enormous for even the most prepared countries, given the need for testing to reach a significant enough amount of the population to accurately detect its spread. While the total number of recorded cases in the world thus far have mostly been in the United States, Europe, and East Asia, many low- and middle-income countries have begun to see increases in reported cases.
-
-In Mexico, the number of cases has slowly risen. Public health experts have urgently suggested that testing needs to be dramatically increased to appropriately track the spread of the COVID-19 pandemic. As the graph below shows, the numbers reported from Worldometer corroborate this testing deficit, as Mexico has one of the lowest rates of testing per 1 million people in the region, even among countries of similar size and income per capita."
-  tags:
-    - digital acceleration 
-    - Digital Health 
-    - COVID-19 
-    - Data 
 
