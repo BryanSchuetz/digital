@@ -37,7 +37,7 @@ Open-data sharing is, encouragingly, a growing movement. Despite its attention a
 
 For more information on data sharing mechanisms, resources, and initiatives, check out the links below:
 
-* ODI [private sector case studies] (https://theodi.org/service/business-data-sharing/#1583247173913-55b17701-0733)
+* ODI [private sector case studies] (https://theodi.org/service/business-data-sharing/#1583247173913-55b17701-0733/)
 
 * ODI research into [data trusts as a mechanism for effective data-sharing](https://theodi.org/article/defining-a-data-trust/)
 
