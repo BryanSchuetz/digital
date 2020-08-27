@@ -2,6 +2,9 @@
 title: 'Apply Now: Digital Trade and e-Commerce Technical Assistance for the African
   Union Commission'
 date: 2020-08-27 08:07:00 -04:00
+tags:
+- ecommerce
+- Cybersecurity
 Author: "[Andrea Falso] (https://www.linkedin.com/in/andrea-falso-99474a103/)"
 social-image: "/uploads/RFP_AfricaU_blog.jpg"
 thumbnail: "/uploads/RFP_AfricaU_blog.jpg"
