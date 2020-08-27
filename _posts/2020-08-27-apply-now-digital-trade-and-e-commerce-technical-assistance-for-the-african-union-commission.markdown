@@ -5,7 +5,7 @@ date: 2020-08-27 08:07:00 -04:00
 tags:
 - ecommerce
 - Innovation
-Author: "(Andrea Falso)[https://www.linkedin.com/in/andrea-falso-99474a103/]"
+Author: Andrea Falso
 social-image: "/uploads/RFP_AfricaU_blog.jpg"
 thumbnail: "/uploads/RFP_AfricaU_blog.jpg"
 ---
