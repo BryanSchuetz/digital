@@ -15,7 +15,7 @@ In my previous blog—[Information Liberation: What is Open Data, and Why Does i
 
 With data comes power: the power to make better, smarter decisions; to use information to your advantage; to understand trends and predict future ones. No one knows this better than the private sector—experts in collecting, organizing, and interpreting data to improve business decisions and operations.
 
-**<!--more-->**
+<!--more-->
 
 ![ericablog.jpg](/uploads/ericablog.jpg)`Apple Store on Fifth Ave, New York. As of April 2019, Apple claimed more than 1.4 billion active devices worldwide. Photo by Phil Aickenon on Unsplash.`
 
