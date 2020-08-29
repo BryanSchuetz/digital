@@ -23,6 +23,6 @@ Selected firms or consultants will provide services to assist and strengthen USA
 
 More information on the Responding to Digital Threats Activity can be found in the [DRG Responding to Digital Threats EOI](https://drive.google.com/file/d/14BUC3Ld_wEJzqafOCZYPtKyEdQrRNT99/view).
 
-Responses are due September 11, 2020 at 5pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this EOI please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+Responses are due **September 11, 2020** at 5pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this EOI please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID’s Global Development Lab (GDL), the Center for Digital Development (CDD), USAID Missions, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
