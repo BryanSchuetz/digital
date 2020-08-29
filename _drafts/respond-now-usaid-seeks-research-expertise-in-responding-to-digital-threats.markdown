@@ -19,7 +19,7 @@ In support of DRG, Digital Frontiers seeks to identify qualified firms and/or co
 Selected firms or consultants will provide services to assist and strengthen USAID’s DRG office in expanding their knowledge and understanding of internet governance and digital threats, as well as creating responsive resources on these topics. This includes building the capacity of USAID’s DRG office to identify digital threats and mitigate risks, organizing expert convenings, and supporting the USAID DRG office in effectively operationalizing and integrating recommendations into current and future programs.
 ![DRGRFAblog.jpg](/uploads/DRGRFAblog.jpg)`Three young women using a desktop computer from the Digital Inclusion in the Peruvian Amazon, one of five winners from USAID’s second Annual Digital Development Awards.`
 
-**How to Respond:**
+## **How to Respond:**
 
 More information on the Responding to Digital Threats Activity can be found in the [DRG Responding to Digital Threats EOI](https://drive.google.com/file/d/14BUC3Ld_wEJzqafOCZYPtKyEdQrRNT99/view).
 
