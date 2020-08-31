@@ -21,7 +21,7 @@ Selected firms or consultants will provide services to assist and strengthen the
 
 ![DRGRFAblog.jpg](/uploads/DRGRFAblog.jpg)`Three young women using a desktop computer from the Digital Inclusion in the Peruvian Amazon, one of five winners of USAID’s second annual Digital Development Awards.`
 
-## How to Respond
+## How to Respond:
 
 More information about the Responding to Digital Threats Activity can be found [here](https://drive.google.com/file/d/14BUC3Ld_wEJzqafOCZYPtKyEdQrRNT99/view).
 
