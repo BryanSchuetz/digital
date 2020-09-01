@@ -6,7 +6,8 @@ tags:
 - Privacy
 - Electronic Cash Transfer
 - Interoperability
-Author: Chloe Messenger
+Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
+  [Rachael Steller](https://www.linkedin.com/in/rachaelsteller/)"
 ---
 
 In late 2019 and early 2020, DAI and our partner [Caribou Digital ](https://www.cariboudigital.net/)worked closely with the UK Foreign, Commonwealth and Development Office (FDCO, formerly DFID) on a review and analysis of identification and registration systems in protracted and recurrent crises. The research explored the feasibility of humanitarian aid MIS being designed to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital and protection brains also pushed us to focus on the risks associated with data collection, sharing and storage.
