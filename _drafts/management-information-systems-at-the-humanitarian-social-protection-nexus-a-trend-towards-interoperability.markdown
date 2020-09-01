@@ -11,8 +11,6 @@ Author: Chloe Messenger
 
 In late 2019 and early 2020, DAI and our partner [Caribou Digital ](https://www.cariboudigital.net/)worked closely with the UK Foreign, Commonwealth and Development Office (FDCO, formerly DFID) on a review and analysis of identification and registration systems in protracted and recurrent crises. The research explored the feasibility of humanitarian aid MIS being designed to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital and protection brains also pushed us to focus on the risks associated with data collection, sharing and storage.
 
-* 
-
 This blog is the first in a series on MIS in crises, as the findings from our research are many and broad. For those interested in reading more about the research, the external report can be found [here.](https://www.dai.com/uploads/bsic-MIS-2020.pdf)
 <!--more-->
 
