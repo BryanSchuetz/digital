@@ -5,6 +5,7 @@ date: 2020-09-01 04:33:00 -04:00
 tags:
 - Privacy
 - Electronic Cash Transfer
+- Interoperability
 Author: Chloe Messenger
 ---
 
