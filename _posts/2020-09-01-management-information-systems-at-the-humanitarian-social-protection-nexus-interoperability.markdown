@@ -10,6 +10,7 @@ tags:
 Author: "[Chloe Messenger](https://dai-global-digital.com/authors/chloe-messenger/)
   [Rachael Steller](https://www.linkedin.com/in/rachaelsteller/)"
 social-image: "/uploads/HSNP%20finger%20prints-837a16.jpg"
+thumbnail: "/uploads/HSNP%20finger%20prints-837a16.jpg"
 ---
 
 In late 2019 and early 2020, DAI and our partner [Caribou Digital](https://www.cariboudigital.net/) worked closely with the U.K. Department for International Development (now called the [U.K. Foreign Commonwealth and Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to analyse identification and registration systems in protracted and recurrent crises. The research explored the feasibility of designing humanitarian aid management information systems (MIS) to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital, and protection brains also pushed us to focus on the risks associated with data collection, sharing, and storage.
