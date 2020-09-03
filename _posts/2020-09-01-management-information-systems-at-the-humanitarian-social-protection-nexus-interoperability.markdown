@@ -2,7 +2,6 @@
 title: 'Management Information Systems at the Humanitarian-Social Protection Nexus,
   Part 1: Interoperability'
 date: 2020-09-01 04:33:00 -04:00
-published: false
 tags:
 - Privacy
 - Electronic Cash Transfer
