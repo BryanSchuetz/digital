@@ -1,4 +1,19 @@
 
+- title: "Management Information Systems at the Humanitarian-Social Protection Nexus, Part 1: Interoperability"
+  pub: "Digital"
+  date: 2020-09-01
+  link: "https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html?utm_source=daidotcom"
+  summary: "In late 2019 and early 2020, DAI and our partner Caribou Digital worked closely with the U.K. Department for International Development (now called the U.K. Foreign Commonwealth and Development Office) to analyse identification and registration systems in protracted and recurrent crises. The research explored the feasibility of designing humanitarian aid management information systems (MIS) to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital, and protection brains also pushed us to focus on the risks associated with data collection, sharing, and storage.
+
+This blog is the first in a series on MIS in crises, as the findings from our research are many and broad. For those interested in reading more about the research, the external report can be found here.
+
+HSNP Kenya - Beneficiary fingerprint registration"
+  tags:
+    - digital acceleration 
+    - Privacy 
+    - Electronic Cash Transfer 
+    - Interoperability 
+
 - title: "Respond Now: USAID Seeks Research Expertise in Responding to Digital Threats"
   pub: "Digital"
   date: 2020-08-28
@@ -214,14 +229,4 @@ For the past two months, COVID-19 has made its way beyond the borders of the Uni
     - Events 
     - Virtual Workshops 
     - Digital Collaboration 
-
-- title: "Castles Made of Sand: Digital Transformation From the Silicon Up"
-  pub: "Digital"
-  date: 2020-05-15
-  link: "https://dai-global-digital.com/castles-made-of-sand-digital-transformation-from-the-silicon-up.html?utm_source=daidotcom"
-  summary: "Silicon chips are literally black boxes to most of us. We understand that transistors are somehow etched in tiny patterns on these silicon wafers, and that these patterns make possible the computers, phones, and other electronic devices that run our modern world. Digital solutions are built on a foundation of silicon, and the landscape of silicon chip production is changing in ways that could have far-reaching impact on how that foundation is laid, and by whom."
-  tags:
-    - digital acceleration 
-    - Makerspace 
-    - Hardware 
 
