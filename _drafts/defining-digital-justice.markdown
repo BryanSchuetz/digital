@@ -21,7 +21,7 @@ My research unearthed many meanings for this one idea. For example, I came acros
 
 While there is no one correct interpretation, I gravitated towards that of the [Detroit Digital Justice Coalition (DDJC)](http://detroitdjc.org/about/story/). The DDJC, which actually developed a set of Digital Justice Principles, defines digital justice as a cousin to media justice—concerned with communication as a human right and elevating the participation of those “[traditionally excluded](https://nfcb.org/basics-of-digital-justice/) from and attacked by media and technology." The four pillars of the principles are: Access, Participation, Common Ownership, and Healthy Communities. Each pillar is further defined below:
 
-### *Access*
+### Access
 
 * Digital justice ensures that all members of our community have equal access to media and technology, as producers as well as consumers.
 
@@ -29,7 +29,7 @@ While there is no one correct interpretation, I gravitated towards that of the [
 
 * Digital justice values all different languages, dialects, and forms of communication.
 
-### *Participation*
+### Participation
 
 * Digital justice prioritizes the participation of people who have been traditionally excluded from and attacked by media and technology.
 
@@ -39,13 +39,13 @@ While there is no one correct interpretation, I gravitated towards that of the [
 
 * Digital justice demystifies technology to the point where we can not only use it, but create our own technologies and participate in the decisions that will shape communications infrastructure.
 
-### *Common Ownership*
+### Common Ownership
 
 * Digital justice fuels the creation of knowledge, tools, and technologies that are free and shared openly with the public.
 
 * Digital justice promotes diverse business models for the control and distribution of information, including cooperative business models and municipal ownership.
 
-### *Healthy Communities*
+### Healthy Communities
 
 * Digital justice provides spaces through which people can investigate community problems, generate solutions, create media, and organize together.
 
