@@ -14,11 +14,11 @@ thumbnail: "/uploads/HSNP%20finger%20prints-837a16.jpg"
 
 In late 2019 and early 2020, DAI and our partner [Caribou Digital](https://www.cariboudigital.net/) worked closely with the U.K. Department for International Development (now called the [U.K. Foreign, Commonwealth, and Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to analyse identification and registration systems in protracted and recurrent crises. The research explored the feasibility of designing humanitarian aid management information systems (MIS) to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital, and protection brains also pushed us to focus on the risks associated with data collection, sharing, and storage.
 
+<!--more-->
+
 This blog is the first in a series on MIS in crises, as the findings from our research are many and broad. For those interested in reading more about the research, the external report can be found [here.](https://www.dai.com/uploads/bsic-MIS-2020.pdf)
 
 ![HSNP finger prints.jpg](/uploads/HSNP%20finger%20prints.jpg)`HSNP Kenya - Beneficiary fingerprint registration`
-
-<!--more-->
 
 In targeted distribution systems, such as those found in humanitarian response or social protection programming, data systems to register and identify recipients of transfers underpin everything. They tell the implementer who is eligible, who is not, what they should get, and for how long. As the data defines who gets what, collection of the data is often the beneficiaries’ first point of contact with the responders. This contact happens when they are at their most vulnerable and the data held is extremely sensitive.
 
