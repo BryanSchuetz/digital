@@ -9,13 +9,9 @@ For the U.S. Agency for International Development (USAID), project site visits a
 
 It became quickly clear that site visits could no longer take place. So how could projects—especially those in remote areas without reliable internet connectivity—replicate the unique experience of visiting a project in the field? 
  
-Site visits to projects—such as this one to a project in Haiti in 2015—are important components of USAID Mission performance management and knowledge exchange. Photo: USAID AVANSE. 
+[IMG_1579.JPG](/uploads/IMG_1579.JPG)`Site visits to projects—such as this one to a project in Haiti in 2015—are important components of USAID Mission performance management and knowledge exchange. Photo: USAID AVANSE.` 
 
 One of our projects, the [Scaling Up Nutrition Technical Assistance (SUN TA)](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) activity in Zambia, decided to take on the challenge by hosting USAID’s first virtual site visit in the country. Using a video conferencing platform and having project staff join live from the field, the SUN TA team took 40 participants in Zambia on a tour of activities at four different locations. The virtual visit was well-received by USAID and can serve as a model for other development projects that are adapting to a post-COVID-19 world. 
- 
-Scenes from USAID Zambia SUN TA’s community garden activity, which provides training in growing nutritious produce.
-
-### A Virtual Visit 
 
 Under COVID-19 restrictions, the SUN TA team knew they would have to pivot to a virtual format. But given the breadth of SUN TA’s work, project staff wanted to offer something beyond a typical video presentation in a conference room. 
 
@@ -27,6 +23,8 @@ The innovation was highly successful—but pulling it off meant days of preparat
 “We did a test run two days before to assess the challenges and to familiarize the team with the application,” said Carrim Banda, SUN TA’s Data and IT Systems Manager. “We planned ahead by equipping our colleagues on site to use different mobile phone networks for their data in case one failed.”
 
 Virtual visit participants included USAID officials, SUN TA senior leadership, field staff, government officials, and beneficiaries dispersed between Lusaka and three different sites in Kasama District of Zambia’s Northern Province. 
+
+![SUNTA1.png](/uploads/SUNTA1.png)`Scenes from SUN TA’s community garden activity, which provides training in growing nutritious produce.`
 
 SUN TA showcased its work in health and nutrition, agriculture and livelihoods, and water, sanitation and hygiene. The event simulated a site tour, where observers got to see gardens providing households with a variety of nutritious vegetables, community-based volunteers, and groups of mothers learning about better childcare practices, new infrastructure contributing to improved sanitation and hygiene, and community development staff facilitating training of savings and loans groups. 
 
