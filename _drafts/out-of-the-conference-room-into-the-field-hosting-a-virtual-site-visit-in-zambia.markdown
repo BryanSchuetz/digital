@@ -15,6 +15,8 @@ thumbnail: "/uploads/smSUNTA.png"
 For the U.S. Agency for International Development (USAID), project site visits are essential for country Missions around the world. Site visits are required as part of each Mission’s performance management and provide opportunities for staff to better understand each activity’s unique context and how local communities are experiencing USAID support. In the spring, travel restrictions to curb the spread of the COVID-19 pandemic brought travel to a halt around the world. USAID project teams hustled to determine what essential activities could be continued safely, and what would have to be put on hold. 
 
 It became quickly clear that site visits could no longer take place. So how could projects—especially those in remote areas without reliable internet connectivity—replicate the unique experience of visiting a project in the field? 
+
+<!--more-->
  
 [IMG_1579.JPG](/uploads/IMG_1579.JPG)`Site visits to projects—such as this one to a project in Haiti in 2015—are important components of USAID Mission performance management and knowledge exchange. Photo: USAID AVANSE.` 
 
