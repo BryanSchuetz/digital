@@ -18,7 +18,7 @@ It became quickly clear that site visits could no longer take place. So how coul
 
 <!--more-->
  
-[IMG_1579.JPG](/uploads/IMG_1579.JPG)`Site visits to projects—such as this one to a project in Haiti in 2015—are important components of USAID Mission performance management and knowledge exchange. Photo: USAID AVANSE.` 
+![zambia.JPG](/uploads/zambia.JPG)`Site visits to projects—such as this one to a project in Haiti in 2015—are important components of USAID Mission performance management and knowledge exchange. Photo: USAID AVANSE.` 
 
 One of our projects, the [Scaling Up Nutrition Technical Assistance (SUN TA)](https://www.dai.com/our-work/projects/zambia-scaling-up-nutrition-technical-assistance-zambia-sun-ta) activity in Zambia, decided to take on the challenge by hosting USAID’s first virtual site visit in the country. Using a video conferencing platform and having project staff join live from the field, the SUN TA team took 40 participants in Zambia on a tour of activities at four different locations. The virtual visit was well-received by USAID and can serve as a model for other development projects that are adapting to a post-COVID-19 world. 
 
