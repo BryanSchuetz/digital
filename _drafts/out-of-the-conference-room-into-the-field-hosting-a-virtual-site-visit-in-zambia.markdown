@@ -2,7 +2,14 @@
 title: 'Out of the Conference Room, Into the Field: Hosting a Virtual Site Visit in
   Zambia'
 date: 2020-09-11 15:37:00 -04:00
+tags:
+- COVID-19
+- ICT
+- Virtual Workshops
+- Digital
 Author: 'Reginald Ntomba '
+social-image: "/uploads/smSUNTA.png"
+thumbnail: "/uploads/smSUNTA.png"
 ---
 
 For the U.S. Agency for International Development (USAID), project site visits are essential for country Missions around the world. Site visits are required as part of each Mission’s performance management and provide opportunities for staff to better understand each activity’s unique context and how local communities are experiencing USAID support. In the spring, travel restrictions to curb the spread of the COVID-19 pandemic brought travel to a halt around the world. USAID project teams hustled to determine what essential activities could be continued safely, and what would have to be put on hold. 
