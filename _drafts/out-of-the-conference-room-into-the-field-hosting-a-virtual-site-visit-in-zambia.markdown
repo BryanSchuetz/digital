@@ -7,7 +7,7 @@ tags:
 - ICT
 - Virtual Workshops
 - Digital
-Author: 'Reginald Ntomba '
+Author: "[Reginald Ntomba](https://www.linkedin.com/in/reginald-ntomba-621a9b130/?originalSubdomain=zm)"
 social-image: "/uploads/smSUNTA.png"
 thumbnail: "/uploads/smSUNTA.png"
 ---
