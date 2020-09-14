@@ -1,5 +1,5 @@
 ---
-title: 'Out of the Conference Room, Into the Field: Hosting a Virtual Site Visit in
+title: 'Out of the Conference Room, into the Field: Hosting a Virtual Site Visit in
   Zambia'
 date: 2020-09-11 15:37:00 -04:00
 tags:
