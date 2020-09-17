@@ -39,6 +39,6 @@ SUN TA showcased its work in health and nutrition, agriculture and livelihoods, 
 “We are overwhelmed by what we have seen. You have really done a great job, we are short of words and we are really grateful,” said Helen Chirwa, the project’s Contractor Office Representative (COR) at the USAID Mission in Lusaka.
 
 Virtual visit attendees tuned in from multiple locations in Zambia.
-The visit was signified an innovative approach to the unforeseen circumstances brought on by the global pandemic and stands as an example of how adversity results in ingenuity. Given the virtual visit's success, it is definitely something SUN TA will use again and adapt for different settings in future.
+The visit was an innovative approach to the unforeseen circumstances brought on by the global pandemic and stands as an example of how adversity results in ingenuity. Given the virtual visit's success, it is definitely something SUN TA will use again and adapt for different settings in future.
 
 *Reginald Ntomba is SUN TA’s Communications and Learning Manager.*
