@@ -4,6 +4,9 @@ title: 'Management Information Systems at the Humanitarian-Social Protection Nex
 date: 2020-09-14 14:00:00 -04:00
 tags:
 - privacy
+- interoperability
+- MIS
+- humanitarian response
 Author: Chloe Messenger
 social-image: "/uploads/chloemisblog.jpg"
 thumbnail: "/uploads/chloemisblog.jpg"
