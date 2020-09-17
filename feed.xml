@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Sep 2020 15:56:56 -0400</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2020 15:56:56 -0400</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2020 08:46:47 -0400</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2020 08:46:47 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/smSUNTA.png" medium="image" /> 
+        <title>Out of the Conference Room, into the Field: Hosting a Virtual Site Visit in Zambia</title>
+        <description>&lt;p&gt;For the U.S. Agency for International Development (USAID), project site visits are essential for country Missions around the world. Site visits are required as part of each Mission’s performance management and provide opportunities for staff to better understand each activity’s unique context and how local communities experience USAID support. This spring, the COVID-19 pandemic brought travel to a halt around the world. USAID project teams hustled to determine what essential activities could be continued safely, and what would have to be put on hold.&lt;/p&gt;
+
+&lt;p&gt;It quickly became clear that site visits could no longer take place. So how could projects—especially those in remote areas without reliable internet connectivity—replicate the important experience of visiting a project in the field?&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Sep 2020 15:37:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/reginald-ntomba-621a9b130/?originalSubdomain=zm">Reginald Ntomba</a>
+</author>
+        <link>https://dai-global-digital.com/out-of-the-conference-room-into-the-field-hosting-a-virtual-site-visit-in-zambia.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/out-of-the-conference-room-into-the-field-hosting-a-virtual-site-visit-in-zambia.html</guid>
+        
+        <category>COVID-19</category>
+        
+        <category>ICT</category>
+        
+        <category>Virtual Workshops</category>
+        
+        <category>Digital</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Araba%20Blog%20-%20BLM.jpg" medium="image" /> 
@@ -188,27 +213,6 @@
         <category>Digital Transformation</category>
         
         <category>Digital Collaboration</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/icons.PNG" medium="image" /> 
-        <title>What Are Algorithms and How Are They Biased?</title>
-        <description>&lt;p&gt;In the age of &lt;a href=&quot;https://en.wikipedia.org/wiki/Big_Tech&quot;&gt;Big Tech&lt;/a&gt; and social media, the term &lt;em&gt;algorithm&lt;/em&gt; gets thrown around a lot to describe the unseen mechanism that determines what people see on social media or the suggestions that they receive on Netflix. But what exactly is an algorithm? And can an algorithm be biased?&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Jul 2020 06:00:00 -0400</pubDate>
-        <author>Gratiana Fu
-</author>
-        <link>https://dai-global-digital.com/algorithms-in-development.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/algorithms-in-development.html</guid>
-        
-        <category>Algorithmic Bias</category>
-        
-        <category>Digital Health</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
