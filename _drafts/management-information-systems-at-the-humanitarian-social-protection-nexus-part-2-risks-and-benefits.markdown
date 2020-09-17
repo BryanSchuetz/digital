@@ -2,6 +2,8 @@
 title: 'Management Information Systems at the Humanitarian-Social Protection Nexus,
   Part 2: Risks and Benefits'
 date: 2020-09-14 14:00:00 -04:00
+tags:
+- privacy
 Author: Chloe Messenger
 social-image: "/uploads/chloemisblog.jpg"
 thumbnail: "/uploads/chloemisblog.jpg"
@@ -9,7 +11,7 @@ thumbnail: "/uploads/chloemisblog.jpg"
 
 In late 2019 and early 2020, DAI and our partner [Caribou Digital](https://www.cariboudigital.net/) worked closely with the UK Department for International Development (now called the [UK Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the external report can be found [here.](https://www.dai.com/uploads/bsic-MIS-2020.pdf)
 
-In this blog – the second in the series \[link\] – we will be digging into data protection and the potential consequences of increasing centralisation. Through an assessment of the literature and existing practice, our research team found that implications of fragmented Management Information Systems (MIS) can be grouped into the following thematic areas: political, protection, legal and ethical, commercial, and operational. As there are numerous risks and benefits of increased centralisation of MIS (our previous blog outlined some of the arguments), we cannot possibly provide an exhaustive list here. But in this blog, we intend to give an overview of some of the considerations, including where care needs to be taken before proceeding; where the political economy must be assessed; and where more data needs to be collected.
+In this blog – the second in the series – we will be digging into data protection and the potential consequences of increasing centralisation. Through an assessment of the literature and existing practice, our research team found that implications of fragmented Management Information Systems (MIS) can be grouped into the following thematic areas: political, protection, legal and ethical, commercial, and operational. As there are numerous risks and benefits of increased centralisation of MIS (our [previous blog](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html) outlined some of the arguments), we cannot possibly provide an exhaustive list here. But in this blog, we intend to give an overview of some of the considerations, including where care needs to be taken before proceeding; where the political economy must be assessed; and where more data needs to be collected.
 
 <!--more-->
 ![chloemisblog.jpg](/uploads/chloemisblog.jpg)`HSNP Kenya Project: beneficiary registration with ID`
