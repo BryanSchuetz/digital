@@ -14,7 +14,7 @@ In this blog – the second in the series \[link\] – we will be digging into d
 <!--more-->
 ![chloemisblog.jpg](/uploads/chloemisblog.jpg)`HSNP Kenya Project: beneficiary registration with ID`
 
-## **Political**
+![graphic1_political.png](/uploads/graphic1_political.png)## **Political**
 
 There is widespread recognition in the literature of the potential for politicisation of identification and registration data and political manipulation and control of databases by host governments, particularly during crises. However, this does not seem to translate into a recognition of the risks “in real life”. Whilst there is little other than anecdotal evidence of government manipulation of personal data, single or centralised datasets carry increased risks due to the significant amount of data in one place. The implications of political access to personal data include discrimination (e.g. using personal data to withhold benefits from a minority ethnic group) or personal security risks (e.g. using personal data to locate a targeted population who are under threat of personal attack).
 
@@ -32,7 +32,7 @@ One potential positive aspect of protection deemed possible by interoperability 
 
 There are numerous legal and ethical concerns around the increased centralisation of management information systems. As is the case in digital governance more broadly, there is consensus that humanitarian assistance is digitising faster than the legal and ethical frameworks governing this digitisation. There may not be a sufficient legal framework in the country to govern data collection and storage, the government may not have the authority (in practice) to monitor and enforce the laws, or there may be capacity concerns. Indeed, the conversation around digital governance is a huge one, with consensus on the concerning lack of regulation and action to date. The technology industry has largely come up with non-binding codes of ethics and standards on digitisation, most of which are not grounded in law. In the humanitarian and development sectors, there is a proliferation of guidance for ethical data collection (the one by [the International Committee of the Red Cross](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) is very comprehensive), ethics around biometric data collection (e.g. Oxfam), etc., but no clear legal framework that is internationally binding.
 
-## Commercial 
+## Commercial
 
 The main commercial benefit of increased centralisation of management information systems is de-duplication (i.e. ensuring that the same beneficiary does not receive multiple benefits, either from the same programme or across programmes). As noted earlier, the evidence of duplication in humanitarian assistance is few and far between, but there is a sense that where systems can speak to one another automatically, these efficiency gains may be valuable. However, initial data sharing is often done manually, leading to inefficiency and a human resource burden. The costs of these additional steps may significantly outweigh any savings from reduced duplication of assistance.
 
