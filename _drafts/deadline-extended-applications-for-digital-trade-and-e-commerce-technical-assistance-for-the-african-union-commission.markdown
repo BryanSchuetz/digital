@@ -1,5 +1,5 @@
 ---
-title: 'Deadline extended: Applications for Digital Trade and e-Commerce Technical
+title: 'Deadline Extended: Applications for Digital Trade and e-Commerce Technical
   Assistance for the African Union Commission'
 date: 2020-09-17 14:59:00 -04:00
 tags:
