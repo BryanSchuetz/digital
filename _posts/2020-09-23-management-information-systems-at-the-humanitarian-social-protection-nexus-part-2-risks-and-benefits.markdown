@@ -1,7 +1,7 @@
 ---
 title: 'Management Information Systems at the Humanitarian-Social Protection Nexus,
   Part 2: Risks and Benefits'
-date: 2020-09-24 14:00:00 -04:00
+date: 2020-09-23 14:00:00 -04:00
 tags:
 - privacy
 - interoperability
