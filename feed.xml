@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Sep 2020 09:42:58 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2020 09:42:58 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2020 10:21:15 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2020 10:21:15 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/chloemisblog.jpg" medium="image" /> 
+        <title>Management Information Systems at the Humanitarian-Social Protection Nexus, Part 2: Risks and Benefits</title>
+        <description>&lt;p&gt;In late 2019 and early 2020, DAI and our partner &lt;a href=&quot;https://www.cariboudigital.net/&quot;&gt;Caribou Digital&lt;/a&gt; worked closely with the former U.K. Department for International Development, now called the &lt;a href=&quot;https://www.gov.uk/government/organisations/foreign-commonwealth-development-office&quot;&gt;Foreign, Commonwealth and Development Office (FCDO)&lt;/a&gt;) to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the external report can be found &lt;a href=&quot;https://www.dai.com/uploads/bsic-MIS-2020.pdf&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In this blog—the second in the series—we will dig into data protection and the potential consequences of increasing centralisation. Through an assessment of the literature and existing practice, our research team found that implications of fragmented management information systems (MIS) can be grouped into the following thematic areas: political, protection, legal and ethical, commercial, and operational. As there are numerous risks and benefits of increased centralisation of MIS (our &lt;a href=&quot;https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html&quot;&gt;previous blog&lt;/a&gt; outlined some of the arguments), we cannot possibly provide an exhaustive list here. But in this post, we will give an overview of some of the considerations, including where care needs to be taken before proceeding; where the political economy must be assessed; and where more data needs to be collected.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Sep 2020 14:00:00 -0400</pubDate>
+        <author>Chloe Messenger
+</author>
+        <link>https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html</guid>
+        
+        <category>privacy</category>
+        
+        <category>interoperability</category>
+        
+        <category>MIS</category>
+        
+        <category>humanitarian response</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/RFP_AfricaU_blog.jpg" medium="image" /> 
@@ -192,25 +217,6 @@
         <category>Social Media</category>
         
         <category>Agriculture</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/2018%20MHI%20in%20the%20United%20States.png" medium="image" /> 
-        <title>How the COVID-19 Pandemic is Accentuating the Digital Divide in the United States</title>
-        <description>&lt;p&gt;For those of us who work in digital development internationally, the pervasiveness of the global digital divide is constantly top of mind. The majority of our work requires us to understand the digital ecosystem in which we are operating to reach different segments of the population in a specific country. At home in the United States, COVID-19 and the push for virtual schooling and telemedicine has laid bare, for many Americans, how significant and challenging the digital divide is within the United States.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Aug 2020 06:00:00 -0400</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/covid-19.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/covid-19.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>COVID-19</category>
         
         
       </item>
