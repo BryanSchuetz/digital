@@ -1,7 +1,11 @@
 ---
 title: Digital Development in Southern Africa
-date: 2020-09-29 16:42:00 -04:00
+date: 2020-10-01 04:42:00 -04:00
+tags:
+- Digital Ecosystems
 Author: Chloe Messenger
+social-image: "/uploads/SAblog.jpg"
+thumbnail: "/uploads/SAblog.jpg"
 ---
 
 In May 2020, [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/) (DAI Center for Digital Acceleration) and I worked with the UK Foreign Commonwealth Development Office (FCDO)-funded Trade Forward Southern Africa project to map the use of digital communications (i.e. social media use, messaging apps, websites, mobile phones) for trade-related information amongst a sample of Small and Medium Enterprises (SMEs) and other trade stakeholders, across sectors in Southern Africa.
