@@ -1,5 +1,5 @@
 ---
-title: Online tracking
+title: The Digital Development Community Must Understand Online Tracking
 date: 2020-09-29 13:07:00 -04:00
 Author: Trevor Olexy
 ---
@@ -16,30 +16,29 @@ This article started as an observation of echo chambers and several rhetorical q
 
 ## Who Doesn't Love Cookies?!
 
-Let’s wish we were eating cookies and instead talk about your \*browser \*cookies. Cookies are basically small packets of information about you, your computer, and your visit to a site. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. There are two main types of cookies you should consider: first-party and third-party. Each of these is persistent, meaning it is stored in your browser (aka on your computer) until its self-prescribed expiration date.
+Let’s wish we were eating cookies and instead talk about your *browser's* cookies. Cookies are basically small packets of information about you, your computer, and your visit to a site. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. There are two main types of cookies you should consider: first-party and third-party. Each of these is persistent, meaning it is stored in your browser (aka on your computer) until its self-prescribed expiration date. There are two types of cookies people should be aware of:
 
-**First-party** cookies are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site *every* time, do you? Super helpful, right?
+**1. First-party** cookies are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site *every* time, do you? Super helpful, right?
 
 But…
 
-**Third-party** cookies are the ones that get, sneaky.  From [Privacy.Net,](https://privacy.net/stop-cookies-tracking/)“*third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated.*” This is often how numerous sites know all about your actions and purchases on other seemingly unrelated sites. Personally, I didn't explicitly allow any other sites to have my information, but by using a particular site with agreements hidden in fine print, perhaps I inadvertently did.
+**2. Third-party** cookies are the ones that get, sneaky.  Accordingly to [Privacy.Net,](https://privacy.net/stop-cookies-tracking/)“*third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated.*” This is often how numerous sites know about your actions and purchases on other seemingly unrelated sites. Personally, I don't explicitly allow any other sites to have my information, but by using a particular site with agreements hidden in fine print, perhaps I inadvertently have.
 
 **How do you protect yourself, or at least limit the amount of tracking that happens in the future?**
 
 1. Delete all of your current cookies. Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: *this will subsequently require you to re-login to all of the sites you have visited previously*. You know those “remember this computer” checkboxes? Well they add that site’s cookies so you’ll have to click those again next time you login.
 
-2. Block third-party cookies (see image below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future
+2. Block third-party cookies (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future
 
-Example in Chrome.  Search for how to do this in your own browser if you do not use Chrome.
+Below is an example of there you can block third-party cookies in Chrome.  Search for how to do this in your own browser if you do not use Chrome.
 
 ![3rdpartycookie.png](/uploads/3rdpartycookie.png)
 
 ## Browser finger-printing
 
-Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity.
-This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed inform about your COMPUTER itself.
+Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity. This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed inform about your COMPUTER itself.
 
-Now this might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a VPN will hide your exact location, but will not protect you from identification through browser finger-printing.
+This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a VPN will hide your exact location, but will not protect you from identification through browser finger-printing.
 
 ![scan_1.png](/uploads/scan_1.png)
 
