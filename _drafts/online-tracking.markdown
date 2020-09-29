@@ -4,7 +4,7 @@ date: 2020-09-29 13:07:00 -04:00
 Author: Trevor Olexy
 ---
 
-I’ll start in the ECHO Chamber chamber chamber chamber….
+I’ll start in the echo CHAMBER *CHAmber* *chamber*….
 
 This article started as an observation of echo chambers and several rhetorical questions to get the reader to think a bit more deeply about their social media presence/use/profile. This led me to think of ideas on how to break the echo chamber, which led to exploring recommender algorithms, and then finally to the *source*: tracking users’ data. Each of these is a massive topic in their own right, so before moving to the data tracking, I will just leave you with some recipes for thought:
 
