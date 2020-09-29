@@ -1,5 +1,5 @@
 ---
-title: Online Activity Tracking, Briefly
+title: Online tracking
 date: 2020-09-29 13:07:00 -04:00
 Author: Trevor Olexy
 ---
@@ -10,7 +10,7 @@ This article started as an observation of echo chambers and several rhetorical q
 
 1 **Does it matter to you that your online experience is tailored?**
 
-2 **If you could manually manipulate your social media feed, would you? **
+2 If you could manually manipulate your social media feed, would you?
 I would venture to say most people are quite comfortable in their current social media environment. After all, that is the point of recommending algorithms, give you things that you already like or might also like. What benefit does the algorithm have to change that for the user?
 
 3 **If you did curate your own social media experience, do you think it would be any different than it is now?** Would the intentionality behind the decisions actually make a difference in what you follow (social media) or search for (general online presence)?
@@ -32,11 +32,9 @@ This is often how numerous sites now all about your actions and purchases on oth
 
 How do you protect yourself, or at least limit the amount of tracking that happens in the future?
 
+1. Delete all of your current cookies. Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: this will subsequently require you to re-login to all of the sites you have visited previously. You know those “Remember this computer” checkboxes? Well they add that site’s cookies. You’ll have to click those again.
 
-Step one, delete all of your current cookies. Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: this will subsequently require you to re-login to all of the sites you have visited previously. You know those “Remember this computer” checkboxes? Well they add that site’s cookies. You’ll have to click those again.
-
-
-Step two, block third-party cookies. Tracking ads can be blocked so you don’t see them but this still means you are being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future.
+2. Block third-party cookies (see image below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future
 
 Example in Chrome.  Search for how to do this in your own browser if you do not use Chrome.
 
