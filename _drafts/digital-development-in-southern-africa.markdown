@@ -20,7 +20,7 @@ Namibia and South Africa, for instance, are ranked highly by the [Inclusive Inte
 
 In Mozambique, Lesotho and Eswatini, the relatively low level of digital skills are considered a barrier to uptake. In Mozambique, a combination of often poor digital skills and exorbitant costs are thought to be the cause of the [10% internet penetration rate](https://researchictafrica.net/after-access-south-africa-state-of-ict-2017-south-africa-report_04/). A United Nations Conference on Trade and Development (UNTAD) [study on e-trade readiness](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2483) in Lesotho, as well as a government analysis, suggests that digital skills are the biggest barrier to trade and business digitalisation. In all countries, there was a concern that most SMEs lack the digital skills to fully make use of social media for their own benefit, whether for business or information access.
 
-## Data cost is prohibitive for many
+## Data Cost is Prohibitive for Many
 
 As access to the internet in Southern Africa (and indeed [across the region](https://www.broadbandcommission.org/Documents/working-groups/DigitalMoonshotforAfrica_Report.pdf)) is principally through mobile data, non-competitive regulatory environments and high taxation burdens have in many cases made mobile data prohibitively expensive. As many SMEs and other stakeholders principally use their mobile to conduct business, the cost of data in many cases restricts their frequency and quality of use and impacts upon app choice.
 
@@ -30,7 +30,11 @@ With the exception of Botswana, cost was considered to be the most significant b
 
 For many interviewees, the cost of data meant they could not access websites, but preferred to share information via WhatsApp, phone calls or in person. Emails are not checked often due in part to download size, but stakeholders prefer to share information via WhatsApp. Radio is still an important source of information for those living in rural areas, or those who cannot afford mobile data.
 
-## A shift towards digital media is apparent, but by no means universal
+![PhoneAfrica.jpg](/uploads/PhoneAfrica.jpg)
+
+![SAblog.jpg](/uploads/SAblog.jpg)`Photo by Christian Wiediger on Unsplash`
+
+## A Shift Towards Digital Media is Apparent, but by No Means Universal
 
 In most countries in Southern Africa, there is reportedly the beginnings of a shift from traditional media and communications methods (telephone calls, SMS) towards the use of WhatsApp and Social Media.
 
