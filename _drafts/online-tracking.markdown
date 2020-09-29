@@ -11,10 +11,12 @@ I’ll start in the ECHO Chamber chamber chamber chamber….
 
 This article started as an observation of echo chambers and several rhetorical questions to get the reader to think a bit more deeply about their social media presence/use/profile. This led me to think of ideas on how to break the echo chamber, which led to exploring recommender algorithms, and then finally to the SOURCE: tracking users’ data. Each of these is a massive topic in their own right, so before moving to the data tracking, I will just leave you with some recipes for thought:
 
-1 **Firstly, does it matter to you that your online experience is tailored?**
+1 D**oes it matter to you that your online experience is tailored?**
 
-2 \*\*If you could manually manipulate your social media feed, would you? \*\*
+2 **If you could manually manipulate your social media feed, would you? **
 I would venture to say most people are quite comfortable in their current social media environment. After all, that is the point of recommending algorithms, give you things that you already like or might also like. What benefit does the algorithm have to change that for the user?
+
+
 3 **If you did curate your own social media experience, do you think it would be any different than it is now?** Would the intentionality behind the decisions actually make a difference in what you follow (social media) or search for (general online presence)?
 
 And now moving on…on…on…on
