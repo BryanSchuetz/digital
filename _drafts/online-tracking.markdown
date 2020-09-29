@@ -6,7 +6,7 @@ Author: Trevor Olexy
 
 I’ll start in the echo CHAMBER *CHAmber* *chamber*….
 
-This article started as an observation of echo chambers and several rhetorical questions to get the reader to think a bit more deeply about their social media presence/use/profile. This led me to think of ideas on how to break the echo chamber, which led to exploring recommender algorithms, and then finally to the *source*: tracking users’ data. Each of these is a massive topic in their own right, so before moving to the data tracking, I will just leave you with some recipes for thought:
+This article started as an observation of echo chambers and several rhetorical questions to get the reader to think a bit more deeply about their social media presence/use/profile. This led me to think of ideas on how to break the echo chamber, which led to exploring recommender algorithms, and then finally to the *source*: tracking users’ data. Each of these are a massive topic in their own right, so before moving to the data tracking, I will just leave you with some food for thought:
 
 1. **Does it matter to you that your online experience is tailored?**
 
