@@ -10,6 +10,8 @@ The aim of the Trade Forward Programme is to support growth in trade, improve ge
 
 This research sought to understand how institutions and businesses across the region gather insights into the way trade-related information is accessed and shared. In light of the COVID-19 pandemic, as many are pushed towards remote working and moving business and communications online, understanding how programme stakeholders communicate and access information through digital means has become increasingly important. Erica and I spoke to small and medium enterprises (SMEs), trade unions, development practitioners, chambers of commerce and other trade sector stakeholders to understand how they are currently using communication tools and access information.
 
+![MapofSAfrica.PNG](/uploads/MapofSAfrica.PNG)`Areas in green represent countries assessed.`
+
 ## Significant Variations in Infrastructure and Access at a Country Level
 
 Regulatory and political environments, as well as internet connectivity have a significant impact on access to the internet for many organisations. The African continent suffers behind others in internet and electricity infrastructure, particularly in rural areas. Indeed in [this blog](https://blogs.worldbank.org/digital-development/africas-connectivity-gap-can-map-tell-story) by the World Bank Group, they estimate that approximately 45% of Africa’s population is more than 10km from fiber network infrastructure.
