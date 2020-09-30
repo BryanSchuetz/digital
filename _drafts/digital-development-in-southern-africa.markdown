@@ -14,7 +14,7 @@ In May, [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/) o
 
 <!--more-->
 
-Trade Forward works to support growth in trade, improve gender equality in the trade arena, and alleviate poverty across Botswana, Eswatini (formerly Swaziland), Lesotho, Mozambique, Namibia, and South Africa. The programme falls within the FCDO’s [Global Trade Programme](https://www.gov.uk/government/publications/global-trade-programme) (GTP) of the UK Prosperity Fund.
+Trade Forward works to support growth in trade, improve gender equality in the trade arena, and alleviate poverty across Botswana, Eswatini (formerly Swaziland), Lesotho, Mozambique, Namibia, and South Africa. The programme falls within the FCDO’s [Global Trade Programme](https://www.gov.uk/government/publications/global-trade-programme) (GTP) of the U.K. Prosperity Fund.
 
 We sought to understand how institutions and businesses across the region gather insights into the way trade-related information is accessed and shared. In light of the COVID-19 pandemic, as many people are pushed towards remote working and moving business and communications online, understanding how programme stakeholders communicate and access information through digital means has become increasingly important. Erica and I spoke to SMEs, trade unions, development practitioners, chambers of commerce, and other trade sector stakeholders to understand how they are currently using communication tools and access information.
 
