@@ -1,6 +1,6 @@
 ---
-title: 'New Research: Accessing Digital Data on Trade in Southern Africa Remains Unreliable
-  for Most Stakeholders'
+title: 'Digital Development in Southern Africa: How SMEs Access Trade Data Amid COVID-19
+  pandemic'
 date: 2020-10-01 04:42:00 -04:00
 tags:
 - Digital Ecosystems
