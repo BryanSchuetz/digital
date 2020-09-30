@@ -60,6 +60,6 @@ In all contexts, where trade information was available, it was disparate and dif
 
 By using the insights collected, the programme will be able to design interventions with the user. The findings of this rapid analysis will help the Trade Forward programme to develop a communications and intervention strategy in line with the needs and realities of the SMEs and other trade stakeholders in Southern Africa.
 
-*Note: This research was implemented by DAI’s Center for Digital Acceleration, in collaboration with DAI staff on the Trade Forward programme, and the FCDO.*
+![FCDO](/uploads/dfid.jpg){:.float-left}*Note: This research was implemented by DAI’s Center for Digital Acceleration, in collaboration with DAI staff on the Trade Forward programme, and the FCDO.*
 
 *Though this research was funded through the GTP, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.*
