@@ -1,5 +1,6 @@
 ---
-title: Digital Development in Southern Africa
+title: 'New Research: Accessing Digital Data on Trade in Southern Africa Remains Unreliable
+  for Most Stakeholders'
 date: 2020-10-01 04:42:00 -04:00
 tags:
 - Digital Ecosystems
