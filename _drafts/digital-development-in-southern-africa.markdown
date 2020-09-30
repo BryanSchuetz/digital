@@ -40,9 +40,7 @@ With the exception of Botswana, cost was considered to be the most significant b
 
 For many interviewees, the cost of data means they cannot access websites but prefer to share information via WhatsApp, phone calls, or in person. Emails are not checked often due in part to download size, but stakeholders prefer to share information via WhatsApp. Radio is still an important source of information for those living in rural areas or for those who cannot afford mobile data.
 
-![PhoneAfrica.jpg](/uploads/PhoneAfrica.jpg)
-
-![SAblog.jpg](/uploads/SAblog.jpg)`Photo by Christian Wiediger on Unsplash`
+![SAblog.jpg](/uploads/SAblog.jpg)`Photo from FCDO-funded DIALOGO programme in Mozambique, implemented by DAI`
 
 ## A Shift Towards Digital Media is Apparent, but by No Means Universal
 
