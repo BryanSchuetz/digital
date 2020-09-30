@@ -4,6 +4,7 @@ title: 'Digital Development in Southern Africa: How SMEs Access Trade Data Amid 
 date: 2020-10-01 04:42:00 -04:00
 tags:
 - Digital Ecosystems
+- COVID-19
 Author: Chloe Messenger
 social-image: "/uploads/SAblog.jpg"
 thumbnail: "/uploads/SAblog.jpg"
