@@ -13,7 +13,7 @@ The pandemic and our subsequent response have shown just how important digital d
 
 In April, USAID launched its’ first [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) to assist staff, partners, and programs to navigate exactly these sorts of challenges. The Digital Strategy outlines USAID’s commitment to mitigate humanitarian and development challenges using digital technology and by strengthening open, inclusive, and secure digital ecosystems. The Strategy emphasizes closing the gender digital divide, improving digital literacy, and enhancing investments in digital technology to help achieve these commitments.
 
-**How to Responsibly Invest in Digital Technology**
+## How to Responsibly Invest in Digital Technology
 
 As digital tools proliferate the development sector, we must ensure that the tools are strong, and that policies and infrastructure in place support the use of such technology and address inequalities. Eight topics to consider, built on existing USAID tools and lessons learned from the Ebola response, when assessing a proposal with a digital intervention are:
 
@@ -65,7 +65,7 @@ As digital tools proliferate the development sector, we must ensure that the too
 
 Technology can be key to COVID-19 response and recovery and USAID programming can help to support host country institutions asses relevant technology proposals. [Download this USAID short guide](https://www.usaid.gov/digital-development/covid-19/investing-digital-technology) for more information on responsible investments in digital technology.
 
-**Two Key Responsible Data Considerations**
+## Two Key Responsible Data Considerations
 
 In addition to following general responsible data best practices, there are two areas where international development practitioners should have a special focus when deploying digital tools to support programmatic impact: digital gender divide and digital literacy.
 
@@ -101,11 +101,9 @@ As people increasingly rely on digital tools to support work, education, and del
 
 * Does your activity address and seek to overcome gaps in digital use and skills?
 
-* 
-
 When designing COVID-19 response programs that include digital literacy, [download this USAID short guide](https://www.usaid.gov/digital-development/covid-19/digital-literacy) to avoid increased inequality and ensure that long term response and recovery efforts are made.
 
-**More COVID Considerations**
+## More COVID Considerations
 
 USAID is committed to helping staff as well as development partners navigate both the risks and rewards associated with digital tools—particularly in the face of a global pandemic. We have developed [a series of COVID-19 considerations](https://www.usaid.gov/digital-development/covid-19) on digital payments, data collection, data privacy, cybersecurity, the gender digital divide, digital literacy, and the digital investment tool to inform staff about the opportunities and risks presented by digital tools in the context of COVID-19.
 
