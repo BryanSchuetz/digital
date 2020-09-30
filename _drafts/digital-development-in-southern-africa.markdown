@@ -8,7 +8,7 @@ social-image: "/uploads/SAblog.jpg"
 thumbnail: "/uploads/SAblog.jpg"
 ---
 
-In May, DAI's [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/) (DAI Center for Digital Acceleration) and I worked with the U.K. Foreign, Commonwealth & Development Office (FCDO)-funded Trade Forward Southern Africa project to map the use of digital communications (i.e. social media use, messaging apps, websites, mobile phones) for trade-related information amongst a sample of small and medium enterprises (SMEs) and other trade stakeholders across sectors in Southern Africa.
+In May, [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/) of DAI's Center for Digital Acceleration, and I worked with the U.K. Foreign, Commonwealth & Development Office (FCDO)-funded Trade Forward Southern Africa project to map the use of digital communications (i.e. social media use, messaging apps, websites, mobile phones) for trade-related information amongst a sample of small and medium enterprises (SMEs) and other trade stakeholders across sectors in Southern Africa.
 
 <!--more-->
 
