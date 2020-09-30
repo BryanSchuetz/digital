@@ -1,6 +1,9 @@
 ---
 title: How to Responsibly Invest in Digital Development During COVID-19 Response
 date: 2020-09-30 14:39:00 -04:00
+tags:
+- Digital Inclusion
+- COVID-19
 Author: "[Rashel Rabinovich](https://www.linkedin.com/in/rashel-rabinovich-b3469099?challengeId=AQEy5wdzmx-JvQAAAXTgVbP65l_jvqz9qhAPg2VLEh-mJiptq7ldu-geOmVCajVP-AEG4JeFys-mWPPY_42oRnAtXG1ro7U5CA&submissionId=280315a5-13a4-3916-95b1-5178d9f80479)"
 ---
 
