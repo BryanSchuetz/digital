@@ -64,4 +64,4 @@ By using the insights collected, the programme will be able to design interventi
 
 *Though this research was funded through the GTP, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.*
 
-![UK Gov_CMYK_AW-9943b9.png](/uploads/UK%20Gov_CMYK_AW-9943b9.png)
+<aside><img src="/uploads/UK%20Gov_CMYK_AW-9943b9.png"></aside>
