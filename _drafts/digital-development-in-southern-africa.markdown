@@ -1,6 +1,6 @@
 ---
 title: 'Digital Development in Southern Africa: How SMEs Access Trade Data Amid COVID-19
-  pandemic'
+  Pandemic'
 date: 2020-10-01 04:42:00 -04:00
 tags:
 - Digital Ecosystems
