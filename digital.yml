@@ -1,4 +1,14 @@
 
+- title: "Digital Development in Southern Africa: How SMEs Access Trade Data Amid COVID-19 Pandemic"
+  pub: "Digital"
+  date: 2020-10-01
+  link: "https://dai-global-digital.com/digital-development-in-southern-africa.html?utm_source=daidotcom"
+  summary: "In May, Erica Behrens of DAI’s Center for Digital Acceleration, and I worked with the UK Foreign, Commonwealth &amp; Development Office (FCDO)-funded Trade Forward Southern Africa project to map the use of digital communications (i.e. social media use, messaging apps, websites, mobile phones) for trade-related information amongst a sample of small and medium enterprises (SMEs) and other trade stakeholders across sectors in Southern Africa."
+  tags:
+    - digital acceleration 
+    - Digital Ecosystems 
+    - COVID-19 
+
 - title: "Management Information Systems at the Humanitarian-Social Protection Nexus, Part 2: Risks and Benefits"
   pub: "Digital"
   date: 2020-09-23
@@ -217,15 +227,4 @@ These supply-side focused solutions are indeed powerful, scalable tools in the f
     - digital acceleration 
     - Trust 
     - Disinformation 
-
-- title: "How Technology Can Reflect Human Bias—And Resources to Understand It"
-  pub: "Digital"
-  date: 2020-06-25
-  link: "https://dai-global-digital.com/understanding-algorithmic-bias.html?utm_source=daidotcom"
-  summary: "With each technological advancement, more decisions in our daily lives are made by algorithms. They increasingly determine what advertisements we see, whether we’re considered for a job, or which books and movies are recommended to us—and how and where law enforcement is deployed in our communities. The ongoing protests to draw attention to, and eradicate, systemic racism in the United States, and in other parts of the world, have made clear something we already knew—humans are biased. Because we are biased, the technology we create is biased, too.
-
-Over the next several months DAI’s Center for Digital Acceleration will explore this topic by trying to answer the following questions (and more) in a new series: How pervasive is algorithmic bias, and which platforms are the worst offenders? (b) How does algorithmic bias work, and how we can tackle it at a technological level? (c) What other responses—policy, digital literacy, and so on—exist to tackle this phenomenon? (d) What are the effects of algorithmic bias on the broader digital development sector?"
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
 
