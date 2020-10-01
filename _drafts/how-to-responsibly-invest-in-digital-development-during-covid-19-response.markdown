@@ -7,7 +7,7 @@ tags:
 Author: "[Rashel Rabinovich](https://www.linkedin.com/in/rashel-rabinovich-b3469099?challengeId=AQEy5wdzmx-JvQAAAXTgVbP65l_jvqz9qhAPg2VLEh-mJiptq7ldu-geOmVCajVP-AEG4JeFys-mWPPY_42oRnAtXG1ro7U5CA&submissionId=280315a5-13a4-3916-95b1-5178d9f80479)"
 ---
 
-COVID-19 has shifted the world to increasingly rely on digital technology to survive; children are using online platforms to learn, people are using digital payment software to send money to their loved ones, and local businesses are entering the digital space to deliver goods and services that are no longer offered in person.
+The COVID-19 pandemic has shifted the world to increasingly rely on digital technology to survive. Children are using online platforms to learn. People are using digital payment software to send money to their loved ones, and local businesses are entering the digital space to deliver goods and services that are no longer offered in person.
 
 The pandemic and our subsequent response have shown just how important digital development is. Programs that were initially planned for in-person implementation have shifted to digital and there is now, more than ever, a need for development practitioners to understand the risks and benefits of digital programming. If not executed with considerations in mind for the most vulnerable populations, digital interventions can and will create greater inequalities for the populations they seek to help.
 
