@@ -11,21 +11,15 @@ The COVID-19 pandemic has shifted the world to increasingly rely on digital tech
 
 The pandemic and our subsequent response have shown just how important digital development is. Programs that were initially planned for in-person implementation have shifted to digital and there is now, more than ever, a need for development practitioners to understand the risks and benefits of digital programming. If not executed with considerations in mind for the most vulnerable populations, digital interventions can and will create greater inequalities for the populations they seek to help.
 
-In April, USAID launched its’ first [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) to assist staff, partners, and programs to navigate exactly these sorts of challenges. The Digital Strategy outlines USAID’s commitment to mitigate humanitarian and development challenges using digital technology and by strengthening open, inclusive, and secure digital ecosystems. The Strategy emphasizes closing the gender digital divide, improving digital literacy, and enhancing investments in digital technology to help achieve these commitments.
+In April, the U.S. Agency for International Development (USAID) launched its first [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) to assist staff, partners, and programs to navigate exactly these sorts of challenges. The Digital Strategy outlines USAID’s commitment to mitigate humanitarian and development challenges using digital technology and by strengthening open, inclusive, and secure digital ecosystems. The strategy emphasizes closing the gender digital divide, improving digital literacy, and enhancing investments in digital technology to help achieve these commitments.
 
 ## How to Responsibly Invest in Digital Technology
 
-As digital tools proliferate the development sector, we must ensure that the tools are strong, and that policies and infrastructure in place support the use of such technology and address inequalities. Eight topics to consider, built on existing USAID tools and lessons learned from the Ebola response, when assessing a proposal with a digital intervention are:
+As digital tools proliferate the development sector, we must ensure that the tools are strong and that policies and infrastructure in place support the use of such technology and address inequalities. Eight topics to consider, built on existing USAID tools and lessons learned from the Ebola response, when assessing a proposal with a digital intervention are:
 
-1.  Start with the Development Challenge
+1. Start with the Development Challenge: What is the specific local COVID-19 challenge we are trying to solve?
 
-   o What is the specific local COVID-19 challenge we are trying to solve?
-
-2.  Ensure local ownership and engage with relevant stakeholders
-
-   o Is it important for host-country institutions to be able to manage the digital intervention?
-
-   o Would your intervention inadvertently displace the efforts of local actors?
+2. Ensure local ownership and engage with relevant stakeholders: Is it important for host-country institutions to be able to manage the digital intervention? Would your intervention inadvertently displace the efforts of local actors?
 
 3. Assess the landscape and reuse and improve
 
