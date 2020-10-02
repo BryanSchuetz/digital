@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Oct 2020 14:14:35 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2020 14:14:35 -0400</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2020 13:01:41 -0400</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2020 13:01:41 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/16697496505_648084a306_o.jpg" medium="image" /> 
+        <title>How to Responsibly Invest in Digital Development During COVID-19 Response</title>
+        <description>&lt;p&gt;The COVID-19 pandemic has shifted the world to increasingly rely on digital technology to survive. Children are using online platforms to learn. People are using digital payment software to send money to their loved ones, and local businesses are entering the digital space to deliver goods and services that are no longer offered in person.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Oct 2020 06:39:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/rashel-rabinovich-b3469099?challengeId=AQEy5wdzmx-JvQAAAXTgVbP65l_jvqz9qhAPg2VLEh-mJiptq7ldu-geOmVCajVP-AEG4JeFys-mWPPY_42oRnAtXG1ro7U5CA&amp;submissionId=280315a5-13a4-3916-95b1-5178d9f80479">Rashel Rabinovich</a>
+</author>
+        <link>https://dai-global-digital.com/how-to-responsibly-invest-in-digital-development-during-covid-19-response.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/how-to-responsibly-invest-in-digital-development-during-covid-19-response.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>COVID-19</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/SAblog.jpg" medium="image" /> 
@@ -196,25 +215,6 @@
         <category>data</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/nepalecommerce.jpg" medium="image" /> 
-        <title>Digital Innovator Series: Talking E-Commerce in Nepal with Sastodeal</title>
-        <description>&lt;p&gt;&lt;em&gt;We recently spoke with Amun Thapa, founder and CEO of &lt;a href=&quot;https://www.sastodeal.com/&quot;&gt;Sastodeal.com&lt;/a&gt; about Nepal’s growing e-commerce sector, the impact of COVID-19, and the company’s inclusive business model. This is an excerpt of that interview.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Aug 2020 06:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/susannah-horton/">Susanah Horton</a> and <a href="https://www.linkedin.com/in/ariel-magid/">Ariel Magid</a>
-</author>
-        <link>https://dai-global-digital.com/digital-innovator-series-talking-e-commerce-in-nepal-with-sastodeal.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-innovator-series-talking-e-commerce-in-nepal-with-sastodeal.html</guid>
-        
-        <category>Digital Innovator</category>
-        
-        <category>E-Commerce</category>
         
         
       </item>
