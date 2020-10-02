@@ -52,29 +52,21 @@ The gender divide is prevalent in all facets of development and digital work is 
 Key considerations development practitioners should ask themselves when designing a digital intervention for COVID-19 response include:
 
 * Will your digital intervention reach vulnerable populations and is it responding to their needs?
-
 * How can you better use digital tools to ensure that inequalities are not exacerbated in this crisis?
-
 * How can you ensure all gender identities are being included across the data lifecycle: collection, analysis, sharing?
-
 * How can you work directly with community leaders to create compelling cases for women’s technology use—under what conditions would women be allowed to use the Internet?
-
 * Could the private sector provide expertise in gender dynamics around technology use and COVID-19 response?
 
 To better understand how efforts to mitigate the gender digital divide can exacerbate the gender digital divide, increase online and physical harm and exclude women and girls from data collection, analysis, and sharing, [download this short guide](https://www.usaid.gov/digital-development/covid-19/gender-digital-divide).
 
 **2. Digital Literacy**
 
-As people increasingly rely on digital tools to support work, education, and delivery of information, ensuring marginalized populations have equitable access to digital literacy skills and training is critical, particularly during a global pandemic. In order to strengthen local ecosystems, combat misinformation, develop effective content, and accelerate innovative response, development practitioners must ensure that the entire population is able to safely and securely consume digital resources that are developed. Pertinent questions include:
+As people increasingly rely on digital tools to support work, education, and delivery of information, ensuring marginalized populations have equitable access to digital literacy skills and training is critical, particularly during a global pandemic. To strengthen local ecosystems, combat misinformation, develop effective content, and accelerate innovative response, development practitioners must ensure that the entire population is able to safely and securely consume digital resources that are developed. Pertinent questions include:
 
 * Are you ensuring equitable access to digital literacy training, particularly to marginalized populations (e.g. women, persons with disabilities, rural communities)?
-
 * Are you training and building upon existing infrastructure?
-
 * How can digital literacy efforts better support your global/regional/national COVID-19 response?
-
 * Is your activity duplicative and/or displacing the work of other institutions?
-
 * Does your activity address and seek to overcome gaps in digital use and skills?
 
 When designing COVID-19 response programs that include digital literacy, [download this short guide](https://www.usaid.gov/digital-development/covid-19/digital-literacy) to avoid increased inequality and ensure that long term response and recovery efforts are made.
