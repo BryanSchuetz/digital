@@ -5,13 +5,19 @@ tags:
 - Digital Inclusion
 - COVID-19
 Author: "[Rashel Rabinovich](https://www.linkedin.com/in/rashel-rabinovich-b3469099?challengeId=AQEy5wdzmx-JvQAAAXTgVbP65l_jvqz9qhAPg2VLEh-mJiptq7ldu-geOmVCajVP-AEG4JeFys-mWPPY_42oRnAtXG1ro7U5CA&submissionId=280315a5-13a4-3916-95b1-5178d9f80479)"
+social-image: "/uploads/16697496505_648084a306_o.jpg"
+thumbnail: "/uploads/16697496505_648084a306_o.jpg"
 ---
 
 The COVID-19 pandemic has shifted the world to increasingly rely on digital technology to survive. Children are using online platforms to learn. People are using digital payment software to send money to their loved ones, and local businesses are entering the digital space to deliver goods and services that are no longer offered in person.
 
+<!--more-->
+
 The pandemic and our subsequent response have shown just how important digital development is. Programs that were initially planned for in-person implementation have shifted to digital and there is now, more than ever, a need for development practitioners to understand the risks and benefits of digital programming. If not executed with considerations in mind for the most vulnerable populations, digital interventions can and will create greater inequalities for the populations they seek to help.
 
 In April, the U.S. Agency for International Development (USAID) launched its first [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) to assist staff, partners, and programs to navigate exactly these sorts of challenges. The Digital Strategy outlines USAID’s commitment to mitigate humanitarian and development challenges using digital technology and by strengthening open, inclusive, and secure digital ecosystems. The strategy emphasizes closing the gender digital divide, improving digital literacy, and enhancing investments in digital technology to help achieve these commitments.
+
+![16697496505_648084a306_o.jpg](/uploads/16697496505_648084a306_o.jpg)`Picture from USAID's Digital Flickr. Credit: Chris Burns/USAID, February 2015.`
 
 ## How to Responsibly Invest in Digital Technology
 
@@ -46,9 +52,13 @@ The gender divide is prevalent in all facets of development and digital work is 
 Key considerations development practitioners should ask themselves when designing a digital intervention for COVID-19 response include:
 
 * Will your digital intervention reach vulnerable populations and is it responding to their needs?
+
 * How can you better use digital tools to ensure that inequalities are not exacerbated in this crisis?
+
 * How can you ensure all gender identities are being included across the data lifecycle: collection, analysis, sharing?
+
 * How can you work directly with community leaders to create compelling cases for women’s technology use—under what conditions would women be allowed to use the Internet?
+
 * Could the private sector provide expertise in gender dynamics around technology use and COVID-19 response?
 
 To better understand how efforts to mitigate the gender digital divide can exacerbate the gender digital divide, increase online and physical harm and exclude women and girls from data collection, analysis, and sharing, [download this short guide](https://www.usaid.gov/digital-development/covid-19/gender-digital-divide).
@@ -58,9 +68,13 @@ To better understand how efforts to mitigate the gender digital divide can exace
 As people increasingly rely on digital tools to support work, education, and delivery of information, ensuring marginalized populations have equitable access to digital literacy skills and training is critical, particularly during a global pandemic. In order to strengthen local ecosystems, combat misinformation, develop effective content, and accelerate innovative response, development practitioners must ensure that the entire population is able to safely and securely consume digital resources that are developed. Pertinent questions include:
 
 * Are you ensuring equitable access to digital literacy training, particularly to marginalized populations (e.g. women, persons with disabilities, rural communities)?
+
 * Are you training and building upon existing infrastructure?
+
 * How can digital literacy efforts better support your global/regional/national COVID-19 response?
+
 * Is your activity duplicative and/or displacing the work of other institutions?
+
 * Does your activity address and seek to overcome gaps in digital use and skills?
 
 When designing COVID-19 response programs that include digital literacy, [download this short guide](https://www.usaid.gov/digital-development/covid-19/digital-literacy) to avoid increased inequality and ensure that long term response and recovery efforts are made.
