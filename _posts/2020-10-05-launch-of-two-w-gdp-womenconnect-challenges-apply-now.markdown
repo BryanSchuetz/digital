@@ -6,8 +6,10 @@ date: 2020-10-05 13:27:00 -04:00
 DAI’s [Digital Frontiers project](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) has just launched a call for proposals for two challenges under the W-GDP WomenConnect Challenge.
 
 The WomenConnect Challenge was first launched by Advisor Ivanka Trump and USAID Administrator Mark Green on International Women’s Day in 2018. Since then, USAID awarded nine grantees that are working to address barriers limiting women’s access to technology and to connect nearly 1 million women in 12 countries.
+<!--more-->
 
 As part of the White House-led Women’s Global Development and Prosperity (W-GDP) Initiative, the W-GDP WomenConnect Challenge is a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology. While most of the world is becoming increasingly connected, the gender gap in mobile internet use in some countries is over 51 percent. Advancing women’s digital connectivity is a key component to ensuring women’s economic empowerment.
+![TZ-Mugumu-Neptune-Day1-_31_8027.jpg](/uploads/TZ-Mugumu-Neptune-Day1-_31_8027.jpg)`Photo Credit: Ramundo Media for DAI`
 
 As part of the W-GDP commitment to close the gender digital divide, a third round of the WomenConnect Challenge was [announced on August 11, 2020](https://www.usaid.gov/w-gdp/fact-sheet/aug-2020-womens-global-development-and-prosperity-fund-announces-122m-progress-partnerships). These funding opportunities focus on scaling effective practices while supporting emerging technologies and policies:
 
