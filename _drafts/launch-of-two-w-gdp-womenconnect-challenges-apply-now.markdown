@@ -1,6 +1,9 @@
 ---
 title: 'Launch of Two W-GDP WomenConnect Challenges: Apply Now'
 date: 2020-10-05 13:27:00 -04:00
+Author: "[Stephanie Creed](https://www.linkedin.com/in/stephanie-c-creed/)"
+social-image: "/uploads/TZ-Mugumu-Neptune-Day1-_31_8027.jpg"
+thumbnail: "/uploads/TZ-Mugumu-Neptune-Day1-_31_8027.jpg"
 ---
 
 DAI’s [Digital Frontiers project](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) has just launched a call for proposals for two challenges under the W-GDP WomenConnect Challenge.
