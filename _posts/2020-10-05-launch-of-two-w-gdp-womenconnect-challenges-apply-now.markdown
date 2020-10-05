@@ -1,6 +1,6 @@
 ---
 title: 'Launch of Two W-GDP WomenConnect Challenges: Apply Now'
-date: 2020-10-05 13:27:00 -04:00
+date: 2020-10-05 06:27:00 -04:00
 tags:
 - Digital Inclusion
 Author: "[Stephanie Creed](https://www.linkedin.com/in/stephanie-c-creed/)"
