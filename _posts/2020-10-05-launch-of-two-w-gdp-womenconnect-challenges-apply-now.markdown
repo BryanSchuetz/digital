@@ -19,7 +19,7 @@ As part of the W-GDP commitment to close the gender digital divide, a third roun
 
 *“When women rise, families flourish, communities grow, and countries prosper. A truly developed world has to be an equal world.” -- Mrs. Nita M. Ambani, Founder and Chairperson, Reliance Foundation*
 
-**How to Apply:**
+## How to Apply:
 
 You can apply through [https://www.womenconnectchallenge.org/](https://www.womenconnectchallenge.org/).
 
