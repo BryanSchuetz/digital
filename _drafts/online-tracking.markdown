@@ -2,6 +2,11 @@
 title: The Importance of Understanding  Online Tracking for the Digital Development
   Community
 date: 2020-09-29 13:07:00 -04:00
+tags:
+- Data
+- Privacy
+- Digital Literacy
+- Tracking
 Author: Trevor Olexy
 ---
 
