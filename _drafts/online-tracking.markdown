@@ -71,6 +71,7 @@ One clever way to circumvent browser fingerprinting is by using a virtual machin
 There is a fun project called the [Pi-Hole](https://pi-hole.net/) which will intercept all requests from ad trackers (or any URL you specify) and prevent them from being loaded to your browser, and do this for every computer on your network. Pretty neat project that I use on my home network. This is great for removing ads across all sites, but by nature of being intercepted, you have already been tracked, so this is just for user experience improvement. It certainly improved my browsing experience. 
 
 You can also visit this [Google settings site](https://adssettings.google.com/) to adjust your ad personalization settings from Google. It is a daunting list but interesting to see what they have compiled about you as an online individual. It is important to note that this is likely *only* for allowing or denying Google to personalize the ads based on what it knows about you and almost certainly does not mean you are not being tracked, regardless of your settings.
+
 ![ad_personals.png](/uploads/ad_personals.png)
 `Google ad personalization page`
 
