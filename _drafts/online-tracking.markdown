@@ -5,7 +5,7 @@ date: 2020-09-29 13:07:00 -04:00
 Author: Trevor Olexy
 ---
 
-I don't think it will ever be possible to overstate how important data privacy is. I also don't think that it will be possible to overstate the absolute necessity of digital literacy. I unfortunately don't think it will ever be possible to completely protect our online-selves from data harvesting or tracking. But there are measures to take to put up some walls to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet. 
+I don't think it will ever be possible to overstate how important data privacy is. I also don't think that it will be possible to overstate the absolute necessity of digital literacy. I unfortunately don't think it will ever be possible to completely protect our online-selves from data harvesting or tracking. But there are measures to take to put up some walls to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked. 
 
 ![blacklight_result.png](/uploads/blacklight_result.png)
 Website scan that uncovers how you are being tracked when visiting the page. 
