@@ -63,7 +63,7 @@ I did a quick test with a colleague where we cleared our cache and cookies, star
 
 **What Can You Do?**
 
-The most immediate change you can make is to follow the steps listed above for removing (or at least paring down your cookies) and installing and configuring browser plugins like ad blockers, [Privacy Badger](https://privacybadger.org/) (by the EFF), [Disconnect](https://disconnect.me/) (detects when your browser connects to anything other than the site you are visiting), or [Ad Block Plus.](https://adblockplus.org/) 
+The most immediate change you can make is to follow the steps listed above for removing (or at least paring down your cookies) and installing and configuring browser plugins like ad blockers, [Privacy Badger](https://privacybadger.org/) (by the EFF) or [Ad Block Plus.](https://adblockplus.org/) 
 
 One clever way to circumvent browser fingerprinting is by using a virtual machine (VM) on your computer. This will essentially spoof (aka fake) your hardware configuration and therefore browser fingerprint. Some VM software available is Windows Hyper-V (baked-in to Windows), Parallels, and Oracle Virtual Box. This is *very* technically advanced for most, but there are good tutorials out there if you are brave enough to try this on your own.
 
