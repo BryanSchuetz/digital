@@ -72,6 +72,7 @@ There is a fun project called the [Pi-Hole](https://pi-hole.net/) which will int
 
 You can also visit this [Google settings site](https://adssettings.google.com/) to adjust your ad personalization settings from Google. It is a daunting list but interesting to see what they have compiled about you as an online individual. It is important to note that this is likely *only* for allowing or denying Google to personalize the ads based on what it knows about you and almost certainly does not mean you are not being tracked, regardless of your settings.
 ![ad_personals.png](/uploads/ad_personals.png)
+`Google ad personalization page`
 
 I know this sounds slightly alarmist, and for some people it will certainly be concerning. Overall, it is meant to highlight the deeper, hidden, lesser known level to which our information is uncovered, collected, stored, and user for/against us. Our data and how we interact with an increasingly overwhelming amount of digital information is constantly mined, collected, bought, sold, and used to manipulate the way we interact with the digital world. The least we can do is understand more about it so we can be aware of what ads are targeting us and how they are getting and using the information to target us. We can then use our knowledge to address the ads or remove them completely. 
 
