@@ -13,7 +13,7 @@ Author: Trevor Olexy
 I don't think it will ever be possible to overstate how important data privacy is. I also don't think that it will be possible to overstate the absolute necessity of digital literacy. I unfortunately don't think it will ever be possible to completely protect our online-selves from data harvesting or tracking. But there are measures to take to put up some walls to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked. 
 
 ![blacklight_result.png](/uploads/blacklight_result.png)
-`Website scan that uncovers how you are being tracked when visiting the page` 
+`Website scan by BlackLight that uncovers how you are being tracked when visiting the page` 
 
 As development practitioners, I cant overstate the need for digital literacy around data privacy and how users the world over can protect themselves just with a little bit of knowledge. I will be the first to point out that the rest of this article does not contain the least complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step in defending our privacy.
 
@@ -41,9 +41,8 @@ But…
 
 2. Block third-party cookies (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future. Do this and you will quickly see that some sights may not work 100% as you might expect. A profile image avatar might be broken because the site directly links to Facebook and uses your profile picture, but you may desire this behavior out of convenience and need to slightly modify your settings. [Privacy Badger](https://privacybadger.org/) makes this granular customization very easy.
 
-Below is an example of there you can block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.
-
 ![3rdpartycookie.png](/uploads/3rdpartycookie.png)
+`Example of where to block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.`
 
 ## Browser finger-printing
 
