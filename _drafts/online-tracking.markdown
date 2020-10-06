@@ -41,13 +41,13 @@ But…
 
 2. Block third-party cookies (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you cant force those companies to delete the info they have stored, whatever it may be, you can prevent the collection in the future
 
-Below is an example of there you can block third-party cookies in Chrome.  Search for how to do this in your own browser if you do not use Chrome.
+Below is an example of there you can block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.
 
 ![3rdpartycookie.png](/uploads/3rdpartycookie.png)
 
 ## Browser finger-printing
 
-Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity. This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed inform about your COMPUTER itself.
+Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity. This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed inform about your *computer* itself.
 
 This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a VPN will hide your exact location, but will not protect you from identification through browser finger-printing.
 
