@@ -51,12 +51,14 @@ Browser fingerprinting works on the idea that the configuration and attributes o
 This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a VPN will hide your exact location, but will not protect you from identification through browser finger-printing.
 
 ![scan_1.png](/uploads/scan_1.png)
+`Basic browser fingerprinting scan result`
 
 These are screenshots from a test using the Electronic  Frontier Foundation’s (EFF) browsing tracking scanner, [Panopticlick](https://panopticlick.eff.org/). It provides helpful information about what protections are in place already. I won’t go into the details of the above results but a quick google search for remedies to these issues might be in order. The solutions could be a more technically advanced than some users feel comfortable with. If you are interested in making modifications you are not comfortable with, your friendly IT department might be able to help you, or find a tech savvy colleague or friend to help find the right buttons and configurations.
 
 Below is a table of the “fingerprint” of my browser. The tool can see my installed browser plugins, time zone, screen size, installed fonts (quite unique fingerprint actually), Do Not Track (DNT) settings, my graphics card (!), and very basic info about my CPU. This information is sent with requests to view a site and well, if you want to change your plugins or settings to address some of these issues, well then you will then be even \*more \*likely to have a unique browser fingerprint as the vast, vast, majority of users are unaware or unconcerned with issues such as these. I can’t help but wonder how many browser fingerprint data have been collected by Facebook and Google?  Who has that information been shared with? What third-party/tracking cookies have access to *that* information? Please, don’t actually answer those questions…
 
 ![full_scan2.png](/uploads/full_scan2.png)
+`Detailed scan result from Panopticlick`
 
 I did a quick test with a colleague where we cleared our cache and cookies, started a private browsing window and visited Google Maps. We are in a private browsing window so are not logged in. Lo-and-behold, location is dead center on my location. Ok fine, Google is using my IP address to pinpoint me. But I am not logged in, so Google must be using stored IP address or browser information to identify the computer I am working on. Additionally, IP addresses don’t immediately tell you *exact* location like that. Often the most accurate you can get is city and internet service provider (ISP). Now I’m sure it is not a reach for you to imagine what happens if your ISP has an agreement with Google or Facebook to share your address and exact location. Correlate this with a list of IP addresses and voila, we know where every computer is.
 
