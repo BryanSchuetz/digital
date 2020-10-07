@@ -1,7 +1,6 @@
 ---
-title: The Importance of Understanding  Online Tracking for the Digital Development
-  Community
-date: 2020-10-01 13:07:00 -04:00
+title: Understanding Data Tracking and Why it Matters
+date: 2020-10-08 13:07:00 -04:00
 tags:
 - Data
 - Privacy
