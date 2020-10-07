@@ -12,14 +12,14 @@ social-image: "/uploads/blacklight_result.png"
 thumbnail: "/uploads/blacklight_result.png"
 ---
 
-I don't think it will ever be possible to overstate the importance of data privacy. I also don't think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don't think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
+I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
 
 ![blacklight_result.png](/uploads/blacklight_result.png)
 `Website scan by BlackLight that uncovers how you are being tracked when visiting a page.`
 
-As development practitioners, I can't overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that this post contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.
+As development practitioners, I can’t overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that this post contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.
 
-This article started as an observation of echo chambers about data privacy online and some rhetorical questions that might get the reader to think more deeply about their social media presence, use, and profile. I then started to think of ways to break the echo chambers and ended up exploring recommender algorithms. Then finally, landed at the source: tracking users’ data. Each of these are a big topics in their own right, so before moving to the data tracking, I will leave you with some food for thought:
+Here are some questions I want you to ponder as we delve into this topic: 
 
 1. **Does it matter to you that your online experience is tailored?**
 
@@ -27,33 +27,31 @@ This article started as an observation of echo chambers about data privacy onlin
 
 3. **If you did curate your own social media experience, do you think it would be any different than it is now?** Would the intentionality behind the decisions actually make a difference in what you follow (social media) or search for (general online presence)?
 
-## Who Doesn't Love Cookies?!
+## Who Doesn’t Love Cookies?!
 
-Let’s wish we were eating cookies and instead talk about your *browser's* cookies. Cookies are basically small packets of information about you, your computer, and your visit to a site. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. Cookies are persistent, meaning they are stored in your browser (aka on your computer) until a self-prescribed expiration date. There are two main types of cookies:
+Let’s wish we were eating cookies and instead talk about your *browser’s* cookies. Cookies are basically small packets of information about you, your computer, and your visits to sites. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. Cookies are persistent, meaning they are stored in your browser (aka on your computer) until a self-prescribed expiration date. There are two main types of cookies:
 
 **1. First-party** **cookies: **are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site every time, do you? Super helpful, right?
 
 But…
 
-**2. Third-party** **cookies **are the ones that get sneaky.  According to [Privacy.Net](https://privacy.net/stop-cookies-tracking/) *"third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated." *This is often how numerous sites know about your actions and purchases on other seemingly unrelated sites. Personally, I don't explicitly allow third party sites to have my information, but by using sites with agreements hidden in fine print, perhaps I inadvertently have.
+**2. Third-party** **cookies **are the ones that get sneaky.  According to [Privacy.Net](https://privacy.net/stop-cookies-tracking/) *"third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated."* This is often how numerous sites know about your actions and purchases on other seemingly unrelated sites. Personally, I don’t explicitly allow third-party sites to have my information, but by using sites with agreements hidden in fine print, perhaps I inadvertently have.
 
 ### **How do you protect yourself, or at least limit the amount of tracking that happens in the future?**
 
-1. **Delete all of your current cookies.** Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: *this will subsequently require you to re-login to all of the sites you have previously visited*. You know those “remember this computer” checkboxes? Well they add that site’s cookies so you’ll have to click those again next time you login. If you use a password manager like one I have talked about in a [previous post](https://dai-global-digital.com/personal-digital-security-the-beginning.html), this step will pose less of an issue.
+1. **Delete all of your current cookies.** Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: *this will subsequently require you to re-log in to all of the sites you have previously visited*. You know those “remember this computer” checkboxes? Well, they add that site’s cookies so you’ll have to click those again next time you log in. If you use a password manager like one I have talked about in a [previous post](https://dai-global-digital.com/personal-digital-security-the-beginning.html), this step will pose less of an issue.
 
-2. **Block third-party cookies** (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you can't force those companies to delete the information they have stored, whatever it may be, you can prevent future collection. Do this and you will quickly see that some sites may not work 100% as you might expect. A profile image avatar might be broken because the site directly links to Facebook and uses your profile picture, but you may want this type of thing out of convenience and need to slightly modify your settings. [Privacy Badger](https://privacybadger.org/) makes this granular customization very easy.
+2. **Block third-party cookies** (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you can’t force those companies to delete the information they have stored, whatever it may be, you can prevent future collection. Do this and you will quickly see that some sites may not work 100 percent as you might expect. A profile image avatar might be broken because the site directly links to Facebook and uses your profile picture, but you may want this type of thing out of convenience and need to slightly modify your settings. [Privacy Badger](https://privacybadger.org/) makes this granular customization very easy.
 
-![3rdpartycookie.png](/uploads/3rdpartycookie.png)
-`Example of where to block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.`
+![3rdpartycookie.png](/uploads/3rdpartycookie.png)`Example of where to block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.`
 
-## Browser finger-printing
+## Browser Fingerprinting
 
 Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity. This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed information about your computer itself.
 
-This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a VPN will hide your exact location, but will not protect you from identification through browser finger-printing.
+This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a virtual private network will hide your exact location, but will not protect you from identification through browser fingerprinting.
 
-![scan_1.png](/uploads/scan_1.png)
-`Basic browser fingerprinting scan result.`
+![scan_1.png](/uploads/scan_1.png)`Basic browser fingerprinting scan result.`
 
 These are screenshots from a test using the Electronic  Frontier Foundation’s (EFF) browsing tracking scanner, [Panopticlick](https://panopticlick.eff.org/). It provides helpful information about what protections are already in place . I won’t go into the details of the above results, but a quick google search for remedies to these issues might be in order. The solutions could be more technically advanced than some users feel comfortable with. If you are interested in making modifications you are not comfortable with, your friendly IT department might be able to help you, or find a tech savvy colleague or friend to help find the right buttons and configurations.
 
