@@ -12,12 +12,12 @@ social-image: "/uploads/blacklight_result.png"
 thumbnail: "/uploads/blacklight_result.png"
 ---
 
-I don't think it will ever be possible to overstate the importance of data privacy. I also don't think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don't think it will ever be possible to completely protect our online-selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
+I don't think it will ever be possible to overstate the importance of data privacy. I also don't think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don't think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
 
 ![blacklight_result.png](/uploads/blacklight_result.png)
-`Website scan by BlackLight that uncovers how you are being tracked when visiting the page`
+`Website scan by BlackLight that uncovers how you are being tracked when visiting a page.`
 
-As development practitioners, I can't overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that the this article contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.
+As development practitioners, I can't overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that this post contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.
 
 This article started as an observation of echo chambers about data privacy online and some rhetorical questions that might get the reader to think more deeply about their social media presence, use, and profile. I then started to think of ways to break the echo chambers and ended up exploring recommender algorithms. Then finally, landed at the source: tracking users’ data. Each of these are a big topics in their own right, so before moving to the data tracking, I will leave you with some food for thought:
 
