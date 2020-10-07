@@ -1,15 +1,15 @@
 ---
 title: The Importance of Understanding  Online Tracking for the Digital Development
   Community
-date: 2020-09-29 13:07:00 -04:00
+date: 2020-10-01 13:07:00 -04:00
 tags:
 - Data
 - Privacy
 - Digital Literacy
 - Tracking
 Author: Trevor Olexy
-social-image: "/uploads/blacklight_result.png"
-thumbnail: "/uploads/blacklight_result.png"
+social-image: "/uploads/trevorblogpic.jpg"
+thumbnail: "/uploads/trevorblogpic.jpg"
 ---
 
 I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
