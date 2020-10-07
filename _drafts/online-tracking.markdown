@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Data Tracking: tips, tricks, and tools'
+title: 'Understanding Data Tracking: Tips, Tricks, and Tools'
 date: 2020-10-08 13:07:00 -04:00
 tags:
 - Data
