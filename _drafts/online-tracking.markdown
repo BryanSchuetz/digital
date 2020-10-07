@@ -13,12 +13,14 @@ thumbnail: "/uploads/trevorblogpic.jpg"
 
 I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.
 
+<!--more-->
+
 ![blacklight_result.png](/uploads/blacklight_result.png)
 `Website scan by BlackLight that uncovers how you are being tracked when visiting a page.`
 
 As development practitioners, I can’t overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that this post contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.
 
-Here are some questions I want you to ponder as we delve into this topic: 
+Here are some questions I want you to ponder as we delve into this topic:
 
 1. **Does it matter to you that your online experience is tailored?**
 
