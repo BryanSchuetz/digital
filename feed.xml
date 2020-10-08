@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Oct 2020 09:28:33 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2020 09:28:33 -0400</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2020 09:37:24 -0400</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2020 09:37:24 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/trevorblogpic.jpg" medium="image" /> 
+        <title>Understanding Data Tracking: Tips, Tricks, and Tools</title>
+        <description>&lt;p&gt;I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Oct 2020 09:30:00 -0400</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/online-tracking.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/online-tracking.html</guid>
+        
+        <category>Data</category>
+        
+        <category>Privacy</category>
+        
+        <category>Digital Literacy</category>
+        
+        <category>Tracking</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/TZ-Mugumu-Neptune-Day1-_31_8027.jpg" medium="image" /> 
@@ -192,25 +215,6 @@
         <category>Governance</category>
         
         <category>cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/RFP_AfricaU_blog.jpg" medium="image" /> 
-        <title>Apply Now: Digital Trade and e-Commerce Technical Assistance for the African Union Commission</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project is accepting proposals for a Digital Trade and e-Commerce Advisor to support the African Union (AU) Commission under its ProICT program activity. ProICT is part of the Digital Connectivity and Cybersecurity Partnership (DCCP) and is designed to fund intensive, dedicated policy and regulatory engagements in the areas of telecommunications, internet, and ICT. This activity will provide technical assistance to the African Union Commission’s Department of Trade and Industry (DTI) on digital trade and e-commerce work.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 Aug 2020 08:07:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/andrea-falso-99474a103/">Andrea Falso</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-digital-trade-and-e-commerce-technical-assistance-for-the-african-union-commission.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-digital-trade-and-e-commerce-technical-assistance-for-the-african-union-commission.html</guid>
-        
-        <category>ecommerce</category>
-        
-        <category>Innovation</category>
         
         
       </item>

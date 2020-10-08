@@ -9,14 +9,12 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="Getting Started With RStudio, Part 1">
-  <meta name="twitter:description" content="This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.
-
-As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source int...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/RStudio.png">
+  <meta name="twitter:title" content="Understanding Data Tracking: Tips, Tricks, and Tools">
+  <meta name="twitter:description" content="I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to co...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/trevorblogpic.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>Getting Started With RStudio, Part 1</title>
-  <meta name="description" content="This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.As a data scientist, I spend a lot of my time working in a p...">
+  <title>Understanding Data Tracking: Tips, Tricks, and Tools</title>
+  <meta name="description" content="I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digi...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
   
@@ -26,7 +24,7 @@ As a data scientist, I spend a lot of my time working in a programming language 
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=21">
-  <link rel="canonical" href="https://dai-global-digital.com/getting-started-with-rstudio.html">
+  <link rel="canonical" href="https://dai-global-digital.com/online-tracking.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -100,143 +98,88 @@ As a data scientist, I spend a lot of my time working in a programming language 
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Getting Started With RStudio, Part 1</h1>
+    <h1 class="post-title">Understanding Data Tracking: Tips, Tricks, and Tools</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=open-source-series">series of posts</a> on Open Source.</p>
       
     <div class="post-details">
-      <p class="post-details--date">May 24, 2018</p>
+      <p class="post-details--date">Oct 8, 2020</p>
       
       
-      <p class="post-details--byline">By <a href="/authors/greg-maly/" class="without-style">Greg Maly
+      <p class="post-details--byline">By <a href="/authors/trevor-olexy/" class="without-style">Trevor Olexy
 </a></p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=coding" class="without-style">Coding</a></span> • <span class="post-topic"><a href="/tags/?tag=open-source-series" class="without-style">Open Source Series</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span> • <span class="post-topic"><a href="/tags/?tag=privacy" class="without-style">Privacy</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-literacy" class="without-style">Digital Literacy</a></span> • <span class="post-topic"><a href="/tags/?tag=tracking" class="without-style">Tracking</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p><em>This article is part 1 of 2, as we explore the basics of importing and analyzing data in RStudio.</em></p>
-
-<p>As a data scientist, I spend a lot of my time working in a programming language called R. RStudio is an open source integrated development environment (IDE) for the R programming language, which focuses on programming for statistical analysis. You could arguably do data analysis in almost any computer programming language, but R offers some of the most accessible statistical functions of any language available today. You could also do this work in a business intelligence application such as Tableau or PowerBI, or conduct statistical analysis in STATA, but R and RStudio are free and open source. In this post, I’m going to introduce a few lines of code to get you started on your journey into R.</p>
+    <p>I don’t think it will ever be possible to overstate the importance of data privacy. I also don’t think it will be possible to overstate the necessity of digital literacy. And unfortunately, I don’t think it will ever be possible to completely protect our online selves from data harvesting or tracking. However, there are measures we can take to keep our data where it belongs. These measures can be taken by anyone using a phone with access to the internet and help keep us from being tracked.</p>
 
 <!--more-->
 
-<p><img src="/uploads/RStudio-59a8d9.png" alt="RStudio-59a8d9.png" /></p>
+<p><img src="/uploads/blacklight_result.png" alt="blacklight_result.png" />
+<code class="language-plaintext highlighter-rouge">Website scan by BlackLight that uncovers how you are being tracked when visiting a page.</code></p>
 
-<p>In this exercise, we’re going to execute the following commands: 1) install and start necessary packages, 2) bring a dataset into your work environment, 3) inspect your data to help you think about how it is structured, 4) convert your datatypes into useful data formats, 5) plot the data on a line graph. You could, of course, accomplish each of these tasks directly in Google Sheets, but bringing the data into RStudio opens up a new world of analytical possibilities. Let’s get started.</p>
+<p>As development practitioners, I can’t overstate the need for digital literacy around data privacy and how users around the world can protect themselves just with even a small amount of knowledge. I will be the first to point out that this post contains complex information, but I think understanding some of the methods, novel or otherwise, that websites or companies use to track our online presence is the first step we can take to protect our privacy online.</p>
 
-<h2 id="step-0-install-r-and-rstudio">Step 0: Install R and RStudio</h2>
+<p>Here are some questions I want you to ponder as we delve into this topic:</p>
 
-<p>First, you’ll need to install R and RStudio on your computer. I’ve included some links below:</p>
+<ol>
+  <li><strong>Does it matter to you that your online experience is tailored?</strong></li>
+  <li><strong>If you could manually manipulate your social media feed, would you?</strong> I would venture to say most people are quite comfortable in their current social media environment. After all, that is the point of recommender algorithms, to give you things that you already like or might also like.</li>
+  <li><strong>If you did curate your own social media experience, do you think it would be any different than it is now?</strong> Would the intentionality behind the decisions actually make a difference in what you follow (social media) or search for (general online presence)?</li>
+</ol>
 
-<ul>
-  <li>
-    <p><a href="https://www.r-project.org/">https://www.r-project.org/</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.rstudio.com/products/rstudio/">https://www.rstudio.com/products/rstudio/</a></p>
-  </li>
-</ul>
+<h2 id="who-doesnt-love-cookies">Who Doesn’t Love Cookies?!</h2>
 
-<p>Once you get your software installed and booted up, you should see something that looks approximately like the image below.</p>
+<p>Let’s wish we were eating cookies and instead talk about your <em>browser’s</em> cookies. Cookies are basically small packets of information about you, your computer, and your visits to sites. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. Cookies are persistent, meaning they are stored in your browser (aka on your computer) until a self-prescribed expiration date. There are two main types of cookies:</p>
 
-<p><img src="/uploads/GettingStarted_NoCode.PNG" alt="GettingStarted_NoCode.PNG" /></p>
+<p><strong>1. First-party cookies</strong> are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site every time, do you? Super helpful, right? But…
+<strong>2. Third-party cookies</strong> are the ones that get sneaky.  According to <a href="https://privacy.net/stop-cookies-tracking/">Privacy.Net</a> <em>“third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated.”</em> This is often how numerous sites know about your actions and purchases on other seemingly unrelated sites. Personally, I don’t explicitly allow third-party sites to have my information, but by using sites with agreements hidden in fine print, perhaps I inadvertently have.</p>
 
-<h2 id="step-1-identify-a-data-set">Step 1: Identify a Data Set</h2>
+<h3 id="how-you-can-protect-yourself">How You Can Protect Yourself</h3>
 
-<p>The next thing to do when getting started in R, is to identify a dataset you’d like to work with. You can, of course, build up a dataset directly in RStudio, but it’s nice to have something to work with when first exploring the programming language.</p>
+<ol>
+  <li><strong>Delete all of your current cookies.</strong> Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. <strong>WARNING</strong>: <em>This will subsequently require you to re-log in to all of the sites you have previously visited</em>. You know those “remember this computer” checkboxes? Well, they add that site’s cookies so you’ll have to click those again next time you log in. If you use a password manager like one I have talked about in a <a href="https://dai-global-digital.com/personal-digital-security-the-beginning.html">previous post</a>, this step will pose less of an issue.</li>
+  <li><strong>Block third-party cookies</strong> (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you can’t force those companies to delete the information they have stored, whatever it may be, you can prevent future collection. Do this and you will quickly see that some sites may not work 100 percent as you might expect. A profile image avatar might be broken because the site directly links to Facebook and uses your profile picture, but you may want this type of thing out of convenience and need to slightly modify your settings. <a href="https://privacybadger.org/">Privacy Badger</a> makes this granular customization very easy.</li>
+</ol>
 
-<p>For the sake of this exercise, I’ve created a dataset in Google Sheets for you to work with. Looking back on May in Washington, D.C., one of the recurring themes of the month was <a href="https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/05/21/last-weeks-rain-event-was-a-record-breaker-heres-how-much-fell/?utm_term=.74a519fa1025">RAIN</a>. The greater Washington, D.C., area experienced a recordbreaking month of rainfall. So, I pulled in some rainfall data from the National Oceanic and Atmospheric Administration. You can see that dataset <a href="https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing">here</a>.</p>
+<p><img src="/uploads/3rdpartycookie.png" alt="3rdpartycookie.png" /><code class="language-plaintext highlighter-rouge">Example of where to block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.</code></p>
 
-<p>Before we go on, I should note that you can import data into RStudio in many different ways.</p>
+<h2 id="browser-fingerprinting">Browser Fingerprinting</h2>
 
-<h2 id="step-2-install-google-sheets-package">Step 2: Install Google Sheets Package</h2>
+<p>Browser fingerprinting works on the idea that the configuration and attributes of a user’s browser, location information, and system hardware properties differ enough that they can be used to deanonymize internet activity. This is an interesting yet still concerning concept. When you send a request to a website to view it, that request also includes a lot of information about you, and actually, detailed information about your computer itself.</p>
 
-<p>To get the googlesheets data into R, you need to import it. Fortunately, there is a handy <a href="https://cran.r-project.org/web/packages/googlesheets/index.html">package </a>for Google Sheets data access. Going through this step is also a useful introduction to the concept of packages, which are functions created by other members of the R programming community. To install this particular package, you execute the following lines of code:</p>
+<p>This might seem innocuous at first, but this would enable any server/entity to potentially correlate stored information from company databases and first- or third-party cookies to identify you. Using a virtual private network will hide your exact location, but will not protect you from identification through browser fingerprinting.</p>
 
-<blockquote>
-  <p>install.packages(“googlesheets”)
-library(googlesheets)</p>
-</blockquote>
+<p><img src="/uploads/scan_1.png" alt="scan_1.png" /><code class="language-plaintext highlighter-rouge">Basic browser fingerprinting scan result.</code></p>
 
-<p>The first line tells the computer to install the package titled “googlesheets,” and the second line tells the computer to turn on the package, making it available for you to use.</p>
+<p>These are screenshots from a test using the Electronic  Frontier Foundation’s browsing tracking scanner, <a href="https://panopticlick.eff.org/">Panopticlick</a>. It provides helpful information about what protections are already in place. I won’t go into the details of the above results, but a quick Google search for remedies to these issues might be in order. The solutions could be more technically advanced than some users feel comfortable with. If you are interested in making modifications you are not comfortable with, your friendly IT department might be able to help you or find a tech-savvy colleague or friend to help find the right buttons and configurations.</p>
 
-<h2 id="step-3-import-data-part-1">Step 3: Import Data, Part 1</h2>
+<p>Below is a table of the “fingerprint” of my browser. The tool can see my installed browser plugins, time zone, screen size, installed fonts (quite a unique fingerprint actually), do not track settings, my graphics card (!), and very basic info about my computer. This information is sent with requests to view a site. If you want to change your plugins or settings to address some of these issues and protect your information, you will actually have a more unique browser fingerprint because the vast majority of users are unaware or unconcerned with these issues. I can’t help but wonder how many browser fingerprint data have been collected by Facebook and Google?  Who has that information been shared with? What third-party/tracking cookies have access to that information? Please, don’t actually answer those questions…</p>
 
-<p>Now that you’ve installed the package, you can import the data. Enter the following line of code into your environment, highlight them with your cursor, and press ctrl+enter to execute them.</p>
+<p><img src="/uploads/full_scan2.png" alt="full_scan2.png" /><code class="language-plaintext highlighter-rouge">Detailed scan result from Panopticlick.</code></p>
 
-<blockquote>
-  <p>WeatherDataURL &lt;-</p>
+<p>I did a quick test with a colleague where we cleared our caches and cookies, started a private browsing window, and visited Google Maps. We were in a private browsing window and therefore not logged in. Lo-and-behold, location is dead center on my location. OK fine, Google uses my internet protocol (IP) address to pinpoint me. But I was not logged in. Google must be using a stored IP address or browser information to identify the computer I am on. Additionally, IP addresses don’t immediately tell your <em>exact</em> location like that. Often, the most accurate you can get is city and internet service provider (ISP). I’m sure it is not too much of a reach for you to imagine what happens if your ISP has an agreement with Google or Facebook to share your address and exact location. If this is correlated with a list of IP addresses then voila, they know where every computer is.</p>
 
-  <p>gs_url(“https://docs.google.com/spreadsheets/d/1UNQ_LMXFdq6GmQRCUhGd1iY4GQ_a4qEN0sH_cDylU_k/edit?usp=sharing”)</p>
-</blockquote>
+<h2 id="what-can-you-do"><strong>What Can You Do?</strong></h2>
 
-<p>At this point you should see a new variable titled “WeatherDataURL” in the upper righthand box, as can be seen in the image below.</p>
+<p>The most immediate change you can make is to follow the steps listed above for removing (or at least pairing down your cookies) and installing and configuring browser plugins like ad blockers, <a href="https://privacybadger.org/">Privacy Badger</a> (by the Electronic  Frontier Foundation) or <a href="https://adblockplus.org/">Ad Block Plus.</a></p>
 
-<p><img src="/uploads/GettingStarted_Step3-ed0737.PNG" alt="GettingStarted_Step3-ed0737.PNG" /></p>
+<p>One clever way to circumvent browser fingerprinting is by using a virtual machine on your computer. This will essentially spoof (aka fake) your hardware configuration and thus, also your browser fingerprint. Some virtual machine software available is Windows Hyper-V (baked-in to Windows), Parallels, and Oracle Virtual Box. This is very technically advanced for most, but there are good tutorials out there if you are brave enough to try this on your own.</p>
 
-<p>Before we move on to the next step, let’s execute one more line of code, which allows us to inspect our new variable, “WeatherDataURL.”</p>
+<p>There is a fun project I use on my home network called the <a href="https://pi-hole.net/">Pi-Hole</a>, which intercepts all requests from ad trackers (or any URL you specify) and prevent them from being loaded to your browser. It will easily do this for every computer on your network. This is great for removing ads across all sites, but by nature of being intercepted, you have already been tracked, so this is just for user experience improvement. It certainly improved my browsing experience!</p>
 
-<blockquote>
-  <p>gs_ws_ls(WeatherDataURL)</p>
-</blockquote>
+<p>You can also visit this <a href="https://adssettings.google.com/">Google settings site</a> to adjust your ad personalization settings from Google. It is a daunting list but interesting to see what they have compiled about you as an online individual. It is important to note that this is likely only for allowing or denying Google to personalize the ads based on what it knows about you and almost certainly does not mean you are not being tracked, regardless of your settings.</p>
 
-<p>When you execute this command, you should see the word “MayWeather” printed out on the console, which is the box in the bottom left. This is the one tab in the Google Sheet that contains the weather data for the month of May.</p>
+<p><img src="/uploads/ad_personals.png" alt="ad_personals.png" /><code class="language-plaintext highlighter-rouge">Google ad personalization page.</code></p>
 
-<p><img src="/uploads/Step3B.PNG" alt="Step3B.PNG" /></p>
+<p>I know this sounds slightly alarmist, and for some people, it will certainly be concerning. Overall, it is meant to highlight the deeper, hidden, lesser-known level to which our information is uncovered, collected, stored, and used for or against us. Our data and how we interact with an increasingly overwhelming amount of digital information is constantly mined, collected, bought, sold, and used to manipulate the way we interact with the digital world. The least we can do is understand more about it so we can be aware of what ads are targeting us and how they are getting and using the information to target us. We can then use our knowledge to address the ads or remove them completely.</p>
 
-<h2 id="step-4-import-data-part-2">Step 4: Import Data, Part 2</h2>
+<p>As I was writing this, a colleague sent me information about a new tool, <a href="https://themarkup.org/press-release-20200922/">Blacklight</a> (example output at the top of the page), to check websites for how they track your visit and what they are tracking. This tool is fantastic and after reading this article I recommend you check various websites you visit. You might be surprised, or terrified. Briefly, Facebook has code in many pages that can track whether you viewed a page or specific content, if you added payment information, or ended up making a purchase, without being logged in to Facebook. It certainly makes me worry.</p>
 
-<p>In our last step, we prepared our connection with Google Sheets, and in this step, we’ll import the data. So now let’s read the “MayWeather” tab of the googlesheet into R as a <a href="https://www.rdocumentation.org/packages/base/versions/3.5.0/topics/data.frame">dataframe</a>, and inspect the structure of the data using the handy str() function. Copy the following lined of code into your R console, and execute them.</p>
+<p>Do you truly enjoy the experience you get of being tracked and served up a tailored experience based on your previously watched videos, purchased clothes, sites you visited, links you clicked? If the answer is yes, then go forth and be happy. I know when I am shopping online during this pandemic, I often find a tailored experience useful, to a point. But, if you are like me and more than a little concerned about what is being tracked and how it could be used, I would recommend diving in so you can find the privacy solutions that work best for you and your desired online experience, starting with the recommendations made here.</p>
 
-<blockquote>
-  <p>AllWeatherData &lt;-  gs_read(ss=WeatherDataURL, ws = “MayWeather”, skip = 0)</p>
-
-  <p>str(AllWeatherData)</p>
-</blockquote>
-
-<p><img src="/uploads/GettingStarted_Step4.PNG" alt="GettingStarted_Step4.PNG" /></p>
-
-<p>You’ll notice that you now have two datasets in your global environment. One is a variable of the URL associated with the Google Sheets file, and the other is the dataset itself. If you’d like, you can click on the AllWeatherData variable to see it as rows and columns.</p>
-
-<h2 id="step-5-data-transformations">Step 5: Data Transformations</h2>
-
-<p>Looking at the data structure printed out in the console in the last step, you’ll likely notice that the date column is being read as a character (chr), as opposed to a date format. This is extremely important! Not all data is read into the computer the same way. Sometimes a computer may interpret a string of numbers as alphanumeric characters, as opposed to integers. In this case, the computer didn’t recognize that the numbers in the date column should be read as calendar dates. Fortunately R has a handy way to handle data transformations, so we’ll use the as.Date() function on the variable, and then check to make sure that our conversion worked.</p>
-
-<p>Again, run the following lines of code:</p>
-
-<blockquote>
-  <p>AllWeatherData$Date &lt;- as.Date(AllWeatherData$Date, “%m/%d/%Y”)</p>
-
-  <p>str(AllWeatherData)</p>
-</blockquote>
-
-<p><img src="/uploads/GettingStarted_Step5.PNG" alt="GettingStarted_Step5.PNG" /></p>
-
-<p>We can see that the date column is now in a date format, which will allow us to create our graph. Let’s move on!</p>
-
-<h2 id="step-6-create-line-graph">Step 6: Create Line Graph</h2>
-
-<p>We’re finally at the moment we’ve been waiting for. Let’s create a line graph using R’s core library graphics engine. R has many additional libraries for graphing, including the famous <a href="http://ggplot2.tidyverse.org/">ggplot2</a>, but for the sake of this exercise we’ll use the simplest option: the plot() function.</p>
-
-<blockquote>
-  <p>plot(x=AllWeatherData$Date, y=AllWeatherData$Precip, type=”line”)</p>
-</blockquote>
-
-<p>In this function we told the computer to do three things: 1) plot date on the X axis, 2) plot the rainfall precipitation amount on the Y axis, and 3) draw the plot as a “line.”</p>
-
-<p><img src="/uploads/GettingStarted_Step6.PNG" alt="GettingStarted_Step6.PNG" /></p>
-
-<h2 id="wrapping-up">Wrapping Up</h2>
-
-<p>And there you have it! You’ve created your first graph in R using data from Google Sheets, and seen just how much rain the Washington, D.C., area experienced over the past few weeks. Hopefully you learned a few things along the way. If you had any trouble installing RStudio, I’ve created an interactive R Console with all of the code pre-written, which can be accessed <a href="http://gettingstartedrstudio.s3-website-us-east-1.amazonaws.com/">here</a>.</p>
-
-<p>Reflecting on this process, I’m reminded that most of the work that goes into data analysis is getting and cleaning data! We didn’t even get to the graph until the last step. For further analysis, we could, for example, compare this month to historical data. Can you now begin to think about how that might work using RStudio?</p>
-
-<p>In my next post, we’ll explore this dataset further as we continue our journey into R and RStudio. Stay tuned!</p>
-
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/getting-started-with-rstudio.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/online-tracking.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -264,1187 +207,7 @@ library(googlesheets)</p>
   
   
     
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
     
-    
   
   
     
@@ -1457,17 +220,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1489,17 +242,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1521,17 +264,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1553,17 +286,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1585,17 +308,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1617,17 +330,7 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
         
-        
           
           
         
@@ -1649,16 +352,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -1683,7 +376,7 @@ library(googlesheets)</p>
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/open-source-vs-proprietary-data-management-stack-which-one-is-right-for-your-team.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/PhoneUse.JPG);"></div><span class="related-item-text">Open Source Versus Proprietary Data Management Stack—Which One is Best for Your Team?</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/HSNP%20finger%20prints-837a16.jpg);"></div><span class="related-item-text">Management Information Systems at the Humanitarian-Social Protection Nexus, Part 1: Interoperability</span></a></li>
             
             
             
@@ -1703,608 +396,6 @@ library(googlesheets)</p>
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -2326,16 +417,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2359,16 +440,6 @@ library(googlesheets)</p>
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -2390,16 +461,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2422,16 +483,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2454,16 +505,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2486,16 +527,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2518,16 +549,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2550,16 +571,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2582,16 +593,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2615,16 +616,6 @@ library(googlesheets)</p>
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -2646,16 +637,6 @@ library(googlesheets)</p>
         
           
           
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -2675,25 +656,12 @@ library(googlesheets)</p>
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/getting-started-with-rstudio-part-2.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/RStudio-59a8d9.png);"></div><span class="related-item-text">Getting Started with RStudio, Part 2</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/what-are-user-perceptions-of-internet-trust-and-privacy-in-india-and-ghana.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/internet-usage-india.png);"></div><span class="related-item-text">What are User Perceptions of Internet Trust and Privacy in India and Ghana?</span></a></li>
             
             
             
@@ -2713,16 +681,6 @@ library(googlesheets)</p>
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -2745,16 +703,6 @@ library(googlesheets)</p>
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
           
           
         
@@ -2773,253 +721,12 @@ library(googlesheets)</p>
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/writing-code-is-for-everyone-now-the-code-partners-scholarship-makes-it-affordable.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/BLOG3-b8317c.jpg);"></div><span class="related-item-text">Writing Code is for Everyone—Now the Code Partners Scholarship Makes it Affordable</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/personal-digital-security-the-beginning.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/lock.png);"></div><span class="related-item-text">The Importance of Personal Digital Security</span></a></li>
             
             
             
@@ -3035,185 +742,9 @@ library(googlesheets)</p>
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/why-is-dai-investing-in-a-coding-school.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/Code%20Partners%20Logo%20Stacked.png);"></div><span class="related-item-text">Why is DAI Investing in a Coding School?</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/forecasting-covid-19-transmission-using-google-mobility.html?utm_source=related-box"><div class="related-item-image" style="background-image: url(/uploads/COVID%20blog%20image.png);"></div><span class="related-item-text">COVID-19 Data Analysis, Part 6: Insights from Forecasting COVID-19 Transmission Rates In Mexico with Google Mobility Data</span></a></li>
             
             
             
