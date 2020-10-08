@@ -23,25 +23,19 @@ As development practitioners, I can’t overstate the need for digital literacy 
 Here are some questions I want you to ponder as we delve into this topic:
 
 1. **Does it matter to you that your online experience is tailored?**
-
 2. **If you could manually manipulate your social media feed, would you?** I would venture to say most people are quite comfortable in their current social media environment. After all, that is the point of recommender algorithms, to give you things that you already like or might also like.
-
 3. **If you did curate your own social media experience, do you think it would be any different than it is now?** Would the intentionality behind the decisions actually make a difference in what you follow (social media) or search for (general online presence)?
 
 ## Who Doesn’t Love Cookies?!
 
 Let’s wish we were eating cookies and instead talk about your *browser’s* cookies. Cookies are basically small packets of information about you, your computer, and your visits to sites. The actions of cookies can even sometimes be flagged as malicious by virus or malware scanners. Cookies are persistent, meaning they are stored in your browser (aka on your computer) until a self-prescribed expiration date. There are two main types of cookies:
 
-**1. First-party cookies** are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site every time, do you? Super helpful, right?
-
-But…
-
+**1. First-party cookies** are only used by the site that created them and help your browser “remember” that you are already signed-in to a site when you go back. You don’t want to have to log in to a site every time, do you? Super helpful, right? But…
 **2. Third-party cookies** are the ones that get sneaky.  According to [Privacy.Net](https://privacy.net/stop-cookies-tracking/) *"third-party persistent cookies are accessed on websites that didn’t create them. This allows the cookie’s creator to collect and receive data any time the user visits a page with a resource belonging to them. You don’t even need to click on an ad or social media sharing button for a tracking cookie’s information about you to be transmitted back to a server owned by the person or company who created it. As soon as you load the page, the cookie is sent to the server where it originated."* This is often how numerous sites know about your actions and purchases on other seemingly unrelated sites. Personally, I don’t explicitly allow third-party sites to have my information, but by using sites with agreements hidden in fine print, perhaps I inadvertently have.
 
 ### How You Can Protect Yourself
 
 1. **Delete all of your current cookies.** Unless you want to individually go through the likely thousands of cookies you have on your computer at this point, this is the most surefire way to succeed. **WARNING**: *This will subsequently require you to re-log in to all of the sites you have previously visited*. You know those “remember this computer” checkboxes? Well, they add that site’s cookies so you’ll have to click those again next time you log in. If you use a password manager like one I have talked about in a [previous post](https://dai-global-digital.com/personal-digital-security-the-beginning.html), this step will pose less of an issue.
-
 2. **Block third-party cookies** (see image with instructions below). Tracking ads can also be blocked so you don’t see them but this still means you are likely being targeted using the information that third-party tracking cookies have already gathered about you. While you can’t force those companies to delete the information they have stored, whatever it may be, you can prevent future collection. Do this and you will quickly see that some sites may not work 100 percent as you might expect. A profile image avatar might be broken because the site directly links to Facebook and uses your profile picture, but you may want this type of thing out of convenience and need to slightly modify your settings. [Privacy Badger](https://privacybadger.org/) makes this granular customization very easy.
 
 ![3rdpartycookie.png](/uploads/3rdpartycookie.png)`Example of where to block third-party cookies in Chrome. If you do not use Chrome, search for how to do this in your browser of choice, the terminology will be similar.`
