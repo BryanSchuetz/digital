@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Data Tracking: Tips, Tricks, and Tools'
-date: 2020-10-08 13:07:00 -04:00
+date: 2020-10-08 09:30:00 -04:00
 tags:
 - Data
 - Privacy
