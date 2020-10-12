@@ -2,6 +2,13 @@
 title: 'Digital Innovator Series: The View from Latvia’s Start-Up Scene with TrueSix’s
   Julia Gifford'
 date: 2020-10-12 14:56:00 -04:00
+tags:
+- Innovation
+- European Union
+- Ecosystem Insights
+- Digital Ecosystems
+- Digital Innovator
+Author: Inta Plostins
 ---
 
 Even though USAID’s [Journey to Self-Reliance](https://www.usaid.gov/sites/default/files/documents/1870/J2SR_Fact_Sheet_June_2020.pdf) has been covered extensively by the press, think tanks, academia, and implementers since its 2018 launch (over [390k Google search results](https://www.google.com/search?q=usaid\+journey\+to\+self\+reliance&rlz=1C1GCEA_enUS877US877&oq=usaid\+journey&aqs=chrome.0.69i59j69i57j0j69i59j69i60l2.1337j0j1&sourceid=chrome&ie=UTF-8) and counting), not much has been written about the countries that have actually graduated from USAID assistance. Latvia – a small country of two million people wedged between Russia and the Baltic Sea – was [one of eleven](https://www.usaid.gov/sites/default/files/documents/1863/EE_20Year_Review.pdf) Central, Eastern, and Southeastern European states to successfully graduate in the 1990s or early 2000s. After $57M over [eight years of USAID support](https://pdf.usaid.gov/pdf_docs/PDACI589.pdf) ending in 1999, what’s going on in Latvia now? Specifically, what’s going on in Latvia’s start-up scene and in the digital realm, since this is [Digital@DAI](https://dai-global-digital.com/)? Quite a bit, as it turns out – from start-ups specializing in [throwable microphones](https://catchbox.com/) and [localization and translation management platforms](https://lokalise.com/) to one of the [world’s first COVID-19 contact tracing apps](https://www.reuters.com/article/us-health-coronavirus-tech-latvia-idUSKBN23118I) using the Apple/Google application programming interfaces (APIs). I sat down with my friend of 25 years, Canadian-Latvian start-up advocate and founder of [TrueSix](https://truesix.co/) – a Latvian content marketing start-up that help brands get noticed in the US market with strategic content, copy and advertising – to find out more.
