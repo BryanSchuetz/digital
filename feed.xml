@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Oct 2020 09:37:24 -0400</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2020 09:37:24 -0400</lastBuildDate>
+    <pubDate>Thu, 15 Oct 2020 09:48:30 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Oct 2020 09:48:30 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202020-10-15%20at%209.06.53%20AM.png" medium="image" /> 
+        <title>Research Launch: User Perceptions of Trust &amp; Privacy on the Internet</title>
+        <description>&lt;p&gt;DAI’s Center for Digital Acceleration cordially invites you to an online event on findings from our latest Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. We’ll be discussing these findings with a diverse panel of distinguished speakers from A4AI, USAID, FCDO, GSMA, and the Ghana Chamber of Telecommunications.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Oct 2020 06:07:00 -0400</pubDate>
+        <author>Galia Nurko
+</author>
+        <link>https://dai-global-digital.com/youre-invited-research-launch-user-perceptions-of-trust-and-privacy-on-the-internet.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/youre-invited-research-launch-user-perceptions-of-trust-and-privacy-on-the-internet.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Trust</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/trevorblogpic.jpg" medium="image" /> 
@@ -194,27 +215,6 @@
         <category>Electronic Cash Transfer</category>
         
         <category>Interoperability</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/DRGRFAblog.jpg" medium="image" /> 
-        <title>Respond Now: USAID Seeks Research Expertise in Responding to Digital Threats</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) Democracy, Human Rights, and Governance (DRG) office’s Responding to Digital Threats Activity.&lt;/p&gt;
-
-&lt;p&gt;In the 21st century, digital tools increasingly are becoming irreplaceable assets for societies. While digital tools offer an unprecedented opportunity for vulnerable, underserved, and unserved populations to access information and services, they also expose people, organizations, and countries to risks—for instance, the incitement of ethnic cleansing in Myanmar through digital platforms like Facebook, the manipulation of electoral discourse through the spread of disinformation in places like Ukraine, Brazil, and Vietnam, and the reverberating effects of massive ransomware attacks felt in high, middle, and low-income countries alike. These trends pose a threat to rule-of-law, democratic process, and human rights worldwide. In particular, China is exporting to other countries an internet governance model that conflicts with U.S. values of promoting an open, interoperable, free, and secure internet and democratic norms.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 28 Aug 2020 20:50:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/evan-nicole-leg%C3%A9-5a111845/">Evan Lege</a>
-</author>
-        <link>https://dai-global-digital.com/respond-now-usaid-seeks-research-expertise-in-responding-to-digital-threats.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/respond-now-usaid-seeks-research-expertise-in-responding-to-digital-threats.html</guid>
-        
-        <category>Governance</category>
-        
-        <category>cybersecurity</category>
         
         
       </item>
