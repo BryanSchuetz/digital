@@ -1,5 +1,5 @@
 ---
-title: 'Research Launch: User Perceptions of Trust & Privacy on the Internet'
+title: 'Research Launch: User Perceptions of Trust and Privacy on the Internet'
 date: 2020-10-15 06:07:00 -04:00
 tags:
 - Privacy
