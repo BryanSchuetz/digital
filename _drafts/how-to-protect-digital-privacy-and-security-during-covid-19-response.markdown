@@ -84,19 +84,15 @@ Cyber threats have the potential to cause serious disruption to development prog
 Cybersecurity for development can be understood as identifying, protecting, detecting, responding, and recovering from [threats and risks in a digital environment](https://www.ictworks.org/10-signs-your-computer-infected-viruses-malware-or-trojans/). Key questions for program teams include:
 
 * Have basic cyber hygiene practices been defined for programs? Are they being followed by implementing partners and program constituents?
-
 * Are implementing partner staff and constituents now working from home? What measures have organizations taken to mitigate related threats?
-
 * If implementing partners or constituents become the victim of a ransomware attack, is there a planned response?
-
 * How would programs be affected if data was lost or compromised due to ransomware or other attack?
-
 * Is critical data being regularly backed up and secured through multiple copies that are stored in separate virtual locations?
 
-The cybersecurity risks emerging during the global pandemic could both undermine response efforts and the long-term resilience and health of the digital ecosystem in developing countries. Learn how to protect your programs by [downloading this USAID short guide](https://www.usaid.gov/digital-development/covid-19/cybersecurity).
+The cybersecurity risks emerging during the global pandemic could both undermine response efforts and the long-term resilience and health of the digital ecosystem in developing countries. Learn how to protect your programs by downloading this [USAID short guide](https://www.usaid.gov/digital-development/covid-19/cybersecurity).
 
 ## COVID-19 and Digital Development
 
-USAID is committed to helping staff as well as development partners navigate both the risks and rewards associated with digital tools—particularly in the face of a global pandemic. We have developed [a series of COVID-19 considerations](https://www.usaid.gov/digital-development/covid-19) on digital payments, data collection, data privacy, cybersecurity, the gender digital divide, digital literacy, and the digital investment tool to inform staff about the opportunities and risks presented by digital tools in the context of COVID-19.
+USAID is committed to helping staff, as well as development partners, navigate both the risks and rewards associated with digital tools—particularly in the face of a global pandemic. We have developed a series of [COVID-19 considerations](https://www.usaid.gov/digital-development/covid-19) on digital payments, data collection, data privacy, cybersecurity, the gender digital divide, digital literacy, and the digital investment tool to inform staff about the opportunities and risks presented by digital tools in the context of COVID-19.
 
 *Jane Clifford is a Communications Advisor for the DAI-led [Digital Frontiers project](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df). This post first appeared on [ICTWorks.](https://www.ictworks.org/protect-digital-privacy-security-covid-19-response/#.X4dMTGhKg2w)*
