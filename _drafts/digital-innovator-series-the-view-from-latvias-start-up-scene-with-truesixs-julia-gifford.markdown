@@ -9,15 +9,15 @@ tags:
 - Digital Ecosystems
 - Digital Innovator
 Author: Inta Plostins
-social-image: "/uploads/yt2ntVur.png"
-thumbnail: "/uploads/yt2ntVur.png"
+social-image: "/uploads/intablognew.jpg"
+thumbnail: "/uploads/intablognew.jpg"
 ---
 
 Even though the U.S. Agency for International Development (USAID)’s [Journey to Self-Reliance](https://www.usaid.gov/sites/default/files/documents/1870/J2SR_Fact_Sheet_June_2020.pdf) has been covered extensively by the press, think tanks, academia, and implementers since its 2018 launch (more than [390,000 Google search results](https://www.google.com/search?q=usaid\+journey\+to\+self\+reliance&rlz=1C1GCEA_enUS877US877&oq=usaid\+journey&aqs=chrome.0.69i59j69i57j0j69i59j69i60l2.1337j0j1&sourceid=chrome&ie=UTF-8) and counting), not much has been written about the countries that have actually graduated from assistance. Latvia—a small country of two million people wedged between Russia and the Baltic Sea—was [one of 11](https://www.usaid.gov/sites/default/files/documents/1863/EE_20Year_Review.pdf) central, eastern, and southeastern European states to graduate in the 1990s or early 2000s. After $57 million over [eight years of USAID support](https://pdf.usaid.gov/pdf_docs/PDACI589.pdf) ending in 1999, what’s going on in Latvia now? Specifically, what’s going on in Latvia’s startup scene and in the digital realm? Quite a bit, as it turns out—from [throwable microphones](https://catchbox.com/) and [localization and translation management platforms](https://lokalise.com/) to one of the [world’s first COVID-19 contact tracing apps](https://www.reuters.com/article/us-health-coronavirus-tech-latvia-idUSKBN23118I) using the Apple/Google application programming interfaces (APIs). I sat down with my friend of 25 years, [Julia Gifford](https://twitter.com/julijagifford?lang=en), Canadian-Latvian startup advocate and founder of [TrueSix](https://truesix.co/)—a Latvian content marketing firm that helps brands get noticed in the U.S. market with strategic content, copy, and advertising—to find out more.
 
 <!--more-->
 
-![yt2ntVur.png](/uploads/yt2ntVur.png)
+![intablognew.jpg](/uploads/intablognew.jpg)
 
 **Why and how did you start working in Latvia’s startup scene? And why did you decide to start your own firm, [TrueSix](https://truesix.co/)?**
 
