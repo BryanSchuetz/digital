@@ -19,24 +19,20 @@ While the data on uptake and outcomes is still materializing, there are several 
 
 Governments in several countries have helped drive demand by waiving transaction fees to attract customers, although this has had the unintended side effect of [decreased profits](https://techcabal.com/2020/04/27/coronavirus-weekly-update-fintech-struggles/) for service providers, reinforcing the importance of weighing benefits and risks when implementing digital tools.
 
-![EricaBblog.jpg](/uploads/EricaBblog.jpg)`Picture from USAID's Digital Flickr. Credit: Brooke Patterson/USAID, November 2013.`
+![EricaBblog.jpg](/uploads/EricaBblog.jpg)`Picture from USAID's Digital Flickr page. Credit: Brooke Patterson/USAID, November 2013.`
 
 **As we increasingly use digital tools in development work, are we taking the right steps to ensure we are responsibly meeting the needs of those we serve?**
 
-USAID released its five-year [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) in April, which is implemented through four tracks and 16 initiatives. One initiative specifically focuses on promoting the uptake of digital payments, a tool USAID has championed for over a decade and aims to make the default method of payment under all awards.
+In April, the U.S. Agency for International Development (USAID) released its five-year [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf), which is implemented through four tracks and 16 initiatives. One initiative specifically focuses on promoting the uptake of digital payments, a tool USAID has championed for over a decade and aims to make the default method of payment under all awards.
 
-The Strategy launch coincided with the onset of the pandemic, which is on point with the increased need to catalyze priorities to support digital tools. In addition to [pledging over $1.335 billion](https://www.usaid.gov/sites/default/files/documents/352986/07.24.20_-_USAID_COVID-19_Global_Response_Fact_Sheet_6.docx.pdf) in funding for COVID-19 response, USAID has released a set of [targeted COVID-19 guidance documents](https://www.usaid.gov/digital-development/covid-19) specific to digital opportunities.
+The launch coincided with the onset of the pandemic, which is on point with the increased need to catalyze priorities to support digital tools. In addition to pledging [more than $1.335 billion](https://www.usaid.gov/sites/default/files/documents/352986/07.24.20_-_USAID_COVID-19_Global_Response_Fact_Sheet_6.docx.pdf) in funding for COVID-19 response, USAID has released a set of [targeted COVID-19 guidance documents](https://www.usaid.gov/digital-development/covid-19) specific to digital opportunities.
 
 USAID’s [Considerations for COVID-19 Response in Digital Payments](https://www.usaid.gov/digital-development/covid-19/digital-payments) lays out priority precursors and is particularly useful for social safety and relief payments. Turning to mobile payments is a tool in the “pivot” toolbox. While there are many factors to consider in transitioning to digital, [USAID](https://www.ictworks.org/tag/usaid/) focuses on several related to mitigating unintended harms when designing and launching digital payments:
 
 * ***Target*** those who need it most and reach them through engagement with the people they trust.
-
-* ***Tailor onboarding*** for the target population – if done properly digital payments can reach the masses or if not, can further exclude. For example, if your target population can’t meet basic enrollment legal requirements ([such as proof of identity](https://www.ictworks.org/tag/digital-identity/)) then your intervention could exclude them altogether.
-
+* ***Tailor onboarding*** for the target population—if done properly digital payments can reach the masses or if not, can further exclude. For example, if your target population can’t meet basic enrollment legal requirements ([such as proof of identity](https://www.ictworks.org/tag/digital-identity/)) then your intervention could exclude them altogether.
 * ***Evaluate liquidity*** potential to ensure there is enough funding in the targeted location to support ongoing liquidity for cash out or consistent digital transactions. If not, you may be sending your beneficiaries a useless payment.
-
 * ***Incorporate inclusion*** by considering gender, age, social groups, race, etc., with equal access to phones, connectivity, and other requisites.
-
 * ***Monitor*** programs to ensure they work effectively and iterate on issues that arise.
 
 These suggestions to guide digital payments programming decisions have been developed based on lessons learned from digital payments program design during [COVID-19 digital response](https://www.ictworks.org/tag/covid-19-response/) and other public health emergencies, such as Ebola. USAID is committed to easing these transitions to digital payments and supporting partners in doing so through resources such as the [Electronic Payments Toolkit](https://www.usaid.gov/digital-development/electronic-payments-toolkit) among others found on [digitaldevelopment.org](https://www.usaid.gov/digital-development/digital-finance).
