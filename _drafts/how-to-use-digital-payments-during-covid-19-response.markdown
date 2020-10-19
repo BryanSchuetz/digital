@@ -1,5 +1,5 @@
 ---
-title: How to Use Digital Payments During COVID-19 Response
+title: How to Use Digital Payments During the COVID-19 Response
 date: 2020-10-19 10:00:00 -04:00
 tags:
 - Digital Financial Services
@@ -9,23 +9,23 @@ social-image: "/uploads/EricaBblog.jpg"
 thumbnail: "/uploads/EricaBblog.jpg"
 ---
 
-The pandemic is affecting the way people interact with money; how much we spend, what we buy, and whether to opt for digital payments. In the US the switch to digital has even led to a [coin shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html), and the rest of the world is more reliant on cashless options too.
+The pandemic is affecting the way people interact with money; how much we spend, what we buy, and whether to opt for digital payments. In the United States, the switch to digital has even led to a [coin shortage](https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html), and the rest of the world is more reliant on cashless options, too.
 
 <!--more-->
 
 As a cornerstone digital tool for development, [digital payments](https://www.ictworks.org/tag/digital-financial-services/) have promoted efficiency and effectiveness as well as expanded financial inclusion. In addition to benefits such as decreasing costs, promoting transparency, and saving time, the contactless nature of digital payments is a more notable benefit as the COVID-19 pandemic necessitates social distancing.
 
-While the data on uptake and outcomes is still materializing, there are several examples of significant increase in use of digital finance attributed to COVID-19. As of April, person-to-person mobile money [transactions had increased by 485%](https://nextbillion.net/covid-rwanda-mobile-money/) as a result of the March lockdown in Rwanda.
+While the data on uptake and outcomes is still materializing, there are several examples of significant increase in the use of digital finance attributed to COVID-19. As of April, person-to-person mobile money transactions had [increased by 485 percent](https://nextbillion.net/covid-rwanda-mobile-money/) as a result of the March lockdown in Rwanda.
 
-Governments in several countries have helped drive demand by waiving transaction fees to attract customers, although this has had the unintended side-effect of [decreased profits](https://techcabal.com/2020/04/27/coronavirus-weekly-update-fintech-struggles/) for service providers, reinforcing the importance of weighing benefits and risks when implementing digital tools.
+Governments in several countries have helped drive demand by waiving transaction fees to attract customers, although this has had the unintended side effect of [decreased profits](https://techcabal.com/2020/04/27/coronavirus-weekly-update-fintech-struggles/) for service providers, reinforcing the importance of weighing benefits and risks when implementing digital tools.
 
-![EricaBblog.jpg](/uploads/EricaBblog.jpg)`Picture from USAID's Digital Flickr. Credit: Brooke Patterson/USAID, November2013.`
+![EricaBblog.jpg](/uploads/EricaBblog.jpg)`Picture from USAID's Digital Flickr. Credit: Brooke Patterson/USAID, November 2013.`
 
 **As we increasingly use digital tools in development work, are we taking the right steps to ensure we are responsibly meeting the needs of those we serve?**
 
-USAID released its five-year [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) in April, which is implemented through four tracks and sixteen initiatives. One initiative specifically focuses on promoting the uptake of digital payments, a tool USAID has championed for over a decade and aims to make the default method of payment under all awards.
+USAID released its five-year [Digital Strategy](https://www.usaid.gov/sites/default/files/documents/15396/USAID_Digital_Strategy.pdf) in April, which is implemented through four tracks and 16 initiatives. One initiative specifically focuses on promoting the uptake of digital payments, a tool USAID has championed for over a decade and aims to make the default method of payment under all awards.
 
-The Strategy launch coincided with the onset of the pandemic, which is on point with the increased need to catalyze priorities to support digital tools. In addition to [pledging over $1.335bn](https://www.usaid.gov/sites/default/files/documents/352986/07.24.20_-_USAID_COVID-19_Global_Response_Fact_Sheet_6.docx.pdf) in funding for COVID-19 response, USAID has released a set of [targeted COVID-19 guidance documents](https://www.usaid.gov/digital-development/covid-19) specific to digital opportunities.
+The Strategy launch coincided with the onset of the pandemic, which is on point with the increased need to catalyze priorities to support digital tools. In addition to [pledging over $1.335 billion](https://www.usaid.gov/sites/default/files/documents/352986/07.24.20_-_USAID_COVID-19_Global_Response_Fact_Sheet_6.docx.pdf) in funding for COVID-19 response, USAID has released a set of [targeted COVID-19 guidance documents](https://www.usaid.gov/digital-development/covid-19) specific to digital opportunities.
 
 USAID’s [Considerations for COVID-19 Response in Digital Payments](https://www.usaid.gov/digital-development/covid-19/digital-payments) lays out priority precursors and is particularly useful for social safety and relief payments. Turning to mobile payments is a tool in the “pivot” toolbox. While there are many factors to consider in transitioning to digital, [USAID](https://www.ictworks.org/tag/usaid/) focuses on several related to mitigating unintended harms when designing and launching digital payments:
 
