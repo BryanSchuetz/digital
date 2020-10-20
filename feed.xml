@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2020 08:52:29 -0400</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2020 08:52:29 -0400</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2020 09:19:30 -0400</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2020 09:19:30 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/EricaBblog.jpg" medium="image" /> 
+        <title>How to Use Digital Payments During the COVID-19 Response</title>
+        <description>&lt;p&gt;The pandemic is affecting the way people interact with money; how much we spend, what we buy, and whether to opt for digital payments. In the United States, the switch to digital has even led to a &lt;a href=&quot;https://www.nytimes.com/2020/07/29/business/coin-shortage-penny.html&quot;&gt;coin shortage&lt;/a&gt;, and the rest of the world is more reliant on cashless options, too.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Oct 2020 09:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/erica-bustinza-418191b2/">Erica Bustinza</a>
+</author>
+        <link>https://dai-global-digital.com/how-to-use-digital-payments-during-covid-19-response.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/how-to-use-digital-payments-during-covid-19-response.html</guid>
+        
+        <category>Digital Financial Services</category>
+        
+        <category>COVID-19</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202020-10-15%20at%209.06.53%20AM.png" medium="image" /> 
@@ -194,27 +213,6 @@
         <category>digital justice</category>
         
         <category>digital divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/HSNP%20finger%20prints-837a16.jpg" medium="image" /> 
-        <title>Management Information Systems at the Humanitarian-Social Protection Nexus, Part 1: Interoperability</title>
-        <description>&lt;p&gt;In late 2019 and early 2020, DAI and our partner &lt;a href=&quot;https://www.cariboudigital.net/&quot;&gt;Caribou Digital&lt;/a&gt; worked closely with the U.K. Department for International Development (now called the &lt;a href=&quot;https://www.gov.uk/government/organisations/foreign-commonwealth-development-office&quot;&gt;U.K. Foreign, Commonwealth, and Development Office&lt;/a&gt;) to analyse identification and registration systems in protracted and recurrent crises. The research explored the feasibility of designing humanitarian aid management information systems (MIS) to link with social protection systems and to support a transition, in the long-term, to state social assistance. Whilst the focus was principally on the interoperability of such systems, our legal, digital, and protection brains also pushed us to focus on the risks associated with data collection, sharing, and storage.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Sep 2020 04:33:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> <a href="https://www.linkedin.com/in/rachaelsteller/">Rachael Steller</a>
-</author>
-        <link>https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html</guid>
-        
-        <category>Privacy</category>
-        
-        <category>Electronic Cash Transfer</category>
-        
-        <category>Interoperability</category>
         
         
       </item>
