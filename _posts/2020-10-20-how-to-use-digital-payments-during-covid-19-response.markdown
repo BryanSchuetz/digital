@@ -1,6 +1,6 @@
 ---
 title: How to Use Digital Payments During the COVID-19 Response
-date: 2020-10-20 08:00:00 -04:00
+date: 2020-10-20 09:00:00 -04:00
 tags:
 - Digital Financial Services
 - COVID-19
