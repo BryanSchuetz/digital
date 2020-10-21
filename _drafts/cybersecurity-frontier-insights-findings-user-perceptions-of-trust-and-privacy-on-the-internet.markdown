@@ -41,11 +41,11 @@ We lack quality data on how user trust of the internet is shaped by their percep
 
 Based on these findings and the existing literature, we offer the following recommendations to stakeholders:
 
-1. The digital development community should adopt a [10th Principal for Digital Development ](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html)focusing on advancing digital and media literacy for the user.
+**1.** The digital development community should adopt a [10th Principal for Digital Development](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) focusing on advancing digital and media literacy for the user.
 
-2. The community should drive coordinated, cross-sector action to develop and adopt universal (but “localizable”) digital and media literacy curricula in an open-source, dynamic fashion.
+**2.** The community should drive coordinated, cross-sector action to develop and adopt universal (but “localizable”) digital and media literacy curricula in an open-source, dynamic fashion.
 
-3. Technology companies, especially global platform providers such as Facebook and Google, should guard against assuming Western norms apply universally by increasing investment in localized design research and robust user testing when developing privacy solutions for global audiences and marginalized groups.
+**3.** Technology companies, especially global platform providers such as Facebook and Google, should guard against assuming Western norms apply universally by increasing investment in localized design research and robust user testing when developing privacy solutions for global audiences and marginalized groups.
 
 4. The international development community should fund additional research to better understand privacy and security from a user’s perspective, taking particular account of women’s views, and exploring diverse geographic, socioeconomic, and demographic settings.
 
