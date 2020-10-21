@@ -47,9 +47,9 @@ Based on these findings and the existing literature, we offer the following reco
 
 **3.** Technology companies, especially global platform providers such as Facebook and Google, should guard against assuming Western norms apply universally by increasing investment in localized design research and robust user testing when developing privacy solutions for global audiences and marginalized groups.
 
-4. The international development community should fund additional research to better understand privacy and security from a user’s perspective, taking particular account of women’s views, and exploring diverse geographic, socioeconomic, and demographic settings.
+**4.** The international development community should fund additional research to better understand privacy and security from a user’s perspective, taking particular account of women’s views, and exploring diverse geographic, socioeconomic, and demographic settings.
 
-5. Regulatory bodies should engage a diverse group of stakeholders from across the public and private sectors, academia, and civil society to develop fair, innovation-friendly, yet protection-focused privacy and security policies that strengthens an open, interoperable, inclusive, and secure internet.
+**5.** Regulatory bodies should engage a diverse group of stakeholders from across the public and private sectors, academia, and civil society to develop fair, innovation-friendly, yet protection-focused privacy and security policies that strengthens an open, interoperable, inclusive, and secure internet.
 
 To fully realize the potential benefits of internet access, we must match our investments in digital infrastructure, digital tools, and digital services with a commensurate investment in building digital trust.
 
