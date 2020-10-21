@@ -19,7 +19,7 @@ Since the creation of the internet more than 30 years ago, our lives, economies,
 
 This is a problem not only because these are bad things to encounter. It’s a problem because [trust underpins adoption](https://www.dai.com/cda-cybersecurity.pdf) and these digital harms risk undermining trust in digital services more broadly. If you think using a website, tool, or application exposes you to fraud or surveillance or crime, you’re probably not going to use it, right? If you are digitally savvy and/or in a developed community, you’ll probably find another way to accomplish your task—but if you are a very new user, who maybe struggles with digital or even basic literacy, encountering such threats might be enough to erode your confidence to the point of disengaging with online services altogether.
 
-![Ghana4.jpeg](/uploads/Ghana4.jpeg)
+![Ghana4.jpeg](/uploads/Ghana4.jpeg)`Photo Source: DAI Cybersecurity Frontier Insights Report through Adobe Stock.`
 
 This lack of trust poses a stark challenge to national governments, international donors, and private companies seeking to promote digital inclusion. If the risks associated with online access outweigh the benefits, unconnected or newly connected people may fail to see the value of digital adoption at a time where economies are becoming more digitized, leaving them even further behind.
 
@@ -37,7 +37,7 @@ We lack quality data on how user trust of the internet is shaped by their percep
 
 **4.** Offline gender gaps and dynamics influence perceptions of security and privacy online, affecting what digital services women can use and how they use them compared to men. All participants voiced concerns about the offline consequences of online behavior, but those perceptions most acutely limit what women do online, which risks exacerbating the online gender gap and leaving female internet users even further behind.
 
-![India4.jpeg](/uploads/India4.jpeg)
+![India4.jpeg](/uploads/India4.jpeg)`Photo Source: DAI Cybersecurity Frontier Insights Report through Adobe Stock.`
 
 Based on these findings and the existing literature, we offer the following recommendations to stakeholders:
 
