@@ -33,7 +33,7 @@ We lack quality data on how user trust of the internet is shaped by their percep
 
 **2.** The existence of mis/disinformation is widely known, yet people’s perceptions of what is often dubbed “fake news”—and of how much risk it presents to them personally—vary by geography and depend on how well they understand how digital platforms operate.
 
-**3.** Tactics to protect privacy and security online differ depending on whether users own their smartphone or share it, on whether they are male or female, and on their level of digital literacy. Users might invent codenames for contacts of the opposite sex, for example, or change mobile application settings, or limit the types of information they share on digital platforms.
+**3.** Tactics to protect privacy and security online differ depending on whether users own their smartphone or share it, whether they are male or female, and their digital literacy. Users might invent codenames for contacts of the opposite sex, for example, or change mobile application settings, or limit the types of information they share on digital platforms.
 
 **4.** Offline gender gaps and dynamics influence perceptions of security and privacy online, affecting what digital services women can use and how they use them compared to men. All participants voiced concerns about the offline consequences of online behavior, but those perceptions most acutely limit what women do online, which risks exacerbating the online gender gap and leaving female internet users even further behind.
 
