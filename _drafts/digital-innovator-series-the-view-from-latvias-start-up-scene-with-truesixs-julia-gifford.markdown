@@ -17,7 +17,7 @@ Even though the U.S. Agency for International Development (USAID)’s [Journey t
 
 <!--more-->
 
-![intablognew.jpg](/uploads/intablognew.jpg)
+![intablognew.jpg](/uploads/intablognew.jpg)`Julia Gifford, Founder, TrueSix.`
 
 **Why and how did you start working in Latvia’s startup scene? And why did you decide to start your own firm, [TrueSix](https://truesix.co/)?**
 
