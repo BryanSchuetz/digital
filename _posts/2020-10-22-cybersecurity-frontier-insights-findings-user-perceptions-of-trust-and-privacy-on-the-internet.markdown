@@ -37,7 +37,7 @@ We lack quality data on how user trust of the internet is shaped by their percep
 
 **4.** Offline gender gaps and dynamics influence perceptions of security and privacy online, affecting what digital services women can use and how they use them compared to men. All participants voiced concerns about the offline consequences of online behavior, but those perceptions most acutely limit what women do online, which risks exacerbating the online gender gap and leaving female internet users even further behind.
 
-![India4.jpeg](/uploads/India4.jpeg)`Photo Source: DAI Cybersecurity Frontier Insights Report through Adobe Stock.`
+![India4.jpeg](/uploads/India4.jpeg)`Photo credit: Adobe Stock.`
 
 Based on these findings and the existing literature, we offer the following recommendations to stakeholders:
 
