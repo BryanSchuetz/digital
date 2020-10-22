@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Oct 2020 14:35:52 -0400</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2020 14:35:52 -0400</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2020 11:57:32 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2020 11:57:32 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202020-10-15%20at%209.06.53%20AM.png" medium="image" /> 
+        <title>Cybersecurity Frontier Insights Findings: User Perceptions of Trust and Privacy on the Internet</title>
+        <description>&lt;p&gt;&lt;em&gt;Last week we shared that the Center for Digital Acceleration was launching our most recent Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. Here are the findings from that report, which can be downloaded &lt;a href=&quot;https://www.dai.com/fi-cyber-user-trust.pdf&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the creation of the internet more than 30 years ago, our lives, economies, and societies have changed dramatically and the restrictions of the COVID-19 pandemic have accelerated change even more. As we’ve developed seemingly endless new methods of online communication, commerce, and civic participation, the international development community has become more acutely aware of a growing digital divide: those who are poor, rural, remote, illiterate, female, or living with disabilities in emerging markets risk being excluded from the benefits of digital transformation. Therefore, especially in recent years and months, we’ve seen valiant efforts from governments, private companies, and the development community to bridge digital gaps aiming to enable more people to access and benefit from online services. However, as access and use has increased, so has the number of digital risks, with data breaches, fraud, surveillance, and cybercrime on the rise globally.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Oct 2020 06:01:00 -0400</pubDate>
+        <author>Julia Burchell
+</author>
+        <link>https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html</guid>
+        
+        <category>Privacy</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Trust</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/EricaBblog.jpg" medium="image" /> 
@@ -194,25 +217,6 @@
         <category>Virtual Workshops</category>
         
         <category>Digital</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Araba%20Blog%20-%20BLM.jpg" medium="image" /> 
-        <title>Defining Digital Justice</title>
-        <description>&lt;p&gt;George Floyd. Breonna Taylor. Ahmaud Arbery. By now you know the story of the people behind these names and have learned about the violence that cut their lives short. You have heard their names cried out in the streets along with demands to dismantle systemic racism and you have witnessed how their untimely deaths launched a global &lt;strong&gt;conversation&lt;/strong&gt; about racism, justice, and the value of black lives. For many, these three names reinvigorated a hunger for social justice and kicked off months of protesting, donating, reading, and conversing through confusion, anger, guilt, hurt, and hope. With this &lt;strong&gt;historic and emotional summer drawing to a close&lt;/strong&gt;, I find myself wondering what will become of the hunger. As the shock and outrage subside, and corporate promises to “do better” ease mounting public pressure, I wonder how best to ensure this drive for social change lasts.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Sep 2020 11:37:00 -0400</pubDate>
-        <author>Araba Sapara-Grant
-</author>
-        <link>https://dai-global-digital.com/defining-digital-justice.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/defining-digital-justice.html</guid>
-        
-        <category>digital justice</category>
-        
-        <category>digital divide</category>
         
         
       </item>
