@@ -18,3 +18,26 @@ Text
 Text
 
 ![IMG_20200225_105025026_crop.jpg](/uploads/IMG_20200225_105025026_crop.jpg)`Food distribution at the Ali Addeh refugee camp. Photo credit: Addie Ryan.`
+
+## 6 Data Ecosystem Observations
+
+Text
+**1. The Comprehensive Refugee Response Framework is reorienting humanitarian response in Djibouti.** Text
+
+**2. Stakeholders across the sector show increased interest in digitization and digitalization.** Text
+
+\[Photo\]
+
+**3. Bottlenecks in data collection are a key concern for all stakeholder groups.** Text
+
+**4. Stakeholders share limited data, mostly informally.** Text
+
+**5. Existing feedback is slipping through the cracks.** Text
+
+\[photo\]
+
+**6. Development of a digital beneficiary feedback mechanism (BFM) is underway.** Text
+
+## What's Next?
+
+Text
