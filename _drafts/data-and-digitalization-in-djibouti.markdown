@@ -27,7 +27,7 @@ Text
 
 **2. Stakeholders across the sector show increased interest in digitization and digitalization.** Text
 
-\[Photo\]
+![IMG_20200223_104958681_crop.jpg](/uploads/IMG_20200223_104958681_crop.jpg)`Mary Florence Ngima, USAID/East Africa, participates in a simulation of the beneficiary enrollment portal by Djibouti’s Ministry of Social Services and Solidarity. Photo credit: Addie Ryan.
 
 **3. Bottlenecks in data collection are a key concern for all stakeholder groups.** Text
 
