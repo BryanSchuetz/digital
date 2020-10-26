@@ -22,6 +22,7 @@ Text
 ## 6 Data Ecosystem Observations
 
 Text
+
 **1. The Comprehensive Refugee Response Framework is reorienting humanitarian response in Djibouti.** Text
 
 **2. Stakeholders across the sector show increased interest in digitization and digitalization.** Text
