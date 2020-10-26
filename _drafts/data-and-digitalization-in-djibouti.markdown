@@ -47,6 +47,8 @@ With this mission in mind, our DERA team led by USAID’s Mikael Baker held inte
 
 ## What's Next?
 
-We’re finalizing a report for USAID/BHA detailing the findings and recommendations from Djibouti Humanitarian Data Ecosystem Rapid Assessment. We hope to be able to share some key recommendations with you soon.
+We’re finalizing a report for USAID/BHA detailing the findings and recommendations from Djibouti Humanitarian Data Ecosystem Rapid Assessment. We hope to be able to share some key recommendations with you soon. 
 
-***Note: Though this research was funded through the U.S. Government’s Digital Frontiers project, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.***
+In the meantime, check out DAI's recent posts ([Part 1](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html) and [Part 2](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html)) providing an overview of management information systems at the humanitarian-social protection nexus, supported by case studies in Yemen and South Sudan. For greater detail, this [Review and Analysis of Identification and Registration Systems in Protracted and Recurrent Crises](https://www.dai.com/uploads/bsic-MIS-2020.pdf) is publicly available as well.
+
+*Note: Though this research was funded through the U.S. Government’s Digital Frontiers project, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.*
