@@ -48,3 +48,5 @@ With this mission in mind, our DERA team led by USAID’s Mikael Baker held inte
 ## What's Next?
 
 We’re finalizing a report for USAID/BHA detailing the findings and recommendations from Djibouti Humanitarian Data Ecosystem Rapid Assessment. We hope to be able to share some key recommendations with you soon.
+
+***Note: Though this research was funded through the U.S. Government’s Digital Frontiers project, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.***
