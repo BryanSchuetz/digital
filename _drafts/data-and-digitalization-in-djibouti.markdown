@@ -35,7 +35,7 @@ Text
 
 **5. Existing feedback is slipping through the cracks.** Text
 
-\[photo\]
+![IMG_20200224_134929836_crop.jpg](/uploads/IMG_20200224_134929836_crop.jpg)`A suggestion box stationed at the Markazi refugee camp. Photo credit: Addie Ryan.`
 
 **6. Development of a digital beneficiary feedback mechanism (BFM) is underway.** Text
 
