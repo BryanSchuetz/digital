@@ -8,6 +8,7 @@ tags:
 - Ecosystem Insights
 Author: Addie Ryan
 social-image: "/uploads/IMG_20200225_110227793_crop.jpg"
+thumbnail: "/uploads/IMG_20200225_110227793_crop.jpg"
 ---
 
 Earlier this year, and what feels like a lifetime ago, I found myself staring out at the arid countryside from the back of a white Landcruiser, bouncing along a bumpy road shared with camel herders, barefoot migrants and a growing swarm of locusts. I had traveled to Djibouti with a small team of industry colleagues for what would be my first, last and only overseas trip of 2020. Though unknowingly on the cusp of global pandemic, COVID-19 had not yet permeated the African continent and our focus was on the task at hand: examining Djibouti’s humanitarian data ecosystem. Our mission was to explore how government, non-government organizations, and refugees understood, collected, used and shared humanitarian data. We began this undertaking, called a Data Ecosystem Rapid Assessment or “DERA”, with desk research and followed with two weeks in-country interviewing as many stakeholders as we could.
