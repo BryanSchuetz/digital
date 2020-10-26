@@ -4,8 +4,8 @@ title: "Examining Data and Digitalization in Djibouti \n(aka My Last Mission bef
 date: 2020-10-29 07:00:00 -04:00
 tags:
 - Data
-- Ecosystem Insights
 - Digital Insights
+- Ecosystem Insights
 Author: Addie Ryan
 ---
 
