@@ -1,6 +1,6 @@
 ---
 title: How to Protect Digital Privacy and Security During COVID-19 Response
-date: 2020-10-26 11:00:00 -04:00
+date: 2020-10-27 06:00:00 -04:00
 tags:
 - COVID-19
 - Digital Privacy
