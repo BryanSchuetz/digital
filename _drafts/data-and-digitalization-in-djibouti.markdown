@@ -15,7 +15,7 @@ Earlier this year, and what feels like a lifetime ago, I found myself staring ou
 
 <!--more-->
 
-![IMG_20200225_110227793_crop.jpg](/uploads/IMG_20200225_110227793_crop.jpg)`Refugees verify their identities via biometric technology before receiving food rations at the Ali Addeh refugee camp. Photo credit: Mikael Baker.`
+![IMG_20200225_110227793_resz.jpg](/uploads/IMG_20200225_110227793_resz.jpg)`Refugees verify their identities via biometric technology before receiving food rations at the Ali Addeh refugee camp. Photo credit: Mikael Baker.`
 
 ## A Strategic Partner for Regional Security
 
@@ -25,7 +25,7 @@ A tiny and often overlooked country, Djibouti serves as a strategic transit poin
 
 The DERA’s objective was to offer findings and recommendations to specifically inform USAID Bureau for Humanitarian Assistance (USAID/BHA) interventions and improve stakeholder coordination in view of the agency’s long-standing support to private international and voluntary organizations (PIOs and PVOs) combating food insecurity and malnutrition within Djibouti’s refugee camps.
 
-![IMG_20200225_105025026_crop.jpg](/uploads/IMG_20200225_105025026_crop.jpg)`Food distribution at the Ali Addeh refugee camp. Photo credit: Addie Ryan.`
+![IMG_20200225_105025026_resz.jpg](/uploads/IMG_20200225_105025026_resz.jpg)`Food distribution at the Ali Addeh refugee camp. Photo credit: Addie Ryan.`
 
 ## Six Data Ecosystem Observations
 
@@ -35,7 +35,7 @@ With this mission in mind, our DERA team led by USAID’s Mikael Baker held inte
 
 **2. Stakeholders across the sector show increased interest in digitization and digitalization.** Donors and GoDj are investing resources into digitizing data, upgrading data systems, and digitalizing organizational processes—from investments in [DHIS2](https://www.dhis2.org/) by Djibouti’s Ministry of Health to the use of biometrics for identity validation by the Ministry of Social Affairs and Solidarity (MASS) and the World Food Programme (WFP). However, financial and human capacity may limit the utility of an increased quantity of data, as well as the sustainability and interoperability of new and upgraded data systems.
 
-![IMG_20200223_104958681_crop.jpg](/uploads/IMG_20200223_104958681_crop.jpg)`Mary Florence Ngima, USAID/East Africa, participates in a simulation of the beneficiary enrollment portal by Djibouti’s Ministry of Social Services and Solidarity. Photo credit: Addie Ryan.`
+![IMG_20200223_104958681_resz.jpg](/uploads/IMG_20200223_104958681_resz.jpg)`Mary Florence Ngima, USAID/East Africa, participates in a simulation of the beneficiary enrollment portal by Djibouti’s Ministry of Social Services and Solidarity. Photo credit: Addie Ryan.`
 
 **3. Bottlenecks in data collection are a key concern for all stakeholder groups.** The Djibouti National Statistics Institute (INSD) approves all national data collection efforts. Additionally, it recruits enumerators only from the regions of Djibouti where the data will be collected, to facilitate communication between respondents and enumerators familiar with the communities, culture, and languages of the target geographic area. The enumerator cadre has high turnover and capacity constraints, partially due to the temporary employment status. When multiple organizations want to collect data at the same time, INSD cannot always meet demand, which delays data collection efforts.
 
@@ -43,7 +43,7 @@ With this mission in mind, our DERA team led by USAID’s Mikael Baker held inte
 
 **5. Feedback is slipping through the cracks.** A key DERA objective was to understand existing refugee feedback processes to inform the development of a digital beneficiary feedback mechanism (BFM). A digital BFM is a software platform for systematic management of feedback, complaints, and requests from beneficiaries (in this case, refugees). We observed a number of efforts by PIOs and PVOs to advertise reporting hotlines or complaint drop boxes, but we found that they either weren’t known or accessible to refugees, or weren’t effectively monitored and acted upon, leading to infrequent use. As a result, most reporting is being conveyed verbally with varying degrees of successful follow-up.
 
-![IMG_20200224_134929836_crop.jpg](/uploads/IMG_20200224_134929836_crop.jpg)`A suggestion box stationed at the Markazi refugee camp. Photo credit: Addie Ryan.`
+![IMG_20200224_134929836_resz.jpg](/uploads/IMG_20200224_134929836_resz.jpg)`A suggestion box stationed at the Markazi refugee camp. Photo credit: Addie Ryan.`
 
 **6. Development of a digital BFM is underway.** We also learned that the WFP is already preparing to roll out SugarCRM, its global BFM platform, in Djibouti, and plans to coordinate with the Office of the United Nations High Commissioner for Refugees (UNHCR) and other organizations for its implementation. This digital BFM shows promise in reducing the instances of feedback slipping through the cracks by not reaching the appropriate stakeholders, provided that refugees are engaged and consulted throughout its design and deployment. Key to its success will be making sure the BFM is understood, trusted, and utilized by these beneficiaries, as well as those responsible for following up on feedback. *(Note: DAI has written extensively about the importance of user-centered design in our [Frontier Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/insights-for-emerging-markets) research publications.)*
 
