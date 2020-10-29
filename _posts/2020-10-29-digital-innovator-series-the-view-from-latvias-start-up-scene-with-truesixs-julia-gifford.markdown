@@ -1,7 +1,7 @@
 ---
 title: 'Digital Innovator Series: The View from Latvia’s Startup Scene with TrueSix’s
   Julia Gifford'
-date: 2020-10-12 14:56:00 -04:00
+date: 2020-10-29 14:00:00 -04:00
 tags:
 - Innovation
 - Ecosystem Insights
