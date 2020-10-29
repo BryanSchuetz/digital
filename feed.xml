@@ -5,31 +5,9 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Oct 2020 10:09:45 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2020 10:09:45 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2020 12:32:03 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2020 12:32:03 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/IMG_20200225_110227793_crop.jpg" medium="image" /> 
-        <title>Examining Data and Digitalization in Djibouti 
-(aka My Last Mission before the World Shut Down)</title>
-        <description>&lt;p&gt;Earlier this year, and what feels like a lifetime ago, I found myself staring out at the arid countryside from the back of a white Landcruiser, bouncing along a bumpy road shared with camel herders, barefoot migrants, and a growing swarm of locusts. I had traveled to Djibouti with a small team of colleagues for what would be my first, last, and only overseas trip of 2020. Though unknowingly on the cusp of a global pandemic, COVID-19 had not yet permeated the African continent and our focus was on the task at hand: examining Djibouti’s humanitarian data ecosystem. Our mission was to explore how government, non-government organizations, and refugees understand, collect, use, and share humanitarian data. We began this undertaking, called a data ecosystem rapid assessment or “DERA,” with desk research and followed with two weeks in-country interviewing as many stakeholders as we could.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Oct 2020 07:00:00 -0400</pubDate>
-        <author>Addie Ryan
-</author>
-        <link>https://dai-global-digital.com/data-and-digitalization-in-djibouti.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/data-and-digitalization-in-djibouti.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Digital Insights</category>
-        
-        <category>Ecosystem Insights</category>
-        
-        
-      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/HOT%20Peru%20Photo.jpg" medium="image" /> 
@@ -223,6 +201,25 @@
         <category>MIS</category>
         
         <category>humanitarian response</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/RFP_AfricaU_blog.jpg" medium="image" /> 
+        <title>Deadline Extended: Applications for Digital Trade and e-Commerce Technical Assistance for the African Union Commission</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project has extended the deadline for proposals for a Digital Trade and e-Commerce Advisor to support the African Union (AU) Commission under its ProICT program activity (initial announcement &lt;a href=&quot;https://dai-global-digital.com/apply-now-digital-trade-and-e-commerce-technical-assistance-for-the-african-union-commission.html&quot;&gt;here&lt;/a&gt;). ProICT is part of the Digital Connectivity and Cybersecurity Partnership and is designed to fund intensive, dedicated policy, and regulatory engagements in the areas of telecommunications, internet, and ICT. This activity will provide technical assistance to the AU Commission’s Department of Trade and Industry on digital trade and e-commerce work.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Sep 2020 14:59:00 -0400</pubDate>
+        <author><a href="https://manage.siteleaf.com/sites/568d4cf73aaede128400000b/collections/posts/new">Andrea Falso</a>
+</author>
+        <link>https://dai-global-digital.com/deadline-extended-applications-for-digital-trade-and-e-commerce-technical-assistance-for-the-african-union-commission.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/deadline-extended-applications-for-digital-trade-and-e-commerce-technical-assistance-for-the-african-union-commission.html</guid>
+        
+        <category>ecommerce</category>
+        
+        <category>Innovation</category>
         
         
       </item>

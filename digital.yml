@@ -1,16 +1,4 @@
 
-- title: "Examining Data and Digitalization in Djibouti 
-(aka My Last Mission before the World Shut Down)"
-  pub: "Digital"
-  date: 2020-10-29
-  link: "https://dai-global-digital.com/data-and-digitalization-in-djibouti.html?utm_source=daidotcom"
-  summary: "Earlier this year, and what feels like a lifetime ago, I found myself staring out at the arid countryside from the back of a white Landcruiser, bouncing along a bumpy road shared with camel herders, barefoot migrants, and a growing swarm of locusts. I had traveled to Djibouti with a small team of colleagues for what would be my first, last, and only overseas trip of 2020. Though unknowingly on the cusp of a global pandemic, COVID-19 had not yet permeated the African continent and our focus was on the task at hand: examining Djibouti’s humanitarian data ecosystem. Our mission was to explore how government, non-government organizations, and refugees understand, collect, use, and share humanitarian data. We began this undertaking, called a data ecosystem rapid assessment or “DERA,” with desk research and followed with two weeks in-country interviewing as many stakeholders as we could."
-  tags:
-    - digital acceleration 
-    - Data 
-    - Digital Insights 
-    - Ecosystem Insights 
-
 - title: "How to Protect Digital Privacy and Security During COVID-19 Response"
   pub: "Digital"
   date: 2020-10-27
@@ -231,4 +219,15 @@ With data comes power: the power to make better, smarter decisions; to use infor
     - digital acceleration 
     - Digital Inclusion 
     - COVID-19 
+
+- title: "Transforming In-Person Learning into Digital Collaboration"
+  pub: "Digital"
+  date: 2020-07-30
+  link: "https://dai-global-digital.com/transforming-in-person-learning-into-digital.html?utm_source=daidotcom"
+  summary: "COVID-19 pushed people into their homes and brought to light the different options that exist to transform the way we learn from in-person settings to online classrooms. Although online learning is not new, the adoption of these learning platforms by the general population has been slow in comparison to the development of new technology-enabled education solutions."
+  tags:
+    - digital acceleration 
+    - COVID-19 
+    - Digital Transformation 
+    - Digital Collaboration 
 
