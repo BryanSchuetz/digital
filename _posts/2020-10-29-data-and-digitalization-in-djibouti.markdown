@@ -2,6 +2,7 @@
 title: "Examining Data and Digitalization in Djibouti \n(aka My Last Mission before
   the World Shut Down)"
 date: 2020-10-29 07:00:00 -04:00
+published: false
 tags:
 - Data
 - Digital Insights
