@@ -1,5 +1,5 @@
 ---
-title: Alex Sekhniashvili
+title: Alexander Sekhniashvili
 date: 2020-10-29 10:43:00 -04:00
 Job: Consultant
 Image: "/uploads/AS%20Picture.jpeg"
