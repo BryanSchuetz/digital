@@ -5,7 +5,7 @@ date: 2020-11-05 07:00:00 -05:00
 tags:
 - Cybersecurity
 - Critical Infrastructure
-Author: Alexander Sekhniashvili
+Author: "[Alexander Sekhniashvili](dai-global-digital.com/authors/alex-sekhniashvili/)"
 social-image: "/uploads/alex%20blog%201%20image%202.jpg"
 thumbnail: "/uploads/alex%20blog%201%20image%202.jpg"
 ---
