@@ -1,7 +1,6 @@
 ---
 title: Alexander Sekhniashvili
 date: 2020-10-29 10:43:00 -04:00
-permalink: "/authors/dai-global-digital.com/authors/alexander-sekhniashvili/"
 Job: Consultant
 Image: "/uploads/AS%20Picture.jpeg"
 ---
