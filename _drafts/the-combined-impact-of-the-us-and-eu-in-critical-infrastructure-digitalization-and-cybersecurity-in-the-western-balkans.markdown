@@ -10,10 +10,10 @@ Author: Alexander Sekhniashvili
 
 [text]
 
-![alex blog 1 image 1.jpg](/uploads/alex%20blog%201%20image%201.jpg)
+![alex blog 1 image 1.jpg](/uploads/alex%20blog%201%20image%201.jpg)`Source: https://www.pxfuel.com/en/free-photo-qllzm`
 
 [text]
 
-![alex blog 1 image 2.jpg](/uploads/alex%20blog%201%20image%202.jpg)
+![alex blog 1 image 2.jpg](/uploads/alex%20blog%201%20image%202.jpg)`Source: https://www.pikrepo.com/feaes/black-electronic-device-with-yellow-cables`
 
 [text]
