@@ -1,7 +1,9 @@
 ---
 title: Top three considerations for eLearning design
 date: 2020-11-05 10:13:00 -05:00
-Author: Alejandro Solis
+Author:
+- Anne Hand
+- Alejandro Solis
 ---
 
 COVID-19 has caused major disruptions in all walks of life, everywhere in the world. It has dramatically changed activities we used to do in person, especially activities that brought together people from different places with the goals of knowledge exchange and strengthening relationships. Specifically, uncertainty over whether or how in-person education and training can continue as the pandemic evolves has preemptively moved many types of learning online, especially for adults.
