@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2020 09:02:13 -0500</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2020 09:02:13 -0500</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2020 09:08:43 -0500</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2020 09:08:43 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/alex%20blog%201%20image%202.jpg" medium="image" /> 
+        <title>Western Nations Seek to Bulk Up Critical Infrastructure, Digitalization, and Cybersecurity in the Western Balkans</title>
+        <description>&lt;p&gt;The Western Balkans, like many regions across the world, is navigating the disruptive effects of COVID-19 on their economies, while also digitalizing numerous critical sectors. Critical infrastructure (CI) is &lt;a href=&quot;https://www.dhs.gov/topic/critical-infrastructure-security&quot;&gt;defined&lt;/a&gt; as “the physical and cyber systems and assets that are so vital to [a country] that their incapacity or destruction would have a debilitating impact on physical or economic security or public health or safety.” Recent threats emanating from malicious individual and nation-state actors remind us that cybersecurity considerations are vital to mitigate potentially widespread and devastating effects. In fact, the need to focus on network and system securities is only accelerated with the unique nature of digital challenges brought on by the COVID-19 pandemic in the region.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2020 07:00:00 -0500</pubDate>
+        <author>Alexander Sekhniashvili
+</author>
+        <link>https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Critical Infrastructure</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/intablognew.jpg" medium="image" /> 
@@ -197,31 +216,6 @@
         <category>Digital Ecosystems</category>
         
         <category>COVID-19</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/chloemisblog.jpg" medium="image" /> 
-        <title>Management Information Systems at the Humanitarian-Social Protection Nexus, Part 2: Risks and Benefits</title>
-        <description>&lt;p&gt;In late 2019 and early 2020, DAI and our partner &lt;a href=&quot;https://www.cariboudigital.net/&quot;&gt;Caribou Digital&lt;/a&gt; worked closely with the former U.K. Department for International Development, now the &lt;a href=&quot;https://www.gov.uk/government/organisations/foreign-commonwealth-development-office&quot;&gt;Foreign, Commonwealth &amp;amp; Development Office&lt;/a&gt;) to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the report can be found &lt;a href=&quot;https://www.dai.com/uploads/bsic-MIS-2020.pdf&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In this blog—the second in the series—we will dig into data protection and the potential consequences of increasing centralisation. Through an assessment of the literature and existing practice, our research team found that implications of fragmented management information systems (MIS) can be grouped into the following thematic areas: political, protection, legal and ethical, commercial, and operational. As there are numerous risks and benefits of increased centralisation of MIS (our &lt;a href=&quot;https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html&quot;&gt;previous blog&lt;/a&gt; outlined some of the arguments), we cannot possibly provide an exhaustive list here. But in this post, we will give an overview of some of the considerations, including where care needs to be taken before proceeding; where the political economy must be assessed; and where more data needs to be collected.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 23 Sep 2020 14:00:00 -0400</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html</guid>
-        
-        <category>privacy</category>
-        
-        <category>interoperability</category>
-        
-        <category>MIS</category>
-        
-        <category>humanitarian response</category>
         
         
       </item>
