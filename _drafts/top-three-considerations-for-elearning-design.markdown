@@ -17,7 +17,7 @@ At the Center for Digital Acceleration, we see significant areas of opportunity 
 
 ![Capture-a98d9f.PNG](/uploads/Capture-a98d9f.PNG)
 
-> LMS platform implemented by the Center for Digital Acceleration, for STEM courses.
+`LMS platform implemented by the Center for Digital Acceleration, for STEM courses.`
 
 As practitioners actively consider eLearning and other remote learning solutions in new ways, based on our experiences working through these processes at the Center for Digital Acceleration, we have three key recommendations for best practices to begin this complex process:
 
