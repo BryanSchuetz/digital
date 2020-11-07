@@ -6,9 +6,7 @@ categories:
 tags:
 - Education
 - elearning
-Author:
-- "[Anne Hand](https://www.linkedin.com/in/annehand/)"
-- Alejandro Solis
+Author: "[Anne Hand](https://www.linkedin.com/in/annehand/)"
 ---
 
 COVID-19 has caused major disruptions in all walks of life, everywhere in the world. It has dramatically changed activities we used to do in person, especially activities that brought together people from different places with the goals of knowledge exchange and strengthening relationships. Specifically, uncertainty over whether or how in-person education and training can continue as the pandemic evolves has preemptively moved many types of learning online, especially for adults.
