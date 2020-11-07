@@ -7,7 +7,7 @@ tags:
 - Education
 - elearning
 Author:
-- Anne Hand
+- "[Anne Hand](https://www.linkedin.com/in/annehand/)"
 - Alejandro Solis
 ---
 
