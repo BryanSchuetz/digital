@@ -5,8 +5,10 @@ categories:
 - Innovation
 tags:
 - Education
-- eLearning
+- elearning
 Author: "[Anne Hand](https://www.linkedin.com/in/annehand/) and [Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/)"
+social-image: "/uploads/Capture-a98d9f.PNG"
+thumbnail: "/uploads/Capture-a98d9f.PNG"
 ---
 
 COVID-19 has caused major disruptions for people from all walks of life. It has dramatically changed the nature of activities we used to do in person, especially those aiming to bring people together to learn, exchange knowledge, and strengthen relationships. As we grapple with the uncertainty of how in-person education and training will continue as the pandemic evolves, many types of learning experiences have preemptively moved online, especially those for adults.
