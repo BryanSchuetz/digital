@@ -15,7 +15,7 @@ At the Center for Digital Acceleration, we see significant opportunities for cre
 
 ![Capture-a98d9f.PNG](/uploads/Capture-a98d9f.PNG)`Moodle platform implemented by DAI’s Center for Digital Acceleration, for STEM courses in Oman.`
 
-As practitioners actively consider eLearning and other remote learning solutions, we have three key recommendations for beginning this complex process based on our experiences identifying best practices at the Center for Digital Acceleration:
+As practitioners actively consider eLearning and other remote-learning solutions, we have three key recommendations for beginning this complex process based on our experiences identifying best practices at the Center for Digital Acceleration:
 
 **1. Decouple content and technology.** While it might be intuitive for some people to first think about the way they want a finished eLearning project to look, or the type of platform they want to have, we recommend taking a step back to think about the learning objectives and content that will need to be delivered given the end users’ lived reality and context. It’s particularly important for a project to have a clear sense of the purpose of the eLearning course they want to develop and consider how much external support or guidance learners might need. For example, in a low-resourced context with limited internet availability and bandwidth, an exclusively video-based course would likely not be a viable solution, even if the videos are well thought out and professionally produced. Technology solutions should serve the content and course execution, not the other way around.
 
