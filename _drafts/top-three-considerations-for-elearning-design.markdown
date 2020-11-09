@@ -9,9 +9,9 @@ tags:
 Author: "[Anne Hand](https://www.linkedin.com/in/annehand/)"
 ---
 
-COVID-19 has caused major disruptions for people from all walks of life, everywhere in the world. It has dramatically changed activities we used to do in person, especially activities that sought to bring people together to exchange knowledge and strengthening relationships. As we grapple with the uncertainty over whether or how in-person education and training can continue as the pandemic evolves, many types of learning has preemptively moved online, especially for adults.
+COVID-19 has caused major disruptions for people from all walks of life. It has dramatically changed the nature of activities we used to do in person, especially activities that sought to bring people together to exchange knowledge and strengthening relationships. As we grapple with uncertainty over how in-person education and training can continue as the pandemic evolves, many types of learning has preemptively moved online, especially for adults.
 
-At the Center for Digital Acceleration, we see significant areas of opportunity here for creative digital collaboration that would have been impossible just one year ago. eLearning has emerged as a particularly interesting category for development solutions. Projects with goals that span the thematic spectrum – from strengthening agricultural supply chains, to supporting rule of law, to stemming climate change – are considering how to implement digital curricula and thinking carefully about what could work best for their myriad stakeholder groups.
+At the Center for Digital Acceleration, we see significant opportunities for creative digital collaboration that would have been impossible even a year ago. eLearning has emerged as a particularly interesting category for development solutions. Projects with goals that span the thematic spectrum – from strengthening agricultural supply chains, to supporting rule of law, to stemming climate change – are considering how to implement digital curricula and thinking carefully about what could work best for their myriad stakeholder groups.
 
 ![Capture-a98d9f.PNG](/uploads/Capture-a98d9f.PNG)
 
