@@ -1,8 +1,6 @@
 ---
 title: Top 3 Considerations for eLearning Design
-date: 2020-11-05 10:13:00 -05:00
-categories:
-- Innovation
+date: 2020-11-10 06:00:00 -05:00
 tags:
 - Education
 - elearning
@@ -14,6 +12,8 @@ thumbnail: "/uploads/Capture-a98d9f.PNG"
 COVID-19 has caused major disruptions for people from all walks of life. It has dramatically changed the nature of activities we used to do in person, especially those aiming to bring people together to learn, exchange knowledge, and strengthen relationships. As we grapple with the uncertainty of how in-person education and training will continue as the pandemic evolves, many types of learning experiences have preemptively moved online, especially those for adults.
 
 At the Center for Digital Acceleration, we see significant opportunities for creative digital collaboration that would have been impossible just a year ago. Electronic learning has emerged as a particularly interesting category for development solutions. Projects with goals that span the thematic spectrum—from strengthening agricultural supply chains to supporting rule of law to stemming climate change—are considering how to implement digital curricula and thinking carefully about what approaches could work best for their myriad stakeholder groups.
+
+<!--more-->
 
 ![Capture-a98d9f.PNG](/uploads/Capture-a98d9f.PNG)`Moodle platform implemented by DAI’s Center for Digital Acceleration, for STEM courses in Oman.`
 
