@@ -5,7 +5,7 @@ categories:
 - Innovation
 tags:
 - Education
-- elearning
+- eLearning
 Author: "[Anne Hand](https://www.linkedin.com/in/annehand/) and [Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/)"
 ---
 
