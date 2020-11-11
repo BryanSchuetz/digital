@@ -3,9 +3,11 @@ title: Digital Innovator Series
 date: 2020-11-11 13:04:00 -05:00
 ---
 
-*We recently spoke with [Phanith PHAN,](https://www.childrenshospitalvanderbilt.org/doctors/barkin-shari) the CEO of Muuve, and innovative delivery services startup in Cambodia. Muuve was one of the startups involved in the 2019 *[Smartscale by Seedstars](https://www.smart.com.kh/smartscale-powered-by-seedstars-to-host-its-demo-day-in-phnom-penh/)* accelerator, co-funded by USAID/DAI’s Development Innovations project and telecommunications company *[Smart Axiata](https://www.smart.com.kh/?gclid=Cj0KCQjwreT8BRDTARIsAJLI0KLZGTfnbLbol8X5UuazEsB8sqzo_n9AF92h-QRptDHikMSmCCtMI2caAnohEALw_wcB)*. This accelerator model was investor-led and focused on connecting scalable tech startups to mentors, investment advisory services, and targeted technical assistance. Muuve is one of Cambodia’s success stories in a *[growing digital ecosystem](https://www.raintreecambodia.com/research)* – even through the COVID-19 epidemic. The young team also *[secured investment](https://e27.co/cambodias-muuve-scores-funding-from-ooctane-to-take-its-food-delivery-service-to-new-cities-20200123/)* from Cambodian venture fund Ooctane a few months after finishing the accelerator in 2019. This is an excerpt from that interview.*
+*We recently spoke with [Phanith PHAN,](https://www.childrenshospitalvanderbilt.org/doctors/barkin-shari) the CEO of Muuve, and innovative delivery services startup in Cambodia. Muuve was one of the startups involved in the 2019 [Smartscale by Seedstars](https://www.smart.com.kh/smartscale-powered-by-seedstars-to-host-its-demo-day-in-phnom-penh/)* *accelerator, co-funded by USAID/DAI’s Development Innovations project and telecommunications company *[Smart Axiata](https://www.smart.com.kh/?gclid=Cj0KCQjwreT8BRDTARIsAJLI0KLZGTfnbLbol8X5UuazEsB8sqzo_n9AF92h-QRptDHikMSmCCtMI2caAnohEALw_wcB).* *This accelerator model was investor-led and focused on connecting scalable tech startups to mentors, investment advisory services, and targeted technical assistance. Muuve is one of Cambodia’s success stories in a [growing digital ecosystem]*(https://www.raintreecambodia.com/research)* – even through the COVID-19 epidemic. The young team also *[secured investment](https://e27.co/cambodias-muuve-scores-funding-from-ooctane-to-take-its-food-delivery-service-to-new-cities-20200123/)* from Cambodian venture fund Ooctane a few months after finishing the accelerator in 2019. This is an excerpt from that interview.*
 
 <!--more-->
+
+![Muuve.jpg](/uploads/Muuve.jpg)
 
 KATE: Hi Phanith! Great to get to talk to you again. First, tell our Digital@DAI audience about Muuve. When did you get started? What problem were you trying to address in Cambodia?
 
@@ -22,6 +24,8 @@ PHANITH: We’re proud that we’ve introduced an on-demand/freelancing delivery
 KATE: Many Cambodian startups and businesses have been negatively affected by COVID-19; some were forced to transform digitally overnight, many others were forced to cut staff, or even shut their businesses. What about Muuve?
 
 PHANITH: Muuve was already a tech startup, so nothing changed that way. We have \[actually\] seen significant growth in terms of numbers of orders during 2020. We also helped more than 250 restaurants to go digital with our platform during Covid-19. It happened because people took precautions seriously and the only way they could eat food from their favorite restaurant was to order from a delivery company.
+
+![Muuve 1.jpg](/uploads/Muuve%201.jpg)
 
 KATE: How do you stay connected to your customers?
 
