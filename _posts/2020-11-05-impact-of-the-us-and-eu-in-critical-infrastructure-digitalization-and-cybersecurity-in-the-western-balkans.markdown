@@ -20,7 +20,7 @@ Without appropriate cyber measures to secure CI assets (transportation, energy, 
 
 As IT and OT converge, CI entities (owners, operators, and oversight bodies) face new vulnerabilities and threats to their assets. In 2017, the WannaCry ransomware attack infected computers in 150 countries and disrupted 80 percent of PetroChina gas stations. Perhaps a more devastating event the same year was the Notpetya malware attack, deemed by the White House as "the most destructive and costly [cyberattack in history](https://www.whitehouse.gov/briefings-statements/statement-press-secretary-25/)," costing companies such as FedEx and Merck alone at least $400 million and $670 million, [respectively](https://www.wsj.com/articles/one-year-after-notpetya-companies-still-wrestle-with-financial-impacts-1530095906) to rebound, though its overall cost is unofficially estimated in the billions. While the attack has been attributed by the White House to the Russian military’s efforts to destabilize Ukraine, the effects spread much further, affecting various IT systems and approximately 25 percent of all oil-and-gas companies worldwide. The challenges with proliferation and convergence of IT networks with OT systems are further compounded by OT systems that run [existing CI](https://www.cisco.com/c/en/us/products/security/ot-networks.html) often with aging software and obsolete hardware, making them difficult to patch and highly vulnerable.
 
-![alex blog 1 image 1.jpg](/uploads/alex%20blog%201%20image%201.jpg)
+![alex blog 1 image 1.jpg](/uploads/alex%20blog%201%20image%201.jpg)`Picture from Pxfuel.`
 
 ## Infrastructure Development and New Opportunities in the Western Balkans
 
@@ -40,7 +40,7 @@ Efforts to secure and modernize critical infrastructure in the Western Balkans c
 
 As these projects take shape and advance to benefit the region, it becomes crucial to synergize these efforts by recognizing cybersecurity resilience as essential from the onset and not as an afterthought. For instance, regional entities with new projects can work with a greater level of care with original equipment manufacturers to integrate security controls to holistically protect OT environments. Moreover, the projects can be incentivized and supported to take advantage of innovative technologies by trusted companies from the European Union and United States, providing secure and trustworthy cloud services, machine learning, building information modeling, sophisticated project controls, new IoT, augmented reality, and blockchain capabilities.
 
-![alex blog 1 image 2.jpg](/uploads/alex%20blog%201%20image%202.jpg)
+![alex blog 1 image 2.jpg](/uploads/alex%20blog%201%20image%202.jpg)`Picture from Pikrepo.`
 
 ## Geopolitical Battleground
 
