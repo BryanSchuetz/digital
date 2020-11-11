@@ -1,6 +1,6 @@
 ---
 title: Strengthening Cyber Resilience as a Cornerstone of Self-Determination
-date: 2020-11-11 08:27:00 -05:00
+date: 2020-11-12 10:00:00 -05:00
 tags:
 - Cybersecurity
 - Critical Infrastructure
@@ -39,4 +39,4 @@ Below are three recommended steps that can strengthen the ability of these count
 
 3. Set up smaller robust regional cybersecurity centers. Similar to Estonia’s CCD COE, small regional cybersecurity centers will enable information sharing, research, monitoring, and reporting. This will be crucial in sharing best practices and resources, while tracking new and diverse complex threats across the region.
 
-For more on cybersecurity, critical infrastructure, and digitalization, check out my previous post here and follow my blog posts here. You may also tweet us at @DAIGlobal and @alexansek.
+For more on cybersecurity, critical infrastructure, and digitalization, check out my previous post [here](https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html) and follow my blog posts [here](https://dai-global-digital.com/authors/alexander-sekhniashvili/). You may also tweet us at @DAIGlobal and @alexansek.
