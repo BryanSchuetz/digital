@@ -36,7 +36,7 @@ My greatest understanding of these concepts and how they are applied in context 
 
 * Informed and advised by local stakeholders, the DAI team considered cultural preferences and tendencies that would inform their recommendations, such as the general preference in the country to settle legal matters without going to court. Bearing in mind cultural and societal realities such as these is important for building effective incentive structures, gaining genuine buy-in from citizens, and ensuring that international best practices are applied in a meaningful way.
 
-![local govt in e timor.jpg](/uploads/local%20govt%20in%20e%20timor.jpg)*Local government in Timor-Leste. Photo Credit to DAI.*
+![local govt in e timor-732e3d.jpg](/uploads/local%20govt%20in%20e%20timor-732e3d.jpg)*Local government in Timor-Leste. Photo Credit to DAI.*
 
 ### **Legal and Structural Viability**
 
