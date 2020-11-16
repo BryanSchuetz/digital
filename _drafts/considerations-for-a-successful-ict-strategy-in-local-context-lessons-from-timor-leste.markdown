@@ -18,7 +18,7 @@ In many ways, those with access to technology in various parts of the world util
 
 My greatest understanding of these concepts and how they are applied in context was from recent research and report writing done for DAI’s engagement with the government of Timor Leste under the USAID Digital Connectivity and Cybersecurity Partnership, a US government initiative to promote open, interoperable, reliable, inclusive and secure internet, focusing first in the Indo-Pacific. In partnership with the Timorese government and local stakeholders, DAI contributed to an updated ICT policy for the country and drafted legislation pertaining to cybercrime and intellectual property. Some important considerations of the authors while carrying out this work included:
 
-### Geopolitical Context 
+### **Geopolitical Context**
 
 *What kinds of threats currently face Timor Leste as it seeks to improve its ICT infrastructure? What does its geographic location mean in terms of threats and opportunities?*
 
