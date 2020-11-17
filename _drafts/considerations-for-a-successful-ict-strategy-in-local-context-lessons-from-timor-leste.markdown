@@ -7,6 +7,8 @@ tags:
 - Digital Principles
 - Asia and the Pacific
 Author: Erica Behrens
+social-image: "/uploads/local%20govt%20in%20e%20timor-732e3d.jpg"
+thumbnail: "/uploads/local%20govt%20in%20e%20timor-732e3d.jpg"
 Key: 
 Erica Behrens: 
 ---
