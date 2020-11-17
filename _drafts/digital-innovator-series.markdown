@@ -19,7 +19,7 @@ We recently spoke with [Phanith PHAN,](https://www.childrenshospitalvanderbilt.o
 
 **Q: First, tell our readers about Muuve. When did you get started? What problem were you trying to address in Cambodia?**
 
-A: "[Muuve](https://apps.apple.com/kh/app/muuve-food-order-delivery/id1414753417) is a local delivery service startup founded by a group of young Cambodians. We wanted to provide people with busy lifestyles easier, more time-efficient, and more convenient ways to complete tasks. It was founded in March 2018 and established in September 2018."
+A: "[Muuve](https://apps.apple.com/kh/app/muuve-food-order-delivery/id1414753417) is a local delivery service startup founded by a group of young Cambodians. We wanted to provide people with busy lifestyles easier, efficient, and more convenient ways to complete tasks. It was founded in March 2018 and established in September 2018."
 
 **Q: As you’ve grown the startup, what kind of challenges have you faced?**
 
