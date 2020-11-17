@@ -1,7 +1,7 @@
 ---
 title: 'Digital Innovator Series: Talking About Life After an Accelerator with Muuve’s
   Phanith Phan'
-date: 2020-11-19 06:04:00 -05:00
+date: 2020-11-18 06:04:00 -05:00
 tags:
 - Innovation
 - Digital Ecosystems
