@@ -15,7 +15,7 @@ We recently spoke with [Phanith PHAN,](https://www.childrenshospitalvanderbilt.o
 
 <!--more-->
 
-![Muuve.jpg](/uploads/Muuve.jpg)`CEO Phanith Phan is expanding his team in Phnom Penh to serve the growing demand for delivery services.`
+![Muuve.jpg](/uploads/Muuve.jpg)`One of Muuve’s network of more than 60 drivers delivers goods in Cambodia’s second-largest city, Siem Reap.`
 
 **Q: First, tell our readers about Muuve. When did you get started? What problem were you trying to address in Cambodia?**
 
@@ -33,7 +33,7 @@ A: "We’re proud that we’ve introduced an on-demand/freelancing delivery part
 
 A: "Muuve was already a tech startup, so nothing changed that way. We have [actually] seen significant growth in terms of numbers of orders during 2020. We also helped more than 250 restaurants to go digital with our platform during COVID-19. It happened because people took precautions seriously and the only way they could eat food from their favorite restaurant was to order from a delivery company."
 
-![Muuve 1.jpg](/uploads/Muuve%201.jpg)`One of Muuve’s network of more than 60 drivers delivers goods in Cambodia’s second-largest city, Siem Reap.`
+![Muuve 1.jpg](/uploads/Muuve%201.jpg)`CEO Phanith Phan is expanding his team in Phnom Penh to serve the growing demand for delivery services.`
 
 **Q: How do you stay connected to your customers?**
 
