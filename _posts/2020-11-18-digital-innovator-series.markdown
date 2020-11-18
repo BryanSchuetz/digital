@@ -27,17 +27,17 @@ A: "Our challenges have been lack of financial support (investments) and lack of
 
 **Q: What has been your biggest win?**
 
-A: "We’re proud that we’ve introduced an on-demand/freelancing delivery partner model to help Cambodians earn extra income, similar to the gig economy model, and it has helped us grow the business. This is still a new concept in Cambodia, but, for example, it allows a tuktuk [motorcycle rickshaw] driver to choose to deliver extra food through Muuve during the day for additional income."
+A: "We’re proud that we’ve introduced an on-demand/freelancing delivery partner model to help Cambodians earn extra income, similar to the gig economy model, and it has helped us grow the business. This is still a new concept in Cambodia, but, for example, it allows a tuktuk \[motorcycle rickshaw\] driver to choose to deliver extra food through Muuve during the day for additional income."
 
 **Q: Many Cambodian startups and businesses have been negatively affected by COVID-19; some were forced to transform digitally overnight, many others were forced to cut staff, or even shut their businesses. What about Muuve?**
 
-A: "Muuve was already a tech startup, so nothing changed that way. We have [actually] seen significant growth in terms of numbers of orders during 2020. We also helped more than 250 restaurants to go digital with our platform during COVID-19. It happened because people took precautions seriously and the only way they could eat food from their favorite restaurant was to order from a delivery company."
+A: "Muuve was already a tech startup, so nothing changed that way. We have \[actually\] seen significant growth in terms of numbers of orders during 2020. We also helped more than 250 restaurants to go digital with our platform during COVID-19. It happened because people took precautions seriously and the only way they could eat food from their favorite restaurant was to order from a delivery company."
 
 ![Muuve 1.jpg](/uploads/Muuve%201.jpg)`CEO Phanith Phan is expanding his team in Phnom Penh to serve the growing demand for delivery services.`
 
 **Q: How do you stay connected to your customers?**
 
-A: "We love to hear from our customers. That's why we usually communicate directly with our customers in a variety of ways—from social media to phone calls. We do believe that truly listening to and communicating with our customers enables us to build something that customers truly love."
+A: "We love to hear from our customers. That's why we usually communicate directly with \[them\] in a variety of ways—from social media to phone calls. We do believe that truly listening to and communicating with our customers enables us to build something that customers truly love."
 
 **Q: Our readers may not know that you all were one of the startups that went through the intensive investor-led accelerator—SmartScale Powered by Seedstars—in 2019. What was most useful for you all about SmartScale?**
 
@@ -49,4 +49,4 @@ A: "We want to drive the logistics industry to be more accessible—and meet the
 
 **Q: As you know, DAI works hard to make sure its digital programs are demand-driven. So, I want to ask for your advice. What do Cambodian startups and businesses need from the development sector right now?**
 
-A: "I think Cambodian startups need more accelerator programs to kick off their startup journey—startups need programs that help [us] think through [our] financial models and plans, strategize for growth, and provide ongoing mentorship so we get the processes right from the beginning. We also need access to mentors at critical moments as we grow, not only during the accelerator."
+A: "I think Cambodian startups need more accelerator programs to kick off their startup journey—startups need programs that help \[us\] think through \[our\] financial models and plans, strategize for growth, and provide ongoing mentorship so we get the processes right from the beginning. We also need access to mentors at critical moments as we grow, not only during the accelerator."
