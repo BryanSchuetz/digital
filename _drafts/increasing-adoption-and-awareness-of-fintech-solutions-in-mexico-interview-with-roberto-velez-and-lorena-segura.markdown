@@ -29,7 +29,7 @@ A: First, we go a chosen state and engage with the state government and private 
 
 The last major activity that we are kicking off is the open call for FinTechs. Once we identify the needs of small businesses in a state, we put out a Call to attract FinTech startups to find ways to address those needs. Querétaro is the first state we are working in. We launched the call in August and in September the applications were evaluated, and the three finalists were chosen. We are now starting a series of workshops for the winners that help them understand the portfolio of products that customers need, the customer journey, and how to ease the onboarding process. They will also hear from experts on gender, financial inclusion for vulnerable populations and human-centered design. The key goal of these workshops is to get these FinTechs to recognize the need and business opportunity of targeting vulnerable populations and businesses.
 
-![Open Call winners.jpg](/uploads/Open%20Call%20winners.jpg)
+![Open Call winners.jpg](/uploads/Open%20Call%20winners.jpg)`Winners of the open call to FinTechs in Querétaro`
 
 **Q: Are there any regulatory constraints that the project must navigate?**
 
