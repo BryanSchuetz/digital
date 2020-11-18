@@ -1,6 +1,6 @@
 ---
-title: 'Increasing adoption and awareness of FinTech solutions in Mexico: Interview
-  with Roberto Velez and Lorena Segura'
+title: 'Increasing Adoption and Awareness of Fintech Solutions in Mexico: Q&A with
+  Roberto Velez and Lorena Segura'
 date: 2020-11-19 06:00:00 -05:00
 tags:
 - Digital Transformation
