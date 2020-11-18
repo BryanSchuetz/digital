@@ -6,7 +6,7 @@ tags:
 - Innovation
 - Digital Ecosystems
 - Ecosystem Insights
-Author: Kate Heuisler
+Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 social-image: "/uploads/Muuve.jpg"
 thumbnail: "/uploads/Muuve.jpg"
 ---
