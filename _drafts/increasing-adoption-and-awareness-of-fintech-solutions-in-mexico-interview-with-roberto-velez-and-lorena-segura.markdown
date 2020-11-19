@@ -13,7 +13,7 @@ thumbnail: "/uploads/Open%20Call%20winners.jpg"
 
 Launched in 2019, the U.K. Foreign, Commonwealth & Development Office (FCDO) [Prosperity Fund Mexico Financial Services Programme](https://www.dai.com/our-work/projects/mexico-prosperity-fund-mexico-financial-services-programme) aims to create a more inclusive and competitive financial services sector accessible to all segments of Mexican society and market entrants. Despite challenges due to COVID-19, this project has been able to hit the ground running with Caravana FinTech, an initiative that seeks to increase adoption and awareness of financial technology (fintech) solutions that benefit micro, small, and medium enterprises (MSMEs). I recently spoke with Roberto Velez, FinTech Adoption and Socialization Lead, and Lorena Segura, FinTech Socialization Leader, about how the programme is supporting MSMEs to expand their reach and encourage the use of fintech solutions. 
 
-**<!--more-->**
+<!--more-->
 
 ![logo_caravana_fintech.png](/uploads/logo_caravana_fintech.png)
 
