@@ -11,6 +11,8 @@ Author: Andrea Falso
 
 The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) **Promoting American Approaches to ICT Regulatory Policy (ProICT) activity**.
 
+<!--more-->
+
 Digital Frontiers seeks to identify qualified firms and/or consultants, including attorneys, policy researchers, and network and spectrum engineering experts with expertise in one or more of the following areas: **analyzing, developing, and implementing ICT policy, telecommunications regulation, infrastructure policy, mobile and wireless spectrum management, internet governance, digital trade and financial services regulation.**
 
 Selected firms or consultants will provide policy advisory services to developing country governments in consultation with USAID and relevant U.S. government agencies. These experts will directly assist developing country governments implement important ICT public policy approaches in their own national setting, through mid- to long-term consultations, potentially as an embedded expert in a developing country regulatory agency or ministry. These engagements will range from 6-12 months, beginning 2021 until mid- to late 2022. Selected experts must be available to travel to the designated country for 2-3 weeks at a time, pending travel restrictions due to COVID-19, at least quarterly throughout the period of performance.
@@ -59,9 +61,9 @@ Digital Frontiers is looking for firms or consultants that have expertise with c
 
 * South Asia (India, Sri Lanka, Maldives, Bangladesh, Nepal)
 
-\## Responses
-
 More information on the ProICT Activity can be found in the **[ProICT EOI](https://drive.google.com/file/d/1lUqyUu_PFDx3QXOQpY9iHQMOMJDwq7JM/view?usp=sharing).**
+
+## Responses
 
 Responses are due December 15 at 5pm ET to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this EOI please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
