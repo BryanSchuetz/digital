@@ -7,6 +7,8 @@ tags:
 - ICT
 - ICT Policy
 Author: Andrea Falso
+social-image: "/uploads/Screen%20Shot%202020-04-23%20at%207.54.36%20AM.png"
+thumbnail: "/uploads/Screen%20Shot%202020-04-23%20at%207.54.36%20AM.png"
 ---
 
 The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) **Promoting American Approaches to ICT Regulatory Policy (ProICT) activity**.
