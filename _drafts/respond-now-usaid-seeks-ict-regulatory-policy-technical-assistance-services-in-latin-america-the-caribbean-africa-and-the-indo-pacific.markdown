@@ -2,6 +2,10 @@
 title: 'Respond Now: USAID Seeks ICT Regulatory Policy Technical Assistance Services
   in Latin America, the Caribbean, Africa, and the Indo-Pacific'
 date: 2020-11-20 09:32:00 -05:00
+tags:
+- Governance
+- ICT
+- ICT Policy
 Author: Andrea Falso
 ---
 
@@ -55,7 +59,7 @@ Digital Frontiers is looking for firms or consultants that have expertise with c
 
 * South Asia (India, Sri Lanka, Maldives, Bangladesh, Nepal)
 
-\##Responses
+\## Responses
 
 More information on the ProICT Activity can be found in the **[ProICT EOI](https://drive.google.com/file/d/1lUqyUu_PFDx3QXOQpY9iHQMOMJDwq7JM/view?usp=sharing).**
 
