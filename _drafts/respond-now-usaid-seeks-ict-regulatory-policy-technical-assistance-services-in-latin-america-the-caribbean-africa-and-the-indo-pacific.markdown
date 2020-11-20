@@ -1,8 +1,8 @@
 ---
 title: 'Respond Now: USAID Seeks ICT Regulatory Policy Technical Assistance Services
   in Latin America, the Caribbean, Africa, and the Indo-Pacific'
-date: 2020-11-20 09:21:00 -05:00
-published: false
+date: 2020-11-20 09:32:00 -05:00
+Author: Andrea Falso
 ---
 
 The [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) **Promoting American Approaches to ICT Regulatory Policy (ProICT) activity**.
