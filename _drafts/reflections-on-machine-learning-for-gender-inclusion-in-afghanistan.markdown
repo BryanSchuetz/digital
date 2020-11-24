@@ -1,6 +1,9 @@
 ---
 title: Reflections on Machine Learning for Gender Inclusion in Afghanistan
 date: 2020-11-24 15:05:00 -05:00
+Author: Greg Maly
+social-image: "/uploads/AI%202%20copy%20(002).jpg"
+thumbnail: "/uploads/AI%202%20copy%20(002).jpg"
 ---
 
 This month, DAI’s Women in the Economy (WIE) project will come to an end. Funded by USAID, the project bolstered women’s inclusion in Afghanistan’s economy through technical assistance, access to finance, and business training. In 2016, our team [wrote](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html) about the possibility of leveraging machine learning (ML) to “automate the alignment of unstructured CVs and resumes with available jobs, thereby facilitating the access of Afghan women to employment opportunities.” Four years later, this use of machine learning is one of our favorite examples in international development projects. In this article, we reflect on five lessons from this initiative, and how we can translate its success into future endeavors.
