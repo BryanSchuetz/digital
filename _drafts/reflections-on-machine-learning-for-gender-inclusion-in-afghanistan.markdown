@@ -32,7 +32,7 @@ In our case, we leveraged supervised machine learning to classify resumes based 
 
 ## **Lesson 3: Engage Stakeholders Throughout the Process**
 
-Ultimately, a computer-based intelligence like this is designed to support a process, and processes involve people. Therefore, you’ll need to spend a good amount of time talking with those involved in the process about their needs. How would users like to receive information? Are there existing database systems that they use? What happens if the algorithm does not provide outputs that align with out expectations? These are all questions that need be considered throughout the lifecycle of the project.
+Ultimately, a computer-based intelligence like this is designed to support a process, and processes involve people. Therefore, you’ll need to spend a good amount of time talking with those involved in the process about their needs. How would users like to receive information? Are there existing database systems that they use? What happens if the algorithm does not provide outputs that align with their expectations? These are all questions that need be considered throughout the lifecycle of the project.
 
 In our case, we worked closely with staff responsible for professional development, and technical staff who managed a large database of resume information. We designed the system to integrate with their workflow, and to mirror their decision-making process. This involved everything from reviewing how staff accessed information, involving them in the tagging process, and checking back in regularly to ensure the system was meeting their needs.
 
