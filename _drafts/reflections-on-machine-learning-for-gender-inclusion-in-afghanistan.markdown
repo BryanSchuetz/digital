@@ -1,6 +1,12 @@
 ---
 title: Reflections on Machine Learning for Gender Inclusion in Afghanistan
-date: 2020-11-24 15:05:00 -05:00
+date: 2020-11-26 15:05:00 -05:00
+categories:
+- Information
+- Innovation
+tags:
+- Machine Learning
+- Afghanistan
 Author: Greg Maly
 social-image: "/uploads/AI%202%20copy%20(002).jpg"
 thumbnail: "/uploads/AI%202%20copy%20(002).jpg"
