@@ -13,6 +13,8 @@ Today is the United Nations' International Day for the Elimination of Violence A
 
 These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides an opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good.
 
+<!--more-->
+
 ![JB 9.png](/uploads/JB%209.png)
 
 `Source: UN Women`
