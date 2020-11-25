@@ -1,14 +1,14 @@
 ---
 title: 'Considerations for a Successful ICT Strategy in Local Context: Lessons from
   Timor-Leste'
-date: 2020-11-24 16:14:00 -05:00
+date: 2020-11-27 06:00:00 -05:00
 tags:
 - ICT
 - Digital Principles
 - Asia and the Pacific
 Author: Erica Behrens
-social-image: "/uploads/local%20govt%20in%20e%20timor-732e3d.jpg"
-thumbnail: "/uploads/local%20govt%20in%20e%20timor-732e3d.jpg"
+social-image: "/uploads/Budapest%20Convention_resized.jpg"
+thumbnail: "/uploads/Budapest%20Convention_resized.jpg"
 ---
 
 Those with access to technology in various parts of the world use it in similar ways. In places as distant as Chile, Vietnam, and Norway, people use e-commerce platforms for buying and selling goods, emailing each other, and e-calendars for business schedules, and social media platforms for sharing news, communicating, and organizing. Despite these crosscutting uses of technology and often the ubiquity of the platforms themselves (Facebook is the world’s most popular social media site, with 2.6 billion monthly [active users](https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/)), the context in which these technologies exist matter greatly for how that technology is governed and understood.
