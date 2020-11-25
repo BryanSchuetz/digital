@@ -31,13 +31,14 @@ My understanding of these concepts and how they are applied in context solidifie
 
 Both the African Union Convention on Cyber Security and Personal Data Protection (known as the Malabo Convention) and the Budapest Convention on Cybercrime serve as important sources of guidance on international cybercrime legislation. While both of these international agreements were carefully considered, the Budapest Convention was ultimately selected as primary. The Malabo Convention, despite providing useful considerations, is only open to signature and ratification from countries within the African Union. The Budapest Convention, on the other hand, is more widely adopted and not restricted by geographic location (65 countries worldwide have [ratified the treaty](https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/185/signatures?p_auth=OvMCDZlC) as of August 18). The treaty also has a more targeted focus on cybercrime legislation specifically.
 
+![Budapest Convention_resized.jpg](/uploads/Budapest%20Convention_resized.jpg)
+`Secretary General of the Council of Europe, Marija Pejčinović Burić, speaks to the importance and relevance of the Budapest Convention at the `[Octopus 2019: Cooperation against Cybercrime](https://www.coe.int/en/web/cybercrime/octopus-interface-2019)` conference in Strasbourg, France. The Convention remains the only legally-binding international treaty on the topic and serves as a significant source of guidance for countries developing national cybercrime legislation.`
+
 ## Societal Acceptance and Adoption
 
 *How will individuals understand and interpret this legislation? Will these laws be respected and enforced, or only exist on paper?*
 
 Informed and advised by local stakeholders, the DAI team considered cultural preferences and tendencies that would inform their recommendations, such as the general preference in the country to settle legal matters without going to court. Bearing in mind such cultural and societal realities is important for building effective incentive structures, gaining genuine buy-in from citizens, and ensuring that international best practices are applied in a meaningful way.
-![Budapest Convention_resized.jpg](/uploads/Budapest%20Convention_resized.jpg)
-`Secretary General of the Council of Europe, Marija Pejčinović Burić, speaks to the importance and relevance of the Budapest Convention in the fight against cybercrime internationally at the Octopus 2019: Cooperation against Cybercrime conference in Strasbourg, France. The Convention remains the only legally-binding international treaty on cybercrime and a significant source of guidance for countries developing national legislation against cybercrime.`
 
 ## Legal and Structural Viability
 
