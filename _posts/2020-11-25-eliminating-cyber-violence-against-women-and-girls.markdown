@@ -39,7 +39,6 @@ This October, as part of Cyber Security Awareness month, DAI’s Center for Digi
 
 ![JB 4.png](/uploads/JB%204.png){:.float-left}
 
-
 **Derek Laryea, Head of Research and Communications at the Ghana Chamber of Telecommunications**, added that “joint or enhanced collaboration is needed in a market to drive change, especially when trying to address the demand-side challenges users face.”
 
 Meghan Lefeber agreed: “We need both a top-down and bottom-up approach: it needs to examine the policies and regulations that are in place and consider how we can ensure that people are held accountable for gender-based violence online. This effort should be complemented by a community approach to tackle how we address the very real, practical challenges that women and girls face when using the internet and how we change the culture around that in communities. If we don't address gender-based violence and the challenges that women face online, the digital gender gap is only going to become a bigger obstacle down the road.”
