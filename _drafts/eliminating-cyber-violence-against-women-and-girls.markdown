@@ -18,7 +18,6 @@ These thoughts can get me down, but today, I’m pulling up my positive socks. O
 `Source: UN Women`
 
 ## Gender Risks in the Digital World
-
 The internet mirrors and amplifies the social norms of the offline world, as [we described in this post](https://dai-global-digital.com/cyber-vawg-what-are-the-implications-for-digital-inclusion.html) from 2017. Just as women and girls are [more likely to be at risk](https://www.un.org/en/observances/ending-violence-against-women-day) of more types of violence than men and boys in the physical world, so too are they in the online world. In our previous blog post, we outlined the effects of this inequality on digital inclusion. Abuse on digital platforms, especially when there are no apparent consequences for the perpetrators, may cause victims to opt out of internet use and all the potential benefits that it affords.
 
 Research released this year highlights that these issues still affects the behaviour of women and girls. Plan International conducted the largest-ever global survey on online violence, which showed that 58 percent of girls surveyed have experienced online harassment. One in five girls (19 percent) have left or significantly reduced their use of a social media platform after being harassed, while just over one in ten (12 percent) have changed the way they express themselves.

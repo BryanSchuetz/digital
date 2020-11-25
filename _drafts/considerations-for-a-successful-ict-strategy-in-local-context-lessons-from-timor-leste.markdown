@@ -24,6 +24,7 @@ My understanding of these concepts and how they are applied in context solidifie
 *What kinds of threats does Timor-Leste currently face as it seeks to improve its ICT infrastructure? What does its geographic location mean in terms of threats and opportunities?*
 
 * As connectivity, usage, and sophistication of digital tools increase, strategy and legislation must be well-considered and prepared to combat increased opportunities for cyber threats.
+
 * As with other developing nations, China has put forth [significant investments in the country](https://nsc.crawford.anu.edu.au/department-news/14169/chinese-influence-timor-leste-cause-concern), opening greater access to the Asian superpower. The growing influence highlights the need for strong, independent digital systems and legislative processes to maintain true independence.
 
 *What international standards should be considered? What is best for Timor-Leste’s long-term goals to increase participation in the global economy?*
@@ -35,16 +36,19 @@ Both the African Union Convention on Cyber Security and Personal Data Protection
 *How will individuals understand and interpret this legislation? Will these laws be respected and enforced, or only exist on paper?*
 
 Informed and advised by local stakeholders, the DAI team considered cultural preferences and tendencies that would inform their recommendations, such as the general preference in the country to settle legal matters without going to court. Bearing in mind such cultural and societal realities is important for building effective incentive structures, gaining genuine buy-in from citizens, and ensuring that international best practices are applied in a meaningful way.
-
-![local govt in e timor-732e3d.jpg](/uploads/local%20govt%20in%20e%20timor-732e3d.jpg)`Local government in Timor-Leste. Photo courtesy DAI.`
+![Budapest Convention_resized.jpg](/uploads/Budapest%20Convention_resized.jpg)
+`Secretary General of the Council of Europe, Marija Pejčinović Burić, speaks to the importance and relevance of the Budapest Convention in the fight against cybercrime internationally at the Octopus 2019: Cooperation against Cybercrime conference in Strasbourg, France. The Convention remains the only legally-binding international treaty on cybercrime and a significant source of guidance for countries developing national legislation against cybercrime.`
 
 ## Legal and Structural Viability
 
 *What is the best way to ensure that new legislation is compatible with current legislation? What is the best way to ensure that the policy will be properly integrated and accepted as legitimate?*
 
 * Consulting the Timorese Penal Code, the authors ensured that the new legislation contained syntax and phrasing consistent with existing legislation. The Penal Code was also used to help understand which repercussions are considered customary in the country and that the drafted repercussions under the new law were consistent with those for analogous offline crimes.
+
 * In addition to the Budapest Convention, the authors reviewed laws from several individual countries. Though many were considered, Portuguese and Estonian legislation provided particular insights.
+
 * Under Portuguese occupation or administrative control from the 17th century until 1975, Timor-Leste remains influenced by Portugal in many aspects of society, including the legal system. By considering Portuguese law, the DAI team was able to better understand potentially applicable cultural considerations, as well as the linguistic style of the law that would be most compatible.
+
 * Estonia today is a leader in cybersecurity regulations and prevention, including cybercrime, from which countries seeking to bolster their ICT infrastructure may learn lessons. Following a particularly aggressive, long, and disruptive political cyber-attack in 2007, Estonia set out to improve and intensify its cyber-defense strategy. Today the country is a leader in cyber protection and defense, including cybercrime legislation.
 
 While thoughtful, comprehensive legislation is critical to improving a country’s ICT infrastructure, it is only the beginning of a much larger process. Whether considering the way a young woman in Delhi uses her smartphone to communicate, or the way that Timorese cultural values affect opinions of the legal system, understanding the social, political, and historical context surrounding the target population in a digital development effort is of utmost importance. Though it may seem counterintuitive to establish cybercrime legislation before ICT infrastructure has been widely established, the legislation provides a foundation on which the country’s infrastructure and economy can grow and benefit from each other’s gains. To ensure that the law is ultimately effective, it should be followed by regulations, capacity-building, training, and awareness campaigns to ensure that citizens and government officials alike are aware of the law, understand it, and have the ability to enforce or exercise their rights under the law. Without these further efforts, the law remains existent only on paper.
