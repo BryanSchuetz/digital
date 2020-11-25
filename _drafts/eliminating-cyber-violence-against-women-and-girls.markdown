@@ -13,7 +13,7 @@ Today is the United Nations' International Day for the Elimination of Violence A
 
 These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides a welcome opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good.
 
-![JB 1-882ae2.png](/uploads/JB%201-882ae2.png)
+![JB 9.png](/uploads/JB%209.png)
 
 `Source: UN Women`
 
@@ -45,7 +45,7 @@ Derek Laryea, Head of Research and Communications at the Ghana Chamber of Teleco
 
 Meghan Lefeber agreed: “We need both a top-down and bottom-up approach: it needs to examine the policies and regulations that are in place and consider how we can ensure that people are held accountable for gender-based violence online. This effort should be complemented by a community approach to tackle how we address the very real, practical challenges that women face and girls face when using the internet and how we change the culture around that in communities. If we if we don't address gender-based violence and the challenges that women face online, the digital gender gap is only going to become a bigger obstacle down the road.”
 
-<blockquote class="trello-card"><a href="https://trello.com/c/4lLIRgjU/36-believe-survivors">Believe Survivors</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
+![JB 8.png](/uploads/JB%208.png)`Source: UN Women`
 
 The journey from having a policy that *says* people will be prosecuted for trolling online, to the community actually *seeing* people being prosecuted for trolling online, is a leap that must take place in many markets around the world.
 
