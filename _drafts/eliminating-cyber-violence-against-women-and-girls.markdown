@@ -1,6 +1,9 @@
 ---
 title: Eliminating Cyber Violence Against Women and Girls
 date: 2020-11-25 07:56:00 -05:00
+tags:
+- Digital Gender Divide
+- Digital Privacy
 Author: Julia Burchell
 ---
 
