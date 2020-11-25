@@ -15,9 +15,7 @@ These thoughts can get me down, but today, I’m pulling up my positive socks. O
 
 <!--more-->
 
-![JB 9.png](/uploads/JB%209.png)
-
-`Source: UN Women`
+![JB 9.png](/uploads/JB%209.png)`Source: UN Women`
 
 ## Online Abuse and Gender Digital Divide
 
