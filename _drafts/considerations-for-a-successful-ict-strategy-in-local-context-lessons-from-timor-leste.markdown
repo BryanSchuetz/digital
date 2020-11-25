@@ -33,6 +33,7 @@ Both the African Union Convention on Cyber Security and Personal Data Protection
 
 ![Budapest Convention_resized.jpg](/uploads/Budapest%20Convention_resized.jpg)
 `Council of Europe Secretary General, Marija Pejčinović Burić, speaks to the importance of the Budapest Convention at the Octopus 2019: Cooperation against Cybercrime conference in Strasbourg, France. The Convention remains the only legally-binding international treaty on the topic and serves as a significant source of guidance for countries developing national cybercrime legislation.
+
 Picture courtesy of Council of Europe Newsroom: 'Marija Pejčinović Burić: The Budapest Convention will remain the most relevant international standard on cybercrime.'`
 
 ## Societal Acceptance and Adoption
