@@ -5,6 +5,8 @@ tags:
 - Digital Gender Divide
 - Digital Privacy
 Author: Julia Burchell
+social-image: "/uploads/JB%203.png"
+thumbnail: "/uploads/JB%203.png"
 ---
 
 Today is the United Nations' International Day for the Elimination of Violence Against Women. Like every year on this day–and any other official "Day" that amplifies the inequalities between women and men–I’m heaving a big sigh… because we’re still here. We still require these Days. We continue to need reminding that women are *still* fighting for equality all over the world.
@@ -33,7 +35,7 @@ This October, as part of Cyber Security Awareness month, DAI’s Center for Digi
 
 `Eleanor Sarpong, Deputy Director and Policy Lead, Alliance for Affordable Internet (A4AI).`
 
-“If we are going to address the issues of user trust, particularly for women, we need to tackle the perceptions of the authorities; the male gatekeepers in the communities we’re working in,” said Eleanor Sarpong, Deputy Director and Policy Lead at the Alliance for Affordable Internet (A4AI). “We need champions–male and female–for women’s connectivity, who can help make misogynistic behaviour towards women and girls socially unacceptable. But of course, such behaviour also needs to be legally and practically unacceptable. If somebody is being trolled online and seeks redress in the offline space, they should be taken seriously and they should be able to receive it. The abusive act shouldn't be seen as something that 'just' happened online–that it is somehow less serious than if it happened in person–which is so often the case . It will require some level of training of and resourcing to various legal institutions and court systems to support people who feel that they're victims of online abuse.”
+“If we are going to address the issues of user trust, particularly for women, we need to tackle the perceptions of the authorities; the male gatekeepers in the communities we’re working in,” said Eleanor Sarpong, Deputy Director and Policy Lead at the Alliance for Affordable Internet (A4AI). “We need champions–male and female–for women’s connectivity, who can help make misogynistic behaviour towards women and girls socially unacceptable. But of course, such behaviour also needs to be legally and practically unacceptable. If somebody is being trolled online and seeks redress in the offline space, they should be taken seriously and they should be able to receive it. The abusive act shouldn't be seen as something that 'just' happened online–that it is somehow less serious than if it happened in person–which is so often the case. It will require some level of training of and resourcing to various legal institutions and court systems to support people who feel that they're victims of online abuse.”
 
 ![JB 4.png](/uploads/JB%204.png)
 
