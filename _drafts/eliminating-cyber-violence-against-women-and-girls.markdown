@@ -51,8 +51,8 @@ Meghan Lefeber agreed: “We need both a top-down and bottom-up approach: it nee
 
 ![JB 8.png](/uploads/JB%208.png)`Source: UN Women`
 
+## Eliminating Violence Against Women In-Person and Online
 
-## Eliminating Violence In-Person and Online
 Today marks the start of the UN’s [16 Days of Activism](https://www.unwomen.org/en/news/stories/2020/11/media-advisory-international-day-for-the-elimination-of-violence-against-women), in which member states are called upon to:
 
 * Fund essential services to prevent gender-based violence and women’s organizations that are at the forefront;
