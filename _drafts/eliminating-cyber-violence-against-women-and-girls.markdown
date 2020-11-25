@@ -15,7 +15,7 @@ These thoughts can get me down, but today, I’m pulling up my positive socks. O
 
 The internet mirrors and amplifies the social norms of the offline world, as [we described in this post](https://dai-global-digital.com/cyber-vawg-what-are-the-implications-for-digital-inclusion.html) from 2017. Just as women and girls are [more likely to be at risk](https://www.un.org/en/observances/ending-violence-against-women-day) of more types of violence than men and boys in the physical world, so too are they in the online world. In our previous blog post, we outlined the effects of this inequality on digital inclusion. Abuse on digital platforms, especially when there are no apparent consequences for the perpetrators, may cause victims to opt out of internet use and all the potential benefits that it affords.
 
-Research released this year highlights that these issues still affects the behaviour of women and girls. Plan International conducted the largest-ever global survey on online violence, which showed that 58 percent of girls surveyed have experienced online harassment. One in five girls (19 percent) have left or significantly reduced their use of a social media platform after being harassed, while just over one in ten (12 percent) have changed the way they express themselves. 
+Research released this year highlights that these issues still affects the behaviour of women and girls. Plan International conducted the largest-ever global survey on online violence, which showed that 58 percent of girls surveyed have experienced online harassment. One in five girls (19 percent) have left or significantly reduced their use of a social media platform after being harassed, while just over one in ten (12 percent) have changed the way they express themselves.
 
 All participants in DAI’s Center for Digital Acceleration recent research in India and Ghana into [User Perceptions of Trust and Privacy on the Internet](https://www.dai.com/fi-cyber-user-trust.pdf) voiced concerns about the offline consequences of online behaviour, but the study found that those perceptions most acutely limit what women do online, potentially exacerbating the online gender gap and leaving female internet users even further behind. The Web Foundation's [Women's Rights Online](http://webfoundation.org/docs/2020/10/Executive-Summary-English.pdf) project showed that women are more concerned about their privacy online compared to men, across a range of personal data categories, including private messages, home addresses and healthcare information. The [GSMA Mobile Gender Gap Report 2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/05/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf) found that safety and security concerns had increased in importance as a barrier to mobile internet usage between 2018-2019. These studies all demonstrate the immediate need to address these issues now, or risk further exacerbating the gender digital divide.
 
@@ -47,7 +47,7 @@ The journey from having a policy that *says* people will be prosecuted for troll
 
 Today also marks the start of the UN’s [16 Days of Activism](https://www.unwomen.org/en/news/stories/2020/11/media-advisory-international-day-for-the-elimination-of-violence-against-women), in which member states are called upon to:
 
-* Fund essential services to prevent gender-based violence and women’s organizations that are at the forefront;.
+* Fund essential services to prevent gender-based violence and women’s organizations that are at the forefront.
 
 * Respond to the needs of survivors, including during the global pandemic.
 
@@ -55,6 +55,6 @@ Today also marks the start of the UN’s [16 Days of Activism](https://www.unwom
 
 * Collect data to improve services, programmes, and policies.
 
-These efforts are all important, but leave me asking whether such activities will acknowledge and address the online abuse of women as well as that which happens offline? Will they include better systems of redress for victims of online harassment and violence?
+These efforts are all important, but leave me asking whether such activities will acknowledge and address the online abuse of women as well as that which happens offline. Will they include better systems of redress for victims of online harassment and violence?
 
-As our offline and online worlds become more connected, without addressing harassment in both, we not only expose women to risk of more harm, but also restrict them from the very positive benefits that digital inclusion can bring in all areas of their lives. Beyond this Day and the following 16, if we want to close –rather than widen–the gender digital divide, ending cyber violence against women and girls must remain high up on the development community’s priority list.
+As our offline and online worlds become more connected, without addressing harassment in both, we not only expose women to risk of more harm, but also restrict them from the very positive benefits that digital inclusion can bring in all areas of their lives. Beyond this Day and the following 16, if we want to close–rather than widen–the gender digital divide, ending cyber violence against women and girls must remain high up on the development community’s priority list.
