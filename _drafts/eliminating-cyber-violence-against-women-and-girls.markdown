@@ -11,11 +11,13 @@ thumbnail: "/uploads/JB%203.png"
 
 Today is the United Nations' International Day for the Elimination of Violence Against Women. Like every year on this day–and any other official "Day" that amplifies the inequalities between women and men–I’m heaving a big sigh… because we’re still here. We still require these Days. We continue to need reminding that women are *still* fighting for equality all over the world.
 
-These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides a welcome opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good.
+These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides an opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good.
 
 ![JB 9.png](/uploads/JB%209.png)
 
 `Source: UN Women`
+
+## Gender Risks in the Digital World
 
 The internet mirrors and amplifies the social norms of the offline world, as [we described in this post](https://dai-global-digital.com/cyber-vawg-what-are-the-implications-for-digital-inclusion.html) from 2017. Just as women and girls are [more likely to be at risk](https://www.un.org/en/observances/ending-violence-against-women-day) of more types of violence than men and boys in the physical world, so too are they in the online world. In our previous blog post, we outlined the effects of this inequality on digital inclusion. Abuse on digital platforms, especially when there are no apparent consequences for the perpetrators, may cause victims to opt out of internet use and all the potential benefits that it affords.
 
