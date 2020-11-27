@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2020 14:34:49 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2020 14:34:49 -0500</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2020 13:30:17 -0500</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2020 13:30:17 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Budapest%20Convention_resized.jpg" medium="image" /> 
+        <title>Considerations for a Successful ICT Strategy in Local Context: Lessons from Timor-Leste</title>
+        <description>&lt;p&gt;Those with access to technology in various parts of the world use it in similar ways. In places as distant as Chile, Vietnam, and Norway, people use e-commerce platforms for buying and selling goods, emailing each other, and e-calendars for business schedules, and social media platforms for sharing news, communicating, and organizing. Despite these crosscutting uses of technology and often the ubiquity of the platforms themselves (Facebook is the world’s most popular social media site, with 2.6 billion monthly &lt;a href=&quot;https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/&quot;&gt;active users&lt;/a&gt;), the context in which these technologies exist matter greatly for how that technology is governed and understood.&lt;/p&gt;
+
+&lt;p&gt;Technology strategies and policies must be tailored to the local context so that a country can successfully promote the use of technology for growth and prosperity while governing its use to protect citizens and national security. This approach aligns closely with the first two &lt;a href=&quot;https://digitalprinciples.org/principles/&quot;&gt;Principles for Digital Development,&lt;/a&gt; which are &lt;strong&gt;1) Design with the user&lt;/strong&gt;—using conversation, observation, and co-creation to create a product or initiative that is truly beneficial and appropriate and &lt;strong&gt;2) Understand the existing ecosystem&lt;/strong&gt;—considering the particular structures and needs that exist in each country, region, and community.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Nov 2020 06:00:00 -0500</pubDate>
+        <author>Erica Behrens
+</author>
+        <link>https://dai-global-digital.com/considerations-for-a-successful-ict-strategy-in-local-context-lessons-from-timor-leste.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/considerations-for-a-successful-ict-strategy-in-local-context-lessons-from-timor-leste.html</guid>
+        
+        <category>ICT</category>
+        
+        <category>Digital Principles</category>
+        
+        <category>Asia and the Pacific</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/JB%203.png" medium="image" /> 
@@ -197,29 +220,6 @@
         <category>Digital Privacy</category>
         
         <category>Digital Security</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202020-10-15%20at%209.06.53%20AM.png" medium="image" /> 
-        <title>Cybersecurity Frontier Insights Findings: User Perceptions of Trust and Privacy on the Internet</title>
-        <description>&lt;p&gt;&lt;em&gt;Last week we shared that the Center for Digital Acceleration was launching our most recent Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. Here are the findings from that report, which can be downloaded &lt;a href=&quot;https://www.dai.com/fi-cyber-user-trust.pdf&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Since the creation of the internet more than 30 years ago, our lives, economies, and societies have changed dramatically and the restrictions of the COVID-19 pandemic have accelerated change even more. As we’ve developed seemingly endless new methods of online communication, commerce, and civic participation, the international development community has become more acutely aware of a growing digital divide: those who are poor, rural, remote, illiterate, female, or living with disabilities in emerging markets risk being excluded from the benefits of digital transformation. Therefore, especially in recent years and months, we’ve seen valiant efforts from governments, private companies, and the development community to bridge digital gaps aiming to enable more people to access and benefit from online services. However, as access and use has increased, so has the number of digital risks, with data breaches, fraud, surveillance, and cybercrime on the rise globally.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Oct 2020 06:01:00 -0400</pubDate>
-        <author>Julia Burchell
-</author>
-        <link>https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html</guid>
-        
-        <category>Privacy</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Trust</category>
         
         
       </item>
