@@ -46,7 +46,7 @@ On WIE, we took steps to try to mitigate negative consequences as a result of ou
 
 ## Lesson 5: Use Machine Learning to Support People, Not Replace Them
 
-Science fiction often depicts artificial intelligence as becoming more powerful than humans. While this may be the case sometime in the future, that is not the case today. As noted in the beginning of this article, computers are best suited to process repetitive jobs quickly, supporting pre-existing workflows, and ultimately, people. While we could have hired dozens of people to sift through and read resumes day after day, this type of task is well suited for computers, and thus enabled our staff to focus on something a computer still cannot achieve – and that’s maintaining relationships with people.
+Science fiction often depicts artificial intelligence as becoming more powerful than humans. While this may be the case sometime in the future, that is not the case today. As noted up top, computers are best suited to process repetitive jobs quickly, supporting pre-existing workflows, and ultimately, people. While we could have hired dozens of people to sift through and read resumes day after day, this type of task is well suited for computers, and thus enabled our staff to focus on something a computer still cannot achieve – and that’s maintaining relationships with people.
 
 ## Looking Ahead
 
