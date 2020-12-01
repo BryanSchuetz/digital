@@ -1,6 +1,6 @@
 ---
 title: Reflections on Machine Learning for Gender Inclusion in Afghanistan
-date: 2020-11-26 15:05:00 -05:00
+date: 2020-12-03 06:00:00 -05:00
 categories:
 - Information
 - Innovation
@@ -12,15 +12,15 @@ social-image: "/uploads/AI%202%20copy%20(002).jpg"
 thumbnail: "/uploads/AI%202%20copy%20(002).jpg"
 ---
 
-This month, DAI’s Women in the Economy (WIE) project will come to an end. Funded by USAID, the project bolstered women’s inclusion in Afghanistan’s economy through technical assistance, access to finance, and business training. In 2016, our team [wrote](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html) about the possibility of leveraging machine learning (ML) to “automate the alignment of unstructured CVs and resumes with available jobs, thereby facilitating the access of Afghan women to employment opportunities.” Four years later, this use of machine learning is one of our favorite examples in international development projects. In this article, we reflect on five lessons from this initiative, and how we can translate its success into future endeavors.
+This month, DAI’s Women in the Economy (WIE) project will come to an end. Funded by USAID, the project bolstered women’s inclusion in Afghanistan’s economy through technical assistance, access to finance, and business training. In 2016, our team [wrote](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html) about the possibility of leveraging machine learning (ML) to “automate the alignment of unstructured CVs and resumes with available jobs, thereby facilitating the Afghan women's access to employment opportunities.” Four years later, this use case for machine learning is one of our favorite examples in international development projects. In this article, we reflect on five lessons from this initiative, and how we can translate its success into future endeavors.
 
 <!--more-->
 
 ## **Lesson 1: Define a Clear Use Case**
 
-The first lesson is the most obvious, but also the most challenging, and that is to have a clear machine learning use case. Despite the term “artificial intelligence,” computers are not smart, but they are able to process repetitive jobs quickly. To this end, machine learning is best used to handle clear, replicable tasks. Many of these tasks go sight unseen in the technologies that we use every day, changing our user experience based on our behavior. And while ML use cases are mature in the world of eCommerce, social media, and [remote sensing](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html), there are fewer high impact examples on projects that relate to governance, economics, agriculture, health, and others. Identifying a clear way to leverage machine learning is a challenge.
+The first lesson is the most obvious, but also the most challenging, and that is to have a clear machine learning use case. Despite the term “artificial intelligence,” computers are not smart, however they can process repetitive jobs quickly. To this end, machine learning is best used to handle clear, replicable tasks. Many of these tasks go sight unseen in the technologies that we use every day, changing our user experience based on our behavior. And while ML use cases are mature in the world of eCommerce, social media, and [remote sensing](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html), there are fewer high impact examples for projects that relate to governance, economics, agriculture, health, and others. Identifying a clear way to leverage machine learning is a challenge.
 
-The DAI WIE program used machine learning to handle a clear, repetitive task – that of reading and classifying resumes by job type. This method of machine learning uses what is known as Feature Extraction and Natural Language Processing (NLP). After training the machine learning model, our algorithm was integrated with a database of resumes and job openings. Each day, our algorithm read and tagged resumes and available jobs, tagging them by a pre-defined set of occupations, and providing recommendations to a team of people who engage job seekers on professional development opportunities.
+The WIE program used machine learning to handle a clear, repetitive task – that of reading and classifying resumes by job type. This method of machine learning uses what is known as Feature Extraction and Natural Language Processing (NLP). After training the machine learning model, our algorithm was integrated with a database of resumes and job openings. Each day, our algorithm read and tagged resumes and available jobs, tagging them by a pre-defined set of occupations, and providing recommendations to a team of people who engage job seekers on professional development opportunities.
 
 ![WIE ML Classifier.png](/uploads/WIE%20ML%20Classifier.png)
 
@@ -36,7 +36,7 @@ Ultimately, a computer-based intelligence like this is designed to support a pro
 
 In our case, we worked closely with staff responsible for professional development, and technical staff who managed a large database of resume information. We designed the system to integrate with their workflow, and to mirror their decision-making process. This involved everything from reviewing how staff accessed information, involving them in the tagging process, and checking back in regularly to ensure the system was meeting their needs.
 
-The other critical stakeholder group are those responsible for integration of the ML tool into a broader technical workflow. Many machine learning tools live in the background of a user interface, making decisions that change the user experience. This was the case on the WIE project, which maintained a large knowledge management portal (KMP) with information on job seekers. Once we developed the machine learning model, we created an application programming interface (API), which allowed the developers of the KMP to use to the model, and use it as dedicated function. Doing this required regular interaction between data science and web development staff.
+The other critical stakeholder group are those responsible for integrating the ML tool into a broader technical workflow. Many machine learning tools live in the background of a user interface, making decisions that change the user experience. This was the case on the WIE project, which maintained a large knowledge management portal (KMP) with information on job seekers. Once we developed the machine learning model, we created an application programming interface (API), which allowed the developers of the KMP to use to the model, and use it as dedicated function. Doing this required regular interaction between data science and web development staff.
 
 ## **Lesson 4: Beware of Algorithmic Bias**
 
