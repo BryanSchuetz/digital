@@ -6,7 +6,6 @@ tags:
 - Consent
 - privacy
 - Interoperability
-Author: Rachel Steller
 ---
 
 ## Introduction
