@@ -46,7 +46,7 @@ While it may be challenging to develop and offer alternatives in early and/or ac
 
 ## Data Controllers Bear Responsibilty 
 
-**In short, beneficiaries should not have to forego rights to privacy and data protection to realise other rights**, such as the rights to social protection and an adequate standard of living enshrined in the International Covenant on Economic, Social, and Cultural Rights.
+In short, beneficiaries should not have to forego rights to privacy and data protection to realise other rights, such as the rights to social protection and an adequate standard of living enshrined in the International Covenant on Economic, Social, and Cultural Rights.
 
 Consent is no substitute for protecting beneficiary rights by ensuring adherence to other core data protection principles such as data minimisation, minimum data retention, and data protection and security—under a rights-based approach, consent should not be used as an “excuse” to provide lower levels of protection than is feasible, merely because beneficiaries “consented” to this approach. “Individuals forfeit a good deal of control over their personal data once it has been disclosed. Data controllers, therefore, bear the [bulk of responsibility for ensuring good practice and privacy-preserving outcomes](https://www.internetsociety.org/wp-content/uploads/2018/05/AUCPrivacyGuidelines_2018508_EN.pdf).”
 
