@@ -1,6 +1,6 @@
 ---
-title: 'Consent to Data Processing in Humanitarian and Development Contexts: What
-  is it, how do you get it, and why does it matter?'
+title: 'Consent to Data Processing in Humanitarian and Development Contexts, Part
+  1: Who, What, When, and How'
 date: 2020-12-08 09:46:00 -05:00
 tags:
 - Consent
@@ -12,11 +12,9 @@ social-image: "/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficia
 thumbnail: "/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficiaries%20fill%20in%20Bank%20Account%20opening%20forms%20at%20Qilta%20Marsabit.jpg"
 ---
 
-## Introduction
+In late 2019 and early 2020, DAI and our partner, [Caribou Digital,](https://www.cariboudigital.net/) worked closely with the [U.K. Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the report can be found [here](https://www.dai.com/uploads/bsic-MIS-2020.pdf).
 
-In late 2019 and early 2020, DAI and our partner, [Caribou Digital,](https://www.cariboudigital.net/) worked closely with the [UK Foreign, Commonwealth & Development Office](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the report can be found [here](https://www.dai.com/uploads/bsic-MIS-2020.pdf).
-
-In this blog—the first of a two-part series—we will dig into some of the issues around consent and other legal bases for data processing in humanitarian and development contexts identified in our research. For other blogs about our research, see our comments on [interoperability ](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html)and the [risks and benefits of MIS at the humanitarian-social protection nexus](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html).
+In this post—the first of a two-part series—we dig into some of the issues around consent and other legal bases for data processing in humanitarian and development contexts identified in our research. For other blogs about our research, see our comments on [interoperability ](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html)and the [risks and benefits of MIS at the humanitarian-social protection nexus](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html).
 
 <!--more-->
 
