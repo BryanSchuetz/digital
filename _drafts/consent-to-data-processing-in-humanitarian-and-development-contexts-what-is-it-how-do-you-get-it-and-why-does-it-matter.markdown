@@ -19,6 +19,7 @@ In this blog—the first of a two-part series—we will dig into some of the iss
 ## What is consent and why does it matter in humanitarian settings?
 
 In the face of strong power imbalances between humanitarian and development agencies and beneficiaries, corresponding obligations are needed to ensure protection of the fundamental rights of the poorest and most marginalised people. The need to obtain consent can be seen as an essential corresponding obligation of the right to privacy. This right is enshrined in key international legal instruments like the the [Universal Declaration of Human Rights](https://www.refworld.org/docid/3ae6b3712c.html) (Art. 12) and the [International Covenant on Civil and Political Rights](https://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx) (Art. 17), and has been [interpreted by the UN Human Rights Committee to extend to data protection](https://www.refworld.org/docid/453883f922.html).
+
 !\[HSNP payment staff assisting elderly beneficiaries fill in Bank Account opening forms at Qilta Marsabit.jpg\]
 (/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficiaries%20fill%20in%20Bank%20Account%20opening%20forms%20at%20Qilta%20Marsabit.jpg)`HSNP payment staff assisting elderly beneficiaries as they fill in their bank account opening forms at Qilta, Marsabit.`
 
