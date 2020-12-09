@@ -1,7 +1,7 @@
 ---
 title: 'Consent to Data Processing in Humanitarian and Development Contexts, Part
   1: Who, What, When, and How'
-date: 2020-12-08 09:46:00 -05:00
+date: 2020-12-10 06:00:00 -05:00
 tags:
 - Consent
 - privacy
