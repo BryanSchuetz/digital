@@ -6,7 +6,7 @@ tags:
 - Consent
 - privacy
 - Interoperability
-Author: "[Chloe Messenger](https://www.linkedin.com/in/chloemessenger/) and [Rachel
+Author: "[Chloe Messenger](https://www.linkedin.com/in/chloemessenger/) and [Rachael
   Steller](https://www.linkedin.com/in/rachaelsteller/)"
 social-image: "/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficiaries%20fill%20in%20Bank%20Account%20opening%20forms%20at%20Qilta%20Marsabit.jpg"
 thumbnail: "/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficiaries%20fill%20in%20Bank%20Account%20opening%20forms%20at%20Qilta%20Marsabit.jpg"
