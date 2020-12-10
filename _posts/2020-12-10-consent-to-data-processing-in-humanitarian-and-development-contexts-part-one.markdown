@@ -44,7 +44,7 @@ All of these examples demonstrate the increasing convergence globally on a defin
 
 While it may be challenging to develop and offer alternatives in early and/or acute phases of a humanitarian crisis, options can be explored through research outside of such crises, to ensure these options are available when a crisis strikes. In addition, during protracted crises, there may be more time and opportunities to develop these alternatives, even where the aid remains essential and life-saving, providing greater opportunities to seek valid (i.e. not forced), informed consent. Moreover, data protection standards more broadly should continue to improve as a crisis response stabilises. Not only should data use be explained, but beneficiaries should be able to confirm the data held on them and their families, to correct any inaccuracies, and exercise a right to delete or limit access to this data. When considering the transition to building government systems, this would seem by definition to no longer be a humanitarian situation and separate consent would need to be sought for such a change of use (discussed further in our next blog in this series).
 
-## Data Controllers Bear Responsibilty 
+## Data Controllers Bear Responsibility
 
 In short, beneficiaries should not have to forego rights to privacy and data protection to realise other rights, such as the rights to social protection and an adequate standard of living enshrined in the International Covenant on Economic, Social, and Cultural Rights.
 
