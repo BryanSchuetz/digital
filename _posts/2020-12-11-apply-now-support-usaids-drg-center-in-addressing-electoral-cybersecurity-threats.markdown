@@ -32,7 +32,7 @@ Digital Frontiers is looking for organizations, firms, and individual consultant
 
 * Experience with developing and delivering effective trainings, presentations, and briefings for a variety of audiences, including through virtual platforms.
 
-More information on qualifications and how to apply can be found [here](https://www.dai.com/our-work/working-with-dai/current-procurements).
+More information on qualifications and how to apply can be found [here](https://www.dai.com/uploads/RFP%20DRG%20Electoral%20Cybersecurity%20Final.pdf).
 
 Proposals are due **December 28, 2020 at 5pm EST** to DigitalFrontiers@dai.com. Questions regarding the [RFP ](https://www.dai.com/uploads/RFP%20DRG%20Electoral%20Cybersecurity%20Final.pdf)are due **December 15, 2020 by 5pm EST** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email DigitalFrontiers@dai.com.
 
