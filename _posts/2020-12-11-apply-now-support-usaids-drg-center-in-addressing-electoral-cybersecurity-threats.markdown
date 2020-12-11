@@ -1,7 +1,7 @@
 ---
 title: 'Apply Now: Support USAID’s DRG Center in Addressing Electoral Cybersecurity
   Threats'
-date: 2020-12-10 06:00:00 -05:00
+date: 2020-12-11 06:00:00 -05:00
 tags:
 - Cybersecurity
 - Governance
