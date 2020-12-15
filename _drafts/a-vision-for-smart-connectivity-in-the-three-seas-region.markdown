@@ -28,7 +28,7 @@ The overall vision of Smart Connectivity is to expand digital components across 
 
 As we outline in the paper, we believe that meeting this bold vision will require three key components: political will, investment into a smart layer, and regional coordination.
 
-## Three Keys to the Smart Connectivity Vision
+## Three Keys to Smart Connectivity 
 
 First, the vision requires political will at the highest levels, promoting collaboration on an EU level, but also for cross-border projects in the Three Seas region. The EU platform and priorities are critical in this regard, providing investments and building blocks, such as European Community-funded innovation pilots, cloud service regulations and guidance, and important investments in data centers for federated cloud services.
 
