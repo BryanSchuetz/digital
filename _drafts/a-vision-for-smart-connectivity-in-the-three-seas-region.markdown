@@ -10,15 +10,15 @@ social-image: "/uploads/Capture-9dbe6c.PNG"
 thumbnail: "/uploads/Capture-9dbe6c.PNG"
 ---
 
-During the pandemic, we have been struck by one of the few upsides of this new way of working -- the ability to bring together experts and thinkers virtually in ways that contribute to a more global conversation. This was the case recently, when DAI spoke at the Three Seas Initiative with leaders and experts from across Europe and beyond about the concept of Smart Connectivity.
+During the pandemic, we have been struck by one of the few upsides of this new way of working—the ability to bring together experts and thinkers virtually in ways that contribute to a more global conversation. This was the case recently when DAI spoke at the Three Seas Initiative with leaders and experts from across Europe and beyond about the concept of 'Smart Connectivity.'
 
 <!--more-->
 
 ## The Three Seas Initiative
 
-The [Three Seas Initiative](https://3seas.eu/) (3SI) is a forum that brings together twelve European Union (EU) countries that lie along the Baltic, Adriatic, and Black Seas (hence ‘three seas’). These countries include Austria, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia, and Slovenia. 3SI is connected to the EU platform and aligns itself with broader EU priorities.
+The [Three Seas Initiative](https://3seas.eu/) (3SI) is a forum that brings together 12 European Union (EU) countries that lie along the Adriatic, Baltic, and Black Seas (hence ‘three seas’). These countries include Austria, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, Slovakia, and Slovenia. 3SI is connected to the EU platform and aligns itself with broader EU priorities.
 
-In October, Estonia – a true pace-setter in digital transformation at the national level - organized and hosted the [3SI annual summit](https://3seas.eu/event/three-seas-virtual-summit). We were incredibly grateful to have a chance to work with the Ministry of Foreign Affairs and the office of the President of Estonia to assess opportunities for ‘Smart Connectivity’ in a [vision paper](https://media.voog.com/0000/0046/4166/files/Smart_Connectivity.pdf) on the topic. We presented this vision at the summit, which included speakers from Google, senior U.S. Administration officials, various heads of state, and the President of Estonia.
+In October, Estonia—a true pacesetter in digital transformation at the national level—organized and hosted the 3SI annual [summit](https://3seas.eu/event/three-seas-virtual-summit). We were incredibly grateful to have a chance to work with the Ministry of Foreign Affairs and the office of the President of Estonia to assess opportunities for Smart Connectivity in a [vision paper](https://media.voog.com/0000/0046/4166/files/Smart_Connectivity.pdf) on the topic. We presented this vision at the summit, which included speakers from Google, senior U.S. Administration officials, various heads of state, and the President of Estonia.
 
 ![Capture-9dbe6c.PNG](/uploads/Capture-9dbe6c.PNG)
 
