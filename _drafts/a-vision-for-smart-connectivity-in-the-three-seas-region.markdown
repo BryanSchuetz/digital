@@ -24,7 +24,7 @@ In October, Estonia—a true pacesetter in digital transformation at the nationa
 
 ## A Vision for Smart Connectivity
 
-The overall vision of Smart Connectivity is to expand digital components across key infrastructure investments in transportation and energy. Smart Connectivity is not just about being smart in connecting today’s infrastructure, but it’s about building a foundation for tomorrow’s green, digital-driven industries that can create jobs, build economic competitiveness, and accelerate innovation across the region.  This vision is linked to the shared political vision of the EU, especially in its push to expand business opportunity and achieve its climate-related ambitions.
+The overall vision of Smart Connectivity is to expand digital components across key infrastructure investments in transportation and energy. Smart Connectivity is not just about being smart in connecting today’s infrastructure, but it’s about building a foundation for tomorrow’s green, digital-driven industries that can create jobs, build economic competitiveness, and accelerate innovation across the region.  This vision is linked to the shared political vision of the EU, especially in its push to expand business opportunities and achieve its climate-related ambitions.
 
 As we outline in the paper, we believe that meeting this bold vision will require three key components: political will, investment into a smart layer, and regional coordination.
 
