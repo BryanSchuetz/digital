@@ -42,6 +42,6 @@ The paper directly addresses the environmental impacts of the energy and transpo
 
 ## Looking Ahead
 
-The good news is that this vision and the ongoing work of the 3SI is receiving attention and support. Since the event, the board of the U.S. International Development Finance Corporation (DFC) [approved](https://3seas.eu/media/news/usd300-million-for-the-three-seas-fund-by-dfc)a $300 million investment into the 3SI Investment Fund.  As we like to say, plan it smart, and you are halfway to success.
+The good news is that this vision and the ongoing work of the 3SI is receiving attention and support. Since the event, the board of the U.S. International Development Finance Corporation (DFC) [approved](https://3seas.eu/media/news/usd300-million-for-the-three-seas-fund-by-dfc) a $300 million investment into the 3SI Investment Fund.  As we like to say, plan it smart, and you are halfway to success.
 
 The key message of the Smart Connectivity paper is that any infrastructure investment needs to be made with a view to the future, considering imminent change, especially in the digital and environmental sectors.
