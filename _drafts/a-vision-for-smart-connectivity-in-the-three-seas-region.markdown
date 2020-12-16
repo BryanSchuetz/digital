@@ -5,7 +5,8 @@ tags:
 - Environment & Energy
 - Innovation
 - Events
-Author: 'Krista Baptista, Margus Magi, and Rade Glomazic '
+Author: "[Krista Baptista](https://www.linkedin.com/in/krista-baptista-2202aa/), [Margus
+  Magi](https://www.linkedin.com/in/margusmagi/) and [Rade Glomazic](https://www.linkedin.com/in/glomazic/)"
 social-image: "/uploads/Capture-9dbe6c.PNG"
 thumbnail: "/uploads/Capture-9dbe6c.PNG"
 ---
