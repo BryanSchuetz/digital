@@ -31,10 +31,10 @@ Capitalizing on the increased global reach made possible through a virtual event
 In the wake of this year’s many historic events, ICTforAg 2020 examined how digital solutions in agriculture are fostering resilience in the wake of unexpected disruptions. As someone who prefers to focus on one task or problem at a time, I was deeply inspired by the experiences shared by farmers, digital innovators, donors and project implementers alike who continue to draw from deep wells of creativity and ingenuity to overcome concurrent crises and market shocks.
 
 <iframe src="https://player.vimeo.com/video/480002530?portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/480002530">Digital Responses to Layered Disruptions</a> from <a href="https://vimeo.com/user124215238">DevGlobal 3</a> on <a href="https://vimeo.com">Vimeo</a>.</p> 
+<p><a href="https://vimeo.com/480002530">Digital Responses to Layered Disruptions</a> from <a href="https://vimeo.com/user124215238">DevGlobal 3</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 `Speakers Brian King, Moushumi Khan and Eric Lovell discuss the role of digital technology in addressing layered disruptions.`
 
-Highlighting the importance of collaboration, adaptability and user-centricity, many ICTforAg speakers discussed what it will take to ensure that the digital agriculture tools and services of today and tomorrow can withstand the political, environmental, and social challenges in our midst. To that end, the session,[ ](https://vimeo.com/event/472816)*[Digital Responses to Layered Disruptions](https://vimeo.com/event/472816)*, was by far one of my favorites of the event and left me with a number of important takeaways, some of which I would like to share below:
+Highlighting the importance of collaboration, adaptability and user-centricity, many ICTforAg speakers discussed what it will take to ensure that the digital agriculture tools and services of today and tomorrow can withstand the political, environmental, and social challenges in our midst. To that end, the session,[ ](https://vimeo.com/480002530)*[Digital Responses to Layered Disruptions](https://vimeo.com/480002530)*, was by far one of my favorites of the event and left me with a number of important takeaways, some of which I would like to share below:
 
 ## Collaboration and Collective Problem Solving is Key
 
