@@ -12,6 +12,8 @@ thumbnail: "/uploads/Screenshot%202020-12-22%20105419.png"
 
 Reflecting back on 2020, it is still quite difficult for me to comprehend the many challenges the world faced this year and the implications for agriculture and resilience. From the [locust outbreak in East Africa](https://www.bbc.com/future/article/20200806-the-biblical-east-african-locust-plagues-of-2020), to the wildfires and extreme weather events in different corners of the globe, and of course, the COVID-19 pandemic, this year has made it clear that in a world increasingly shaped by unpredictability, the digital development community can no longer afford to address one specific challenge at a time. This year’s [ICTforAg](https://www.ictforag.com/) conference invited its speakers and participants to reflect on this reality and discover how digital tools and technologies can better help us respond to concurrent -- and increasingly frequent -- crises around the world.
 
+<!--more-->
+
 ## ICTforAg2020
 
 On November 18, 2020, participants from around the globe came together for ICTforAg 2020, an annual conference hosted by the United States Agency for International Development (USAID) and implemented by the Digital Frontiers project. Like so many other conferences and events, ICTforAg embraced the unique opportunity that this challenging year has presented and pivoted from an in-person event to an online gathering featuring perspectives from across the world of digital agriculture. The conference’s three overarching themes were:
