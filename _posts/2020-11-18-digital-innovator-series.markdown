@@ -5,7 +5,7 @@ date: 2020-11-18 06:04:00 -05:00
 tags:
 - Innovation
 - Digital Ecosystems
-- Ecosystem Insights
+- Digital Innovator Series
 Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 social-image: "/uploads/Muuve.jpg"
 thumbnail: "/uploads/Muuve.jpg"
