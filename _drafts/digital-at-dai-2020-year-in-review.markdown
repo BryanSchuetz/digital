@@ -1,6 +1,11 @@
 ---
 title: Digital@DAI 2020 Year in Review
 date: 2020-12-30 06:00:00 -05:00
+tags:
+- COVID-19
+- Digital Inclusion
+- Cybersecurity
+- Innovation
 Author: Krista Baptista
 social-image: "/uploads/Year%20in%20Review.jpg"
 thumbnail: "/uploads/Year%20in%20Review.jpg"
@@ -18,7 +23,7 @@ While one may be tempted to focus on the challenges that lie ahead or rush to qu
 
 ## Understanding and Responding to COVID-19
 
-In 2020, we wrote 76 blog posts and the most prevalent theme by far was COVID-19. Like many of you, those of us in CDA had our personal and work lives upended by COVID-19 as digital tools and platforms became an essential pathway to delivering technical activities that were previously conducted in person. We found ourselves on call nearly 24-7, advising DAI projects around the globe on their transitions to e-Learning platforms, meeting applications, and virtual co-creation. Thankfully, many of these technologies are accessible and user friendly, and our excellent project staff have caught on quickly. Unfortunately, for many who do not have the supportive structure of a global company like DAI, their experiences have been quite different. Many without reliable access to digital devices, affordable data and internet connectivity have been left behind during this pandemic. To wrap our heads around some of these challenges here are some of the top posts we wrote about the intersection between COVID-19 and digital development:
+In 2020, we wrote 76 blog posts and the most prevalent theme by far was COVID-19. Like many of you, those of us in CDA had our personal and work lives upended by COVID-19 as digital tools and platforms became an essential pathway to delivering technical activities that were previously conducted in person. We found ourselves on call nearly 24-7, advising DAI projects around the globe on their transitions to e-Learning platforms, meeting applications, and virtual co-creation. Thankfully, many of these technologies are accessible and user friendly, and our excellent project staff have caught on quickly. Unfortunately, for many who do not have the supportive structure of a global company like DAI, their experiences have been quite different. Many without reliable access to digital devices, affordable data and internet connectivity have been left behind during this pandemic. [Even here in the United States](https://dai-global-digital.com/covid-19.html), the digital divide separating communities based on indicators like wealth, geography, age and race showed us that there is work to be done to close these gaps both at home and abroad. To wrap our heads around some of these challenges, here are some of the top posts we wrote about the intersection between COVID-19 and digital development:
 
 * COVID-19 Data Analysis: [Part 1](https://dai-global-digital.com/covid-19-data-analysis-part-1-demography-behavior-and-environment.html), [2](https://dai-global-digital.com/covid-19-data-analysis-part-2-health-capacity-and-preparedness.html), [3](https://dai-global-digital.com/covid-19-data-analysis-part-3-rethinking-the-global-health-security-index.html), [4](https://dai-global-digital.com/examining-hospital-capacity-in-mexico.html), [5](https://dai-global-digital.com/covid-19-part-5-different-methods-to-model-infection-rates-in-mexico-and-what-they-tell-us.html), [6](https://dai-global-digital.com/forecasting-covid-19-transmission-using-google-mobility.html) by the CDA Analytics Team
 
@@ -76,4 +81,4 @@ As we look forward to 2021, we hope that the lessons and realities that this yea
 
 We thank you for joining us on our journey through 2020, congratulate you on your strength and resilience throughout this challenging time, and wish you a restful holiday season. Meet us back here in 2021 as a gear up for another exciting and eye-opening year in digital development.
 
-*Asterisk indicates one of the top blogs of 2020.*
+*\*Asterisk indicates one of the top blogs of 2020.*
