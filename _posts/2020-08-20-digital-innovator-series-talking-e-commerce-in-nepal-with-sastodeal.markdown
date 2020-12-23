@@ -2,8 +2,8 @@
 title: 'Digital Innovator Series: Talking E-Commerce in Nepal with Sastodeal'
 date: 2020-08-20 06:00:00 -04:00
 tags:
-- Digital Innovator
 - E-Commerce
+- Digital Innovator Series
 Author: "[Susanah Horton](https://dai-global-digital.com/authors/susannah-horton/)
   and [Ariel Magid](https://www.linkedin.com/in/ariel-magid/)"
 social-image: "/uploads/nepalecommerce.jpg"
