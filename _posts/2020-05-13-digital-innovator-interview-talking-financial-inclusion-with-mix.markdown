@@ -4,9 +4,7 @@ date: 2020-05-13 14:47:00 -04:00
 tags:
 - Economic Growth
 - Digital Financial Services
-- Entrepreneurship
-- Think Piece
-- Digital Innovator
+- Digital Innovator Series
 Author: Digital@DAI Team
 social-image: "/uploads/Capture-df7c9a.PNG"
 thumbnail: "/uploads/Capture-df7c9a.PNG"
