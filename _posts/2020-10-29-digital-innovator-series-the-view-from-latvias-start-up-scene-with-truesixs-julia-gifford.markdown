@@ -4,8 +4,8 @@ title: 'Digital Innovator Series: The View from Latvia’s Startup Scene with Tr
 date: 2020-10-29 14:00:00 -04:00
 tags:
 - Innovation
-- Ecosystem Insights
 - Digital Ecosystems
+- Digital Innovator Series
 Author: Inta Plostins
 social-image: "/uploads/intablognew.jpg"
 thumbnail: "/uploads/intablognew.jpg"
