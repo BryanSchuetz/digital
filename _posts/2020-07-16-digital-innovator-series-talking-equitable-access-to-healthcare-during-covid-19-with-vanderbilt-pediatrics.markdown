@@ -5,7 +5,7 @@ date: 2020-07-16 06:13:00 -04:00
 tags:
 - COVID-19
 - Global Health
-- Digital Innovator
+- Digital Innovator Series
 Author: Susannah Horton
 social-image: "/uploads/Coronavirus-doc-telecom.png"
 thumbnail: "/uploads/Coronavirus-doc-telecom.png"
