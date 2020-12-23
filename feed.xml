@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Dec 2020 09:48:18 -0500</pubDate>
-    <lastBuildDate>Wed, 23 Dec 2020 09:48:18 -0500</lastBuildDate>
+    <pubDate>Wed, 23 Dec 2020 13:24:34 -0500</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2020 13:24:34 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screenshot%202020-12-22%20105419.png" medium="image" /> 
+        <title>Addressing Concurrent Crises with Digital Tools: An ICTforAg Recap</title>
+        <description>&lt;p&gt;Reflecting back on 2020, it is still difficult for me to comprehend the many challenges the world faced this year and their implications for agriculture and resilience. From the &lt;a href=&quot;https://www.bbc.com/future/article/20200806-the-biblical-east-african-locust-plagues-of-2020&quot;&gt;locust outbreak in East Africa&lt;/a&gt;, to wildfires and extreme weather events, and of course, the COVID-19 pandemic, this year has made it clear that in a world increasingly shaped by unpredictability, the digital development community can no longer afford to address one specific challenge at a time. This year’s &lt;a href=&quot;https://www.ictforag.com/&quot;&gt;ICTforAg&lt;/a&gt; conference invited its speakers and participants to reflect on this reality and discover how digital tools and technologies can help us respond to concurrent—and increasingly frequent—crises worldwide.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2020 06:00:00 -0500</pubDate>
+        <author>Araba Sapara-Grant
+</author>
+        <link>https://dai-global-digital.com/addressing-concurrent-crises-with-digital-tools-an-ictforag-recap.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/addressing-concurrent-crises-with-digital-tools-an-ictforag-recap.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Resilience</category>
+        
+        <category>Digital Collaboration</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Capture-9dbe6c.PNG" medium="image" /> 
@@ -202,25 +223,6 @@
         <category>Digital Ecosystems</category>
         
         <category>Digital Innovator Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/WB.png" medium="image" /> 
-        <title>Strengthening Cyber Resilience as a Cornerstone of Self-Determination</title>
-        <description>&lt;p&gt;Cybersecurity and cyber resilience are becoming increasingly crucial considerations for countries seeking to assert sovereignty and self-determination. This desire is particularly acute in regions such as Eastern Europe, South Caucasus, and the Western Balkans, all of which face increasingly complex cyberattacks emanating from nefarious individual and nation-state actors. As these countries navigate digitalization and the interconnectedness of their critical infrastructure (CI) operations, including financial networks and government services, they must strengthen their capacity to address vulnerabilities caused by new technological developments and an increasingly hostile international security environment. Domestic leadership, regional cohesion, and international support are pivotal in strengthening cybersecurity capacity, legislative and strategic frameworks, and institutions in these regions.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 Nov 2020 10:00:00 -0500</pubDate>
-        <author>Alexander Sekhniashvili
-</author>
-        <link>https://dai-global-digital.com/strengthening-cyber-resilience-as-a-cornerstone-of-self-determination.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/strengthening-cyber-resilience-as-a-cornerstone-of-self-determination.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Critical Infrastructure</category>
         
         
       </item>
