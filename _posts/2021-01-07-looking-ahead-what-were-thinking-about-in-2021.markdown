@@ -2,6 +2,8 @@
 title: 'Looking Ahead: What We''re Thinking About in 2021'
 date: 2021-01-07 06:00:00 -05:00
 Author: Krista Baptista
+social-image: "/uploads/2021.jpg"
+thumbnail: "/uploads/2021.jpg"
 ---
 
 As we (perhaps happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is key. The events of the last year have changed almost every aspect of how we think, work and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year – so stay tuned and check back often.
