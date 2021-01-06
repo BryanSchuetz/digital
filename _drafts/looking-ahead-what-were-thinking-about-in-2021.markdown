@@ -1,12 +1,18 @@
 ---
 title: 'Looking Ahead: What We''re Thinking About in 2021'
 date: 2021-01-07 06:00:00 -05:00
+tags:
+- Data
+- Machine Learning
+- Think Piece
+- Cybersecurity
+- Disinformation
 Author: Krista Baptista
 social-image: "/uploads/2021.jpg"
 thumbnail: "/uploads/2021.jpg"
 ---
 
-As we (perhaps happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is key. The events of the last year have changed almost every aspect of how we think, work and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year – so stay tuned and check back often.
+As we (perhaps happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration (CDA) feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is key. The events of the last year have changed almost every aspect of how we think, work and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year – so stay tuned and check back often.
 
 <!--more-->
 
@@ -28,9 +34,9 @@ If we characterize ML and AI as the integration, collection and processing of da
 
 Of all the “frontier technologies” for development, we believe IoT holds great potential for emerging markets. For years, our Maker Lab has been working with diverse local partners around the world to design and implement readable, locatable, and controllable devices via the internet – otherwise known as IoT. CDA’s Maker Lab works with experts on solutions like acoustic detection of illegal fishing, sonar stream gauges for flood early warning, and water system management for small utilities, and will continue to identify new opportunities to develop cost effective smart devices for a range of development solutions. As the basic enabling technologies of IoT become ever more accessible in the emerging markets where we work, we expect to deepen that portfolio of IoT devices, whether produced in quantities an NGO, small business, or government partner can fabricate or at mass manufacturing scale.
 
-## Cybersecurity
+## Infrastructure Cybersecurity
 
-We have been focused on cybersecurity for a while now and it is steadily joining the drumbeat of digital priorities – [especially given the headlines in the U.S. these days](https://thehill.com/policy/cybersecurity/532756-us-intel-agencies-blame-russia-for-massive-solarwinds-hack). In the past, we have worked with diverse groups, from everyday internet users to Ministry officials, to prepare them for the next wave of cyber vulnerabilities and attacks. While CDA is actively engaged in thinking about ways to increase cyber hygiene and digital literacy, in 2021 we will adjust our focus to sharing knowledge and best practices for cybersecurity as it relates critical infrastructure. While one may see how their daily lives have been impacted by digital technology, what they may not be aware of is how sector key to the proper functioning of their economy such as energy, transportation, health and finance, have digitalized over the years, becoming increasingly interconnected – and vulnerable. Over the coming year, we look forward to promoting cybersecurity as a critical aspect of infrastructure digitalization, especially as forthcoming COVID-19 vaccine rollouts increase the risk of cyberthreats against hospitals and medical facilities.
+We have been focused on cybersecurity for a while now and it is steadily joining the drumbeat of digital priorities – [especially given the headlines in the United States (U.S.) these days](https://thehill.com/policy/cybersecurity/532756-us-intel-agencies-blame-russia-for-massive-solarwinds-hack). In the past, we have worked with diverse groups, from everyday internet users to Ministry officials, to prepare them for the next wave of cyber vulnerabilities and attacks. While CDA is actively engaged in thinking about ways to increase cyber hygiene and digital literacy, in 2021 we will adjust our focus to sharing knowledge and best practices for cybersecurity as it relates critical infrastructure. While one may see how their daily lives have been impacted by digital technology, what they may not be aware of is how sector key to the proper functioning of their economy such as energy, transportation, health and finance, have digitalized over the years, becoming increasingly interconnected – and vulnerable. Over the coming year, we look forward to promoting cybersecurity as a critical aspect of infrastructure digitalization, especially as forthcoming COVID-19 vaccine rollouts increase the risk of cyberthreats against hospitals and medical facilities.
 
 ## Mis- and Disinformation
 
