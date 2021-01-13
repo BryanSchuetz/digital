@@ -1,6 +1,6 @@
 ---
 title: Racist Hardware and What to Do About It
-date: 2021-01-13 17:27:00 -05:00
+date: 2021-01-14 06:00:00 -05:00
 tags:
 - bias
 - Hardware
