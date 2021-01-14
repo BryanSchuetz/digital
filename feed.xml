@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jan 2021 09:29:26 -0500</pubDate>
-    <lastBuildDate>Thu, 14 Jan 2021 09:29:26 -0500</lastBuildDate>
+    <pubDate>Thu, 14 Jan 2021 10:46:54 -0500</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2021 10:46:54 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Pulse_oximeter_sensor.jpg" medium="image" /> 
+        <title>Racist Hardware and What to Do About It</title>
+        <description>&lt;p&gt;In &lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMc2029240&quot;&gt;an astonishing letter&lt;/a&gt; to the editor published in the December 17, 2020, edition of the &lt;em&gt;New England Journal of Medicine&lt;/em&gt; (NEJM), a group of five doctors from the University of Michigan Medical School presented findings from their study on adult inpatients receiving supplemental oxygen at the University’s hospital. They found that the variance between blood oxygen levels measured through a pulse oximeter—an optical device that estimates blood oxygen by analyzing the light absorbed in an extremity, usually a finger—and more rigorous (and invasive) analyses of arterial blood gas differed substantially depending on whether the patient was Black or white. Moreover, Black patients tended to get more optimistic readings from the oximeter. Such inaccuracies could quite possibly lead to worse clinical outcomes and could be particularly detrimental when treating COVID-19 as careful monitoring of patients’ blood oxygen levels can trigger lifesaving medical care.&lt;/p&gt;
+
+&lt;p&gt;Against the backdrop of the ongoing global conversation about racism and bias, one might ask whether the pulse oximeters in this study are racist. Can a piece of hardware even be racist?&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Jan 2021 06:00:00 -0500</pubDate>
+        <author>Rob Ryan-Silva
+</author>
+        <link>https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html</guid>
+        
+        <category>Hardware</category>
+        
+        <category>Makerspace</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2021.jpg" medium="image" /> 
@@ -208,27 +229,6 @@
         <category>Digital Gender Divide</category>
         
         <category>Digital Privacy</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202020-04-23%20at%207.54.36%20AM.png" medium="image" /> 
-        <title>Respond Now: USAID Seeks ICT Regulatory Policy Technical Assistance Services in Latin America, the Caribbean, Africa, and the Indo-Pacific</title>
-        <description>&lt;p&gt;The &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project is issuing an expression of interest (EOI) to support the U.S. Agency for International Development’s (USAID) &lt;strong&gt;Promoting American Approaches to ICT Regulatory Policy (ProICT)&lt;/strong&gt; activity.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 20 Nov 2020 09:32:00 -0500</pubDate>
-        <author>Andrea Falso
-</author>
-        <link>https://dai-global-digital.com/respond-now-usaid-seeks-ict-regulatory-policy-technical-assistance-services-in-latin-america-the-caribbean-africa-and-the-indo-pacific.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/respond-now-usaid-seeks-ict-regulatory-policy-technical-assistance-services-in-latin-america-the-caribbean-africa-and-the-indo-pacific.html</guid>
-        
-        <category>Governance</category>
-        
-        <category>ICT</category>
-        
-        <category>ICT Policy</category>
         
         
       </item>

@@ -1,4 +1,16 @@
 
+- title: "Racist Hardware and What to Do About It"
+  pub: "Digital"
+  date: 2021-01-14
+  link: "https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html?utm_source=daidotcom"
+  summary: "In an astonishing letter to the editor published in the December 17, 2020, edition of the New England Journal of Medicine (NEJM), a group of five doctors from the University of Michigan Medical School presented findings from their study on adult inpatients receiving supplemental oxygen at the University’s hospital. They found that the variance between blood oxygen levels measured through a pulse oximeter—an optical device that estimates blood oxygen by analyzing the light absorbed in an extremity, usually a finger—and more rigorous (and invasive) analyses of arterial blood gas differed substantially depending on whether the patient was Black or white. Moreover, Black patients tended to get more optimistic readings from the oximeter. Such inaccuracies could quite possibly lead to worse clinical outcomes and could be particularly detrimental when treating COVID-19 as careful monitoring of patients’ blood oxygen levels can trigger lifesaving medical care.
+
+Against the backdrop of the ongoing global conversation about racism and bias, one might ask whether the pulse oximeters in this study are racist. Can a piece of hardware even be racist?"
+  tags:
+    - digital acceleration 
+    - Hardware 
+    - Makerspace 
+
 - title: "Looking Ahead: What We’re Thinking About in 2021"
   pub: "Digital"
   date: 2021-01-07
@@ -224,15 +236,4 @@ Since the creation of the internet more than 30 years ago, our lives, economies,
     - digital acceleration 
     - Digital Financial Services 
     - COVID-19 
-
-- title: "Research Launch: User Perceptions of Trust and Privacy on the Internet"
-  pub: "Digital"
-  date: 2020-10-15
-  link: "https://dai-global-digital.com/youre-invited-research-launch-user-perceptions-of-trust-and-privacy-on-the-internet.html?utm_source=daidotcom"
-  summary: "DAI’s Center for Digital Acceleration cordially invites you to an online event on findings from our latest Cybersecurity Frontier Insights research into user perceptions of trust and privacy in India and Ghana. We’ll be discussing these findings with a diverse panel of distinguished speakers from A4AI, USAID, FCDO, GSMA, and the Ghana Chamber of Telecommunications."
-  tags:
-    - digital acceleration 
-    - Privacy 
-    - Cybersecurity 
-    - Trust 
 
