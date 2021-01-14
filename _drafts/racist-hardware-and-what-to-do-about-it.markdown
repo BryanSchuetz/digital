@@ -41,17 +41,17 @@ The Michigan findings were published as a letter to the editor in NEJM and are n
 
 I presume no ill will on the part of the engineers and clinicians who designed and tested the Michigan pulse oximeters, nor on the regulators that cleared it, nor on the subject matter experts who wrote the standards. On the contrary, I imagine that all of these people wanted to promote fair and positive outcomes. But if hardware is material culture, then it must reckon with the insidious problems that have deep and wide roots in the handful of cultures that produce most of it. There are some lessons we can learn from the pulse oximeter case that can help us make more equitable hardware:
 
-* **Diversity in design**
+**Diversity in design**
 
 We are all products of our own experience and bring with us assumptions and blind spots that come with that experience. This is why it is so important that designers, regulators, engineers, and others involved in developing and producing hardware come from a variety of backgrounds to cover one another’s blind spots and ultimately produce a better-quality outcome.
 
 Diverse representation must not come from just one society, but from around the globe. A core principle of [DAI’s Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab) is the idea that hardware designed and built by people in a narrow socioeconomic band of a handful of developed countries often does not serve users in developing country well. The Lab works with innovators and users in the countries where we work to ensure that they can design, produce, and maintain hardware that works for their specific needs. As the technology used to design and implement hardware solutions gets more accessible, we need to actively put it into more—and different—hands to get better results for all.
 
-* **Human-centered design**
+**Human-centered design**
 
 Following the principles of human-centered design in a thoughtful and rigorous way, being sure to include a diversity of intended users, can reduce many of these issues. This may not seem like a revelation, but it is surprising how often this is not done. Thoughtful consideration of how different groups of users might interact with a solution in the aggregate should lead to careful data collection and analysis of the implications of those differences.
 
-* **Open standards, data, and transparency**
+**Open standards, data, and transparency**
 
 Having more eyes on standards—particularly eyes that do not belong solely to industry—is the easiest way to get better standards that serve a wider range of users. Anyone can access ISO’s standard on pulse oximeters… provided they are prepared to pay $230 to look at them. Not only does this squeeze out potential reviewers, but it does so with particular prejudice toward those at the bottom of the pyramid.
 
