@@ -23,9 +23,9 @@ Conversations around data responsibility in the humanitarian sector often centre
 
 **2. Important grounds of public interest**: When the activity in question is part of a humanitarian mandate established under national or international law.
 
-**3. Legitimate interest**: When a specific humanitarian activity is listed in a humanitarian organisation’s mission, and provided that this interest is not overridden by the fundamental rights and freedoms of the data subject. In all of these situations, the term “necessary” is to be strictly construed (i.e. the data processing should be truly necessary, rather than just convenient, to fulfil the relevant purpose).
+**3. Legitimate interest**: When a specific humanitarian activity is listed in a humanitarian organisation’s mission and provided that this interest is not overridden by the fundamental rights and freedoms of the data subject. In all of these situations, the term “necessary” is to be strictly construed (i.e. the data processing should be truly necessary, rather than just convenient, to fulfil the relevant purpose).
 
-**4. Performance of a contract**: Where it is necessary for the performance of a contract to which the Data Subject is party, or to take steps at the request of the Data Subject prior to entering into a contract. Once again, the term “necessary” is to be strictly construed.
+**4. Performance of a contract**: Where it is necessary for the performance of a contract to which the data subject is party, or to take steps at the request of the data subject prior to entering into a contract. Once again, the term “necessary” is to be strictly construed.
 
 **5. Compliance with a legal obligation**: Where it is necessary to comply with a legal obligation to which humanitarian organisations are subject. For example, in the area of employment law, if this is necessary to comply with an enforceable legal obligation like the obligation to pay tax on wages.
 
@@ -33,17 +33,17 @@ Where one of these alternative legal standards is met, it can be relied upon in 
 
 ![agree-1728448_1280.jpg](/uploads/agree-1728448_1280.jpg)
 
-## Onward data sharing and legal bases for data processing
+## Onward Data Sharing and Legal Bases for Data Processing
 
-There is increasing pressure to share information with other humanitarian and development actors and governments, with the goal of achieving [greater impact and/or value for money](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html). However, if consent is not an appropriate basis for the initial data collection, it is similarly unlikely to be sufficient to form the basis for data transfer to a third party. This is particularly problematic in fragile and conflict-affected states, where:
+There is increasing pressure to share information with other humanitarian and development actors and governments, with the goal of achieving greater impact and/or value for [money](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html). However, if consent is not an appropriate basis for the initial data collection, it is similarly unlikely to be sufficient to form the basis for data transfer to a third party. This is particularly problematic in fragile and conflict-affected states, where:
 
-1. It is unclear who will form the future government, and therefore to whom beneficiaries are providing their consent;
+**1.** It is unclear who will form the future government, and therefore to whom beneficiaries are providing their consent.
 
-2. Government systems are not yet established, limiting the data collector’s ability to explain, and the beneficiary’s ability to understand and make a decision regarding the risks involved in the data transfer;
+**2.** Government systems are not yet established, limiting the data collector’s ability to explain, and the beneficiary’s ability to understand and make a decision regarding the risks involved in the data transfer.
 
-3. Timeframes for establishing government systems are unknown, risking reliance on out of date, and therefore inaccurate, data when these systems are developed, [violating principles of accuracy and minimum retention periods for data collection](https://www.researchgate.net/profile/Magdalena_Sepulveda/publication/325909014_Is_biometric_technology_in_social_protection_programmes_illegal_or_arbitrary_An_analysis_of_privacy_and_data_protection/links/5b2c1583a6fdcc8506bc723e/Is-biometric-technology-in-social-protection-programmes-illegal-or-arbitrary-An-analysis-of-privacy-and-data-protection.pdf);
+**3.** Timeframes for establishing government systems are unknown, risking reliance on out of date, and therefore inaccurate, data when these systems are developed, violating principles of accuracy and minimum retention periods for [data collection](https://www.researchgate.net/profile/Magdalena_Sepulveda/publication/325909014_Is_biometric_technology_in_social_protection_programmes_illegal_or_arbitrary_An_analysis_of_privacy_and_data_protection/links/5b2c1583a6fdcc8506bc723e/Is-biometric-technology-in-social-protection-programmes-illegal-or-arbitrary-An-analysis-of-privacy-and-data-protection.pdf);
 
-4. Potential bias in data collection where the government is a party to combat, as those who are not aligned with the government may be less likely to provide consent, and may therefore be under-represented in the data collected, impacting data accuracy and impartial future service delivery; and
+**4.** Potential bias in data collection where the government is a party to combat, as those who are not aligned with the government may be less likely to provide consent, and may therefore be under-represented in the data collected, impacting data accuracy and impartial future service delivery; and
 
 5. The uncertainties around the data that may be needed for unknown future government systems (or use by any other party interested in providing services to beneficiaries) may encourage data over-collection, [in violation of data minimisation principles](https://www.researchgate.net/profile/Magdalena_Sepulveda/publication/325909014_Is_biometric_technology_in_social_protection_programmes_illegal_or_arbitrary_An_analysis_of_privacy_and_data_protection/links/5b2c1583a6fdcc8506bc723e/Is-biometric-technology-in-social-protection-programmes-illegal-or-arbitrary-An-analysis-of-privacy-and-data-protection.pdf).
 
