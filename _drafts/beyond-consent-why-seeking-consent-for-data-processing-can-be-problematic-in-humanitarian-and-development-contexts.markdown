@@ -6,8 +6,7 @@ tags:
 - consent
 - Privacy
 - humanitarian response
-Author: "(Chloe Messenger)[https://www.linkedin.com/in/chloemessenger/] and [Rachael
-  Steller](https://www.linkedin.com/in/rachaelsteller/)"
+Author: 'Chloe Messenger and [Rachael Steller](https://www.linkedin.com/in/rachaelsteller/) '
 social-image: "/uploads/agree-1728448_1280.jpg"
 thumbnail: "/uploads/agree-1728448_1280.jpg"
 ---
