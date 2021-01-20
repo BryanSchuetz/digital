@@ -1,6 +1,6 @@
 ---
-title: 'Beyond Consent: Why seeking consent for data processing can be problematic
-  in humanitarian and development contexts'
+title: 'Consent to Data Processing in Humanitarian and Development Contexts, Part
+  2: Beyond Consent'
 date: 2021-01-21 06:00:00 -05:00
 tags:
 - consent
@@ -12,13 +12,13 @@ social-image: "/uploads/agree-1728448_1280.jpg"
 thumbnail: "/uploads/agree-1728448_1280.jpg"
 ---
 
-This blog is part of a series on the use of Management Information Systems (MIS) in humanitarian crises. In our last piece, we talked about [consent to data processing in humanitarian and development contexts](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html). We argue in that blog that informed consent can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.
+This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how [informed consent](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html) can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.
 
 <!--more-->
 
 ## Data Processing Beyond Consent
 
-Conversations around data responsibility in the humanitarian sector often centre around the idea of digital agency and the sense of ownership of one’s data, along with an [increasing focus on obtaining consent for data collection and processing](https://www.odi.org/sites/odi.org.uk/files/resource-documents/digital_divide_lit_review_web_0.pdf). As discussed in our previous blog, during a humanitarian response, it may not be possible to provide the level of information and the alternatives needed to ensure consent is informed and freely given. Most importantly, a person who has no other option but to “consent” to receive life-saving services cannot provide valid consent due to a lack of free choice. Nonetheless, the inability to provide consent does not mean that services cannot be provided. This is common in humanitarian settings, and requires relying on another lawful basis for data processing. All major data protection standards and laws ([ICRC](https://www.icrc.org/en/data-protection-humanitarian-action-handbook), [GDPR](https://gdpr-info.eu/), [OECD](http://www.oecd.org/digital/ieconomy/privacy-guidelines.htm), [AU](https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection), etc.) recognise other lawful bases for data processing beyond consent. The [ICRC Handbook on Data Protection](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) summarises these as:
+Conversations around data responsibility in the humanitarian sector often centre around the idea of digital agency and the sense of ownership of one’s data, along with an increasing focus on obtaining consent for data collection and [processing](https://www.odi.org/sites/odi.org.uk/files/resource-documents/digital_divide_lit_review_web_0.pdf). As discussed in our previous blog, during a humanitarian response, it may not be possible to provide the level of information and the alternatives needed to ensure consent is informed and freely given. Most importantly, a person who has no other option but to “consent” to receive life-saving services cannot provide valid consent due to a lack of free choice. Nonetheless, the inability to provide consent does not mean that services cannot be provided. This is common in humanitarian settings, and requires relying on another lawful basis for data processing. All major data protection standards and laws ([ICRC](https://www.icrc.org/en/data-protection-humanitarian-action-handbook), [GDPR](https://gdpr-info.eu/), [OECD](http://www.oecd.org/digital/ieconomy/privacy-guidelines.htm), [AU](https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection), etc.) recognise other lawful bases for data processing beyond consent. The [ICRC Handbook on Data Protection](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) summarises these as:
 
 1\. **Vital interest**: where data processing is necessary to protect an interest which is essential for the Data Subject’s life, integrity, health, dignity, or security or that of another person.
 
