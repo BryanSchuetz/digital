@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2021 09:57:18 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2021 09:57:18 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Jan 2021 09:26:25 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Jan 2021 09:26:25 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/agree-1728448_1280.jpg" medium="image" /> 
+        <title>Consent to Data Processing in Humanitarian and Development Contexts, Part 2: Beyond Consent</title>
+        <description>&lt;p&gt;This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how &lt;a href=&quot;https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html&quot;&gt;informed consent&lt;/a&gt; can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 21 Jan 2021 06:00:00 -0500</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://www.linkedin.com/in/rachaelsteller/">Rachael Steller</a>
+</author>
+        <link>https://dai-global-digital.com/beyond-consent-why-seeking-consent-for-data-processing-can-be-problematic-in-humanitarian-and-development-contexts.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/beyond-consent-why-seeking-consent-for-data-processing-can-be-problematic-in-humanitarian-and-development-contexts.html</guid>
+        
+        <category>consent</category>
+        
+        <category>Privacy</category>
+        
+        <category>humanitarian response</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Pulse_oximeter_sensor.jpg" medium="image" /> 
@@ -208,27 +229,6 @@
         <category>Digital Principles</category>
         
         <category>Asia and the Pacific</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/JB%203.png" medium="image" /> 
-        <title>Eliminating Cyber Violence Against Women and Girls</title>
-        <description>&lt;p&gt;Today is the United Nations’ International Day for the Elimination of Violence Against Women. Like every year on this day–and any other official “Day” that amplifies the inequalities between women and men–I’m heaving a big sigh… because we’re still here. We still require these Days. We continue to need reminding that women are &lt;em&gt;still&lt;/em&gt; fighting for equality all over the world.&lt;/p&gt;
-
-&lt;p&gt;These thoughts can get me down, but today, I’m pulling up my positive socks. Observing these Days provides an opportunity to celebrate the progress societies have made in closing gender gaps and can galvanise us to acknowledge the work still left to do. If days like today inspire us to take positive action to shape a better world for women and men, then that is all to the good.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 25 Nov 2020 07:56:00 -0500</pubDate>
-        <author>Julia Burchell
-</author>
-        <link>https://dai-global-digital.com/eliminating-cyber-violence-against-women-and-girls.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/eliminating-cyber-violence-against-women-and-girls.html</guid>
-        
-        <category>Digital Gender Divide</category>
-        
-        <category>Digital Privacy</category>
         
         
       </item>
