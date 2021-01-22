@@ -5,6 +5,7 @@ tags:
 - Data Visualization
 - COVID-19
 - Digital Health
+- COVID-19 Data Series
 Author: Jamie Parr
 social-image: "/uploads/figure_5.png"
 thumbnail: "/uploads/figure_5.png"
