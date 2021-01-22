@@ -7,6 +7,7 @@ tags:
 - Digital Health
 - Data Visualization
 - COVID-19
+- COVID-19 Data Series
 Author: CDA Analytics Team
 social-image: "/uploads/COVID_Data_Map.png"
 thumbnail: "/uploads/COVID_Data_Map.png"
