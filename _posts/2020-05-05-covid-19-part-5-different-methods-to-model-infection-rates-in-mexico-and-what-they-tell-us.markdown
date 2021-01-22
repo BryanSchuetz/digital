@@ -6,6 +6,7 @@ tags:
 - Digital Health
 - COVID-19
 - Data
+- COVID-19 Data Series
 Author: Jamie Parr
 social-image: "/uploads/fig8_cfr-0d2f6a.png"
 thumbnail: "/uploads/fig8_cfr-0d2f6a.png"
