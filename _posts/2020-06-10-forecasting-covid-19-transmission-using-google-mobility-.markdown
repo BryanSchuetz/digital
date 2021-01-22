@@ -9,6 +9,7 @@ tags:
 - Data Visualization
 - Data
 - COVID-19
+- COVID-19 Data Series
 Author: Jamie Parr
 social-image: "/uploads/COVID%20blog%20image.png"
 thumbnail: "/uploads/COVID%20blog%20image.png"
