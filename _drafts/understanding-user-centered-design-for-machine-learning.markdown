@@ -47,4 +47,4 @@ Additionally, the participatory approach described in the paper speaks to one of
 
 While we are not at a point where we can use machine translation for low-resourced languages in the way that we use Google Translate, this research offers new insight into how we can design machine learning tools with the user and hope that one day, translating English into Yoruba or Kikuyu will be as easy as translating English into French.
 
-*To read the full open-access paper, [click here.] (https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf)*
+*To read the full open-access paper, [click here](https://www.aclweb.org/anthology/2020.findings-emnlp.195.pdf).*
