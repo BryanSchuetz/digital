@@ -19,23 +19,21 @@ Google Translate, and other mainstream machine translation tools, are also limit
 
 ## Why the Need for an ‘Alternative’ Approach?
 
-The authors outline a variety of roles that are necessary for an NLP task: stakeholders, content creators, translators, curators, language technologists, and evaluators. Each is responsible for a different task in the NLP pipeline, but all interact together to create MT datasets and models, as seen in the graphic below.
+The authors outline a variety of roles that are necessary for an NLP task: stakeholders, content creators, translators, curators, language technologists, and evaluators. Each is responsible for a different task in the NLP pipeline, but all interact together to create machine translation datasets and models, as seen in the graphic below.
 
 ![Gratiana Blog-a4beff.png](/uploads/Gratiana%20Blog-a4beff.png)`Source: Nekoto et al 2020`
 
-One of the major constraints to studying these languages is that there are few researchers who can speak the language they are studying. As a result, the MT process is often examined without knowledge of country and cultural context and, therefore, unsuccessful.
+One of the major constraints to studying these languages is that there are few researchers who can speak the language they are studying. As a result, the machine translation process is often examined without knowledge of the country and cultural context and, therefore, unsuccessful.
 
 Additional factors affecting the availability of resources for low-resourced languages include:
 
-* **Low demand from stakeholders**: Described by the authors as a ‘chicken-or-egg’ problem, low-resourced languages have limited demand for content creation and translation, which could improve if there was more content available in those languages. More content incentivizes stakeholder interest, but stakeholder interest leads to more content.
-
+* **Low demand from stakeholders**: Described by the authors as a ‘chicken-or-egg’ scenario, low-resourced languages have limited demand for content creation and translation, which could improve if there was more content available in those languages. More content incentivizes stakeholder interest, but stakeholder interest leads to more content.
 * **Limited access to technology**: Especially for digital content, technology infrastructure is necessary to be able to convert words from people’s brains into a computer. This includes access to technology, keyboards, and computing resources.
-
-* **Techniques developed in high-resourced societies might be inapplicable due to computer, infrastructure, or time constraints**: NLP tools built on top of English datasets and other languages commonly spoken in the Global North are often incompatible with low-resourced languages. Some of these differences include divergent grammar structures and word parts.
+* **Techniques developed in high-resourced societies might not apply due to computer, infrastructure, or time constraints**: NLP tools built on top of English datasets and other languages commonly spoken in the Global North are often incompatible with low-resourced languages. Some of these differences include divergent grammar structures and word parts.
 
 ## A Participatory Approach
 
-With these issues in mind, the authors present a case study to illustrate the impact of a participatory approach to MT for low-resourced languages. They brought together individuals interested in NLP from across the African continent to develop datasets, benchmarks, and models for over 30 African languages. The initiative brought together over 400 participants from at least 20 different countries. There were no educational or professional barriers to participation, an acknowledgement that there are few machine learning researchers with higher education degrees on the African continent.
+With these issues in mind, the authors present a case study to illustrate the impact of a participatory approach to machine translation for low-resourced languages. They brought together individuals interested in NLP from across the African continent to develop datasets, benchmarks, and models for more than 30 African languages. The initiative brought together over 400 participants from at least 20 different countries. There were no educational or professional barriers to participation, an acknowledgement that there are few machine learning researchers with higher education degrees on the African continent.
 
 The authors hypothesized that this kind of approach would improve MT for low-resourced languages, and they were right. Participants created the first ever evaluation benchmarks and training datasets for these 30 languages and published numerous research papers with these new resources. Additionally, over 80 percent of participants noted that the initiative helped them find mentors or collaborators.
 
