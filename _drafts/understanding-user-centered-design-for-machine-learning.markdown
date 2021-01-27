@@ -11,6 +11,8 @@ In November 2020, [Masakhane](https://www.masakhane.io/), a grassroots natural l
 
 Google Translate, and other mainstream MT tools, are also limited in the number of languages they are able to translate. As of today, Google Translate offers support for only 108 of the over 7000 languages spoken across the globe. Many of the languages that are not supported are what machine learning researchers consider to be “low-resourced”, a term used to describe languages that have few digital resources available and, more importantly, that are less commonly taught, endangered, or low density. The Masakhane paper outlines an alternative “participatory” approach for low-resourced languages to standard NLP tasks like crowd-sourced annotation for training data and evaluation benchmarks. To learn more about the basics of NLP, head to our previous blog post on [the importance of NLP in development](https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html).
 
+<!--more-->
+
 ## Why the need for an ‘alternative’ approach?
 
 The authors outline a variety of roles that are necessary for an NLP task: stakeholders, content creators, translators, curators, language technologists, and evaluators. Each is responsible for a different task in the NLP pipeline, but all interact together to create MT datasets and models, as seen in the graphic below.
