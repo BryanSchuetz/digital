@@ -2,6 +2,10 @@
 title: 'Towards Inclusive Machine Translation: A Case for User-Centered Design in
   Machine Learning'
 date: 2021-01-28 06:00:00 -05:00
+tags:
+- Machine Learning
+- Human-centered design
+- Digital Inclusion
 Author: Gratiana Fu
 social-image: "/uploads/Gratiana%20Blog%201.jpeg"
 thumbnail: "/uploads/Gratiana%20Blog%201.jpeg"
