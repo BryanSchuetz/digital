@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2021 09:01:10 -0500</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2021 09:01:10 -0500</lastBuildDate>
+    <pubDate>Thu, 28 Jan 2021 09:22:05 -0500</pubDate>
+    <lastBuildDate>Thu, 28 Jan 2021 09:22:05 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Gratiana%20Blog%201.jpeg" medium="image" /> 
+        <title>Towards Inclusive Machine Translation: A Case for User-Centered Design in Machine Learning</title>
+        <description>&lt;p&gt;In November 2020, &lt;a href=&quot;https://www.masakhane.io/&quot;&gt;Masakhane&lt;/a&gt;, a grassroots natural language process (NLP) community whose “mission is to strengthen and spur NLP in African languages, for Africans, by Africans,” published a paper titled “Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages.” &lt;a href=&quot;https://en.wikipedia.org/wiki/Machine_translation&quot;&gt;Machine translation&lt;/a&gt; refers to the use of software to translate digital and nondigital text and speech from one language into another. Google Translate is one of the more common examples of machine translation. Most of us have experienced issues translating text, especially sentences and phrases, as Google Translate often has difficulty detecting meaning and context. Due to these challenges, it can often give users incorrect word-for-word translations. (In your free time, search for the &lt;a href=&quot;https://twitter.com/search?q=%23GoogleTranslateFail%20&amp;amp;src=typed_query&quot;&gt;#GoogleTranslateFail&lt;/a&gt; hashtag on Twitter for a whole host of mistranslated content and a good laugh.)&lt;/p&gt;
+
+&lt;p&gt;Google Translate, and other mainstream machine translation tools, are also limited in the number of languages they are able to translate. As of today, Google Translate offers support for only 108 of the more than 7,000 languages spoken across the globe. Many of the languages that are not supported are what machine learning researchers consider to be “low-resourced,” a term used to describe languages that have few digital resources available and, more importantly, that are less commonly taught, endangered, or low density. The Masakhane paper outlines an alternative “participatory” approach for low-resourced languages to standard NLP tasks such as crowd-sourced annotation for training data and evaluation benchmarks. To learn more about the basics of NLP, head to our previous blog post on the &lt;a href=&quot;https://dai-global-digital.com/unearthing-lessons-by-revisiting-not-reinventing-the-wheel-with-data-science.html&quot;&gt;importance of NLP&lt;/a&gt; in development.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jan 2021 06:00:00 -0500</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/understanding-user-centered-design-for-machine-learning.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/understanding-user-centered-design-for-machine-learning.html</guid>
+        
+        <category>Machine Learning</category>
+        
+        <category>Human-centered design</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/agree-1728448_1280.jpg" medium="image" /> 
@@ -207,29 +230,6 @@
         <category>Information</category>
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Budapest%20Convention_resized.jpg" medium="image" /> 
-        <title>Considerations for a Successful ICT Strategy in Local Context: Lessons from Timor-Leste</title>
-        <description>&lt;p&gt;Those with access to technology in various parts of the world use it in similar ways. In places as distant as Chile, Vietnam, and Norway, people use e-commerce platforms for buying and selling goods, emailing each other, and e-calendars for business schedules, and social media platforms for sharing news, communicating, and organizing. Despite these crosscutting uses of technology and often the ubiquity of the platforms themselves (Facebook is the world’s most popular social media site, with 2.6 billion monthly &lt;a href=&quot;https://www.statista.com/statistics/268136/top-15-countries-based-on-number-of-facebook-users/&quot;&gt;active users&lt;/a&gt;), the context in which these technologies exist matter greatly for how that technology is governed and understood.&lt;/p&gt;
-
-&lt;p&gt;Technology strategies and policies must be tailored to the local context so that a country can successfully promote the use of technology for growth and prosperity while governing its use to protect citizens and national security. This approach aligns closely with the first two &lt;a href=&quot;https://digitalprinciples.org/principles/&quot;&gt;Principles for Digital Development,&lt;/a&gt; which are &lt;strong&gt;1) Design with the user&lt;/strong&gt;—using conversation, observation, and co-creation to create a product or initiative that is truly beneficial and appropriate and &lt;strong&gt;2) Understand the existing ecosystem&lt;/strong&gt;—considering the particular structures and needs that exist in each country, region, and community.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 27 Nov 2020 06:00:00 -0500</pubDate>
-        <author>Erica Behrens
-</author>
-        <link>https://dai-global-digital.com/considerations-for-a-successful-ict-strategy-in-local-context-lessons-from-timor-leste.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/considerations-for-a-successful-ict-strategy-in-local-context-lessons-from-timor-leste.html</guid>
-        
-        <category>ICT</category>
-        
-        <category>Digital Principles</category>
-        
-        <category>Asia and the Pacific</category>
-        
         
       </item>
     
