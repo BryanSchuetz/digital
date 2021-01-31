@@ -1,6 +1,7 @@
 ---
 title: What is CDA reading about misinformation and disinformation?
 date: 2021-01-31 11:24:00 -05:00
+Author: Inta Plostins
 ---
 
 After the insurrection/uprising/riot/attack/craziness/failed coup attempt (take your pick) at the U.S. Capitol building a few weeks ago, misinformation and disinformation are back in the news with a vengeance. While the bulk of the public’s attention has been on U.S. domestic mis/disinfo related to [QAnon](https://www.nytimes.com/article/what-is-qanon.html) and [other 2020 presidential election conspiracies](https://www.cbsnews.com/news/presidential-election-2020-conspiracy-theories-debunked/), it got us at CDA thinking about our favorite websites, blogs, and resources about mis/disinfo in the Global South or specifically for international development practitioners.
