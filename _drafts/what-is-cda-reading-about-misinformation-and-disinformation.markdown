@@ -1,5 +1,5 @@
 ---
-title: What is CDA Reading about Misinformation and Disinformation?
+title: What Are We Reading about Misinformation and Disinformation?
 date: 2021-02-04 06:00:00 -05:00
 tags:
 - Disinformation
@@ -9,7 +9,7 @@ social-image: "/uploads/EU%20vs%20Disinfo.PNG"
 thumbnail: "/uploads/EU%20vs%20Disinfo.PNG"
 ---
 
-After the insurrection/uprising/riot/attack/craziness/failed coup attempt (take your pick) at the United States (U.S.) Capitol building a few weeks ago, misinformation and disinformation are back in the news with a vengeance. While the bulk of the public’s attention has been on U.S. domestic mis/disinfo related to [QAnon](https://www.nytimes.com/article/what-is-qanon.html) and [other 2020 presidential election conspiracies](https://www.cbsnews.com/news/presidential-election-2020-conspiracy-theories-debunked/), it got us at CDA thinking about our favorite websites, blogs, and resources about mis/disinfo in the Global South or specifically for international development practitioners.
+After the insurrection/uprising/riot/attack/craziness/failed coup attempt (take your pick) at the U.S. Capitol building a few weeks ago, misinformation and disinformation are back in the news with a vengeance. While the bulk of the public’s attention has been on U.S. domestic mis/disinfo related to [QAnon](https://www.nytimes.com/article/what-is-qanon.html) and [other 2020 presidential election conspiracies](https://www.cbsnews.com/news/presidential-election-2020-conspiracy-theories-debunked/), it got us at CDA thinking about our favorite websites, blogs, and resources about mis/disinfo in the Global South or specifically for international development practitioners.
 
 To clarify some key terms before we get started (as I put in [my favorite blog post](https://dai-global-digital.com/disinformation-and-dating-apps-a-match-made-in-heaven-but-swipe-left-though.html) that I have ever written or will ever write) – **are misinformation and disinformation the same thing? No!** [Misinformation refers to](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf) any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong.
 
