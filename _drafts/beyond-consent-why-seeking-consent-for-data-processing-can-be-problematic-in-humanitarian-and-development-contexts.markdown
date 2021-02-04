@@ -14,8 +14,6 @@ thumbnail: "/uploads/agree-1728448_1280.jpg"
 
 This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how [informed consent](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html) can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.
 
-If this topic interests you, the full report from the "Review and Analysis of Identification and Registration Systems in Protracted and Recurrent Crises" work can be found [here.](http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf )
-
 <!--more-->
 
 ## Data Processing Beyond Consent
@@ -61,5 +59,7 @@ Strong coordination with government is necessary both to ensure the data collect
 ## Where We Go From Here
 
 There remain significant challenges for goals to increase efficiency and effectiveness in the transition to greater government control over social assistance. However, there are other ways to support governments toward this goal, including in ways that encourage greater accountability to beneficiaries, such as technical assistance on data collection and privacy, the development of ethics and privacy impact [assessments for data collection](https://link.springer.com/article/10.1007/s10676-019-09501-6), and training for beneficiaries on data protection and privacy rights, to support efforts to involve beneficiaries in the co-design of systems that respond better to [their needs](https://undocs.org/pdf?symbol=en/A/74/493), data protection or otherwise. Such an approach aligns with movements toward a rights-based approach to [data protection](https://privacyinternational.org/news-analysis/3363/syri-case-landmark-ruling-benefits-claimants-around-world), rather than a narrow focus on technical compliance, and the “interest of the international community in embedding data protection more strongly in [international human rights law](https://brill.com/view/journals/iolr/16/1/article-p158_158.xml).”
+
+If this topic interests you, the full report from the "Review and Analysis of Identification and Registration Systems in Protracted and Recurrent Crises" work can be found [here.](http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf )
 
 *Note: Though this research was funded through the U.K. Government’s Better Assistance in Crises programme, the views expressed in this blog are entirely those of the authors and do not necessarily represent the government’s views or policies.*
