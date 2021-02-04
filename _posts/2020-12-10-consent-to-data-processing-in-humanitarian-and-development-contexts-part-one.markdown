@@ -16,6 +16,7 @@ In late 2019 and early 2020, DAI and our partner, [Caribou Digital,](https://www
 
 In this post—the first of a two-part series—we dig into some of the issues around consent and other legal bases for data processing in humanitarian and development contexts identified in our research. For other blogs about our research, see our comments on [interoperability](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html) and the risks and benefits of management information systems at the [humanitarian-social protection nexus](https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html).
 
+The full report of this work is available at [this link.](http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf)
 <!--more-->
 
 ## Consent and Why it Matters in Humanitarian Settings
