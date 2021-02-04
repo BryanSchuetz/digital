@@ -35,7 +35,9 @@ So, what is CDA reading about mis/disinfo? In alphabetical order:
 
 **[Oxford Internet Institute’s (OII) Global Inventory of Organized Social Media Manipulation](https://comprop.oii.ox.ac.uk/research/posts/industrialized-disinformation/)** publishes an annual report detailing large-scale social media manipulation—by governments, political parties, and private sector actors—in 81 countries (in the recently released [2020 report](https://comprop.oii.ox.ac.uk/wp-content/uploads/sites/127/2021/01/CyberTroop-Report20-FINALv.3.pdf)). Its work in precisely identifying the sources of social manipulation in different countries as well as quantifying social media manipulation outcomes (such the amount of money that ‘cyber troops’ spend on political advertisements, at around $10 million) is world class.
 
-![Oxford.PNG](/uploads/Oxford.PNG)`Screenshot from *the Industrialized Disinformation: 2020 Global Inventory of Organized Social Media Manipulation* report by Samantha Bradshaw, Hannah Bailey, Philip N. Howard.`
+![Oxford.PNG](/uploads/Oxford.PNG)
+
+`Screenshot from the Industrialized Disinformation: 2020 Global Inventory of Organized Social Media Manipulation report by Samantha Bradshaw, Hannah Bailey, Philip N. Howard.`
 
 ## Further Reading
 
