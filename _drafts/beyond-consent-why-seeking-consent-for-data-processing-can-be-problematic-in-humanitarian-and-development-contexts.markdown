@@ -14,6 +14,8 @@ thumbnail: "/uploads/agree-1728448_1280.jpg"
 
 This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how [informed consent](https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html) can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.
 
+If this topic interests you, the full report from the "Review and Analysis of Identification and Registration Systems in Protracted and Recurrent Crises" work can be found [here.](http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf )
+
 <!--more-->
 
 ## Data Processing Beyond Consent
