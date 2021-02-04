@@ -13,7 +13,7 @@ After the insurrection/uprising/riot/attack/craziness/failed coup attempt (take 
 
 <!--more-->
 
-To clarify some key terms before we get started (as I put in my favorite [blog post](https://dai-global-digital.com/disinformation-and-dating-apps-a-match-made-in-heaven-but-swipe-left-though.html) that I have ever written or will ever write) – **are misinformation and disinformation the same thing? No!** [Misinformation refers to](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf) any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong.
+To clarify some key terms before we get started (as I put in my favorite [blog post](https://dai-global-digital.com/disinformation-and-dating-apps-a-match-made-in-heaven-but-swipe-left-though.html) that I have ever written or will ever write)–**are misinformation and disinformation the same thing? No!** [Misinformation refers to](https://d1e2bohyu2u2w9.cloudfront.net/education/sites/default/files/backgrounder_misinformation.pdf) any false or inaccurate information, such as rumors and hoaxes, while disinformation is false information spread with the specific intent to deceive, manipulate, or influence behavior. Disinformation requires malign intent, while misinformation is just plain wrong.
 
 So, what is CDA reading about mis/disinfo? In alphabetical order:
 
