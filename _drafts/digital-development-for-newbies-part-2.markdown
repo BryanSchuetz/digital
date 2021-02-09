@@ -6,6 +6,8 @@ Author: Addie Ryan
 
 This month I’ve been reflecting on all that has happened since this time last year, back when we were still blissfully unaware of what 2020 had in store. I won’t belabor the obstacles the world has faced since then. However, I do want to share some important concepts for colleagues who, like myself not so long ago, may be early in their international development-to-digital development journey. Below are some important topics – many on which my tech savvy colleagues and others have written extensively (so check out links embedded throughout) – that can be applied across our development projects and field work. Consider this the sophomore edition of the “Digital Development for Newbies” series, but if you’re brand new to this topic I encourage you to start with Part 1: The Basics.
 
+![IMG_7630_resize.jpg](/uploads/IMG_7630_resize.jpg)`Photo courtesy of DAI.`
+
 <!--more-->
 
 ## Increased Digitalization = Increased Vulnerability
