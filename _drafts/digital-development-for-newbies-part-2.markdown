@@ -20,7 +20,7 @@ Stakeholders across the international development and humanitarian sectors conti
 
 ![IMG_20200223_104757489_resize.jpg](/uploads/IMG_20200223_104757489_resize.jpg)`Photo courtesy of Addie Ryan.`
 
-**Application: **Cybersecurity should not be thought of as an emergency intervention added to a program when a need is identified. Rather, it should be “baked in” to project design from the start, *before* vulnerabilities are exposed, and kept top of mind throughout program implementation as well as closedown.
+**Application:** Cybersecurity should not be thought of as an emergency intervention added to a program when a need is identified. Rather, it should be “baked in” to project design from the start, before vulnerabilities are exposed, and kept top of mind throughout program implementation as well as closedown
 
 **Takeaway:** As international development professionals, consider privacy and cybersecurity when writing proposals, training staff during project start-up, and throughout activity implementation (such as if the Government of Kosovo asks for support to [implement an electronic procurement system](https://www.dai.com/our-work/projects/kosovo-transparent-effective-and-accountable-municipalities-team) or Central American farmers seek a [mobile app that shares information on climate patterns](https://assetify-dai.com/pdfs/digital-coffee-cloud-eng.pdf)). As you introduce digital tools in your programming, include a plan for educating users on safe practices and the risks associated with their use.
 
