@@ -34,6 +34,10 @@ How does this affect our work in international development? We are now seeing do
 
 **Application:** The spread of false information is an increasingly important element to consider in any governance or public health program. Implementers of more traditional development activities such as those supporting free and transparent elections, conflict mitigation and stabilization, WASH campaigns and vaccination roll-outs should consider activities to increase community media literacy and combat the spread of mis- and disinformation, especially via the most rapid (i.e. online) channels.
 
+![IMG_6653_resize.jpg](/uploads/IMG_6653_resize.jpg)
+
+`Photo courtesy of DAI.`
+
 ## Technology Can be Racist
 
 Institutional racism has gained increased and long overdue attention in 2020. It should be no surprise that digital tools designed by humans can likewise be subject to the known and unknown biases of the individuals who make up the design team, serve as test users, and provide training data. My colleague recently wrote about an infuriating example of such [bias in pulse oximeters](https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html) that give misleading and potentially fatal diagnostic readings to black patients. Furthermore, Artificial Intelligence (AI) and Machine Learning (ML) [algorithms can also show racial bias](https://dai-global-digital.com/algorithms-in-development.html?utm_source=related-box), particularly when the machines are trained on homogenous data. This problem is particularly profound as it relates to [facial recognition software](https://www.utdallas.edu/news/science-technology/racial-bias-facial-recognition-2020/). Such biases underscore the fact that digital tools do not necessarily work the same across all geographic contexts and for all populations.
