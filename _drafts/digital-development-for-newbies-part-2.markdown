@@ -38,7 +38,7 @@ Digital technologies are rapidly expanding the reach and impact of misinformatio
 
 **Application:** How does this affect our work in international development? We are now seeing donors fund standalone programs that focus on this topic, such as by USAID to [mitigate Kremlin manipulation of information in Georgia](https://www.usaid.gov/news-information/press-releases/oct-8-2020-usaid-launches-innovative-program-counter-disinformation-georgia) and by UK Aid (now “FCDO”) to tackle the spread of [false information related to COVID-19](https://www.gov.uk/government/news/uk-aid-to-tackle-global-spread-of-coronavirus-fake-news) in Southeast Asia and Africa. This is an increasingly important element to consider in any governance or public health program.
 
-**Takeaway:** Implementers of more traditional development activities – such as those supporting free and transparent elections, conflict mitigation and stabilization, WASH campaigns and vaccination roll-outs – should consider activities to increase community media literacy and combat the spread of mis- and disinformation, especially via the most rapid (i.e. online) channels.
+**Takeaway:** Implementers of more traditional development activities – such as supporting free and transparent elections, conflict mitigation and stabilization, WASH campaigns and vaccination roll-outs – should consider activities to increase community media literacy and combat the spread of mis- and disinformation, especially via the most rapid (i.e. online) channels.
 
 ![IMG_6653_resize.jpg](/uploads/IMG_6653_resize.jpg)
 
