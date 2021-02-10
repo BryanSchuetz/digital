@@ -6,6 +6,7 @@ tags:
 - Disinformation
 - Digital Inclusion
 Author: Addie Ryan
+social-image: "/uploads/IMG_7630_resize.jpg"
 ---
 
 This month I’ve been reflecting on all that has happened since this time last year, back when we were still blissfully unaware of the trials, trauma and transformation 2020 would bring. I won’t belabor the former here, but rather highlight some important concepts for colleagues who are gaining momentum in understanding and incorporating digital technologies into their international development work. Below are some important topics (on which my tech savvy colleagues and others have written extensively, so check out the hyperlinks!) that can be applied across our development projects and field work. Consider this the sophomore edition of the “Digital Development for Newbies” series, but if you’re brand new to this topic I encourage you to start with [Part 1: The Basics](https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html).
