@@ -31,7 +31,7 @@ Now more than ever, there is a sense that *everyone* is online. However, there r
 
 **Application:** So what role can development and tech professionals alike play to narrow rather than expand the [digital divide](https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html)? Firstly, in our digital projects and programming we can acknowledge this divide and design interventions to bridge the gap, supporting the excluded populations to gain connectivity and digital literacy skills. Secondly, for any projects – whether focused on health, agriculture, or supporting entrepreneurs – we can be intentional in designing our activities, outreach and data collection in a way that is inclusive of folks across this divide.
 
-**Takeaway:** When designing activities, ask your team: What audience might you miss by pushing out WASH behavior change campaigns only via social media? What data might you omit if only conducting a small business market survey via email? What population will be left unvaccinated if  appointments can only be made via website? How else could you reach reach those who are not online?
+**Takeaway:** When designing activities, ask your team: What audience might you miss by pushing out WASH behavior change campaigns only via social media? What data might you omit if conducting a small business market survey only via email? What population will be left unvaccinated if  appointments can only be made via website? How else could you reach reach those who are not online?
 
 ## Disinformation is an Increasing Threat to Global Governance and Public Health
 
