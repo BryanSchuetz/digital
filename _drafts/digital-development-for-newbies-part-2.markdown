@@ -38,13 +38,11 @@ Now more than ever, there is a sense that *everyone* is online. However, there r
 
 Digital technologies are rapidly expanding the reach and impact of misinformation (unknowingly false information) and disinformation (false information spread with malintent). Combatting false information online has become an increasing area of concern in the United States as well as countries abroad, as it is particularly common with information related to politics and [COVID-19](https://blog.twitter.com/en_us/topics/company/2020/covid19-vaccine.html) but also prevalent in other areas such as climate change and racial justice. (Tip: My colleague just shared a great list of [further reading on mis/disinfo](https://dai-global-digital.com/what-is-cda-reading-about-misinformation-and-disinformation.html).)
 
-**Application:** How does this affect our work in international development? We are now seeing donors fund standalone programs that focus on this topic, such as USAID's efforts to [mitigate Kremlin manipulation of information in Georgia](https://www.usaid.gov/news-information/press-releases/oct-8-2020-usaid-launches-innovative-program-counter-disinformation-georgia) and UK Aid's (now “FCDO”) work to tackle the spread of [false information related to COVID-19](https://www.gov.uk/government/news/uk-aid-to-tackle-global-spread-of-coronavirus-fake-news) in Southeast Asia and Africa. This is an increasingly important element to consider in any governance or public health program.
+**Application:** How does this affect our work in international development? We are now seeing donors fund standalone programs that focus on this topic, such as the U.S. Agency for International Development's efforts to mitigate Kremlin manipulation of information in [Georgia](https://www.usaid.gov/news-information/press-releases/oct-8-2020-usaid-launches-innovative-program-counter-disinformation-georgia) and the U.K. Foreign, Commonwealth & Development's work to tackle the spread of false information related to [COVID-19](https://www.gov.uk/government/news/uk-aid-to-tackle-global-spread-of-coronavirus-fake-news) in Southeast Asia and Africa. This is an increasingly important element to consider in any governance or public health program.
 
-**Takeaway:** Implementers of more traditional development activities – such as supporting free and transparent elections, conflict mitigation and stabilization, WASH campaigns and vaccination roll-outs – should consider activities to increase community media literacy and combat the spread of mis- and disinformation, especially via the most rapid (i.e. online) channels.
+**Takeaway:** Implementers of more traditional development activities—such as supporting free and transparent elections; conflict mitigation and stabilization; water, sanitation, and hygiene campaigns; and vaccination roll-outs—should consider activities to increase community media literacy and combat the spread of mis- and disinformation, especially via the most rapid (i.e. online) channels.
 
 ![IMG_6653_resize.jpg](/uploads/IMG_6653_resize.jpg)
-
-`Photo courtesy of DAI.`
 
 ## Technology Can be Racist
 
