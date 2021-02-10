@@ -17,7 +17,7 @@ This month I’ve been reflecting on all that has happened since this time last 
 
 ## Increased Digitalization = Increased Vulnerability
 
-Stakeholders across the international development and humanitarian sectors continue to show increased interest in digitization (converting something to a digital format) and digitalization (converting processes or offline systems to usage of digital technologies). We’ve seen this demand from clients, government counterparts and end users alike. While this digital transformation can offer efficiency and transparency, it is critical to note that this comes increased cybersecurity risks. You may be tired of being told to strengthen your password or to add a second layer of authentication, but these tips are more important now than ever before.
+Stakeholders across the international development and humanitarian sectors continue to show increased interest in digitization (converting something to a digital format) and digitalization (converting processes or offline systems to usage of digital technologies). We’ve seen this demand from clients, government counterparts and end users alike. While such digital transformation can offer efficiency and transparency, it is critical to note that this comes increased cybersecurity risks. You may be tired of being told to strengthen your password or to add a second layer of authentication, but these tips are more important now than ever before.
 
 ![IMG_20200223_104757489_resize.jpg](/uploads/IMG_20200223_104757489_resize.jpg)`Photo courtesy of Addie Ryan.`
 
