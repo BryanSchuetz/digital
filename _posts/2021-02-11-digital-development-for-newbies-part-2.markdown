@@ -12,9 +12,9 @@ thumbnail: "/uploads/IMG_7630_resize.jpg"
 
 This month I’ve been reflecting on all that has happened since this time last year, back when we were still blissfully unaware of the trials, trauma, and transformation 2020 would bring. Instead of focusing on the challenges we faced over the last several months, I'd like to highlight some relevant concepts for colleagues who are gaining momentum in understanding and incorporating digital technologies into their international development work. Below are some important topics (upon which my tech-savvy colleagues and others have written extensively, so check out the links!) that can be applied across our development projects and fieldwork. Consider this the sophomore edition of the “Digital Development for Newbies” series, but if you’re brand new to this topic, I encourage you to start with [Part 1: The Basics](https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html).
 
-![IMG_7630_resize.jpg](/uploads/IMG_7630_resize.jpg)
-
 <!--more-->
+
+![IMG_7630_resize.jpg](/uploads/IMG_7630_resize.jpg)
 
 ## Increased Digitalization = Increased Vulnerability
 
