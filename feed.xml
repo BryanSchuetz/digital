@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Feb 2021 11:45:28 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2021 11:45:28 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2021 10:43:12 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 10:43:12 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/IMG_7630_resize.jpg" medium="image" /> 
+        <title>Digital Development for Newbies, Part 2: Sophomore Edition</title>
+        <description>&lt;p&gt;This month I’ve been reflecting on all that has happened since this time last year, back when we were still blissfully unaware of the trials, trauma, and transformation 2020 would bring. Instead of focusing on the challenges we faced over the last several months, I’d like to highlight some relevant concepts for colleagues who are gaining momentum in understanding and incorporating digital technologies into their international development work. Below are some important topics (upon which my tech-savvy colleagues and others have written extensively, so check out the links!) that can be applied across our development projects and fieldwork. Consider this the sophomore edition of the “Digital Development for Newbies” series, but if you’re brand new to this topic, I encourage you to start with &lt;a href=&quot;https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html&quot;&gt;Part 1: The Basics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/IMG_7630_resize.jpg&quot; alt=&quot;IMG_7630_resize.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Feb 2021 07:00:00 -0500</pubDate>
+        <author>Addie Ryan
+</author>
+        <link>https://dai-global-digital.com/digital-development-for-newbies-part-2.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-for-newbies-part-2.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Disinformation</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/EU%20vs%20Disinfo.PNG" medium="image" /> 
@@ -202,31 +225,6 @@
         <category>Cybersecurity</category>
         
         <category>Governance</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/HSNP%20payment%20staff%20assisting%20elderly%20beneficiaries%20fill%20in%20Bank%20Account%20opening%20forms%20at%20Qilta%20Marsabit.jpg" medium="image" /> 
-        <title>Consent to Data Processing in Humanitarian and Development Contexts, Part 1: Who, What, When, and How</title>
-        <description>&lt;p&gt;In late 2019 and early 2020, DAI and our partner, &lt;a href=&quot;https://www.cariboudigital.net/&quot;&gt;Caribou Digital,&lt;/a&gt; worked closely with the &lt;a href=&quot;https://www.gov.uk/government/organisations/foreign-commonwealth-development-office&quot;&gt;U.K. Foreign, Commonwealth &amp;amp; Development Office&lt;/a&gt; to analyse identification and registration systems in protracted and recurrent crises. For those interested in reading more about the research, the report can be found &lt;a href=&quot;https://www.dai.com/uploads/bsic-MIS-2020.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In this post—the first of a two-part series—we dig into some of the issues around consent and other legal bases for data processing in humanitarian and development contexts identified in our research. For other blogs about our research, see our comments on &lt;a href=&quot;https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-interoperability.html&quot;&gt;interoperability&lt;/a&gt; and the risks and benefits of management information systems at the &lt;a href=&quot;https://dai-global-digital.com/management-information-systems-at-the-humanitarian-social-protection-nexus-part-2-risks-and-benefits.html&quot;&gt;humanitarian-social protection nexus&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The full report of this work is available at &lt;a href=&quot;http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf&quot;&gt;this link.&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 10 Dec 2020 06:00:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/chloemessenger/">Chloe Messenger</a> and <a href="https://www.linkedin.com/in/rachaelsteller/">Rachael Steller</a>
-</author>
-        <link>https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html</guid>
-        
-        <category>Consent</category>
-        
-        <category>privacy</category>
-        
-        <category>Interoperability</category>
         
         
       </item>
