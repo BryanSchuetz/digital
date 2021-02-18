@@ -43,7 +43,7 @@ My vision is that Cambodians will be more mindful of single-use plastic. I want 
 
 ## Adaptation
 
-**SOTHEAVY: **I am a learning type of person, so wherever I go, I observe, I listen to people and I ask people questions. I am always curious about the way people deal with plastic in their everyday life and in their business - and I listen hard to try to understand if they have any concerns that Think Plastic can address. I use this data to adapt and drive the campaign to fit their needs.
+**SOTHEAVY: **I am a learning type of person, so wherever I go, I observe, I listen to people and I ask people questions. I am always curious about the way people deal with plastic in their everyday lives and in their businesses—and I listen hard to try to understand if they have any concerns that Think Plastic can address. I use this data to adapt and drive the campaign to fit their needs.
 
 ## Repetition
 
