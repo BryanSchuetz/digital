@@ -15,7 +15,7 @@ thumbnail: "/uploads/thumbnail.jpg"
 
 <!--more-->
 
-**KATE:** Hi Sotheavy! First, tell our Digital@DAI audience about Think Plastic. When did you get started? What problem were you trying to address in Cambodia?
+**KATE:** Hi Sotheavy! First, tell our audience about Think Plastic. When did you get started? What problem were you trying to address in Cambodia?
 
 **SOTHEAVY:** Back in 2019, I was on holiday from my job at DAI/[Development Innovations](https://www.development-innovations.org/) on the coast of Cambodia. It was Women Rights Day – and I wanted to be out in nature (I love everything to be green!) I was walking along the beach in Kep and I saw massive piles of plastic trash on the beach and floating in the ocean. That day, I knew I needed to use my voice to address this issue. I wanted to move fast, shooting and releasing videos on Facebook the same day. So I launched the campaign the next day.
 
