@@ -15,21 +15,19 @@ thumbnail: "/uploads/thumbnail.jpg"
 
 <!--more-->
 
-**KATE:** Hi Sotheavy! First, tell our audience about Think Plastic. When did you get started? What problem were you trying to address in Cambodia?
+**KATE:** Hi Sotheavy! First, tell our readers about Think Plastic. When did you get started? What problem were you trying to address in Cambodia?
 
-**SOTHEAVY:** Back in 2019, I was on holiday from my job at DAI/[Development Innovations](https://www.development-innovations.org/) on the coast of Cambodia. It was Women Rights Day – and I wanted to be out in nature (I love everything to be green!) I was walking along the beach in Kep and I saw massive piles of plastic trash on the beach and floating in the ocean. That day, I knew I needed to use my voice to address this issue. I wanted to move fast, shooting and releasing videos on Facebook the same day. So I launched the campaign the next day.
+**SOTHEAVY:** Back in 2019, I was on a coastal holiday from my job on the [Development Innovations](https://www.development-innovations.org/) project. It was Women Rights Day—and I wanted to be out in nature (I love everything to be green!) I was walking along the beach in Kep and I saw massive piles of plastic trash on the beach and floating in the ocean. That day, I knew I needed to use my voice to address this issue. I wanted to move fast, so I shot and released videos on Facebook that same day. I officially launched the campaign the next day.
 
-My vision is that Cambodians will be more mindful about single-use plastic. I want to see them actively reduce the use of this plastic and use more reusable items in their daily lives and businesses.
+My vision is that Cambodians will be more mindful of single-use plastic. I want to see them actively reduce the use of this plastic and use more reusable items in their daily lives and businesses.
 
-![thumbnail.jpg](/uploads/thumbnail.jpg)`Photo courtesy of Sotheavy AT`
+![thumbnail.jpg](/uploads/thumbnail.jpg)`Photo courtesy of Sotheavy AT.`
 
 **KATE:** How did you know the campaign was “working” and spurring Cambodians to act against single-use plastic? How are you measuring success?
 
-**SOTHEAVY:** Good question! I think a lot of people measure campaign success by Facebook followers alone. I wanted more than that – I wanted to engage the audience and see how I could inspire action. One way I measure success is by the massive amount of people that post proof of their own “green action” on the page, like using reusable bottles or tote bags at the market. I was truly surprised by how quickly this happened as the campaign grew.
+**SOTHEAVY:** Good question! I think a lot of people measure campaign success by Facebook followers alone. I wanted more than that—I wanted to engage the audience and see how I could inspire action. One way I measure success is by the massive amount of people that post proof of their own “green action” on the page, such as using reusable bottles or tote bags at the market. I was truly surprised by how quickly this happened as the campaign grew.
 
-![thumbnail (1).jpg](/uploads/thumbnail%20(1).jpg)
-
-`Photo courtesy of Sotheavy AT`
+![thumbnail (1).jpg](/uploads/thumbnail%20(1).jpg)`Photo courtesy of Sotheavy AT.`
 
 **KATE:** What have you learned while running this campaign? How has your approach changed over the last 18 months?
 
