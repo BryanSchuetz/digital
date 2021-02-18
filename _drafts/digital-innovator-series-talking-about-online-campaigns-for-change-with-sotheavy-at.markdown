@@ -35,11 +35,11 @@ My vision is that Cambodians will be more mindful of single-use plastic. I want 
 
 ## Testing Messages
 
-**SOTHEAVY:** When I first launched the campaign, I did not really know if people were going to care about this problem. So I started with just a few videos to test that hypothesis. It turns out that people care! Over and over again, I was hearing: “I have the same idea as you, but I don’t know how to address this problem! I am so happy that you are running this campaign.” So people DO care - check!
+**SOTHEAVY:** When I first launched the campaign, I did not really know if people were going to care about this problem. So I started with just a few videos to test that hypothesis. It turns out that people do care! Over and over again, I was hearing: 'I have the same idea as you, but I don’t know how to address this problem! I am so happy that you are running this campaign.' So people DO care—check!
 
-## Problems vs Solutions
+## Problems vs. Solutions
 
-**SOTHEAVY:** First, I tried to let people know about the problem of single-use plastic and tried to tell stories to help them relate. Next, I started to suggest solutions that people can try at a personal level. I think it is really important to give people simple solutions so that they don’t feel that “only the superheroes can save the world!”.
+**SOTHEAVY:** First, I tried to let people know about the problem of single-use plastic and tried to tell stories to help them relate. Next, I started to suggest solutions that people can try personally. I think it is really important to give people simple solutions so that they don’t feel that only the superheroes can save the world!.
 
 ## Adaptation
 
