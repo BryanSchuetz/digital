@@ -31,23 +31,13 @@ My vision is that Cambodians will be more mindful of single-use plastic. I want 
 
 **KATE:** What have you learned while running this campaign? How has your approach changed over the last 18 months?
 
-**SOTHEAVY:** I have learned a lot!
+**SOTHEAVY:** I have learned a lot! When I first launched the campaign, I did not really know if people were going to care about this problem. So I started with just a few videos to test that hypothesis. It turns out that people do care! Over and over again, I was hearing: 'I have the same idea as you, but I don’t know how to address this problem! I am so happy that you are running this campaign.' So people DO care—check!
 
-## Testing Messages
+First, I tried to let people know about the problem of single-use plastic and tried to tell stories to help them relate. Next, I started to suggest solutions that people can try personally. I think it is really important to give people simple solutions so that they don’t feel that only superheroes can save the world!
 
-**SOTHEAVY:** When I first launched the campaign, I did not really know if people were going to care about this problem. So I started with just a few videos to test that hypothesis. It turns out that people do care! Over and over again, I was hearing: 'I have the same idea as you, but I don’t know how to address this problem! I am so happy that you are running this campaign.' So people DO care—check!
+I am a learning type of person, so wherever I go, I observe, I listen to people and I ask people questions. I am always curious about the way people deal with plastic in their everyday lives and in their businesses—and I listen hard to try to understand if they have any concerns that Think Plastic can address. I use this data to adapt and drive the campaign to fit their needs.
 
-## Problems vs. Solutions
-
-**SOTHEAVY:** First, I tried to let people know about the problem of single-use plastic and tried to tell stories to help them relate. Next, I started to suggest solutions that people can try personally. I think it is really important to give people simple solutions so that they don’t feel that only the superheroes can save the world!.
-
-## Adaptation
-
-**SOTHEAVY: **I am a learning type of person, so wherever I go, I observe, I listen to people and I ask people questions. I am always curious about the way people deal with plastic in their everyday lives and in their businesses—and I listen hard to try to understand if they have any concerns that Think Plastic can address. I use this data to adapt and drive the campaign to fit their needs.
-
-## Repetition
-
-**SOTHEAVY:** Raising awareness can be easy (not always!), but behavior change requires more time and energy. Over the past 18 months, I produced more than 100 videos highlighting single-use plastic problems and solutions—but with common themes. These days, content floods social media feeds. In campaigns, you need to repeat key messages to keep the momentum with the audience and engage them in as many ways possible, which ultimately can lead to behavior change.
+Raising awareness can be easy (not always!), but behavior change requires more time and energy. Over the past 18 months, I produced more than 100 videos highlighting single-use plastic problems and solutions—but with common themes. These days, content floods social media feeds. In campaigns, you need to repeat key messages to keep the momentum with the audience and engage them in as many ways possible, which ultimately can lead to behavior change.
 
 **KATE:** How do partnerships fit into your campaign? How is the campaign funded?
 
