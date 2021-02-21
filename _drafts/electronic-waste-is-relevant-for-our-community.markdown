@@ -1,7 +1,12 @@
 ---
 title: Electronic waste is relevant for our community
-date: 2021-02-21 18:22:00 -05:00
+date: 2021-02-25 06:22:00 -05:00
+tags:
+- Think Piece
+- Environment & Energy
 Author: Galia Nurko
+social-image: "/uploads/Electonicwaste-5d99e0.PNG"
+thumbnail: "/uploads/Electonicwaste-5d99e0.PNG"
 ---
 
 I recently cleaning my house when I came across three old cellphones. A feature phone, a blackberry, and an iPhone. I found myself thinking, “\*why did I keep these?” \*Immediately I thought, “\*the pictures,” \*but then quickly realized nowadays when everything is saved to the cloud, that justification is completely mute. When I finished organizing, I found that I had left the three cellphones sitting on my desk, as if patiently waiting for me to do something with them. It quickly dawned on me that I actually did not know what to do with them… not from a sentimental perspective, but rather from a lack of knowledge of how to securely dispose of technology. Shouldn’t many of the pieces and parts be reusable to build new technologies or maintain old ones? Is there an equivalent to an electronics recycling bin?
