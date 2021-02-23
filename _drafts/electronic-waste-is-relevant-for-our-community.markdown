@@ -25,7 +25,7 @@ Between cellphones, computers, laptops, televisions and smart home devices there
 
 * There is a [Global E-Waste Monitor](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx), published annually by the ITU in partnership with the Sustainable Cycles Programme.
 
-* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons. Many are carcinogenic. 
+* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons. Many are carcinogenic.
 
 ## Agbogbloshie E-Waste Dump
 
@@ -35,7 +35,7 @@ Between cellphones, computers, laptops, televisions and smart home devices there
 
 * Agbogbloshie is also home to a large food market in Accra. As a result the toxins are also entering the local food chain, exposing more residents to hazardous materials.
 
-## 
+## Consequences of E-Waste in Asia
 
 * In East and South East Asia, processing e-waste is a lucrative business in the informal and formal economy. Yet, the unsecure disposal of electronic waste has also had hazardous consequences. In 2018, the [Dangkor landfill outside of Phnom Penh, Cambodia](https://www.phnompenhpost.com/national/phnom-penh-smothered-smelly-dangerous-haze-landfill-fire-continues-burning) experienced a huge fire, releasing chemical toxins from the electronics into the air.
 
@@ -45,7 +45,7 @@ Between cellphones, computers, laptops, televisions and smart home devices there
 
 * There is [immense economic potential](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) in electronic waste if it is processed correctly. For instance, many have precious metals (gold, silver, palladium, platinum) that can be resold in the market.
 
-* The ITU encourages counties to adopt electronic waste policies. To date 78 counties have adopted such policies.
+* The ITU encourages countries to adopt electronic waste policies. To date 78 counties have adopted such policies.
 
 ![Globalewate.PNG](/uploads/Globalewate.PNG)`Graphic from Global E-Waste Monitor report in 2017.`
 
