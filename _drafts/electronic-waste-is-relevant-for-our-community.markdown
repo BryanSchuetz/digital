@@ -25,7 +25,7 @@ Between cellphones, computers, laptops, televisions and smart home devices there
 
 * There is a [Global E-Waste Monitor](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx), published annually by the ITU in partnership with the Sustainable Cycles Programme.
 
-* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons.
+* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons. Many are carcinogenic. 
 
 ## Agbogbloshie E-Waste Dump
 
