@@ -21,23 +21,29 @@ Between cellphones, computers, laptops, televisions and smart home devices there
 
 ## The Global Impact of Technology Waste
 
-* In 2018, there were [50 million tons of electronic waste globally](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) and only [20%](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) of it was disposed of appropriately. The rest ended up in landfills.\
+* In 2018, there were [50 million tons of electronic waste globally](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) and only [20%](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) of it was disposed of appropriately. The rest ended up in landfills.
 
-* There is a [Global E-Waste Monitor](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx), published annually by the ITU in partnership with the Sustainable Cycles Programme.\
+* There is a [Global E-Waste Monitor](https://www.itu.int/en/ITU-D/Environment/Pages/Spotlight/Global-Ewaste-Monitor-2020.aspx), published annually by the ITU in partnership with the Sustainable Cycles Programme.
 
-* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons.\
+* Toxic chemicals that are released by electronic waste include, but are not limited mercury, brominated flame-retardants, and chlorofluorocarbons.
 
-* Agbogbloshie, an urban neighborhood in Accra, Ghana, has one of the largest electronic waste landfills. It processes electronic waste from Western Europe and the United States. A [report](http://wiki.ban.org/images/f/f4/Holes_in_the_Circular_Economy-_WEEE_Leakage_from_Europe.pdf) from 2018 found that, as a result, Agbogbloshie contains some of the most hazardous chemicals in the world.\
+## Agbogbloshie E-Waste Dump
 
-* Over 10,000 people work in the landfill and many suffer from health problems including respiratory illness and skin ailments.\
+* Agbogbloshie, an urban neighborhood in Accra, Ghana, has one of the largest electronic waste landfills. It processes electronic waste from Western Europe and the United States. A [report](http://wiki.ban.org/images/f/f4/Holes_in_the_Circular_Economy-_WEEE_Leakage_from_Europe.pdf) from 2018 found that, as a result, Agbogbloshie contains some of the most hazardous chemicals in the world.
 
-* Agbogbloshie is also home to a large food market in Accra. As a result the toxins are also entering the local food chain, exposing more residents to hazardous materials.\
+* Over 10,000 people work in the landfill and many suffer from health problems including respiratory illness and skin ailments.
 
-* In East and South East Asia, processing e-waste is a lucrative business in the informal and formal economy. Yet, the unsecure disposal of electronic waste has also had hazardous consequences. In 2018, the [Dangkor landfill outside of Phnom Penh, Cambodia](https://www.phnompenhpost.com/national/phnom-penh-smothered-smelly-dangerous-haze-landfill-fire-continues-burning) experienced a huge fire, releasing chemical toxins from the electronics into the air.\
+* Agbogbloshie is also home to a large food market in Accra. As a result the toxins are also entering the local food chain, exposing more residents to hazardous materials.
 
-* The challenge is more [complex](https://www.eco-business.com/news/defusing-southeast-asias-e-waste-time-bomb/) in other Asian countries.\
+## 
 
-* There is [immense economic potential](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) in electronic waste if it is processed correctly. For instance, many have precious metals (gold, silver, palladium, platinum) that can be resold in the market.\
+* In East and South East Asia, processing e-waste is a lucrative business in the informal and formal economy. Yet, the unsecure disposal of electronic waste has also had hazardous consequences. In 2018, the [Dangkor landfill outside of Phnom Penh, Cambodia](https://www.phnompenhpost.com/national/phnom-penh-smothered-smelly-dangerous-haze-landfill-fire-continues-burning) experienced a huge fire, releasing chemical toxins from the electronics into the air.
+
+* The challenge is more [complex](https://www.eco-business.com/news/defusing-southeast-asias-e-waste-time-bomb/) in other Asian countries.
+
+## E-Waste's Economic Potential
+
+* There is [immense economic potential](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf) in electronic waste if it is processed correctly. For instance, many have precious metals (gold, silver, palladium, platinum) that can be resold in the market.
 
 * The ITU encourages counties to adopt electronic waste policies. To date 78 counties have adopted such policies.
 
