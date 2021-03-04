@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Mar 2021 12:03:23 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Mar 2021 12:03:23 -0500</lastBuildDate>
+    <pubDate>Thu, 04 Mar 2021 06:49:35 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Mar 2021 06:49:35 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/example4.jpg" medium="image" /> 
+        <title>What Are We Reading about Digital Transformation and COVID-19?</title>
+        <description>&lt;p&gt;I find it difficult to use the word in this context, but there may be one &lt;strong&gt;positive&lt;/strong&gt;—if not collateral—effect of COVID-19: after the decades of support the digital development community has provided to businesses and consumers around the world to help, the adoption of digital technologies has accelerated in mere months. There’s a new willingness to embrace the digital economy, as restrictions against in-person interactions move people online and require the use of digital tools out of necessity. This process, often called digital transformation, has been discussed by a variety of sources, outlining both its benefits and risks. We thought it might be helpful to provide an overview of some of the articles, blogs, and resources we are reading to leverage this momentum. This list is by no means exhaustive, but rather provides a few highlights to get you started. I’ve broken down the readings into three, highly academic categories: 1. This is really happening, 2. and the benefits could be huge, 3. but please do not forget the risks.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Mar 2021 06:00:00 -0500</pubDate>
+        <author>Talia Dweck
+</author>
+        <link>https://dai-global-digital.com/what-are-we-reading-about-digital-transformation-and-covid-19.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-are-we-reading-about-digital-transformation-and-covid-19.html</guid>
+        
+        <category>Digital Transformation</category>
+        
+        <category>COVID-19</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Electonicwaste-5d99e0.PNG" medium="image" /> 
@@ -198,27 +217,6 @@
         <category>Cybersecurity</category>
         
         <category>Innovation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screenshot%202020-12-22%20105419.png" medium="image" /> 
-        <title>Addressing Concurrent Crises with Digital Tools: An ICTforAg Recap</title>
-        <description>&lt;p&gt;Reflecting back on 2020, it is still difficult for me to comprehend the many challenges the world faced this year and their implications for agriculture and resilience. From the &lt;a href=&quot;https://www.bbc.com/future/article/20200806-the-biblical-east-african-locust-plagues-of-2020&quot;&gt;locust outbreak in East Africa&lt;/a&gt;, to wildfires and extreme weather events, and of course, the COVID-19 pandemic, this year has made it clear that in a world increasingly shaped by unpredictability, the digital development community can no longer afford to address one specific challenge at a time. This year’s &lt;a href=&quot;https://www.ictforag.com/&quot;&gt;ICTforAg&lt;/a&gt; conference invited its speakers and participants to reflect on this reality and discover how digital tools and technologies can help us respond to concurrent—and increasingly frequent—crises worldwide.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 23 Dec 2020 06:00:00 -0500</pubDate>
-        <author>Araba Sapara-Grant
-</author>
-        <link>https://dai-global-digital.com/addressing-concurrent-crises-with-digital-tools-an-ictforag-recap.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/addressing-concurrent-crises-with-digital-tools-an-ictforag-recap.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Resilience</category>
-        
-        <category>Digital Collaboration</category>
         
         
       </item>
