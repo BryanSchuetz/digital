@@ -8,7 +8,7 @@ tags:
 Author: Erica Behrens
 ---
 
-With March being Women’s History Month, it feels appropriate to reflect on progress made towards the fifth Sustainable Development Goal: **Achieving gender equality and empower all women and girls.** Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done. From CDA’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where use of the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
+With March being Women’s History Month, it feels appropriate to reflect on progress made towards the fifth Sustainable Development Goal: *Achieving gender equality and empowering all women and girls*. Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done. From CDA’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where use of the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
 
 **<!--more-->**
 
