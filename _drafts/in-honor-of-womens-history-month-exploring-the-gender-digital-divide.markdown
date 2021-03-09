@@ -1,6 +1,11 @@
 ---
 title: 'In Honor of Women’s History Month: Exploring the Gender Digital Divide'
 date: 2021-03-09 11:49:00 -05:00
+tags:
+- Digital Gender Divide
+- Data
+- Digital Divide
+- Digital Inclusion
 Author: Erica Behrens
 ---
 
@@ -14,7 +19,7 @@ The digital gender divide, or the gap that exists between men and women in the u
 
 The report highlights that the gender divide in Internet usage globally has risen from 11% in 2013 to 11.6% in 2017. The divide is particularly prominent in certain geographies: over 25% in Africa and 33% in least-developed countries. While mobile phones serving as a central tool for connectivity, the report states that on average, women are 26% less likely than men to have a smartphone, and 327 million fewer women than men globally have smartphone access to mobile Internet.
 
-![gender gap mobile ownership and internet_cropped and larger.png](/uploads/gender%20gap%20mobile%20ownership%20and%20internet_cropped%20and%20larger.png)
+![gender gap mobile ownership and internet_cropped and larger.png](/uploads/gender%20gap%20mobile%20ownership%20and%20internet_cropped%20and%20larger.png) `Source: The Mobile Gender Report 2019, GSMA`
 
 **Why does this matter?**
 
