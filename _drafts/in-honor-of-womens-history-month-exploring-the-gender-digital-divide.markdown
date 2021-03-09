@@ -9,7 +9,7 @@ tags:
 Author: Erica Behrens
 ---
 
-With March being Women’s History Month, it feels appropriate to reflect on progress made towards the fifth Sustainable Development Goal: **Achieve gender equality and empower all women and girls.** Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done.** **From CDA’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where use of the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
+With March being Women’s History Month, it feels appropriate to reflect on progress made towards the fifth Sustainable Development Goal: **Achieve gender equality and empower all women and girls.** Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done.\*\* \*\*From CDA’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where use of the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
 
 **<!--more-->**
 
@@ -25,7 +25,7 @@ The report highlights that the gender divide in Internet usage globally has rise
 
 Ample research demonstrates the [benefits of female empowerment](https://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures#notes), not just for women themselves, but for their families and the larger communities in which they live and work. Better education for women, increased participation in the workforce, and increased representation in leadership positions, among other measures, produces better-performing businesses and more productive, inclusive economies. E-commerce platforms can help women to start and run a business from home for extra income. Access to online professional networks can help a woman gain the information and resources needed to gain skills or further their work. Use of mobile money platforms can allow a woman to save, transfer, and deposit money without a formal bank account, and to do so privately. With women lagging behind men in account ownership in developing economies, it is particularly important for women to understand and have access to these tools.
 
-![women less likely to have account_smaller.png](/uploads/women%20less%20likely%20to%20have%20account_smaller.png)
+![women less likely to have account_smaller and cropped.png](/uploads/women%20less%20likely%20to%20have%20account_smaller%20and%20cropped.png)`Source: Global Findex database`
 
 **Barriers to Uptake**
 
