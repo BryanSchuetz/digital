@@ -1,0 +1,26 @@
+---
+title: 'In Honor of Women’s History Month: Exploring the Gender Digital Divide'
+date: 2021-03-09 11:49:00 -05:00
+---
+
+With March being Women’s History Month, it feels appropriate to reflect on progress made towards the fifth Sustainable Development Goal: **Achieve gender equality and empower all women and girls. **Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done.** **From CDA’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where use of the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
+
+**<!--more-->**
+
+**Disparity in Digital Usage and Access**
+
+The Digital Gender Divide, or the gap that exists between men and women in the use of digital technologies, though narrowing in some regards, continues to exist and even broaden in others. A 2018 report from the Organisation for Economic Co-operation and Development (OECD), [Bridging the Digital Gender Divide](http://www.oecd.org/going-digital/bridging-the-digital-gender-divide.pdf), highlights these gaps, the barriers women face, and the consequences of this disparity.
+
+The report highlights that the gender divide in Internet usage globally has risen from 11% in 2013 to 11.6% in 2017. The divide is particularly prominent in certain geographies: over 25% in Africa and 33% in least-developed countries. While mobile phones serving as a central tool for connectivity, the report states that on average, women are 26% less likely than men to have a smartphone, and 327 million fewer women than men globally have smartphone access to mobile Internet.
+
+**Why does this matter?**
+
+Ample research demonstrates the [benefits of female empowerment](https://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures#notes), not just for women themselves, but for their families and the larger communities in which they live and work. Better education for women, increased participation in the workforce, and increased representation in leadership positions, among other measures, produces better-performing businesses and more productive, inclusive economies. E-commerce platforms can help women to start and run a business from home for extra income. Access to online professional networks can help a woman gain the information and resources needed to gain skills or further their work. Use of mobile money platforms can allow a woman to save, transfer, and deposit money without a formal bank account, and to do so privately. With women lagging behind men in account ownership in developing economies, it is particularly important for women to understand and have access to these tools.
+
+**Barriers to Uptake**
+
+Several factors present barriers or challenges for women in taking advantage of these tools. Safety concerns, physical access, social norms and perceptions, lack of digital literacy or awareness, and affordability are some of the most well-known, recognized inhibitors. Interestingly, these factors don’t necessarily suggest shortcomings in the tool itself, but rather in the woman’s environment. While external factors, such as family dynamics and lack of education must be considered, it is also interesting to think about how these digital solutions are designed. Are they best made to meet the woman’s needs? In her 2019 book, *Invisible Women,* Caroline Criado-Perez, a British author and activist, explores the phenomenon of the “gender data gap” – the reality that the majority of data that has been collected, for digital tools or otherwise, has been [on men](https://www.npr.org/2019/03/17/704209639/caroline-criado-perez-on-data-bias-and-invisible-women). For various reasons, researchers have treated men as the standard user or subject, as if “man” is synonymous with “person.” This lack of data on women, and failure to recognize this reality, has created products, environments, and algorithms that are designed for men and not women. This reality is also critical to remember when seeking to advance digital development and truly meet the needs of women in those efforts.
+
+Reflecting on these realities – existing gaps in digital usage, reasons for these gaps, and the loss of productivity and advancement that these gaps represent - we are reminded that gender is everywhere. Women are [49.6%](https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS) of the population. If we seek to implement comprehensive development solutions and design products for the end user, we must treat both halves of the population with equal centrality.
+
+For information on some of DAI’s recent projects to empower women, check out: [https://daiglobal.exposure.co/meeting-the-challenge](https://daiglobal.exposure.co/meeting-the-challenge)
