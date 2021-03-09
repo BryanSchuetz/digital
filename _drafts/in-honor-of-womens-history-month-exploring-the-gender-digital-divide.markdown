@@ -14,13 +14,13 @@ The digital gender divide, or the gap that exists between men and women in the u
 
 The report highlights that the gender divide in Internet usage globally has risen from 11% in 2013 to 11.6% in 2017. The divide is particularly prominent in certain geographies: over 25% in Africa and 33% in least-developed countries. While mobile phones serving as a central tool for connectivity, the report states that on average, women are 26% less likely than men to have a smartphone, and 327 million fewer women than men globally have smartphone access to mobile Internet.
 
-![gender gap mobile ownership and internet.png](/uploads/gender%20gap%20mobile%20ownership%20and%20internet.png)
+![gender gap mobile ownership and internet_resized.png](/uploads/gender%20gap%20mobile%20ownership%20and%20internet_resized.png)
 
 **Why does this matter?**
 
 Ample research demonstrates the [benefits of female empowerment](https://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures#notes), not just for women themselves, but for their families and the larger communities in which they live and work. Better education for women, increased participation in the workforce, and increased representation in leadership positions, among other measures, produces better-performing businesses and more productive, inclusive economies. E-commerce platforms can help women to start and run a business from home for extra income. Access to online professional networks can help a woman gain the information and resources needed to gain skills or further their work. Use of mobile money platforms can allow a woman to save, transfer, and deposit money without a formal bank account, and to do so privately. With women lagging behind men in account ownership in developing economies, it is particularly important for women to understand and have access to these tools.
 
-![women less likely to have account.png](/uploads/women%20less%20likely%20to%20have%20account.png)
+![women less likely to have account_resized.png](/uploads/women%20less%20likely%20to%20have%20account_resized.png)
 
 **Barriers to Uptake**
 
