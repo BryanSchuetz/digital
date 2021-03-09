@@ -3,9 +3,8 @@ title: 'In Honor of Women’s History Month: Exploring the Gender Digital Divide
 date: 2021-03-09 11:49:00 -05:00
 tags:
 - Digital Gender Divide
-- Data
-- Digital Divide
 - Digital Inclusion
+- Digital Divide
 Author: Erica Behrens
 ---
 
