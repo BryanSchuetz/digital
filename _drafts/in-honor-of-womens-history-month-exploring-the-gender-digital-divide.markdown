@@ -24,7 +24,7 @@ The report notes that the gender divide in Internet usage globally has risen fro
 
 Ample research demonstrates the [benefits of female empowerment](https://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures#notes), not just for women themselves, but for their families and the larger communities in which they live and work. Better education for women, increased participation in the workforce, and increased representation in leadership positions, among other measures, produces better-performing businesses and more productive, inclusive economies. E-commerce platforms can help women to start and run a business from home for extra income. Access to online professional networks can help a woman gain the information and resources needed to further her work. Use of mobile money platforms can allow a woman to save, transfer, and deposit money without a formal bank account, and to make these transactions privately. With generally fewer women having bank accounts than men in developing economies, it is particularly important for women to understand and have access to these tools.
 
-![women less likely to have account_smaller and cropped2.png](/uploads/women%20less%20likely%20to%20have%20account_smaller%20and%20cropped2.png)
+![women less likely to have account-v4.png](/uploads/women%20less%20likely%20to%20have%20account-v4.png)
 `Source: Global Findex database`
 
 **Barriers to Uptake**
