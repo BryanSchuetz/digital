@@ -35,4 +35,4 @@ Women face several barriers in taking advantage of digital tools. Safety concern
 
 Reflecting on these realities—existing gaps in digital usage, reasons for these gaps, and the loss of productivity and advancement that these gaps represent—we are reminded that gender is everywhere. Women are [49.6 percent](https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS) of the population. If we seek to implement comprehensive development solutions and design products for the end user, we must treat both halves of the population with equal centrality.
 
-For information on some of DAI’s recent projects to empower women, check out this International Women’s Day [photo essay](https://daiglobal.exposure.co/meeting-the-challenge)
+For information on some of DAI’s recent projects to empower women, check out this International Women’s Day [photo essay.](https://daiglobal.exposure.co/meeting-the-challenge)
