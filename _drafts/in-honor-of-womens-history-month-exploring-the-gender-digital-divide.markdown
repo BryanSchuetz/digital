@@ -4,7 +4,6 @@ date: 2021-03-11 06:00:00 -05:00
 tags:
 - Digital Gender Divide
 - Digital Inclusion
-- Digital Divide
 Author: Erica Behrens
 social-image: "/uploads/Sima%20w%20phone.jpg"
 thumbnail: "/uploads/Sima%20w%20phone.jpg"
