@@ -11,7 +11,7 @@ thumbnail: "/uploads/Sima%20w%20phone.jpg"
 
 With March being Women’s History Month, it feels appropriate to reflect on progress made towards the United Nations’ [Sustainable Development Goal No. 5](https://www.un.org/sustainabledevelopment/gender-equality/): *Achieving gender equality and empowering all women and girls*. Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done. From DAI’s Center for Digital Acceleration’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where access to the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.
 
-**<!--more-->**
+<!--more-->
 
 ## Disparity in Digital Usage and Access
 
