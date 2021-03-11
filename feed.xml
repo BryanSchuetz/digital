@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Mar 2021 15:56:32 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Mar 2021 15:56:32 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Mar 2021 09:44:21 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Mar 2021 09:44:21 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Sima%20w%20phone.jpg" medium="image" /> 
+        <title>In Honor of Women’s History Month: Exploring the Gender Digital Divide</title>
+        <description>&lt;p&gt;With March being Women’s History Month, it feels appropriate to reflect on progress made towards the United Nations’ &lt;a href=&quot;https://www.un.org/sustainabledevelopment/gender-equality/&quot;&gt;Sustainable Development Goal No. 5&lt;/a&gt;: &lt;em&gt;Achieving gender equality and empowering all women and girls&lt;/em&gt;. Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done. From DAI’s Center for Digital Acceleration’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where access to the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Mar 2021 06:00:00 -0500</pubDate>
+        <author>Erica Behrens
+</author>
+        <link>https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html</guid>
+        
+        <category>Digital Gender Divide</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/example4.jpg" medium="image" /> 
@@ -194,29 +213,6 @@
         <category>Cybersecurity</category>
         
         <category>Disinformation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Year%20in%20Review.jpg" medium="image" /> 
-        <title>Digital@DAI 2020 Year in Review</title>
-        <description>&lt;p&gt;2020 has been a year like no other. While those of us in the development sector have long anticipated the increased frequency of once-in-a-lifetime events—as our social, environmental, political, and economic systems grow increasingly strained and interconnected—none of us expected these “problems of tomorrow” to arise as quickly, globally, and devastatingly as they did.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 30 Dec 2020 06:00:00 -0500</pubDate>
-        <author>Krista Baptista
-</author>
-        <link>https://dai-global-digital.com/digital-at-dai-2020-year-in-review.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-2020-year-in-review.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Innovation</category>
         
         
       </item>
