@@ -43,9 +43,15 @@ As we reflect on the past year, we are often asked whether we think online learn
 
 But, as with everything in international development, it’s not a simple yes-or-no answer. We don’t think that online learning is a silver bullet at this point. We have three big unknowns that we’ll be tracking as this debate evolves, and more places have more in-person options again as the COVID-19 pandemic recedes.
 
+## Digital Infrastructure
+
 The first big unknown is around digital infrastructure. Many places had limited digital infrastructure at the beginning of the pandemic – both in terms of having adequate connectivity, and in terms of having enough, good enough, devices to learn on. We fully recognize that significant improvements in both of these arenas over the past 10 years have allowed online learning to seem like a more viable option, and it is, for some people. But when we hear, for example, that “everyone uses WhatsApp” in a place, that doesn’t mean specialized digital learning tools are accessible or usable. There are still huge gaps in who can access internet, where, and for what, around the world.
 
+## Innovations in Hardware
+
 The second big unknown is around how current hardware will continue to evolve. Will there be widely available, specialized devices available exclusively for digital learning content? Something like a Kindle for Coursera? Will the open-source development community be able to provide lower resourced environments with the tools to build out their own devices to best fit what they need? Quite sincerely, we don’t know how these ideas will evolve, and what will catch on where.
+
+## Frontier Technologies
 
 The third big unknown is around what types of frontier technology will enable improvements to the learning process itself. We’ve seen examples of how virtual reality could provide enhanced learning environments for schools and training. Will it become so easy and affordable to put together that anyone can point and click their way to creating an immersive learning experience?
 
