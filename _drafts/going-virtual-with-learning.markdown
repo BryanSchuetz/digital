@@ -1,6 +1,9 @@
 ---
 title: Going Virtual with Learning
 date: 2021-03-16 16:26:00 -04:00
+tags:
+- Education
+Author: Greg Maly
 ---
 
 For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have been moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.
@@ -9,27 +12,27 @@ Everyone who’s engaged with learning this past year has had some kind of digit
 
 <!--more-->
 
-**Course Types**
+# **Course Types**
 
 Just like classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses offered online can come in different shapes and sizes. This variation in course types requires different types of technology. Online course structures can, in a simplified form, be broken down into three categories – 1) self-paced, 2) instructor led, and 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
 
-*Self-Paced*
+## Self-Paced
 
 Self-paced courses take place between the student and the computer, with no live instructor on the other end. The simplest alternatives to this would be that of the good-old-fashion textbook, or what used to be called correspondence courses, where you read course content on your own, digesting as much as you can. Where modern technologies help is through the addition of audio, video, and gamification, helping those with visual, auditory, or kinesthetic learning styles get the most possible out of the content.
 
 While conceptually straightforward, building self-paced courses comes with challenges. While a program may have developed thorough PowerPoint presentations which can serve as a solid foundation for your self-paced course, modern technology and multimedia both make it easier to add beautiful interactive experiences to your course, but also raise the bar of what students expect to see when they log on. As a result, anticipate needing to hire a creative team to build content that matches your expectations. Self-paced courses also require an incredible amount of planning on the content, as the more sophisticated your multimedia assets are, the more difficult it is to change your content after it has been developed.
 
-*Instructor led*
+## Instructor led
 
 Instructor-led courses take place live, with students logging on to interact with others in a virtual classroom. This format enables real-time discussion between participants and instructors, adding flexibility to the course content, networking between participants, and tailored courses that can meet students where they are. For many this is the preferred method. But this has its own technical challenges.
 
 Like in-person classes, instructor-led online courses need to be scheduled, and students need to arrive at the same time. When working across time zones on global learning efforts, this can be challenge, as for some it’s early in the morning, others are in the middle of the workday, and others are logging on after dinner. Another challenge is that of internet connectivity. Not all parts of the world have reliable or sufficient internet access, which can interrupt otherwise well-coordinated sessions. Without access to a well-designed and easily accessible Content Management System (CMS) or Learning Management System (LMS), logistics can become confusing, with multiple emails being sent with meeting requests, attachments, materials, links, reminders, and other important course details. Lastly, while in-person classrooms have the benefits of physical materials – whether they be whiteboards, sticky notes, handouts, or breakout rooms, online training sessions require extra planning to re-create these experiences.
 
-*Blended Learning*
+## Blended Learning
 
 But what if you need a mix of both? Some online courses offer a combination of self-paced learning with some instructor led sessions. These courses may begin with read ahead materials, pre-recorded videos, or other resources, which are reinforced through live seminars with instructors or guest lecturers. This can offer a more dynamic learning environment but can run into the same complications as self-paced and instructor led courses might on their own.
 
-**Is it here to stay?**
+# **Is it here to stay?**
 
 Before we answer this question, we should note the level of respect we have for organizations who develop online learning courses. Many of these companies have been around for a long time and have great track records of the courses and content they’ve produced. From careful consideration of institutional needs, to the development of thoughtful learning objectives, to creative teams who develop video and animations, to handling the stress that goes into live event production – online learning is an artform to be taken seriously.
 
