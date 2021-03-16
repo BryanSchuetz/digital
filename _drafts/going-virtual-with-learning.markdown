@@ -8,7 +8,7 @@ Author: Greg Maly
 
 For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have been moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.
 
-Everyone who’s engaged with learning this past year has had some kind of digital experience. This is true across all ages - from kids through to adults – and, we have seen, often with mixed success. Nevertheless, at the Center for Digital Acceleration, we know that, as the saying goes - “the show must go on” – and we have done our best to help DAI’s projects around the globe make their in-person courses and activities come alive in our virtual world. In this article we’d like to offer some brief reflections on the different types of online trainings our projects are developing, and then ask the question – is this the new normal?
+Most people who have engaged with learning this past year have had some kind of digital experience. This is true across ages - from kids through to adults – and, we have seen, often with mixed success. Nevertheless, at the Center for Digital Acceleration, we know that, as the saying goes - “the show must go on” – and we have done our best to help DAI’s projects around the globe make their in-person courses and activities come alive in our virtual world. In this article we’d like to offer some brief reflections on the different types of online trainings our projects are developing, and then ask the question – is this the new normal?
 
 <!--more-->
 
