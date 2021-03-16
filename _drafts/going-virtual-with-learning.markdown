@@ -1,6 +1,8 @@
 ---
 title: Going Virtual with Learning
 date: 2021-03-16 16:26:00 -04:00
+categories:
+- Innovation
 tags:
 - Education
 Author: Greg Maly
