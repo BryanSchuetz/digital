@@ -5,7 +5,8 @@ categories:
 - Innovation
 tags:
 - Education
-Author: Greg Maly
+Author: '[Anne Hand]("https://dai-global-digital.com/authors/greg-maly/") and [Greg
+  Maly]("https://dai-global-digital.com/authors/greg-maly/")'
 ---
 
 For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have been moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.
