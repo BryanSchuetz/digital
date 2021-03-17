@@ -16,7 +16,7 @@ Most people who have engaged with learning this past year have had some kind of 
 
 <!--more-->
 
-![OnlineLearningBanner.JPG](/uploads/OnlineLearningBanner.JPG)
+![Ramón Alejo estudiando desde casa_18 Aug 2020 (2).jpeg](/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg)
 
 # **Course Types**
 
