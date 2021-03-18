@@ -5,6 +5,9 @@ categories:
 - Innovation
 tags:
 - Education
+- COVID-19
+- Digital
+- Digital Inclusion
 Author: '[Anne Hand]("https://www.linkedin.com/in/annehand/") and [Greg Maly]("https://dai-global-digital.com/authors/greg-maly/")'
 social-image: "/uploads/OnlineLearningBanner.JPG"
 thumbnail: "/uploads/OnlineLearningBanner.JPG"
