@@ -21,7 +21,7 @@ Most people who have engaged with learning this past year have had some kind of 
 
 ![Ramón Alejo estudiando desde casa_18 Aug 2020 (2).jpeg](/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg)
 
-# **Course Types**
+## Course Types
 
 Just as classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses come in different shapes and sizes. This variation in courses requires different types of technology. Online course structures can, in a simplified form, be broken down into three categories: 1) self-paced, 2) instructor-led, or 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
 
@@ -41,7 +41,7 @@ Like in-person classes, instructor-led online courses need to be scheduled, and 
 
 But what if you need a mix of both? Some online courses offer a combination of self-paced learning with some instructor-led sessions. These courses may begin with read-ahead materials, pre-recorded videos, or other resources, which are reinforced through live seminars with instructors or guest lecturers. This can offer a more dynamic learning environment but can run into the same complications as self-paced and instructor-led courses might on their own.
 
-# **Is it here to stay?**
+## Is it here to stay?
 
 Before we answer this question, we should note the level of respect we have for organizations that develop online learning courses. Many of these companies have been around for a long time and have great track records of the courses and content they’ve produced. From careful consideration of institutional needs to the development of thoughtful learning objectives to creative teams who develop video and animations to handling the stress that goes into live event production—online learning is an art form to be taken seriously.
 
