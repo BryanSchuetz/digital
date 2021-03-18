@@ -10,9 +10,9 @@ social-image: "/uploads/OnlineLearningBanner.JPG"
 thumbnail: "/uploads/OnlineLearningBanner.JPG"
 ---
 
-For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have been moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.
+For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have moved online as much as possible. Conferences are virtual. Weekly meetings take place through a screen. And classrooms have gone online.
 
-Most people who have engaged with learning this past year have had some kind of digital experience. This is true across ages—from kids through to adults—and, we have seen, often with mixed success. Nevertheless, at the Center for Digital Acceleration, we know that, as the saying goes—“the show must go on”—and we have done our best to help DAI’s projects around the globe make their in-person courses and activities come alive in our virtual world. In this post, we offer some brief reflections on the different types of online training our projects are developing, and then ask the question—is this the new normal?
+Most people who have engaged with learning this past year have had some kind of digital experience. This is true across all ages and, we have seen, often with mixed success. Nevertheless, at our Center for Digital Acceleration, we know that, as the saying goes—“the show must go on”—and we have done our best to help DAI’s projects around the globe make their in-person courses and activities come alive in our virtual world. In this post, we offer some brief reflections on the different types of online training our projects are developing, and then ask the question—is this the new normal?
 
 <!--more-->
 
@@ -20,7 +20,7 @@ Most people who have engaged with learning this past year have had some kind of 
 
 # **Course Types**
 
-Just like classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses offered online can come in different shapes and sizes. This variation in course types requires different types of technology. Online course structures can, in a simplified form, be broken down into three categories – 1) self-paced, 2) instructor led, and 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
+Just as classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses come in different shapes and sizes. This variation in courses requires different types of technology. Online course structures can, in a simplified form, be broken down into three categories: 1) self-paced, 2) instructor-led, or 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
 
 ## Self-Paced
 
