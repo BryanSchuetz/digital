@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Mar 2021 08:56:36 -0400</pubDate>
-    <lastBuildDate>Thu, 18 Mar 2021 08:56:36 -0400</lastBuildDate>
+    <pubDate>Thu, 18 Mar 2021 10:44:40 -0400</pubDate>
+    <lastBuildDate>Thu, 18 Mar 2021 10:44:40 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/OnlineLearningBanner.JPG" medium="image" /> 
+        <title>Going Virtual with Learning</title>
+        <description>&lt;p&gt;For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.&lt;/p&gt;
+
+&lt;p&gt;Most people who have engaged with learning this past year have had some kind of digital experience. This is true across ages – from kids through to adults – and, we have seen, often with mixed success. Nevertheless, at the Center for Digital Acceleration, we know that, as the saying goes – “the show must go on” – and we have done our best to help DAI’s projects around the globe make their in-person courses and activities come alive in our virtual world. In this article we’d like to offer some brief reflections on the different types of online trainings our projects are developing, and then ask the question – is this the new normal?&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Mar 2021 16:26:00 -0400</pubDate>
+        <author><a href="&quot;https://www.linkedin.com/in/annehand/&quot;">Anne Hand</a> and <a href="&quot;https://dai-global-digital.com/authors/greg-maly/&quot;">Greg Maly</a>
+</author>
+        <link>https://dai-global-digital.com/going-virtual-with-learning.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/going-virtual-with-learning.html</guid>
+        
+        <category>Education</category>
+        
+        
+        <category>Innovation</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Sima%20w%20phone.jpg" medium="image" /> 
@@ -188,31 +209,6 @@
         <category>Hardware</category>
         
         <category>Makerspace</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/2021.jpg" medium="image" /> 
-        <title>Looking Ahead: What We’re Thinking About in 2021</title>
-        <description>&lt;p&gt;As we (happily) say farewell to 2020, we at DAI’s Center for Digital Acceleration (CDA) feel stronger and more optimistic than ever before. If 2020 taught us anything, it is that adaptation is paramount. The events of the last year have changed almost every aspect of how we think, work, and live, and we would be naïve to think that our digital toolkit won’t change right along with us. Therefore, heading into 2021, we have high ambitions to continue to analyze and elevate inclusive, ethical, human-focused digital products and services that can help us rise to the occasion and address some of the deeply complex issues that 2020 unveiled. Below are seven areas we look forward to exploring further throughout the year—so stay tuned and check back often.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Jan 2021 06:00:00 -0500</pubDate>
-        <author>Krista Baptista
-</author>
-        <link>https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2021.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2021.html</guid>
-        
-        <category>Data</category>
-        
-        <category>Machine Learning</category>
-        
-        <category>Think Piece</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Disinformation</category>
         
         
       </item>
