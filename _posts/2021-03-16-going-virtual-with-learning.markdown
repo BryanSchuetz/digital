@@ -6,6 +6,8 @@ categories:
 tags:
 - Education
 - Digital Collaboration
+- COVID-19
+- Virtual Workshops
 Author: '[Anne Hand]("https://www.linkedin.com/in/annehand/") and [Greg Maly]("https://dai-global-digital.com/authors/greg-maly/")'
 social-image: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
 thumbnail: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
