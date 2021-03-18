@@ -9,8 +9,8 @@ tags:
 - Digital
 - Digital Inclusion
 Author: '[Anne Hand]("https://www.linkedin.com/in/annehand/") and [Greg Maly]("https://dai-global-digital.com/authors/greg-maly/")'
-social-image: "/uploads/OnlineLearningBanner.JPG"
-thumbnail: "/uploads/OnlineLearningBanner.JPG"
+social-image: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
+thumbnail: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
 ---
 
 For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have moved online as much as possible. Conferences are virtual. Weekly meetings take place through a screen. And classrooms have gone online.
