@@ -1,6 +1,6 @@
 ---
 title: Going Virtual with Learning
-date: 2021-03-16 16:26:00 -04:00
+date: 2021-03-18 13:00:00 -04:00
 categories:
 - Innovation
 tags:
