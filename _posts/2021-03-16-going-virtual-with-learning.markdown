@@ -21,7 +21,7 @@ Most people who have engaged with learning this past year have had some kind of 
 
 # **Course Types**
 
-Just like classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses offered online can come in different shapes and sizes. These variations require different types of technology. Online course structures can, in a simplified form, be broken down into three categories: 1) self-paced, 2) instructor-led, and 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
+Just as classroom courses can take different formats, with different philosophies, pedagogies, and realities underpinning these learning experiences, digital courses offered online can come in different shapes and sizes. These variations require different types of technology. Online course structures can, in a simplified form, be broken down into three categories: 1) self-paced, 2) instructor-led, or 3) blended. Each of these categories requires a different team composition to ensure projects deliver thoughtful and engaging content.
 
 ## Self-Paced
 
