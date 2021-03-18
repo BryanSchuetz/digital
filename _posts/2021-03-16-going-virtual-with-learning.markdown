@@ -5,9 +5,10 @@ categories:
 - Innovation
 tags:
 - Education
+- Digital Collaboration
 Author: '[Anne Hand]("https://www.linkedin.com/in/annehand/") and [Greg Maly]("https://dai-global-digital.com/authors/greg-maly/")'
-social-image: "/uploads/OnlineLearningBanner.JPG"
-thumbnail: "/uploads/OnlineLearningBanner.JPG"
+social-image: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
+thumbnail: "/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg"
 ---
 
 For some professions, the past year has normalized virtual interactions and digital collaboration. While many jobs and activities still require in-person interaction, others have moved online as much as possible. Conferences have gone virtual. Weekly meetings take place through a screen. And classrooms and learning have gone online.
@@ -16,7 +17,7 @@ Most people who have engaged with learning this past year have had some kind of 
 
 <!--more-->
 
-![OnlineLearningBanner.JPG](/uploads/OnlineLearningBanner.JPG)
+![Ramón Alejo estudiando desde casa_18 Aug 2020 (2).jpeg](/uploads/Ram%C3%B3n%20Alejo%20estudiando%20desde%20casa_18%20Aug%202020%20(2).jpeg)
 
 # **Course Types**
 
