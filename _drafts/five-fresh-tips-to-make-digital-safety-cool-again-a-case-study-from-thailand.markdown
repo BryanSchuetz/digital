@@ -1,6 +1,6 @@
 ---
 title: 'Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand'
-date: 2021-03-24 13:38:00 -04:00
+date: 2021-03-24 06:00:00 -04:00
 social-image: "/uploads/Thaniya%201.png"
 thumbnail: "/uploads/Thaniya%201.png"
 ---
