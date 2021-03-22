@@ -1,6 +1,8 @@
 ---
 title: 'Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand'
-date: 2021-03-22 13:38:00 -04:00
+date: 2021-03-24 13:38:00 -04:00
+social-image: "/uploads/Thaniya%201.png"
+thumbnail: "/uploads/Thaniya%201.png"
 ---
 
 ![Thaniya 1.png](/uploads/Thaniya%201.png)
@@ -100,3 +102,15 @@ For international development professionals, it was a rare treat during the pand
 While the pitching session required lots of time from our partners, it also provided them with the opportunity to contribute to the society where they work, as well as improve their connections to their customer base.
 
 *Pitching sessions are great ways to verify what participants are learning, to build excitement with the participants, and also allows us to engage our partners in meaningful ways.*
+
+## 5. Crowdsource the Creativity
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
+
+** What's Next** 
+
+Now that the students have completed their pitches, they will work with mentors in March to develop their videos and start their journey of becoming micro-influencers and champions of positive digital cyberspaces in Thailand. 
+By the beginning of May 2021, student teams will have produced a total of nearly 100 videos. Some initial video ideas were happy and light, some were dark and thoughtful. Without the Wai Kid Digital collaborative design, there was no way one project could have dreamed up all these ideas about digital citizenship and safety.
+If there is one thing you remember from this blog, please design with and for humans in your next program activity, especially if you are focusing on technology. If it is anything like our digital citizenship experiment in Thailand, the creative outputs will help you get better results. 
+
+*For more updates on Wai Kid Digital, follow We Think Digital Thailand’s Facebook Page. Keep following the Wai Kid Digital project on USAID Asia, and stay tuned to our wrap-up of lessons learned later this year on Digital@DAI*. 
