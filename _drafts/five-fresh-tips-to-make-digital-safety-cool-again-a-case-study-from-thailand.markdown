@@ -107,11 +107,12 @@ While the pitching session required lots of time from our partners, it also prov
 
 ## 5. Crowdsource the Creativity
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
 
 ## What's Next
 
 Now that the students have completed their pitches, they will work with mentors in March to develop their videos and start their journey of becoming micro-influencers and champions of positive digital cyberspaces in Thailand.
+
 By the beginning of May 2021, student teams will have produced a total of nearly 100 videos. Some initial video ideas were happy and light, some were dark and thoughtful. Without the Wai Kid Digital collaborative design, there was no way one project could have dreamed up all these ideas about digital citizenship and safety.
 If there is one thing you remember from this blog, please design with and for humans in your next program activity, especially if you are focusing on technology. If it is anything like our digital citizenship experiment in Thailand, the creative outputs will help you get better results.
 
