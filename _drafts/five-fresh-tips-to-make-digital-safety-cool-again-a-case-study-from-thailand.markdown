@@ -57,7 +57,7 @@ Which other groups have the expertise to convey messages creatively that lead to
 
 Bringing many people together is never without its own set of challenges—aligning on shared objectives, speaking with one voice to our participants, and the logistical aspects to make this happen is always tough—however, it’s worth the effort!
 
-*By involving stakeholders from a variety of fields, the youth gain fresh perspectives on the topic of digital safety (which makes it cool), and the partners involved are energized by interacting with youth, creating more buy-in for the activity goals.*
+By involving stakeholders from a variety of fields, the youth gained fresh perspectives on the topic of digital safety (which makes it cool), and the partners involved are energized by interacting with youth, creating more buy-in for the activity goals.
 
 ## 3. Let the Youth Lead
 
