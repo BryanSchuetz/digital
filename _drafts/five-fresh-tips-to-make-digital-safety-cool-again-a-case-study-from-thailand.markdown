@@ -64,6 +64,7 @@ Bringing many people together is never without its own set of challenges—align
 ![Thaniya 5.png](/uploads/Thaniya%205.png)
 
 When we talk about digital citizenship, especially about digital safety and cybersecurity, many people shy away from the topic since everything seems so theoretical and far away from their day-to-day realities. We didn’t want to just give students answers about digital safety. They can Google that themselves, probably faster than most of us working in international development.
+
 Gen Z’s influence in the digital world is undeniable—as are their fresh perspectives. So instead of us telling them about what’s important and what digital citizenship and safety should look like throughout the program, we should let them tell us.
 The challenge we gave to the participants was to convey digital safety messages in a concise, accessible manner, through a creative 90-second video.
 
@@ -96,19 +97,19 @@ One student shared after the session that, *"I really liked this \[pitching\] op
 
 Secondly, the pitching session boosted the energy for students like nothing else. A sense of competition (student teams that delivered the best pitches won small prizes), combined with public speaking in order to persuade experts to “buy” their ideas was an adrenaline rush for the participants. Many students, of course, had the classic hiccups of running out of time, or technical issues where the slides or the microphone did not work – but that’s real life!
 
-Lastly, the pitching session was a chance to engage our key stakeholders, including representatives from the USAID and the US Embassy in Bangkok[\[GM1\]](#_msocom_1) , Facebook Thailand, prominent Thai influencers, and the organizing team. Because we were working with nearly 400 students, we had to break up the pitching sessions to span over three days. More than ten volunteers from all parties rotated through to provide constructive feedback to the students so that they could further develop their videos.
+Lastly, the pitching session was a chance to engage our key stakeholders, including representatives from the USAID and the U.S. Embassy in Bangkok, Facebook Thailand, prominent Thai influencers, and the organizing team. Because we were working with nearly 400 students, we had to break up the pitching sessions to span over three days. More than ten volunteers from all parties rotated through to provide constructive feedback to the students so that they could further develop their videos.
 
-For international development professionals, it was a rare treat during the pandemic to get the chance to interact with youth![\[GM2\]](#_msocom_2) Facebook staff got the chance to participate in meaningful corporate social responsibility activities, as well as the opportunity to educate their most active customers about the positive benefits of their platform. For social media influencers, this pitching session provided them with brand visibility to their target audience—youth —as well as the chance to give back to their current and future followers.
+For international development professionals, it was a rare treat during the pandemic to get the chance to interact with youth. Facebook staff got the chance to participate in meaningful corporate social responsibility activities, as well as the opportunity to educate their most active customers about the positive benefits of their platform. For social media influencers, this pitching session provided them with brand visibility to their target audience—youth —as well as the chance to give back to their current and future followers.
 
 While the pitching session required lots of time from our partners, it also provided them with the opportunity to contribute to the society where they work, as well as improve their connections to their customer base.
 
-*Pitching sessions are great ways to verify what participants are learning, to build excitement with the participants, and also allows us to engage our partners in meaningful ways.*
+**Main Takeaway: **Pitching sessions are great ways to verify what participants are learning, to build excitement with the participants, and also allows us to engage our partners in meaningful ways.
 
 ## 5. Crowdsource the Creativity
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
 
-\*\* What's Next\*\*
+## What's Next
 
 Now that the students have completed their pitches, they will work with mentors in March to develop their videos and start their journey of becoming micro-influencers and champions of positive digital cyberspaces in Thailand.
 By the beginning of May 2021, student teams will have produced a total of nearly 100 videos. Some initial video ideas were happy and light, some were dark and thoughtful. Without the Wai Kid Digital collaborative design, there was no way one project could have dreamed up all these ideas about digital citizenship and safety.
