@@ -1,6 +1,10 @@
 ---
 title: 'Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand'
-date: 2021-03-24 06:00:00 -04:00
+date: 2021-03-25 06:00:00 -04:00
+tags:
+- Digital Literacy
+- Cybersecurity
+Author: "[Thaniya Theungsand](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain=th)"
 social-image: "/uploads/Thaniya%201.png"
 thumbnail: "/uploads/Thaniya%201.png"
 ---
