@@ -21,10 +21,10 @@ Here are five fresh tips that we have learned from the Challenge so far to make 
 
 ![Thaniya 2.png](/uploads/Thaniya%202.png)
 
-We know that we should change our passwords often, use a VPN, and watch out for fake news, but do we care enough to really do these things all the time?\\
+We know that we should change our passwords often, use a VPN, and watch out for fake news, but do we care enough to really do these things all the time?
 
 The challenge with our target audience, the Thai public, is usually not the lack of technical capabilities. It’s that they think these cyberthreats would never affect them—until they actually get hacked, cyberbullied, or believe a fake news article, and then it’s too late.
-With this in mind, we designed the Challenge with an emphasis on a modified Human-Centered Design (HCD) approach, so that students can craft creative videos about digital safety and citizenship that resonate with their identified target audience in an engaging manner. However, while we taught the students HCD, we didn’t apply it enough ourselves—at first.\\
+With this in mind, we designed the Challenge with an emphasis on a modified Human-Centered Design (HCD) approach, so that students can craft creative videos about digital safety and citizenship that resonate with their identified target audience in an engaging manner. However, while we taught the students HCD, we didn’t apply it enough ourselves—at first.
 
 We initially planned to host in-person bootcamps at six different universities to maximize our engagements with the students, and design based on their needs. Then a wave of COVID-19 virus hit us just two weeks before the in-person bootcamps were scheduled to start. We were forced to go 100 percent virtual in a short amount of time.
 
@@ -107,10 +107,10 @@ While the pitching session required lots of time from our partners, it also prov
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
 
-** What's Next** 
+\*\* What's Next\*\*
 
-Now that the students have completed their pitches, they will work with mentors in March to develop their videos and start their journey of becoming micro-influencers and champions of positive digital cyberspaces in Thailand. 
+Now that the students have completed their pitches, they will work with mentors in March to develop their videos and start their journey of becoming micro-influencers and champions of positive digital cyberspaces in Thailand.
 By the beginning of May 2021, student teams will have produced a total of nearly 100 videos. Some initial video ideas were happy and light, some were dark and thoughtful. Without the Wai Kid Digital collaborative design, there was no way one project could have dreamed up all these ideas about digital citizenship and safety.
-If there is one thing you remember from this blog, please design with and for humans in your next program activity, especially if you are focusing on technology. If it is anything like our digital citizenship experiment in Thailand, the creative outputs will help you get better results. 
+If there is one thing you remember from this blog, please design with and for humans in your next program activity, especially if you are focusing on technology. If it is anything like our digital citizenship experiment in Thailand, the creative outputs will help you get better results.
 
-*For more updates on Wai Kid Digital, follow We Think Digital Thailand’s Facebook Page. Keep following the Wai Kid Digital project on USAID Asia, and stay tuned to our wrap-up of lessons learned later this year on Digital@DAI*. 
+*For more updates on Wai Kid Digital, follow We Think Digital Thailand’s Facebook Page. Keep following the Wai Kid Digital project on USAID Asia, and stay tuned to our wrap-up of lessons learned later this year on Digital@DAI*.
