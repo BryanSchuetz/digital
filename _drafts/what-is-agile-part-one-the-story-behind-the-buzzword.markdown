@@ -24,7 +24,7 @@ The manifesto was more about outlining founders' mindset and values than it was 
 
 *That is, while there is value in the items on the right, we value the items on the left more.”*
 
-The manifesto is supported by 12 Principles, also developed by agile's founders, which serve to complement and elaborate on what the founders put in the manifesto. These principles are the foundation for whatever form agile takes when implemented and is, in my opinion, one of the most important parts of agile to follow if you plan on trying to utilize it in your work. No matter which form of agile you are working in or how you plan to adapt it, following the principles is the key to knowing you are actually using agile methodologies. The Principles are:
+The manifesto is supported by 12 Principles,  which serve to complement and elaborate on what the founders put in the manifesto. These principles are the foundation for whatever form agile takes when implemented and is, in my opinion, one of the most important parts of agile to follow if you plan on trying to utilize it in your work. No matter which form of agile you are working in or how you plan to adapt it, following the principles is the key to knowing you are actually using agile methodologies. The Principles are:
 
  1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
