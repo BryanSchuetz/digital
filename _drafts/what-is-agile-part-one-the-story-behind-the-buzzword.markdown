@@ -4,7 +4,7 @@ date: 2021-03-25 06:00:00 -04:00
 Author: "[Samantha Weinberg](https://www.dai.com/who-we-are/our-team/samantha-weinberg)"
 ---
 
-Agile methodology has been a buzzword for a while now and it gets used to describe a whole host of approaches to software development, project management, and even [raising children](https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en). Everyone loves to say they work on an agile team, to describe their company as an agile organization. While it is true that  this concept has changed the way people work, the details around what it means in practice have started to become diluted to a point that no one really knows what agile means anymore -- even if they know it sounds good. This post is the first in series aimed at unpacking what the buzz is about “agile” and how it can be used effectively in international development contexts.
+Agile methodology has been a buzzword for a while now and it gets used to describe a whole host of approaches to software development, project management, and even [raising children](https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en). Everyone loves to say they work on an agile team or to describe their company as an agile organization. While it is true that this concept has changed the way people work, the details around what it means in practice have started to become diluted to a point that no one really knows what agile means anymore -- even if they know it sounds good. This post is the first in series aimed at unpacking what the buzz is about “agile” and how it can be used effectively in international development contexts.
 
 <!--more-->
 
