@@ -3,7 +3,7 @@ title: 'What is Agile? Part One: The Story Behind the Buzzword'
 date: 2021-03-25 06:00:00 -04:00
 ---
 
-Agile methodology has been a buzz word for a while now and it gets used to describe a whole host of approaches to software development, project management, and even [raising children](https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en). Everyone loves to say they work on an agile team, to describe their company as an agile organization. While it’s true that its widespread use has changed the way people work, but the details around it have started to become diluted to a point where no one really knows what agile means anymore even if they know it sounds good. This post is the first in series aimed at unpacking what the buzz is about “agile” and how it can be used effectively in international development contexts.
+Agile methodology has been a buzzword for a while now and it gets used to describe a whole host of approaches to software development, project management, and even [raising children](https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en). Everyone loves to say they work on an agile team, to describe their company as an agile organization. While it is true that  this concept has changed the way people work, the details around what it means in practice have started to become diluted to a point that no one really knows what agile means anymore -- even if they know it sounds good. This post is the first in series aimed at unpacking what the buzz is about “agile” and how it can be used effectively in international development contexts.
 
 <!--more-->
 
@@ -25,27 +25,27 @@ The manifesto is more about outlining the values behind agile and the mindset of
 
 The manifesto is supported by 12 Principles, also created by the founders of agile, which serve to complement and elaborate on what the founders put in the manifesto. These principles are the foundation for whatever form agile takes when implemented and is, in my opinion, one of the most important parts of agile to follow if you plan on trying to utilize it in your work. No matter which form of agile you are working in or how you plan to adapt it, following the principles is the key to knowing you are actually using agile methodologies. The Principles are:
 
- 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\
+ 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\\
 
- 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.\
+ 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.\\
 
- 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\
+ 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\\
 
- 4. Business people and developers must work together daily throughout the project.\
+ 4. Business people and developers must work together daily throughout the project.\\
 
- 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\
+ 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\\
 
- 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\
+ 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\\
 
- 7. Working software is the primary measure of progress.\
+ 7. Working software is the primary measure of progress.\\
 
- 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\
+ 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\\
 
- 9. Continuous attention to technical excellence and good design enhances agility.\
+ 9. Continuous attention to technical excellence and good design enhances agility.\\
 
-10. Simplicity–the art of maximizing the amount of work not done–is essential.\
+10. Simplicity–the art of maximizing the amount of work not done–is essential.\\
 
-11. The best architectures, requirements, and designs emerge from self-organizing teams.\
+11. The best architectures, requirements, and designs emerge from self-organizing teams.\\
 
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
