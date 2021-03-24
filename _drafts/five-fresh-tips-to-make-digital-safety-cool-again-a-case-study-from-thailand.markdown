@@ -120,4 +120,4 @@ By the beginning of May, student teams will have produced nearly 100 videos. Som
 
 If there is one thing you remember from this blog, please design with, and for, humans in your next program activity, especially if you are focusing on technology. If it is anything like our experiment, the creative outputs will help you get better results.
 
-*For more updates on Wai Kid Digital, follow We Think Digital Thailand’s [Facebook](https://www.facebook.com/wtdthailand) page. Keep following the Wai Kid Digital project on USAID Asia, and stay tuned to our wrapup of lessons learned later this year on Digital@DAI*.
+*For more updates on Wai Kid Digital, follow We Think Digital Thailand’s [Facebook](https://www.facebook.com/wtdthailand) page. Keep following the Wai Kid Digital project on USAID Asia's [Facebook](https://www.facebook.com/USAIDAsia/) page, and stay tuned for a wrapup of lessons learned later this year on Digital@DAI*.
