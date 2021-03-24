@@ -7,7 +7,7 @@ Agile methodology has been a buzzword for a while now and it gets used to descri
 
 <!--more-->
 
-To better understand how agile became adapted to its current uses, I’m going to start all the way back at its founding. Traditionally software development was done using a methodology called “waterfall” where each team would work on something and then pass it along to the next team and so on. Starting in the 1990s, developers started to push the boundaries of the “waterfall” approach and come up with new ways to tackle software development. These different methods and approaches had been evolving for years before they were more formally understood as “agile methodologies”. A group of these like-minded developers from different innovative approaches all got together, drafted the [Agile Manifesto](http://agilemanifesto.org/) in 2001, and this “agile” as we know it was born. The manifesto was a way for software developers who felt that a new approach was needed for software development to come together, find common ground, and help organize the principles behind their thinking.
+To better understand how "agile" adapted to its current uses, I’m going to start all the way back at its founding. Traditionally, software was developed with methodology called “waterfall” where each team would work on something and then pass it along to the next team and so on. Starting in the 1990s, developers started to push the boundaries of the “waterfall” approach and come up with new ways to tackle software development. These different methods and approaches had been evolving for years before they were more formally understood as “agile methodologies”. A group of these like-minded developers from different innovative approaches all got together, drafted the [Agile Manifesto](http://agilemanifesto.org/) in 2001, and this “agile” as we know it was born. The manifesto was a way for software developers who felt that a new approach was needed for software development to come together, find common ground, and help organize the principles behind their thinking.
 
 The manifesto is more about outlining the values behind agile and the mindset of the founders than it is about any specific way to put the methodology to use. This approach to the manifesto is really the core of what agile is all about - it is not meant to be prescriptive, but rather a way to conceptualize how a team thinks about achieving its goals utilizing common themes. For example, there is a strong emphasis on collaboration and team dynamics in all versions of agile implementation, which you can see is a core tenet of the manifesto.
 
@@ -25,27 +25,27 @@ The manifesto is more about outlining the values behind agile and the mindset of
 
 The manifesto is supported by 12 Principles, also created by the founders of agile, which serve to complement and elaborate on what the founders put in the manifesto. These principles are the foundation for whatever form agile takes when implemented and is, in my opinion, one of the most important parts of agile to follow if you plan on trying to utilize it in your work. No matter which form of agile you are working in or how you plan to adapt it, following the principles is the key to knowing you are actually using agile methodologies. The Principles are:
 
- 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\\
+ 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
- 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.\\
+ 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
 
- 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\\
+ 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
- 4. Business people and developers must work together daily throughout the project.\\
+ 4. Business people and developers must work together daily throughout the project.
 
- 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\\
+ 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
 
- 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\\
+ 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
- 7. Working software is the primary measure of progress.\\
+ 7. Working software is the primary measure of progress.
 
- 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\\
+ 8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
 
- 9. Continuous attention to technical excellence and good design enhances agility.\\
+ 9. Continuous attention to technical excellence and good design enhances agility.
 
-10. Simplicity–the art of maximizing the amount of work not done–is essential.\\
+10. Simplicity–the art of maximizing the amount of work not done–is essential.
 
-11. The best architectures, requirements, and designs emerge from self-organizing teams.\\
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
 
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
