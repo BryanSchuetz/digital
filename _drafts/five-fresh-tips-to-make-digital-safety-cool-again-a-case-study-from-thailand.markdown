@@ -110,7 +110,7 @@ While the pitching session required lots of time from our partners, it also prov
 
 ## 5. Crowdsource the Creativity
 
-<iframe src="https://giphy.com/embed/qU6uxSaKpzVel24fvb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qU6uxSaKpzVel24fvb">via GIPHY</a></p>
+![source.gif](/uploads/source.gif)
 
 ## What's Next
 
