@@ -9,9 +9,9 @@ social-image: "/uploads/Thaniya%201.png"
 thumbnail: "/uploads/Thaniya%201.png"
 ---
 
-![Thaniya 1.png](/uploads/Thaniya%201.png)
-
 Southeast Asia is one of the world’s fastest growing regions for digital connectivity. [Thai people, for example, spend on average nine hours a day using the internet on their mobile phones.](https://www.nationthailand.com/news/30382735) That's the second-highest in the world! And 95 percent of all Thais connected to the internet are on Facebook.
+
+![Thaniya 1.png](/uploads/Thaniya%201.png)
 
 We have all heard about some of the dangers that come with using social media—misinformation, privacy concerns, and cyber bullying, just to name a few. But people in Thailand, like many places around the world, are still very invested in social media platforms, despite the challenges. So how might we turn this challenge into an opportunity?
 
