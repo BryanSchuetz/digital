@@ -21,7 +21,7 @@ Here are five fresh tips we have learned from the Challenge so far to make sure 
 
 <!--more-->
 
-## 1. Design for Human First
+## 1. Design for Humans First
 
 We know we should change our passwords often, use a virtual private network, and watch out for fake news, but do we care enough to really do these things all the time?
 
