@@ -4,7 +4,7 @@ date: 2021-03-25 06:00:00 -04:00
 tags:
 - Digital Literacy
 - Cybersecurity
-Author: "[Thaniya Theungsand](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain=th)"
+Author: "[Thaniya Theungsang](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain-th)"
 social-image: "/uploads/Thaniya%201.png"
 thumbnail: "/uploads/Thaniya%201.png"
 ---
