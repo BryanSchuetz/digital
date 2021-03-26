@@ -37,7 +37,7 @@ In our first virtual session, we used lots of text to communicate to the partici
 
 So, we looked at the data and asked our end users—the participants—how we could do better. Based on that feedback, we adapted how we interact with our students. Instead of long videos and texts, we started using private Facebook groups, live interactive Zoom sessions, bite-sized infographics, short TikTok-style videos, Facebook events, quizzes, polls, and lots of GIFs.
 
-With these new approaches, participants of the program were much more responsive to our messages and started to get more involved with the program activities. [Collaboration, learning, and adaption](https://usaidlearninglab.org/qrg/understanding-cla-0) really works!
+With these new approaches, participants of the program were much more responsive to our messages and started to get more involved with the program activities. [Collaboration, learning, and adaptation](https://usaidlearninglab.org/qrg/understanding-cla-0) really works!
 
 **Main Takeaway:** Make sure to understand how your audience engages with the technology and design your activities with that in mind. When possible, design it with them!
 
