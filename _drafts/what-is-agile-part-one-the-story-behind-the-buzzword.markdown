@@ -1,6 +1,6 @@
 ---
 title: 'What is Agile? Part One: The Story Behind the Buzzword'
-date: 2021-03-26 06:00:00 -04:00
+date: 2021-03-31 06:00:00 -04:00
 tags:
 - agile
 - software development
