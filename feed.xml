@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Mar 2021 15:20:06 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Mar 2021 15:20:06 -0400</lastBuildDate>
+    <pubDate>Thu, 01 Apr 2021 03:58:44 -0400</pubDate>
+    <lastBuildDate>Thu, 01 Apr 2021 03:58:44 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Samantha.jpg" medium="image" /> 
+        <title>What is Agile? Part One: The Story Behind the Buzzword</title>
+        <description>&lt;p&gt;Agile methodology has been a trending topic for a while now and it typically describes a wide range of approaches to software development, project management, and even &lt;a href=&quot;https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en&quot;&gt;raising children&lt;/a&gt;. Everyone loves to say they work on an agile team or to describe their company as an agile organization. While it’s true that its widespread use has changed the way people work, the details around agile have started to become diluted to the point where no one really knows what it means anymore. The Agile Alliance, an organization that supports those who use Agile, defines it broadly as “&lt;a href=&quot;https://www.agilealliance.org/agile101/&quot;&gt;the ability to create and respond to change.”&lt;/a&gt; This post is the first in a series aimed at unpacking this buzzword and how the set of ideas it represents can be used effectively in international development contexts.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 31 Mar 2021 06:00:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/samantha-weinberg">Samantha Weinberg</a>
+</author>
+        <link>https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html</guid>
+        
+        <category>agile</category>
+        
+        <category>software development</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Thaniya%201.png" medium="image" /> 
@@ -200,27 +219,6 @@
         <category>Human-centered design</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/agree-1728448_1280.jpg" medium="image" /> 
-        <title>Consent to Data Processing in Humanitarian and Development Contexts, Part 2: Beyond Consent</title>
-        <description>&lt;p&gt;This blog is part of a series on the use of management information systems (MIS) in humanitarian crises. In our last piece, we talked about how &lt;a href=&quot;https://dai-global-digital.com/consent-to-data-processing-in-humanitarian-and-development-contexts-part-one.html&quot;&gt;informed consent&lt;/a&gt; can be difficult in humanitarian settings, but that is not an excuse for failing to protect the privacy of beneficiaries. In this blog, we focus on what to do where consent is not possible.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Jan 2021 06:00:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://www.linkedin.com/in/rachaelsteller/">Rachael Steller</a>
-</author>
-        <link>https://dai-global-digital.com/beyond-consent-why-seeking-consent-for-data-processing-can-be-problematic-in-humanitarian-and-development-contexts.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/beyond-consent-why-seeking-consent-for-data-processing-can-be-problematic-in-humanitarian-and-development-contexts.html</guid>
-        
-        <category>consent</category>
-        
-        <category>Privacy</category>
-        
-        <category>humanitarian response</category>
         
         
       </item>
