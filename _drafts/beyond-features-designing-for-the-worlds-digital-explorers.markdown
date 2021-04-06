@@ -6,7 +6,7 @@ social-image: "/uploads/anand.jpeg"
 thumbnail: "/uploads/anand.jpeg"
 ---
 
-In a recent post, former UK parliamentarian and current VP for Global Affairs and Communications at Facebook, Nick Clegg wrote an extensive [defense](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2) of the company’s role in political polarization and the spread of hate speech, among other contemporary issues. Clegg’s argument is summed up in the title of the piece: “You and the Algorithm: It Takes Two to Tango.”
+In a recent post, former U.K. parliamentarian and current Vice President for Global Affairs and Communications at Facebook, Nick Clegg wrote an extensive [defense](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2) of the company’s role in political polarization and the spread of hate speech, among other contemporary issues. Clegg’s argument is summed up in the title of the piece: “You and the Algorithm: It Takes Two to Tango.”
 
 <!--more-->
 
