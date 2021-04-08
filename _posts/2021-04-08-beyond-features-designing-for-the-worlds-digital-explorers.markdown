@@ -1,6 +1,9 @@
 ---
 title: 'Beyond Features: Designing for the World’s ‘Digital Explorers’'
 date: 2021-04-08 06:00:00 -04:00
+tags:
+- Think Piece
+- AI
 Author: Anand Varghese
 social-image: "/uploads/anand.jpeg"
 thumbnail: "/uploads/anand.jpeg"
