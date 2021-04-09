@@ -22,17 +22,13 @@ Firms should demonstrate expertise in one or more of the following areas:
 * Content development and graphic design
 * Knowledge management and analytics
 * Marketing and press
-
 * Event management
-
 * Videography and photography
-
 * Website and social media management
+* Other communications skills
 
-* Other communications skills.
-
-The attached [Request For Proposals](https://docs.google.com/document/d/1Ld9nXeJ1rejVsXWO1ui5CCem1kAFQSt-cYWWFT-l3sI/edit?usp=sharing) **RFP 2021-05 includes more information on the desired technical requirements. Proposals for this opportunity are due April 27, 2021** **at 5:00pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the RFP are due by April 15, 2021 by 5:00pm **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+The attached [Request For Proposals](https://docs.google.com/document/d/1Ld9nXeJ1rejVsXWO1ui5CCem1kAFQSt-cYWWFT-l3sI/edit?usp=sharing) **RFP 2021-05 includes more information on the desired technical requirements. Proposals for this opportunity are due April 27** **at 5:00pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the RFP are due by April 15 by 5:00pm **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 ---
 
-*Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally*
+*Digital Frontiers is a $74.4 million buy-in mechanism available to USAID Bureaus and Missions from 2017-2022. DAI implements the Digital Frontiers project, which works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
