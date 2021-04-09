@@ -3,7 +3,7 @@ title: Apply Now to Provide Digital Development Strategic Communications Support
 date: 2021-04-09 06:00:00 -04:00
 tags:
 - RFP
-Author: "(Andrea Falso)[https://www.linkedin.com/in/andrea-falso-99474a103/]"
+Author: "[Andrea Falso](https://www.linkedin.com/in/andrea-falso-99474a103/)"
 social-image: "/uploads/Stephanie.jpg"
 thumbnail: "/uploads/Stephanie.jpg"
 ---
