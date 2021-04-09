@@ -1,5 +1,5 @@
 ---
-title: Apply Now – Digital Development Strategic Communications Support IQC
+title: Apply Now to Provide Digital Development Strategic Communications Support
 date: 2021-04-09 06:00:00 -04:00
 tags:
 - RFP
@@ -8,9 +8,9 @@ social-image: "/uploads/Stephanie.jpg"
 thumbnail: "/uploads/Stephanie.jpg"
 ---
 
-![Stephanie.jpg](/uploads/Stephanie.jpg)`Photo Credit: Equal Access International (EAI)`
+DAI is searching for experienced organizations to offer strategic communications support to the U.S. Agency for International Development (USAID) through the [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) mechanism. Digital Frontiers works with different USAID Missions and Bureaus in 37 countries. Its activities include: testing approaches to closing the gender digital divide; driving women’s economic empowerment and entrepreneurship; increasing cybersecurity awareness; strengthening ICT policy and governance; working on digital literacy and digital financial services; supporting capacity building within USAID; and integrating digital tools and technologies into agriculture programs.
 
-DAI is searching for experienced organizations to offer strategic communications support to USAID through the Digital Frontiers mechanism. The Digital Frontiers project works with different USAID Missions and Bureaus in 37 countries and activities range from testing approaches to closing the gender digital divide, driving women’s economic empowerment and entrepreneurship, increasing cybersecurity awareness, strengthening ICT policy and governance, working on digital literacy and digital financial services, supporting capacity building within USAID, and integrating digital tools and technologies into agriculture programs.
+![Stephanie.jpg](/uploads/Stephanie.jpg)`Photo Credit: Equal Access International (EAI)`
 
 <!--more-->
 
@@ -19,11 +19,8 @@ Due to the scale and variety of communications needs of these activities, Digita
 Firms should demonstrate expertise in one or more of the following areas:
 
 * Strategic communications and branding
-
 * Content development and graphic design
-
 * Knowledge management and analytics
-
 * Marketing and press
 
 * Event management
