@@ -1,6 +1,8 @@
 ---
 title: Apply Now – Digital Development Strategic Communications Support IQC
-date: 2021-04-09 08:26:00 -04:00
+date: 2021-04-09 06:00:00 -04:00
+tags:
+- RFP
 Author: "(Andrea Falso)[https://www.linkedin.com/in/andrea-falso-99474a103/]"
 social-image: "/uploads/Stephanie.jpg"
 thumbnail: "/uploads/Stephanie.jpg"
@@ -30,7 +32,7 @@ Firms should demonstrate expertise in one or more of the following areas:
 
 * Other communications skills.
 
-The attached Request For Proposals **RFP 2021-05 includes more information on the desired technical requirements. Proposals for this opportunity are due April 27, 2021** **at 5:00pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the RFP are due by April 15, 2021 by 5:00pm **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+The attached [Request For Proposals](https://docs.google.com/document/d/1Ld9nXeJ1rejVsXWO1ui5CCem1kAFQSt-cYWWFT-l3sI/edit?usp=sharing) **RFP 2021-05 includes more information on the desired technical requirements. Proposals for this opportunity are due April 27, 2021** **at 5:00pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the RFP are due by April 15, 2021 by 5:00pm **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 ---
 
