@@ -12,6 +12,8 @@ thumbnail: "/uploads/Stephanie.jpg"
 
 DAI is searching for experienced organizations to offer strategic communications support to USAID through the Digital Frontiers mechanism. The Digital Frontiers project works with different USAID Missions and Bureaus in 37 countries and activities range from testing approaches to closing the gender digital divide, driving women’s economic empowerment and entrepreneurship, increasing cybersecurity awareness, strengthening ICT policy and governance, working on digital literacy and digital financial services, supporting capacity building within USAID, and integrating digital tools and technologies into agriculture programs.
 
+<!--more-->
+
 Due to the scale and variety of communications needs of these activities, Digital Frontiers seeks to develop a network of communications firms with a diversity of experience and communications skills that Digital Frontiers and/or USAID can easily access to meet immediate and long-term communications support needs.
 
 Firms should demonstrate expertise in one or more of the following areas:
