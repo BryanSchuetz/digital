@@ -3,6 +3,7 @@ title: 'Social Media Storefronts: A Digital Development Blind Spot?'
 date: 2021-04-15 06:00:00 -04:00
 tags:
 - Social Media
+- Digital
 Author: Kristen Roggemann
 social-image: "/uploads/dole777-EQSPI11rf68-unsplash.jpg"
 thumbnail: "/uploads/dole777-EQSPI11rf68-unsplash.jpg"
