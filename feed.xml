@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Apr 2021 14:22:58 -0400</pubDate>
-    <lastBuildDate>Wed, 14 Apr 2021 14:22:58 -0400</lastBuildDate>
+    <pubDate>Thu, 15 Apr 2021 10:38:02 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Apr 2021 10:38:02 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/dole777-EQSPI11rf68-unsplash.jpg" medium="image" /> 
+        <title>Social Media Storefronts: A Digital Development Blind Spot?</title>
+        <description>&lt;p&gt;I’ve spent a lot of my time over the past few months thinking about online shopping. Not only because with the arrival of my second child my Amazon purchases have skyrocketed (although they have), but because DAI’s Center for Digital Acceleration has been doing a lot of work alongside our clients digging into how small to medium-size businesses use digital technologies in this digital-forward—often digital-only era of COVID-19. It’s fascinating work and has revealed to me how little I previously knew of social storefronts. My hunch is that many of my peers in digital development are equally unaware of the myriad features, tools, and functions embedded in the business accounts of the ubiquitous social media apps we engage with daily, and we have some work to do to understand, and appropriately utilize, these extremely powerful platforms for economic growth.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Apr 2021 06:00:00 -0400</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/social-media-storefronts-a-digital-development-blind-spot.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/social-media-storefronts-a-digital-development-blind-spot.html</guid>
+        
+        <category>Social Media</category>
+        
+        <category>Digital</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Stephanie.jpg" medium="image" /> 
@@ -196,27 +215,6 @@
         <category>Digital Ecosystems</category>
         
         <category>Digital Innovator Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/IMG_7630_resize.jpg" medium="image" /> 
-        <title>Digital Development for Newbies, Part 2: Sophomore Edition</title>
-        <description>&lt;p&gt;This month I’ve been reflecting on all that has happened since this time last year, back when we were still blissfully unaware of the trials, trauma, and transformation 2020 would bring. Instead of focusing on the challenges we faced over the last several months, I’d like to highlight some relevant concepts for colleagues who are gaining momentum in understanding and incorporating digital technologies into their international development work. Below are some important topics (upon which my tech-savvy colleagues and others have written extensively, so check out the links!) that can be applied across our development projects and fieldwork. Consider this the sophomore edition of the “Digital Development for Newbies” series, but if you’re brand new to this topic, I encourage you to start with &lt;a href=&quot;https://dai-global-digital.com/digital-development-for-newbies-part-1-the-basics.html&quot;&gt;Part 1: The Basics&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Feb 2021 07:00:00 -0500</pubDate>
-        <author>Addie Ryan
-</author>
-        <link>https://dai-global-digital.com/digital-development-for-newbies-part-2.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-development-for-newbies-part-2.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Disinformation</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
