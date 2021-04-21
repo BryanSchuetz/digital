@@ -8,20 +8,19 @@ social-image: "/uploads/Chloe-f84906.jpg"
 thumbnail: "/uploads/Chloe-f84906.jpg"
 ---
 
-As we head into “event season”—albeit remotely—I’ve been thinking more about how we share knowledge in the ICT4D space.
+As we head into “event season”—albeit remotely—I’ve been thinking about how we share knowledge about what we do in the ICT4D space.
 
-In doing some recent research and sector mapping as of late, I noted how different the levels of ICT4D development are amongst various sectors. In digital agriculture, it is generally accepted that there are numerous innovations out there and a plethora of pilots, but many are struggling to bring these innovations [to scale](https://www.cta.int/en/digitalisation-agriculture-africa). Many humanitarian and nutrition programs are a little further behind, integrating digital as a pilot here and there, but struggling with disparate and disconnected datasets. There are a huge number of initiatives seeking to share lessons within sectors, but how many are taking lessons from sector to sector?
+In doing some recent research and sector mapping, I noted how different the levels of ICT4D development are amongst various sectors. In digital agriculture, it is generally accepted that there are numerous innovations out there and a plethora of pilot projects, but many are struggling to bring these innovations [to scale](https://www.cta.int/en/digitalisation-agriculture-africa). Many humanitarian and nutrition programs are a little further behind, integrating digital as a pilot here and there, but struggling with disparate and disconnected datasets. There are a huge number of initiatives seeking to share lessons within sectors, but how many are taking lessons from sector to sector?
 
 <!--more-->
 
-The similarities and differences between the challenges we face are obvious to us working in ICT4D, but perhaps not for those working in discreet sectors. We can all unite in our common challenges and learn from each other: how to move pilots beyond scale, how to overcome connectivity challenges in rural and remote locations, how to be inclusive of those with lower digital skills, how to ensure we are protecting the privacy and security of users?
+The similarities and differences between the challenges we face are obvious to those of us working in ICT4D, but perhaps not for those working in discrete sectors. We can all unite in our common challenges and learn from each other: how to scale pilots, how to overcome connectivity challenges in remote locations, how to be inclusive of those with lower digital skills, how to ensure we are protecting the privacy and security of users?
 
 Instead of thinking about what works in ICT for a sector, we can also be asking what works in this context? A health program could be speaking to an education program about uptake of digital tools within the same country. Humanitarian workers can learn from solutions to connectivity barriers in other fragile states.
 
 ## What Can We Do?
 
-![Chloe-f84906.jpg](/uploads/Chloe-f84906.jpg)
-`Photo Credit: Unsplash`
+![Chloe-f84906.jpg](/uploads/Chloe-f84906.jpg)`Photo Credit: Unsplash`
 
 ## Event season is here
 
