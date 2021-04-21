@@ -18,13 +18,11 @@ The similarities and differences between the challenges we face are obvious to t
 
 Instead of thinking about what works in ICT for a sector, we can also be asking what works in this context? A health program could be speaking to an education program about uptake of digital tools within the same country. Humanitarian workers can learn from solutions to connectivity barriers in other fragile states.
 
-## What Can We Do?
-
 ![Chloe-f84906.jpg](/uploads/Chloe-f84906.jpg)`Photo from Unsplash.`
 
 ## Event Season is Here
 
-It is great that we have so many opportunities to engage with others in ICT4D. Although we cannot bump into new colleagues in the hall or chat over our slightly-too-warm sandwiches, there are some benefits to the “new normal” way of conducting events. Going digital has allowed these events to be more inclusive – welcoming participants across the globe and including those who may not have been able to afford hefty entrance fees. This, hopefully, opens up opportunities to speak to a wider variety of development implementers and thinkers who are working across sectors.
+It is great that we have so many opportunities to engage with others in ICT4D. Although we cannot bump into new colleagues in the hall or chat over our slightly too-warm sandwiches, there are some benefits to the “new normal” way of conducting events. Going digital has allowed these events to be more inclusive—welcoming participants across the globe and including those who may not have been able to afford hefty entrance fees. This, hopefully, opens up opportunities to speak to a wider variety of development implementers and thinkers who are working across sectors.
 
 These events may be online for now, but this makes it even more important to make an effort to **engage**. Come prepared to have your camera on, join the after-conference chats, speak up in those webinars, follow up on the connections you make.
 
