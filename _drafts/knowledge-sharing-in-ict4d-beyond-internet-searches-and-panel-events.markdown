@@ -10,7 +10,7 @@ thumbnail: "/uploads/Chloe-f84906.jpg"
 
 As we head into “event season”—albeit remotely—I’ve been thinking more about how we share knowledge in the ICT4D space.
 
-In doing some recent research and sector mapping as of late, I noted how different the levels of ICT4D development are amongst various sectors. In digital agriculture it is generally accepted that there are numerous innovations out there and a plethora of pilots, but many are struggling to bring these innovations [to scale](https://www.cta.int/en/digitalisation-agriculture-africa). Many humanitarian and nutrition programs are a little further behind, integrating digital as a pilot here and there, but struggling with disparate and disconnected datasets. There are a huge number of initiatives seeking to share lessons within sectors, but how many are taking lessons from sector to sector?
+In doing some recent research and sector mapping as of late, I noted how different the levels of ICT4D development are amongst various sectors. In digital agriculture, it is generally accepted that there are numerous innovations out there and a plethora of pilots, but many are struggling to bring these innovations [to scale](https://www.cta.int/en/digitalisation-agriculture-africa). Many humanitarian and nutrition programs are a little further behind, integrating digital as a pilot here and there, but struggling with disparate and disconnected datasets. There are a huge number of initiatives seeking to share lessons within sectors, but how many are taking lessons from sector to sector?
 
 <!--more-->
 
