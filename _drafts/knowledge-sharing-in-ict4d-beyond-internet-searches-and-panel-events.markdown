@@ -39,6 +39,6 @@ But it isn’t just the heavy literature. Are you on of those people who has sub
 
 ## Carve out time to chat
 
-I don’t know about you, but some the best meetings I have are where our team get together and chat about a topic – whether it be our thoughts on cybersecurity, misinformation or the role of EdTech in the “new normal”. Whilst many of us hate having lots of meetings, in my opinion it is always a great idea to get together with your team and hash out ideas, particularly if you all have different backgrounds or are working in a variety of sectors. Get those creative juices flowing!
+I don’t know about you, but some the best meetings I have are when our team get together and chat about a topic – whether it be our thoughts on cybersecurity, misinformation or the role of EdTech in the “new normal”. Whilst many of us hate having lots of meetings, in my opinion it is always a great idea to get together with your team and hash out ideas, particularly if you all have different backgrounds or are working in a variety of sectors. Get those creative juices flowing!
 
-The ICT4D sector does a pretty good job of engaging – at least I feel like we do! But it is worth remembering that we can learn from those working outside of the sector, in different geographies or on related topics. So turn open up those blog posts, dust of your books, and put on that shirt (formal trousers: optional) ready for online events!
+The ICT4D sector does a pretty good job of engaging – at least I feel like we do! But it is worth remembering that we can learn from those working outside of the sector, in different geographies or on related topics. So open up those blog posts, dust of your books, and put on that shirt (formal trousers: optional) and get ready for some online events!
