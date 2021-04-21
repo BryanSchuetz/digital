@@ -1,5 +1,5 @@
 ---
-title: 'Knowledge Sharing in ICT4D: Beyond internet searches and panel events'
+title: 'Knowledge Sharing in ICT4D: Beyond Internet Searches and Panel Events'
 date: 2021-04-22 06:00:00 -04:00
 tags:
 - Think Piece
