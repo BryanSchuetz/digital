@@ -18,7 +18,7 @@ The similarities and differences between the challenges we face are obvious to t
 
 Instead of thinking about what works in ICT for a sector, we can also be asking what works in this context? A health program could be speaking to an education program about uptake of digital tools within the same country. Humanitarian workers can learn from solutions to connectivity barriers in other fragile states.
 
-![Chloe-f84906.jpg](/uploads/Chloe-f84906.jpg)`Photo from Unsplash.`
+![Chloe-f84906.jpg](/uploads/Chloe-f84906.jpg)
 
 ## Event Season is Here
 
