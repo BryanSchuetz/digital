@@ -1,18 +1,24 @@
 ---
 title: The urgent need to build digital skills to bolster trust in digital tools
 date: 2021-04-29 08:00:00 -04:00
-categories:
-- Digital literacy
+tags:
+- Digital Privacy
+- Digital Literacy
+- Digital Inclusion
 Author: Julia Burchell
 ---
 
-As part of the recent launch events for the DAI Center for Digital Acceleration’s flagship Frontier Insights research on user perceptions of trust and privacy on the internet, two panels of experts in the digital for development space helped underscore and widen the discussion around issues raised in the report. In the South Asia focussed panel, a theme that emerged very clearly was the urgent need to build digital skills as a means to develop and maintain trust in digital services. Both the research and expert discussion highlighted the need for a multi-stakeholder approach to enable informed use and trust throughout the digital value chain.
+As part of last year's launch events for the DAI Center for Digital Acceleration’s flagship Frontier Insights research on user perceptions of trust and privacy on the internet, two panels of experts in the digital for development space helped underscore and widen the discussion around issues raised in the report. In the South Asia focussed panel, a theme that emerged very clearly was the urgent need to build digital skills as a means to develop and maintain trust in digital services. Both the research and expert discussion highlighted the need for a multi-stakeholder approach to enable informed use and trust throughout the digital value chain.
+
+![Julia-b075d1.jpg](/uploads/Julia-b075d1.jpg)`Source: Global Citizen`
+
+<!--more-->
 
 Andy Toft, Senior Digital Adviser at the U.K. Foreign, Commonwealth and Development Office, advocated for a rights-based approach to support digital literacy, where development actors aim both to strengthen the capacity of the institutions obligated to fulfil holders’ rights and empower rights holders to exercise those rights fully. “There are different ethical and regulatory standards or principles out there and one set that we use within the department around digital programming is the [Principles for Digital Development](about:blank) stewarded by [DIAL](about:blank),” said Andy. “That principle-based approach can then be applied in various contexts with a user centric design approach to help us understand users’ risk appetite and the benefits and trade-offs that people are making. The [report’s](about:blank) proposal for [an additional principle](about:blank) around educating the user is interesting, and something that should be considered as a part of a refresh of the principles in the future.”
 
 Natasha Jackson, Head of Public Policy and Consumer Affairs, at GSMA, agreed that a principles-based approach in terms of regulation was necessary to ensure that government policy protected consumers globally:
 
-“There are a lot of requirements on mobile operators already for privacy and security in their licence conditions and others. But what we need are laws that apply to all players: you can't expect a user anywhere in the world, let alone those who may not be literate, to understand who is responsible for what part of the huge and complex digital ecosystem they're engaging with. So if a user in India is using an app built in America on a phone built in China and operating system that's from another provider, every player in that chain has an impact on what's happening to the data, how the services are delivered and developed. And so the laws need to be consistent across the value chain so that however the service is delivered, those consumers are protected. Our recent report, Smart Data Privacy Laws, aims to help governments make sure that laws are fit for purpose and will survive the rapid pace of change in technology.”
+“There are a lot of requirements on mobile operators already for privacy and security in their licence conditions and others. But what we need are laws that apply to all players: you can't expect a user anywhere in the world, let alone those who may not be literate, to understand who is responsible for what part of the huge and complex digital ecosystem they're engaging with. So if a user in India is using an app built in America on a phone built in China and operating system that's from another provider, every player in that chain has an impact on what's happening to the data, how the services are delivered and developed. And so the laws need to be consistent across the value chain so that however the service is delivered, those consumers are protected. Our recent report, [Smart Data Privacy Laws](https://www.gsma.com/publicpolicy/resources/smart-data-privacy-laws), aims to help governments make sure that laws are fit for purpose and will survive the rapid pace of change in technology.”
 
 Governments, development providers and digital technology firms were not the only actors highlighted. Small businesses operating in an increasingly digital world, need to be equipped to ensure their services are protecting their customers. Natasha continued: “A lot of the internet is driven by big providers, big social media companies, large mobile operators. But I think what we need to do also is make sure that we support smaller businesses that are creating local content and services to build in privacy and safety by design into their product. This is especially relevant in emerging markets to support and maintain adoption of digital services serving users’ real, lived needs.”
 
@@ -40,4 +46,4 @@ For those interested in learning more and implementing digital skills-building i
 
 * [Mozilla’s Women and Web Literacy](about:blank) has a variety of digital literacy resources, including Teaching Kits on cyber violence, sexting, hacking, and online abuse. While the resources are primarily focused on women and girls, they can be adapted for different audiences.
 
-If you’d like to hear more from our panellists check out the full discussions in the videos [here](about:blank).
+If you’d like to hear more from our panellists, check out the full discussions in the videos [here](about:blank).
