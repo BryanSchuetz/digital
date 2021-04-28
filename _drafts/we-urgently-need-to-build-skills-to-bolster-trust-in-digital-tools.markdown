@@ -1,5 +1,5 @@
 ---
-title: The urgent need to build digital skills to bolster trust in digital tools
+title: We Urgently Need to Build Skills to Bolster Trust in Digital Tools
 date: 2021-04-29 08:00:00 -04:00
 tags:
 - Digital Privacy
