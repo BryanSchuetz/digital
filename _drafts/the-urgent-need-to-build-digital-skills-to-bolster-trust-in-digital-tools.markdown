@@ -6,6 +6,8 @@ tags:
 - Digital Literacy
 - Digital Inclusion
 Author: Julia Burchell
+social-image: "/uploads/Julia-b075d1.jpg"
+thumbnail: "/uploads/Julia-b075d1.jpg"
 ---
 
 As part of last year's launch events for the DAI Center for Digital Acceleration’s flagship Frontier Insights research on user perceptions of trust and privacy on the internet, two panels of experts in the digital for development space helped underscore and widen the discussion around issues raised in the report. In the South Asia focussed panel, a theme that emerged very clearly was the urgent need to build digital skills as a means to develop and maintain trust in digital services. Both the research and expert discussion highlighted the need for a multi-stakeholder approach to enable informed use and trust throughout the digital value chain.
