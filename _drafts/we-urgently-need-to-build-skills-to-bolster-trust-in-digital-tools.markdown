@@ -40,9 +40,9 @@ What the report and the discussions around it made clear is that it’s not just
 
 For those interested in learning more and implementing digital skills-building initiatives, here are some toolkits that can support localizable digital and media literacy curricula in an open-source, dynamic fashion:
 
-* The [Chayn Do-It-Yourself Online Safety Guide ](about:blank)offers practical advice on how to mitigate risks when online—for example, setting passwords, using secure browsers, and staying safe on social media. It is available in multiple languages.
+* The [Chayn Do-It-Yourself Online Safety Guide](about:blank)offers practical advice on how to mitigate risks when online—for example, setting passwords, using secure browsers, and staying safe on social media. It is available in multiple languages.
 * The [GSMA Mobile Internet Skills Training Toolkit](about:blank), available in multiple languages, has been designed for mobile-first contexts, and it includes a section on security and privacy, and online risks.
-* The[ Safe Sisters](about:blank) toolkit is designed for women and girls in Sub-Saharan Africa. It aims to simplify digital security issues, make them relevant to real users, and encourage users to take online safety into their own hands.
+* The [Safe Sisters](about:blank) toolkit is designed for women and girls in Sub-Saharan Africa. It aims to simplify digital security issues, make them relevant to real users, and encourage users to take online safety into their own hands.
 * [Mozilla’s Women and Web Literacy](about:blank) has a variety of digital literacy resources, including Teaching Kits on cyber violence, sexting, hacking, and online abuse. While the resources are primarily focused on women and girls, they can be adapted for different audiences.
 
 If you’d like to hear more from our panelists, check out the full discussions in the videos [here](about:blank).
