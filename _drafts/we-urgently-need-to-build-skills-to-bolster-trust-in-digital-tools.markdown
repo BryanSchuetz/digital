@@ -10,13 +10,13 @@ social-image: "/uploads/Julia-b075d1.jpg"
 thumbnail: "/uploads/Julia-b075d1.jpg"
 ---
 
-As part of last year’s launch events for the DAI Center for Digital Acceleration’s flagship Frontier Insights research on user perceptions of trust and privacy on the internet, two panels of experts helped underscore and widen the discussion around issues raised in the report. In the South Asia panel, a theme that emerged very clearly was the urgent need to build digital skills as a means to develop and maintain trust in digital services. Both the research and expert discussion highlighted the need for a multi-stakeholder approach to enable informed use and trust throughout the digital value chain.
+As part of last year’s launch events for the DAI Center for Digital Acceleration’s flagship Frontier Insights research on[ user perceptions of trust and privacy on the internet](https://www.dai.com/fi-cyber-user-trust-summary.pdf), two panels of experts helped underscore and widen the discussion around issues raised in the report. In the South Asia panel, a theme that emerged very clearly was the urgent need to build digital skills as a means to develop and maintain trust in digital services. Both the research and expert discussion highlighted the need for a multi-stakeholder approach to enable informed use and trust throughout the digital value chain.
 
 ![Julia-b075d1.jpg](/uploads/Julia-b075d1.jpg)`Source: Global Citizen.`
 
 <!--more-->
 
-Andy Toft, a Senior Digital Adviser at the U.K. Foreign, Commonwealth & Development Office, advocated for a rights-based approach to support digital literacy, where development actors aim both to strengthen the capacity of the institutions obligated to fulfill holders’ rights and empower rights holders to exercise those rights fully. “There are different ethical and regulatory standards or principles out there and one set that we use within the department is the [Principles for Digital Development](about:blank) stewarded by [DIAL](about:blank),” said Toft. “That principles-based approach can then be applied in various contexts with a user-centric design approach to help us understand users’ risk appetite and the benefits and tradeoffs that people are making. The [report’s](about:blank) proposal for [an additional principle](about:blank) around educating the user is interesting, and something that should be considered as a part of a refresh of the principles in the future.”
+Andy Toft, a Senior Digital Adviser at the U.K. Foreign, Commonwealth & Development Office, advocated for a rights-based approach to support digital literacy, where development actors aim both to strengthen the capacity of the institutions obligated to fulfill holders’ rights and empower rights holders to exercise those rights fully. “There are different ethical and regulatory standards or principles out there and one set that we use within the department is the [Principles for Digital Development](https://digitalprinciples.org/) stewarded by [DIAL](https://digitalimpactalliance.org/),” said Toft. “That principles-based approach can then be applied in various contexts with a user-centric design approach to help us understand users’ risk appetite and the benefits and tradeoffs that people are making. The [report’s ](https://www.dai.com/fi-cyber-user-trust-summary.pdf)proposal for[ an additional principle](https://dai-global-digital.com/the-missing-digital-principle-educate-the-user.html) around educating the user is interesting, and something that should be considered as a part of a refresh of the principles in the future.”
 
 Natasha Jackson, Head of Public Policy and Consumer Affairs, at the GSM Association (GSMA), agreed that a principles-based approach in terms of regulation was necessary to ensure that government policy-protected consumers globally:
 
@@ -40,9 +40,10 @@ What the report and the discussions around it made clear is that it’s not just
 
 For those interested in learning more and implementing digital skills-building initiatives, here are some toolkits that can support localizable digital and media literacy curricula in an open-source, dynamic fashion:
 
-* The [Chayn Do-It-Yourself Online Safety Guide](about:blank)offers practical advice on how to mitigate risks when online—for example, setting passwords, using secure browsers, and staying safe on social media. It is available in multiple languages.
-* The [GSMA Mobile Internet Skills Training Toolkit](about:blank), available in multiple languages, has been designed for mobile-first contexts, and it includes a section on security and privacy, and online risks.
-* The [Safe Sisters](about:blank) toolkit is designed for women and girls in Sub-Saharan Africa. It aims to simplify digital security issues, make them relevant to real users, and encourage users to take online safety into their own hands.
-* [Mozilla’s Women and Web Literacy](about:blank) has a variety of digital literacy resources, including Teaching Kits on cyber violence, sexting, hacking, and online abuse. While the resources are primarily focused on women and girls, they can be adapted for different audiences.
+* The [Chayn Do-It-Yourself Online Safety Guide ](https://chayn.co/safety/)offers practical advice on how to mitigate risks when online—for example, setting passwords, using secure browsers, and staying safe on social media. It is available in multiple languages.
 
-If you’d like to hear more from our panelists, check out the full discussions in the videos [here](about:blank).
+* The [GSMA Mobile Internet Skills Training Toolkit](https://www.gsma.com/mobilefordevelopment/connected-society/mistt/), available in multiple languages, has been designed for mobile-first contexts, and it includes a section on security and privacy, and online risks.
+
+* The [Safe Sisters](https://safesisters.net/) toolkit is designed for women and girls in Sub-Saharan Africa. It aims to simplify digital security issues, make them relevant to real users, and encourage users to take online safety into their own hands.
+
+* [Mozilla’s Women and Web Literacy](https://mozilla.github.io/womenandweb/) has a variety of digital literacy resources, including Teaching Kits on cyber violence, sexting, hacking, and online abuse. While the resources are primarily focused on women and girls, they can be adapted for different audiences.
