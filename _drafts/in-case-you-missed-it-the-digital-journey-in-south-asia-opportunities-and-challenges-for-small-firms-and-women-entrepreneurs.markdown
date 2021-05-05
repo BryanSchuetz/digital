@@ -1,6 +1,6 @@
 ---
-title: 'In Case You Missed It: The Digital Journey in South Asia - Opportunities and
-  Challenges for SMEs and Women Entrepreneurs'
+title: 'In Case You Missed It: The Digital Journey in South Asia—Opportunities and
+  Challenges for Small Firms and Women Entrepreneurs'
 date: 2021-05-06 08:00:00 -04:00
 tags:
 - Entrepreneurship
