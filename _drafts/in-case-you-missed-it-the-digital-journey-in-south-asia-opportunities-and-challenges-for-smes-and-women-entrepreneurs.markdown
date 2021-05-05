@@ -4,7 +4,8 @@ title: 'In Case You Missed It: The Digital Journey in South Asia - Opportunities
 date: 2021-05-06 08:00:00 -04:00
 tags:
 - Entrepreneurship
-- Digital Divide
+- Digital Gender Divide
+- Digital Literacy
 Author: "[Stephanie Creed](https://www.linkedin.com/mynetwork/)"
 social-image: "/uploads/Stephanie%201.jpg"
 thumbnail: "/uploads/Stephanie%201.jpg"
@@ -12,7 +13,7 @@ thumbnail: "/uploads/Stephanie%201.jpg"
 
 ![Stephanie 1.jpg](/uploads/Stephanie%201.jpg)`Photo Credit: Digital Empowerment Foundation`
 
-DAI’s Digital Frontiers Project, in partnership with USAID’s Indo-Pacific Office, recently hosted a thought-provoking webinar featuring views from the field in Bangladesh, India, and Nepal on opportunities and challenges for Small and Medium-Sized Enterprises (SMEs) and Women Entrepreneurs (WEs) in South Asia. Our panel brought together diverse perspectives from experts in government, private sector, and civil society to discuss the key problems faced by SMEs in South Asia today and what the development community can do to break down barriers and help WEs take their place as major players in the economy.\
+DAI’s Digital Frontiers Project, in partnership with USAID’s Indo-Pacific Office, recently hosted a thought-provoking webinar featuring views from the field in Bangladesh, India, and Nepal on opportunities and challenges for Small and Medium-Sized Enterprises (SMEs) and Women Entrepreneurs (WEs) in South Asia. Our panel brought together diverse perspectives from experts in government, private sector, and civil society to discuss the key problems faced by SMEs in South Asia today and what the development community can do to break down barriers and help WEs take their place as major players in the economy.
 
 <!--more-->
 
@@ -24,13 +25,13 @@ Missed the discussion? Read highlights below:
 
 *“In 2020, 53% of women have seen a reduction in paid working hours compared to men” - Anir Chowdhury, Access to Information (a2i) Programme*
 
-There is an increasing reliance on digital services due to lock downs and travel restrictions that prevent people from going to brick and mortar offices, banks, and other services that are crucial for their businesses. Many WEs do not have the digital skills or access to mobile and internet services to operate in this new environment. This dependency on digital technology due to COVID presents both a challenge in the need for stronger support for these WEs who are struggling to adjust to a new environment. However, the situation also presents an opportunity as governments, the private sector, and civil society become laser-focused on efforts to address digital inclusion, access and bridging the existing wide digital gender divide in the region.
+There is an increasing reliance on digital services due to lockdowns and travel restrictions that prevent people from going to brick and mortar offices, banks, and other services that are crucial for their businesses. Many WEs do not have the digital skills or access to mobile and internet services to operate in this new environment. This dependency on digital technology due to COVID presents both a challenge in the need for stronger support for these WEs who are struggling to adjust to a new environment. However, the situation also presents an opportunity as governments, the private sector, and civil society become laser-focused on efforts to address digital inclusion, access and bridging the existing wide digital gender divide in the region.
 
 ## Women face disproportionate barriers for obtaining access to credit.
 
 *“Female entrepreneurs often need to be guaranteed by their husbands or by their fathers, in terms of collateral (in the region)” - Anir Chowdhury, a2i Programme*
 
-*“Too many women lack access to formal identification so they’re unable to open a bank account, own property or develop credit history - which are essential to save, to build assets, secure a loan, and open or expand their business.” - Keyzom Ngodup,  BTCA UNCDF*
+*“Too many women lack access to formal identification so they’re unable to open a bank account, own property or develop credit history -- which are essential to save, to build assets, secure a loan, and open or expand their business.” - Keyzom Ngodup,  BTCA UNCDF*
 
 *“We need to address some of the cultural barriers that have historically made it quite difficult for women entrepreneurs to succeed.” - Alison Eskesen, Vice President Asia, Mastercard Centre for Inclusive Growth*
 
@@ -56,7 +57,7 @@ We crowdsourced information from participants for their suggestions on what USAI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zM_R1oO3lcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-SARDI is working to improve digital connectivity in the South Asia region, strengthen the private sector and civil society’s digital capacity, and improve their ability to engage on ICT policy issues. In collaboration with the [Digital Empowerment Foundation](https://www.youtube.com/watch?v=zM_R1oO3lcw), we are currently working with women micro entrepreneurs, Community Development Organizations (CDOs) and Self Help Groups (SHGs) in rural India to digitally upskill them on the use of mobile technologies to manage their businesses, online transactions and equip them to earn their livelihood by leveraging on digital/e-commerce platforms.
+SARDI is working to improve digital connectivity in the South Asia region, strengthen the private sector and civil society’s digital capacity, and improve their ability to engage on Information and Communication Technology (ICT) policy issues. In collaboration with the [Digital Empowerment Foundation](https://www.youtube.com/watch?v=zM_R1oO3lcw), we are currently working with women micro entrepreneurs, Community Development Organizations (CDOs) and Self Help Groups (SHGs) in rural India to digitally upskill them on the use of mobile technologies to manage their businesses, online transactions and equip them to earn their livelihood by leveraging on digital/e-commerce platforms.
 
 SARDI is also working with WEs in urban and semiurban areas to help them translate “digital policies into action” and introduce digital tools and technologies in their businesses to operate and expand their businesses more effectively and efficiently. Through a last mile connectivity program, SARDI aligns with the Government of India’s PM_WANI program to create WEs that act as Public Data Offices and provide internet access services to local communities in a self-sustaining model.
 
