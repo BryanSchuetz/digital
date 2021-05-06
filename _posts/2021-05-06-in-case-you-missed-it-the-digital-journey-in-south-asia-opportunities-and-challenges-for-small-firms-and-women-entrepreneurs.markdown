@@ -45,9 +45,9 @@ Without digital literacy skills, digital financial skills, knowledge of online p
 
 Participants saw digital platforms tailored to women’s needs, digital skills training, and social norms change as key to future investment opportunities in women-led SMEs. We crowdsourced information from participants for their suggestions on what USAID should invest in for SMEs regionally. Here are some of their responses:
 
-![Stephanie 2.png](/uploads/Stephanie%202.png)
+![Webinar-Menti1.jpg](/uploads/Webinar-Menti1.jpg)
 
-![Stephanie 3.png](/uploads/Stephanie%203.png)
+![Webinar-Menti2.jpg](/uploads/Webinar-Menti2.jpg)
 
 ## How is Digital Frontiers Supporting Women-led SMEs in the Region?
 
