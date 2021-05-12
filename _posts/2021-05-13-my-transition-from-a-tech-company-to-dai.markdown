@@ -1,6 +1,7 @@
 ---
 title: My Transition from a Tech Company to DAI
 date: 2021-05-13 08:00:00 -04:00
+published: false
 tags:
 - software development
 - agile
