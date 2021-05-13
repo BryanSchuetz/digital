@@ -1,7 +1,6 @@
 ---
 title: Apply Now to Support USAID Missions through Digital Agriculture Ecosystem Assessments
 date: 2021-05-13 10:00:00 -04:00
-published: false
 tags:
 - digital agriculture
 - RFP
@@ -18,8 +17,6 @@ Despite the incredible progress made over the last decade by the U.S. Government
 
 [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) is supporting the [USAID Bureau of Resilience and Food Security](https://www.usaid.gov/who-we-are/organization/bureaus/bureau-resilience-and-food-security) to implement Digital Agriculture Ecosystem Assessments in support of up to six USAID Missions to better understand, work with, and support the country’s respective digital agriculture ecosystem to meet their development objectives. These assessments will focus on supporting the USAID Missions in: **Haiti, Honduras, Malawi, Mali, Tajikistan, and Uganda**. Ultimately each assessment will seek to identify key challenges and opportunities for more effectively leveraging digital technologies in the agriculture and aligned sectors among the different stakeholders within each country’s ecosystem, consistent with each Mission’s priorities.
 
-<aside>
-<p><strong><a href="https://docs.google.com/document/d/1K1vOASVe6Fo8NiCPCuz7mVMVhEo0Yutbb_sk0dg0NxU/edit">Apply Now</a></strong></p>
-</aside>
+\##[ Apply Now](https://drive.google.com/file/d/1Ceu7bX0vnWzTZQhERdn1lMxM93PTJ4Re/view?usp=sharing)
 
-To learn more about this opportunity and apply to the Digital Agriculture Ecosystem Assessments please download the [Request for Proposals](https://docs.google.com/document/d/1K1vOASVe6Fo8NiCPCuz7mVMVhEo0Yutbb_sk0dg0NxU/edit) and register your interest in this opportunity by emailing DigitalFrontiers@dai.com.
+To learn more about this opportunity and apply to the Digital Agriculture Ecosystem Assessments please download the [Request for Proposals](https://drive.google.com/file/d/1Ceu7bX0vnWzTZQhERdn1lMxM93PTJ4Re/view?usp=sharing) and register your interest in this opportunity by emailing DigitalFrontiers@dai.com.
