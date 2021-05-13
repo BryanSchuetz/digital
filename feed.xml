@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 May 2021 10:53:24 -0400</pubDate>
-    <lastBuildDate>Thu, 13 May 2021 10:53:24 -0400</lastBuildDate>
+    <pubDate>Thu, 13 May 2021 11:16:19 -0400</pubDate>
+    <lastBuildDate>Thu, 13 May 2021 11:16:19 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Eduardo%201.jpg" medium="image" /> 
+        <title>My Transition from a Tech Company to DAI</title>
+        <description>&lt;p&gt;Before joining DAI’s Center for Digital Acceleration (CDA), I worked in the software development industry. For the majority of my 15 years in this field, I only worked for tech companies whose main business model was building software. To successfully build software, there are multiple practices and skills that companies need. These skills are, for example, agile methodologies and good coding practices (such as patterns and documentation) that often vary from company to company and the type of technology used. Other practices include daily meetings and specialized resources for each phase of the software development process. In addition, there are roles such as back-end developers, front-end developers, DevOps, scrum masters, graphic designers, UX designers, and more! From this, you can see there is a lot that goes into making even a small web application. But, what I have just described is the experience of working on very large teams that only make software, which is very different from work within CDA’s Products team.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 May 2021 08:00:00 -0400</pubDate>
+        <author>Eduardo Gonzalez
+</author>
+        <link>https://dai-global-digital.com/my-transition-from-a-tech-company-to-dai.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/my-transition-from-a-tech-company-to-dai.html</guid>
+        
+        <category>software development</category>
+        
+        <category>agile</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Stephanie%201.jpg" medium="image" /> 
@@ -203,25 +224,6 @@
         
         
         <category>Innovation</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Sima%20w%20phone.jpg" medium="image" /> 
-        <title>In Honor of Women’s History Month: Exploring the Gender Digital Divide</title>
-        <description>&lt;p&gt;With March being Women’s History Month, it feels appropriate to reflect on progress made towards the United Nations’ &lt;a href=&quot;https://www.un.org/sustainabledevelopment/gender-equality/&quot;&gt;Sustainable Development Goal No. 5&lt;/a&gt;: &lt;em&gt;Achieving gender equality and empowering all women and girls&lt;/em&gt;. Over the years, development programs have made significant strides in recognizing and alleviating the inequality that exists between men and women worldwide, though there is still much to be done. From DAI’s Center for Digital Acceleration’s perspective, it is particularly important to highlight the disparities that exist in the realm of digital tools and opportunities. In today’s world, where access to the internet and digital applications is increasingly valuable for both personal and professional purposes, female empowerment efforts must include the prioritization of women’s digital access, literacy, and inclusion.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Mar 2021 06:00:00 -0500</pubDate>
-        <author>Erica Behrens
-</author>
-        <link>https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html</guid>
-        
-        <category>Digital Gender Divide</category>
-        
-        <category>Digital Inclusion</category>
-        
         
       </item>
     

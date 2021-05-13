@@ -1,4 +1,15 @@
 
+- title: "My Transition from a Tech Company to DAI"
+  pub: "Digital"
+  date: 2021-05-13
+  link: "https://dai-global-digital.com/my-transition-from-a-tech-company-to-dai.html?utm_source=daidotcom"
+  summary: "Before joining DAI’s Center for Digital Acceleration (CDA), I worked in the software development industry. For the majority of my 15 years in this field, I only worked for tech companies whose main business model was building software. To successfully build software, there are multiple practices and skills that companies need. These skills are, for example, agile methodologies and good coding practices (such as patterns and documentation) that often vary from company to company and the type of technology used. Other practices include daily meetings and specialized resources for each phase of the software development process. In addition, there are roles such as back-end developers, front-end developers, DevOps, scrum masters, graphic designers, UX designers, and more! From this, you can see there is a lot that goes into making even a small web application. But, what I have just described is the experience of working on very large teams that only make software, which is very different from work within CDA’s Products team."
+  tags:
+    - digital acceleration 
+    - software development 
+    - agile 
+    - Think Piece 
+
 - title: "In Case You Missed It: The Digital Journey in South Asia—Opportunities and Challenges for Small Firms and Women Entrepreneurs"
   pub: "Digital"
   date: 2021-05-06
@@ -220,16 +231,4 @@ Against the backdrop of the ongoing global conversation about racism and bias, o
     - Think Piece 
     - Cybersecurity 
     - Disinformation 
-
-- title: "Digital@DAI 2020 Year in Review"
-  pub: "Digital"
-  date: 2020-12-30
-  link: "https://dai-global-digital.com/digital-at-dai-2020-year-in-review.html?utm_source=daidotcom"
-  summary: "2020 has been a year like no other. While those of us in the development sector have long anticipated the increased frequency of once-in-a-lifetime events—as our social, environmental, political, and economic systems grow increasingly strained and interconnected—none of us expected these “problems of tomorrow” to arise as quickly, globally, and devastatingly as they did."
-  tags:
-    - digital acceleration 
-    - COVID-19 
-    - Digital Inclusion 
-    - Cybersecurity 
-    - Innovation 
 
