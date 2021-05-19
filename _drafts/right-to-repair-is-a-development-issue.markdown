@@ -31,20 +31,20 @@ Because hardware is a process, problems are almost never solved merely by droppi
 
 ## Procurement is Development, Too
 
-Most development professionals view procurement as a tedious process that should get as little attention as they can get away with. What if we viewed procurement as a tool to make sure that equipment purchased for development projects was truly appropriate for the context? That it could be repaired in the field and did not rely on proprietary standards? At the macro level, what if donors established demonstrable standards of repairability that equipment would have to meet in order to be eligible for procurement?
+Most development professionals view procurement as a tedious process that should receive as little attention as possible. What if we viewed procurement as a tool to make sure that equipment purchased for projects is truly appropriate for the context? That it could be repaired in the field and did not rely on proprietary standards? At the macro level, what if donors established demonstrable standards of repairability that equipment would have to meet to be eligible for procurement?
 
 ## Old Equipment is Not a Good Idea
 
-Some organizations will try to give equipment that has been cast off in the West a new lease on life in a developing country. These well-meaning efforts reason that a seven-year-old laptop or other device still has value to those who cannot afford a newer one. Unfortunately, this means importing equipment that is already well along in the hardware process without having a clear road to replacement (other than waiting for Americans to dump their next one and ship it over) and has been chosen for availability rather than appropriateness to context.
+Some organizations will try to give equipment that has been cast off in the West a new lease on life in a developing country. These well-meaning efforts reason that a 7-year-old laptop or other device still has value to those who cannot afford a newer one. Unfortunately, this means importing equipment that is already well along in the hardware process without having a clear road to replacement (other than waiting for Americans to dump their next one and ship it over) and has been chosen for availability rather than appropriateness to context.
 
 ## Support a Local Alternative
 
-Could your hardware need be produced, maintained, and replaced locally? This seems like science fiction to many in the aid sector, but [the DAI Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab) has been working with innovators around the world to build hardware and capacities around hardware since 2015. It may not be the best way to produce medical equipment or something you need 5,000 of, but I have been surprised at the places where I have been able to find the components and the talent to build out whole hardware processes.
+Could your hardware needs be produced, maintained, and replaced locally? This seems like science fiction to many in the aid sector, but the [DAI Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab) has been working with innovators around the world to build hardware and capacities around hardware since 2015. It may not be the best way to produce medical equipment or something you need 5,000 of, but I have been surprised at the places where I have been able to find the components and the talent to build out whole hardware processes.
 
 ## Develop Local Repair Capacities
 
-Organizations like [Field Ready](https://www.fieldready.org/) have been working with hospitals and others to empower them to repair their own equipment using techniques like digital fabrication. When designing institutional strengthening efforts, could you be building the capabilities of hospitals, water authorities, and other stakeholders to do advanced repair of their own equipment?
+Organizations such as [Field Ready](https://www.fieldready.org/) have been working with hospitals and others to empower them to repair their own equipment using techniques like digital fabrication. When designing institutional strengthening efforts, could you be building the capabilities of hospitals, water authorities, and other stakeholders to do advanced repair of their own equipment?
 
 ## Support Right to Repair
 
-At least for the moment, most of the equipment we use in development is designed and produced far away. U.S. farmers may have an outsized voice in the policy making process that impacts how that equipment process works, but our stakeholders generally do not. [You can be that voice](https://www.repair.org/). Because Right to Repair is a development issue.
+At least for the moment, most of the equipment we use in development is designed and produced far away. U.S. farmers may have an outsized voice in the policy-making process that impacts how that equipment process works, but our stakeholders generally do not. You can be [that voice](https://www.repair.org/). Because Right to Repair is a development issue.
