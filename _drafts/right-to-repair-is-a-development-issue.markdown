@@ -29,7 +29,7 @@ The trend toward monopolization of the hardware process is bad news for all of u
 
 Because hardware is a process, problems are almost never solved merely by dropping a machine. The whole process supporting that machine has to be taken into account: how will it be supported, serviced, repaired, and replaced? That is a complicated puzzle to solve, so the first question to ask is: is a machine really needed at all, or can this be done another way?
 
-## Procurement is Development Too
+## Procurement is Development, Too
 
 Most development professionals view procurement as a tedious process that should get as little attention as they can get away with. What if we viewed procurement as a tool to make sure that equipment purchased for development projects was truly appropriate for the context? That it could be repaired in the field and did not rely on proprietary standards? At the macro level, what if donors established demonstrable standards of repairability that equipment would have to meet in order to be eligible for procurement?
 
