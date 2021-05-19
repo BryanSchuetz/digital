@@ -27,7 +27,7 @@ The trend toward monopolization of the hardware process is bad news for all of u
 
 ## Consider the Whole Process
 
-Because hardware is a process, problems are almost never solved merely by dropping a machine. The whole process supporting that machine has to be taken into account: how will it be supported, serviced, repaired, and replaced? That is a complicated puzzle to solve, so the first question to ask is: is a machine really needed at all, or can this be done another way?
+Because hardware is a process, problems are almost never solved merely by dropping a machine. The whole process supporting that machine has to be taken into account: How will it be supported, serviced, repaired, and replaced? That is a complicated puzzle to solve, so the first question to ask is: Is a machine really needed at all, or can this be done another way?
 
 ## Procurement is Development, Too
 
