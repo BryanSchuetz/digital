@@ -1,4 +1,18 @@
 
+- title: "Right to Repair is a Development Issue"
+  pub: "Digital"
+  date: 2021-05-20
+  link: "https://dai-global-digital.com/right-to-repair-is-a-development-issue.html?utm_source=daidotcom"
+  summary: "Who owns the device you are reading this blog post on?
+
+It may seem like a straightforward question until a power surge fries a key circuit or a stray elbow knocks a unit to the floor. At this point, the process of repairing what you thought was your (or your employer’s) property is likely to get a bit more complicated: The device turns out to be held together with proprietary screws, contains deliberately unobtainable spare parts, has software locks that cannot be overridden without the manufacturer’s express permission, or other random features included specifically to seal you out.
+
+Source: TechSpot."
+  tags:
+    - digital acceleration 
+    - hardware 
+    - Digital Inclusion 
+
 - title: "Apply Now to Support USAID Missions through Digital Agriculture Ecosystem Assessments"
   pub: "Digital"
   date: 2021-05-13
@@ -216,16 +230,4 @@ Google Translate, and other mainstream machine translation tools, are also limit
     - consent 
     - Privacy 
     - humanitarian response 
-
-- title: "Racist Hardware and What to Do About It"
-  pub: "Digital"
-  date: 2021-01-14
-  link: "https://dai-global-digital.com/racist-hardware-and-what-to-do-about-it.html?utm_source=daidotcom"
-  summary: "In an astonishing letter to the editor published in the December 17, 2020, edition of the New England Journal of Medicine (NEJM), a group of five doctors from the University of Michigan Medical School presented findings from their study on adult inpatients receiving supplemental oxygen at the University’s hospital. They found that the variance between blood oxygen levels measured through a pulse oximeter—an optical device that estimates blood oxygen by analyzing the light absorbed in an extremity, usually a finger—and more rigorous (and invasive) analyses of arterial blood gas differed substantially depending on whether the patient was Black or white. Moreover, Black patients tended to get more optimistic readings from the oximeter. Such inaccuracies could quite possibly lead to worse clinical outcomes and could be particularly detrimental when treating COVID-19 as careful monitoring of patients’ blood oxygen levels can trigger lifesaving medical care.
-
-Against the backdrop of the ongoing global conversation about racism and bias, one might ask whether the pulse oximeters in this study are racist. Can a piece of hardware even be racist?"
-  tags:
-    - digital acceleration 
-    - Hardware 
-    - Makerspace 
 
