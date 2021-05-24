@@ -11,7 +11,7 @@ social-image: "/uploads/Krista.jpg"
 thumbnail: "/uploads/Krista.jpg"
 ---
 
-Fast Company has been around for decades…but is it relevant for digital development work? The publication was founded in 1995 at a time when business was changing the world in new ways. We now face a time when we continue to come to terms with the ways that technologies are transforming the ways we work and live – especially during the global pandemic of COVID-19. As I work with clients and projects focused on digital development, the businesses and organizations featured in FC can offer new ideas, inspiration, and out-of-the-box thinking to those of us heads down in global development projects.
+Fast Company has been around for decades…but is it relevant for digital development work? The publication was founded in 1995 at a time when business was changing the world in new ways. We now face a time when we continue to come to terms with the ways that technologies are transforming the ways we work and live—especially during the global pandemic of COVID-19. As I work with clients and projects focused on digital development, the businesses and organizations featured in FC can offer new ideas, inspiration, and out-of-the-box thinking to those of us heads down in global development projects.
 
 This week, I wanted to share some of the winners of [Fast Company’s 2021 World-Changing Ideas Awards](https://www.fastcompany.com/90623897)—and how they could apply to our work. World Changing Ideas is one of Fast Company’s major annual awards programs and is focused on social good, seeking to elevate finished products and brave concepts that make the world better.
 
