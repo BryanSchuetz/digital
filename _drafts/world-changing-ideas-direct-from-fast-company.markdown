@@ -1,6 +1,11 @@
 ---
 title: World Changing Ideas – Direct from Fast Company
-date: 2021-05-20 08:00:00 -04:00
+date: 2021-05-27 08:00:00 -04:00
+tags:
+- Innovation
+- Digital Financial Services
+- AI
+- E-Commerce
 Author: Krista Baptista
 social-image: "/uploads/Krista.jpg"
 thumbnail: "/uploads/Krista.jpg"
