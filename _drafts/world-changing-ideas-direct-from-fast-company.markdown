@@ -1,5 +1,5 @@
 ---
-title: World Changing Ideas – Direct from Fast Company
+title: World-Changing Ideas—Direct from Fast Company
 date: 2021-05-27 08:00:00 -04:00
 tags:
 - Innovation
