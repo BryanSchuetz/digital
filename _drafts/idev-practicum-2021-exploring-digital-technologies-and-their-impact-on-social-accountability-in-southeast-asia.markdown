@@ -1,6 +1,6 @@
 ---
-title: 'IDEV Practicum 2021: Exploring Digital Technologies and Their Impact on Social
-  Accountability in Southeast Asia'
+title: Exploring Digital Technologies and Their Impact on Social Accountability in
+  Southeast Asia
 date: 2021-05-24 09:51:00 -04:00
 social-image: "/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg"
 ---
