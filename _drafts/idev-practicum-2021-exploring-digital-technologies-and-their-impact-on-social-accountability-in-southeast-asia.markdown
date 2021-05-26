@@ -7,8 +7,8 @@ tags:
 - Digital Literacy
 Author: "[Ian Cocroft](https://www.linkedin.com/in/ian-cocroft/), [Connor Mackenzie](https://www.linkedin.com/in/connor-mackenzie/)
   and [Karen Lee](https://www.linkedin.com/in/karen-lee-187934123/)"
-social-image: "/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg"
-thumbnail: "/uploads/20191130%20-%20DI%20Office%20Photos-5.jpg"
+social-image: "/uploads/Inta.jpg"
+thumbnail: "/uploads/Inta.jpg"
 ---
 
 *Ian Cocroft, Karen Lee, and Connor MacKenzie are second-year master’s students in the international development program at the Johns Hopkins University School of Advanced International Studies (SAIS). The SAIS International Development (IDEV) practicum allows students to work directly with public, private, and nongovernmental organizations as a capstone to their graduate studies. Ian, Karen, and Connor worked with the Center for Digital Acceleration at DAI. The students conducted virtual research in Burma, Cambodia, Thailand, and Vietnam during the 2020-21 academic year to better understand how civil society organizations (CSOs) use digital technologies to support social accountability in public service delivery. The team’s final report provides DAI with considerations on how CSOs can better integrate digital technologies into their operations and highlights regional examples of digital tools for social accountability.*
