@@ -1,5 +1,6 @@
 ---
-title: Highlighting World Changing Ideas—Direct from Fast Company
+title: What Can Digital Development Practitioners Learn from the Winners of Fast Company's
+  World-Changing Ideas Awards?
 date: 2021-05-27 08:00:00 -04:00
 tags:
 - Innovation
