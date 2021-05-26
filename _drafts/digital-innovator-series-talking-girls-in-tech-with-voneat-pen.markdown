@@ -16,6 +16,8 @@ Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 
 From my perspective, Technovation got started and became very strong because just like in many other countries “women in tech” is not a common set of words seen all together. This is a big issue in Cambodia, especially in computer and STEM fields. The program started in Cambodia because of the need \[the gap\] in pre-university tech education, especially for girls. In 2014, I was in my last year in college, and I didn’t know anything about some parts of the sector. I had never even heard the word entrepreneur.
 
+![Chapter Ambassador Voneat Pen.jpg](/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg)`Chapter Ambassador Voneat Pen`
+
 **KATE**: This year was the 7th Technovation season in Cambodia. How did it go?
 
 **VONEAT**: This year was harder than last year. In 2020, we went to the provinces and recruited mentors and mentees before COVID hit. This pre-program was helpful, even critical. In 2021, we had trouble attracting funding because our last donor changed their funding process. We realized in November that we had to move forward without funding. Then, the second wave of COVID-19 hit before we could get out to promote the program. I could only get to one province, Battambang, to talk to existing partners (Technovation Clubs that coordinate programs in their villages/towns). We knew we needed to coordinate with groups like them and build a team in Battambang so they could coordinate with each other. Unfortunately, there was little momentum without the pre-program! We had to do it all virtually.
@@ -33,6 +35,10 @@ We saw so many strong pitches. One powerful team focused on attacking depression
 The other secret is availability. During the submission week, I always make myself available to the teams for technical questions and making compromises with their design \[so they can finalize their submissions\]. A lot of teams give up right at the end. I always give teams this advice - show your work! Whatever you have, put it out there! Finish the project and show people what you did even if it isn’t perfect.
 
 This year we (and Technovation Global) also shifted to accepting dual language applications. This was especially important for the National Pitch because not everyone felt comfortable pitching in English or answering questions from the judges in English. This helped the program be more accessible for teams from the provinces, especially.
+
+![The Technovation community worked with the Ministry of Education, sponsor Khmer Enterprise, and teams across the country to run a successful national pitch event..jpg](/uploads/The%20Technovation%20community%20worked%20with%20the%20Ministry%20of%20Education,%20sponsor%20Khmer%20Enterprise,%20and%20teams%20across%20the%20country%20to%20run%20a%20successful%20national%20pitch%20event/jpg)
+
+`The Technovation community worked with the Ministry of Education, sponsor Khmer Enterprise, and teams across the country to run a successful national pitch event`
 
 **KATE**: So many practical lessons here! Anything else you learned while coordinating this complex education program?
 
