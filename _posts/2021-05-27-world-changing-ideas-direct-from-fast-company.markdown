@@ -1,7 +1,7 @@
 ---
 title: Fast Company's World-Changing Ideas Awards Highlight Opportunities for Digital
   Development
-date: 2021-05-26 08:00:00 -04:00
+date: 2021-05-27 08:00:00 -04:00
 tags:
 - Innovation
 - Digital Financial Services
