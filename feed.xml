@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 May 2021 07:58:48 -0400</pubDate>
-    <lastBuildDate>Thu, 27 May 2021 07:58:48 -0400</lastBuildDate>
+    <pubDate>Thu, 27 May 2021 08:12:08 -0400</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 08:12:08 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -17,7 +17,7 @@
 &lt;p&gt;This week, I wanted to share some of the winners of Fast Company’s &lt;a href=&quot;https://www.fastcompany.com/90623897&quot;&gt;2021 World-Changing Ideas Awards&lt;/a&gt;—and how these innovations could apply to our work. World Changing Ideas is one of Fast Company’s major annual awards programs and is focused on social good, seeking to elevate finished products and brave concepts that make the world better.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 26 May 2021 08:00:00 -0400</pubDate>
+        <pubDate>Thu, 27 May 2021 08:00:00 -0400</pubDate>
         <author>Krista Baptista
 </author>
         <link>https://dai-global-digital.com/world-changing-ideas-direct-from-fast-company.html</link>
@@ -30,6 +30,27 @@
         <category>AI</category>
         
         <category>E-Commerce</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Inta.jpg" medium="image" /> 
+        <title>New Research Explores Digital Technologies and Their Impact on Social Accountability in Southeast Asia</title>
+        <description>&lt;p&gt;&lt;em&gt;Ian Cocroft, Karen Lee, and Connor MacKenzie are second-year master’s students in the international development program at the Johns Hopkins University School of Advanced International Studies (SAIS). The SAIS International Development (IDEV) practicum allows students to work directly with public, private, and nongovernmental organizations as a capstone to their graduate studies. Ian, Karen, and Connor worked with the Center for Digital Acceleration at DAI. The students conducted virtual research in Burma, Cambodia, Thailand, and Vietnam during the 2020-21 academic year to better understand how civil society organizations (CSOs) use digital technologies to support social accountability in public service delivery. The team’s final report provides DAI with considerations on how CSOs can better integrate digital technologies into their operations and highlights regional examples of digital tools for social accountability.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Our practicum team worked with DAI’s Center for Digital Acceleration on a regional study about how CSOs in Burma, Thailand, and Vietnam use digital technologies for social accountability in public service delivery, providing a series of recommendations for the U.S. Agency for International Development-funded &lt;a href=&quot;https://www.fhi360.org/projects/innovations-social-accountability-cambodia-isac&quot;&gt;Innovations for Social Accountability in Cambodia (ISAC) program&lt;/a&gt;. As part of our research, we undertook an extensive literature review and held Zoom interviews with country representatives from CSOs, tech organizations, and multilateral institutions.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 May 2021 08:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/ian-cocroft/">Ian Cocroft</a>, <a href="https://www.linkedin.com/in/connor-mackenzie/">Connor Mackenzie</a> and <a href="https://www.linkedin.com/in/karen-lee-187934123/">Karen Lee</a>
+</author>
+        <link>https://dai-global-digital.com/idev-practicum-2021-exploring-digital-technologies-and-their-impact-on-social-accountability-in-southeast-asia.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/idev-practicum-2021-exploring-digital-technologies-and-their-impact-on-social-accountability-in-southeast-asia.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Digital Literacy</category>
         
         
       </item>
@@ -196,27 +217,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/apply-now-digital-development-strategic-communications-support-iqc.html</guid>
         
         <category>RFP</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/anand.jpeg" medium="image" /> 
-        <title>Beyond Features: Designing for the World’s ‘Digital Explorers’</title>
-        <description>&lt;p&gt;In a recent post, former U.K. parliamentarian and current Vice President for Global Affairs and Communications at Facebook, Nick Clegg wrote an extensive &lt;a href=&quot;https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2&quot;&gt;defense&lt;/a&gt; of the company’s role in political polarization and the spread of hate speech, among other contemporary issues. Clegg’s argument is summed up in the title of the piece: “You and the Algorithm: It Takes Two to Tango.”&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 08 Apr 2021 06:00:00 -0400</pubDate>
-        <author>Anand Varghese
-</author>
-        <link>https://dai-global-digital.com/beyond-features-designing-for-the-worlds-digital-explorers.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/beyond-features-designing-for-the-worlds-digital-explorers.html</guid>
-        
-        <category>Think Piece</category>
-        
-        <category>AI</category>
-        
-        <category>Social Media</category>
         
         
       </item>

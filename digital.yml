@@ -1,7 +1,7 @@
 
 - title: "Fast Company's World-Changing Ideas Awards Highlight Opportunities for Digital Development"
   pub: "Digital"
-  date: 2021-05-26
+  date: 2021-05-27
   link: "https://dai-global-digital.com/world-changing-ideas-direct-from-fast-company.html?utm_source=daidotcom"
   summary: "Fast Company magazine has been around for decades…but is it relevant for digital development work? The publication was founded in 1995 at a time when business was changing the world in new ways. Today, 26 years later, we are still coming to terms with the ways that technologies are transforming the ways we work and live—especially during the COVID-19 global pandemic. As I work with clients and projects focused on digital development, the businesses and organizations featured in Fast Company offer new ideas, inspiration, and out-of-the-box thinking to those of us heads down in global development projects.
 
@@ -12,6 +12,18 @@ This week, I wanted to share some of the winners of Fast Company’s 2021 World-
     - Digital Financial Services 
     - AI 
     - E-Commerce 
+
+- title: "New Research Explores Digital Technologies and Their Impact on Social Accountability in Southeast Asia"
+  pub: "Digital"
+  date: 2021-05-27
+  link: "https://dai-global-digital.com/idev-practicum-2021-exploring-digital-technologies-and-their-impact-on-social-accountability-in-southeast-asia.html?utm_source=daidotcom"
+  summary: "Ian Cocroft, Karen Lee, and Connor MacKenzie are second-year master’s students in the international development program at the Johns Hopkins University School of Advanced International Studies (SAIS). The SAIS International Development (IDEV) practicum allows students to work directly with public, private, and nongovernmental organizations as a capstone to their graduate studies. Ian, Karen, and Connor worked with the Center for Digital Acceleration at DAI. The students conducted virtual research in Burma, Cambodia, Thailand, and Vietnam during the 2020-21 academic year to better understand how civil society organizations (CSOs) use digital technologies to support social accountability in public service delivery. The team’s final report provides DAI with considerations on how CSOs can better integrate digital technologies into their operations and highlights regional examples of digital tools for social accountability.
+
+Our practicum team worked with DAI’s Center for Digital Acceleration on a regional study about how CSOs in Burma, Thailand, and Vietnam use digital technologies for social accountability in public service delivery, providing a series of recommendations for the U.S. Agency for International Development-funded Innovations for Social Accountability in Cambodia (ISAC) program. As part of our research, we undertook an extensive literature review and held Zoom interviews with country representatives from CSOs, tech organizations, and multilateral institutions."
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+    - Digital Literacy 
 
 - title: "Right to Repair is a Development Issue"
   pub: "Digital"
@@ -220,17 +232,4 @@ Most people who have engaged with learning this past year have had some kind of 
     - digital acceleration 
     - cybersecurity 
     - Disinformation 
-
-- title: "Towards Inclusive Machine Translation: A Case for User-Centered Design in Machine Learning"
-  pub: "Digital"
-  date: 2021-01-28
-  link: "https://dai-global-digital.com/understanding-user-centered-design-for-machine-learning.html?utm_source=daidotcom"
-  summary: "In November 2020, Masakhane, a grassroots natural language process (NLP) community whose “mission is to strengthen and spur NLP in African languages, for Africans, by Africans,” published a paper titled “Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages.” Machine translation refers to the use of software to translate digital and nondigital text and speech from one language into another. Google Translate is one of the more common examples of machine translation. Most of us have experienced issues translating text, especially sentences and phrases, as Google Translate often has difficulty detecting meaning and context. Due to these challenges, it can often give users incorrect word-for-word translations. (In your free time, search for the #GoogleTranslateFail hashtag on Twitter for a whole host of mistranslated content and a good laugh.)
-
-Google Translate, and other mainstream machine translation tools, are also limited in the number of languages they are able to translate. As of today, Google Translate offers support for only 108 of the more than 7,000 languages spoken across the globe. Many of the languages that are not supported are what machine learning researchers consider to be “low-resourced,” a term used to describe languages that have few digital resources available and, more importantly, that are less commonly taught, endangered, or low density. The Masakhane paper outlines an alternative “participatory” approach for low-resourced languages to standard NLP tasks such as crowd-sourced annotation for training data and evaluation benchmarks. To learn more about the basics of NLP, head to our previous blog post on the importance of NLP in development."
-  tags:
-    - digital acceleration 
-    - Machine Learning 
-    - Human-centered design 
-    - Digital Inclusion 
 
