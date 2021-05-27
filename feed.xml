@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 15:26:44 -0400</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 15:26:44 -0400</lastBuildDate>
+    <pubDate>Thu, 27 May 2021 07:58:48 -0400</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 07:58:48 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Krista.jpg" medium="image" /> 
+        <title>Fast Company's World-Changing Ideas Awards Highlight Opportunities for Digital Development</title>
+        <description>&lt;p&gt;Fast Company magazine has been around for decades…but is it relevant for digital development work? The publication was founded in 1995 at a time when business was changing the world in new ways. Today, 26 years later, we are still coming to terms with the ways that technologies are transforming the ways we work and live—especially during the COVID-19 global pandemic. As I work with clients and projects focused on digital development, the businesses and organizations featured in Fast Company offer new ideas, inspiration, and out-of-the-box thinking to those of us heads down in global development projects.&lt;/p&gt;
+
+&lt;p&gt;This week, I wanted to share some of the winners of Fast Company’s &lt;a href=&quot;https://www.fastcompany.com/90623897&quot;&gt;2021 World-Changing Ideas Awards&lt;/a&gt;—and how these innovations could apply to our work. World Changing Ideas is one of Fast Company’s major annual awards programs and is focused on social good, seeking to elevate finished products and brave concepts that make the world better.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 26 May 2021 08:00:00 -0400</pubDate>
+        <author>Krista Baptista
+</author>
+        <link>https://dai-global-digital.com/world-changing-ideas-direct-from-fast-company.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/world-changing-ideas-direct-from-fast-company.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Digital Financial Services</category>
+        
+        <category>AI</category>
+        
+        <category>E-Commerce</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2018-04-11-image-6.webp" medium="image" /> 
@@ -192,25 +217,6 @@
         <category>AI</category>
         
         <category>Social Media</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Samantha.jpg" medium="image" /> 
-        <title>What is Agile? Part One: The Story Behind the Buzzword</title>
-        <description>&lt;p&gt;Agile methodology has been a trending topic for a while now and it typically describes a wide range of approaches to software development, project management, and even &lt;a href=&quot;https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family?language=en&quot;&gt;raising children&lt;/a&gt;. Everyone loves to say they work on an agile team or to describe their company as an agile organization. While it’s true that its widespread use has changed the way people work, the details around agile have started to become diluted to the point where no one really knows what it means anymore. The Agile Alliance, an organization that supports those who use Agile, defines it broadly as “&lt;a href=&quot;https://www.agilealliance.org/agile101/&quot;&gt;the ability to create and respond to change.”&lt;/a&gt; This post is the first in a series aimed at unpacking this buzzword and how the set of ideas it represents can be used effectively in international development contexts.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 31 Mar 2021 06:00:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/samantha-weinberg">Samantha Weinberg</a>
-</author>
-        <link>https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html</guid>
-        
-        <category>agile</category>
-        
-        <category>software development</category>
         
         
       </item>
