@@ -1,5 +1,5 @@
 ---
-title: Fast Company's World-Changing Ideas Awards Highlight Opportunities for Digital
+title: Fast Company's World Changing Ideas Awards Highlight Opportunities for Digital
   Development
 date: 2021-05-27 08:00:00 -04:00
 tags:
@@ -30,9 +30,9 @@ The overall winner this year is Microsoft’s Premonition Platform. This platfor
 
 *Application:* Platforms like Premonition present opportunities for digital development. Combining hardware and software tools to generate better data from dispersed, networked locations could revolutionize response and tracking in a host of areas. In addition, they could contribute to the global imperative to do a better job of prepping for pandemics. Overlaying opportunities for [MakerLab](https://dai-global-digital.com/five-trends-in-hardware-to-watch.html?utm_source=related-box) hardware—using sensors and low cost, locally sourced materials, and open data tools could increase affordability and extend the benefits of these types of platforms to more emerging markets—solving digital development challenges and innovating locally.
 
-## [Leaf](https://www.fastcompany.com/90616511/this-fintech-solution-helps-african-refugees-store-and-send-money)
+## [Leaf Global](https://www.fastcompany.com/90616511/this-fintech-solution-helps-african-refugees-store-and-send-money)
 
-The winner of the developing world technology category in [Fast Company’s 2021 World Changing Ideas Awards](https://www.fastcompany.com/90623897)—is a money storage solution that allows individuals to carry digital cash into Kenya, Uganda, and Rwanda, where Leaf currently operates. “It is a digital wallet that goes with the customer wherever they go,” says the founder, X Samples. Leaf aims to reduce remittance costs by rolling out a distributed ledger (blockchain) based technology that works across different types of mobile devices. The company hopes to ultimately create a lending product to help refugees as they set up enterprises in new countries, so that these unbanked or underbanked individuals can benefit from a financial identity and transaction history.
+The winner of the developing world technology category in [Fast Company’s 2021 World Changing Ideas Awards](https://www.fastcompany.com/90623897)—is a money storage solution that allows individuals to carry digital cash into Kenya, Uganda, and Rwanda, where Leaf Global currently operates. “It is a digital wallet that goes with the customer wherever they go,” says the founder, X Samples. Leaf aims to reduce remittance costs by rolling out a distributed ledger (blockchain) based technology that works across different types of mobile devices. The company hopes to ultimately create a lending product to help refugees as they set up enterprises in new countries, so that these unbanked or underbanked individuals can benefit from a financial identity and transaction history.
 
 *Application:* Development has seen serious innovation in the financial services space. What is interesting about this technology is that it is focused on digital cash in emerging markets from the outset and is already getting traction from other funders. I think iterating on new business models that can reduce costs and increase the speed of financial products to consumers—such as Leaf is doing through the use of blockchain tech—could take the digital financial services sector to the next level. COVID-19 has only underscored the importance of using digital cash transfers *and* also ensuring marginalized groups are not left behind.
 
