@@ -56,4 +56,4 @@ This year we (and Technovation Global) also shifted to accepting dual-language a
 
 **VONEAT**: The [Technovation platform](https://technovationchallenge.org/) is open for you! You can build and connect yourself into the program to create your own club or chapter. Before you launch, though, join a team in your region or your country, and volunteer as a mentor to see how it works. Now, it is getting even easier with Technovation’s global platform, you can connect globally and build cross-country clubs.
 
-Check out the [Technovation Cambodia National Pitch 2021.](https://fb.watch/5ArdTQ2dmH/)
+*Check out the [Technovation Cambodia National Pitch 2021.](https://fb.watch/5ArdTQ2dmH/)*
