@@ -9,13 +9,13 @@ social-image: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 thumbnail: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 ---
 
-*Kate Heuisler recently spoke with Voneat Pen, the Chapter Ambassador for [Technovation](https://technovationcambodia.com/) in Cambodia, about her work growing the successful all-girl tech entrepreneurship education program for the seventh year in a row. While juggling her roles as the co-founder of the tech startup [606](https://www.facebook.com/606Digital/), a programmer and STEM advocate, Voneat has been instrumental to Technovation’s success during its most challenging years. When COVID-19 pushed the program totally online overnight, the Technovation community (and its partners) were still able to successfully engage new all-girl teams, mentors, schools, and provinces across the country. To date, Technovation has helped connect more than 2,000 Cambodian girls to essential 21st century tech creator skills.*
+*Kate Heuisler recently spoke with Voneat Pen, the Chapter Ambassador for [Technovation](https://technovationcambodia.com/) in Cambodia, about her work growing the successful all-girl tech entrepreneurship education program for the seventh year in a row. While juggling her roles as the co-founder of the tech startup [606](https://www.facebook.com/606Digital/), a programmer and STEM advocate, Voneat has been instrumental to Technovation’s success during its most challenging years. When COVID-19 pushed the program online overnight, the Technovation community (and its partners) were still able to successfully engage new all-girl teams, mentors, schools, and provinces across the country. To date, Technovation has helped connect more than 2,000 Cambodian girls to essential 21st-century tech creator skills.*
 
 *This is an excerpt from that interview.*
 
 <!--more-->
 
-**KATE**: Hi Voneat! First, tell our Digital@DAI audience about Technovation from your perspective. What does the program do – and how did it get started in Cambodia?
+**KATE**: First, tell our Digital@DAI audience about Technovation from your perspective. What does the program do—and how did it get started in Cambodia?
 
 **VONEAT**: Technovation started in 2014 under the DAI-run [Development Innovations](https://www.development-innovations.org/) (DI) project as one of its first programs. I joined Technovation in 2017 as a technical mentor. DI handed over the management of Technovation in 2018 to the Technovation Community in partnership with Institute for Technology for Cambodia (ITC) and the Ministry of Education Youth and Sport. In 2020, I started as the Technovation Regional Ambassador (now called the Chapter Ambassador).
 
