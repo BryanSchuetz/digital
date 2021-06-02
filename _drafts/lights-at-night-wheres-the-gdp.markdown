@@ -1,5 +1,5 @@
 ---
-title: How Satellite Imagery and 'Light at Night' Helps Development Practitioners
+title: How Satellite Imagery and 'Light at Night’ Helps Development Practitioners
   Estimate GDP
 date: 2021-06-03 08:00:00 -04:00
 categories:
@@ -30,11 +30,11 @@ Additionally, GDP data is often only available at a national scale ([gross regio
 
 ![north_korea.png](/uploads/north_korea.png)`Source: NASA & DMSP.`
 
-One example can be seen above. I bet it is not difficult to pick out where North Korea is, and inside North Korea, which blips of light are Pyongyang. The overall darkness in North Korea stands in stark contrast to neighboring South Korea and Japan, both of which have industrialized economies with high GDP output. From a purely visual analysis, we can confidently surmise that the GDP output of North Korea is rather low, and we would be correct.
+One example can be seen above. I bet it is not difficult to pick out where North Korea is, and inside North Korea, which blips of light are coming from Pyongyang. The overall darkness in North Korea stands in stark contrast to neighboring South Korea and Japan, both of which have industrialized economies with high GDP output. From a purely visual analysis, we can confidently surmise that the GDP output of North Korea is rather low, and we would be correct.
 
-There is a caveat here in that this technology does not directly account for economies that are more heavily based in agriculture or those not as widely electrified. These economies will have far greater land areas where little to not light will be emitted, potentially skewing results if analysts done take key information like this into account. Take a look at the rainforests in Africa and South America, and any areas with wide swaths of desert (or ice). You will not find much light coming from these places, but the this does not by any means indicate there is no economic output at all, simply less than locations where tens, hundreds, thousands, or millions of people concentrate and subsequently interact and trade heavily beyond sunset. This dataset has a wide range of values for the light it captures and this is where visual analysis in a vacuum becomes limited. While the human eye cannot perceive a difference in this map, the infrared sensor on VIIRS is more discerning and this variability shows up in the dataset. Those dark areas you see can actually still be quite active!
+There is a caveat here in that this technology does not directly account for economies that are more heavily based in agriculture or those not as widely electrified. These economies will have far greater land areas where little to no light will be emitted, potentially skewing results if analysts don't take key information like this into account. Take a look at the rainforests in Africa and South America and any areas with wide swaths of desert (or ice). You will not find much light coming from these places, but this does not by any means indicate there is no economic output at all, simply less than locations where tens, hundreds, thousands, or millions of people concentrate and subsequently interact and trade heavily beyond sunset. This dataset has a wide range of values for the light it captures and this is where visual analysis in a vacuum becomes limited. While the human eye cannot perceive a difference in this map, the infrared sensor on VIIRS is more discerning and this variability shows up in the dataset. Those dark areas you see can actually still be quite active!
 
-![africa_night.png](/uploads/africa_night.png) Source: NASA & DMSP
+![africa_night.png](/uploads/africa_night.png)`Source: NASA & DMSP.`
 
 There exist numerous methodologies designed and tested in academia that calculate estimated GDP or economic activity based on night lights that I wont get into in the scope of this article, but it is important to note that these methods are to be taken as reasonably accurate proxies for economic activity. We are always talking estimates here and no analysis can be perfect, but the value-add of this data to increase awareness of human activity and aid in decision-making cannot be understated. I believe these data provide maximum benefit and are best used when combined with other data sources and analytic methods to add clarity to hypotheses and robustness and insight to analytic results.
 
