@@ -16,10 +16,9 @@ social-image: "/uploads/712130main_8246931247_e60f3c09fb_o.jpg"
 thumbnail: "/uploads/712130main_8246931247_e60f3c09fb_o.jpg"
 ---
 
-![712130main_8246931247_e60f3c09fb_o-df5bef.jpg](/uploads/712130main_8246931247_e60f3c09fb_o-df5bef.jpg)
-`Source: NASA and DMSP`
+I am sure many of you have come across a map like the one below. I find that images of our planet are always awe-inspiring and this image is certainly not an exception. I can easily get lost in satellite imagery for hours if I am not careful. Most of those images are based on visual spectrum optical technology (LandSAT, Sentinel, etc.), thus requiring daylight for the powerful digital cameras to “see.” Remote sensing satellites such as [VIIRS](https://ncc.nesdis.noaa.gov/VIIRS/)—which DAI uses for its analysis—are equipped with special infrared equipment and able to capture beautiful images of the earth at night!
 
-I am sure many of you have come across a map like this one before. I find that images of our planet are always awe-inspiring and the image above certainly not an exception. I can easily get lost in satellite imagery for hours if I am not careful. Most of those images are based on visual spectrum optical technology (LandSAT, Sentinel, etc), thus requiring daylight for the powerful digital cameras to “see.” Remote sensing satellites like [VIIRS ](https://ncc.nesdis.noaa.gov/VIIRS/) (which DAI uses for its analysis) are equipped with special infrared equipment and able to capture beautiful images of the Earth at night!\
+![712130main_8246931247_e60f3c09fb_o-df5bef.jpg](/uploads/712130main_8246931247_e60f3c09fb_o-df5bef.jpg)`Source: NASA and DMSP.`
 
 <!--more-->
 
