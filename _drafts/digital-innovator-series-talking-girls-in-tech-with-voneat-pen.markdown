@@ -4,6 +4,7 @@ date: 2021-06-03 08:00:00 -04:00
 tags:
 - Digital Innovator Series
 - Entrepreneurship
+- COVID-19
 Author: "[Kate Heuisler](https://www.dai.com/who-we-are/our-team/kate-heuisler)"
 social-image: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 thumbnail: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
@@ -15,17 +16,17 @@ thumbnail: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 
 <!--more-->
 
-**KATE**: First, tell our Digital@DAI audience about Technovation from your perspective. What does the program do—and how did it get started in Cambodia?
+**KATE**: Tell our audience about Technovation from your perspective. What does the program do—and how did it get started in Cambodia?
 
-**VONEAT**: Technovation started in 2014 under the DAI-run [Development Innovations](https://www.development-innovations.org/) (DI) project as one of its first programs. I joined Technovation in 2017 as a technical mentor. DI handed over the management of Technovation in 2018 to the Technovation Community in partnership with Institute for Technology for Cambodia (ITC) and the Ministry of Education Youth and Sport. In 2020, I started as the Technovation Regional Ambassador (now called the Chapter Ambassador).
+**VONEAT**: Technovation started in 2014 under the DAI-led [Development Innovations](https://www.development-innovations.org/) (DI) project as one of its first programs. I joined Technovation in 2017 as a technical mentor. DI handed over the management of Technovation in 2018 to the Technovation Community in partnership with the Institute for Technology for Cambodia (ITC) and the Ministry of Education Youth and Sport. In 2020, I started as the Technovation Regional Ambassador (now called the Chapter Ambassador).
 
-From my perspective, Technovation started and became very strong because just like in many other countries “women in tech” is not a common set of words seen all together. This is a big issue in Cambodia, especially in computer and STEM fields. The program started in Cambodia because of the need \[the gap\] in pre-university tech education, especially for girls. In 2014, I was in my last year in college, and I didn’t know anything about some parts of the sector. I had never even heard the word entrepreneur.
+“Women in tech” is not a common set of words seen altogether. This is a big issue in Cambodia, especially in the computer and STEM fields. The program started in Cambodia because of the need—the gap—in pre-university tech education, especially for girls. In 2014, I was in my last year in college, and I didn’t know anything about some parts of the sector. I had never even heard the word entrepreneur.
 
-![Chapter Ambassador Voneat Pen.jpg](/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg)`Chapter Ambassador Voneat Pen`
+![Chapter Ambassador Voneat Pen.jpg](/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg)`Chapter Ambassador Voneat Pen.`
 
-**KATE**: This year was the 7th Technovation season in Cambodia. How did it go?
+**KATE**: This year was the seventh Technovation season in Cambodia. How did it go?
 
-**VONEAT**: This year was harder than last year. In 2020, we went to the provinces and recruited mentors and mentees before COVID hit. This pre-program was helpful, even critical. In 2021, we had trouble attracting funding because our last donor changed their funding process. We realized in November that we had to move forward without funding. Then, the second wave of COVID-19 hit before we could get out to promote the program. I could only get to one province, Battambang, to talk to existing partners (Technovation Clubs that coordinate programs in their villages/towns). We knew we needed to coordinate with groups like them and build a team in Battambang so they could coordinate with each other. Unfortunately, there was little momentum without the pre-program! We had to do it all virtually.
+**VONEAT**: This year was harder than last year. In 2020, we went to the provinces and recruited mentors and mentees before COVID-19 hit. This pre-program was helpful, even critical. In 2021, we had trouble attracting funding because our last donor changed their funding process. We realized in November that we had to move forward without funding. Then, the second wave of COVID-19 hit before we could get out to promote the program. I could only get to one province, Battambang, to talk to existing partners (Technovation Clubs that coordinate programs in their villages/towns). We knew we needed to coordinate with groups like them and build a team in Battambang so they could coordinate with each other. Unfortunately, there was little momentum without the pre-program! We had to do it all virtually.
 
 **KATE**: That is not easy. How many teams completed the program this year?
 
