@@ -1,5 +1,5 @@
 ---
-title: How Satellite Imagery and 'Light at Night’ Helps Development Practitioners
+title: How Satellite Imagery and ‘Light at Night’ Helps Development Practitioners
   Estimate GDP
 date: 2021-06-03 08:00:00 -04:00
 categories:
