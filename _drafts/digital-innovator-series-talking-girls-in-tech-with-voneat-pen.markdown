@@ -40,20 +40,20 @@ We saw so many strong pitches. One powerful team focused on attacking depression
 
 **VONEAT**: Video is part of our secret. We use it at critical moments in the season to deliver messages to the girls. For example, we film alumnae from previous years talking about how frustrated they were right at the end of the four-month program. We release this video to pull the stories together—highlighting both teams that won and that didn’t win. This motivates teams to push to the finish line.
 
-The other secret is availability. During the submission week, I always make myself available to the teams for technical questions and making compromises with their design \[so they can finalize their submissions\]. A lot of teams give up right at the end. I always give teams this advice - show your work! Whatever you have, put it out there! Finish the project and show people what you did even if it isn’t perfect.
+The other secret is availability. During the submission week, I always make myself available to the teams for technical questions and making compromises with their designs. A lot of teams give up right at the end. I always give teams this advice—show your work! Whatever you have, put it out there! Finish the project and show people what you did even if it isn’t perfect.
 
-This year we (and Technovation Global) also shifted to accepting dual language applications. This was especially important for the National Pitch because not everyone felt comfortable pitching in English or answering questions from the judges in English. This helped the program be more accessible for teams from the provinces, especially.
+This year we (and Technovation Global) also shifted to accepting dual-language applications. This was especially important for the national pitch because not everyone felt comfortable pitching in English or answering questions from the judges in English. This helped the program be more accessible for teams from the provinces, especially.
 
 **KATE**: So many practical lessons here! Anything else you learned while coordinating this complex education program?
 
-**VONEAT**: No matter how big or small something is – it requires 101% effort. In order to sustain Technovation in the future, and we are working on that, we need to help more students have tools to self-learn, and empower local champions and clubs in the provinces to have the tools to be able to support new teams.
+**VONEAT**: No matter how big or small something is—it requires 101 percent effort. To sustain Technovation in the future, and we are working on that, we need to help more students have tools to self-learn, and empower local champions and clubs in the provinces to have the tools to be able to support new teams.
 
 **KATE**: What is next for Technovation in 2022 and beyond?
 
-**VONEAT**: In 2022 I plan to do a lot of things! COVID-19 hit us hard. Last year, we wanted to have a nationwide festival to showcase the alumnae teams from the past. I hope we can still do this. We also want to work with mentors and create more videos – especially for lessons on coding. As a computer science student myself, I know how important it is to have videos that explain the detailed process for students so they can follow through all the way.
+**VONEAT**: In 2022 I plan to do a lot of things! COVID-19 hit us hard. Last year, we wanted to have a nationwide festival to showcase the alumnae teams from the past. I hope we can still do this. We also want to work with mentors and create more videos—especially for lessons on coding. As a computer science student myself, I know how important it is to have videos that explain the detailed process for students so they can follow through all the way.
 
 **KATE**: What advice do you have for others around the world who want to help more girls get access to tech entrepreneurship and tech creator skills?
 
-**VONEAT**: The [Technovation platform](https://technovationchallenge.org/) is open for you! You can build and connect yourself into the program to create your own club or chapter. Before you launch, though, join a team in your region or your country, and volunteer as a mentor to see how it works. Now, it is getting even easier with Technovation’s global platform, you can connect globally and build cross country clubs.
+**VONEAT**: The [Technovation platform](https://technovationchallenge.org/) is open for you! You can build and connect yourself into the program to create your own club or chapter. Before you launch, though, join a team in your region or your country, and volunteer as a mentor to see how it works. Now, it is getting even easier with Technovation’s global platform, you can connect globally and build cross-country clubs.
 
-Check out the [Technovation Cambodia National Pitch 2021](https://fb.watch/5ArdTQ2dmH/)
+Check out the [Technovation Cambodia National Pitch 2021.](https://fb.watch/5ArdTQ2dmH/)
