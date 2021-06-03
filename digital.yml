@@ -1,4 +1,18 @@
 
+- title: "How Satellite Imagery and ‘Light at Night’ Helps Development Practitioners Estimate GDP"
+  pub: "Digital"
+  date: 2021-06-03
+  link: "https://dai-global-digital.com/lights-at-night-wheres-the-gdp.html?utm_source=daidotcom"
+  summary: "I am sure many of you have come across a map like the one below. I find that images of our planet are always awe-inspiring and this image is certainly not an exception. I can easily get lost in satellite imagery for hours if I am not careful. Most of those images are based on visual spectrum optical technology (LandSAT, Sentinel, etc.), thus requiring daylight for the powerful digital cameras to “see.” Remote sensing satellites such as VIIRS—which DAI uses for its analysis—are equipped with special infrared equipment and able to capture beautiful images of the earth at night!
+
+Source: NASA and DMSP."
+  tags:
+    - digital acceleration 
+    - GIS 
+    - Satellite 
+    - Imagery 
+    - Imagery Analysis 
+
 - title: "Fast Company's World Changing Ideas Awards Highlight Opportunities for Digital Development"
   pub: "Digital"
   date: 2021-05-27
@@ -222,14 +236,4 @@ Most people who have engaged with learning this past year have had some kind of 
     - Cybersecurity 
     - Disinformation 
     - Digital Inclusion 
-
-- title: "What Are We Reading about Misinformation and Disinformation?"
-  pub: "Digital"
-  date: 2021-02-04
-  link: "https://dai-global-digital.com/what-is-cda-reading-about-misinformation-and-disinformation.html?utm_source=daidotcom"
-  summary: "After the insurrection/uprising/riot/attack/craziness/failed coup attempt (take your pick) at the U.S. Capitol building a few weeks ago, misinformation and disinformation are back in the news with a vengeance. While the bulk of the public’s attention has been on U.S. domestic mis/disinfo related to QAnon and other 2020 presidential election conspiracies, it got us at the Center for Digital Acceleration (CDA) thinking about our favorite websites, blogs, and resources about mis/disinfo in the Global South or specifically for international development practitioners."
-  tags:
-    - digital acceleration 
-    - cybersecurity 
-    - Disinformation 
 
