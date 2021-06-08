@@ -34,7 +34,7 @@ thumbnail: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 
 We saw so many strong pitches. One powerful team focused on attacking depression among teenagers, another team tried to tackle environmental problems in their communities, and one team developed a solution to help people share used books so more people can read them.
 
-![Kate.jpg](/uploads/Kate.jpg)`The Technovation community worked with the Ministry of Education, sponsor Khmer Enterprise, and teams across the country to run a successful national pitch event.`
+![Kate.jpg](/uploads/Kate.jpg)`The Technovation community worked with the Ministry of Education, the Ministry of Economy and Finance, sponsor Khmer Enterprise, and teams across the country to run a successful national pitch event.`
 
 **KATE**: I know it is incredibly complex and challenging to run something with so many moving parts and partners. It sounds like it was also hard to keep people motivated virtually. Tell us your secrets.
 
