@@ -1,6 +1,6 @@
 ---
 title: 'Digital Innovator Series: Talking Girls in Tech with Voneat Pen'
-date: 2021-06-08 08:00:00 -04:00
+date: 2021-06-03 08:00:00 -04:00
 tags:
 - Digital Innovator Series
 - Entrepreneurship
@@ -33,6 +33,10 @@ thumbnail: "/uploads/Chapter%20Ambassador%20Voneat%20Pen.jpg"
 **VONEAT**: Around the world, 1,700 teams submitted application packages from more than 60 countries! In Cambodia, we started with 39 teams this year—the lack of pre-programming and promotion really affected us. In 2021, it was hard to connect girls to one another because of the internet, and the lack of personal connections. Mentors didn’t know how to break the ice virtually, and this was challenging. Sometimes I joined the groups online to help facilitate, but it didn’t work with everyone. Fast forward, I was monitoring the Technovation dashboard two weeks before the competition, and I was freaked out! The number of submissions wasn’t high yet. I knew from the discussions on the Telegram channel that there were a lot of teams working on this, but they just hadn’t submitted anything yet. In the end, a total of 25 teams from Cambodia submitted their pitch videos and prototype apps to the global competition.
 
 We saw so many strong pitches. One powerful team focused on attacking depression among teenagers, another team tried to tackle environmental problems in their communities, and one team developed a solution to help people share used books so more people can read them.
+
+![Kate.jpg](/uploads/Kate.jpg)
+
+`The Technovation community worked with the Ministry of Education, sponsor Khmer Enterprise, and teams across the country to run a successful national pitch event.`
 
 **KATE**: I know it is incredibly complex and challenging to run something with so many moving parts and partners. It sounds like it was also hard to keep people motivated virtually. Tell us your secrets.
 
