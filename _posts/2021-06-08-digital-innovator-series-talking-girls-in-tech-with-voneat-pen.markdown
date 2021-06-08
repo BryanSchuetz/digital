@@ -1,6 +1,6 @@
 ---
 title: 'Digital Innovator Series: Talking Girls in Tech with Voneat Pen'
-date: 2021-06-03 08:00:00 -04:00
+date: 2021-06-08 08:00:00 -04:00
 tags:
 - Digital Innovator Series
 - Entrepreneurship
