@@ -29,7 +29,7 @@ In addition to these, we’ve also been keeping track of our favorite websites a
 
 ![Gratiana 2.PNG](/uploads/Gratiana%202.PNG)
 
-[Montreal AI Ethics Institute](montrealethics.ai)—The institute is an international nonprofit “democratizing AI ethics literacy.” Its weekly newsletter, [the AI Ethics Brief](https://brief.montrealethics.ai), provides a fantastic summary of the latest research and news in ethics and AI.
+[Montreal AI Ethics Institute](https://montrealethics.ai/)—The institute is an international nonprofit “democratizing AI ethics literacy.” Its weekly newsletter, [the AI Ethics Brief](https://brief.montrealethics.ai), provides a fantastic summary of the latest research and news in ethics and AI.
 
 ![Gratiana 1.PNG](/uploads/Gratiana%201.PNG)
 
