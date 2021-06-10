@@ -1,7 +1,6 @@
 ---
 title: What Are We Reading about Technology and Ethics?
 date: 2021-06-10 08:00:00 -04:00
-published: false
 tags:
 - AI
 - Machine Learning
