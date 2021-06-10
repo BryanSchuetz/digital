@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jun 2021 16:45:07 -0400</pubDate>
-    <lastBuildDate>Wed, 09 Jun 2021 16:45:07 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Jun 2021 09:28:56 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Jun 2021 09:28:56 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Gratiana%202.PNG" medium="image" /> 
+        <title>What Are We Reading about Technology and Ethics?</title>
+        <description>&lt;p&gt;Tech ethics have continued to claim the public spotlight as more accounts of bias and harm due to technology and artificial intelligence (AI) have appeared in the media. Stories from racial bias in &lt;a href=&quot;https://www.nature.com/articles/d41586-019-03228-6&quot;&gt;health care algorithms&lt;/a&gt; to gender bias in &lt;a href=&quot;https://mashable.com/article/amazon-sexist-recruiting-algorithm-gender-bias-ai/&quot;&gt;hiring algorithms&lt;/a&gt; have uncovered the lack of neutrality in technology that has previously been assumed to be completely objective and neutral.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 10 Jun 2021 08:00:00 -0400</pubDate>
+        <author>Gratiana Fu
+</author>
+        <link>https://dai-global-digital.com/what-are-we-reading-about-technology-and-ethics.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-are-we-reading-about-technology-and-ethics.html</guid>
+        
+        <category>AI</category>
+        
+        <category>Machine Learning</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/712130main_8246931247_e60f3c09fb_o.jpg" medium="image" /> 
@@ -214,25 +233,6 @@
         <category>Digital Literacy</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Chloe-f84906.jpg" medium="image" /> 
-        <title>Knowledge Sharing in ICT4D: Beyond Internet Searches and Panel Events</title>
-        <description>&lt;p&gt;As we head into “event season”—albeit remotely—I’ve been thinking about how we share knowledge about what we do in the ICT4D space.&lt;/p&gt;
-
-&lt;p&gt;In doing some recent research and sector mapping, I noted how different the levels of ICT4D development are amongst various sectors. In digital agriculture, it is generally accepted that there are numerous innovations out there and a plethora of pilot projects, but many are struggling to bring these innovations &lt;a href=&quot;https://www.cta.int/en/digitalisation-agriculture-africa&quot;&gt;to scale&lt;/a&gt;. Many programs might be integrating digital as a pilot here and there, but struggling to identify what works and how they can reach the program goals. There are a huge number of initiatives seeking to share lessons within sectors, but how many are taking lessons from sector to sector?&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Apr 2021 06:00:00 -0400</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/knowledge-sharing-in-ict4d-beyond-internet-searches-and-panel-events.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/knowledge-sharing-in-ict4d-beyond-internet-searches-and-panel-events.html</guid>
-        
-        <category>Think Piece</category>
         
         
       </item>
