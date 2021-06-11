@@ -1,6 +1,10 @@
 ---
 title: Noun-action verb-subject
-date: 2021-06-11 15:56:00 -04:00
+date: 2021-06-17 08:00:00 -04:00
+tags:
+- Digital Literacy
+- Digital Security
+- Cybersecurity
 Author: Addie Ryan Tadavarthy
 ---
 
