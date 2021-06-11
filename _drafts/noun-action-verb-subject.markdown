@@ -1,6 +1,8 @@
 ---
-title: Noun-action verb-subject
+title: Addie's Noun-action verb-subject
 date: 2021-06-17 08:00:00 -04:00
+categories:
+- Digital Insights
 tags:
 - Digital Literacy
 - Digital Security
