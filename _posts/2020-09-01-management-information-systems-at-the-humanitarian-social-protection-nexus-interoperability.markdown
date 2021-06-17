@@ -16,7 +16,7 @@ In late 2019 and early 2020, DAI and our partner [Caribou Digital](https://www.c
 
 <!--more-->
 
-This blog is the first in a series on MIS in crises, as the findings from our research are many and broad. For those interested in reading more about the research, the external report can be found [here.](https://www.dai.com/uploads/bsic-MIS-2020.pdf)
+This blog is the first in a series on MIS in crises, as the findings from our research are many and broad. For those interested in reading more about the research, the external reports can be found [here.](https://www.dai.com/uploads/bsic-MIS-2020.pdf) and [here](http://assetify-dai.com/pdfs/BASIC%20MIS%20in%20Crises%20Full%20Report%20External%20Version.pdf).
 
 ![HSNP finger prints.jpg](/uploads/HSNP%20finger%20prints.jpg)`HSNP Kenya - Beneficiary fingerprint registration`
 
