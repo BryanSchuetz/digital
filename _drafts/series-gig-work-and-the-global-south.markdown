@@ -7,7 +7,7 @@ tags:
 - digital economy
 ---
 
-It’s finally spring here in Washington, DC and I feel like a new woman. Whether due to the warm weather, longer days or the feeling that the U.S. might finally be turning a corner on the pandemic (emphasis on *[might](https://www.nytimes.com/2021/05/03/health/covid-herd-immunity-vaccine.html)*), I feel like I finally have the space in my brain to re-engage on some important social and political issues, and think about how they connect to the work I do here at DAI’s Center for Digital Acceleration. Though I have every intention of revisiting my long abandoned series on digital food environments (I haven’t forgotten!), over the next several weeks I’d like to take a look at digital platforms, gig work, and what they might mean for the digital economy and livelihoods in the Global South.
+It’s finally spring here in DC and I feel like a new woman. Whether due to the warm weather, longer days or the feeling that the U.S. might finally be turning a corner on the pandemic (emphasis on *[might](https://www.nytimes.com/2021/05/03/health/covid-herd-immunity-vaccine.html)*), I feel like I finally have the space in my brain to re-engage on some important social and political issues, and think about how they connect to the work I do here at DAI’s Center for Digital Acceleration. Though I have every intention of revisiting my long abandoned series on digital food environments (I haven’t forgotten!), over the next several weeks I’d like to take a look at digital platforms, gig work, and what they might mean for the digital economy and livelihoods in the Global South.
 
 ## Why Gig Work? 
 
