@@ -1,5 +1,5 @@
 ---
-title: What Can We Learn from Job Postings in the Energy Sector? Evidence from Mexico
+title: What Can We Learn from Job Postings in the Energy Sector? Insights from Mexico
 date: 2021-06-22 23:36:00 -04:00
 Author: Jamie Parr, Andrea Larios, Javier Perez Barnes, Estera Barbarassa, Ramon Olivas
 ---
