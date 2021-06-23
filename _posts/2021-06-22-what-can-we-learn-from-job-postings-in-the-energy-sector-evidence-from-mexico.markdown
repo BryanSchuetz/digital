@@ -1,6 +1,7 @@
 ---
 title: What Can We Learn from Job Postings in the Energy Sector? Evidence from Mexico
 date: 2021-06-22 23:36:00 -04:00
+Author: Jamie Parr, Andrea Larios, Javier Perez Barnes, Estera Barbarassa, Ramon Olivas
 ---
 
 A significant challenge to the Sustainable Development Goals has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform on subnational trends, skills in-demand, the presence of firms and subsectors within each country. 
