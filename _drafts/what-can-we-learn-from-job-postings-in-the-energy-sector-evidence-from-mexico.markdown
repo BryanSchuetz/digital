@@ -1,5 +1,6 @@
 ---
-title: Job Posting from Mexico's Energy Sector Reveal Unexpected Insights
+title: What Job Postings from Mexico's Energy Sector Reveal About the Transition to
+  Clean Energy
 date: 2021-06-24 06:00:00 -04:00
 tags:
 - Data Visualization
@@ -9,7 +10,7 @@ social-image: "/uploads/mx_fco_6_22_fig_4.png"
 thumbnail: "/uploads/mx_fco_6_22_fig_4.png"
 ---
 
-A significant challenge to the Sustainable Development Goals has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform on subnational trends, skills in-demand, the presence of firms and subsectors within each country.
+A significant challenge to achieving the Sustainable Development Goals has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform on subnational trends, skills in-demand, the presence of firms and subsectors within each country.
 
 One useful way to explore these factors is by analyzing data available from job search engines using keywords related to the energy sector. These can provide key insight on how jobs in key sectors and subsectors evolve over time, what the demand for labor among firms in the energy sector is, where these openings and firms are located regionally, and how they differ in terms of skills they seek in the labor market.
 
@@ -42,7 +43,7 @@ The higher proportion of non full-time jobs in the Oil & Energy sector also fits
 
 ![mx_fco_6_22_fig_3.png](/uploads/mx_fco_6_22_fig_3.png)`Total Number of Jobs in Metropolitan Areas by Sector (Source: EPI Dashboard)`
 
-Thus far, the data has shown very little about the nature of these jobs. What exactly are the functions and responsibilities of jobs in each sector? Information using data from LinkedIn provides some insight on this. Looking at the function tag of job postings, we can see that a large amount of jobs in the Oil & Gas sector relate to natural resource production activities that fall into the manufacturing and management functions. These are jobs that typically require high school level of education and are frequently located outside of major metropolitan areas whose focus relates to the day-to-day operations of drilling, operation of wells, transportation and logistics, and refinery operations.\
+Thus far, the data has shown very little about the nature of these jobs. What exactly are the functions and responsibilities of jobs in each sector? Information using data from LinkedIn provides some insight on this. Looking at the function tag of job postings, we can see that a large amount of jobs in the Oil & Gas sector relate to natural resource production activities that fall into the manufacturing and management functions. These are jobs that typically require high school level of education and are frequently located outside of major metropolitan areas whose focus relates to the day-to-day operations of drilling, operation of wells, transportation and logistics, and refinery operations.\\
 
 In turn, these jobs do not exist in the same quantity in the Renewables & Environment sector, where a higher proportion of the job functions are desk jobs that require undergraduate and graduate level education. Although there are maintenance and installation jobs in these industries, value chains in the renewable energy sectors are still emerging and do not yet have labor supply.
 
@@ -61,7 +62,6 @@ What can this data on job function tell us about the regional differences previo
 ## Parallel Industries: What Other Sectors Are Most Commonly Associated with Jobs in the Oil & Energy and Renewables & Environment Sectors?
 
 Another form in which we can deeper our understanding on the nature of jobs in the energy sector is seeing other sectors that are closely related. Given that several job search engines such as LinkedIn use multi-classification tags for job postings, we can exploit these to examine the association between key parallel sectors of the energy sectors and explore how value chains are connected across Mexico’s economy.
-
 
 ![mx_fco_6_22_fig_6.png](/uploads/mx_fco_6_22_fig_6.png)`Heatmap - Correlation of Sectors (Source: EPI Dashboard)`
 
