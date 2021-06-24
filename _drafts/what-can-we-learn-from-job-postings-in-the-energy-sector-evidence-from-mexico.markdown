@@ -1,5 +1,5 @@
 ---
-title: What Can We Learn from Job Postings in the Energy Sector? Insights from Mexico
+title: Job Posting from Mexico's Energy Sector Reveal Unexpected Insights
 date: 2021-06-24 06:00:00 -04:00
 tags:
 - Data Visualization
