@@ -32,7 +32,7 @@ First, the initial points in our data suggest that the oil and energy sector var
 
 Digging deeper into the data also suggests that the oil and energy sector has a significantly higher number of jobs that are not full-time: 19 percent of jobs in the oil and energy sector are temporary, contractual, or part-time, compared to 4.5 percent in renewables and environment. Such a high proportion of these types of jobs in this sector suggests that employment is heavily project-driven and dependent on value chain specialization, with a high number of temporary jobs relating to midstream purposes such as transportation and distribution of natural resources.
 
-![mx_fco_6_22_fig_2.png](/uploads/mx_fco_6_22_fig_2.png)`Proportion of Jobs Disaggregated by Contract Type by Sector (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_2.png](/uploads/mx_fco_6_22_fig_2.png){:style="border: 1px solid black"}`Proportion of Jobs Disaggregated by Contract Type by Sector (Source: EPI Dashboard).`
 
 ## Renewable Energy Job Trends
 
@@ -40,7 +40,7 @@ Unsurprisingly, Mexico City constitutes a huge portion of the labor market in bo
 
 The higher proportion of non-full-time jobs in the oil and energy sector also fits with this regional trend: a significant amount of jobs in the oil and energy sector are either tied to exploration sites for onshore and offshore drilling, logistics, and transportation of natural resources, and other factors. These are usually outside of the major cities. While there are jobs in the renewables and environment sector outside of the major cities, such as maintenance of solar panels or wind turbines, these represent a significantly smaller portion of jobs.
 
-![mx_fco_6_22_fig_3.png](/uploads/mx_fco_6_22_fig_3.png)`Total Number of Jobs in Metropolitan Areas by Sector (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_3.png](/uploads/mx_fco_6_22_fig_3.png){:style="border: 1px solid black"}`Total Number of Jobs in Metropolitan Areas by Sector (Source: EPI Dashboard).`
 
 Thus far, the data has shown very little about the nature of these jobs. What exactly are the functions and responsibilities of jobs in each sector? Information using data from LinkedIn provides some insight on this. Looking at the function tag of job postings, we can see that a large number of jobs in the oil and gas sector relate to natural resource production activities that fall into the manufacturing and management functions. These are jobs that typically require a high school level of education and are frequently outside of major metropolitan areas whose focus relates to the day-to-day operations of drilling, operation of wells, transportation and logistics, and refinery operations.
 
@@ -48,25 +48,25 @@ In turn, these jobs do not exist in the same quantity in the renewables and envi
 
 It is important to note that proportions only tell part of the story—the 0il and energy sector is a larger sector overall and therefore has more in absolute numbers for all of these function types indicated in the graph below. Thus, although engineering jobs may represent a higher proportion of jobs in the renewables and environment sector, there are more engineering jobs overall in the oil and energy sector in this timeframe, 854 compared to 238 in renewables and environment. In making these comparisons, the story is more the sheer volume of other job functions that are sought after in the oil and energy labor market, particularly in manufacturing. As clean energy develops to a larger scale in Mexico and there are more solar and wind plants present, it is expected that demand for jobs in the sector requiring these functions will increase. Therefore, as the sector continues to develop in Mexico, continued monitoring of the generation of jobs beyond business-related and engineering functions will provide indications of its overall presence in the country.
 
-![mx_fco_6_22_fig_4.png](/uploads/mx_fco_6_22_fig_4.png)`Proportion of Jobs by Function (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_4.png](/uploads/mx_fco_6_22_fig_4.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
 
 What can this data on job function tell us about the regional differences previously highlighted? When disaggregated by metro area, the proportions become a bit noisier and harder to interpret. What tends to stick out is that outside of the Valle de Mexico metro region, job functions tend to be focalized in one specific area in each given metro area in both sectors. Therefore, we see engineering jobs in the renewables sector dominate in Queretaro, while in San Luis Potosi and Guadalajara the jobs tend to be in business development and sales. This also shows up in the data in the oil and energy sector: information technology jobs are prevalent in Villahermosa, while manufacturing and management jobs are more common in San Luis Potosi. This may be due to the dominance of one firm or a cluster of firms in each industry that seek employees with these skillsets.
 
-![mx_fco_6_22_fig_5.png](/uploads/mx_fco_6_22_fig_5.png)`Proportion of Jobs by Function (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_5.png](/uploads/mx_fco_6_22_fig_5.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
 
 ## Parallel Industries
 
 Another form in which we can deepen our understanding of the nature of jobs in the energy sector is seeing other sectors that are closely related. Given that several job search engines such as LinkedIn use multi-classification tags for job postings, we can exploit these to examine the association between key parallel sectors of the energy sectors and explore how value chains are connected across Mexico’s economy.
 
-![mx_fco_6_22_fig_6.png](/uploads/mx_fco_6_22_fig_6.png)`Heatmap - Correlation of Sectors (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_6.png](/uploads/mx_fco_6_22_fig_6.png){:style="border: 1px solid black"}`Heatmap - Correlation of Sectors (Source: EPI Dashboard).`
 
 We find that the most common tags used together with the oil and energy sector are staffing and recruiting, construction, and transportation/trucking/railroad. Regarding the first, this is mostly due to the high number of headhunters and recruiters seeking employers in the extractives industries. The latter two, however, tell us about the nature of jobs that appear in the oil and energy sector: midstream jobs related to the distribution and transportation of oil and natural resources make up a significant number of jobs in the energy sector in Mexico. The parallel relationship between oil and energy and construction can be explained by the high volume of jobs that entail physical labor of construction, such as building well foundations, setting up rigs, welding pipelines, and building refinery infrastructure.
 
-![mx_fco_6_22_fig_7.png](/uploads/mx_fco_6_22_fig_7.png)`Heatmap: Correlation of Sectors – Oil & Energy (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_7.png](/uploads/mx_fco_6_22_fig_7.png){:style="border: 1px solid black"}`Heatmap: Correlation of Sectors – Oil & Energy (Source: EPI Dashboard).`
 
 The renewables and environment sector has many parallel industries, as represented by the large red cluster in the upper-right corner of the heatmap. When zooming in, we find a significant association between the renewables and environment sector and the following industries: packaging and containers, information services, and newspapers in one part of the graph, and electrical/electronic manufacturing, industrial automation, mechanical and industrial engineering, and utilities in another part of the graph. Similar to the oil and energy sector, a story can be told about the areas in which clean energy is having its greatest impact: the creation of energy-efficient products and automobiles and the development of alternative sources of electricity for households such as solar and wind.
 
-![mx_fco_6_22_fig_8.png](/uploads/mx_fco_6_22_fig_8.png)`Heatmap: Correlation of Sectors – Renewables & Environment (Source: EPI Dashboard).`
+![mx_fco_6_22_fig_8.png](/uploads/mx_fco_6_22_fig_8.png){:style="border: 1px solid black"}`Heatmap: Correlation of Sectors – Renewables & Environment (Source: EPI Dashboard).`
 
 ## Key Takeaways
 
