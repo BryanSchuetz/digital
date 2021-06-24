@@ -5,7 +5,11 @@ date: 2021-06-24 06:00:00 -04:00
 tags:
 - Data Visualization
 - Environment & Energy
-Author: Jamie Parr
+Author: "[Jamie Parr](https://dai-global-digital.com/authors/jamie-parr/), [Andrea
+  Guadalupe Larios Vázquez](https://www.linkedin.com/in/andrea-larios-v%C3%A1zquez-/),
+  [Javier Pérez Barnés](https://www.linkedin.com/in/javier-p%C3%A9rez-barn%C3%A9s-2b810a1a/),
+  [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa), and
+  [Ramon Olivas](https://www.linkedin.com/in/ramon-olivas/?originalSubdomain=mx) "
 social-image: "/uploads/mx_fco_6_22_fig_4.png"
 thumbnail: "/uploads/mx_fco_6_22_fig_4.png"
 ---
