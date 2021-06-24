@@ -10,13 +10,13 @@ social-image: "/uploads/mx_fco_6_22_fig_4.png"
 thumbnail: "/uploads/mx_fco_6_22_fig_4.png"
 ---
 
-A significant challenge to achieving the Sustainable Development Goals has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform us about subnational trends, skills in-demand, the presence of firms and subsectors within each country.
+A significant challenge to achieving the [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform us about subnational trends, skills in-demand, the presence of firms and subsectors within each country.
 
 One useful way to explore these factors is by analyzing data available from job search engines and using keywords related to the energy sector. These can provide insights on how jobs in key sectors and subsectors evolve over time, what the demand for labor among firms in the energy sector is, where these openings and firms are located regionally, and how they differ in terms of skills sought in the labor market.
 
 <!--more-->
 
-For the Mexico Clean Energy Programme (MCEP) financed by the Foreign Commonwealth and Development Office (FCDO), we have collected data from several job search engines since August 2020, with the objective of examining employment trends and skills demanded by firms in the traditional and clean energy subsectors across time and regions. In this article, we provide an overview of differences in two key sectors: the traditional Oil and Energy sector, and the Renewables and Environment sector. We will examine the longitudinal trends, regional differences, the key functions, skills, and responsibilities sought within each of these sectors, and an analysis of these parallel sectors within Mexico.
+For the [Mexico Energy Programme,](https://www.dai.com/our-work/projects/mexico-prosperity-fund-mexico-energy-services-programme) funded by the Foreign, Commonwealth & Development Office (FCDO), we have collected data from several job search engines since August 2020, with the objective of examining employment trends and skills demanded by firms in the traditional and clean energy subsectors across time and regions. In this article, we provide an overview of differences in two key sectors: the traditional Oil and Energy sector, and the Renewables and Environment sector. We will examine the longitudinal trends, regional differences, the key functions, skills, and responsibilities sought within each of these sectors, and an analysis of these parallel sectors within Mexico.
 
 This article is the first in a larger series. This initial post will help serve to establish a baseline for which we can assess the evolution of clean energy in the Mexican economy. In following articles, we will further explore insights that data on job postings from job search engines can provide while highlighting advantages and limitations of using this data relative to other sources.
 
@@ -26,7 +26,8 @@ From August 2020 to February 2021, employers have advertised 6,238 jobs in the e
 
 First, the initial points in our data suggest that the Oil and Energy sector varies heavily across time. These changes may be seasonality effects, in which certain periods are more opportune for work, surge due to government approval of contracts for exploration or production of natural resources in certain regions, or both.
 
-![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png)`Total Number of Jobs by Sector by Month (Source: EPI Dashboard)`
+![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png)
+`Total Number of Jobs by Sector by Month (Source: EPI Dashboard)`
 
 Digging deeper into the data also suggests that the Oil and Energy sector has a significantly higher number of jobs that are not full-time: 19 percent of jobs in the Oil and Energy sector are temporary, contractual, or part-time compared to 4.5 percent in Renewables and Environment. Such high proportion of these types of jobs in this sector suggests that employment is heavily project driven and dependent on value chain specialization, with a high number of temporary jobs relating to midstream purposes such as transportation and distribution of natural resources.
 
