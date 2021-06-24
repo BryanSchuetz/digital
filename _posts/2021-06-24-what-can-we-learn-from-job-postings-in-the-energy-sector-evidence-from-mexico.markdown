@@ -27,7 +27,7 @@ From August 2020 to February 2021, employers have advertised 6,238 jobs in the e
 
 First, the initial points in our data suggest that the oil and energy sector varies heavily across time. These changes may be seasonality effects, in which certain periods are more opportune for work, surge due to government approval of contracts for exploration or production of natural resources in certain regions, or both.
 
-![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png)
+![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png){:style="border: 1px solid black}
 `Total Number of Jobs by Sector by Month (Source: EPI Dashboard).`
 
 Digging deeper into the data also suggests that the oil and energy sector has a significantly higher number of jobs that are not full-time: 19 percent of jobs in the oil and energy sector are temporary, contractual, or part-time, compared to 4.5 percent in renewables and environment. Such a high proportion of these types of jobs in this sector suggests that employment is heavily project-driven and dependent on value chain specialization, with a high number of temporary jobs relating to midstream purposes such as transportation and distribution of natural resources.
