@@ -22,9 +22,9 @@ This post is the first in a series. It establishes a baseline from which we can 
 
 ## Longitudinal Trends
 
-From August 2020 to February 2021, employers have advertised 6,238 jobs in the energy sector based on keyword searches. This data suggests that 67 percent of these jobs are in the oil and energy sector. In terms of the relative dominance of oil and energy compared to the renewables and environment sector, we find several important underlying reasons. Mexico is a net importer of energy with a high degree of dependence on fossil fuels, which represent 87 percent of the energy produced and 90 percent of energy required. Nuclear power and renewable energy compensate for this gap, with renewables representing 10.4 percent of primary energy production in Mexico.
+From August 2020 to February 2021, employers have advertised 6,238 jobs in the energy sector based on keyword searches. This data suggests that 67 percent of these jobs are in the oil and energy sector. In terms of the relative dominance of oil and energy compared to the renewables and environment sector, we find several important underlying reasons. Mexico is a net importer of energy with a high degree of dependence on fossil fuels, which represent 87 percent of the energy produced and 90 percent of the energy required. Nuclear power and renewable energy compensate for this gap, with renewables representing 10.4 percent of primary energy production in Mexico.
 
-First, the initial points in our data suggest that the Oil and Energy sector varies heavily across time. These changes may be seasonality effects, in which certain periods are more opportune for work, surge due to government approval of contracts for exploration or production of natural resources in certain regions, or both.
+First, the initial points in our data suggest that the oil and energy sector varies heavily across time. These changes may be seasonality effects, in which certain periods are more opportune for work, surge due to government approval of contracts for exploration or production of natural resources in certain regions, or both.
 
 ![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png)
 `Total Number of Jobs by Sector by Month (Source: EPI Dashboard)`
