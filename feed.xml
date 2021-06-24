@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jun 2021 10:24:00 -0400</pubDate>
-    <lastBuildDate>Thu, 24 Jun 2021 10:24:00 -0400</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 10:58:03 -0400</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 10:58:03 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/mx_fco_6_22_fig_4.png" medium="image" /> 
+        <title>What Job Postings from Mexico's Energy Sector Reveal About the State of Clean Energy</title>
+        <description>&lt;p&gt;A significant challenge to achieving the &lt;a href=&quot;https://en.wikipedia.org/wiki/Sustainable_Development_Goals&quot;&gt;Sustainable Development Goals&lt;/a&gt; has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform us about subnational trends, skills in-demand, and the presence of firms and subsectors within each country.&lt;/p&gt;
+
+&lt;p&gt;One useful way to explore these factors is by analyzing data available from job search engines and using keywords related to the energy sector. These can provide insights on how jobs in key sectors and subsectors evolve over time, what the demand for labor among firms in the energy sector is, where these openings and firms are located, and how they differ in terms of skills sought in the labor market.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Jun 2021 06:00:00 -0400</pubDate>
+        <author>Jamie Parr
+</author>
+        <link>https://dai-global-digital.com/what-can-we-learn-from-job-postings-in-the-energy-sector-evidence-from-mexico.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-can-we-learn-from-job-postings-in-the-energy-sector-evidence-from-mexico.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>Environment &amp; Energy</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/solomon.png" medium="image" /> 
@@ -210,29 +231,6 @@
         <category>agile</category>
         
         <category>Think Piece</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Stephanie%201.jpg" medium="image" /> 
-        <title>In Case You Missed It: The Digital Journey in South Asia—Opportunities and Challenges for Small Firms and Women Entrepreneurs</title>
-        <description>&lt;p&gt;DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; Project, in partnership with the U.S. Agency for International Development (USAID)’s Indo-Pacific Office, recently hosted a thought-provoking webinar featuring views from the field in Bangladesh, India, and Nepal on opportunities and challenges for small and medium-sized enterprises (SMEs) and women entrepreneurs in South Asia. Our panel brought together diverse perspectives from experts in government, private sector, and civil society to discuss the key problems faced by SMEs in South Asia today and what the development community can do to break down barriers and help women entrepreneurs take their place as major players in the economy. Missed the discussion? Read the highlights below:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Stephanie%201.jpg&quot; alt=&quot;Stephanie 1.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo Credit: Digital Empowerment Foundation.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 May 2021 08:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/mynetwork/">Stephanie Creed</a>
-</author>
-        <link>https://dai-global-digital.com/in-case-you-missed-it-the-digital-journey-in-south-asia-opportunities-and-challenges-for-small-firms-and-women-entrepreneurs.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/in-case-you-missed-it-the-digital-journey-in-south-asia-opportunities-and-challenges-for-small-firms-and-women-entrepreneurs.html</guid>
-        
-        <category>Entrepreneurship</category>
-        
-        <category>Digital Gender Divide</category>
-        
-        <category>Digital Literacy</category>
         
         
       </item>
