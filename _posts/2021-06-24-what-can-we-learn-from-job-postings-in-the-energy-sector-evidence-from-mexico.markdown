@@ -34,7 +34,7 @@ Digging deeper into the data also suggests that the oil and energy sector has a 
 
 ![mx_fco_6_22_fig_2.png](/uploads/mx_fco_6_22_fig_2.png)`Proportion of Jobs Disaggregated by Contract Type by Sector (Source: EPI Dashboard).`
 
-## Renewable Energy Jobs are More Concentrated in Metropolitan Areas and Have Less Demand for Physical Labor
+## Renewable Energy Job Trends
 
 Unsurprisingly, Mexico City constitutes a huge portion of the labor market in both sectors, but this masks several important differences between the two. As a starting point, the renewables and environment sector has a much higher proportion of jobs in major cities and metropolitan areas, with relatively more jobs in the second- and third-largest metro areas such as Guadalajara and Monterrey, and other secondary cities such as Queretaro, San Luis Potosi, Puebla-Tlaxcala, Morelia, and others. Further to this point, 39 percent of jobs in the renewables and environment sector are in the 20 largest municipalities by population, compared to 20 percent of jobs in the oil and energy sector.
 
