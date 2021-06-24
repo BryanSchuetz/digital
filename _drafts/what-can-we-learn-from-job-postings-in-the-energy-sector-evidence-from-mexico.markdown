@@ -27,13 +27,13 @@ From August 2020 to February 2021, employers have advertised 6,238 jobs in the e
 First, the initial points in our data suggest that the oil and energy sector varies heavily across time. These changes may be seasonality effects, in which certain periods are more opportune for work, surge due to government approval of contracts for exploration or production of natural resources in certain regions, or both.
 
 ![mx_fco_6_22_fig_1.png](/uploads/mx_fco_6_22_fig_1.png)
-`Total Number of Jobs by Sector by Month (Source: EPI Dashboard)`
+`Total Number of Jobs by Sector by Month (Source: EPI Dashboard).`
 
-Digging deeper into the data also suggests that the Oil and Energy sector has a significantly higher number of jobs that are not full-time: 19 percent of jobs in the Oil and Energy sector are temporary, contractual, or part-time compared to 4.5 percent in Renewables and Environment. Such high proportion of these types of jobs in this sector suggests that employment is heavily project driven and dependent on value chain specialization, with a high number of temporary jobs relating to midstream purposes such as transportation and distribution of natural resources.
+Digging deeper into the data also suggests that the oil and energy sector has a significantly higher number of jobs that are not full-time: 19 percent of jobs in the oil and energy sector are temporary, contractual, or part-time, compared to 4.5 percent in renewables and environment. Such a high proportion of these types of jobs in this sector suggests that employment is heavily project-driven and dependent on value chain specialization, with a high number of temporary jobs relating to midstream purposes such as transportation and distribution of natural resources.
 
-![mx_fco_6_22_fig_2.png](/uploads/mx_fco_6_22_fig_2.png)`Proportion of Jobs Disaggregated by Contract Type by Sector (Source: EPI Dashboard)`
+![mx_fco_6_22_fig_2.png](/uploads/mx_fco_6_22_fig_2.png)`Proportion of Jobs Disaggregated by Contract Type by Sector (Source: EPI Dashboard).`
 
-## Jobs in Renewable Energy Are More Concentrated in Metropolitan Areas and Have Less Demand for Physical Labor
+## Renewable Energy Jobs are More Concentrated in Metropolitan Areas and Have Less Demand for Physical Labor
 
 Unsurprisingly, Mexico City constitutes a huge portion of the labor market in both sectors, but this masks several important differences between the two. As a starting point, the Renewables and Environment sector have a much higher proportion of jobs in major cities and metropolitan areas, with relatively more jobs in the second and third largest metro areas like Guadalajara and Monterrey, and other secondary cities such as Queretaro, San Luis Potosi, Puebla-Tlaxcala, Morelia, and others. Further to this point, 39 percent of jobs in the Renewables and Environment are in the 20 largest municipalities by population, compared to 20 percent of jobs in the Oil and Energy sector.
 
