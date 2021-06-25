@@ -21,4 +21,4 @@ The next ICTforAg will be hosted virtually to continue encouraging global partic
 
 ## [Apply Now](https://drive.google.com/file/d/1c8xAZTRno-1yIiVImPIXUhV5clJ5Vaf0/view?usp=sharing)
 
-To learn more about this opportunity and apply to implement the next ICTforAg Conference please download the Request for Proposals \[link to PDF of RFP\] and register your interest in this opportunity by emailing [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+To learn more about this opportunity and apply to implement the next ICTforAg Conference please download the [Request for Proposals ](https://drive.google.com/file/d/1c8xAZTRno-1yIiVImPIXUhV5clJ5Vaf0/view?usp=sharing)and register your interest in this opportunity by emailing [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
