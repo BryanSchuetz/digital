@@ -1,6 +1,7 @@
 ---
 title: Apply Now to Implement the Next ICTforAg Conference
 date: 2021-06-25 08:00:00 -04:00
+published: false
 tags:
 - digital agriculture
 - RFP
