@@ -11,7 +11,7 @@ Author: "[Jamie Parr](https://dai-global-digital.com/authors/jamie-parr/), [Andr
   [Estera Barbarasa](https://www.dai.com/who-we-are/our-team/estera-barbarasa), and
   [Ramon Olivas](https://www.linkedin.com/in/ramon-olivas/?originalSubdomain=mx) "
 social-image: "/uploads/mx_fco_6_22_fig_4.png"
-thumbnail: "/uploads/mx_fco_6_22_fig_4.png"
+thumbnail: "/uploads/mxfco_mep_rev_gph2.png"
 ---
 
 A significant challenge to achieving the [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals) has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform us about subnational trends, skills in-demand, and the presence of firms and subsectors within each country.
@@ -51,11 +51,11 @@ In turn, these jobs do not exist in the same quantity in the renewables and envi
 
 It is important to note that proportions only tell part of the story—the 0il and energy sector is a larger sector overall and therefore has more in absolute numbers for all of these function types indicated in the graph below. Thus, although engineering jobs may represent a higher proportion of jobs in the renewables and environment sector, there are more engineering jobs overall in the oil and energy sector in this timeframe, 854 compared to 238 in renewables and environment. In making these comparisons, the story is more the sheer volume of other job functions that are sought after in the oil and energy labor market, particularly in manufacturing. As clean energy develops to a larger scale in Mexico and there are more solar and wind plants present, it is expected that demand for jobs in the sector requiring these functions will increase. Therefore, as the sector continues to develop in Mexico, continued monitoring of the generation of jobs beyond business-related and engineering functions will provide indications of its overall presence in the country.
 
-![mx_fco_6_22_fig_4.png](/uploads/mx_fco_6_22_fig_4.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
+![mxfco_mep_rev_gph2.png](/uploads/mxfco_mep_rev_gph2.png)(/uploads/mx_fco_6_22_fig_4.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
 
 What can this data on job function tell us about the regional differences previously highlighted? When disaggregated by metro area, the proportions become a bit noisier and harder to interpret. What tends to stick out is that outside of the Valle de Mexico metro region, job functions tend to be focalized in one specific area in each given metro area in both sectors. Therefore, we see engineering jobs in the renewables sector dominate in Queretaro, while in San Luis Potosi and Guadalajara the jobs tend to be in business development and sales. This also shows up in the data in the oil and energy sector: information technology jobs are prevalent in Villahermosa, while manufacturing and management jobs are more common in San Luis Potosi. This may be due to the dominance of one firm or a cluster of firms in each industry that seek employees with these skillsets.
 
-![mx_fco_6_22_fig_5.png](/uploads/mx_fco_6_22_fig_5.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
+![mxfco_mep_rev_gph3.png](/uploads/mxfco_mep_rev_gph3.png)(/uploads/mx_fco_6_22_fig_5.png){:style="border: 1px solid black"}`Proportion of Jobs by Function (Source: EPI Dashboard).`
 
 ## Parallel Industries
 
