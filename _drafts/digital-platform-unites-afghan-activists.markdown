@@ -3,6 +3,8 @@ title: Digital Platform Unites Afghan Activists
 date: 2021-07-01 06:00:00 -04:00
 tags:
 - Digital Inclusion
+- digital platforms
+- Afghanistan
 Author: Andy Yates
 social-image: "/uploads/Tiffany.jpg"
 thumbnail: "/uploads/Tiffany.jpg"
