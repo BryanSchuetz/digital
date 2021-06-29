@@ -5,7 +5,7 @@ tags:
 - Digital Inclusion
 - digital platforms
 - Afghanistan
-Author: Andy Yates
+Author: "[Andy Yates](https://www.linkedin.com/in/andyjyates/)"
 social-image: "/uploads/Tiffany.jpg"
 thumbnail: "/uploads/Tiffany.jpg"
 ---
