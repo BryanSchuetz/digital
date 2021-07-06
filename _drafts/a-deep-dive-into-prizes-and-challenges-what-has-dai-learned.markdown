@@ -1,5 +1,5 @@
 ---
-title: A Deep Dive Into Prizes and Challenges - What Has DAI Learned?
+title: What We Learned From a Deep Dive Into the World of Prizes and Challenges
 date: 2021-06-24 16:38:00 -04:00
 tags:
 - Innovation
@@ -26,7 +26,7 @@ To paraphrase [USAID’s Tools for Innovation Programming. Step 4: Design and Im
 
 From our research, Alex and I found three main differences:
 
-* **Intent **– Prizes ask applicants to achieve one precise outcome; challenges ask applicants to respond to a broad set of challenges, resulting in a portfolio of creative approaches and solutions.
+* **Intent** – Prizes ask applicants to achieve one precise outcome; challenges ask applicants to respond to a broad set of challenges, resulting in a portfolio of creative approaches and solutions.
 
 * **Levels of funder involvement and control** – Prizes give out one-time cash disbursements (with no further funder involvement), while challenges typically end in standard USAID grant agreements with ongoing reporting requirements.
 
