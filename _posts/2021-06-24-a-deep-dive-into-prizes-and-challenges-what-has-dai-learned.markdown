@@ -41,22 +41,16 @@ Prizes and challenges are meant to raise awareness about a specific issue, usual
 On the technical side:
 
 * **Consider recruiting private sector actors as full partners**. Strategic private sector partners can bring their brand name, resources, monetary contribution, established communications channels, publicity, mentors, and more to a prize or challenge. However, coordinating with private sector actors can significantly increase the management burden. Define their role and set expectations early.
-* **Define your target audience and figure out how to reach them**. Because challenges and prizes are geared toward raising awareness about specific issues, the communications piece is critical and capital intensive. Deciding on your target audience for applications and figuring out how best to reach them will help increase the prize/challenge’s visibility – social media, referrals, industry pages, webinars, and media interviews can all work well.
-
+* **Define your target audience and figure out how to reach them**. Because challenges and prizes are geared toward raising awareness about specific issues, the communications piece is critical and capital intensive. Deciding on your target audience for applications and figuring out how best to reach them will help increase the prize/challenge’s visibility—social media, referrals, industry pages, webinars, and media interviews can all work well.
 * **Craft specific calls to action with minimal jargon.** Highly specific and inspirational calls often lead to more creative solutions. Even global challenges addressing a worldwide problem can call for applicants to present localized solutions for an organization’s own defined target audience. Organizers can request anything from short concept notes to full applications in the first phase. Requesting short concept notes, for instance, may lead to more applicants. The dollar amount of potential awards and the required level of paperwork influences the number and types of organizations that apply.
+* **In addition to funding, provide nonmonetary incentives**. Applicants appreciate and benefit from nonmonetary incentives, such as technical assistance, coaching, mentorship, and even meeting other applicants. During the process, work closely with innovators to define incentives that will add the most value to their organizations.
+* **Invest in experts to serve as judges, mentors, and advisors.** Outside experts with deep knowledge of the relevant technical area can help design prizes and challenges that get to the heart of the problem. They can also provide invaluable feedback and can support winners in implementing highly successful solutions.
 
-* **In addition to funding, provide non-monetary incentives**. Applicants appreciate and benefit from non-monetary incentives, such as technical assistance, coaching, mentorship, and even meeting other applicants. During the prize/challenge process, work closely with innovators to define incentives that will add the most value to their organizations.
+On the operational and administrative side:
 
-* **Invest in experts to serve as judges, mentors, and advisors.** Outside experts with deep knowledge of the relevant technical area can help design prizes and challenges that get to the heart of the problem. They can also provide invaluable feedback and can support winners to implementing highly successful solutions.
-
-On the operational/administrative side:
-
-* **Prizes and challenges require heavy staff level of effort (LOE).** Because they consist of multiple stages and are intended to generate heavy publicity, prizes and challenges require a lot of staff time to manage the process -- particularly if they receive a lot of initial applications that require someone to read through and evaluate all applications.
-
-* **Consider bringing on subcontractors to manage some of the workload.** Subcontractors with deep experience in managing prizes/challenges, ideally with deep local knowledge, can relieve the burden on project staff. It may also make sense to bring on a subcontractor who can handle a narrower piece of work, such as local communications and PR.
-
+* **Prizes and challenges require a heavy staff level of effort.** Because they consist of multiple stages and are intended to generate heavy publicity, prizes and challenges require a lot of staff time to manage the process—particularly if they receive a lot of initial applications that require someone to read through and evaluate all applications.
+* **Consider bringing on subcontractors to manage some of the workload.** Subcontractors with deep experience in managing prizes and challenges, ideally with deep local knowledge, can relieve the burden on project staff. It may also make sense to bring on a subcontractor who can handle a narrower piece of work, such as local communications and public relations.
 * **Use an application intake platform (an application website).** Do not rely on email submissions, especially if you’re reviewing hundreds of applications. Off-the-shelf solutions offer the most bang for your buck.
-
-* **Prizes and challenges are expensive, so plan accordingly.** The cost of high staff LOE, subcontractors, and application intake platforms (in addition to possible in-person co-creation sessions) can add up, so plan accordingly to ensure a prize or challenge can fit in your budget.
+* **Prizes and challenges are expensive, so plan accordingly.** The cost of high staff time, subcontractors, and application intake platforms (in addition to possible in-person co-creation sessions) can add up, so plan accordingly to ensure a prize or challenge can fit in your budget.
 
 Planning and executing prize and challenge competitions is hard work. Though not comprehensive by any means, we hope that the tips and lessons learned above will make it a smoother process for all implementers in the future!
