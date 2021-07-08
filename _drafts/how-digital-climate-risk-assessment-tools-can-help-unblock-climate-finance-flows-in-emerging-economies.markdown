@@ -11,7 +11,7 @@ thumbnail: "/uploads/AS4-bc3155.png"
 
 Climate finance is getting stuck.
 
-Large commercial banks that receive funds from investment banks accredited by the Green Climate Fund typically seek smaller financial institutions in local markets to syndicate these funds. However, these smaller institutions often lack the tools needed to appraise risk and begin lending, meaning that funds that have been allocated towards climate mitigation, resilience building and adaptation efforts are not being efficiently disseminated.
+Large commercial banks that receive funds from investment banks accredited by the [Green Climate Fund](https://www.greenclimate.fund/) typically seek smaller financial institutions in local markets to syndicate these funds. However, these smaller institutions often lack the tools needed to appraise risk and begin lending, meaning that funds that have been allocated towards climate mitigation, resilience building and adaptation efforts are not being efficiently disseminated.
 
 <!--more-->
 
@@ -37,6 +37,6 @@ As part of the [InterAmerican Development Bank’s EcoMicro](https://www.dai.com
 
 The design of Climate TARP is robust in several ways and features a forward-looking design that allows customisation and upgrading. First, each institution using the tool can tailor the financial information requested from the applicant. Second, the tool’s climate data can be updated to ensure that the most recent climatological information is used in the assessment, especially as new data or new sources become available.  Further customisations can be made to refine the questions and information collected during site visits to gauge an applicant's climate preparedness. This includes the scope for a climatologist or sector specialist to be brought in to improve the criteria and risk indicators utilized. 
 
-Lastly, while Climate TARP is currently configured as a climate smart tool for finance, the architecture of the software allows for the tool to not only analyze climate information, but also assess other geological or health risks and related levels preparedness. Integration with management information systems and core banking systems allows institutions to mainstream these tools and provide complementarity to objectives of digitising operational processes.
+Climate TARP is currently configured as a climate smart tool for finance, the architecture of the software allows for the tool to not only analyze climate information, but also assess other geological or health risks and related levels preparedness. Integration with management information systems and core banking systems allows institutions to mainstream these tools and provide complementarity to objectives of digitising operational processes.
 
 Applying this approach can help unblock the flow of climate finance to those that are producing the food we eat and providing the tourism experiences that we are all craving in these pandemic-affected times.
