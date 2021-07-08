@@ -1,6 +1,6 @@
 ---
 title: What We Learned From a Deep Dive into the World of Prizes and Challenges
-date: 2021-06-24 16:38:00 -04:00
+date: 2021-07-08 16:38:00 -04:00
 tags:
 - Innovation
 - Prizes
