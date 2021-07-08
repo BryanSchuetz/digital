@@ -3,18 +3,18 @@ title: Digital Platform Unites Afghan Activists
 date: 2021-07-01 06:00:00 -04:00
 tags:
 - Digital Inclusion
-- digital platforms
 - Afghanistan
+- Digital Platforms
 Author: "[Andy Yates](https://www.linkedin.com/in/andyjyates/)"
 social-image: "/uploads/Tiffany.jpg"
 thumbnail: "/uploads/Tiffany.jpg"
 ---
 
-Since 2015, the U.S. Agency for International Development (USAID)-funded [Promote: Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) program has been promoting the meaningful civic participation of Afghan women. To date, more than 7,000 activists and 370 civil society organizations (CSO), across all 34 of Afghanistan's provinces, have chosen to join DAI-led Musharikat to advance women’s equality and empowerment. By working through coalitions, Musharikat brings together citizen activists, government officials, religious scholars, and a diverse assemblage of CSOs to bolster both the supply and demand for women’s rights in Afghanistan. Though each coalition has a specific mandate, their shared vision of a peaceful, inclusive, and equitable country provides a common cause for action. This mission includes public awareness campaigns, building the capacity of those championing change, and working with government institutions to vigorously enforce and reform laws to fulfill their duty to the nation’s largest underserved constituency—women.
+Since 2015, the U.S. Agency for International Development (USAID)-funded [Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) program has been promoting the meaningful civic participation of Afghan women. To date, more than 7,000 activists and 370 civil society organizations (CSO), across all 34 of Afghanistan's provinces, have chosen to join DAI-led Musharikat to advance women’s equality and empowerment. By working through coalitions, Musharikat brings together citizen activists, government officials, religious scholars, and a diverse assemblage of CSOs to bolster both the supply and demand for women’s rights in Afghanistan. Though each coalition has a specific mandate, their shared vision of a peaceful, inclusive, and equitable country provides a common cause for action. This mission includes public awareness campaigns, building the capacity of those championing change, and working with government institutions to vigorously enforce and reform laws to fulfill their duty to the nation’s largest underserved constituency—women.
 
 <!--more-->
 
-To successfully stitch together the efforts of so many people and organizations, Musharikat launched the [Musharikat Knowledge Management Platform (MKMP)](www.musharikat.com). The original idea behind MKMP was to provide coalition members with a secure means of collaboration. Using their unique password, members can securely reach out to other members and program staff via chat, email, or video conference. From this initial concept, the platform was further developed into Musharkat’s principal management tool for knowledge, data, and public opinion surveys (online/call center). For instance, the site now hosts a record of national and international laws relevant to the coalitions’ work, archives project documents and training materials, disseminates news and government statistics, and collects discussion forum and survey data to provide Musharikat, coalition members, and USAID with evidence to inform decision-making and guide advocacy campaigns.
+To successfully stitch together the efforts of so many people and organizations, Musharikat launched the [Musharikat Knowledge Management Platform (MKMP)](https://www.musharikat.com/). The original idea behind MKMP was to provide coalition members with a secure means of collaboration. Using their unique password, members can securely reach out to other members and program staff via chat, email, or video conference. From this initial concept, the platform was further developed into Musharkat’s principal management tool for knowledge, data, and public opinion surveys (online/call center). For instance, the site now hosts a record of national and international laws relevant to the coalitions’ work, archives project documents and training materials, disseminates news and government statistics, and collects discussion forum and survey data to provide Musharikat, coalition members, and USAID with evidence to inform decision-making and guide advocacy campaigns.
 
 ## Survey of Musharikat Members
 
@@ -37,6 +37,8 @@ As for how and where members are accessing MKMP, the vast majority said with a s
 ## Social and Traditional Media Preferences
 
 Facebook (70 percent) was found to be members’ preferred social media platform. “Other” received the second-highest number of votes, beating out Instagram (7 percent), Twitter (4 percent), and TikTok (0 percent). In terms of traditional media, TV was the most popular with 92 percent of respondents saying they watch TV, followed by 72 percent who listen to the radio, and 70 percent who read newspapers. At first glance, these findings seem to point in favor of conducting more advocacy and awareness-raising through TV, but when the much higher cost of TV time is compared against that of radio, Musharikat’s choice of radio as its preferred outreach medium appears sound. Moreover, the program often generates free, earned media, across all mediums, by implementing timely, newsworthy programmatic events.
+
+![MKMP Infographic.jpg](/uploads/MKMP%20Infographic.jpg)
 
 ## Moving Forward
 
