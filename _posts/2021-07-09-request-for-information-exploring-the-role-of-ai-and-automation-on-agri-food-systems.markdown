@@ -2,7 +2,6 @@
 title: 'Request for Information: Exploring the Role of AI and Automation on Agrifood
   Systems'
 date: 2021-07-09 08:05:00 -04:00
-published: false
 tags:
 - RFI
 - digital agriculture
