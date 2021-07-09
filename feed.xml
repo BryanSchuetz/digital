@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jul 2021 09:46:37 -0400</pubDate>
-    <lastBuildDate>Fri, 09 Jul 2021 09:46:37 -0400</lastBuildDate>
+    <pubDate>Fri, 09 Jul 2021 13:51:58 -0400</pubDate>
+    <lastBuildDate>Fri, 09 Jul 2021 13:51:58 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/CoverPhoto.JPG" medium="image" /> 
+        <title>Request for Information: Exploring the Role of AI and Automation on Agrifood Systems</title>
+        <description>&lt;p&gt;Artificial intelligence (AI) applications are rapidly evolving to include more complex and advanced tasks. As a result, the number of meaningful use cases relevant to the development sector are expanding and demonstrate significant potential to solve some of the world’s most prominent challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/CoverPhoto.JPG&quot; alt=&quot;CoverPhoto.JPG&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Jul 2021 08:05:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/alana-mcginty-04a91657/">Alana McGinty</a>
+</author>
+        <link>https://dai-global-digital.com/request-for-information-exploring-the-role-of-ai-and-automation-on-agri-food-systems.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/request-for-information-exploring-the-role-of-ai-and-automation-on-agri-food-systems.html</guid>
+        
+        <category>RFI</category>
+        
+        <category>digital agriculture</category>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/FAW1-9d6f2d.png" medium="image" /> 
@@ -210,27 +233,6 @@
         <category>AI</category>
         
         <category>E-Commerce</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Inta.jpg" medium="image" /> 
-        <title>New Research Explores Digital Technologies and Their Impact on Social Accountability in Southeast Asia</title>
-        <description>&lt;p&gt;&lt;em&gt;Ian Cocroft, Karen Lee, and Connor MacKenzie are second-year master’s students in the international development program at the Johns Hopkins University School of Advanced International Studies (SAIS). The SAIS International Development (IDEV) practicum allows students to work directly with public, private, and nongovernmental organizations as a capstone to their graduate studies. Ian, Karen, and Connor worked with the Center for Digital Acceleration at DAI. The students conducted virtual research in Burma, Cambodia, Thailand, and Vietnam during the 2020-21 academic year to better understand how civil society organizations (CSOs) use digital technologies to support social accountability in public service delivery. The team’s final report provides DAI with considerations on how CSOs can better integrate digital technologies into their operations and highlights regional examples of digital tools for social accountability.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Our practicum team worked with DAI’s Center for Digital Acceleration on a regional study about how CSOs in Burma, Thailand, and Vietnam use digital technologies for social accountability in public service delivery, providing a series of recommendations for the U.S. Agency for International Development-funded &lt;a href=&quot;https://www.fhi360.org/projects/innovations-social-accountability-cambodia-isac&quot;&gt;Innovations for Social Accountability in Cambodia (ISAC) program&lt;/a&gt;. As part of our research, we undertook an extensive literature review and held Zoom interviews with country representatives from CSOs, tech organizations, and multilateral institutions.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 May 2021 08:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/ian-cocroft/">Ian Cocroft</a>, <a href="https://www.linkedin.com/in/connor-mackenzie/">Connor Mackenzie</a> and <a href="https://www.linkedin.com/in/karen-lee-187934123/">Karen Lee</a>
-</author>
-        <link>https://dai-global-digital.com/idev-practicum-2021-exploring-digital-technologies-and-their-impact-on-social-accountability-in-southeast-asia.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/idev-practicum-2021-exploring-digital-technologies-and-their-impact-on-social-accountability-in-southeast-asia.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Literacy</category>
         
         
       </item>
