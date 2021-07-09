@@ -6,7 +6,7 @@ tags:
 - RFI
 - digital agriculture
 - AI
-Author: "[Alana McGinty](https://www.linkedin.com/in/alana-mcginty-04a91657/)"
+Author: "(Lilyana Gabrielse)[https://www.linkedin.com/in/lilyana-gabrielse-8bb40b1bb/]"
 social-image: "/uploads/CoverPhoto.JPG"
 thumbnail: "/uploads/CoverPhoto.JPG"
 ---
