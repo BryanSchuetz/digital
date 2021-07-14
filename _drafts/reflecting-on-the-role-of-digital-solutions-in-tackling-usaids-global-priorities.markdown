@@ -9,23 +9,20 @@ Author: Erica Behrens
 
 As most in the international development community know, [Samantha Power](https://www.usaid.gov/who-we-are/organization/samantha-power), former U.S. Permanent Representative to the United Nations under President Barack Obama, was nominated and officially sworn in as the 19th Administrator of the U.S. Agency for Internatioanl Development (USAID) on May 3.
 
-During her [confirmation hearing testimony](https://www.foreign.senate.gov/imo/media/doc/032321_Power_Testimony.pdf), she acknowledged the longstanding priorities of USAID that would remain at the fore, such as women’s empowerment, food security, education and global health, but also cited four particularly pressing and consequential global issues on which USAID would focus in the years ahead:
+During her confirmation hearing [testimony](https://www.foreign.senate.gov/imo/media/doc/032321_Power_Testimony.pdf), she acknowledged the longstanding priorities of USAID that would remain at the fore, such as women’s empowerment, food security, education, and global health, but also cited four particularly pressing and consequential global issues on which USAID would focus in the years ahead:
 
-1. The COVID-19 Pandemic
+1. The COVID-19 pandemic
+2. Climate change
+3. Conflict and state collapse
+4. Democratic backsliding
 
-2. Climate Change
-
-3. Conflict and State Collapse
-
-4. Democratic Backsliding
-
-Thinking about these priorities and what this would mean for development work in the coming years, I thought about how digital solutions fit into this picture. Though not called out specifically in her testimony, digital technologies, and successfully usage of those technologies, will serve a critical role in ensuring the success and effectiveness of these efforts.
+Thinking about these priorities and what they mean for development work in the coming years, I thought about how digital solutions fit into this picture. Though not called out specifically in her testimony, digital technologies will serve a critical role in ensuring the success and effectiveness of these efforts.
 
 <!--more-->
 
 To better illustrate the role of digital in achieving these outcomes, I wanted to highlight just a few ways in which digital solutions and considerations come into play in each of these crises:
 
-***The COVID-19 pandemic**: With decades of development gains shattered by COVID, imperiling progress on everything from food security to gender equality and access to education, USAID’s support to partners will be vital for recovery, including by building more robust and durable health infrastructure for the future.*
+***The COVID-19 pandemic**: With decades of development gains shattered by COVID-19, imperiling progress on everything from food security to gender equality and access to education, USAID’s support to partners will be vital for recovery, including by building more robust and durable health infrastructure for the future.*
 
 The importance of digital solutions is perhaps most obvious in the response to COVID-19 and the far-reaching consequences of the pandemic. From online learning, remote work, online shopping, and case tracking and management, the benefits of digital access, inclusion, and tool usage are immeasurable. My colleague Susannah Horton delved more deeply into the [consequences facing those not able to access these benefits issue](https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html), known as the [digital divide](https://stats.oecd.org/glossary/detail.asp?ID=4719), earlier in the pandemic.
 
