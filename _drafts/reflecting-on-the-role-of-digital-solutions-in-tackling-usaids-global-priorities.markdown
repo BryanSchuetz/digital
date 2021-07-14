@@ -12,8 +12,11 @@ As most in the international development community know, [Samantha Power](https:
 During her [confirmation hearing testimony](https://www.foreign.senate.gov/imo/media/doc/032321_Power_Testimony.pdf), she acknowledged the longstanding priorities of USAID that would remain at the fore, such as women’s empowerment, food security, education and global health, but also cited four particularly pressing and consequential global issues on which USAID would focus in the years ahead:
 
 1. The COVID-19 Pandemic
+
 2. Climate Change
+
 3. Conflict and State Collapse
+
 4. Democratic Backsliding
 
 Thinking about these priorities and what this would mean for development work in the coming years, I thought about how digital solutions fit into this picture. Though not called out specifically in her testimony, digital technologies, and successfully usage of those technologies, will serve a critical role in ensuring the success and effectiveness of these efforts.
@@ -26,7 +29,7 @@ To better illustrate the role of digital in achieving these outcomes, I wanted t
 
 The importance of digital solutions is perhaps most obvious in the response to COVID-19 and the far-reaching consequences of the pandemic. From online learning, remote work, online shopping, and case tracking and management, the benefits of digital access, inclusion, and tool usage are evident. For people not equipped to utilize these solutions, the consequences were particularly stark. My colleague Susannah Horton delved more deeply into the [consequences of this issue](https://dai-global-digital.com/covid-19-the-importance-of-understanding-digital-divides-during-the-pandemic-response.html), known as the [digital divide](https://stats.oecd.org/glossary/detail.asp?ID=4719), earlier in the pandemic.
 
-![Increased Reach Infographic_small.PNG](/uploads/Increased%20Reach%20Infographic_small.PNG)
+![Carnegie screenshot small.PNG](/uploads/Carnegie%20screenshot%20small.PNG)
 `A graphic from the USAID Honduras Asegurando project demonstrating program reach during the pandemic using ICT. Graphic by Lucas King from DAI Photo Library.`
 
 A World Bank Blog - [2020 Year in Review: The impact of COVID-19 in 12 charts](https://blogs.worldbank.org/voices/2020-year-review-impact-covid-19-12-charts) – discussed the impact of COVID-19 on various aspects of development, including the strain on business and jobs, particularly micro, small, and medium enterprises (MSMEs). The blog notes that more than a third of companies worldwide increased their use of digital technology to adapt to the crisis – tools such as e-commerce sites to present products, social media for customer engagement and advertising, and digital payment platforms for transactions.
