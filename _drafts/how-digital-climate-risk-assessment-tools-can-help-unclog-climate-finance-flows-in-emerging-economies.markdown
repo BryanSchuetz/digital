@@ -1,8 +1,7 @@
 ---
-title: How Digital Climate Risk Assessment Tools Help Unblock Climate Finance Flows
+title: How Digital Climate Risk Assessment Tools Help Unclog Climate Finance Flows
   in Emerging Economies
 date: 2021-07-15 06:00:00 -04:00
-published: false
 tags:
 - Data Visualization
 - Digital Platforms
