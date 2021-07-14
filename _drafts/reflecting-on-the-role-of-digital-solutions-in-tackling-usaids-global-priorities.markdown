@@ -7,7 +7,7 @@ tags:
 Author: Erica Behrens
 ---
 
-As most in the international development community know, [Samantha Power](https://www.usaid.gov/who-we-are/organization/samantha-power), former U.S. Permanent Representative to the United Nations under President Barack Obama, was nominated and officially sworn in as the 19th Administrator of the U.S. Agency for International Development (USAID) on May 3.
+As most people in the international development community know, [Samantha Power](https://www.usaid.gov/who-we-are/organization/samantha-power), former U.S. Permanent Representative to the United Nations under President Barack Obama, was nominated and officially sworn in as the 19th Administrator of the U.S. Agency for International Development (USAID) on May 3.
 
 During her confirmation hearing [testimony](https://www.foreign.senate.gov/imo/media/doc/032321_Power_Testimony.pdf), she acknowledged the longstanding priorities of USAID that would remain at the fore, such as women’s empowerment, food security, education, and global health, but also cited four particularly pressing and consequential global issues on which USAID would focus in the years ahead:
 
