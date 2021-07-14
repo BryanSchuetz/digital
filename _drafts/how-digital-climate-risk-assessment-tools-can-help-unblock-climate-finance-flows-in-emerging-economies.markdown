@@ -1,6 +1,6 @@
 ---
-title: How digital climate risk assessment tools can help unblock climate finance
-  flows in emerging economies
+title: How Digital Climate Risk Assessment Tools Help Unblock Climate Finance Flows
+  in Emerging Economies
 date: 2021-07-09 06:00:00 -04:00
 tags:
 - Data Visualization
