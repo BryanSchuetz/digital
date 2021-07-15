@@ -4,6 +4,7 @@ date: 2021-07-15 09:00:00 -04:00
 tags:
 - Digital Platforms
 - Think Piece
+- COVID-19
 Author: Erica Behrens
 ---
 
