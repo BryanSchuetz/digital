@@ -7,6 +7,8 @@ tags:
 - COVID-19
 Author: Erica Behrens
 social-image: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash-c07988.jpg"
+thumbnail: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash-c07988.jpg"
+Field name: 
 ---
 
 As most people in the international development community know, [Samantha Power](https://www.usaid.gov/who-we-are/organization/samantha-power), former U.S. Permanent Representative to the United Nations under President Barack Obama, was nominated and officially sworn in as the 19th Administrator of the U.S. Agency for International Development (USAID) on May 3.
