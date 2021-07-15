@@ -6,8 +6,8 @@ tags:
 - Think Piece
 - COVID-19
 Author: Erica Behrens
-social-image: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash-c07988.jpg"
-thumbnail: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash-c07988.jpg"
+social-image: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash_thumbnail.jpg"
+thumbnail: "/uploads/joshua-sukoff-5DDYHjk_KMU-unsplash_thumbnail.jpg"
 Field name: 
 ---
 
