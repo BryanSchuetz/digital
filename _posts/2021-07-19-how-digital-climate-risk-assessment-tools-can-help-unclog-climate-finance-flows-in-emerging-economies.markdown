@@ -16,7 +16,7 @@ Traditional lending channels are blocking access to climate finance. The large c
 
 <!--more-->
 
-As part of the [InterAmerican Development Bank’s EcoMicro](https://www.dai.com/our-work/projects/belize-idb-ecomicro-project) portfolio of climate mitigation and adaptation programs, supported through a partnership with the Government of Canada, DAI has designed a digital **Climate Tool for Assessing Risk and Preparedness (Climate TARP),** an app designed to provide a balanced approach to risk and preparedness analysis, and help lenders assess the levels of vulnerability in their loan portfolioportfolio vulnerability and from three different perspectives:
+As part of the [InterAmerican Development Bank’s EcoMicro](https://www.dai.com/our-work/projects/belize-idb-ecomicro-project) portfolio of climate mitigation and adaptation programs, supported through a partnership with the Government of Canada, DAI has designed a digital **Climate Tool for Assessing Risk and Preparedness (Climate TARP),** an app designed to provide a balanced approach to risk and preparedness analysis, and help lenders assess the levels of vulnerability in their loan portfolio and from three different perspectives:
 
 * **Applicant information and the investment portfolio assignment**: Using Climate TARP to develop a customized climate risk and preparedness assessment is a simple process. The first stage is focused on information collection (see below). Key information about the loan applicant is collected—including their geolocation, their business, the sector in which they operate, and any additional information typically required for a loan application.
 
