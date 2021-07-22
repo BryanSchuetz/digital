@@ -1,9 +1,11 @@
 ---
-title: 'Music 4.0: Digital Skills for the Creative Sector'
+title: Digital Asia Accelerator Cultivates Digital Skills for Cambodia’s Creative
+  Sector
 date: 2021-07-22 06:00:00 -04:00
 tags:
 - Digital
 - Entrepreneurship
+Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole/) and [Hangveng Horng](https://www.linkedin.com/in/irene-hang-81b817194/)"
 social-image: "/uploads/sound%20blog%20photo%203.JPG"
 thumbnail: "/uploads/sound%20blog%20photo%203.JPG"
 ---
@@ -16,9 +18,13 @@ Widespread digitalization has revolutionized almost every industry, including mu
 
 “Music is one of the most easily accessible and consumable pieces of art,” wrote TSI’s Irene Hang in her [recent blogpost](https://www.thesoundinitiative.com/blog/2021/4/6/music-40-digital-education-for-artists-and-producer). “More and more, talented young Khmer artists are beginning to emerge from the shadows and are setting new records every single day,” Hang said. “Cambodians, much like everyone else in the world, consume their music via digital streaming platforms. Whether it’s YouTube, Spotify, or local streaming platforms, everyone is using digital platforms every single day. Artists already know how to make great quality music and visuals, but the problem lies in how well they can actually reach a new audience pool and distribute their work successfully and safely,” Hang explained.
 
+## How Music 4.0 Helps Creative Entrepreneurs Expand Their Digital Reach
+
 To address this problem, the Music 4.0 program delivers tailored opportunities for artists and producers to build digital literacy skills as they pertain to the business of music production and promotion. One of the key goals of DAA, from which TSI receives grant funding, is to improve the digital skills of businesses in developing economies. DAA recognizes that for artists and entrepreneurs to produce and sell their services in today’s world – especially post Covid-19 – digital savvy is not just an asset but a necessity. A lack of digital skills prevents businesses of all shapes and sizes from taking full advantage of the opportunities enabled by the digital economy. The Accelerator supports training modules and programs for various industry associations to train small and medium enterprises (SMEs) across Southeast Asia. As a part of this innovative pilot program, DAA is working specifically with TSI to pilot this digital skills program with Cambodian creative entrepreneurs while capitalizing on opportunities to expand DAA’s work with similar SMEs regionally.
 
 Music 4.0, a fully localized training program delivered in Khmer and designed for e-learning, is intended for creative entrepreneurs who already excel in their musicality but would like to bolster their musical products' sound quality, promotional skills, and business success. Music 4.0 focuses on building digital skills such as advanced mixing, mastering, branding, marketing, distribution, business, and communication.
+
+## Music 4.0’s First Term & the Impact of Covid-19
 
 For their first term, TSI initially envisioned providing instruction for six students in the TSI music studio while simultaneously shooting high-quality video to develop future online learning content. But, as it did for so many, Covid-19 derailed TSI’s plans. “Many creative freelancers and others working in the arts and entertainment sectors \[already\] face significant challenges in finding work, and Covid-19 and the recent lockdowns have only exacerbated this,” TSI reported.
 
@@ -29,6 +35,8 @@ The Sound Initiative, or TSI, had to shift their in-person lessons to an online 
 “Due to Covid-19 and lockdowns in Phnom Penh, creating online learning content at home with limited equipment and staff capacity to manage this has resulted in slower progress than anticipated,” explained TSI staff. “Nonetheless, the first term has seen progress. Students' feedback has been positive, \[reporting\] increased self-confidence and soft skills in collaboration,” TSI said.
 
 “Joining the program opened my eyes to what defines an artist, what part of the songwriting needs attention, the genre, how to build your brand and to market your music," shared participant Phalla Thoun, aka Sai. Before the Music 4.0 classes, all participants reported that they didn’t know how to develop their unique artistic brands. After the lessons, however, “\[a\]ll trainees reported a deeper awareness of how to think about their brand, presenting that online and how to position themselves in digital media using tools, specifically those related to creating visual content,” announced TSI.
+
+## Advantages and Opportunities of TSI’s Online Learning Content
 
 The six musicians selected for term one have still been able to reap benefits from the training and mentorship offered in the online context. “The online learning content is being designed and developed simultaneously and tested,” TSI shared. The participating musicians also provide regular feedback on the online learning content development, helping hone the model for future iterations and public release.
 
