@@ -11,7 +11,7 @@ Author: Greg Maly
 
 When we peel back the planning, strategy design, project management, and technical implementation layers of any creation, we see something more intuitive. More human. And that’s the desire to “create.”
 
-Terms like “innovation,” “research and development,” and “discovery” capture the adventure of the creative process. But garnering that same intensity in a workplace, let alone one’s personal life is not always the most accessible trail. In this post, I dive into some tools we employ as a team to foster creative innovation while also making reflections from another part of my life as a musician.
+Terms such as “innovation,” “research and development,” and “discovery” capture the adventure of the creative process. But garnering that same intensity in a workplace, let alone one’s personal life is not always the most accessible trail. In this post, I dive into some tools we employ as a team to foster creative innovation while also making reflections from another part of my life as a musician.
 
 As a musician, I’ve gone through many periods of creative productivity. “Writer’s block,” as some may relate to, is the most frustrating. A quick online search generates tons of books on how to overcome creative dry spells. Meditation, exercise, and just taking a good ol’ break are some of the well-known remedies. But if there’s one thing I’ve learned from songwriting and performing, it’s that the creative process requires gentle nurturing. And just like music production, technology product development is no stranger to creative dry spells.
 
