@@ -18,7 +18,7 @@ Terms such as “innovation,” “research and development,” and “discovery
 
 As a musician, I’ve gone through many periods of creative productivity. “Writer’s block,” as some may relate to, is the most frustrating. A quick online search generates tons of books on how to overcome creative dry spells. Meditation, exercise, and just taking a good ol’ break are some of the well-known remedies. But if there’s one thing I’ve learned from songwriting and performing, it’s that the creative process requires gentle nurturing. And just like music production, technology product development is no stranger to creative dry spells.
 
-So, what are some of the tools we employ as a team to foster creative technology product development?
+So, what are some of the tools we employ as a team to foster creative technology product development? 
 
 ![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
 
