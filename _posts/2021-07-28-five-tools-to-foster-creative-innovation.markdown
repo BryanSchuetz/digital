@@ -20,8 +20,6 @@ As a musician, I’ve gone through many periods of creative productivity. “Wri
 
 So, what are some of the tools we employ as a team to foster creative technology product development? 
 
-![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
-
 <!--more-->
 
 ## Make Innovation a Goal
@@ -37,6 +35,11 @@ Continuous learning is the new normal. When I have “creative block,” I find 
 ## Look for Ideas Everywhere
 
 As careers progress, it can be easy to fall into habits and assumptions of what works and what doesn’t. At DAI, and the Center for Digital Acceleration more specifically, we try not to focus on our own ideas. Instead, we look for ideas around us in our own environments and workspaces to yield dynamic products. Our best applications have come from collaborating across the company to identify common pain points to develop need-based solutions.
+
+![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
+
+<!--more-->
+
 
 ## Not All Work Will be Immediately Useful
 
