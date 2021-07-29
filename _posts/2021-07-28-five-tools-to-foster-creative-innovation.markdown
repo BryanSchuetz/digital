@@ -32,14 +32,13 @@ This year, we set out to develop three new products for our internal projects. W
 
 Continuous learning is the new normal. When I have “creative block,” I find that taking classes or learning a new song helps me break free. A few years ago, when I was tired with my playing, I signed up for a course that not only changed my perspective on my instrument but opened a new period of growth. As a work team, we encourage everyone to take practices that strengthen their current skillset and/or complement their role. We also encourage everyone to take said courses during the workday and take advantage of the professional development funds to support their learning.
 
-## Look for Ideas Everywhere
-
-As careers progress, it can be easy to fall into habits and assumptions of what works and what doesn’t. At DAI, and the Center for Digital Acceleration more specifically, we try not to focus on our own ideas. Instead, we look for ideas around us in our own environments and workspaces to yield dynamic products. Our best applications have come from collaborating across the company to identify common pain points to develop need-based solutions.
-
 ![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
 
 <!--more-->
 
+## Look for Ideas Everywhere
+
+As careers progress, it can be easy to fall into habits and assumptions of what works and what doesn’t. At DAI, and the Center for Digital Acceleration more specifically, we try not to focus on our own ideas. Instead, we look for ideas around us in our own environments and workspaces to yield dynamic products. Our best applications have come from collaborating across the company to identify common pain points to develop need-based solutions.
 
 ## Not All Work Will be Immediately Useful
 
