@@ -34,7 +34,7 @@ Continuous learning is the new normal. When I have “creative block,” I find 
 
 ![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
 
-\([Photo credit: Flickr - Photosteve101](https://www.flickr.com/photos/42931449@N07))
+\[Photo credit: [Flickr - Photosteve101](https://www.flickr.com/photos/42931449@N07)\]
 
 <!--more-->
 
