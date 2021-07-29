@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Jul 2021 11:02:32 -0400</pubDate>
-    <lastBuildDate>Thu, 29 Jul 2021 11:02:32 -0400</lastBuildDate>
+    <pubDate>Thu, 29 Jul 2021 12:00:08 -0400</pubDate>
+    <lastBuildDate>Thu, 29 Jul 2021 12:00:08 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/5771025070_bddb7e2ec6_b-0a13fb.jpg" medium="image" /> 
+        <title>Five Tools to Foster Creative Innovation</title>
+        <description>&lt;p&gt;When we peel back the planning, strategy design, project management, and technical implementation layers of any creation, we see something more intuitive. More human. And that’s the desire to “create.”&lt;/p&gt;
+
+&lt;p&gt;Terms such as “innovation,” “research and development,” and “discovery” capture the adventure of the creative process. But garnering that same intensity in a workplace, let alone one’s personal life is not always the most accessible trail. In this post, I dive into some tools we employ as a team to foster creative innovation while also making reflections from another part of my life as a musician.&lt;/p&gt;
+
+&lt;p&gt;As a musician, I’ve gone through many periods of creative productivity. “Writer’s block,” as some may relate to, is the most frustrating. A quick online search generates tons of books on how to overcome creative dry spells. Meditation, exercise, and just taking a good ol’ break are some of the well-known remedies. But if there’s one thing I’ve learned from songwriting and performing, it’s that the creative process requires gentle nurturing. And just like music production, technology product development is no stranger to creative dry spells.&lt;/p&gt;
+
+&lt;p&gt;So, what are some of the tools we employ as a team to foster creative technology product development?&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 28 Jul 2021 13:47:00 -0400</pubDate>
+        <author>Greg Maly
+</author>
+        <link>https://dai-global-digital.com/five-tools-to-foster-creative-innovation.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/five-tools-to-foster-creative-innovation.html</guid>
+        
+        <category>Challenges</category>
+        
+        <category>Innovation</category>
+        
+        <category>Think Piece</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/AS4-bc3155.png" medium="image" /> 
@@ -216,37 +243,6 @@
         
         <category>Machine Learning</category>
         
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/712130main_8246931247_e60f3c09fb_o.jpg" medium="image" /> 
-        <title>How Satellite Imagery and ‘Light at Night’ Helps Development Practitioners Estimate GDP</title>
-        <description>&lt;p&gt;I am sure many of you have come across a map like the one below. I find that images of our planet are always awe-inspiring and this image is certainly not an exception. I can easily get lost in satellite imagery for hours if I am not careful. Most of those images are based on visual spectrum optical technology (LandSAT, Sentinel, etc.), thus requiring daylight for the powerful digital cameras to “see.” Remote sensing satellites such as &lt;a href=&quot;https://ncc.nesdis.noaa.gov/VIIRS/&quot;&gt;VIIRS&lt;/a&gt;—which DAI uses for its analysis—are equipped with special infrared equipment and able to capture beautiful images of the earth at night!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/712130main_8246931247_e60f3c09fb_o-df5bef.jpg&quot; alt=&quot;712130main_8246931247_e60f3c09fb_o-df5bef.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Source: NASA and DMSP.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Jun 2021 08:00:00 -0400</pubDate>
-        <author>Trevor Olexy
-</author>
-        <link>https://dai-global-digital.com/lights-at-night-wheres-the-gdp.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/lights-at-night-wheres-the-gdp.html</guid>
-        
-        <category>GIS</category>
-        
-        <category>Satellite</category>
-        
-        <category>Imagery</category>
-        
-        <category>Imagery Analysis</category>
-        
-        
-        <category>Data</category>
-        
-        <category>Data Analysis</category>
-        
-        <category>Innovation</category>
         
       </item>
     
