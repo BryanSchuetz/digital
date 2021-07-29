@@ -8,6 +8,7 @@ tags:
 - Think Piece
 Author: Greg Maly
 social-image: "/uploads/5771025070_bddb7e2ec6_b-0a13fb.jpg"
+thumbnail: "/uploads/5771025070_bddb7e2ec6_b-862784.jpg"
 Field name: 
 ---
 
