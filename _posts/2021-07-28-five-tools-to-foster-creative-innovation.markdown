@@ -37,7 +37,7 @@ As careers progress, it can be easy to fall into habits and assumptions of what 
 
 ![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
 
-## Not All Work Will be Immediately Useful
+## Not All Work Will be Immediately Useful 
 
 When creating products, it’s essential to accept that not everything built will be immediately valuable. It’s like writing a verse that sits on a shelf only to be pulled out later. Or creating version 1 and only liking parts of it. Technology products can often be the same way. Maybe we set out to build something just to find that the component we took for granted was the product everyone wanted. Or perhaps the whole concept needs to be thrown out to focus on something new. Accepting this helps ensure that you don’t hit a wall.
 
