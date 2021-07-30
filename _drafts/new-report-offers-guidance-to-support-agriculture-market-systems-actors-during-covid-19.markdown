@@ -20,6 +20,11 @@ To support market system actors as they navigate the opportunities and challenge
 
 The research team focused on eight countries: Bangladesh, Ghana, Guatemala, Kenya, Malawi, Nepal, Niger, and Senegal. Findings demonstrated that market actors increased their use of digital solutions as a result of the pandemic, while digital service providers moved quickly to launch and adapt their existing services to meet the evolving needs of their customers. Researchers also observed that the rapid onset of the pandemic led market system actors to reach for familiar tools or services already available to continue operations. Very few market actors adopted “newly” launched digital solutions in direct response to COVID-19. (The full research findings are discussed in more depth [here](https://agrilinks.org/post/digital-solutions-agriculture-market-systems-responding-covid-19) and in the [report](https://drive.google.com/file/d/16MpY2XpJxE1pZHDgN1bhw_opKuEQYJAt/view?usp=sharing) itself.)
 
+![50267038282_392bac077d_o-843190.jpg](/uploads/50267038282_392bac077d_o-843190.jpg)\
+[Yesterday 10:56 AM] Araba Sapara-Grant
+    ` 
+`Photo credit: Flickr - [Sanjoy Chandra Bhattacherjee](https://www.flickr.com/photos/feedthefuture/50267038282/)
+
 **From Research to Action**
 
 The research team developed a group of supplemental guidance documents to help donors and implementing partners support agriculture market actors respond to shocks like COVID-19 and beyond. The documents focus on three digitally enabled solutions—[E-commerce Marketplaces](https://www.dai.com/uploads/E-Commerce_FRMT-dae762.pdf), [Farmer Management Solutions](https://www.dai.com/uploads/FarmerManagement_FRMT-53bd30.pdf), and [Expanding Mobile Phone Access and Ownership](https://www.dai.com/uploads/MobilePhone_FRMT-f14de6.pdf)— and highlight how these solutions work, how they’ve been used in different contexts, and how they can be assessed and introduced. While I strongly recommend exploring these guidance documents for helpful tips, I summarized a few of the standard checklist items below. I hope they are helpful for those in the process of supporting market system actors through the ever-changing landscape that COVID-19 has introduced.
