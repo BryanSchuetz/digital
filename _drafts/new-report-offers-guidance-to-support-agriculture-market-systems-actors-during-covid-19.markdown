@@ -2,6 +2,8 @@
 title: New Report Offers Guidance to Support Agriculture Market Systems Actors During
   COVID-19
 date: 2021-07-30 15:30:00 -04:00
+Author: Araba Sapara-Grant
+social-image: "/uploads/50267038282_392bac077d_o.jpg"
 ---
 
 Digital tools and services like short message services (SMS), digitally enabled extension services, and artificial intelligence have helped market system actors in developing countries overcome common challenges in the agriculture sector, such as accessing weather information and diagnosing pest or disease outbreaks. Despite the [documented value](https://openknowledge.worldbank.org/bitstream/handle/10986/35216/9781464816574.pdf?sequence=2&isAllowed=y) of these innovations, uptake of digital agriculture technology still is not widespread. A lack of affordable and accessible technologies, poor connectivity, high costs of data, and social stigmas around digital technology can be major barriers to potential users. With COVID-19 making digital connectivity critical to economic activities, development stakeholders have spent the past year and a half assessing the relationship between the pandemic and the adoption and use of digital agriculture.
