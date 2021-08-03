@@ -14,6 +14,8 @@ Digital tools and services such as short message services (SMS), digitally enabl
 
 Despite the [documented value](https://openknowledge.worldbank.org/bitstream/handle/10986/35216/9781464816574.pdf?sequence=2&isAllowed=y) of these innovations, uptake of digital agriculture technology still is not widespread. A lack of affordable and accessible technologies, poor connectivity, high costs of data, and social stigmas around digital technology can be major barriers to potential users. With COVID-19 making digital connectivity critical to economic activities, development stakeholders have spent the past year and a half assessing the relationship between the pandemic and the adoption and use of digital agriculture.
 
+<!--more-->
+
 ## Constructing a Rapid Analysis
 
 To support market system actors as they navigate the opportunities and challenges of digital transformation amidst COVID-19, the U.S Agency for International Development (USAID) Bureau for Resilience and Food Security employed the DAI-managed [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project to commission a rapid analysis. The analysis aimed to understand the impacts of digital tools among agricultural market system actors concerning COVID-19. The analysis focused on three key objectives:
