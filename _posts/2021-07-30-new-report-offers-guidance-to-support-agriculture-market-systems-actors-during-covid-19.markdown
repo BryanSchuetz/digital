@@ -14,7 +14,7 @@ Digital tools and services such as short message services (SMS), digitally enabl
 
 Despite the [documented value](https://openknowledge.worldbank.org/bitstream/handle/10986/35216/9781464816574.pdf?sequence=2&isAllowed=y) of these innovations, uptake of digital agriculture technology still is not widespread. A lack of affordable and accessible technologies, poor connectivity, high costs of data, and social stigmas around digital technology can be major barriers to potential users. With COVID-19 making digital connectivity critical to economic activities, development stakeholders have spent the past year and a half assessing the relationship between the pandemic and the adoption and use of digital agriculture.
 
-### Constructing a Rapid Analysis
+## Constructing a Rapid Analysis
 
 To support market system actors as they navigate the opportunities and challenges of digital transformation amidst COVID-19, the U.S Agency for International Development (USAID) Bureau for Resilience and Food Security employed the DAI-managed [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project to commission a rapid analysis. The analysis aimed to understand the impacts of digital tools among agricultural market system actors concerning COVID-19. The analysis focused on three key objectives:
 
@@ -26,7 +26,7 @@ The research team focused on eight countries: Bangladesh, Ghana, Guatemala, Keny
 
 ![50267038282_392bac077d_o-843190.jpg](/uploads/50267038282_392bac077d_o-843190.jpg)`Photo Credit: Flickr, Sanjoy Chandra Bhattacherjee.`
 
-### From Research to Action
+## From Research to Action
 
 The research team developed a group of supplemental guidance documents to help donors and implementing partners support agriculture market actors respond to shocks like COVID-19 and beyond. The documents focus on three digitally enabled solutions—[E-commerce Marketplaces](https://www.dai.com/uploads/E-Commerce_FRMT-dae762.pdf), [Farmer Management Solutions](https://www.dai.com/uploads/FarmerManagement_FRMT-53bd30.pdf), and [Expanding Mobile Phone Access and Ownership](https://www.dai.com/uploads/MobilePhone_FRMT-f14de6.pdf)— and highlight how these solutions work, how they’ve been used in different contexts, and how they can be assessed and introduced. While I strongly recommend exploring these guidance documents for helpful tips, I summarized a few of the standard checklist items below. I hope they are helpful for those in the process of supporting market system actors through the ever-changing landscape that COVID-19 has introduced.
 
