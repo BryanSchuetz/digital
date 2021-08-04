@@ -1,8 +1,14 @@
 ---
 title: Emerging Technologies Provide New Opportunities for Bridging the Digital Divide
 date: 2021-08-04 14:45:00 -04:00
+tags:
+- Cybersecurity
+- Digital
+- Mobile
+- digital platforms
 Author: Alexander Sekhniashvili
 social-image: "/uploads/Internet%20Connectivity%20diagram%20Blog%20Pic%201.png"
+thumbnail: "/uploads/Starlink%20Space%20X%20Satellites%20Blog%20Pic%202.jpg"
 ---
 
 New investments in emerging technologies offer transformation opportunities in developing countries; particularly, for rural and remote populations benefiting from internet connectivity. This blog highlights three developments that pose exciting opportunities for donor interventions to work with the private sector, governments, and end users to bridge the digital divide. These efforts may be complementary to planned or completed infrastructure, specifically for last-mile connectivity solutions to expand inclusive and affordable access for end users across various regions.
@@ -13,7 +19,7 @@ The economic and social benefit of expanding internet connectivity is profound. 
 
 [99% of all international internet data traffic](https://www.adb.org/sites/default/files/publication/696521/sdwp-076-digital-connectivity-low-earth-orbit-satellite.pdf) is transmits through fiber optic cables that predominantly comprise a vast infrastructure of 1.3 million km of [426 submarine cables](https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions) that feed the national backbone networks worldwide. However, middle and last-mile connectivity of backhaul infrastructure and networks provide access to end-user devices and premises. Opportunities are rising to deploy less capital-intensive emerging technologies that offer diverse options, enabled by public-private partnerships (PPPs) with critical donor support for developing nations.
 ![Internet Connectivity diagram Blog Pic 1.png](/uploads/Internet%20Connectivity%20diagram%20Blog%20Pic%201.png)
-`International Telecommunication Union. 2020. The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites`
+`Source: International Telecommunication Union. 2020.The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites`
 
 Below are three emerging technologies with increasing international focus to close connectivity gaps that offer complementary donor interventions for developing countries.
 
