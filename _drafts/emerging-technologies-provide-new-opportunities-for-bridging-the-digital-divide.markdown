@@ -11,7 +11,7 @@ social-image: "/uploads/Internet%20Connectivity%20diagram%20Blog%20Pic%201.png"
 thumbnail: "/uploads/Starlink%20Space%20X%20Satellites%20Blog%20Pic%202.jpg"
 ---
 
-New investments in emerging technologies offer transformational opportunities in developing countries—particularly for rural and remote populations benefiting from internet connectivity. This blog highlights three developments for donor interventions to work with the private sector, governments, and end users to bridge the digital divide. These efforts may be complementary to planned or completed infrastructure, specifically for last-mile connectivity solutions to expand inclusive and affordable access for end users across various regions.
+New investments in emerging technologies offer transformational opportunities in developing countries—particularly for rural and remote populations benefiting from internet connectivity. This blog highlights three developments for potential donor interventions to work with the private sector, governments, and users to bridge the digital divide. These efforts may be complementary to planned or completed infrastructure, specifically for last-mile connectivity solutions to expand inclusive and affordable access for users across various regions.
 
 <!--more-->
 
