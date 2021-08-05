@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Aug 2021 17:04:57 -0400</pubDate>
-    <lastBuildDate>Wed, 04 Aug 2021 17:04:57 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Aug 2021 10:40:23 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Aug 2021 10:40:23 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Internet%20Connectivity%20diagram%20Blog%20Pic%201.png" medium="image" /> 
+        <title>Emerging Technologies Provide New Opportunities to Bridge the Digital Divide</title>
+        <description>&lt;p&gt;New investments in emerging technologies offer transformational opportunities in developing countries—particularly for rural and remote populations benefiting from internet connectivity. This blog highlights three developments for potential donor interventions to work with the private sector, governments, and users to bridge the digital divide. These efforts may be complementary to planned or completed infrastructure, specifically for last-mile connectivity solutions to expand inclusive and affordable access for people across various regions.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Aug 2021 14:45:00 -0400</pubDate>
+        <author>Alexander Sekhniashvili
+</author>
+        <link>https://dai-global-digital.com/emerging-technologies-provide-new-opportunities-for-bridging-the-digital-divide.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/emerging-technologies-provide-new-opportunities-for-bridging-the-digital-divide.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Digital</category>
+        
+        <category>Mobile</category>
+        
+        <category>digital platforms</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/sound%20blog%20photo%203.JPG" medium="image" /> 
@@ -221,27 +244,6 @@
         <category>digital agriculture</category>
         
         <category>RFP</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/mx_fco_6_22_fig_4.png" medium="image" /> 
-        <title>What Job Postings from Mexico's Energy Sector Reveal About the State of Clean Energy</title>
-        <description>&lt;p&gt;A significant challenge to achieving the &lt;a href=&quot;https://en.wikipedia.org/wiki/Sustainable_Development_Goals&quot;&gt;Sustainable Development Goals&lt;/a&gt; has been measuring country progress in the transition to renewable and clean energy sources. While expert surveys or legislation enacted may provide some insight into how countries are progressing on the whole, they lack the granularity to inform us about subnational trends, skills in-demand, and the presence of firms and subsectors within each country.&lt;/p&gt;
-
-&lt;p&gt;One useful way to explore these factors is by analyzing data available from job search engines and using keywords related to the energy sector. These can provide insights on how jobs in key sectors and subsectors evolve over time, what the demand for labor among firms in the energy sector is, where these openings and firms are located, and how they differ in terms of skills sought in the labor market.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jun 2021 06:00:00 -0400</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/jamie-parr/">Jamie Parr</a>, <a href="https://www.linkedin.com/in/andrea-larios-v%C3%A1zquez-/">Andrea Guadalupe Larios Vázquez</a>, <a href="https://www.linkedin.com/in/javier-p%C3%A9rez-barn%C3%A9s-2b810a1a/">Javier Pérez Barnés</a>, <a href="https://www.dai.com/who-we-are/our-team/estera-barbarasa">Estera Barbarasa</a>, and <a href="https://www.linkedin.com/in/ramon-olivas/?originalSubdomain=mx">Ramon Olivas</a>
-</author>
-        <link>https://dai-global-digital.com/what-can-we-learn-from-job-postings-in-the-energy-sector-evidence-from-mexico.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-can-we-learn-from-job-postings-in-the-energy-sector-evidence-from-mexico.html</guid>
-        
-        <category>Data Visualization</category>
-        
-        <category>Environment &amp; Energy</category>
         
         
       </item>
