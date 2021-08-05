@@ -5,7 +5,7 @@ tags:
 - Cybersecurity
 - Digital
 - Mobile
-- digital platforms
+- Digital Platforms
 Author: Alexander Sekhniashvili
 social-image: "/uploads/Internet%20Connectivity%20diagram%20Blog%20Pic%201.png"
 thumbnail: "/uploads/Starlink%20Space%20X%20Satellites%20Blog%20Pic%202.jpg"
