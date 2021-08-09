@@ -1,6 +1,6 @@
 ---
 title: 'Blockchain: Are We Beyond the Peak of The Hype Cycle?'
-date: 2021-08-09 12:41:00 -04:00
+date: 2021-08-13 06:00:00 -04:00
 tags:
 - Blockchain Series
 - Digital Identity
