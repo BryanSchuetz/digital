@@ -1,11 +1,13 @@
 ---
-title: Blockchain – Are We Beyond the Peak of The Hype Cycle?
+title: 'Blockchain: Are We Beyond the Peak of The Hype Cycle?'
 date: 2021-08-09 12:41:00 -04:00
 ---
 
 A combination of mainstream media attention and Elon Musk's Twitter feed has reignited the public interest in distributed ledger technologies, commonly referred to as blockchain. DAI's Center for Digital Acceleration (CDA) is no stranger to this technology – check out our previous blog postings for a comprehensive overview of [blockchain](https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html) and how CDA has [applied this concept in-house](https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html). We felt now was the time to revisit blockchain's role in international development to assess whether the technology is beyond the peak of the [hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) and ready for sustainable long-term deployment.
 
 Over the last decade, international donors and the private sector have used blockchain across focus areas such as financial inclusion, digital government, and supply chain management. Applications leverage the technology's ability to decrease transaction costs, maintain an immutable record, and provide users with privacy. Below are several examples from these three focus areas and what they tell us about blockchain's future in the development sector.
+
+<!--more-->
 
 ## Financial Inclusion
 
