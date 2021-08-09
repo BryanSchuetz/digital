@@ -1,6 +1,11 @@
 ---
 title: 'Blockchain: Are We Beyond the Peak of The Hype Cycle?'
 date: 2021-08-09 12:41:00 -04:00
+tags:
+- Blockchain Series
+- Digital Identity
+- Digital Financial Services
+- Digital Inclusion
 Author: "[Connor MacKenzie](https://www.linkedin.com/in/connor-mackenzie/)"
 social-image: "/uploads/blockchain-3019120_1920.png"
 ---
