@@ -8,6 +8,7 @@ tags:
 - Digital Inclusion
 Author: "[Connor MacKenzie](https://www.linkedin.com/in/connor-mackenzie/)"
 social-image: "/uploads/blockchain-3019120_1920.png"
+thumbnail: "/uploads/blockchain-3019120_1920.png"
 ---
 
 A combination of mainstream media attention and Elon Musk's Twitter feed has reignited the public interest in distributed ledger technologies, commonly referred to as blockchain. DAI's Center for Digital Acceleration (CDA) is no stranger to this technology – check out our previous blog postings for a comprehensive overview of [blockchain](https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html) and how CDA has [applied this concept in-house](https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html). We felt now was the time to revisit blockchain's role in international development to assess whether the technology is beyond the peak of the [hype cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) and ready for sustainable long-term deployment.
