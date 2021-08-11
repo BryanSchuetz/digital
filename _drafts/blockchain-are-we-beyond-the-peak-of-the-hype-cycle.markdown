@@ -27,7 +27,7 @@ Blockchain-based applications can also provide formal identification (ID) to the
 
 ## Digital Government
 
-As the push for digital government (or 'e-governance') continues to rise in emerging markets, blockchain will be critical for ensuring information security and data privacy. Estonia, where [99% of public services](https://www.pwc.com/gx/en/services/legal/tech/assets/estonia-the-digital-republic-secured-by-blockchain.pdf) are available as e-services, is a leading nation in e-governance and blockchain. The country successfully digitized public services such as voting, tax collection, and land records through blockchain-based platforms that instantly verify and upload information. Such uses make public services more efficient and can improve social accountability by making the government more transparent.
+As the push for digital government (or "e-governance") continues to rise in emerging markets, blockchain will be critical for ensuring information security and data privacy. Estonia, where [99% of public services](https://www.pwc.com/gx/en/services/legal/tech/assets/estonia-the-digital-republic-secured-by-blockchain.pdf) are available as e-services, is a leading nation in e-governance and blockchain. The country successfully digitized public services such as voting, tax collection, and land records through blockchain-based platforms that instantly verify and upload information. Such uses make public services more efficient and can improve social accountability by making the government more transparent.
 
 ## Supply Chain Management
 
