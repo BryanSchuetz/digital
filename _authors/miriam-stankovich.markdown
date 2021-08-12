@@ -1,7 +1,6 @@
 ---
 title: Miriam Stankovich
 date: 2021-08-11 16:47:00 -04:00
-published: false
 Job: Senior Digital Policy Specialist, Center for Digital Acceleration
 Image: "/uploads/Mimi.jpg"
 ---
