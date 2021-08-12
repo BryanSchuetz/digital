@@ -1,4 +1,15 @@
 
+- title: "Can Regulators Keep up with Artificial Intelligence?"
+  pub: "Digital"
+  date: 2021-08-11
+  link: "https://dai-global-digital.com/can-regulators-keep-up-with-artificial-intelligence.html?utm_source=daidotcom"
+  summary: "Artificial intelligence (AI) presents one of the most difficult challenges to traditional regulation. Three decades ago, software was programmed; today, it’s trained. AI itself is not one technology or singular development. It is a bundle of technologies whose decision-making mode is often not fully understand by even AI developers.
+
+AI solutions can help address critical global challenges and deliver significant benefits; however, the technology could lead to unforeseeable outcomes absent clear regulations and ethical guidelines. AI can have damaging repercussions for data privacy, information, and cybersecurity, providing hackers with ways to access sensitive personal data, hijack systems, or manipulate devices connected to the Internet. Self-learning algorithms already anticipate human needs and wants, govern our newsfeeds, and drive our cars. How can we ensure that this technology benefits people widely? If AI and autonomous machines play a crucial role in our everyday lives, what sort of normative and ethical frameworks should guide their design?"
+  tags:
+    - digital acceleration 
+    - AI 
+
 - title: "Emerging Technologies Provide New Opportunities to Bridge the Digital Divide"
   pub: "Digital"
   date: 2021-08-04
@@ -245,15 +256,4 @@ Source: TechSpot."
     - digital acceleration 
     - digital agriculture 
     - RFP 
-
-- title: "My Transition from a Tech Company to DAI"
-  pub: "Digital"
-  date: 2021-05-13
-  link: "https://dai-global-digital.com/my-transition-from-a-tech-company-to-dai.html?utm_source=daidotcom"
-  summary: "Before joining DAI’s Center for Digital Acceleration (CDA), I worked in the software development industry. For the majority of my 15 years in this field, I only worked for tech companies whose main business model was building software. To successfully build software, there are multiple practices and skills that companies need. These skills are, for example, agile methodologies and good coding practices (such as patterns and documentation) that often vary from company to company and the type of technology used. Other practices include daily meetings and specialized resources for each phase of the software development process. In addition, there are roles such as back-end developers, front-end developers, DevOps, scrum masters, graphic designers, UX designers, and more! From this, you can see there is a lot that goes into making even a small web application. But, what I have just described is the experience of working on very large teams that only make software, which is very different from work within CDA’s Products team."
-  tags:
-    - digital acceleration 
-    - software development 
-    - agile 
-    - Think Piece 
 
