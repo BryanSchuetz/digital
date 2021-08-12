@@ -3,6 +3,7 @@ title: Can Regulators Keep up with Artificial Intelligence?
 date: 2021-08-11 15:35:00 -04:00
 tags:
 - AI
+- AI Bias
 Author: Miriam Stankovich
 social-image: "/uploads/0_HVcjTHN6PjiszK0H.png"
 thumbnail: "/uploads/0_HVcjTHN6PjiszK0H.png"
