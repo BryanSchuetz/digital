@@ -1,6 +1,11 @@
 ---
 title: Can Regulators Keep up with Artificial Intelligence?
 date: 2021-08-11 15:35:00 -04:00
+tags:
+- AI
+Author: Miriam Stankovich
+social-image: "/uploads/0_HVcjTHN6PjiszK0H.png"
+thumbnail: "/uploads/0_HVcjTHN6PjiszK0H.png"
 ---
 
 Artificial intelligence (AI) presents one of the most difficult challenges to traditional regulation. Three decades ago, software was programmed; today, it's trained. AI itself is not one technology or singular development. It is a bundle of technologies whose decision-making mode is often not fully understand by even AI developers.
