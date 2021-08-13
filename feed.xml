@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Aug 2021 15:37:07 -0400</pubDate>
-    <lastBuildDate>Thu, 12 Aug 2021 15:37:07 -0400</lastBuildDate>
+    <pubDate>Fri, 13 Aug 2021 10:45:55 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Aug 2021 10:45:55 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/blockchain-3019120_1920.png" medium="image" /> 
+        <title>Blockchain: Are We Beyond the Peak of The Hype Cycle?</title>
+        <description>&lt;p&gt;A combination of mainstream media attention and Elon Musk’s Twitter feed has reignited the public interest in distributed ledger technologies, commonly referred to as the blockchain. CDA is no stranger to this technology; check out our blog post on &lt;a href=&quot;https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;blockchain&lt;/a&gt; and how we’ve &lt;a href=&quot;https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html&quot;&gt;applied these concepts in-house&lt;/a&gt;. Blockchain-based applications leverage technology’s ability to decrease transaction costs, maintain immutable records, and provide users with privacy.&lt;/p&gt;
+
+&lt;p&gt;Over the last decade, international donors and the private sector have used blockchain across financial inclusion, digital government, and supply chain management. Recently, we revisited blockchain’s role in these various technical areas to assess its &lt;a href=&quot;https://www.gartner.com/en/research/methodologies/gartner-hype-cycle&quot;&gt;hype cycle&lt;/a&gt; and long-term deployment sustainability.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Aug 2021 06:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/connor-mackenzie/">Connor MacKenzie</a>
+</author>
+        <link>https://dai-global-digital.com/blockchain-are-we-beyond-the-peak-of-the-hype-cycle.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-are-we-beyond-the-peak-of-the-hype-cycle.html</guid>
+        
+        <category>Blockchain Series</category>
+        
+        <category>Digital Identity</category>
+        
+        <category>Digital Financial Services</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/0_HVcjTHN6PjiszK0H.png" medium="image" /> 
@@ -223,27 +248,6 @@
         <category>Prizes</category>
         
         <category>Challenges</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Tiffany.jpg" medium="image" /> 
-        <title>Digital Platform Unites Afghan Activists</title>
-        <description>&lt;p&gt;Since 2015, the U.S. Agency for International Development (USAID)-funded &lt;a href=&quot;https://www.dai.com/our-work/projects/afghanistan-musharikat&quot;&gt;Promote: Musharikat&lt;/a&gt; program has been promoting the meaningful civic participation of Afghan women. To date, more than 7,000 activists and 370 civil society organizations (CSO), across all 34 of Afghanistan’s provinces, have chosen to join DAI-led Musharikat to advance women’s equality and empowerment. By working through coalitions, Musharikat brings together citizen activists, government officials, religious scholars, and a diverse assemblage of CSOs to bolster both the supply and demand for women’s rights in Afghanistan. Though each coalition has a specific mandate, their shared vision of a peaceful, inclusive, and equitable country provides a common cause for action. This mission includes public awareness campaigns, building the capacity of those championing change, and working with government institutions to vigorously enforce and reform laws to fulfill their duty to the nation’s largest underserved constituency—women.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 01 Jul 2021 06:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/andyjyates/">Andy Yates</a>
-</author>
-        <link>https://dai-global-digital.com/digital-platform-unites-afghan-activists.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-platform-unites-afghan-activists.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Afghanistan</category>
-        
-        <category>Digital Platforms</category>
         
         
       </item>
