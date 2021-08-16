@@ -39,7 +39,7 @@ excerpt_separator: "<!--more-->"
 email: your-email@domain.com
 baseurl: "/foo"
 plugins:
-  - "jekyll-redirect-from"
+- jekyll-redirect-from
 exclude:
 - ".gitignore"
 - gulpfile.js
