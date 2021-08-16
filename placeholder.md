@@ -1,6 +1,7 @@
 ---
 title: Placeholder Page
-permalink: /placeholder
+permalink: "/placeholder"
 redirect_from:
-- '/parcel-boundaries-of-northern-afghanistan'
+- "/parcel-boundaries-of-northern-afghanistan"
 ---
+
