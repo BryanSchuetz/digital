@@ -1,6 +1,6 @@
 ---
 title: Placeholder Page
-permalink: /placeholder
+permalink: "/placeholder"
 redirect_from:
 - '/parcel-boundaries-of-northern-afghanistan'
 - '/consumer-insights-afghanistan-how-young-women-are-using-tech'

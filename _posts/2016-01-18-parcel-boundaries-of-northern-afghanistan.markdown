@@ -1,6 +1,7 @@
 ---
 title: Open Data! Parcel Boundaries of Northern Afghanistan
 date: 2016-01-18 14:46:00 -05:00
+published: false
 categories:
 - open-data
 tags:
@@ -8,7 +9,6 @@ tags:
 - Data
 Author: John DeRiggi
 thumbnail: "/uploads/afghanparcelstitle_sm.png"
-published: false
 ---
 
 ![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle_sm.png)
