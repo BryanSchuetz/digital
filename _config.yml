@@ -37,7 +37,6 @@ kramdown:
   syntax_highlighter: rouge
 excerpt_separator: "<!--more-->"
 email: your-email@domain.com
-baseurl: "/foo"
 plugins:
   - "jekyll-redirect-from"
 exclude:
