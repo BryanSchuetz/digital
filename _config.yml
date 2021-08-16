@@ -38,7 +38,7 @@ kramdown:
 excerpt_separator: "<!--more-->"
 email: your-email@domain.com
 plugins:
-  - "jekyll-redirect-from"
+- jekyll-redirect-from
 exclude:
 - ".gitignore"
 - gulpfile.js

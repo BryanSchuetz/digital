@@ -1,6 +1,7 @@
 ---
 title: Digital Platform Unites Afghan Activists
 date: 2021-07-01 06:00:00 -04:00
+published: false
 tags:
 - Digital Inclusion
 - Afghanistan
@@ -8,7 +9,6 @@ tags:
 Author: "[Andy Yates](https://www.linkedin.com/in/andyjyates/)"
 social-image: "/uploads/Tiffany.jpg"
 thumbnail: "/uploads/Tiffany.jpg"
-published: false
 ---
 
 Since 2015, the U.S. Agency for International Development (USAID)-funded [Promote: Musharikat](https://www.dai.com/our-work/projects/afghanistan-musharikat) program has been promoting the meaningful civic participation of Afghan women. To date, more than 7,000 activists and 370 civil society organizations (CSO), across all 34 of Afghanistan's provinces, have chosen to join DAI-led Musharikat to advance women’s equality and empowerment. By working through coalitions, Musharikat brings together citizen activists, government officials, religious scholars, and a diverse assemblage of CSOs to bolster both the supply and demand for women’s rights in Afghanistan. Though each coalition has a specific mandate, their shared vision of a peaceful, inclusive, and equitable country provides a common cause for action. This mission includes public awareness campaigns, building the capacity of those championing change, and working with government institutions to vigorously enforce and reform laws to fulfill their duty to the nation’s largest underserved constituency—women.
