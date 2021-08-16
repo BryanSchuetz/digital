@@ -8,6 +8,7 @@ tags:
 - Data
 Author: John DeRiggi
 thumbnail: "/uploads/afghanparcelstitle_sm.png"
+published: false
 ---
 
 ![Parcel Boundaries 1.jpg](/uploads/afghanparcelstitle_sm.png)
