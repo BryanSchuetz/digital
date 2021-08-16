@@ -7,6 +7,7 @@ tags:
 Author: Adam Fivenson
 social-image: "/uploads/FI2%20(1).jpg"
 thumbnail: "/uploads/FI2%20(1).jpg"
+published: false
 ---
 
 The Center for Digital Acceleration is excited to announce that we’re taking *MiMuni*, the [open-source](https://github.com/munis-transparencia-gobierno-abierto/municipalidad-de-chiantla) transparency and citizen participation application developed for Guatemalan municipalities, and replicating it for five municipalities in Afghanistan through the [Strong Hubs for Afghan Hope and Resilience (SHAHAR)](https://www.dai.com/our-work/projects/afghanistan-strong-hubs-afghan-hope-and-resilience-shahar) project, which is funded by the U.S. Agency for International Development. The first iteration will be with the Municipality of Kabul.

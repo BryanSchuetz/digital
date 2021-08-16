@@ -9,6 +9,7 @@ Author: "[Addie Ryan](https://dai-global-digital.com/authors/addie-ryan/) and [T
   Olexy](https://dai-global-digital.com/authors/trevor-olexy/)"
 social-image: "/uploads/Design%20Thinking%20Session_cropped.jpg"
 thumbnail: "/uploads/Design%20Thinking%20Session_cropped.jpg"
+published: false
 ---
 
 *Note: This follows an earlier [post](https://dai-global-digital.com/citizen-centered-design-and-frontier-insights-in-kabul-municipality.html) that covers our pre-development human-centered design (HCD) phase.*

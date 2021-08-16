@@ -10,6 +10,7 @@ tags:
 Author: Greg Maly
 social-image: "/uploads/AI%202%20copy%20(002).jpg"
 thumbnail: "/uploads/AI%202%20copy%20(002).jpg"
+published: false
 ---
 
 This past summer, DAI’s [Promote: Women in the Economy (WIE)](https://www.dai.com/our-work/projects/afghanistan-women-in-the-economy) project came to an end. Funded by the U.S. Agency for International Development, the project bolstered women’s inclusion in Afghanistan’s economy through technical assistance, access to finance, and business training. In 2016, our team [wrote](https://dai-global-digital.com/machine-learning-will-help-development-projects-achieve-scale.html) about the possibility of leveraging machine learning to “automate the alignment of unstructured CVs and resumes with available jobs, thereby facilitating the Afghan women's access to employment opportunities.” Four years later, this use case for machine learning is one of our favorite examples. We reflect on five lessons from this initiative, and how we can translate its success into future endeavors.

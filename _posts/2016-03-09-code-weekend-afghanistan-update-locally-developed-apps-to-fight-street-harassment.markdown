@@ -6,6 +6,7 @@ tags:
 - Governance
 - Eastern Europe and Central Asia
 Author: Anand Varghese
+published: false
 ---
 
 In February, I wrote a [piece](https://dai-global-digital.com/sowing-the-seeds-of-a-tech-for-social-good-ecosystem-in-afghanistan.html) about Code Weekend, a tech-for-social-good organization based in Kabul. Here’s an exciting update: last month, it launched the first [Code Women Challenge](http://challenge.codeweekend.af/register.php) in Afghanistan, aimed at creating smartphone apps to counter the harassment that women face in the streets. Nine teams submitted concepts, and two tied for first place in the competition.
