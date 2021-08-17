@@ -15,3 +15,6 @@ redirect_from:
 - "/digital-platform-unites-afghan-activists"
 ---
 
+This page has been temporarily replaced following recent events in Afghanistan.
+
+**Last Updated: 8/16/2021**
