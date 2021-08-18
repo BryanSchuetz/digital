@@ -8,7 +8,7 @@ social-image: "/uploads/35601065925_5c9a9376dd_c.jpg"
 thumbnail: "/uploads/35601065925_5c9a9376dd_c.jpg"
 ---
 
-Digital literacy goes beyond knowing how to create a TikTok account or any other social media account. It is the ability to find, evaluate, comprehend, and use technology. Engaging with online content while simultaneously knowing the risks and limitations of technology is vital when participating in the digital world. In a digitally growing society, children today are using technology, now more than ever, to connect with peers and explore, search, and create content. Analyzing information, identifying patterns, and forming educated conclusions are invaluable digital skills for children to start building. Below are essential topics to cover when introducing children to digital literacy:
+Digital literacy goes beyond knowing how to create a TikTok account. True digital literacy is the ability to find, evaluate, comprehend, and use technology. Engaging with online content while simultaneously knowing the risks and limitations of technology is vital when participating in the digital world. In a digitally growing society, children today are using technology, now more than ever, to connect with peers and explore, search, and create content. Analyzing information, identifying patterns, and forming educated conclusions are invaluable digital skills for children to start building. Below are essential topics to cover when introducing children to digital literacy:
 
 <!--more-->
 
