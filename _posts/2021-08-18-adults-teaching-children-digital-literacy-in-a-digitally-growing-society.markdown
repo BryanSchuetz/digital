@@ -22,7 +22,7 @@ Digital literacy goes beyond knowing how to create a TikTok account. True digita
 
 ## Creative Activities to Engage Children in Digital Literacy
 
-1. **Compare & Contrast Challenge:** While supervised, allow the student to browse the internet for two websites of similar themes but different layouts. Encourage students to utilize critical thinking when considering the number of advertisements, information shared and overlapped, and the images found while navigating the web pages. [Learning for Justice](https://www.learningforjustice.org/digital-literacy-lessons) has many lessons for adults looking to teach children and youths of all ages on being savvy internet users.
+1. **Compare & Contrast Challenge:** While supervised, allow the student to browse the internet for two websites of similar themes but different layouts. Encourage students to use critical thinking when considering the number of advertisements, information shared and overlapped, and the images found while navigating the web pages. [Learning for Justice](https://www.learningforjustice.org/digital-literacy-lessons) has many lessons for adults looking to teach children and youths of all ages on being savvy internet users.
 
 2. **Password Challenge:** Give children the task of creating a strong password. They should understand the difference between a weak and a strong password. Strong passwords are at least seven characters long; contain a mix of numbers, letters, and special characters; and do not include personal information. Weak passwords are easy to guess, like “1234”; contain information such as your name, school, or address; and are less than seven characters long.
 
