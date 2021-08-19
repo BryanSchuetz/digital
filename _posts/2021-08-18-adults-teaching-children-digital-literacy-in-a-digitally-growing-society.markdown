@@ -1,9 +1,9 @@
 ---
 title: Adults Teaching Children Digital Literacy in a Digitally Growing Society
 date: 2021-08-18 13:01:00 -04:00
-published: false
 tags:
 - Digital Literacy
+Author: Temi Olatunji
 social-image: "/uploads/35601065925_5c9a9376dd_c.jpg"
 thumbnail: "/uploads/35601065925_5c9a9376dd_c.jpg"
 ---
