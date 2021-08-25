@@ -22,11 +22,9 @@ While a CMS can get content out to learners, it does not comprehensively track o
 
 An LMS is an educational or training-focused platform that can track learners and assess their engagement with content. This type of platform is what Massive Open Online Course providers such as EdX or Coursera use. It is also the type of platform that schools and universities with remote or hybrid learning models tend to use. An LMS can support entirely self-paced, fully instructor-led, or hybrid courses. It is limited only by the instructional design that course developers imagine.
 
-LMSs can provide more comprehensive learner metrics and tracking, and mimic a traditional school-based experience, but it is also more complex to set up, use, and maintain. There is a tremendous amount of back-end administrative and technological support that goes into running a self-contained LMS. Currently, for full engagement with an LMS, learners often need consistent high-speed internet, although there are emerging efforts to support LMSs that can work offline for learners.
+An LMS can provide more comprehensive learner metrics and tracking, and mimic a traditional school-based experience, but it is also more complex to set up, use, and maintain. There is a tremendous amount of back-end administrative and technological support that goes into running a self-contained LMS. Currently, for full engagement with an LMS, learners often need consistent high-speed internet, although there are emerging efforts to support LMSs that can work offline for learners.
 
-![6555466127_96972a78fa_o.png](/uploads/6555466127_96972a78fa_o.png)
-
-*`Photo credit: Flickr, Opensource.com`*
+![6555466127_96972a78fa_o.png](/uploads/6555466127_96972a78fa_o.png)`Photo credit: Flickr, Opensource.com.`
 
 ## How do you know which one you need?
 
