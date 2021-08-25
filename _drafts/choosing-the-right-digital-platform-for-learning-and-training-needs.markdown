@@ -28,7 +28,7 @@ LMS's can provide more comprehensive learner metrics and tracking and mimic a tr
 
 ![6555466127_96972a78fa_o.png](/uploads/6555466127_96972a78fa_o.png)
 
-`Photo credit: Flickr, Opensource.com`
+*`Photo credit: Flickr, Opensource.com`*
 
 ## How do you know which one you need?
 
