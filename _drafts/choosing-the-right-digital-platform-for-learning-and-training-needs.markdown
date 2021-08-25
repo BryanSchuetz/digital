@@ -1,6 +1,6 @@
 ---
 title: Choosing the Right Digital Platform for Learning and Training Needs
-date: 2021-08-25 14:40:00 -04:00
+date: 2021-08-26 06:00:00 -04:00
 tags:
 - eLearning
 Author: Anne Hand
