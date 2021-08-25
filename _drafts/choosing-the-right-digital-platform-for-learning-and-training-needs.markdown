@@ -8,7 +8,7 @@ social-image: "/uploads/6555466127_96972a78fa_o.png"
 thumbnail: "/uploads/6555466127_96972a78fa_o.png"
 ---
 
-As the world has familiarized itself with online learning in our COVID-affected times, we are exposed to myriad ways that we can access these remote resources. When we switch roles – from learning to developing different types of courses – this generalized exposure can become confusing.
+As the world has familiarized itself with online learning in our COVID-affected times, we are exposed to a myriad of ways that we can access these remote resources. When we switch roles – from learning to developing different types of courses – this generalized exposure can become confusing.
 
 There are so many seamless ways we have experienced remote learning; all the technical terms for ways digital learning material is presented can become overwhelming. This blog explains the two most common platforms used to present eLearning material: Content Management Systems (CMSs) and Learning Management Systems (LMSs). Understanding these ways to structure and present eLearning material is key to determining which is more beneficial for a project's needs.
 
