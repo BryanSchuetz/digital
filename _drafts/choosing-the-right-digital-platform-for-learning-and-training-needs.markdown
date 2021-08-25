@@ -26,7 +26,7 @@ An LMS can provide more comprehensive learner metrics and tracking, and mimic a 
 
 ![6555466127_96972a78fa_o.png](/uploads/6555466127_96972a78fa_o.png)`Photo credit: Flickr, Opensource.com.`
 
-## How do you know which one you need?
+## Which One Do You Need?
 
 There are some clear pros and cons to choosing a CMS or an LMS as an eLearning platform:
 
