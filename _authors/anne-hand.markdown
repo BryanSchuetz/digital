@@ -1,7 +1,6 @@
 ---
 title: Anne Hand
 date: 2021-08-25 11:04:00 -04:00
-published: false
 Job: 'Manager, Instructional Design '
 Image: "/uploads/Crop_Headshot.PNG"
 ---
