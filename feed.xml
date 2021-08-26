@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Aug 2021 11:00:15 -0400</pubDate>
-    <lastBuildDate>Thu, 19 Aug 2021 11:00:15 -0400</lastBuildDate>
+    <pubDate>Thu, 26 Aug 2021 13:25:40 -0400</pubDate>
+    <lastBuildDate>Thu, 26 Aug 2021 13:25:40 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/6555466127_96972a78fa_o.png" medium="image" /> 
+        <title>Choosing the Right Digital Platform for Learning and Training Needs</title>
+        <description>&lt;p&gt;As the world familiarizes itself with online learning in our COVID-19-affected times, we have been exposed to many seamless ways to experience remote learning. However, when we switch roles—from learning to developing different types of courses—this generalized exposure and all the technical terms for ways digital learning material is presented can become overwhelming. This blog explains the two most common platforms used to present eLearning material: Content Management Systems (CMS) and Learning Management Systems (LMS). Understanding these ways to structure and present eLearning material is key to determining which is more beneficial for a project’s needs.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Aug 2021 06:00:00 -0400</pubDate>
+        <author>Anne Hand
+</author>
+        <link>https://dai-global-digital.com/choosing-the-right-digital-platform-for-learning-and-training-needs.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/choosing-the-right-digital-platform-for-learning-and-training-needs.html</guid>
+        
+        <category>eLearning</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/35601065925_5c9a9376dd_c.jpg" medium="image" /> 
@@ -221,29 +238,6 @@
         <category>Think Piece</category>
         
         <category>COVID-19</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/CoverPhoto.JPG" medium="image" /> 
-        <title>Request for Information: Exploring the Role of AI and Automation on Agrifood Systems</title>
-        <description>&lt;p&gt;Artificial intelligence (AI) applications are rapidly evolving to include more complex and advanced tasks. As a result, the number of meaningful use cases relevant to the development sector are expanding and demonstrate significant potential to solve some of the world’s most prominent challenges.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/CoverPhoto.JPG&quot; alt=&quot;CoverPhoto.JPG&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 09 Jul 2021 08:05:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/lilyana-gabrielse-8bb40b1bb/">Lilyana Gabrielse</a>
-</author>
-        <link>https://dai-global-digital.com/request-for-information-exploring-the-role-of-ai-and-automation-on-agri-food-systems.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/request-for-information-exploring-the-role-of-ai-and-automation-on-agri-food-systems.html</guid>
-        
-        <category>RFI</category>
-        
-        <category>digital agriculture</category>
-        
-        <category>AI</category>
         
         
       </item>
