@@ -4,13 +4,13 @@ date: 2021-09-02 06:00:00 -04:00
 tags:
 - Blockchain Series
 Author: Miriam Stankovich
-social-image: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
-thumbnail: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
+social-image: "/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg"
+thumbnail: "/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg"
 ---
 
-With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more? 
+With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
 
-![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)`Photo credit: Unplash, Markus Spiske.`
+![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Another major problem with IP rights management is tracing a complete chain of o
 
 When the IP work is registered and verified using blockchain-based platforms, authors can search across a whole host of different sources simultaneously to ascertain who is using their work. This enables IP owners to identify and stop infringements and makes it easier to license their IP works. In this sense, blockchain can serve as an enforcement tool. With a blockchain-based registration system, verifying whether a new song is or isn’t infringing upon the existing IP of a previously registered song will be much simpler. This type of blockchain-based detection system can be applied to text, art, and music with the help of artificial intelligence.
 
-![1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp](/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp)`Photo credit: Unsplash, Rupixen.`
+![1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp](/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp)
 
 ## Using Blockchain for Micropayments and Licensing Via Smart Contracts
 
