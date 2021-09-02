@@ -10,6 +10,8 @@ thumbnail: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
 
 With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
 
+![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)
+
 Blockchain technology is a way of creating a shared database, which can record and track transactions and assets. In theory, blockchain could be used to create and maintain any database or ledger, and since one single user does not govern blockchain, a centralized version of the ledger does not exist. Instead, it can be widely accessible to the public or large groups, depending on the permissions granted. The chain is updated with each transaction so that users can see the chronological activity for that particular blockchain. Once something is on the database, it cannot be removed.
 
 <!--more-->
@@ -54,7 +56,7 @@ Smart contracts can also be used for micropayments for the use of content. The a
 
 Access to the Creative Passport Database comes in the form of a subscription service for businesses who wish to link in and take advantage of its rich data or market their service to the Creative Passport holders. Profits will go towards the upkeep of the Creative Passport service and the Creative Passport holders. Project Mycelia is currently alpha-testing the Creative Passport App. Still, in its infancy, the project’s goal is to use blockchain as a platform for hosting immutable metadata about songs, the artists who recorded them, and who is listening to them. This will enable peer-to-peer payments and restore more equity in songs to the artists, engineers, and producers who made them.
 
-**INSERT SECOND YOUTUBE VIDEO HERE**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MtgU1ezd02w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Other artists have also used blockchain as a platform for the management of their IP rights. [Bjork partnered with the blockchain startup Blockpool](https://musically.com/2017/11/02/bjork-blockchain-cryptocurrency-rewards/), which collaborates with the label, One Little Indian, on a ‘crypto-checkout plugin’ for the online store. The platform has enabled Bjork’s album ‘Utopia’ pre-orders to be processed using Bitcoin, AudioCoin, Litecoin, and Dashcoin cryptocurrencies. Each fan received 100 AudioCoins as a reward for pre-ordering the album, deposited into an e-wallet.
 
