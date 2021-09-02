@@ -476,4 +476,11 @@ span.algolia-autocomplete{
   @include responsive(medium-screens){
     height: 1650px;
   }
+} iframe.video{
+  margin: 0;
+  @include responsive(ultra-wide-screens){
+    width: 120%;
+    position: relative;
+    left: -10%;
+  }
 }
