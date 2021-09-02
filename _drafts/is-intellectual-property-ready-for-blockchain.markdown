@@ -10,7 +10,8 @@ thumbnail: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
 
 With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
 
-![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)
+![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)\
+`Photo credit: Unplash, Markus Spiske.`
 
 Blockchain technology is a way of creating a shared database, which can record and track transactions and assets. In theory, blockchain could be used to create and maintain any database or ledger, and since one single user does not govern blockchain, a centralized version of the ledger does not exist. Instead, it can be widely accessible to the public or large groups, depending on the permissions granted. The chain is updated with each transaction so that users can see the chronological activity for that particular blockchain. Once something is on the database, it cannot be removed.
 
