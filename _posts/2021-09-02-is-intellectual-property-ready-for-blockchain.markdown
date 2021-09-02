@@ -8,7 +8,7 @@ social-image: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
 thumbnail: "/uploads/1a54454a-5ee8-4eba-b367-72bf5c6d99bc.tmp"
 ---
 
-With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
+With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more? 
 
 ![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)`Photo credit: Unplash, Markus Spiske.`
 
@@ -52,7 +52,7 @@ Smart contracts can also be used for micropayments for the use of content. The a
 
 **The [Mycelia project](http://myceliaformusic.org/) is a research and development hub for music makers**. Its Creative Passport is the digital container for verified profile information, IDs, acknowledgments, works, business partners, and payment mechanisms for all music makers. It aims to become a digital identity standard for music makers, collectively forming the Creative Passport Database and evolving into the essential connective hub for all music-related services. Using blockchain, featuring template smart contracts, Creative Passport will enable quick and easy direct payments to simplify and democratize collaboration from meaningful commercial partnerships to creativity.
 
-Access to the Creative Passport Database comes in the form of a subscription service for businesses that wish to link in and take advantage of its rich data or market their service to the Creative Passport holders. Profits will go towards the upkeep of the Creative Passport service and the Creative Passport holders. Project Mycelia is currently alpha-testing the Creative Passport App. Still in its infancy, the project’s goal is to use blockchain as a platform for hosting immutable metadata about songs, the artists who recorded them, and who is listening to them. This will enable peer-to-peer payments and restore more equity in songs to the artists, engineers, and producers who made them. 
+Access to the Creative Passport Database comes in the form of a subscription service for businesses that wish to link in and take advantage of its rich data or market their service to the Creative Passport holders. Profits will go towards the upkeep of the Creative Passport service and the Creative Passport holders. Project Mycelia is currently alpha-testing the Creative Passport App. Still in its infancy, the project’s goal is to use blockchain as a platform for hosting immutable metadata about songs, the artists who recorded them, and who is listening to them. This will enable peer-to-peer payments and restore more equity in songs to the artists, engineers, and producers who made them.
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/MtgU1ezd02w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
