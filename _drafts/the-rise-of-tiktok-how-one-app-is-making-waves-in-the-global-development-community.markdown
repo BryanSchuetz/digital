@@ -23,7 +23,7 @@ The story of the Beijing-based startup tech company is a rare successful use cas
 
 TikTok is powered by [artificial intelligence](https://towardsdatascience.com/why-tiktok-made-its-user-so-obsessive-the-ai-algorithm-that-got-you-hooked-7895bb1ab423) – meaning that the platform analyzes user interest and preferences to create a more personalized feed, resulting in longer usage times. While the app makes personalized feeds for different users, it also allows users to rely less on their following for consistent content. Unlike Instagram or Twitter, TikTok central "For You Page" spotlight focuses on sharing content with users from individuals they don't follow, interact with, or know. As the app has evolved, TikTok has marketed its platform to be "for everyone." In fact, the "[TikTok is for everyone](https://www.tiktok.com/discover/tiktok-is-for-everyone?lang=en)" hashtag concentrates millions of views a day.
 
-![arpad-czapp-wS250FJl5Uw-unsplash (1).jpg](/uploads/arpad-czapp-wS250FJl5Uw-unsplash%20(1).jpg)
+![arpad-czapp-wS250FJl5Uw-unsplash (3).jpg](/uploads/arpad-czapp-wS250FJl5Uw-unsplash%20(3).jpg)
 
 ## Combating Misinformation – One Viral Video at a Time
 
