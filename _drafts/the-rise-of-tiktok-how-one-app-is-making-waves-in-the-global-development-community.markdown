@@ -5,7 +5,7 @@ date: 2021-09-08 14:56:00 -04:00
 tags:
 - Social Media
 - Disinformation
-- digital platforms
+- Digital Platforms
 Author: Afua Owusu
 social-image: "/uploads/arpad-czapp-wS250FJl5Uw-unsplash.jpg"
 thumbnail: "/uploads/arpad-czapp-wS250FJl5Uw-unsplash.jpg"
