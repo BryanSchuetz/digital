@@ -1,7 +1,6 @@
 ---
 title: Afua Owusu
 date: 2021-09-08 14:51:00 -04:00
-published: false
 Job: Digital Associate II
 Image: "/uploads/1629511400638.jpg"
 ---
