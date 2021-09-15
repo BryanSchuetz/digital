@@ -4,6 +4,7 @@ date: 2021-09-15 09:40:00 -04:00
 tags:
 - agile
 - software development
+Author: Samantha Weinberg
 social-image: "/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg"
 thumbnail: "/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg"
 ---
