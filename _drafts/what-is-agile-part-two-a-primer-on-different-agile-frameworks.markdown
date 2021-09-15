@@ -15,11 +15,11 @@ As discussed in [part one of this series](https://dai-global-digital.com/what-is
 
 [Scrum](https://www.agilealliance.org/glossary/scrum/) is one of the most popular and widely used frameworks in agile and is centered around using a set of specific processes to achieve the team’s goals. The key components of Scrum can be broken up into three categories:
 
-1. Events or time boxes;
+1. **Events or time boxes;**
 
-2. Artifacts; and
+2. **Artifacts; and**
 
-3. Roles.
+3. **Roles.**
 
 One of the defining aspects of using Scrum is dividing up work in a time box called a ‘**sprint**’. Sprints are typically one month or less and are meant to allow teams to break up their work into chunks that are still shippable (or ready to be deployed for users) without necessarily needing to complete every piece of functionality. Several meetings are essential parts of Scrum that ensure the team is working actively towards their goals for each sprint, including Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives.
 
@@ -31,17 +31,17 @@ There are three key roles in Scrum: [Scrum Master](https://www.agilealliance.org
 
 [Kanban ](https://www.agilealliance.org/glossary/kanban/)is another very popular agile methodology with a primary focus on the flow and visualization of work being done. In contrast to Scrum, it is comprised of a series of practices as opposed to specific core components:
 
-1. **Visualize;**
+1. **Visualize **
 
 2. **Limit Work in Progress;**
 
 3. **Manage Flow**
 
-4. **Make Policies Explicit;**
+4. **Make Policies Explicit**
 
 5. **Implement Feedback Loops; and**
 
-6. **Improve collaboratively, evolve experimentally.**
+6. **Improve collaboratively, evolve experimentally **
 
 A **Kanban board** is used to show the flow of work across the team to visualize the work being done. [Kanban boards](https://www.agilealliance.org/glossary/kanban-board/) are typically made up of columns reflecting various statuses that the work can be in – it can be as simple as three columns saying, “To Do,” “Doing,” and “Done.” The use of these boards allows teams to start with what they are already doing and use the visual cues to identify bottlenecks or issues they can address as they continue their work. A Kanban board is comprised of **Kanban cards** that contain individuals items the team is working on that can be moved through the flow of the board as work moves forward.
 
@@ -51,13 +51,13 @@ The Kanban board also allows teams to set clear limits around the amount of work
 
 The Kanban board also allows teams to set clear limits around the amount of work they consider "in progress," given the easy visual of how many cards are in columns representing active work. The goal in Kanban is never to have more work in progress than capacity so teams can have greater efficiencies in their work. In order to increase efficiencies on the team and maintain the flow and movement of the work, bottlenecks need to be removed when possible. Since the Kanban board provides full transparency of what the team is working on and real-time status, it is easier to flag where those blockers are and resolve them as they arise.
 
-Like Scrum, teams using Kanban can implement their own policies as long as they are explicit and well-defined. For example, while Scrum calls for sprints, the team defines how long their sprints are in the context of what makes sense for their work. In Kanban, teams can set their work in progress limits and any other rules that help push work forward. 
+Like Scrum, teams using Kanban can implement their own policies as long as they are explicit and well-defined. For example, while Scrum calls for sprints, the team defines how long their sprints are in the context of what makes sense for their work. In Kanban, teams can set their work in progress limits and any other rules that help push work forward.
 
 While important in any implementation of agile, the implementation of feedback loops is particularly central to Kanban. There are specific cadences at which feedback loops are designed to occur, focusing on various levels of granularity – from quarterly **Strategy Reviews** down to daily **Kanban Meetings**.
 
 The final practice of Kanban is all about how the team works together over time. Since Kanban is based on the idea that the team starts with what it is already doing, the practices outlined above help nudge the team into incremental change. It allows for continuous improvement and evolution of how the team is achieving its goals so that getting work done keeps getting better as the team uses the Kanban methodology.
 
-![kaban v scrum.png](/uploads/kaban%20v%20scrum.png)
+![kaban v scrum-16ce75.png](/uploads/kaban%20v%20scrum-16ce75.png)
 
 `Photo credit: Atlassian Agile Coach`
 
