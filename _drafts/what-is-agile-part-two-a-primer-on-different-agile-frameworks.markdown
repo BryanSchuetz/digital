@@ -45,7 +45,7 @@ There are three key roles in Scrum: [Scrum Master](https://www.agilealliance.org
 
 A **Kanban board** is used to show the flow of work across the team to visualize the work being done. [Kanban boards](https://www.agilealliance.org/glossary/kanban-board/) are typically made up of columns reflecting various statuses that the work can be in – it can be as simple as three columns saying, “To Do,” “Doing,” and “Done.” The use of these boards allows teams to start with what they are already doing and use the visual cues to identify bottlenecks or issues they can address as they continue their work. A Kanban board is comprised of **Kanban cards** that contain individuals items the team is working on that can be moved through the flow of the board as work moves forward.
 
-![3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg](/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg)
+![eden-constantino-OXmym9cuaEY-unsplash.jpg](/uploads/eden-constantino-OXmym9cuaEY-unsplash.jpg)
 
 The Kanban board also allows teams to set clear limits around the amount of work they consider "in progress," given the easy visual of how many cards are in columns representing active work. The goal in Kanban is never to have more work in progress than capacity so teams can have greater efficiencies in their work.
 
