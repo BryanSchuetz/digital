@@ -13,6 +13,8 @@ thumbnail: "/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg"
 
 As discussed in [part one of this series](https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html), agile is an umbrella term which encapsulates a number of frameworks, strategies, and tools. In this second post of the series, we dive a bit deeper into what agile is in practice by highlighting some of the most common frameworks being used by agile teams. This primer on agile frameworks and methods will by no means be comprehensive (there are entire courses, website, and certifications dedicated to each of them), but it can serve as a good starting point for better understanding which flavor of agile might be best suited to your teams’ needs if you are considering adopting agile in your organization. This post will cover two of the most popular types of agile in more depth: Scrum and Kanban. There are [several others](https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/) that are widely used as well, but these two have many components that can be flexible and adaptable for use in non-software development contexts.
 
+![irfan-simsar-wxWulfjN-G0-unsplash.jpg](/uploads/irfan-simsar-wxWulfjN-G0-unsplash.jpg)
+
 [Scrum](https://www.agilealliance.org/glossary/scrum/) is one of the most popular and widely used frameworks in agile and is centered around using a set of specific processes to achieve the team’s goals. The key components of Scrum can be broken up into three categories:
 
 1. **Events or time boxes;**
@@ -31,7 +33,7 @@ There are three key roles in Scrum: [Scrum Master](https://www.agilealliance.org
 
 [Kanban ](https://www.agilealliance.org/glossary/kanban/)is another very popular agile methodology with a primary focus on the flow and visualization of work being done. In contrast to Scrum, it is comprised of a series of practices as opposed to specific core components:
 
-1. **Visualize **
+1. \*\*Visualize
 
 2. **Limit Work in Progress;**
 
@@ -41,7 +43,7 @@ There are three key roles in Scrum: [Scrum Master](https://www.agilealliance.org
 
 5. **Implement Feedback Loops; and**
 
-6. **Improve collaboratively, evolve experimentally **
+6. **Improve collaboratively, evolve experimentally**
 
 A **Kanban board** is used to show the flow of work across the team to visualize the work being done. [Kanban boards](https://www.agilealliance.org/glossary/kanban-board/) are typically made up of columns reflecting various statuses that the work can be in – it can be as simple as three columns saying, “To Do,” “Doing,” and “Done.” The use of these boards allows teams to start with what they are already doing and use the visual cues to identify bottlenecks or issues they can address as they continue their work. A Kanban board is comprised of **Kanban cards** that contain individuals items the team is working on that can be moved through the flow of the board as work moves forward.
 
