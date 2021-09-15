@@ -50,7 +50,7 @@ The Kanban board also allows teams to set clear limits around the amount of work
 
 The Kanban board also allows teams to set clear limits around the amount of work they consider "in progress," given the easy visual of how many cards are in columns representing active work. The goal in Kanban is never to have more work in progress than capacity so teams can have greater efficiencies in their work. In order to increase efficiencies on the team and maintain the flow and movement of the work, bottlenecks need to be removed when possible. Since the Kanban board provides full transparency of what the team is working on and real-time status, it is easier to flag where those blockers are and resolve them as they arise.
 
-Like Scrum, teams using Kanban can implement their own policies as long as they are explicit and well-defined. For example, while Scrum calls for sprints, the team defines how long their sprints are in the context of what makes sense for their work. In Kanban, teams can set their work in progress limits and any other rules that help push work forward.
+Like Scrum, teams using Kanban can implement their own policies as long as they are explicit and well-defined. For example, while Scrum calls for sprints, the team defines how long their sprints are in the context of what makes sense for their work. In Kanban, teams can set their work in progress limits and any other rules that help push work forward. 
 
 While important in any implementation of agile, the implementation of feedback loops is particularly central to Kanban. There are specific cadences at which feedback loops are designed to occur, focusing on various levels of granularity – from quarterly **Strategy Reviews** down to daily **Kanban Meetings**.
 
