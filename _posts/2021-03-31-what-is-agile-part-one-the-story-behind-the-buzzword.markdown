@@ -4,6 +4,7 @@ date: 2021-03-31 06:00:00 -04:00
 tags:
 - software development
 - Agile Series
+- agile
 Author: "[Samantha Weinberg](https://www.dai.com/who-we-are/our-team/samantha-weinberg)"
 social-image: "/uploads/Samantha.jpg"
 thumbnail: "/uploads/Samantha.jpg"
