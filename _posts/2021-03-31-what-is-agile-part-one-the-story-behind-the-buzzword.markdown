@@ -2,8 +2,8 @@
 title: 'What is Agile? Part One: The Story Behind the Buzzword'
 date: 2021-03-31 06:00:00 -04:00
 tags:
-- agile
 - software development
+- Agile Series
 Author: "[Samantha Weinberg](https://www.dai.com/who-we-are/our-team/samantha-weinberg)"
 social-image: "/uploads/Samantha.jpg"
 thumbnail: "/uploads/Samantha.jpg"
