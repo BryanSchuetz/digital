@@ -33,7 +33,7 @@ There are three key roles in Scrum: [Scrum Master](https://www.agilealliance.org
 
 [Kanban ](https://www.agilealliance.org/glossary/kanban/)is another very popular agile methodology with a primary focus on the flow and visualization of work being done. In contrast to Scrum, it is comprised of a series of practices as opposed to specific core components:
 
-1. \*\*Visualize
+1. **Visualize**
 
 2. **Limit Work in Progress;**
 
