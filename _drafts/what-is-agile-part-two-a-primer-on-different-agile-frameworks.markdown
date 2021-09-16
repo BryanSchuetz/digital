@@ -15,6 +15,8 @@ As discussed in [part one of this series](https://dai-global-digital.com/what-is
 
 ![irfan-simsar-wxWulfjN-G0-unsplash.jpg](/uploads/irfan-simsar-wxWulfjN-G0-unsplash.jpg)
 
+<!--more-->
+
 [Scrum](https://www.agilealliance.org/glossary/scrum/) is one of the most popular and widely used frameworks in agile and is centered around using a set of specific processes to achieve the team’s goals. The key components of Scrum can be broken up into three categories:
 
 1. **Events or time boxes**
