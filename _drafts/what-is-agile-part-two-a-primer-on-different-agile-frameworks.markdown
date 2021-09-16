@@ -1,5 +1,5 @@
 ---
-title: 'What is Agile? Part Two: A Primer on Different Agile Frameworks'
+title: 'What is Agile? Part Two: A Primer on Different Frameworks'
 date: 2021-09-16 09:00:00 -04:00
 tags:
 - agile
