@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Sep 2021 10:30:39 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Sep 2021 10:30:39 -0400</lastBuildDate>
+    <pubDate>Thu, 16 Sep 2021 11:52:23 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Sep 2021 11:52:23 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg" medium="image" /> 
+        <title>What is Agile? Part Two: A Primer on Different Frameworks</title>
+        <description>&lt;p&gt;As discussed in part one of &lt;a href=&quot;https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html&quot;&gt;this series&lt;/a&gt;, agile is an umbrella term that encapsulates a number of frameworks, strategies, and tools. In this second installment, we dive a bit deeper into what agile is in practice by highlighting some of the most common frameworks used by agile teams. This primer on agile frameworks and methods will by no means be comprehensive (there are entire courses, websites, and certifications dedicated to each), but it can serve as a good starting point for better understanding which flavor of agile might be best suited to your teams’ needs if you are considering adopting agile in your organization. This post will cover two of the most popular types of agile in more depth: Scrum and Kanban. There are &lt;a href=&quot;https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/&quot;&gt;several others&lt;/a&gt; that are widely used as well, but these two have many components that can be flexible and adaptable for use in non-software development contexts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/irfan-simsar-wxWulfjN-G0-unsplash.jpg&quot; alt=&quot;irfan-simsar-wxWulfjN-G0-unsplash.jpg&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Sep 2021 09:00:00 -0400</pubDate>
+        <author>Samantha Weinberg
+</author>
+        <link>https://dai-global-digital.com/what-is-agile-part-two-a-primer-on-different-agile-frameworks.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/what-is-agile-part-two-a-primer-on-different-agile-frameworks.html</guid>
+        
+        <category>agile</category>
+        
+        <category>software development</category>
+        
+        <category>Agile Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/arpad-czapp-wS250FJl5Uw-unsplash.jpg" medium="image" /> 
@@ -192,33 +215,6 @@
         <category>COVID-19</category>
         
         <category>Mobile</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/5771025070_bddb7e2ec6_b-0a13fb.jpg" medium="image" /> 
-        <title>Five Tools to Foster Creative Innovation</title>
-        <description>&lt;p&gt;When we peel back the planning, strategy design, project management, and technical implementation layers of any creation, we see something more intuitive. More human. And that’s the desire to “create.”&lt;/p&gt;
-
-&lt;p&gt;Terms such as “innovation,” “research and development,” and “discovery” capture the adventure of the creative process. But garnering that same intensity in a workplace, let alone one’s personal life is not always the most accessible trail. In this post, I dive into some tools we employ as a team to foster creative innovation while also making reflections from another part of my life as a musician.&lt;/p&gt;
-
-&lt;p&gt;As a musician, I’ve gone through many periods of creative productivity. “Writer’s block,” as some may relate to, is the most frustrating. A quick online search generates tons of books on how to overcome creative dry spells. Meditation, exercise, and just taking a good ol’ break are some of the well-known remedies. But if there’s one thing I’ve learned from songwriting and performing, it’s that the creative process requires gentle nurturing. And just like music production, technology product development is no stranger to creative dry spells.&lt;/p&gt;
-
-&lt;p&gt;So, what are some of the tools we employ as a team to foster creative technology product development?&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 28 Jul 2021 13:47:00 -0400</pubDate>
-        <author>Greg Maly
-</author>
-        <link>https://dai-global-digital.com/five-tools-to-foster-creative-innovation.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/five-tools-to-foster-creative-innovation.html</guid>
-        
-        <category>Challenges</category>
-        
-        <category>Innovation</category>
-        
-        <category>Think Piece</category>
         
         
       </item>
