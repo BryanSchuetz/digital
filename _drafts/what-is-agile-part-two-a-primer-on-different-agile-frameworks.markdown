@@ -23,7 +23,7 @@ As discussed in part one of [this series](https://dai-global-digital.com/what-is
 2. **Artifacts**
 3. **Roles**
 
-One of the defining aspects of using Scrum is dividing up work into what is called a ‘**sprint**.’ Sprints typically last for one month or less and are meant to enable teams to break up their work into chunks that are still shippable (or ready to be deployed for users) without necessarily needing to complete every piece of functionality. Several meetings are essential parts of Scrum that ensure the team is working actively towards their goals for each sprint, including Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives.
+One of the defining aspects of using Scrum is dividing up work into what is called a ‘**sprint**.’ Sprints typically last for one month or less and are meant to enable teams to break up their work into chunks that are shippable (or ready to be deployed for users) without necessarily needing to complete every piece of functionality. Several meetings are essential parts of Scrum that ensure the team is working actively towards their goals for each sprint, including Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives.
 
 Artifacts in Scrum are the different objects or items that are needed to guide the team’s processes. One of the essential artifacts is the **product backlog** – where a team keeps all the possible items they might want to work on. The backlog is at its core an organized list of every option the team has available in terms of work that could be done, but it is not a commitment to get every item done. For each sprint, the team draws items from the backlog to determine the exact work they will do in that particular timebox.
 
