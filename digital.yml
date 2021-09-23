@@ -1,4 +1,14 @@
 
+- title: "Bangalore and the Hidden Costs of ‘Silicon Cities’"
+  pub: "Digital"
+  date: 2021-09-23
+  link: "https://dai-global-digital.com/bangalore-and-the-hidden-costs-of-silicon-cities.html?utm_source=daidotcom"
+  summary: "Over the last 25 years, Bangalore, India, has transformed itself from a relatively sleepy second-tier city into a regional anchor for global technology corporations and a hub for innovative technology-driven startups. The international development community has cheered the growth of similar hubs in low- and middle-income countries—think Nairobi’s Silicon Savannah or Lagos. But Bangalore’s story often obscures the massive environmental and social toll that rapid, tech-driven growth can have on a city."
+  tags:
+    - digital acceleration 
+    - Digital Transformation 
+    - Digital Economy 
+
 - title: "What is Agile? Part Two: A Primer on Different Frameworks"
   pub: "Digital"
   date: 2021-09-16
@@ -232,18 +242,4 @@ One useful way to explore these factors is by analyzing data available from job 
     - digital acceleration 
     - AI 
     - Machine Learning 
-
-- title: "How Satellite Imagery and ‘Light at Night’ Helps Development Practitioners Estimate GDP"
-  pub: "Digital"
-  date: 2021-06-03
-  link: "https://dai-global-digital.com/lights-at-night-wheres-the-gdp.html?utm_source=daidotcom"
-  summary: "I am sure many of you have come across a map like the one below. I find that images of our planet are always awe-inspiring and this image is certainly not an exception. I can easily get lost in satellite imagery for hours if I am not careful. Most of those images are based on visual spectrum optical technology (LandSAT, Sentinel, etc.), thus requiring daylight for the powerful digital cameras to “see.” Remote sensing satellites such as VIIRS—which DAI uses for its analysis—are equipped with special infrared equipment and able to capture beautiful images of the earth at night!
-
-Source: NASA and DMSP."
-  tags:
-    - digital acceleration 
-    - GIS 
-    - Satellite 
-    - Imagery 
-    - Imagery Analysis 
 

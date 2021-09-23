@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Sep 2021 11:03:03 -0400</pubDate>
-    <lastBuildDate>Thu, 23 Sep 2021 11:03:03 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Sep 2021 11:30:12 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Sep 2021 11:30:12 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Banglore_LandUse.png" medium="image" /> 
+        <title>Bangalore and the Hidden Costs of ‘Silicon Cities’</title>
+        <description>&lt;p&gt;Over the last 25 years, Bangalore, India, has transformed itself from a relatively sleepy second-tier city into a regional anchor for global technology corporations and a hub for innovative technology-driven startups. The international development community has cheered the growth of similar hubs in low- and middle-income countries—think Nairobi’s Silicon Savannah or Lagos. But Bangalore’s story often obscures the massive environmental and social toll that rapid, tech-driven growth can have on a city.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Sep 2021 00:46:00 -0400</pubDate>
+        <author>Anand Varghese
+</author>
+        <link>https://dai-global-digital.com/bangalore-and-the-hidden-costs-of-silicon-cities.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/bangalore-and-the-hidden-costs-of-silicon-cities.html</guid>
+        
+        <category>Digital Transformation</category>
+        
+        <category>Digital Economy</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg" medium="image" /> 
@@ -194,27 +213,6 @@
         <category>Digital</category>
         
         <category>Entrepreneurship</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/50267038282_392bac077d_o-843190.jpg" medium="image" /> 
-        <title>New Report Offers Guidance to Support Agriculture Market Systems Actors During COVID-19</title>
-        <description>&lt;p&gt;Digital tools and services such as short message services (SMS), digitally enabled extension services, and artificial intelligence have helped market system actors in developing countries overcome common challenges in the agriculture sector, such as accessing weather information and diagnosing pest or disease outbreaks.&lt;/p&gt;
-
-&lt;p&gt;Despite the &lt;a href=&quot;https://openknowledge.worldbank.org/bitstream/handle/10986/35216/9781464816574.pdf?sequence=2&amp;amp;isAllowed=y&quot;&gt;documented value&lt;/a&gt; of these innovations, uptake of digital agriculture technology still is not widespread. A lack of affordable and accessible technologies, poor connectivity, high costs of data, and social stigmas around digital technology can be major barriers to potential users. With COVID-19 making digital connectivity critical to economic activities, development stakeholders have spent the past year and a half assessing the relationship between the pandemic and the adoption and use of digital agriculture.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 30 Jul 2021 15:53:00 -0400</pubDate>
-        <author>Araba Sapara-Grant
-</author>
-        <link>https://dai-global-digital.com/new-report-offers-guidance-to-support-agriculture-market-systems-actors-during-covid-19.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/new-report-offers-guidance-to-support-agriculture-market-systems-actors-during-covid-19.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Mobile</category>
         
         
       </item>
