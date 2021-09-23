@@ -1,6 +1,8 @@
 ---
 title: Bangalore and the Hidden Costs of ‘Silicon Cities’
 date: 2021-09-23 00:46:00 -04:00
+tags:
+- Digital Transformation
 Author: Anand Varghese
 ---
 
