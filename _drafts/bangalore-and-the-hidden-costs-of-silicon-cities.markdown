@@ -3,9 +3,10 @@ title: Bangalore and the Hidden Costs of ‘Silicon Cities’
 date: 2021-09-23 00:46:00 -04:00
 tags:
 - Digital Transformation
-- digital platforms
-- Digital entrepreneurship
+- Digital Economy
 Author: Anand Varghese
+social-image: "/uploads/Banglore_LandUse-400x318.png"
+thumbnail: "/uploads/Banglore_LandUse-400x318.png"
 ---
 
 Over the last 25 years, Bangalore, India, has transformed itself from a relatively sleepy second-tier city into a regional anchor for global technology corporations and a hub for innovative technology-driven startups. We (and I mean the international development community) have cheered the growth of similar hubs in LMICs – think of Nairobi’s ‘Silicon Savannah’ or Lagos. But Bangalore’s story of economic growth often obscures the massive environmental and social toll that rapid, tech-driven growth can have on a city.
@@ -13,6 +14,9 @@ Over the last 25 years, Bangalore, India, has transformed itself from a relative
 <!--more-->
 
 I spent my formative years in Bangalore, from 1993 to 2005, when I moved to the United States. Since the mid-90s, Bangalore’s strong network of high educational institutions in the fields of engineering, business management, and sciences has fed a generation’s-worth of demand for young talent, and the city has grown apace. In a recent study, Bangalore beat London, Munich, Paris, and Berlin as the [fastest-growing tech ecosystem](https://timesofindia.indiatimes.com/business/india-business/bengaluru-worlds-fastest-growing-tech-hub-london-second-report/articleshow/80262770.cms) in the world, increasing technology-based investment in the city from $1.3 billion in 2016 to $7.2 billion in 2020. Compare that to similar growth in the tech sector in Mumbai (India’s long-standing financial and business hub), which only grew from $0.7 billion to $1.2 billion in the same period. Bangalore also comes in sixth after Beijing, San Francisco, New York, Shanghai, and London in venture capital investment.
+
+![Banglore_LandUse-400x318.png](/uploads/Banglore_LandUse-400x318.png)\
+`Photo credit: Hungry Cities Partnership `
 
 But this impressive growth trajectory is only part of the story. As CNN reported a couple of years ago, ‘[India’s tech cities are choking on their success](https://www.cnn.com/2019/12/03/tech/india-pollution-crisis-tech-cities/index.html).’ Bangalore’s population ballooned from 6.5 million in 2001 to almost 13 million in 2021. The infrastructure of the city has been strained beyond limit, and its traffic is [legendary](https://metrosaga.com/memes-bangalore-traffic/), even by Indian standards. The city was once known as the ‘Garden City’ of India, famous for its urban parks and cool, tree-lined streets, has given way to a dense, warm, concrete sprawl that stretches out into the rural farmland surrounding the city. The city is also [short of water](https://www.livemint.com/news/india/bengaluru-water-crisis-more-work-less-water-in-india-s-silicon-valley-1559718058529.html). Recent [research](https://cla.umn.edu/global-studies/story/climate-and-social-justice-results-it-revolution-bangalore) from the University of Minnesota shows how the booming tech industry has worsened socioeconomic inequality in the city.
 
