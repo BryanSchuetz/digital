@@ -5,8 +5,8 @@ tags:
 - Digital Transformation
 - Digital Economy
 Author: Anand Varghese
-social-image: "/uploads/Banglore_LandUse-400x318.png"
-thumbnail: "/uploads/Banglore_LandUse-400x318.png"
+social-image: "/uploads/Banglore_LandUse.png"
+thumbnail: "/uploads/Banglore_LandUse.png"
 ---
 
 Over the last 25 years, Bangalore, India, has transformed itself from a relatively sleepy second-tier city into a regional anchor for global technology corporations and a hub for innovative technology-driven startups. We (and I mean the international development community) have cheered the growth of similar hubs in LMICs – think of Nairobi’s ‘Silicon Savannah’ or Lagos. But Bangalore’s story of economic growth often obscures the massive environmental and social toll that rapid, tech-driven growth can have on a city.
