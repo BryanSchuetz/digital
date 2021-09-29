@@ -30,8 +30,8 @@ In general, interviewees do not consider connectivity or internet quality a barr
 \*\*
 
 1. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing\*\*
-  ![Colimbia1.jpg](/uploads/Colimbia1.jpg){:.float-left}
-   
+   ![Colimbia1.jpg](/uploads/Colimbia1.jpg){:.float-left}
+
 All families have at least one mobile phone per household, which may be shared between household members: in 87% of cases the mobile phone is shared with the children. Almost all have a smartphone at home.
 
 Some interviewees note that their families got their first mobile phone due to the COVID-19 pandemic, so that their children keep up with schoolwork since school became virtual. Over 90% of mothers share their mobile phone with their children daily, with the remaining mothers share their phones at least once per week.
@@ -45,7 +45,8 @@ Interviewees note that the internet is a powerful tool for education, but they l
    The surveys found 57% of parents to be concerned about the safety and security of their children when using mobile phones and computers, particularly in terms of possible access to pornography or violent content. The only physical safety concerns raised were in the community of La Pista, where theft of phones, especially targeting women and girls, is a key issue. Despite these concerns, parents don’t tend to limit their child’s access.
 
 **4. Most children do not have a TV, but use phones for video content**
-![2-Pie-Chart.jpg](/uploads/2-Pie-Chart.jpg){:.float-left}
+![Colombia2.jpg](/uploads/Colombia2.jpg){:.float-left}
+
 Over two-thirds of families do not own a functioning television set. Families that have a television in the house with or without cable or streaming services use it during the day for the children to watch children’s programs, though there are not many children’s programs on national channels. Six interviewees note that they watch television outside of the home, at the home of other family members. In the is the La Pista settlement, there is a community access point, where Save the Children provide some educational support including screening movies for children.
 Almost all of the children report using the mobile phone to watch videos, and some (8 children) use it for schoolwork. Sixteen interviewees note that children also sometimes play games on the phone, as this does not require data. Only one or two children use the phone to take photos and record videos, use social media, and send SMS and WhatsApp messages. When the child and parents were asked what the child does most on the phone, watching videos came out on top (71 percent).
 \*\*
