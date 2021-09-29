@@ -20,14 +20,16 @@ In Colombia our research team interviewed 68 Venezuelan refugee and migrant fami
 
 
 **Key findings**
+
 Access to mobile devices and the internet is high across the three locations, but the high cost of mobile data is the most significant barrier to children’s access to the internet and clearly affects the way children participate in formal education and the frequency and type of access they have to online materials for more informal learning and entertainment. Refugee children in all target locations in Colombia are already heavy users of online video content, supported by their parents who encourage access to educational materials. In this blog we detail some of these key findings.
 
 **1. A majority of families access the internet through mobile data, but costs are prohibitively high**
 Over 90% of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
 In general, interviewees do not consider connectivity or internet quality a barrier to internet access, rating the quality of data connectivity as 8 out of 10 or higher.
-\*\*
 
-1. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing\*\*
+**
+2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
+
    ![Colimbia1.jpg](/uploads/Colimbia1.jpg)
 
 All families have at least one mobile phone per household, which may be shared between household members: in 87% of cases the mobile phone is shared with the children. Almost all have a smartphone at home.
@@ -37,28 +39,35 @@ Some interviewees note that their families got their first mobile phone due to t
 Interviewees note that the internet is a powerful tool for education, but they limit the amount their child uses the internet sometimes to punish them for bad behavior, or because they do not wish for their child to be on the phone all the time, particularly where they are not using it for educational content. Others worry about damage to the device.
 
 ![FG_Cúcuta(2).jpeg](/uploads/FG_C%C3%BAcuta(2).jpeg)`Focus Group Discussion, Cucuta`
-\*\*
 
-1. Parents are concerned about online content\*\*
-   The surveys found 57% of parents to be concerned about the safety and security of their children when using mobile phones and computers, particularly in terms of possible access to pornography or violent content. The only physical safety concerns raised were in the community of La Pista, where theft of phones, especially targeting women and girls, is a key issue. Despite these concerns, parents don’t tend to limit their child’s access.
+
+**3. Parents are concerned about online content**
+
+The surveys found 57% of parents to be concerned about the safety and security of their children when using mobile phones and computers, particularly in terms of possible access to pornography or violent content. The only physical safety concerns raised were in the community of La Pista, where theft of phones, especially targeting women and girls, is a key issue. Despite these concerns, parents don’t tend to limit their child’s access.
 
 **4. Most children do not have a TV, but use phones for video content**
+
 ![Colombia2.jpg](/uploads/Colombia2.jpg)
 
 Over two-thirds of families do not own a functioning television set. Families that have a television in the house with or without cable or streaming services use it during the day for the children to watch children’s programs, though there are not many children’s programs on national channels. Six interviewees note that they watch television outside of the home, at the home of other family members. In the is the La Pista settlement, there is a community access point, where Save the Children provide some educational support including screening movies for children.
 Almost all of the children report using the mobile phone to watch videos, and some (8 children) use it for schoolwork. Sixteen interviewees note that children also sometimes play games on the phone, as this does not require data. Only one or two children use the phone to take photos and record videos, use social media, and send SMS and WhatsApp messages. When the child and parents were asked what the child does most on the phone, watching videos came out on top (71 percent).
-\*\*
 
-1. Social media is the internet, and is even used for informal education\*\*
-   Both mothers and children note that Facebook is one of the primary sources of information for the families and the principal way in which they use the internet.
-   During the pandemic, some parents found informal ways to supplement their children’s education through other content, such as the videos on Facebook and YouTube. Interviewees use Facebook more often than other video platforms (76% watch videos on Facebook) such as YouTube because Facebook uses much less data. Data packages tend to offer free WhatsApp and Facebook as long as there is money left on their plan. Families therefore leave a small amount of money on the plan at all times, to ensure that they have access to these apps.  Parents and children tend to use the search bar once to find things like alphabet videos, then rely on the algorithm to make suggestions on what to watch next.
-   Children are digitally savvy: when asked, all the children were able to identify Facebook, WhatsApp and YouTube. Most children interviewed were able to open, search for and play a video on YouTube and Facebook, using the keyboard or voice commands. Children report that they like to watch cartoons such as Peppa Pig, Paw Patrol, Santiago de los Mares, La Princesa Sofia, and Barbie.
+**5. Social media is the internet, and is even used for informal education**
 
-\*\*6. Most children are not enrolled in school due to COVID-19 or the complex enrolment process \*\*
+Both mothers and children note that Facebook is one of the primary sources of information for the families and the principal way in which they use the internet.
+
+During the pandemic, some parents found informal ways to supplement their children’s education through other content, such as the videos on Facebook and YouTube. Interviewees use Facebook more often than other video platforms (76% watch videos on Facebook) such as YouTube because Facebook uses much less data. Data packages tend to offer free WhatsApp and Facebook as long as there is money left on their plan. Families therefore leave a small amount of money on the plan at all times, to ensure that they have access to these apps.  Parents and children tend to use the search bar once to find things like alphabet videos, then rely on the algorithm to make suggestions on what to watch next.
+
+Children are digitally savvy: when asked, all the children were able to identify Facebook, WhatsApp and YouTube. Most children interviewed were able to open, search for and play a video on YouTube and Facebook, using the keyboard or voice commands. Children report that they like to watch cartoons such as Peppa Pig, Paw Patrol, Santiago de los Mares, La Princesa Sofia, and Barbie.
+
+**6. Most children are not enrolled in school due to COVID-19 or the complex enrollment process**
+
 Interviewees report COVID-19 restrictions to be one of the biggest obstacles to their children accessing education, including the fact that learning is so closely linked to access to the internet.
+
 Those that bought phones during the pandemic did to so allow their children to access virtual learning through the formal education system. Those children that are enrolled in school continue in a virtual format, where teachers send guides via WhatsApp with activities and questions about the topic at hand.
 
 Mothers note that the lack of clarity in the documentation and processes for enrolling Venezuelan children in the Colombian education system has been a significant barrier to accessing education for this population: without parents having an education and a stable job, they will struggle to pay school fees. The enrolment process is also unclear, and they struggle to understand which documents are needed to register their children. In Bogotá, mothers associate these challenges with xenophobia.
+
 ![Colombia school challenges3.jpg](/uploads/Colombia%20school%20challenges3.jpg)
 
 **What next?**
