@@ -24,13 +24,13 @@ In Colombia our research team interviewed 68 Venezuelan refugee and migrant fami
 Access to mobile devices and the internet is high across the three locations, but the high cost of mobile data is the most significant barrier to children’s access to the internet and clearly affects the way children participate in formal education and the frequency and type of access they have to online materials for more informal learning and entertainment. Refugee children in all target locations in Colombia are already heavy users of online video content, supported by their parents who encourage access to educational materials. In this blog we detail some of these key findings.
 
 **1. A majority of families access the internet through mobile data, but costs are prohibitively high**
+
 Over 90% of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
 In general, interviewees do not consider connectivity or internet quality a barrier to internet access, rating the quality of data connectivity as 8 out of 10 or higher.
 
-**
-2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
+** 2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
 
-   ![Colimbia1.jpg](/uploads/Colimbia1.jpg)
+![Colimbia1.jpg](/uploads/Colimbia1.jpg)
 
 All families have at least one mobile phone per household, which may be shared between household members: in 87% of cases the mobile phone is shared with the children. Almost all have a smartphone at home.
 
