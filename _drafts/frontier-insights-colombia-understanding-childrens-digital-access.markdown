@@ -29,7 +29,7 @@ Access to mobile devices and the internet is high across the three locations, bu
 Over 90% of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
 In general, interviewees do not consider connectivity or internet quality a barrier to internet access, rating the quality of data connectivity as 8 out of 10 or higher.
 
-** 2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
+**2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
 
 ![Colimbia1.jpg](/uploads/Colimbia1.jpg)
 
