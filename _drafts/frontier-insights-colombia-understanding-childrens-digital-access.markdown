@@ -39,12 +39,11 @@ Some interviewees note that their families got their first mobile phone due to t
 
 Interviewees note that the internet is a powerful tool for education, but they limit the amount their child uses the internet sometimes to punish them for bad behavior, or because they do not wish for their child to be on the phone all the time, particularly where they are not using it for educational content. Others worry about damage to the device.
 
-![FG_Cúcuta(2).jpeg](/uploads/FG_C%C3%BAcuta(2).jpeg)`Focus Group Discussion, Cucuta`
-
-
 **3. Parents are concerned about online content**
 
 The surveys found 57% of parents to be concerned about the safety and security of their children when using mobile phones and computers, particularly in terms of possible access to pornography or violent content. The only physical safety concerns raised were in the community of La Pista, where theft of phones, especially targeting women and girls, is a key issue. Despite these concerns, parents don’t tend to limit their child’s access.
+
+![FG_Cúcuta(2).jpeg](/uploads/FG_C%C3%BAcuta(2).jpeg)`Focus Group Discussion, Cucuta`
 
 **4. Most children do not have a TV, but use phones for video content**
 
@@ -63,13 +62,13 @@ Children are digitally savvy: when asked, all the children were able to identify
 
 **6. Most children are not enrolled in school due to COVID-19 or the complex enrollment process**
 
+![Colombia school challenges3.jpg](/uploads/Colombia%20school%20challenges3.jpg)
+
 Interviewees report COVID-19 restrictions to be one of the biggest obstacles to their children accessing education, including the fact that learning is so closely linked to access to the internet.
 
 Those that bought phones during the pandemic did to so allow their children to access virtual learning through the formal education system. Those children that are enrolled in school continue in a virtual format, where teachers send guides via WhatsApp with activities and questions about the topic at hand.
 
 Mothers note that the lack of clarity in the documentation and processes for enrolling Venezuelan children in the Colombian education system has been a significant barrier to accessing education for this population: without parents having an education and a stable job, they will struggle to pay school fees. The enrolment process is also unclear, and they struggle to understand which documents are needed to register their children. In Bogotá, mothers associate these challenges with xenophobia.
-
-![Colombia school challenges3.jpg](/uploads/Colombia%20school%20challenges3.jpg)
 
 **What next?**
 Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in Colombia and the two other focus countries (South Sudan and Yemen) will guide how Sesame Workshop determines the best technology solution for a given context. The next phase of this project will take these findings and develop a framework to guide the decision-making process and lead to the appropriate choices in technology solutions, methodologies, and partnerships to distribute this content blocks in crisis-affected communities.
