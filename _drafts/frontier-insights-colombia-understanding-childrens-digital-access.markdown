@@ -5,10 +5,7 @@ tags:
 - Digital Insights
 - Digital Inclusion
 - Colombia
-Author:
-- Anne Hand
-- Talia Dweck
-- Chloe Messenger
+Author: Chloe Messenger
 social-image: "/uploads/Colombia1.jpg"
 ---
 
