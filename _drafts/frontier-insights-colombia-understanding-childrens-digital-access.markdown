@@ -6,9 +6,9 @@ tags:
 - Digital Inclusion
 - Colombia
 Author:
-- Author: 
-- Author: 
-- Author: 
+- Talia Dweck
+- Anne Hand
+- Chloe Messenger
 social-image: "/uploads/Colombia1.jpg"
 thumbnail: "/uploads/Colombia1.jpg"
 ---
