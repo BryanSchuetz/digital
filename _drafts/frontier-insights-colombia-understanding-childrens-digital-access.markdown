@@ -5,8 +5,12 @@ tags:
 - Digital Insights
 - Digital Inclusion
 - Colombia
-Author: Chloe Messenger
+Author:
+- Talia Dweck
+- Anne Hand
+- Chloe Messenger
 social-image: "/uploads/Colombia1.jpg"
+thumbnail: "/uploads/Colombia1.jpg"
 ---
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
@@ -19,7 +23,6 @@ Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=d
 
 In Colombia our research team interviewed 68 Venezuelan refugee and migrant families,  including children aged three to eight years old and their parents and caregivers. The research took place in Bogotá (home to approximately [350,000](https://migracion.nexos.com.mx/2021/05/la-bogota-de-los-migrantes-venezolanos-un-contexto-de-recepcion-en-tiempos-de-pandemia-y-crisis-social/) Venezuelan refugees), Cúcuta (a key border town on the Colombia-Venezuela Border with the [highest percentage](https://elpais.com/elpais/2019/03/19/planeta_futuro/1552999963_663150.html) of migrants and refugees in the country), and two cities in La Guajira, Maicao and Riohacha (along northern part of the Colombia-Venezuela border). In Maicao, there is an informal quasi-refugee camp named La Pista, made up of plastic tent shelters with approximately 200 Venezuelan refugee families living in poor conditions.
 
-
 **Key findings**
 
 Access to mobile devices and the internet is high across the three locations, but the high cost of mobile data is the most significant barrier to children’s access to the internet and clearly affects the way children participate in formal education and the frequency and type of access they have to online materials for more informal learning and entertainment. Refugee children in all target locations in Colombia are already heavy users of online video content, supported by their parents who encourage access to educational materials. In this blog we detail some of these key findings.
@@ -27,6 +30,7 @@ Access to mobile devices and the internet is high across the three locations, bu
 **1. A majority of families access the internet through mobile data, but costs are prohibitively high**
 
 Over 90% of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
+
 In general, interviewees do not consider connectivity or internet quality a barrier to internet access, rating the quality of data connectivity as 8 out of 10 or higher.
 
 **2. Mothers share their mobile phones with their children, but limit amount due to cost and phone sharing**
@@ -50,6 +54,7 @@ The surveys found 57% of parents to be concerned about the safety and security o
 ![Colombia2.jpg](/uploads/Colombia2.jpg)
 
 Over two-thirds of families do not own a functioning television set. Families that have a television in the house with or without cable or streaming services use it during the day for the children to watch children’s programs, though there are not many children’s programs on national channels. Six interviewees note that they watch television outside of the home, at the home of other family members. In the is the La Pista settlement, there is a community access point, where Save the Children provide some educational support including screening movies for children.
+
 Almost all of the children report using the mobile phone to watch videos, and some (8 children) use it for schoolwork. Sixteen interviewees note that children also sometimes play games on the phone, as this does not require data. Only one or two children use the phone to take photos and record videos, use social media, and send SMS and WhatsApp messages. When the child and parents were asked what the child does most on the phone, watching videos came out on top (71 percent).
 
 **5. Social media is the internet, and is even used for informal education**
