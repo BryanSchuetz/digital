@@ -66,7 +66,7 @@ In Randa Shaya, 63 percent of interviewees access the internet on their mobile p
 **3. Most people in Randa Shaya watch videos downloaded on their phones or on YouTube or Facebook**
 Just under half of adult interviewees use their phones to watch videos. All of those who report watching videos do so by downloading files to their phones through USB, which they load at the internet cafe. More men seem to go to the internet café, and often sons or husbands will download videos for the family. A total of 16 adults report using YouTube and/or Facebook to watch videos and some mention that friends and family send videos on WhatsApp. Many note that the way they can access videos is limited due to cost and poor signal and therefore they rely on downloaded videos rather than online streaming.
 
-PHOTO
+![426b550f-165c-478a-8b44-1b1709b25c87.jpg](/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg)
 
 **4. Most children use mobile phones to play games and watch videos and some watch television** 
 
