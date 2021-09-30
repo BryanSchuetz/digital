@@ -5,11 +5,13 @@ date: 2021-09-30 11:37:00 -04:00
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
 
-Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this blog series, we share our findings and interesting insights into the digital lives of children in these contexts. 
+Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this blog series, we share our findings and interesting insights into the digital lives of children in these contexts.
 
 ![IMG20210726143829.jpg](/uploads/IMG20210726143829.jpg)
 
-In August 2021, our research team travelled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan which has a population of more than 35,000 South Sudanese Internally Displaced Persons (IDPs).  The research team spent ten days in Juba POC, interviewing 72 people including children aged three to eight years old and their parents and caregivers. 
+<!--more-->
+
+In August 2021, our research team travelled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan which has a population of more than 35,000 South Sudanese Internally Displaced Persons (IDPs).  The research team spent ten days in Juba POC, interviewing 72 people including children aged three to eight years old and their parents and caregivers.
 
 **Key findings**
 
@@ -17,9 +19,9 @@ The principal challenges children in the POC face in accessing technology relate
 
 **1. Most interviewees have or access a mobile phone, but few have any internet access**
 
-Of the 72 interviewees, 57 parents and caregivers own a mobile phone (79%). Men are much more likely to own a smartphone, but there is no evidence of gender disparity in ownership and access, as both women and men own mobile phones and most have multiple in their homes. 
+Of the 72 interviewees, 57 parents and caregivers own a mobile phone (79%). Men are much more likely to own a smartphone, but there is no evidence of gender disparity in ownership and access, as both women and men own mobile phones and most have multiple in their homes.
 
-Of the 15 who do not own a mobile phone, 10 are able to use the mobile of someone else in or outside of their household and five families have no access at all. Interestingly, those without a mobile have a radio at home, which is their main source of entertainment. 
+Of the 15 who do not own a mobile phone, 10 are able to use the mobile of someone else in or outside of their household and five families have no access at all. Interestingly, those without a mobile have a radio at home, which is their main source of entertainment.
 
 ![South Sudan phone typee.jpg](/uploads/South%20Sudan%20phone%20typee.jpg)
 
@@ -55,13 +57,13 @@ The main way both adults and children access and watch videos in the camp is thr
 
 ![South Sudan school attendance.jpg](/uploads/South%20Sudan%20school%20attendance.jpg)
 
-Over 80% of children are enrolled in classroom-based education which is provided by NGOs and churches in the POC. The biggest challenge to accessing formal education is affordability: costs such as uniform, text books and stationary are too high, preventing some parents from sending their children to school. 
+Over 80% of children are enrolled in classroom-based education which is provided by NGOs and churches in the POC. The biggest challenge to accessing formal education is affordability: costs such as uniform, text books and stationary are too high, preventing some parents from sending their children to school.
 
-Parents and caregivers also expressed concern with the quality of education. They noted that there are not enough schools to serve the population, leading to overcrowding which poses a safety risk to younger children who are in classes with older children.  For many, the schools are very far meaning children must walk there, often alone. A lack of toilets also means children have to use nearby bushes, which is unsafe for them. The situation is reported to have worsened since the onset of the COVID-19 pandemic, as children have not been able to attend school as regularly. 
+Parents and caregivers also expressed concern with the quality of education. They noted that there are not enough schools to serve the population, leading to overcrowding which poses a safety risk to younger children who are in classes with older children.  For many, the schools are very far meaning children must walk there, often alone. A lack of toilets also means children have to use nearby bushes, which is unsafe for them. The situation is reported to have worsened since the onset of the COVID-19 pandemic, as children have not been able to attend school as regularly.
 
 **What next?**
 Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in South Sudan and the two other focus countries (Colombia and Yemen) will guide how Sesame Workshop determines the best technology solution for a given context. The next phase of this project will take these findings and develop a framework to guide the decision-making process and lead to the appropriate choices in technology solutions, methodologies, and partnerships to distribute this content blocks in crisis-affected communities.
 
-*Sesame Workshop’s Play to Learn is an innovative humanitarian program from Sesame Workshop, BRAC, the International Rescue Committee, NYU Global TIES for Children, and the LEGO Foundation that harnesses the power of play to deliver critical early learning to children affected by the Rohingya and Syrian refugee crises. Through a combination of educational media and direct services, Play to Learn reaches families in their homes, health centers, play spaces, and via mobile phones – providing the tools needed to promote nurturing care and help children learn and thrive. In collaboration with independent evaluator NYU Global TIES for Children, we are measuring the program’s impact on children’s development and caregivers’ mental health and well-being. By sharing what we learn and advocating for increased prioritization and investment in early childhood interventions in crisis contexts, we are laying the foundation to transform how the world supports children affected by crisis, wherever they may be. 
+\*Sesame Workshop’s Play to Learn is an innovative humanitarian program from Sesame Workshop, BRAC, the International Rescue Committee, NYU Global TIES for Children, and the LEGO Foundation that harnesses the power of play to deliver critical early learning to children affected by the Rohingya and Syrian refugee crises. Through a combination of educational media and direct services, Play to Learn reaches families in their homes, health centers, play spaces, and via mobile phones – providing the tools needed to promote nurturing care and help children learn and thrive. In collaboration with independent evaluator NYU Global TIES for Children, we are measuring the program’s impact on children’s development and caregivers’ mental health and well-being. By sharing what we learn and advocating for increased prioritization and investment in early childhood interventions in crisis contexts, we are laying the foundation to transform how the world supports children affected by crisis, wherever they may be.
 
-Thank you to our lead researcher Moi Moris Gabriel and his team of enumerators for conducting this research!*
+Thank you to our lead researcher Moi Moris Gabriel and his team of enumerators for conducting this research!\*
