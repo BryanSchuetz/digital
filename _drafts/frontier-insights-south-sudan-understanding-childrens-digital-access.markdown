@@ -1,6 +1,11 @@
 ---
 title: 'Frontier Insights South Sudan: Understanding Children''s Digital Access'
 date: 2021-09-30 11:37:00 -04:00
+tags:
+- Digital Insights
+- Digital Inclusion
+- Education
+social-image: "/uploads/IMG20210726143829-3fb1dc.jpg"
 ---
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
