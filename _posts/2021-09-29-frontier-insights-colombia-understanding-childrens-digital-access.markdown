@@ -48,7 +48,7 @@ Interviewees note that the internet is a powerful tool for education, but they l
 
 The surveys found 57 percent of parents are concerned about the safety and security of their children when using mobile phones and computers, particularly in terms of possible access to pornography or violent content. The only physical safety concerns raised were in the community of La Pista, where theft of phones, especially targeting women and girls, is an issue. Despite these concerns, parents don’t tend to limit their child’s access.
 
-![FG_Cúcuta(2).jpeg](/uploads/FG_C%C3%BAcuta(2).jpeg)`Focus Group Discussion, Cucuta`
+![FG_Cúcuta(2).jpeg](/uploads/FG_C%C3%BAcuta(2).jpeg)`Focus Group Discussion, Cucuta.`
 
 **4. Most children do not have a TV but use phones for video content**
 
