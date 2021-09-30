@@ -1,0 +1,67 @@
+---
+title: 'Frontier Insights South Sudan: Understanding Children''s Digital Access'
+date: 2021-09-30 11:37:00 -04:00
+---
+
+Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
+
+Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this blog series, we share our findings and interesting insights into the digital lives of children in these contexts. 
+
+![IMG20210726143829.jpg](/uploads/IMG20210726143829.jpg)
+
+In August 2021, our research team travelled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan which has a population of more than 35,000 South Sudanese Internally Displaced Persons (IDPs).  The research team spent ten days in Juba POC, interviewing 72 people including children aged three to eight years old and their parents and caregivers. 
+
+**Key findings**
+
+The principal challenges children in the POC face in accessing technology relate to electricity constraints and concerns their parents and caregivers have around mobile phone usage. There is a high level of caution around children’s use of technology and access to the internet: parents are caregivers are not only concerned about possible damage to or loss of the device when used by children, but also with the physical safety of their children and the influence that using technology may have on them. However, despite the numerous connectivity and affordability constraints, families do use their mobile phones for entertainment: playing offline games and watching they have purchased at the market and downloaded from their SD card. In this blog we detail some of these key findings.
+
+**1. Most interviewees have or access a mobile phone, but few have any internet access**
+
+Of the 72 interviewees, 57 parents and caregivers own a mobile phone (79%). Men are much more likely to own a smartphone, but there is no evidence of gender disparity in ownership and access, as both women and men own mobile phones and most have multiple in their homes. 
+
+Of the 15 who do not own a mobile phone, 10 are able to use the mobile of someone else in or outside of their household and five families have no access at all. Interestingly, those without a mobile have a radio at home, which is their main source of entertainment. 
+
+![South Sudan phone typee.jpg](/uploads/South%20Sudan%20phone%20typee.jpg)
+
+Aside from phone calls, interviewees mainly use their phones for entertainment, including watching videos, playing games and listening to music. Many also report that due to a lack of electricity and lighting in their homes, they rely on their mobile phones for lighting at night.
+
+Although over half of respondents own a feature or smartphone, less than 30% access the internet, as the cost of data is too high.
+
+![South Sudan phone use.jpg](/uploads/South%20Sudan%20phone%20use.jpg)
+
+**2. Mobile data is the only way to access the internet**
+
+Mobile data is the only way to access the internet, as there are no community internet access sites (such as an internet café, community center or school) in the camps. The camps do receive a 3G data signal through two mobile network operators Zaine and MTN. Through a testing of Sesame Workshop videos on YouTube with a 3G connection, the enumerator found that the connection was sufficient to load the video within a minute and play video through without stopping, rating it very watchable.
+
+**3. Electricity is a key barrier to technology access**
+
+The biggest barrier to technology access and use is electricity. Almost all – 99% - of interviewees report not having electricity in their homes. To charge their phones, residents go to the local market at charging stations and pay to charge their mobile phones. Many limit how much they use their mobile phone to conserve battery.
+
+**4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
+
+![South Sudan sharing.jpg](/uploads/South%20Sudan%20sharing.jpg)
+
+Aside from the conservation of electricity, the three main concerns were safety of the device and their child, damage to the phone, and negative influence on their child either through too much exposure to the mobile phone or the ability to access “bad videos”.  Parents are also worried their child may damage the phone or accidentally delete information. As a result, parents only share their phones with children inside their homes, control what videos and games are put on the phone and ensure that the child does not use the mobile phone unsupervised. Parents do not allow their children to access the internet, due to concerns over “bad” content and due to the high cost of data.
+
+**5. With no access to televisions, mobile phones are the way people view video**
+
+A vast majority of interviewees do not own a television in their homes or watch television: only two families have a television at home, and only seven children have access to a television outside of their home at a neighbors house. There are “video halls” available outside of the POC site, over 5km away. At these sites children can watch cartoons on a television, but in general it is considered too dangerous to travel there.
+
+![South Sudan video access1.jpg](/uploads/South%20Sudan%20video%20access1.jpg)
+
+The main way both adults and children access and watch videos in the camp is through uploaded videos on their mobile phones. To get these videos, people go to small kiosks in the market area of the camp and get the shop workers to upload videos onto their SD cards. The most watched videos for children were music videos from a Tanzanian artist called Diamond Platinum and Tom and Jerry Cartoons, the Wizard of Oz, and a Nigerian children’s television program called The Baby Police. People are able to buy a variety of television series and movies from China, Indonesia, India and Nigeria all at a cost of 250-500 SSP ($0.56 - $1.12).
+
+**6. Children are enrolled in school, but face numerous challenges to attend**
+
+![South Sudan school attendance.jpg](/uploads/South%20Sudan%20school%20attendance.jpg)
+
+Over 80% of children are enrolled in classroom-based education which is provided by NGOs and churches in the POC. The biggest challenge to accessing formal education is affordability: costs such as uniform, text books and stationary are too high, preventing some parents from sending their children to school. 
+
+Parents and caregivers also expressed concern with the quality of education. They noted that there are not enough schools to serve the population, leading to overcrowding which poses a safety risk to younger children who are in classes with older children.  For many, the schools are very far meaning children must walk there, often alone. A lack of toilets also means children have to use nearby bushes, which is unsafe for them. The situation is reported to have worsened since the onset of the COVID-19 pandemic, as children have not been able to attend school as regularly. 
+
+**What next?**
+Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in South Sudan and the two other focus countries (Colombia and Yemen) will guide how Sesame Workshop determines the best technology solution for a given context. The next phase of this project will take these findings and develop a framework to guide the decision-making process and lead to the appropriate choices in technology solutions, methodologies, and partnerships to distribute this content blocks in crisis-affected communities.
+
+*Sesame Workshop’s Play to Learn is an innovative humanitarian program from Sesame Workshop, BRAC, the International Rescue Committee, NYU Global TIES for Children, and the LEGO Foundation that harnesses the power of play to deliver critical early learning to children affected by the Rohingya and Syrian refugee crises. Through a combination of educational media and direct services, Play to Learn reaches families in their homes, health centers, play spaces, and via mobile phones – providing the tools needed to promote nurturing care and help children learn and thrive. In collaboration with independent evaluator NYU Global TIES for Children, we are measuring the program’s impact on children’s development and caregivers’ mental health and well-being. By sharing what we learn and advocating for increased prioritization and investment in early childhood interventions in crisis contexts, we are laying the foundation to transform how the world supports children affected by crisis, wherever they may be. 
+
+Thank you to our lead researcher Moi Moris Gabriel and his team of enumerators for conducting this research!*
