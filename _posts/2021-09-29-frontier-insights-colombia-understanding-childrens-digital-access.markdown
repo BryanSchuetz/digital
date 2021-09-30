@@ -5,6 +5,7 @@ tags:
 - Digital Insights
 - Digital Inclusion
 - Colombia
+- Education
 Author: "[Talia Dweck](https://www.linkedin.com/in/talia-dweck-92966758/) and [Chloe
   Messenger](https://www.linkedin.com/in/chloemessenger/) and [Anne Hand](https://www.linkedin.com/in/annehand/)"
 social-image: "/uploads/Colombia1.jpg"
