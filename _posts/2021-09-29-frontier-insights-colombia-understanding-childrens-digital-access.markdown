@@ -13,7 +13,7 @@ thumbnail: "/uploads/Colombia1.jpg"
 
 Throughout the summer, DAI's Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) exploring the use of digital education tools for young children in crisis-affected communities.
 
-Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, South Sudan, and Yemen spoke with children and their parents and caregivers to understand their communities’ barriers to connectivity and tech habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational content. In this series, we share our insights into the digital lives of children in these countries.
+Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, South Sudan, and Yemen spoke with children and their parents and caregivers to understand their communities’ barriers to connectivity and tech habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational content. [In this series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our insights into the digital lives of children in these countries.
 
 ![Colombia1-8eaed6.jpg](/uploads/Colombia1-8eaed6.jpg)
 
