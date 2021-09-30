@@ -1,6 +1,7 @@
 ---
 title: 'Frontier Insights Colombia: Understanding children''s digital access'
 date: 2021-09-29 04:46:00 -04:00
+published: false
 tags:
 - Digital Insights
 - Digital Inclusion
@@ -13,23 +14,23 @@ social-image: "/uploads/Colombia1.jpg"
 thumbnail: "/uploads/Colombia1.jpg"
 ---
 
-Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
+Throughout the summer, DAI's Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) exploring the use of digital education tools for young children in crisis-affected communities.
 
-Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this blog series, we share our findings and interesting insights into the digital lives of children in these contexts.
+Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, South Sudan, and Yemen spoke with children and their parents and caregivers to understand their communities’ barriers to connectivity and tech habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational content. In this series, we share our insights into the digital lives of children in these countries.
 
 ![Colombia1-8eaed6.jpg](/uploads/Colombia1-8eaed6.jpg)
 
 <!--more-->
 
-In Colombia our research team interviewed 68 Venezuelan refugee and migrant families,  including children aged three to eight years old and their parents and caregivers. The research took place in Bogotá (home to approximately [350,000](https://migracion.nexos.com.mx/2021/05/la-bogota-de-los-migrantes-venezolanos-un-contexto-de-recepcion-en-tiempos-de-pandemia-y-crisis-social/) Venezuelan refugees), Cúcuta (a key border town on the Colombia-Venezuela Border with the [highest percentage](https://elpais.com/elpais/2019/03/19/planeta_futuro/1552999963_663150.html) of migrants and refugees in the country), and two cities in La Guajira, Maicao and Riohacha (along northern part of the Colombia-Venezuela border). In Maicao, there is an informal quasi-refugee camp named La Pista, made up of plastic tent shelters with approximately 200 Venezuelan refugee families living in poor conditions.
+In Colombia, our research team interviewed 68 Venezuelan refugee and migrant families, including children, aged 3 to 8, and their parents and caregivers. The research took place in Bogotá—home to approximately [350,000](https://migracion.nexos.com.mx/2021/05/la-bogota-de-los-migrantes-venezolanos-un-contexto-de-recepcion-en-tiempos-de-pandemia-y-crisis-social/) Venezuelan refugees—and Cúcuta—a key border town on the Colombia-Venezuela Border with the [highest percentage](https://elpais.com/elpais/2019/03/19/planeta_futuro/1552999963_663150.html) of migrants and refugees in the country—as well as two cities in La Guajira, Maicao, and Riohacha, along the northern part of the Colombia-Venezuela border. In Maicao, there is an informal quasi-refugee camp named La Pista, made of plastic tent shelters with approximately 200 Venezuelan refugee families living in poor conditions.
 
-**Key findings**
+## Key Findings
 
-Access to mobile devices and the internet is high across the three locations, but the high cost of mobile data is the most significant barrier to children’s access to the internet and clearly affects the way children participate in formal education and the frequency and type of access they have to online materials for more informal learning and entertainment. Refugee children in all target locations in Colombia are already heavy users of online video content, supported by their parents who encourage access to educational materials. In this blog we detail some of these key findings.
+Access to mobile devices and the internet is high across the three locations, but the high cost of mobile data is the most significant barrier to children’s access to the internet and clearly affects the way children participate in formal education and informal learning and entertainment. Refugee children in all locations in Colombia are already heavy users of online video content, supported by their parents who encourage access to educational materials. We discovered that:
 
 **1. A majority of families access the internet through mobile data, but costs are prohibitively high**
 
-Over 90% of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
+More than 90 percent of interviewees access the internet via mobile data on their or a family member’s mobile phone and all but two children access the internet. Interviewees expressed that public WiFi or community internet access points were generally not available. The biggest challenge these families have in accessing internet is the cost. Purchasing data packages depends fully on whether they have extra money after paying for their basic needs (i.e. food, housing, etc.) and only then do they buy data: data is considered a luxury that families may go for weeks without.
 
 In general, interviewees do not consider connectivity or internet quality a barrier to internet access, rating the quality of data connectivity as 8 out of 10 or higher.
 
