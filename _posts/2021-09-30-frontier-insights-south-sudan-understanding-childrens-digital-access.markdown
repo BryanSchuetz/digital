@@ -46,13 +46,13 @@ Mobile data is the only way to access the internet, as there are no community in
 
 **3. Electricity is a key barrier to technology access**
 
-The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to local markets with charging stations and pay a fee. Many limit how much they use their mobile phone to conserve battery.
+The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to local markets with charging stations and pay a fee. Many limit how much they use their mobile phone to conserve battery life.
 
 **4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
 
 ![South Sudan sharing.jpg](/uploads/South%20Sudan%20sharing.jpg)
 
-Aside from the conservation of electricity, the three main concerns were safety of the device and their child, damage to the phone, and negative influence on their child either through too much exposure to the mobile phone or the ability to access “bad videos”.  Parents are also worried their child may damage the phone or accidentally delete information. As a result, parents only share their phones with children inside their homes, control what videos and games are put on the phone and ensure that the child does not use the mobile phone unsupervised. Parents do not allow their children to access the internet, due to concerns over “bad” content and due to the high cost of data.
+Aside from the conservation of electricity, the three main concerns are safety of the device and their child, damage to the phone, and negative influence on their child either through too much exposure to the mobile phone or the ability to access “bad videos.” Parents are also worried their child may damage the phone or accidentally delete information. As a result, parents only share their phones with children inside their homes, control what videos and games are put on the phone, and ensure that the child does not use the mobile phone unsupervised. Parents do not allow their children to access the internet, due to concerns over “bad” content and due to the high cost of data.
 
 **5. With no access to televisions, mobile phones are the way people view video**
 
