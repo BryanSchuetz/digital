@@ -8,6 +8,7 @@ tags:
 Author: "[Talia Dweck](https://www.linkedin.com/in/talia-dweck-92966758/) and [Chloe
   Messenger](https://www.linkedin.com/in/chloemessenger/) and [Anne Hand](https://www.linkedin.com/in/annehand/)"
 social-image: "/uploads/IMG20210726143829-3fb1dc.jpg"
+thumbnail: "/uploads/IMG20210726143829-3fb1dc.jpg"
 ---
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
