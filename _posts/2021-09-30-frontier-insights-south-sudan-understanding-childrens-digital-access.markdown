@@ -22,7 +22,7 @@ Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=di
 
 In August, our research team traveled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan, which has a population of more than 35,000 South Sudanese internally displaced persons (IDPs). The research team spent 10 days in Juba POC, interviewing 72 people including children, ages 3 to 8, and their parents and caregivers.
 
-**Key Findings**
+## Key Findings
 
 The principal challenges children in the POC face in accessing technology relate to electricity constraints and concerns their parents and caregivers have around mobile phone usage. There is a high level of caution around children’s use of technology and access to the internet: Parents and caregivers are not only concerned about possible damage to or loss of the device when used by children, but also with the physical safety of their children and the negative influence that using technology may have on them. However, despite the numerous connectivity and affordability constraints, families do use their mobile phones for entertainment: playing offline games they have purchased at the market and downloaded from their SD cards. In this blog, we detail some of these key findings.
 
