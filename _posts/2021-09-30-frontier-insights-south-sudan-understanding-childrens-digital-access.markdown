@@ -1,6 +1,7 @@
 ---
 title: 'Frontier Insights South Sudan: Understanding Children''s Digital Access'
 date: 2021-09-30 11:37:00 -04:00
+published: false
 tags:
 - Digital Insights
 - Digital Inclusion
@@ -11,19 +12,19 @@ social-image: "/uploads/IMG20210726143829-3fb1dc.jpg"
 thumbnail: "/uploads/IMG20210726143829-3fb1dc.jpg"
 ---
 
-Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
+Throughout the summer, the DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children in crisis-affected communities.
 
-Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this blog series, we share our findings and interesting insights into the digital lives of children in these contexts.
+Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational video content. In this series, we share our findings and interesting insights into the digital lives of children in these contexts.
 
 ![IMG20210726143829.jpg](/uploads/IMG20210726143829.jpg)
 
 <!--more-->
 
-In August 2021, our research team travelled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan which has a population of more than 35,000 South Sudanese Internally Displaced Persons (IDPs).  The research team spent ten days in Juba POC, interviewing 72 people including children aged three to eight years old and their parents and caregivers.
+In August, our research team traveled to the [Protection of Civilians (POC)](https://internews.org/wp-content/uploads/2021/02/Internews_unhouse_1_2_assessment_wave2.pdf) camp in Juba, South Sudan, which has a population of more than 35,000 South Sudanese internally displaced persons (IDPs). The research team spent 10 days in Juba POC, interviewing 72 people including children, ages 3 to 8, and their parents and caregivers.
 
-**Key findings**
+**Key Findings**
 
-The principal challenges children in the POC face in accessing technology relate to electricity constraints and concerns their parents and caregivers have around mobile phone usage. There is a high level of caution around children’s use of technology and access to the internet: parents are caregivers are not only concerned about possible damage to or loss of the device when used by children, but also with the physical safety of their children and the influence that using technology may have on them. However, despite the numerous connectivity and affordability constraints, families do use their mobile phones for entertainment: playing offline games and watching they have purchased at the market and downloaded from their SD card. In this blog we detail some of these key findings.
+The principal challenges children in the POC face in accessing technology relate to electricity constraints and concerns their parents and caregivers have around mobile phone usage. There is a high level of caution around children’s use of technology and access to the internet: Parents and caregivers are not only concerned about possible damage to or loss of the device when used by children, but also with the physical safety of their children and the negative influence that using technology may have on them. However, despite the numerous connectivity and affordability constraints, families do use their mobile phones for entertainment: playing offline games they have purchased at the market and downloaded from their SD cards. In this blog, we detail some of these key findings.
 
 **1. Most interviewees have or access a mobile phone, but few have any internet access**
 
