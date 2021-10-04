@@ -48,9 +48,9 @@ Mobile data is the only way to access the internet, as there are no community in
 
 The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to local markets with charging stations and pay a fee. Many limit how much they use their mobile phone to conserve battery life.
 
-**4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
-
 ![South Sudan sharing.jpg](/uploads/South%20Sudan%20sharing.jpg)
+
+**4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
 
 Aside from the conservation of electricity, the three main concerns are safety of the device and their child, damage to the phone, and negative influence on their child either through too much exposure to the mobile phone or the ability to access “bad videos.” Parents are also worried their child may damage the phone or accidentally delete information. As a result, parents only share their phones with children inside their homes, control what videos and games are put on the phone, and ensure that the child does not use the mobile phone unsupervised. Parents do not allow their children to access the internet, due to concerns over “bad” content and due to the high cost of data.
 
@@ -62,9 +62,9 @@ A vast majority of interviewees do not own a television in their homes nor watch
 
 The main way both adults and children access and watch videos in the camp is through videos uploaded to mobile phones. To get these videos, people go to small kiosks in the market area of the camp and have shop workers upload videos onto their SD cards. The most watched videos for children were music videos from a Tanzanian artist called Diamond Platinum and "Tom and Jerry" cartoons, the "Wizard of Oz," and a Nigerian children’s television program called "The Baby Police." People are able to buy a variety of television series and movies from China, Indonesia, India, and Nigeria all at a cost of 250-500 SSP ($0.56-$1.12).
 
-**6. Children are enrolled in school, but face numerous challenges to attend**
-
 ![South Sudan school attendance.jpg](/uploads/South%20Sudan%20school%20attendance.jpg)
+
+**6. Children are enrolled in school, but face numerous challenges to attend**
 
 More than 80 percent of children are enrolled in classroom-based education which is provided by nongovernmental organizations and churches in the POC. The biggest challenge to accessing formal education is affordability: costs such as uniforms, textbooks, and stationery are too high, preventing some parents from sending their children to school.
 
