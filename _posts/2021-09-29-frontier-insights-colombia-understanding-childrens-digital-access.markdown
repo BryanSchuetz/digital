@@ -1,5 +1,5 @@
 ---
-title: 'Frontier Insights Colombia: Understanding Children''s Digital Access'
+title: 'Frontier Insights Colombia: Understanding Children’s Digital Access'
 date: 2021-09-29 04:46:00 -04:00
 tags:
 - Digital Insights
@@ -12,7 +12,7 @@ social-image: "/uploads/Colombia1.jpg"
 thumbnail: "/uploads/Colombia1.jpg"
 ---
 
-Throughout the summer, DAI's Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) exploring the use of digital education tools for young children in crisis-affected communities.
+Throughout the summer, DAI’s Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) exploring the use of digital education tools for young children in crisis-affected communities.
 
 Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in Colombia, South Sudan, and Yemen spoke with children and their parents and caregivers to understand their communities’ barriers to connectivity and tech habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational content. [In this series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our insights into the digital lives of children in these countries.
 
