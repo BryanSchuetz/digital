@@ -46,7 +46,7 @@ Mobile data is the only way to access the internet, as there are no community in
 
 **3. Electricity is a key barrier to technology access**
 
-The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to the local market at charging stations and pay to charge their mobile phones. Many limit how much they use their mobile phone to conserve battery.
+The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to local markets with charging stations and pay a fee. Many limit how much they use their mobile phone to conserve battery.
 
 **4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
 
