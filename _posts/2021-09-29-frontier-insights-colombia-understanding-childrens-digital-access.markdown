@@ -74,7 +74,7 @@ Those who bought phones during the pandemic did so to enable their children to a
 
 Mothers note that the lack of clarity in the documentation and processes for enrolling Venezuelan children in the Colombian education system has been a significant barrier to accessing education for this population: without parents having an education and a stable job, they will struggle to pay school fees. The enrolment process is also unclear; they struggle to understand which documents are needed to register their children. In Bogotá, mothers associate these challenges with xenophobia.
 
-**What next?**
+## What Next?
 
 Understanding the barriers and opportunities to accessing technology, connectivity, and virtual learning and videos in Colombia and the two other focus countries (South Sudan and Yemen) will guide how Sesame Workshop determines the best technology solution for a given context. The next phase of this project will take these findings and develop a framework to guide the decision-making process and lead to the appropriate choices in technology solutions, methodologies, and partnerships to distribute this content blocks in crisis-affected communities.
 
