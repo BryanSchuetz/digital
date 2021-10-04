@@ -42,11 +42,11 @@ Although more than half of respondents own a feature or smartphone, less than 30
 
 **2. Mobile data is the only way to access the internet**
 
-Mobile data is the only way to access the internet, as there are no community internet access sites (such as an internet café, community center or school) in the camps. The camps do receive a 3G data signal through two mobile network operators Zaine and MTN. Through a testing of Sesame Workshop videos on YouTube with a 3G connection, the enumerator found that the connection was sufficient to load the video within a minute and play video through without stopping, rating it very watchable.
+Mobile data is the only way to access the internet, as there are no community internet access sites (such as an internet café, community center, or school) in the camps. The camps do receive a 3G data signal through two mobile network operators, Zaine and MTN. Through a testing of Sesame Workshop videos on YouTube with a 3G connection, the enumerator found that the connection was sufficient to load the video within a minute and play video without stopping, rating it very watchable.
 
 **3. Electricity is a key barrier to technology access**
 
-The biggest barrier to technology access and use is electricity. Almost all – 99% - of interviewees report not having electricity in their homes. To charge their phones, residents go to the local market at charging stations and pay to charge their mobile phones. Many limit how much they use their mobile phone to conserve battery.
+The biggest barrier to technology access and use is electricity. Almost all—99 percent—of interviewees report not having electricity in their homes. To charge their phones, residents go to the local market at charging stations and pay to charge their mobile phones. Many limit how much they use their mobile phone to conserve battery.
 
 **4. Parents are reluctant to share their phones with children, due to fears over theft and bad content**
 
