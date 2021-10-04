@@ -28,15 +28,15 @@ The principal challenges children in the POC face in accessing technology relate
 
 **1. Most interviewees have or access a mobile phone, but few have any internet access**
 
-Of the 72 interviewees, 57 parents and caregivers own a mobile phone (79%). Men are much more likely to own a smartphone, but there is no evidence of gender disparity in ownership and access, as both women and men own mobile phones and most have multiple in their homes.
+Of the 72 interviewees, 57 parents and caregivers own a mobile phone (79 percent). Men are much more likely to own a smartphone, but there is no evidence of gender disparity in ownership and access, as both women and men own mobile phones and most have multiple in their homes.
 
-Of the 15 who do not own a mobile phone, 10 are able to use the mobile of someone else in or outside of their household and five families have no access at all. Interestingly, those without a mobile have a radio at home, which is their main source of entertainment.
+Of the 15 who do not own a mobile phone, 10 are able to use the mobile of someone else in or outside of their household and five families have no access at all. Interestingly, those without a mobile have a radio at home as their main source of entertainment.
 
 ![South Sudan phone typee.jpg](/uploads/South%20Sudan%20phone%20typee.jpg)
 
-Aside from phone calls, interviewees mainly use their phones for entertainment, including watching videos, playing games and listening to music. Many also report that due to a lack of electricity and lighting in their homes, they rely on their mobile phones for lighting at night.
+Aside from phone calls, interviewees mainly use their phones for entertainment, including watching videos, playing games, and listening to music. Many also report that due to a lack of electricity and lighting in their homes, they rely on their mobile phones for lighting at night.
 
-Although over half of respondents own a feature or smartphone, less than 30% access the internet, as the cost of data is too high.
+Although more than half of respondents own a feature or smartphone, less than 30 percent access the internet, as the cost of data is too high.
 
 ![South Sudan phone use.jpg](/uploads/South%20Sudan%20phone%20use.jpg)
 
