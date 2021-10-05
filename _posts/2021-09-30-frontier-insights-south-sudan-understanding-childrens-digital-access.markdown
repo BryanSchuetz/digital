@@ -54,7 +54,7 @@ The biggest barrier to technology access and use is electricity. Almost all—99
 
 Aside from the conservation of electricity, the three main concerns are safety of the device and their child, damage to the phone, and negative influence on their child either through too much exposure to the mobile phone or the ability to access “bad videos.” Parents are also worried their child may damage the phone or accidentally delete information. As a result, parents only share their phones with children inside their homes, control what videos and games are put on the phone, and ensure that the child does not use the mobile phone unsupervised. Parents do not allow their children to access the internet, due to concerns over “bad” content and due to the high cost of data.
 
-**5. With no access to televisions, mobile phones are the way people view video**
+**5. With no access to televisions, mobile phones are the way people view videos**
 
 A vast majority of interviewees do not own a television in their homes nor watch television: only two families have a television at home, and only seven children have access to a television outside of their home at a neighbor's house. There are “video halls” available outside of the POC site, more than 5 kilometers away. At these sites, children can watch cartoons on television, but in general, it is considered too dangerous to travel there.
 
