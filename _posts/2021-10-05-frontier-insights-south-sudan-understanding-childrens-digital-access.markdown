@@ -1,7 +1,6 @@
 ---
 title: 'Frontier Insights South Sudan: Understanding Children''s Digital Access'
-date: 2021-09-30 11:37:00 -04:00
-published: false
+date: 2021-10-05 11:00:00 -04:00
 tags:
 - Digital Insights
 - Digital Inclusion
