@@ -58,28 +58,29 @@ Randa Shaya is home to IDPs from different governorates, including Hodidah, Taiz
 
 **1. Most interviewees have access to a mobile phone and use it mostly for phone calls and messaging**
 
-All but one interviewee report owning a mobile phone, however many women commented that the mobile phone belongs to the men in their household. All use their mobiles mostly for phone calls and messages, with half watching videos and a quarter using social media.
+All but one interviewee reports owning a mobile phone, however, many women commented that the mobile phones belong to the men in their households. All use their mobiles mostly for calls and messages, with half watching videos and a quarter using social media.
 
 ![rnda typ.jpg](/uploads/rnda%20typ.jpg)
 
-2\. Electricity and poor connectivity affect how families use their mobile phones
+**2. Electricity and poor connectivity affect how families use their mobile phones**
 
-All interviewees in Randa Shaya have electricity in their home but note that it regularly cuts out. Forty-four percent are not able to charge their mobile phone at home, so they go to the grocery store. Since it costs 100 YR ($0.40) to charge a mobile phone, many limit their use of the device based on how much power is available, to avoid charging their phones too often.
+All interviewees in Randa Shaya have electricity in their homes but note that it regularly cuts out. Forty-four percent are not able to charge their mobile phone at home, so they go to the grocery store. Since it costs 100 YR ($0.40) to charge a mobile phone, many limit their use of the device based on how much power is available, to avoid charging their phones too often.
 
-In Randa Shaya, 63 percent of interviewees access the internet on their mobile phone but say that mobile data is very expensive. The high costs and lack of reliable power and quality internet access means they are more reliant on the internet café to download videos for offline use.
+In Randa Shaya, 63 percent of interviewees access the internet on their mobile phones but say that mobile data is very expensive. The high cost and lack of reliable power and quality internet access mean they are more reliant on the internet café to download videos for offline use.
 
 ![Randa Shaya child phone use .jpg](/uploads/Randa%20Shaya%20child%20phone%20use%20.jpg)
 
 **3. Most people in Randa Shaya watch videos downloaded on their phones or on YouTube or Facebook**
-Just under half of adult interviewees use their phones to watch videos. All of those who report watching videos do so by downloading files to their phones through USB, which they load at the internet cafe. More men seem to go to the internet café, and often sons or husbands will download videos for the family. A total of 16 adults report using YouTube and/or Facebook to watch videos and some mention that friends and family send videos on WhatsApp. Many note that the way they can access videos is limited due to cost and poor signal and therefore they rely on downloaded videos rather than online streaming.
+
+Just under half of the adult interviewees use their phones to watch videos. All of those who report watching videos do so by downloading files to their phones through USB, which they load at the internet café. More men seem to go to the internet café, and often sons or husbands will download videos for the family. A total of 16 adults report using YouTube and/or Facebook to watch videos and some mention that friends and family send videos on WhatsApp. Many note that the way they can access videos is limited due to cost and poor signal and therefore they rely on downloaded videos rather than online streaming.
 
 ![426b550f-165c-478a-8b44-1b1709b25c87.jpg](/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg)
 
 **4. Most children use mobile phones to play games and watch videos and some watch television**
 
-Half of the children in Randa Shaya use mobile phones to watch videos, just over two-thirds of whom use the phone every day. When asked by the Lead Researcher, all of the children were able to open either the video gallery on the mobile phone, or the Facebook and YouTube applications. Children watch videos through these methods, as well as on television using a USB. Most children report watching funny videos, cartoons, Quran-related videos and traditional Zawamel songs. One girl showed the Lead Researcher how she types “children’s songs” into YouTube and other girls showed videos on how to dance, videos for sing along songs, and one watches “YouTubers”. Two of the boys typed “fighting videos” and showed the lead researcher the violent videos that they watch.
+Half of the children in Randa Shaya use mobile phones to watch videos, just over two-thirds of whom use the phone every day. When asked by the lead researcher, all of the children were able to open either the video gallery on their mobile phone or the Facebook and YouTube applications. Children watch videos through these methods, as well as on television using a USB. Most children report watching funny videos, cartoons, Quran-related videos, and traditional Zawamel songs. One girl showed the lead researcher how she types “children’s songs” into YouTube and other girls showed videos on how to dance, videos for sing-along songs, and one watches “YouTubers.” Two of the boys typed “fighting videos” and showed the lead researcher the violent videos that they watch.
 
-Around 1/3 of interviewees have a radio and 1/3 have a television. Children tend to watch cartoons, Quran programming, educational programming, and traditional songs by Ansar Allah (the Houthi Administration), also known as Zawamel. Eight children report listening to the radio, all of whom listen to Zawamel songs, which are thought to encourage people to fight in the civil war.
+Around one-third of interviewees have a radio and one-third have a television. Children tend to watch cartoons, Quran programming, educational programming, and traditional songs by Ansar Allah (the Houthi Administration), also known as *Zawamel*. Eight children report listening to the radio, all of whom listen to Zawamel songs, which are thought to encourage people to fight in the civil war.
 
 All parents and caregivers in Randya Shaya are very concerned about children’s access to inappropriate videos, limiting use due to this and due to cost.
 
