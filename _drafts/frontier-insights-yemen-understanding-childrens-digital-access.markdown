@@ -45,7 +45,7 @@ Only 28% of the female caregivers interviewed access the internet on their phone
 
 **2. Most children do not use a mobile phone, as caregivers fear inappropriate content, but all children watch TV**
 
-Only four children in the Arrahmah camp use their caregivers mobile phone occasionally to make phone calls. There are strict camp rules around internet and content access for children: camp management dictate what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content which is not “Islamic”.  Half of the children report that they want to watch cartoons or fighting videos but are not allowed.
+Only four children in the Arrahmah camp use their caregivers mobile phone occasionally to make phone calls. There are strict camp rules around internet and content access for children: camp management dictate what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content which is not “Islamic”.  Half of the children report that they want to watch cartoons or fighting videos but are not allowed. 
 
 Each of the shelters has a television, which caregivers allow children to watch before and after school. Camp management download videos at the internet café and give the caregivers USBs with educational videos, cartoons and Quran-related programming that they plug into televisions to play. Children are always supervised.
 
@@ -63,7 +63,7 @@ All but one interviewee report owning a mobile phone, however many women comment
 
 ![rnda typ.jpg](/uploads/rnda%20typ.jpg)
 
-2\. Electricity and poor connectivity affect how families use their mobile phones 
+2\. Electricity and poor connectivity affect how families use their mobile phones
 
 All interviewees in Randa Shaya have electricity in their home but note that it regularly cuts out. Forty-four percent are not able to charge their mobile phone at home, so they go to the grocery store. Since it costs 100 YR ($0.40) to charge a mobile phone, many limit their use of the device based on how much power is available, to avoid charging their phones too often.
 
