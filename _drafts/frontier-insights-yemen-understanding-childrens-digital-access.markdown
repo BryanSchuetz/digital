@@ -5,9 +5,6 @@ tags:
 - Digital Inclusion
 - Digital Insights
 - Education
-Author: "[Talia Dweck]( https://www.linkedin.com/in/talia-dweck-92966758/} and [Chloe
-  Messenger]( https://www.linkedin.com/in/chloemessenger/?originalSubdomain=uk) and
-  [Anne Hand]( https://www.linkedin.com/in/annehand/)"
 social-image: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 thumbnail: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 ---
