@@ -18,26 +18,27 @@ Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=di
 
 <!--more-->
 
-In August, our research team traveled to two internally displaced persons (IDP) camps in rural Yemen and interviewed 50 people, including children ages three through eight and their parents or caregivers in the Randa Shaya and the Arrahma camps located in Ibb, three hours outside the capital Sana’a.
+In August, our research team traveled to two internally displaced persons (IDP) camps in rural Yemen and interviewed 50 people, including children, ages 3–8, and their parents or caregivers in the Randa Shaya and the Arrahma camps located in Ibb, three hours outside the capital Sana’a.
 
-**Key findings**
+## Key Findings
 
-In both Arrahma and Randa Shaya, the main barrier facing IDPs is poor electricity and connectivity infrastructure, particularly as the “work-arounds” such as paying to charge, using mobile data and using internet cafes, are all too expensive. Interviewees in both locations raised concerns around the negative influence of the internet on children, particularly worried about children’s access to sexual and violent content.
-The way in which children watch videos differs greatly between the two locations. In Arrahma, children watch television on a daily basis, with programming selected and supervised by the caregivers of each shelter. In Randa Shaya, however, some children do use mobile phones and do so regularly, watching videos which have been uploaded from a USB.
+In both Arrahma and Randa Shaya, the main barrier facing IDPs is poor electricity and connectivity infrastructure, particularly as the “workarounds” such as paying to charge, using mobile data, and using internet cafes, are all too expensive. Interviewees in both locations raised concerns around the negative influence of the internet on children, particularly worried about children’s access to sexual and violent content.
 
-In this blog we further detail the findings of the research. As the findings in each context were very different, we will split this blog by location.
+The way in which children watch videos differs greatly between the two locations. In Arrahma, children watch television on a daily basis, with programming selected and supervised by the caregivers of each shelter. In Randa Shaya, however, some children do use mobile phones and do so regularly, watching videos that have been uploaded from a USB.
+
+In this article, we further detail the findings of the research. As the findings in each context were very different, we will split this piece by location.
 
 # ARRAHMA
 
-Arrahma camp consists mostly of large households, or ‘shelters’, of 10-12 orphaned children, supervised by a female caregiver. These children have lost their parents due to the war and come to the camp from different places in Yemen, including Taiz. Around 130 children live in the camp with their caregivers.
+Arrahma camp consists mostly of large households, or shelters, of 10 to 12 orphaned children, supervised by a female caregiver. These children have lost their parents due to the war and come to the camp from different places in Yemen, including Taiz. Around 130 children live in the camp with their caregivers.
 
 **1. Most caregivers have a mobile phone but do not access the internet on their mobile phone**
 
-All interviewees own a mobile phone, reporting that they use it mostly for phone calls and messaging. Six women report watching videos on their phone and only five use social media. The adult interviewees who watch videos purchase them for around 1000 Yemeni rial (videos up to 8GB) at the internet café and download them onto a USB. They then use a ‘connector’ to plug the USB into their phones so that they can save them on their phones’ SD cards.
+All interviewees own a mobile phone, reporting that they use it mostly for phone calls and messaging. Six women report watching videos on their phone and only five use social media. The adult interviewees who watch videos purchase them for around 1,000 Yemeni rial (videos up to 8GB) at the internet café and download them onto a USB. They then use a connector to plug the USB into their phones so that they can save them on their phones’ SD cards.
 
 ![2-Pie-Chart-1fa723.jpg](/uploads/2-Pie-Chart-1fa723.jpg)
 
-Only 28% of the female caregivers interviewed access the internet on their phones, despite most having a smartphone or feature phone. They report that the internet connection is poor and data costs too expensive. Those who do use the internet tend to use the expensive mobile data, as the community access point for caregivers offers only a poor WiFi connection.
+Only 28 percent of the female caregivers interviewed access the internet on their phones, despite most having a smartphone or feature phone. They report that the internet connection is poor and data costs too expensive. Those who do use the internet tend to use the expensive mobile data, as the community access point for caregivers offers only a poor WiFi connection.
 
 ![ab6aaf66-37d3-4c14-982d-6da9d1eb5af2 - Copy.jpg](/uploads/ab6aaf66-37d3-4c14-982d-6da9d1eb5af2%20-%20Copy.jpg)
 
