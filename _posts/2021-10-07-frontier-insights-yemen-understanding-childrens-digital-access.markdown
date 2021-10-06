@@ -38,19 +38,19 @@ All interviewees own a mobile phone, reporting that they use it mostly for phone
 
 ![2-Pie-Chart-1fa723.jpg](/uploads/2-Pie-Chart-1fa723.jpg)
 
-Only 28 percent of the female caregivers interviewed access the internet on their phones, despite most having a smartphone or feature phone. They report that the internet connection is poor and data costs too expensive. Those who do use the internet tend to use the expensive mobile data, as the community access point for caregivers offers only a poor WiFi connection.
+Only 28 percent of the female caregivers interviewed access the internet on their phones, despite most having a smartphone or feature phone. They report that the internet connection is poor and data costs too expensive. Those who do use the internet tend to use the expensive mobile data, as the community access point for caregivers offers only a poor wifi connection.
 
 ![ab6aaf66-37d3-4c14-982d-6da9d1eb5af2 - Copy.jpg](/uploads/ab6aaf66-37d3-4c14-982d-6da9d1eb5af2%20-%20Copy.jpg)
 
 **2. Most children do not use a mobile phone, as caregivers fear inappropriate content, but all children watch TV**
 
-Only four children in the Arrahmah camp use their caregivers mobile phone occasionally to make phone calls. There are strict camp rules around internet and content access for children: camp management dictate what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content which is not “Islamic”.  Half of the children report that they want to watch cartoons or fighting videos but are not allowed. 
+Only four children in the Arrahmah camp use their caregivers' mobile phones occasionally to make calls. There are strict camp rules around the internet and content access for children: camp management dictates what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content that is not “Islamic.” Half of the children report that they want to watch cartoons or fighting videos but are not allowed. 
 
-Each of the shelters has a television, which caregivers allow children to watch before and after school. Camp management download videos at the internet café and give the caregivers USBs with educational videos, cartoons and Quran-related programming that they plug into televisions to play. Children are always supervised.
+Each of the shelters has a television, which caregivers allow children to watch before and after school. Camp management download videos at the internet café and give the caregivers USBs with educational videos, cartoons, and Quran-related programming that they plug into televisions to play. Children are always supervised.
 
 **3. All children have access to classroom-based learning**
 
-There is a school within the Arrahma camp and, of those interviewed, only two children are not enrolled in school – both male, due to recent arrival and trauma recovery. Caregivers report challenges mostly related to running the school, such as the expense of transporting teachers from their homes and insufficient equipment: there is often no electricity, there is no internet, no library or games or video hall. There is a computer lab that was donated, but they are not able to use the lab because there is no power.
+There is a school within the Arrahma camp and, of those interviewed, only two children are not enrolled in school—both male, due to recent arrival and trauma recovery. Caregivers report challenges mostly related to running the school, such as the expense of transporting teachers from their homes and insufficient equipment: There is often no electricity, no internet, no library, no games, nor video hall. There is a computer lab that was donated, but they are not able to use the lab because there is no power.
 
 # RANDA SHAYA
 
