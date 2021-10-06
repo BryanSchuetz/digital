@@ -1,5 +1,5 @@
 ---
-title: 'Frontier Insights Yemen: Understanding Children''s Digital Access'
+title: 'Frontier Insights Yemen: Understanding Children’s Digital Access'
 date: 2021-10-07 11:52:00 -04:00
 tags:
 - Digital Inclusion
@@ -9,15 +9,15 @@ social-image: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 thumbnail: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 ---
 
-Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
+Throughout this past summer, DAI’s Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
 
-Using DAI’s  [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology usage habits. Through this research, we sought to understand how technology might be leveraged improve access to educational video content. In this [series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our findings and interesting insights into the digital lives of children in these contexts.
+Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational video content. In this [series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our findings and interesting insights into the digital lives of children in these contexts.
 
 ![02269ab6-17f2-4e23-a708-3d5339e17677.jpg](/uploads/02269ab6-17f2-4e23-a708-3d5339e17677.jpg)
 
 <!--more-->
 
-In August 2021, our research team travelled to two internally-displaced persons (IDP) camps in rural Yemen and interviewed 50 people, including children ages three through eight and their parents or caregivers in the Randa Shaya and the Arrahma camps located in Ibb, three hours outside the capital Sana’a.
+In August, our research team traveled to two internally displaced persons (IDP) camps in rural Yemen and interviewed 50 people, including children ages three through eight and their parents or caregivers in the Randa Shaya and the Arrahma camps located in Ibb, three hours outside the capital Sana’a.
 
 **Key findings**
 
