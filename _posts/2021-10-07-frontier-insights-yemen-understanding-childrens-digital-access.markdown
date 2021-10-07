@@ -6,6 +6,8 @@ tags:
 - Digital Inclusion
 - Digital Insights
 - Education
+Author: "[Talia Dweck](https://www.linkedin.com/in/talia-dweck-92966758) and [Chloe
+  Messenger](https://www.dai.com/who-we-are/our-team/chloe-messenger) and [Anne Hand](https://dai-global-digital.com/authors/anne-hand/)"
 social-image: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 thumbnail: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 ---
@@ -98,4 +100,4 @@ The significant difference in children’s access to technology between these lo
 
 *Sesame Workshop’s Play to Learn is an innovative humanitarian program from Sesame Workshop, BRAC, the International Rescue Committee, NYU Global TIES for Children, and the LEGO Foundation that harnesses the power of play to deliver critical early learning to children affected by the Rohingya and Syrian refugee crises. Through a combination of educational media and direct services, Play to Learn reaches families in their homes, health centers, play spaces, and via mobile phones—providing the tools needed to promote nurturing care and help children learn and thrive. In collaboration with independent evaluator NYU Global TIES for Children, we are measuring the program’s impact on children’s development and caregivers’ mental health and well-being. By sharing what we learn and advocating for increased prioritization and investment in early childhood interventions in crisis contexts, we are laying the foundation to transform how the world supports children affected by crisis, wherever they may be.*
 
-*Thank you to our lead researcher Abeer Alabasi and her team of enumerators for conducting this research!*
+*Thank you to our lead researcher Abeer Alabasi and her team of enumerators for conducting this research.*
