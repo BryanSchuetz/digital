@@ -1,7 +1,6 @@
 ---
 title: 'Frontier Insights Yemen: Understanding Children’s Digital Access'
 date: 2021-10-07 11:52:00 -04:00
-published: false
 tags:
 - Digital Inclusion
 - Digital Insights
