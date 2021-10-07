@@ -12,7 +12,7 @@ thumbnail: "/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg"
 
 Throughout this past summer, DAI’s Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities.
 
-Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and South Sudan talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational video content. In this [series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our findings and interesting insights into the digital lives of children in these contexts.
+Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, our researchers in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), Yemen, and [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html) talked to children and their parents and caregivers to understand communities’ barriers to connectivity and their technology habits. Through this research, we sought to understand how technology might be leveraged to improve access to educational video content. In this [series](https://dai-global-digital.com/tags/?tag=digital-insights), we share our findings and interesting insights into the digital lives of children in these contexts.
 
 ![02269ab6-17f2-4e23-a708-3d5339e17677.jpg](/uploads/02269ab6-17f2-4e23-a708-3d5339e17677.jpg)
 
@@ -44,7 +44,7 @@ Only 28 percent of the female caregivers interviewed access the internet on thei
 
 **2. Most children do not use a mobile phone, as caregivers fear inappropriate content, but all children watch TV**
 
-Only four children in the Arrahmah camp use their caregivers' mobile phones occasionally to make calls. There are strict camp rules around the internet and content access for children: camp management dictates what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content that is not “Islamic.” Half of the children report that they want to watch cartoons or fighting videos but are not allowed. 
+Only four children in the Arrahmah camp use their caregivers' mobile phones occasionally to make calls. There are strict camp rules around the internet and content access for children: camp management dictates what videos caregivers can provide to children, due to fears over inappropriate content such as sexual content or content that is not “Islamic.” Half of the children report that they want to watch cartoons or fighting videos but are not allowed.
 
 Each of the shelters has a television, which caregivers allow children to watch before and after school. Camp management download videos at the internet café and give the caregivers USBs with educational videos, cartoons, and Quran-related programming that they plug into televisions to play. Children are always supervised.
 
