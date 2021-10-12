@@ -1,6 +1,6 @@
 ---
 title: 'Frontier Insights Colombia: Understanding Children’s Digital Access'
-date: 2021-09-29 04:46:00 -04:00
+date: 2021-09-30 04:46:00 -04:00
 tags:
 - Digital Insights
 - Digital Inclusion
