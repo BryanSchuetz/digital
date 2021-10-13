@@ -5,7 +5,10 @@ tags:
 - Digital Insights
 - Education
 - Digital Inclusion
-Author: Talia Dweck
+Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/), [Chloe
+  Messenger](https://dai-global-digital.com/authors/chloe-messenger/) and [Anne Hand](https://dai-global-digital.com/authors/anne-hand/)"
+social-image: "/uploads/Barriers_simplified%20graphic%20(002).png"
+thumbnail: "/uploads/Barriers_simplified%20graphic%20(002).png"
 ---
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) on their Play to Learn program to explore the possibilities for using digital tools to provide education services among children aged three to eight living in crisis-affected communities.
@@ -14,7 +17,7 @@ There are many well documented barriers to digital inclusion that must be overco
 
 <!--more-->
 
-**What is different for early childhood inclusion in crisis-affected communities?**
+## What is different for early childhood inclusion in crisis-affected communities?
 
 These barriers to digital inclusion take on another level when children three to eight, Sesame Workshop’s target age, are a key beneficiary group, and when these children are living in contexts highly affected by crisis.
 
@@ -22,19 +25,19 @@ To begin with, digital inclusion for parents or caregivers, who tend to own the 
 
 Another key filter is which adults are making decisions for children and what decisions they make. For example, parents may not perceive digital technology as a tool for education, as they consider it exclusively a mode of entertainment. This is significantly dependent on context and is related to **awareness** in terms of how children become exposed to devices or content that may have educational value. We saw this, for example, in South Sudan and Yemen, where digital devices were not perceived to have a strong pedagogical purpose, and as such children were not often given access to them by caregivers.
 
-A parent’s literacy and numeracy levels and digital \*\*skills \*\*may also affect the ways in which they are able to support their child’s use of technology. However, just because parents have low digital literacy does not mean it trickles down to their children. Often, children – even as young as Sesame Workshop’s target age group – are more adept at navigating digital platforms than their parents. This was the case, for example, in Colombia, where even children who could not yet read or write often had higher levels of digital literacy than their parents or caregivers, and could easily navigate devices on their own to watch videos.
+A parent’s literacy and numeracy levels and digital **skills** may also affect the ways in which they are able to support their child’s use of technology. However, just because parents have low digital literacy does not mean it trickles down to their children. Often, children – even as young as Sesame Workshop’s target age group – are more adept at navigating digital platforms than their parents. This was the case, for example, in Colombia, where even children who could not yet read or write often had higher levels of digital literacy than their parents or caregivers, and could easily navigate devices on their own to watch videos.
 
 Parents or caregivers might, due to a scarcity of resources, not allow children much access to digital media or content. This is related to **affordability** as data plans can be prohibitively expensive for families who have been displaced, are refugees, or are encountering another type of crisis. Affordability was an important barrier in all three research contexts, but there were also work-arounds that some families used to continue accessing content on their devices, within these constraints. Specifically, for example, in Colombia, families took advantage of promotions where access to some apps, such as Facebook, were free for use with minimal credit on their phones, using these apps almost exclusively for watching videos which would otherwise be activities that consume significant amounts of data.
 
 In contexts where affordability is a key concern, families may prioritize use of their digital device and the internet, often meaning that fee-earning activities, or parents and caregivers, are given preferential access over children. For families with multiple children, older children are likely to receive access to educational content through technology first, as they may be more formally engaged with school, and parents might see early-childhood content as more focused on play and less on education.
 
-**What is missing in a digital inclusion framework for displaced families?**
+## What is missing in a digital inclusion framework for displaced families?
 
 Displacement significantly limits factors of digital inclusion, such as attainability, as it is impossible to access technology without some degree of infrastructure. Some educational programs are simply inaccessible to people with disabilities for a variety of potential reasons related to ableism. And people might choose to limit their access to technology, if there is a lack of trust or heightened security risk due to previous mistreatment by figures of authority.
 
 **Trust and security** around digital platform and internet safety clearly emerged from our research as of foremost importance, particularly in fragile and conflict-affected states. This is related to both personal security, such as the fear of theft when children are using devices, as mentioned before from findings in South Sudan, and concerns around appropriateness of content for children. Appropriateness of content was key, for example, in one camp in Yemen, where caregivers noted that boys were exposed to violent and inappropriate content watching videos on mobile phones. In conflict-affected circumstances, there may be lower levels of trust as people are regularly exposed to rumors and fake news, or may have been under surveillance in the past, and, as such, assess their own risk environments based on these negative experiences. In Colombia, families report a distrust of information on WhatsApp, having received information on food aid programs or about COVID-19 vaccines that are false and, by following the instructions, have wasted their time and money on transportation
 
-**Meeting displaced families where they are to support early childhood education for all**
+## Meeting displaced families where they are to support early childhood education for all
 
 In our collaboration with Sesame Workshop, all of these digital inclusion factors exist against a backdrop of emergency, where families and children are living in difficult circumstances. They live in places where there is generally less infrastructure, more displacement, and higher incidences of trauma and disability. Both emergency circumstances, and early childhood engagement, add levels of complexity to digital inclusion for refugee families and children. These are elements that must remain top of mind when designing inclusive early childhood programming and delivery mechanisms that will support improvements in well-being for parents and their children. Digital inclusion is one increasingly popular mechanism to access more people, but there are additional elements to digital inclusion that are unique to these circumstances.
 
