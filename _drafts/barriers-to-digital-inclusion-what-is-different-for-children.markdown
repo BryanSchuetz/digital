@@ -5,6 +5,7 @@ tags:
 - Digital Insights
 - Education
 - Digital Inclusion
+Author: Talia Dweck
 ---
 
 Throughout summer 2021, DAI Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) on their Play to Learn program to explore the possibilities for using digital tools to provide education services among children aged three to eight living in crisis-affected communities.
