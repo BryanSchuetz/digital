@@ -15,7 +15,9 @@ Throughout this past summer, DAI's Center for Digital Acceleration has been work
 
 There are many well-documented barriers to digital inclusion that must be overcome for different individuals and groups to effectively access and use digital technologies. There are also a variety of frameworks that map these barriers in different ways. For this project, we chose to focus on the barriers listed below: 
 
-![Barriers_simplified graphic (002).png](/uploads/Barriers_simplified%20graphic%20(002).png)Our Frontier Insights research for Sesame Workshop in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html?utm_source=related-box), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html?utm_source=related-box), and [Yemen ](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html)clearly demonstrated some of these barriers, but also revealed additional constraints. This led us to think about what is missing from the taxonomy of digital inclusion barriers when it comes to children and families in crisis-affected communities.
+![Barriers_simplified graphic (002).png](/uploads/Barriers_simplified%20graphic%20(002).png)
+
+Our Frontier Insights research for Sesame Workshop in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html?utm_source=related-box), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html?utm_source=related-box), and [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html) clearly demonstrates some of these barriers but also reveals additional constraints. This led us to think about what is missing from the taxonomy of digital inclusion barriers when it comes to children and families in crisis-affected communities.
 
 <!--more-->
 
