@@ -11,7 +11,7 @@ social-image: "/uploads/Barriers_simplified%20graphic%20(002).png"
 thumbnail: "/uploads/Barriers_simplified%20graphic%20(002).png"
 ---
 
-Throughout Summer 2021, DAI's Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) on their Play to Learn program to explore the possibilities for using digital tools to provide education services among children aged three to eight living in crisis-affected communities.
+Throughout this past summer, DAI's Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) on its Play to Learn program to explore the possibilities for using digital tools to provide education services among children, ages 3 to 8, living in crisis-affected communities.
 
 There are many well-documented barriers to digital inclusion that must be overcome for different individuals and groups to effectively access and use digital technologies. There are also a variety of frameworks that map these barriers in different ways. For this project, we chose to focus on the barriers listed below: 
 
