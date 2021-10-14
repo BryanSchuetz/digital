@@ -17,13 +17,13 @@ There are many well-documented barriers to digital inclusion that must be overco
 
 ![Barriers_simplified graphic (002).png](/uploads/Barriers_simplified%20graphic%20(002).png)
 
-Our Frontier Insights research for Sesame Workshop in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html?utm_source=related-box), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html?utm_source=related-box), and [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html) clearly demonstrates some of these barriers but also reveals additional constraints. This led us to think about what is missing from the taxonomy of digital inclusion barriers when it comes to children and families in crisis-affected communities.
+Our Frontier Insights research for Sesame Workshop in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html?utm_source=related-box), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html?utm_source=related-box), and [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html) clearly demonstrates some of these barriers but also reveals additional constraints. This led us to think about what is missing from the taxonomy of digital inclusion barriers when it comes to children and families in communities in crisis.
 
 <!--more-->
 
-## What is different about early childhood inclusion in crisis-affected communities?
+## What is Different about Early Childhood Inclusion in Crisis-affected Communities?
 
-Barriers to digital inclusion take on another dynamic when children three to eight, Sesame Workshop’s target age, are a key beneficiary group, and when these children are living in contexts highly affected by crisis.
+Barriers to digital inclusion take on another dynamic when children, ages 3 to 8—Sesame Workshop’s target—are a key beneficiary group, and when these children are living in contexts highly affected by crisis.
 
 To begin with, digital inclusion for parents or caregivers, who tend to own the devices children might have access to, does not always trickle down to these children. This may become an added barrier for children being digitally included from the very beginning. This is particularly acute when considering the inclusion factor of **attainability**. For example, if social norms do not encourage children to engage with digital tools, or if adults are not willing to share their devices or internet access with children, children are effectively excluded from digital engagement and education. This point came out clearly, for example, through findings in South Sudan, where parents were reluctant to share their mobile phones with children, fearing, for example, damage or theft. In addition to age-based preference, there may be gender-based preference, and in some contexts, boys are more likely to gain access than girls.
 
