@@ -13,13 +13,13 @@ thumbnail: "/uploads/Barriers_simplified%20graphic%20(002).png"
 
 Throughout this past summer, DAI's Center for Digital Acceleration has been working with the [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) on its Play to Learn program to explore the possibilities for using digital tools to provide education services among children, ages 3 to 8, living in crisis-affected communities.
 
+<!--more-->
+
 There are many well-documented barriers to digital inclusion that must be overcome for different individuals and groups to effectively access and use digital technologies. There are also a variety of frameworks that map these barriers in different ways. For this project, we chose to focus on the barriers listed below:
 
 ![Barriers_simplified graphic (002).png](/uploads/Barriers_simplified%20graphic%20(002).png)
 
 Our Frontier Insights research for Sesame Workshop in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html?utm_source=related-box), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html?utm_source=related-box), and [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html) clearly demonstrates some of these barriers but also reveals additional constraints. This led us to think about what is missing from the framework of digital inclusion barriers when it comes to children and families in communities in crisis.
-
-<!--more-->
 
 ## What is Different about Early Childhood Inclusion in Crisis-affected Communities?
 
