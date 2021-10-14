@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Oct 2021 13:55:04 -0400</pubDate>
-    <lastBuildDate>Thu, 14 Oct 2021 13:55:04 -0400</lastBuildDate>
+    <pubDate>Thu, 14 Oct 2021 14:06:51 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Oct 2021 14:06:51 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Barriers_simplified%20graphic%20(002).png" medium="image" /> 
+        <title>Barriers to Digital Inclusion: What is Different for Children?</title>
+        <description>&lt;p&gt;Throughout this past summer, DAI’s Center for Digital Acceleration has been working with the &lt;a href=&quot;https://www.sesameworkshop.org/what-we-do/refugee-response&quot;&gt;Sesame Workshop&lt;/a&gt; on its Play to Learn program to explore the possibilities for using digital tools to provide education services among children, ages 3 to 8, living in crisis-affected communities.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Oct 2021 06:00:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/talia-dweck/">Talia Dweck</a>, <a href="https://dai-global-digital.com/authors/chloe-messenger/">Chloe Messenger</a> and <a href="https://dai-global-digital.com/authors/anne-hand/">Anne Hand</a>
+</author>
+        <link>https://dai-global-digital.com/barriers-to-digital-inclusion-what-is-different-for-children.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/barriers-to-digital-inclusion-what-is-different-for-children.html</guid>
+        
+        <category>Digital Insights</category>
+        
+        <category>Education</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/426b550f-165c-478a-8b44-1b1709b25c87.jpg" medium="image" /> 
@@ -200,31 +221,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/adults-teaching-children-digital-literacy-in-a-digitally-growing-society.html</guid>
         
         <category>Digital Literacy</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/blockchain-3019120_1920.png" medium="image" /> 
-        <title>Blockchain: Are We Beyond the Peak of The Hype Cycle?</title>
-        <description>&lt;p&gt;A combination of mainstream media attention and Elon Musk’s Twitter feed has reignited the public interest in distributed ledger technologies, commonly referred to as the blockchain. CDA is no stranger to this technology; check out our blog post on &lt;a href=&quot;https://dai-global-digital.com/blockchain-for-development-part-1-understanding-the-tech.html&quot;&gt;blockchain&lt;/a&gt; and how we’ve &lt;a href=&quot;https://dai-global-digital.com/getting-past-the-blockchain-hype-cycle.html&quot;&gt;applied these concepts in-house&lt;/a&gt;. Blockchain-based applications leverage technology’s ability to decrease transaction costs, maintain immutable records, and provide users with privacy.&lt;/p&gt;
-
-&lt;p&gt;Over the last decade, international donors and the private sector have used blockchain across financial inclusion, digital government, and supply chain management. Recently, we revisited blockchain’s role in these various technical areas to assess its &lt;a href=&quot;https://www.gartner.com/en/research/methodologies/gartner-hype-cycle&quot;&gt;hype cycle&lt;/a&gt; and long-term deployment sustainability.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 13 Aug 2021 06:00:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/connor-mackenzie/">Connor MacKenzie</a>
-</author>
-        <link>https://dai-global-digital.com/blockchain-are-we-beyond-the-peak-of-the-hype-cycle.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/blockchain-are-we-beyond-the-peak-of-the-hype-cycle.html</guid>
-        
-        <category>Blockchain Series</category>
-        
-        <category>Digital Identity</category>
-        
-        <category>Digital Financial Services</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
