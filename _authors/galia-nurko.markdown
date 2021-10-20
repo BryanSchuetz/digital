@@ -1,7 +1,7 @@
 ---
 title: Galia Nurko
 date: 2018-09-19 15:33:00 -04:00
-Job: Associate Digital Specialist
+Job: Digital Specialist
 Image: "/uploads/GaliaNurko.png"
 ---
 
