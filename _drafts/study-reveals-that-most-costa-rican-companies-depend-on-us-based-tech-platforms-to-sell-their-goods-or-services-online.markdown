@@ -6,6 +6,8 @@ tags:
 - Digital Economy
 - Digital Platforms
 Author: Eduardo Gonzalez
+social-image: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
+thumbnail: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
 ---
 
 Like many countries in the developing world, Costa Rica experiences limited access to and availability of digital technologies compared to industrialized nations. Due to this lag in digital transformation, when the COVID-19 pandemic hit, commerce in Costa Rica was highly affected leading to business disruption and unemployment. As of June 2021, the country’s unemployment rate was 17.4 percent, which is an improvement upon the initial losses in 2020, however still higher than the average for OECD countries (6.4%).
