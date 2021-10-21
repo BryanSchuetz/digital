@@ -10,7 +10,7 @@ social-image: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
 thumbnail: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
 ---
 
-Like much of the developing world, Costa Rica has limited availability of digital technologies compared to industrialized nations. Due to this lag in digital transformation, when the COVID-19 pandemic hit, commerce in Costa Rica was highly affected, leading to business disruption and unemployment. As of June, the country’s unemployment rate was 17.4 percent, which is an improvement upon the initial losses in 2020, however, still higher than the average for high-income countries (6.4 percent).
+Like much of the developing world, Costa Rica has limited availability of digital technologies compared to industrialized nations. Due to this lag in digital transformation, when the COVID-19 pandemic hit, commerce in Costa Rica was highly affected, leading to business disruption and unemployment. As of June, the country’s unemployment rate was 17.4 percent, which is an improvement upon the initial losses in 2020, however, still higher than the average for high-income countries (6.4 percent). 
 
 As COVID-19 stretches into its second year, formal companies, both big and small, are jumping into the digital world to find efficient and safe ways to offer their services and products online. Informal businesses are following suit, using online platforms to reach customers.
 
@@ -32,10 +32,10 @@ One thing that makes e-commerce unique in Costa Rica is that all of these transa
 
 Despite these benefits, a study from the Costa Rica Chamber of Commerce warns that the country’s commerce is building a dangerous dependency on digital platforms. Almost nine out of 10 companies sell their products or services on WhatsApp, and 86 percent sell on at least one social network. The study also shows that only four out of 10 companies use their own e-commerce platform (often, launching one’s own e-commerce platform is not feasible for most businesses as it can require an investment of $5,000).
 
-The potential downsides of this dependency came into focus this month when Facebook, Instagram, and WhatsApp went down for several hours, rendering some businesses unable to communicate with their customers. Many quickly turned to other social networks like Telegram to continue buying and selling. While Costa Rican e-commerce survived the blackout, I’m sure that I was not alone in wondering what lessons we could learn from that experience. 
+The potential downsides of this dependency came into focus this month when Facebook, Instagram, and WhatsApp went down for several hours, rendering some businesses unable to communicate with their customers. Many quickly turned to other social networks like Telegram to continue buying and selling. While Costa Rican e-commerce survived the blackout, I’m sure that I was not alone in wondering what lessons we could learn from that experience.
 
 ## What Can We Do?
 
-This blog talked about some of the great benefits and challenges Costa Rica faces regarding e-commerce facilitated through online platforms. These platforms are cost-effective (free!) and offer a way to help resource-strapped companies reach out to their customers. That said, the concerns about over-dependency are valid and must also be addressed. 
+This blog talked about some of the great benefits and challenges Costa Rica faces regarding e-commerce facilitated through online platforms. These platforms are cost-effective (free!) and offer a way to help resource-strapped companies reach out to their customers. That said, the concerns about over-dependency are valid and must also be addressed.
 
 Jair Mena of the Costa Rica Chamber of Commerce has suggested that companies develop contingency plans to diversify their online sales channels. The digital development community can help encourage this diversification by supporting digital marketplaces hosted by national governments and encouraging sellers to diversify their sales channels to multiple platforms, as many did during the blackout.
