@@ -10,9 +10,11 @@ social-image: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
 thumbnail: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg"
 ---
 
-Like much of the developing world, Costa Rica has limited availability of digital technologies compared to industrialized nations. Due to this lag in digital transformation, when the COVID-19 pandemic hit, commerce in Costa Rica was highly affected, leading to business disruption and unemployment. As of June, the country’s unemployment rate was 17.4 percent, which is an improvement upon the initial losses in 2020, however still higher than the average for OECD countries (6.4 percent).
+Like much of the developing world, Costa Rica has limited availability of digital technologies compared to industrialized nations. Due to this lag in digital transformation, when the COVID-19 pandemic hit, commerce in Costa Rica was highly affected, leading to business disruption and unemployment. As of June, the country’s unemployment rate was 17.4 percent, which is an improvement upon the initial losses in 2020, however, still higher than the average for high-income countries (6.4 percent).
 
-As COVID-19 stretches into its second year, formal companies, both big and small, are jumping into the digital world to find efficient and safe ways to offer their services and products online. Informal businesses are following suit, using online technology platforms to reach their customers.![rami-al-zayat-w33-zg-dNL4-unsplash.jpg](/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg)
+As COVID-19 stretches into its second year, formal companies, both big and small, are jumping into the digital world to find efficient and safe ways to offer their services and products online. Informal businesses are following suit, using online technology platforms to reach their customers.
+
+![rami-al-zayat-w33-zg-dNL4-unsplash.jpg](/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg)`Photo: Unsplash.`
 
 <!--more-->
 
