@@ -14,7 +14,7 @@ Like many countries in the developing world, Costa Rica experiences limited acce
 
 As COVID-19 stretches into its second year, formal companies, both big and small, are jumping into the digital world to find efficient and safe ways to offer their services and products online. Informal businesses are following suit, using online technology platforms to reach their customers.
 
-[![rami-al-zayat-w33-zg-dNL4-unsplash.jpg](/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg)](http://)
+![rami-al-zayat-w33-zg-dNL4-unsplash.jpg](/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg)
 
 <!--more-->
 
@@ -32,7 +32,7 @@ One thing that makes e-commerce unique in Costa Rica, is that all of these trans
 
 Despite these benefits, a study from the Costa Rica Chamber of Commerce warns that the country’s commerce is building a dangerous dependency on digital platforms. Almost 9 out of 10 companies sell their products or services on WhatsApp, and 86 percent sell using at least one social network. The study also shows that only 4 out of 10 companies use their own e-commerce platform (Often, launching one’s own e-commerce platform is not feasible for most businesses as it can require an investment of 5000 USD.)
 
-The potential downsides of this dependency came into focus this month when Facebook, Instagram, and Whatsapp went down for several hours, rendering some businesses unable to communicate with their customers for an entire day. Many quickly turned to other social networks like Telegram to continue buying and selling. While Costa Rican e-commerce survived the blackout, I’m sure that I was not alone in wondering what lessons we could learn from that experience.
+The potential downsides of this dependency came into focus this month when Facebook, Instagram, and Whatsapp went down for several hours, rendering some businesses unable to communicate with their customers for an entire day. Many quickly turned to other social networks like Telegram to continue buying and selling. While Costa Rican e-commerce survived the blackout, I’m sure that I was not alone in wondering what lessons we could learn from that experience. 
 
 **What Can We Do?**
 
