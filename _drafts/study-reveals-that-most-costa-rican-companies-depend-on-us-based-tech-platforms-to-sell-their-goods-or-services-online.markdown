@@ -1,6 +1,6 @@
 ---
-title: Study reveals that most Costa Rican companies depend on US based tech platforms
-  to sell their goods or services online
+title: Study Shows Most Costa Rican Companies Depend on U.S.-Based Tech Platforms
+  to Sell Goods or Services
 date: 2021-10-21 11:04:00 -04:00
 tags:
 - Digital Economy
