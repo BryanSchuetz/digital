@@ -36,6 +36,6 @@ The potential downsides of this dependency came into focus this month when Faceb
 
 ## What Can We Do?
 
-This blog talked about some of the great benefits and challenges Costa Rica faces regarding e-commerce facilitated through online platforms. These platforms are cost-effective (free!) and offer a way to help resource-strapped companies reach out to their customers. That said, the concerns about over-dependency are valid and must also be addressed.
+This blog shows some of the benefits and challenges Costa Rican firms face in facilitating online commerce. These platforms are cost-effective (free!) and offer a way to help resource-strapped companies reach out to their customers. That said, the concerns about over-dependency are valid and must also be addressed.
 
 Jair Mena of the Costa Rica Chamber of Commerce has suggested that companies develop contingency plans to diversify their online sales channels. The digital development community can help encourage this diversification by supporting digital marketplaces hosted by national governments and encouraging sellers to diversify their sales channels to multiple platforms, as many did during the blackout.
