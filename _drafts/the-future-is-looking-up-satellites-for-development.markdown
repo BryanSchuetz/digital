@@ -6,9 +6,16 @@ tags:
 - Satellite
 - Hardware
 Author: Rob Ryan-Silva
+social-image: "/uploads/3168212588_cd7d304161_o.jpg"
+thumbnail: "/uploads/3168212588_cd7d304161_o.jpg"
 ---
 
 When predicting what technologies might have an impact on international development in the coming years, shifts in the economics of a technology are often more indicative of impending transformation than improvements in its capabilities. Particularly in emerging markets, even older technologies can suddenly become disruptive once their cost drops to a level that enables wider application. With that lens in our spyglass as we scan the horizon for coming opportunities, then, we should not forget to look up, because satellites are getting radically cheaper.
+
+![3168212588_cd7d304161_o.jpg](/uploads/3168212588_cd7d304161_o.jpg)\
+`Photo: Flickr - Paul Keller `
+
+<!--more-->
 
 The cost of launching a payload to low-earth orbit have plummeted in recent years, from $65,400/kg (in adjusted 2021 dollars) in the days of the Space Shuttle – itself a major cost reduction from the days of Atlas rockets – to [as little as $1,500/kg](https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/) for a ride on a SpaceX Falcon Heavy today. This, in turn, enables a different approach to space hardware.
 
@@ -20,7 +27,7 @@ This transformation of the satellite business means lower barriers to entry for 
 
 Aid workers are very familiar with satellite internet and telephone services. These are typically expensive, temperamental, and frustrating, but completely essential where more traditional options are not available. The revolution in space economics means the emergence of new alternatives that could be cheap enough to make a big difference:
 
-* *Internet service* has been driving a new private space race, with SpaceX’s [Starlink](https://www.starlink.com/) in the early lead and [OneWeb](https://oneweb.net/) working to catch up, but competition is also expected from Amazon ([Kuiper](https://en.wikipedia.org/wiki/Kuiper_Systems)) and Telesat ([Lightspeed](https://www.telesat.com/leo-satellites/)). All promise worldwide coverage in the next few years, at speeds and prices competitive with terrestrial broadband. Development professionals should be thinking about what becomes possible when broadband Internet at reasonable prices is available literally everywhere.\
+* *Internet service* has been driving a new private space race, with SpaceX’s [Starlink](https://www.starlink.com/) in the early lead and [OneWeb](https://oneweb.net/) working to catch up, but competition is also expected from Amazon ([Kuiper](https://en.wikipedia.org/wiki/Kuiper_Systems)) and Telesat ([Lightspeed](https://www.telesat.com/leo-satellites/)). All promise worldwide coverage in the next few years, at speeds and prices competitive with terrestrial broadband. Development professionals should be thinking about what becomes possible when broadband Internet at reasonable prices is available literally everywhere.\\
 
 * *Voice services* from providers like Iridium and Thuraya have been a mainstay of development workers for decades now but are too expensive to be truly transformative for development stakeholders. Starlink [plans to offer VoIP services in the near future](https://arstechnica.com/information-technology/2021/02/spacex-plans-starlink-phone-service-emergency-backup-and-low-income-access/), and new entrants into the satellite handset market may appear given that the capital costs are lower than they were for, say, [Iridium](https://bookshop.org/books/eccentric-orbits-the-iridium-story/9780802121684).
 
