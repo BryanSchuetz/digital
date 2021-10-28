@@ -10,7 +10,7 @@ social-image: "/uploads/3168212588_cd7d304161_o.jpg"
 thumbnail: "/uploads/3168212588_cd7d304161_o.jpg"
 ---
 
-When predicting which technologies might have an impact on international development in the coming years, shifts in the economics of a technology are often more indicative of impending transformation than improvements in its capabilities. Particularly in emerging markets, even older technologies can suddenly become disruptive once their cost drops to a level that enables wider application. With that lens in our spyglass as we scan the horizon for coming opportunities, then, we should not forget to look up, because satellites are getting radically cheaper.
+When predicting which technologies might have an impact on international development in the coming years, shifts in the economics of a technology are often more indicative of impending transformation than improvements in its capabilities. Particularly in emerging markets, even older technologies can suddenly become disruptive once their cost drops, enabling wider application. With that lens in our spyglass as we scan the horizon for coming opportunities, then, we should not forget to look up, because satellites are getting radically cheaper.
 
 ![3168212588_cd7d304161_o.jpg](/uploads/3168212588_cd7d304161_o.jpg)`Photo: Flickr, Paul Keller.`
 
