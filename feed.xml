@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Oct 2021 11:11:27 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Oct 2021 11:11:27 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Oct 2021 12:20:54 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Oct 2021 12:20:54 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/3168212588_cd7d304161_o.jpg" medium="image" /> 
+        <title>The Future is Looking Up: Satellites for Development</title>
+        <description>&lt;p&gt;When predicting which technologies might have an impact on international development in the coming years, shifts in the economics of a technology are often more indicative of impending transformation than improvements in its capabilities. Particularly in emerging markets, even older technologies can suddenly become disruptive once their cost drops, enabling wider application. With that lens in our spyglass as we scan the horizon for coming opportunities, then, we should not forget to look up, because satellites are getting radically cheaper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/3168212588_cd7d304161_o.jpg&quot; alt=&quot;3168212588_cd7d304161_o.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Flickr, Paul Keller.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Oct 2021 12:17:00 -0400</pubDate>
+        <author>Rob Ryan-Silva
+</author>
+        <link>https://dai-global-digital.com/the-future-is-looking-up-satellites-for-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-future-is-looking-up-satellites-for-development.html</guid>
+        
+        <category>Internet of Things</category>
+        
+        <category>Satellite</category>
+        
+        <category>Hardware</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/rami-al-zayat-w33-zg-dNL4-unsplash.jpg" medium="image" /> 
@@ -210,23 +233,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html</guid>
         
         <category>Blockchain Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/6555466127_96972a78fa_o.png" medium="image" /> 
-        <title>Choosing the Right Digital Platform for Learning and Training Needs</title>
-        <description>&lt;p&gt;As the world familiarizes itself with online learning in our COVID-19-affected times, we have been exposed to many seamless ways to experience remote learning. However, when we switch roles—from learning to developing different types of courses—this generalized exposure and all the technical terms for ways digital learning material is presented can become overwhelming. This blog explains the two most common platforms used to present eLearning material: Content Management Systems (CMS) and Learning Management Systems (LMS). Understanding these ways to structure and present eLearning material is key to determining which is more beneficial for a project’s needs.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 26 Aug 2021 06:00:00 -0400</pubDate>
-        <author>Anne Hand
-</author>
-        <link>https://dai-global-digital.com/choosing-the-right-digital-platform-for-learning-and-training-needs.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/choosing-the-right-digital-platform-for-learning-and-training-needs.html</guid>
-        
-        <category>eLearning</category>
         
         
       </item>
