@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Oct 2021 15:33:09 -0400</pubDate>
-    <lastBuildDate>Fri, 29 Oct 2021 15:33:09 -0400</lastBuildDate>
+    <pubDate>Fri, 29 Oct 2021 17:07:03 -0400</pubDate>
+    <lastBuildDate>Fri, 29 Oct 2021 17:07:03 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/CoverPhoto-9180c8.JPG" medium="image" /> 
+        <title>Apply Now: Support USAID and the Bill and Melinda Gates Foundation on an Assessment of Farmer-Centric Models of Data Governance and Ownership</title>
+        <description>&lt;p&gt;As the number of digitally enabled agricultural products and services continues to grow in regions across the globe, most of the data collected by the digital service providers developing these tools remain locked within each entity’s systems. Due to incomplete, fragmented, or non-existent data sets on agri-food system stakeholders, such as farmers, digital service providers often take on the cost burden of collecting the information they need to develop products and services for their target users. This results in multiple actors holding fragments of information on agri-food system actors, decreasing incentives for data sharing across organizations and increasing the burden placed on food system actors to repeatedly provide their data to numerous researchers, companies, and development organizations. This dynamic has led to several missed opportunities for all stakeholders, including government agencies, the private sector, and the development community, to have a common and complete picture of the state of agricultural communities and the needs of individual actors therein.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Oct 2021 14:00:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/alana-mcginty-04a91657/">Alana McGinty</a>
+</author>
+        <link>https://dai-global-digital.com/apply-now-to-support-usaid-and-the-bill-and-melinda-gates-foundation-on-an-assessment-on-farmer-centric-models-of-data-governance-and-ownership.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-to-support-usaid-and-the-bill-and-melinda-gates-foundation-on-an-assessment-on-farmer-centric-models-of-data-governance-and-ownership.html</guid>
+        
+        <category>digital agriculture</category>
+        
+        <category>Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/3168212588_cd7d304161_o.jpg" medium="image" /> 
@@ -214,25 +233,6 @@
         <category>Disinformation</category>
         
         <category>Digital Platforms</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg" medium="image" /> 
-        <title>Is Intellectual Property Ready for Blockchain?</title>
-        <description>&lt;p&gt;With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg&quot; alt=&quot;markus-spiske-Skf7HxARcoc-unsplash.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Sep 2021 06:00:00 -0400</pubDate>
-        <author>Miriam Stankovich
-</author>
-        <link>https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html</guid>
-        
-        <category>Blockchain Series</category>
         
         
       </item>
