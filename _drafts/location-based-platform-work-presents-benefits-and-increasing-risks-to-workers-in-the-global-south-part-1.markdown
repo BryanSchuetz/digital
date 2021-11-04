@@ -5,6 +5,8 @@ date: 2021-11-04 08:39:00 -04:00
 tags:
 - gig economy
 - gig work
+- digital economy
+- Innovation
 Author: Araba Sapara-Grant
 social-image: "/uploads/humphrey-muleba-R8P8iZ9nRko-unsplash.jpg"
 thumbnail: "/uploads/humphrey-muleba-R8P8iZ9nRko-unsplash.jpg"
@@ -14,7 +16,7 @@ One of the wonders of the digital age is that if at 11 pm I suddenly crave a piz
 
 <!--more-->
 
-As we continue to grapple with the pandemic, companies specializing in delivery services have seen their revenue rise exponentially. Uber saw its delivery bookings increase by [166 percent](https://www.theguardian.com/technology/2021/may/05/uber-earnings-food-delivery-revenue) since the first quarter of 2020, primarily due to its food delivery services during the first several months of the pandemic. These services are also increasingly relevant across the Global South. With internet penetration and smartphone use growing in developing countries, digital platforms provide consumers and businesses, especially micro, small, and medium-sized enterprises (MSMEs), with transportation and delivery services and become an opportunity for people to supplement lost income. According to the GSM Association, countries that saw a more significant hit to their informal economies in 2020 [experienced a rise in employment via digital platforms](https://www.gsma.com/mobilefordevelopment/blog/covid-19-and-the-future-of-work-in-africas-mobile-industry-what-the-experts-say/).
+As we continue to grapple with the pandemic, companies specializing in delivery services have seen their revenue rise exponentially. Uber saw its delivery bookings increase by [166 percent](https://www.theguardian.com/technology/2021/may/05/uber-earnings-food-delivery-revenue) since the first quarter of 2020, primarily due to its food delivery services during the first several months of the pandemic. These services are also increasingly relevant across the Global South. With internet penetration and smartphone use growing in developing countries, digital platforms provide consumers and businesses, especially micro, small, and medium-sized enterprises (MSMEs), with transportation and delivery services and become an opportunity for people to supplement lost income. According to the GSM Association, countries that saw a more significant hit to their informal economies in 2020 experienced a rise in employment via [digital platforms](https://www.gsma.com/mobilefordevelopment/blog/covid-19-and-the-future-of-work-in-africas-mobile-industry-what-the-experts-say/).
 
 As the anticipated "end" of the pandemic stretches further and further into the future (and with it, concerns about the return of the informal jobs that employed a majority of people in developing countries), the development sector seems to be expanding its analysis of the potential benefits and drawbacks of digital platform work. Organizations such as [Caribou Digital](https://www.platformlivelihoods.com/), [BFA Global](https://bfaglobal.com/iworker/insights/iworkers-a-new-bellwether-of-the-digital-economy/), and the [Consultative Group to Assist the Poo](https://www.cgap.org/blog/how-can-financial-services-support-platform-workers)r (CGAP) have already done some thinking on the potential impact platform work could have in the development context, and the results are... mixed.
 
