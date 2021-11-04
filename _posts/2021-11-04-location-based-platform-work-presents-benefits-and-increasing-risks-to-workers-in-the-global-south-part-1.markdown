@@ -9,7 +9,6 @@ tags:
 - Innovation
 Author: Araba Sapara-Grant
 social-image: "/uploads/Screen%20Shot%202021-11-04%20at%203.16.30%20PM.png"
-thumbnail: "/uploads/Screen%20Shot%202021-11-04%20at%203.16.30%20PM.png"
 ---
 
 One of the wonders of the digital age is that if at 11 pm I suddenly crave a pizza (Hawaiian preferably—no shame!), all I have to do is click a few buttons on my phone, and *voila!* pizza is delivered to my door. While it may feel like the pizza arrived by magic, especially given the "no-contact" options made available since the start of COVID-19, the satisfaction of my late-night craving is made possible by the work of independent contractors hired by digital platforms such as Uber and DoorDash to deliver products in cities around the world.
