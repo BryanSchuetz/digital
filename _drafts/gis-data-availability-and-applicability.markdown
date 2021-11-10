@@ -51,7 +51,8 @@ The downside of some satellite imagery is available resolution, both spatial and
 		
 Additionally, if your research is focused on a particular country whose area is not particularly well-mapped or not updated often, there may not be up to date polygon (area) information on the size and location of protected areas, especially if the local government is not keen on maintaining the area. 
 				
-Questions to "ask of your data" might look like:
+Questions to "ask of your data" might include:
+
 "*What year or years does the available data cover?*"
 
 "*Is it complete for the study area?*"
