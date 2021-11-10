@@ -32,7 +32,7 @@ For the scope of this article, spatial data comes mainly in three types: points,
 ![points_cities.png](/uploads/points_cities.png)
 Points can be thought of as fixed points on the globe, defined using latitude and longitude coordinates. This datatype is often referred to as GPS coordinates and can be collected using specialized equipment or even a mobile smart phone. The point type applies to data like tweets, conflict events, or temperature sensor locations throughout a state or county, anything with a fixed location.
 
-![polygon.png](/uploads/polygon.png)
+![polygon-d98a72.png](/uploads/polygon-d98a72.png)
 A polygon is a multi-sided shape --a square and rectangle both count-- but usually an irregular shape like the border of a country or the boundary or a protected natural resource area. The key here is that is has a defined area and can be used to calculate an amount of something of interest inside (or outside) the bounds of the polygon. A good example of this would be the border of a country. It is often irregularly shaped, but encloses the territory of a sovereign nation. 
 	
 ![raster_nightlights.png](/uploads/raster_nightlights.png)
