@@ -26,10 +26,15 @@ Let's talk about what types of data qualify as "spatial." Nearly all of it! *As 
 
 For the scope of this article, spatial data comes mainly in three types: points, polygons, and imagery (sometimes called rasters (definition) but this is a much broader category for another time).
 
+![points_cities.png](/uploads/points_cities.png)
 Points can be thought of as fixed points on the globe, defined using latitude and longitude coordinates. This datatype is often referred to as GPS coordinates and can be collected using specialized equipment or even a mobile smart phone. The point type applies to data like tweets, conflict events, or temperature sensor locations throughout a state or county, anything with a fixed location.
 
+![polygon.png](/uploads/polygon.png)
 A polygon is a multi-sided shape --a square and rectangle both count-- but usually an irregular shape like the border of a country or the boundary or a protected natural resource area. The key here is that is has a defined area and can be used to calculate an amount of something of interest inside (or outside) the bounds of the polygon. A good example of this would be the border of a country. It is often irregularly shaped, but encloses the territory of a sovereign nation. 
 	
+![raster_nightlights.png](/uploads/raster_nightlights.png)
+Night light intensity satellite imagery
+
 The third general data type is called a "raster," and is most simply conceptualized at a high level as "imagery." A raster is a collection of pixels (similar to a JPEG), or small digital squares, that have a defined location value, as well as any number of other values assigned to it. Satellite imagery is just this, a picture taken from satellites whose pixels are assigned values that make up an image. This imagery can be used easily for change detection to make assertions such as "there was forest here before, but now the forest cover is gone and there is a palm oil plantation in its place." Or "there was water here, and now it is has grown in size to an area of XYZ square kilometers, likely because of the new dam constructed last year."
 			
 			
