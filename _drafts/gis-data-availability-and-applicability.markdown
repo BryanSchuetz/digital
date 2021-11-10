@@ -61,7 +61,7 @@ Questions to "ask of your data" might include:
 
 "*Is this data accurate and can I trust the source enough to base my conclusions and decisions on it?*"
 	
-Data sources often come with caveats that are noted for the data in terms of missing years (if time-series) or missing locations due to extreme circumstances or equipment failure (Eg weather sensors).
+These are all important questions to pose to your data to make sure it fits your needs, or that any analyst supporting your work knows what to expect from your data or when supporting your data exploration. Data sources often come with caveats that are noted for the data in terms of missing years (if time-series) or missing locations due to extreme circumstances or equipment failure (Eg weather sensors).
 			
 ### I cannot find any applicable or available data! What do I do now?
 
