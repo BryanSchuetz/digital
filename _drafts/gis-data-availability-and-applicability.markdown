@@ -14,13 +14,16 @@ tags:
 - Satellite
 - Imagery
 Author: Trevor Olexy
+social-image: "/uploads/thumbnail.png"
 ---
 
 It is an understatement to say that data are often imperfect. There are often holes, missing pieces that always seems to be exactly the required piece to cement the foundation of your carefully crafted research question. The process of massaging that research question will not be covered here, but data exploration is pivotal in discovering what is available and what is applicable, especially so when it comes to the spatial components of datasets. Hopefully the following information will help you in the future when looking for data or deciding which spatial data to use to augment or drive your research. 
 
 ### What is spatial data?
+![datatypes.jpg](/uploads/datatypes.jpg)
+[Source ](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html)
 
-Let's talk about what types of data qualify as "spatial." Nearly all of it! *As long as it has some sort of location information attached (GPS coordinates, street address, country, district). Physical objects, places, or buildings, or singular events like concerts, protests, or fires can all be considered spatial because they occur at or are defined by their location on the Earth. Things exist in the world, thus have a location. The catch is that location data must be captured or collected, and included along with other relevant information about the building, object, event, or city, as adding it later presents another set of challenges. It may seem obvious, but a spreadsheet of election results is not spatially useful if polling station names or locations are not included. We would wnat to know WHERE certain election results are located to gain any insights.
+Let's talk about what types of data qualify as "spatial." Nearly all of it! ***As long as it has some sort of location information attached (GPS coordinates, street address, country, district).** Physical objects, places, or buildings, or singular events like concerts, protests, or fires can all be considered spatial because they occur at or are defined by their location on the Earth. Things exist in the world, thus have a location. The catch is that location data must be captured or collected, and included along with other relevant information about the building, object, event, or city, as adding it later presents another set of challenges. It may seem obvious, but a spreadsheet of election results is not spatially useful if polling station names or locations are not included. We would want to know *where* certain election results are located to gain any insights.
 
 ### Types of spatial data
 
