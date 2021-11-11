@@ -33,10 +33,12 @@ Let's talk about which types of data qualify as "spatial." Nearly all of it—as
 For the scope of this article, spatial data comes mainly in three types: points, polygons, and imagery (sometimes called [rasters](https://www.merriam-webster.com/dictionary/raster), but this is a much broader category for another time).
 
 ![points_cities.png](/uploads/points_cities.png)
-Points can be thought of as fixed points on the globe, defined using latitude and longitude coordinates. This data type is often referred to as GPS coordinates and can be collected using specialized equipment or even a mobile smartphone. The point type applies to data like tweets, conflict events, temperature sensor locations throughout a state or county, or anything with a fixed location.
+
+Points can be thought of as fixed points on the globe, defined using latitude and longitude coordinates. This data type is often referred to as GPS coordinates and can be collected using specialized equipment or even a smartphone. The point type applies to data such as tweets, conflict events, temperature sensor locations throughout a state or county, or anything with a fixed location.
 
 ![polygon-d98a72.png](/uploads/polygon-d98a72.png)
-A polygon is a multi-sided shape --a square and rectangle both count-- but usually an irregular shape like the boundary or a protected natural resource area. The key here is that it has a defined area and can be used to calculate an amount of something of interest inside (or outside) the bounds of the polygon. An excellent example of this would be the border of a country. It is often irregularly shaped but encloses the territory of a sovereign nation.
+
+A polygon is a multi-sided shape—a square and rectangle both count—but usually an irregular shape like the boundary or a protected natural resource area. The key here is that it has a defined area and can be used to calculate an amount of something of interest inside (or outside) the bounds of the polygon. An excellent example of this would be the border of a country. It is often irregularly shaped but encloses the territory of a sovereign nation.
 
 ![raster_nightlights.png](/uploads/raster_nightlights.png)
 Night light intensity satellite imagery
