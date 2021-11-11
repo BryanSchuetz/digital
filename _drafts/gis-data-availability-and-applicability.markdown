@@ -40,8 +40,7 @@ Points can be thought of as fixed points on the globe, defined using latitude an
 
 A polygon is a multi-sided shape—a square and rectangle both count—but usually an irregular shape like the boundary or a protected natural resource area. The key here is that it has a defined area and can be used to calculate an amount of something of interest inside (or outside) the bounds of the polygon. An excellent example of this would be the border of a country. It is often irregularly shaped but encloses the territory of a sovereign nation.
 
-![raster_nightlights.png](/uploads/raster_nightlights.png)
-Night light intensity satellite imagery
+![raster_nightlights.png](/uploads/raster_nightlights.png)`Night light intensity satellite imagery.`
 
 The third general data type is called a "raster" and  is conceptualized at a high level as "imagery." A raster is a collection of pixels (similar to a JPEG), or small digital squares, that have a defined location value, as well as any number of other values assigned to it. Satellite imagery is just this, a picture taken from satellites whose pixels are assigned values that make up an image. This imagery can be used easily for change detection to make assertions such as "there was a forest here before, but now the forest cover is gone, and there is a palm oil plantation in its place." Or "there was water here, and now it is has grown in size to an area of XYZ square kilometers, likely because of the new dam constructed last year."
 
