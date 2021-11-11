@@ -64,7 +64,7 @@ The downside of some satellite imagery is available resolution, both spatial and
 
 These are all critical questions to pose to your data to make sure it fits your needs or that any analyst supporting your work knows what to expect from your data or when supporting your data exploration. Data sources often come with caveats noted for the data regarding missing years (if time-series) or missing locations due to extreme circumstances or equipment failure (e.g., weather sensors).
 
-### I cannot find any applicable or available data! What do I do now?
+### I Cannot Find any Applicable Data! What Do I Do Now?
 
 Sometimes during the exploratory phase of the research question (hopefully not after), you might find not enough data to support the work. While you could certainly pivot the scope of research, depending on the type of research, it is possible to create your data! While this can likely be expensive, painstaking, and time-consuming, it might be just what your project needs (and/or easier than you might think initially), and the global community of geographers and data scientists will always welcome new and clean, informative data. Your research and analysis will benefit. While creating your new satellite imagery will be challenging, to say the least, you can create your data by digitizing hand-drawn or printed maps or collecting GPS coordinates for field boundaries or farm locations, and add them to a geographic information system to process and create new, valuable information out of thin air.
 
