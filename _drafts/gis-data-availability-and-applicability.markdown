@@ -30,7 +30,7 @@ Let's talk about which types of data qualify as "spatial." Nearly all of it—as
 
 ### Types of Spatial Data
 
-For the scope of this article, spatial data comes mainly in three types: points, polygons, and imagery (sometimes called rasters (definition), but this is a much broader category for another time).
+For the scope of this article, spatial data comes mainly in three types: points, polygons, and imagery (sometimes called [rasters](https://www.merriam-webster.com/dictionary/raster), but this is a much broader category for another time).
 
 ![points_cities.png](/uploads/points_cities.png)
 Points can be thought of as fixed points on the globe, defined using latitude and longitude coordinates. This data type is often referred to as GPS coordinates and can be collected using specialized equipment or even a mobile smartphone. The point type applies to data like tweets, conflict events, temperature sensor locations throughout a state or county, or anything with a fixed location.
