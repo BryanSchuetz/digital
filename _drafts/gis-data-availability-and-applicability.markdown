@@ -25,7 +25,7 @@ It is an understatement to say that data are often imperfect. There are often ho
 ### What is spatial data?
 
 ![datatypes.jpg](/uploads/datatypes.jpg)
-[Source ](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html)
+`Photo credit:`[`Source`](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html)
 
 Let's talk about what types of data qualify as "spatial." Nearly all of it -- as long as it has some location information attached (GPS coordinates, street address, country, district)! Physical objects, places, or buildings, or singular events like concerts, protests, or fires can all be considered spatial because they occur at or are defined by their location on the Earth. Things exist in the world, thus have a location. The catch is that location data must be captured or collected, and included along with other relevant information about the building, object, event, or city, as adding it later presents another set of challenges. It may seem obvious, but a spreadsheet of election results is not spatially useful if polling station names or locations are not included. We would want to know *where* specific election results are located to gain any insights.
 
