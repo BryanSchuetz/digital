@@ -1,5 +1,5 @@
 ---
-title: 'GIS Data: Availability and Applicability'
+title: 'GIS Data: Availability and Applicability, Part 1'
 date: 2021-11-10 15:37:00 -05:00
 categories:
 - Data
