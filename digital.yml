@@ -1,4 +1,18 @@
 
+- title: "GIS Data: Availability and Applicability, Part 1"
+  pub: "Digital"
+  date: 2021-11-10
+  link: "https://dai-global-digital.com/gis-data-availability-and-applicability.html?utm_source=daidotcom"
+  summary: "It is an understatement to say that data are often imperfect. There are often holes, missing pieces that always seem to be precisely the required piece to cement the foundation of your carefully crafted research question. The process of massaging that research question will not be covered here, but data exploration is pivotal in discovering what is available and what is applicable, especially so when it comes to the spatial components of datasets. Hopefully, the following information will help you in the future when looking for data or deciding which spatial data to use to augment or drive your research."
+  tags:
+    - digital acceleration 
+    - GIS 
+    - Data 
+    - Raster 
+    - Remote Sensing Series 
+    - Satellite 
+    - Imagery 
+
 - title: "Location-Based Platform Work Presents Benefits—and Risks—to Workers in the Global South, Part 1"
   pub: "Digital"
   date: 2021-11-04
@@ -219,21 +233,4 @@ Despite the documented value of these innovations, uptake of digital agriculture
     - digital acceleration 
     - COVID-19 
     - Mobile 
-
-- title: "Five Tools to Foster Creative Innovation"
-  pub: "Digital"
-  date: 2021-07-28
-  link: "https://dai-global-digital.com/five-tools-to-foster-creative-innovation.html?utm_source=daidotcom"
-  summary: "When we peel back the planning, strategy design, project management, and technical implementation layers of any creation, we see something more intuitive. More human. And that’s the desire to “create.”
-
-Terms such as “innovation,” “research and development,” and “discovery” capture the adventure of the creative process. But garnering that same intensity in a workplace, let alone one’s personal life is not always the most accessible trail. In this post, I dive into some tools we employ as a team to foster creative innovation while also making reflections from another part of my life as a musician.
-
-As a musician, I’ve gone through many periods of creative productivity. “Writer’s block,” as some may relate to, is the most frustrating. A quick online search generates tons of books on how to overcome creative dry spells. Meditation, exercise, and just taking a good ol’ break are some of the well-known remedies. But if there’s one thing I’ve learned from songwriting and performing, it’s that the creative process requires gentle nurturing. And just like music production, technology product development is no stranger to creative dry spells.
-
-So, what are some of the tools we employ as a team to foster creative technology product development?"
-  tags:
-    - digital acceleration 
-    - Challenges 
-    - Innovation 
-    - Think Piece 
 

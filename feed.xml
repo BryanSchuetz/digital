@@ -5,9 +5,44 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Nov 2021 11:03:34 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Nov 2021 11:03:34 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Nov 2021 11:58:37 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Nov 2021 11:58:37 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/thumbnail.png" medium="image" /> 
+        <title>GIS Data: Availability and Applicability, Part 1</title>
+        <description>&lt;p&gt;It is an understatement to say that data are often imperfect. There are often holes, missing pieces that always seem to be precisely the required piece to cement the foundation of your carefully crafted research question. The process of massaging that research question will not be covered here, but data exploration is pivotal in discovering what is available and what is applicable, especially so when it comes to the spatial components of datasets. Hopefully, the following information will help you in the future when looking for data or deciding which spatial data to use to augment or drive your research.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Nov 2021 15:37:00 -0500</pubDate>
+        <author>Trevor Olexy
+</author>
+        <link>https://dai-global-digital.com/gis-data-availability-and-applicability.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/gis-data-availability-and-applicability.html</guid>
+        
+        <category>GIS</category>
+        
+        <category>Data</category>
+        
+        <category>Raster</category>
+        
+        <category>Remote Sensing Series</category>
+        
+        <category>Satellite</category>
+        
+        <category>Imagery</category>
+        
+        
+        <category>Data</category>
+        
+        <category>Data Analysis</category>
+        
+        <category>Information</category>
+        
+        <category>GIS</category>
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/AKS%20Blog.jpg" medium="image" /> 
@@ -210,29 +245,6 @@
         <category>Digital Transformation</category>
         
         <category>Digital Economy</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/3891388b-1a22-493b-bce0-2847a0ee9ca0.jpg" medium="image" /> 
-        <title>What is Agile? Part Two: A Primer on Different Frameworks</title>
-        <description>&lt;p&gt;As discussed in part one of &lt;a href=&quot;https://dai-global-digital.com/what-is-agile-part-one-the-story-behind-the-buzzword.html&quot;&gt;this series&lt;/a&gt;, agile is an umbrella term that encapsulates a number of frameworks, strategies, and tools. In this second installment, we dive a bit deeper into what agile is in practice by highlighting some of the most common frameworks used by agile teams. This primer on agile frameworks and methods will by no means be comprehensive (there are entire courses, websites, and certifications dedicated to each), but it can serve as a good starting point for better understanding which flavor of agile might be best suited to your teams’ needs if you are considering adopting agile in your organization. This post will cover two of the most popular types of agile in more depth: Scrum and Kanban. There are &lt;a href=&quot;https://www.wrike.com/project-management-guide/faq/what-are-the-different-types-of-agile-methodologies/&quot;&gt;several others&lt;/a&gt; that are widely used as well, but these two have many components that can be flexible and adaptable for use in non-software development contexts.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/irfan-simsar-wxWulfjN-G0-unsplash.jpg&quot; alt=&quot;irfan-simsar-wxWulfjN-G0-unsplash.jpg&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Sep 2021 09:00:00 -0400</pubDate>
-        <author>Samantha Weinberg
-</author>
-        <link>https://dai-global-digital.com/what-is-agile-part-two-a-primer-on-different-agile-frameworks.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-is-agile-part-two-a-primer-on-different-agile-frameworks.html</guid>
-        
-        <category>agile</category>
-        
-        <category>software development</category>
-        
-        <category>Agile Series</category>
         
         
       </item>
