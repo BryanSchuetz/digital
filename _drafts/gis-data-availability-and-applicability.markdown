@@ -22,7 +22,7 @@ It is an understatement to say that data are often imperfect. There are often ho
 
 <!--more-->
 
-![datatypes.jpg](/uploads/datatypes.jpg)`Photo:`[`Source`](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html)
+![datatypes.jpg](/uploads/datatypes.jpg)[`Source`](https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/s11-geospatial-analysis-i-vector-o.html)
 
 ### What is Spatial Data?
 
