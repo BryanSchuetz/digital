@@ -42,9 +42,9 @@ A polygon is a multi-sided shape—a square and rectangle both count—but usual
 
 ![raster_nightlights.png](/uploads/raster_nightlights.png)`Night light intensity satellite imagery.`
 
-The third general data type is called a "raster" and  is conceptualized at a high level as "imagery." A raster is a collection of pixels (similar to a JPEG), or small digital squares, that have a defined location value, as well as any number of other values assigned to it. Satellite imagery is just this, a picture taken from satellites whose pixels are assigned values that make up an image. This imagery can be used easily for change detection to make assertions such as "there was a forest here before, but now the forest cover is gone, and there is a palm oil plantation in its place." Or "there was water here, and now it is has grown in size to an area of XYZ square kilometers, likely because of the new dam constructed last year."
+The third general data type is called a "raster" and  is conceptualized at a high level as "imagery." A raster is a collection of pixels (similar to a .jpeg), or small digital squares, that have a defined location value, as well as any number of other values assigned to it. Satellite imagery is just this, a picture taken from satellites whose pixels are assigned values that make up an image. This imagery can be used easily for change detection to make assertions such as "there was a forest here before, but now the forest cover is gone, and there is a palm oil plantation in its place." Or "there was water here, and now it is has grown in size to an area of XYZ square kilometers, likely because of the new dam constructed last year."
 
-### Know what data exists and what is in your data
+### Know What Data Exists and What is in Your Data
 
 It is essential to deeply understand the question you are trying to answer so you know what data might be relevant.
 
