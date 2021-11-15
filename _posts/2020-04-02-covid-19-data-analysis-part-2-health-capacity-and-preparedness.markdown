@@ -13,7 +13,7 @@ social-image: "/uploads/COVID_Data_Map.png"
 thumbnail: "/uploads/COVID_Data_Map.png"
 ---
 
-*This article was written by DAI's [Jamie Parr](https://www.linkedin.com/in/james-parr-4a534897/), with contributions from [Greg Maly](https://dai-global-digital.com/authors/greg-maly/) and [Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/). This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.*
+* This analysis is Part 2 of a series on known risk factors associated with COVID-19. We aim to use publicly available data sets to identify national and subnational populations most at risk for infection and case fatality. The analysis will be updated as we receive additional data.*
 
 <!--more-->
 
