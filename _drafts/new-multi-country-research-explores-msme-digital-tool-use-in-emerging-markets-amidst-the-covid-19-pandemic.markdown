@@ -6,7 +6,9 @@ tags:
 - COVID-19
 - Digital Transformation
 - Digital Insights
+Author: Grace Cha
 social-image: "/uploads/FB%20report.png"
+thumbnail: "/uploads/FB%20report.png"
 ---
 
 As we approach the second year mark of the COVID-19 pandemic, the world continues to reflect on the stark realities the crisis forced us all to acknowledge, including key drivers of economic resilience for individual businesses. As countries take steps toward economic stabilization, it is clear that micro-, small- and medium enterprises (MSMEs) – which account for [two-thirds of employment globally and between 80% and 90% of employment in low-income countries](https://unctad.org/news/supporting-small-businesses-critical-covid-19-recovery) – play an essential role in strengthening pandemic recovery efforts. The COVID-19 pandemic has also revealed the vital role digital technologies play in enabling businesses, communities, and individuals to connect, function, and thrive. Ensuring that MSMEs can access digital tools is particularly crucial in emerging markets because [MSMEs fuel economic growth and spur job creation](https://sustainabledevelopment.un.org/content/documents/25851MSMEs_and_SDGs_Final3120.pdf).
