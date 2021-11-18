@@ -30,6 +30,7 @@ USAID, through Digital Frontiers, is launching a challenge leading to one or mor
 
 * All organizations regardless of size; technology firms, startups, small and medium enterprises (SMEs), civil society organizations, and researchers from around the world.
 
+
 * Diverse groups that have clear, strategic, collaborative approaches or frameworks to tackle the complexity of the gender bias and inequity occurring as a result of AI applications, including and especially, collaboration between developers, AI tool buyers, and civil society organizations.
 
 
@@ -41,6 +42,6 @@ USAID, through Digital Frontiers, is launching a challenge leading to one or mor
 
 * Proposals that incorporate the diversity of AI-enabled bias or inequity women face according to intersectional identities (disability, sexual minority, language minority, caste status, etc.).
 
-##Apply Now
+## Apply Now
 
-Deadline for Concept Notes is December 22, 2021 by 5:00 PM ET.
+*Deadline for Concept Notes is December 22, 2021 by 5:00 PM ET.*
