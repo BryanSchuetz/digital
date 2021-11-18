@@ -1,6 +1,5 @@
 ---
-title: "$375,000 (USD) in Funding to Develop Solutions and Address Gender-Inequitable
-  Outcomes from AI Technology"
+title: 'RFP: Funding Available for Solutions that Address Gender Inequity in AI Technology'
 date: 2021-11-18 14:12:00 -05:00
 tags:
 - AI Gender Challenge
