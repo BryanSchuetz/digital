@@ -6,15 +6,15 @@ tags:
 - AI
 - USAID
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
-social-image: "/uploads/RevisedAIGraphic%20(002).png"
-thumbnail: "/uploads/RevisedAIGraphic%20(002).png"
+social-image: "/uploads/RevisedAIGraphic%20(002)-e856fd.png"
+thumbnail: "/uploads/RevisedAIGraphic%20(002)-e856fd.png"
 ---
 
 As the use of artificial intelligence (AI) proliferates, more instances of the inequitable design, use, and impact of AI-enabled tools in developing countries are coming to light. Many of these tools and approaches have the capacity for inequitable outcomes across genders due to humans unconsciously embedding bias in AI technology during data collection, model design or end-use applications. As a result, these tools often pose the greatest risk of harm and missed opportunities to those already marginalized in low- and middle-income countries. To foster an equitable and inclusive digital ecosystem, more efforts are needed to identify innovative and creative approaches to help decision-makers address actual and potential gender biases and inequitable outcomes resulting from AI technology.
 
 <!--more-->
 
-![RevisedAIGraphic (002).png](/uploads/RevisedAIGraphic%20(002).png)
+![RevisedAIGraphic (002)-e856fd.png](/uploads/RevisedAIGraphic%20(002)-e856fd.png)
 
 ## Equitable AI Challenge: Sourcing Approaches to Prevent and Respond to Gender Inequity in AI
 
