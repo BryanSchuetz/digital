@@ -11,10 +11,10 @@ Have you ever suffered the consequences of someone else's online gaming habits? 
 
 <!--more-->
 
-The global gaming market, which spans causal mobile games to immersive other world simulations, brought in [$177.8 billion in revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23% increase from 2019. A market of this size holds incredible potential and raises the question, is gaming inherently bad? Are there opportunities to harness the captivating and addictive aspects of this trend for good?
-
 ![florian-olivo-Mf23RF8xArY-unsplash_resize.jpg](/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg)
 `Photo: Unsplash, Florian Olivo.`
+
+The global gaming market, which spans causal mobile games to immersive other world simulations, brought in [$177.8 billion in revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23% increase from 2019. A market of this size holds incredible potential and raises the question, is gaming inherently bad? Are there opportunities to harness the captivating (and addictive) aspects of this trend for good?
 
 **Applications in Education**
 
