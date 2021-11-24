@@ -5,6 +5,7 @@ tags:
 - Cybersecurity
 - Education
 Author: Addie Ryan Tadavarthy
+social-image: "/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg"
 ---
 
 Have you ever suffered the consequences of someone else's online gaming habits? Maybe it was your college roommate playing World of Warcraft mere hours before your 8:00am exam, your partner choosing Call of Duty over date night, or your child’s “hidden” Candy Crush play under the dinner table as you tried to ask about their day. It is not unheard of for frequent gaming to negatively affect one’s ability to focus, productivity at work, or social relationships. In fact, in 2018 the World Health Organization even recognized “[gaming disorder](https://www.who.int/news/item/14-09-2018-inclusion-of-gaming-disorder-in-icd-11)” among the addictive disorders included in its 11th edition of the International Classification of Diseases (ICD) when the pattern of behavior results in significant distress or impairment in “personal, family, social, educational or occupational functioning”.
