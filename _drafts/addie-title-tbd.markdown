@@ -17,7 +17,7 @@ Have you ever suffered the consequences of someone else's online gaming habits? 
 
 The global gaming market, which spans casual mobile games to immersive other world simulations, brought in $177.8 billion in [revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23 percent increase from 2019. A market of this size holds incredible potential and raises the question—is gaming inherently wrong? Are there opportunities to harness the captivating (and addictive) aspects of this trend for good?
 
-### Applications in Education
+## Applications in Education
 
 Companies are eager to leverage the gaming market in the education sector, including the growing adoption of [e-sports in schools](https://www.viewsonic.com/library/education/esports-schools-good/). Roblox Corporation recently announced a $10 million [investment](https://www.wsj.com/articles/roblox-looks-to-bring-educational-videogames-to-schools-11636988400) for nonprofits to develop games for middle school, high school, and college students in subjects such as robotics and computer science. This move signaled the company's interest in expanding its user platform—which merges the gaming experience with entertainment, social media, toys, and digital currency—with an eye toward the next generation of the internet, the [metaverse](https://www.wsj.com/articles/metaverse-experience-facebook-microsoft-11636671113?mod=article_inline). Education has the potential to play a significant role in the metaverse, allowing students to have immersive, 3D, virtual (and cost-effective) experiences such as visiting the ancient pyramids of Egypt, stargazing in a planetarium, or dissecting a frog.
 
@@ -27,7 +27,7 @@ The use of computer games in school settings is not new. Elder millennials will 
 
 The education sector represents a significant tranche of U.S. foreign assistance, with more than $1 billion in [funding](https://foreignassistance.gov/) obligated to the "Education and Social Services" sector in the fiscal year 2019. But relevance extends much further, as education and learning are incorporated across development programs in the form of capacity building and knowledge transfer. Other applications include multi-stakeholder preparedness and response simulations, such as coordinating the government response to a natural disaster or disease outbreak.
 
-### Applications in Cybersecurity
+## Applications in Cybersecurity
 
 Gamification is already used for cybersecurity learning, both for security awareness initiatives (teaching security principles to non-security professionals) and cybersecurity training, and education to cultivate security professionals. In an [interview with InfoSec](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NDA2ODIucnNz/episode/QnV6enNwcm91dC03NzIyODU2?hl=en&ved=2ahUKEwjYwdnWsbD0AhUVrHIEHdW4CrEQjrkEegQIAhAF&ep=6), Jessica Gulick, leader of Katzky Consulting and Commissioner of the U.S. Cyber Games, notes several benefits of gamification for security professionals and their employers:
 
