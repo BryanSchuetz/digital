@@ -33,7 +33,7 @@ Gamification is already used for cybersecurity learning, both for security aware
 
 1. It offers a hands-on way for security professionals to gain exposure to the latest cyber threats in a safe environment where they can gain experience hacking or essentially breaking things to learn how to fix them. It is not safe to "play" or practice hacking on the internet (and in fact, there are real consequences for doing so).
 
-2. The elements of competition and teamwork are highly relevant for the field and help advance professional development faster than a traditional classroom boot camp. Cyber games such as Capture the Flag or "[CTFs](https://www.cyberwarrior.com/cw-ctf-hacking-while-gaming/)" expose employees to different environments and threats than what they see in their daily work. These exercises provide an opportunity to sharpen their skills and awareness, ultimately adding more value to the company that employs them.
+2. The elements of competition and teamwork are highly relevant for the field and help advance professional development faster than a traditional classroom boot camp. Cyber games such as Capture the Flag or "[CTF](https://www.cyberwarrior.com/cw-ctf-hacking-while-gaming/)" expose employees to different environments and threats than what they see in their daily work. These exercises provide an opportunity to sharpen their skills and awareness, ultimately adding more value to the company that employs them.
 
 3. Cybersecurity competitions and esports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers will occasionally expose a vulnerability in government or high-profile company websites to make a name for themselves.
 
