@@ -25,9 +25,9 @@ The use of computer games in school settings is not new. Elder millennials will 
 
 ![bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg](/uploads/bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg)`Photo: Unsplash.`
 
-The education sector represents a significant tranche of U.S. foreign assistance, with over [$1B in funding](https://foreignassistance.gov/) obligated to the "Education and Social Services" sector in the fiscal year 2019. But relevance extends much further, as education and learning are incorporated across development programs in the form of capacity building and knowledge transfer. Other applications include multi-stakeholder preparedness and response simulations, such as coordinating the government response to a natural disaster or disease outbreak.
+The education sector represents a significant tranche of U.S. foreign assistance, with more than $1 billion in [funding](https://foreignassistance.gov/) obligated to the "Education and Social Services" sector in the fiscal year 2019. But relevance extends much further, as education and learning are incorporated across development programs in the form of capacity building and knowledge transfer. Other applications include multi-stakeholder preparedness and response simulations, such as coordinating the government response to a natural disaster or disease outbreak.
 
-**Applications in Cybersecurity**
+### Applications in Cybersecurity
 
 Gamification is already used for cybersecurity learning, both for security awareness initiatives (teaching security principles to non-security professionals) and cybersecurity training, and education to cultivate security professionals. In an [interview with InfoSec](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NDA2ODIucnNz/episode/QnV6enNwcm91dC03NzIyODU2?hl=en&ved=2ahUKEwjYwdnWsbD0AhUVrHIEHdW4CrEQjrkEegQIAhAF&ep=6), Jessica Gulick, leader of Katzky Consulting and Commissioner of the U.S. Cyber Games, notes several benefits of gamification for security professionals and their employers:
 
@@ -37,7 +37,7 @@ Gamification is already used for cybersecurity learning, both for security aware
 
 3. Cybersecurity competitions and esports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers will occasionally expose a vulnerability in government or high-profile company websites to make a name for themselves.
 
-![jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg](/uploads/jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg)
+![jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg](/uploads/jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg)`Photo: Unsplash.`
 
 The U.S. Agency for International Development (USAID) named cybersecurity as a development challenge in its [Cybersecurity Primer](https://www.usaid.gov/digital-development/usaid-cybersecurity-primer) released last month. While cybersecurity has long been an interest of the U.S. Government (essentially since the existence of computers), it is only recently that it has become a priority for USAID programming. With the increase in digitalization of systems and the [associated risks to critical infrastructure](https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html), cybersecurity is now being incorporated into international development as a critical consideration for projects across sectors (e.g., health, governance). There has also been a rise in dedicated digital projects and cybersecurity initiatives, such as those under the interagency [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/), the USAID-funded Ukraine Cybersecurity for Critical Infrastructure Activity and the newly awarded [USAID Critical Infrastructure Digitalization and Resilience](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) project, implemented by DAI.
 
