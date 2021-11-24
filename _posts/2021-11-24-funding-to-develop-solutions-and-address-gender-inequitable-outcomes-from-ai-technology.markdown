@@ -1,6 +1,6 @@
 ---
 title: 'RFP: Funding Available for Solutions that Address Gender Inequity in AI Technology'
-date: 2021-11-18 14:12:00 -05:00
+date: 2021-11-24 11:59:00 -05:00
 tags:
 - AI Gender Challenge
 - AI
