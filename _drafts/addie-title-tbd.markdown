@@ -9,14 +9,13 @@ social-image: "/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg"
 thumbnail: "/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg"
 ---
 
-Have you ever suffered the consequences of someone else's online gaming habits? Maybe it was your college roommate playing World of Warcraft mere hours before your 8:00am exam, your partner choosing Call of Duty over date night, or your child’s “hidden” Candy Crush play under the dinner table as you tried to ask about their day. It is not unheard of for frequent gaming to negatively affect one’s ability to focus, productivity at work, or social relationships. In fact, in 2018, the World Health Organization even recognized “[gaming disorder](https://www.who.int/news/item/14-09-2018-inclusion-of-gaming-disorder-in-icd-11)” among the addictive disorders included in its 11th edition of the International Classification of Diseases (ICD) when the pattern of behavior results in significant distress or impairment in “personal, family, social, educational or occupational functioning”.
+Have you ever suffered the consequences of someone else's online gaming habits? Maybe it was your college roommate playing World of Warcraft mere hours before your 8:00am exam, your partner choosing Call of Duty over date night, or your child's "hidden" Candy Crush play under the dinner table as you tried to ask about their day. It is not unheard of for frequent gaming to negatively affect one's ability to focus, productivity at work, or social relationships. In fact, in 2018, the World Health Organization even recognized "[gaming disorder](https://www.who.int/news/item/14-09-2018-inclusion-of-gaming-disorder-in-icd-11)" among the addictive disorders included in its 11th edition of the International Classification of Diseases (ICD) when the pattern of behavior results in significant distress or impairment in "personal, family, social, educational or occupational functioning".
 
 <!--more-->
 
 ![florian-olivo-Mf23RF8xArY-unsplash_resize.jpg](/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg)
-`Photo: Unsplash, Florian Olivo.`
 
-The global gaming market, which spans causal mobile games to immersive other world simulations, brought in [$177.8 billion in revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23% increase from 2019. A market of this size holds incredible potential and raises the question, is gaming inherently bad? Are there opportunities to harness the captivating (and addictive) aspects of this trend for good?
+The global gaming market, which spans causal mobile games to immersive other world simulations, brought in [$177.8 billion in revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23% increase from 2019. A market of this size holds incredible potential and raises the question, is gaming inherently wrong? Are there opportunities to harness the captivating (and addictive) aspects of this trend for good?
 
 **Applications in Education**
 
@@ -30,7 +29,7 @@ The education sector represents a significant tranche of U.S. foreign assistance
 
 **Applications in Cybersecurity**
 
-Gamification is already in use for cybersecurity learning, both for security awareness initiatives (teaching security principles to non-security professionals) and cybersecurity training and education to cultivate security professionals. In an [interview with InfoSec](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NDA2ODIucnNz/episode/QnV6enNwcm91dC03NzIyODU2?hl=en&ved=2ahUKEwjYwdnWsbD0AhUVrHIEHdW4CrEQjrkEegQIAhAF&ep=6), Jessica Gulick, leader of Katzky Consulting and Commissioner of the U.S. Cyber Games, notes several benefits of gamification for security professionals and their employers:
+Gamification is already used for cybersecurity learning, both for security awareness initiatives (teaching security principles to non-security professionals) and cybersecurity training and education to cultivate security professionals. In an [interview with InfoSec](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NDA2ODIucnNz/episode/QnV6enNwcm91dC03NzIyODU2?hl=en&ved=2ahUKEwjYwdnWsbD0AhUVrHIEHdW4CrEQjrkEegQIAhAF&ep=6), Jessica Gulick, leader of Katzky Consulting and Commissioner of the U.S. Cyber Games, notes several benefits of gamification for security professionals and their employers:
 
 1. It offers a hands-on way for security professionals to gain exposure to the latest cyber threats in a safe environment where they can gain experience hacking or essentially breaking things to learn how to fix them. It is not safe to "play" or practice hacking on the internet (and in fact, there are real consequences for doing so).
 
