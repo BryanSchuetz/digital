@@ -9,7 +9,7 @@ Author: Addie Ryan Tadavarthy
 
 Have you ever experienced negative consequences of online gaming habits? Maybe it was your college roommate playing World of Warcraft mere hours before your 8:00am exam, your partner choosing hours of Call of Duty over quality time with you, or your child’s “hidden” Candy Crush play under the dinner table as you tried to ask about their day. It is not unheard of for frequent gaming to negatively affect one’s ability to focus, productivity at work, or social relationships. In fact, in 2018 the World Health Organization even recognized “[gaming disorder](https://www.who.int/news/item/14-09-2018-inclusion-of-gaming-disorder-in-icd-11)” among the addictive disorders included in its 11th edition of the International Classification of Diseases (ICD) in cases where the pattern of behavior results in significant distress or impairment in “personal, family, social, educational or occupational functioning”.
 
-\[INSERT PHOTO #1\]
+![florian-olivo-Mf23RF8xArY-unsplash_resize.jpg](/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg)
 
 Photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -33,7 +33,7 @@ Gamification is already in use for cybersecurity learning, both for security awa
 
 3) Cybersecurity competitions and e-sports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers are known to expose a vulnerability in government or high-profile company website to make a name for themselves.
 
-\[INSERT PHOTO #2\]
+![jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg](/uploads/jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg)
 
 Photo by [Jefferson Santos](https://unsplash.com/@jefflssantos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
