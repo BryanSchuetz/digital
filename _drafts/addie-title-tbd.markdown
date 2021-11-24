@@ -25,7 +25,7 @@ Use of computer games in school settings is not new. Elder millennials will reme
 ![bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg](/uploads/bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg)
 `Photo: Unsplash, Bermix Studios.`
 
-The education sector represents a significant tranche of U.S. foreign assistance, with over [$1B in funding](https://foreignassistance.gov/) obligated to the “Education and Social Services” sector in fiscal year 2019. But applications go much further, as education and learning is incorporated across sectors in the form of capacity building and knowledge transfer. Other applications include multi-sectoral preparedness and response simulations, such as for coordinating government response to a natural disaster or disease outbreak.
+The education sector represents a significant tranche of U.S. foreign assistance, with over [$1B in funding](https://foreignassistance.gov/) obligated to the “Education and Social Services” sector in fiscal year 2019. But relevance extends much further, as education and learning are incorporated across development programs in the form of capacity building and knowledge transfer. Other applications include multi-sectoral preparedness and response simulations, such as for coordinating government response to a natural disaster or disease outbreak.
 
 **Applications in Cybersecurity**
 
