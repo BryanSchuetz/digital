@@ -1,5 +1,5 @@
 ---
-title: Digital Gaming Trends Suggest Application for International Development
+title: Digital Gaming Trends Suggest Applications for International Development
 date: 2021-11-25 08:00:00 -05:00
 tags:
 - Cybersecurity
@@ -14,8 +14,7 @@ Have you ever experienced negative consequences of online gaming habits? Maybe i
 The global gaming market, which spans causal mobile games to immersive other world simulations, brought in [$177.8 billion in revenue](https://newzoo.com/insights/articles/global-games-market-to-generate-175-8-billion-in-2021-despite-a-slight-decline-the-market-is-on-track-to-surpass-200-billion-in-2023/) last year, a 23% increase from 2019. A market of this size holds incredible potential and raises the question, is gaming inherently bad? Are there opportunities to harness the captivating and addictive aspects of this trend for good?
 
 ![florian-olivo-Mf23RF8xArY-unsplash_resize.jpg](/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg)
-
-Photo by [Florian Olivo](https://unsplash.com/@florianolv?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/gaming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+`Photo: Unsplash, Florian Olivo.`
 
 **Applications in Education**
 
@@ -29,15 +28,14 @@ The education sector represents a significant tranche of U.S. foreign assistance
 
 Gamification is already in use for cybersecurity learning, both for security awareness initiatives (teaching security principles to non-security professionals), as well as cybersecurity training and education to cultivate security professionals. In an [interview with InfoSec](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS84NDA2ODIucnNz/episode/QnV6enNwcm91dC03NzIyODU2?hl=en&ved=2ahUKEwjYwdnWsbD0AhUVrHIEHdW4CrEQjrkEegQIAhAF&ep=6), Jessica Gulick, leader of Katzky Consulting and Commissioner of the US Cyber Games, notes several benefits of gamification for security professionals and their employers:
 
-1) It offers a hands-on way for security professionals to gain exposure to the latest cyber threats in a safe environment where they can gain experience hacking, essentially breaking things, in order to learn how to fix them. It is not safe place to “play” or hack on the internet (and in fact, there are very real consequences for doing so).
+1. It offers a hands-on way for security professionals to gain exposure to the latest cyber threats in a safe environment where they can gain experience hacking, essentially breaking things, in order to learn how to fix them. It is not safe place to “play” or hack on the internet (and in fact, there are very real consequences for doing so).
 
-2) The elements of competition, as well as teamwork, are highly relevant for the field and help advance professional development faster than a traditional classroom bootcamp. Cyber games such as Capture the Flag or “[CTFs](https://www.cyberwarrior.com/cw-ctf-hacking-while-gaming/)” expose employees to different environments and threats than what they see in their daily work. These exercises provide an opportunity to sharpen their skills and awareness, ultimately adding more value to the company that employs them.
+2. The elements of competition, as well as teamwork, are highly relevant for the field and help advance professional development faster than a traditional classroom bootcamp. Cyber games such as Capture the Flag or “[CTFs](https://www.cyberwarrior.com/cw-ctf-hacking-while-gaming/)” expose employees to different environments and threats than what they see in their daily work. These exercises provide an opportunity to sharpen their skills and awareness, ultimately adding more value to the company that employs them.
 
-3) Cybersecurity competitions and e-sports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers are known to expose a vulnerability in government or high-profile company website to make a name for themselves.
+3. Cybersecurity competitions and e-sports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers are known to expose a vulnerability in government or high-profile company website to make a name for themselves.
 
 ![jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg](/uploads/jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg)
-
-Photo by [Jefferson Santos](https://unsplash.com/@jefflssantos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cybersecurity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+`Photo: Unsplash, Jefferson Santos.`
 
 The U.S. Agency for International Development (USAID) named cybersecurity as a development challenge in its [Cybersecurity Primer](https://www.usaid.gov/digital-development/usaid-cybersecurity-primer) released last month. While cybersecurity has long been an interest of the U.S. Government (essentially since the existence of computers), it is much more recent that it has been a priority for USAID programming. With the increase in digitalization of systems and the [associated risks to critical infrastructure](https://dai-global-digital.com/impact-of-the-us-and-eu-in-critical-infrastructure-digitalization-and-cybersecurity-in-the-western-balkans.html), cybersecurity is now being incorporated into international development both as a key consideration in projects across sectors (e.g. health, and governance). There has also been a rise in dedicated digital projects and cybersecurity initiatives, such as those under the interagency [Digital Connectivity Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/) and the USAID-funded Ukraine Cybersecurity for Critical Infrastructure Activity and the newly awarded [Critical Infrastructure Digitalization and Resilience](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) project, both implemented by DAI.
 
