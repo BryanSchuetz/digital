@@ -35,7 +35,7 @@ Gamification is already used for cybersecurity learning, both for security aware
 
 2. The elements of competition and teamwork are highly relevant for the field and help advance professional development faster than a traditional classroom boot camp. Cyber games such as Capture the Flag or "[CTF](https://www.cyberwarrior.com/cw-ctf-hacking-while-gaming/)" expose employees to different environments and threats than what they see in their daily work. These exercises provide an opportunity to sharpen their skills and awareness, ultimately adding more value to the company that employs them.
 
-3. Cybersecurity competitions and esports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers will occasionally expose a vulnerability in government or high-profile company websites to make a name for themselves.
+3. Cybersecurity competitions and e-sports can provide an opportunity for scholarships, networking, and resume builders such as Digital Badges. It also offers name recognition in an arena where unknown hackers will occasionally expose a vulnerability in government or high-profile company websites to make a name for themselves.
 
 ![jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg](/uploads/jefferson-santos-9SoCnyQmkzI-unsplash_resize.jpg)`Photo: Unsplash.`
 
