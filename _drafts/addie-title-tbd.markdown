@@ -22,6 +22,9 @@ Companies are eager to leverage the gaming market in the education sector, inclu
 
 Use of computer games in school settings is not new. Elder millennials will remember some of the earliest applications of classroom computer games (on floppy disk!) such as Number Munchers and the [generation-defining Oregon Trail](https://socialmediaweek.org/blog/2015/04/oregon-trail-generation/). In the decades since, the applications of digital games in the classroom have expanded and evolved in sophistication, only increasing in prevalence with the remote and hybrid learning models that became the norm in 2020.
 
+![bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg](/uploads/bermix-studio-P_Hob0Z-1bs-unsplash_resize.jpg)
+`Photo: Unsplash, Bermix Studios.`
+
 The education sector represents a significant tranche of U.S. foreign assistance, with over [$1B in funding](https://foreignassistance.gov/) obligated to the “Education and Social Services” sector in fiscal year 2019. But applications go much further, as education and learning is incorporated across sectors in the form of capacity building and knowledge transfer. Other applications include multi-sectoral preparedness and response simulations, such as for coordinating government response to a natural disaster or disease outbreak.
 
 **Applications in Cybersecurity**
