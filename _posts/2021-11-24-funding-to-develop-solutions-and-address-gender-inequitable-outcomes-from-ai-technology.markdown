@@ -38,4 +38,4 @@ The U.S. Agency for International Development (USAID), through Digital Frontiers
 
 ## [Apply Now](https://drive.google.com/file/d/14LbfykWkGhqX3jklP6FZ_vYXANWjgrCT/view)
 
-*Deadline for Concept Notes is January 6th, 2022 by 5pm EST.* A link to RFP can be found [here](https://drive.google.com/file/d/14LbfykWkGhqX3jklP6FZ_vYXANWjgrCT/view).
+*Deadline for Concept Notes is January 6, 2022, by 5pm EST.* A link to RFP can be found [here](https://drive.google.com/file/d/14LbfykWkGhqX3jklP6FZ_vYXANWjgrCT/view).
