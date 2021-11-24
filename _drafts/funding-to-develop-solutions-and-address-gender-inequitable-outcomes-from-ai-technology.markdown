@@ -27,11 +27,15 @@ The U.S. Agency for International Development (USAID), through Digital Frontiers
 **Digital Frontiers encourages proposals from:**
 
 * All organizations regardless of size; technology firms, startups, small, and medium enterprises, civil society organizations, and researchers from around the world.
+
 * Diverse groups that have clear, strategic, and collaborative approaches or frameworks to tackle the complexity of the gender bias and inequity occurring as a result of AI applications, including and especially, collaboration between developers, AI tool buyers, and civil society organizations.
+
 * Organizations that present a business case for why addressing gender inequitable outcomes from AI is both valuable to their organization and will be sustained following the grant.
+
 * Proposals that represent a good faith effort from developers to serve as an industry example on the steps needed to identify and eliminate instances of gender inequity in their AI tools.
+
 * Proposals that incorporate the diversity of AI-enabled bias or inequity women face according to intersectional identities (disability, sexual minority, language minority, caste status, etc.).
 
-## Apply Now
+## [Apply Now](https://drive.google.com/file/d/14LbfykWkGhqX3jklP6FZ_vYXANWjgrCT/view)
 
-*Deadline for Concept Notes is December 22, by 5pm EST.*
+*Deadline for Concept Notes is January 6th, 2022 by 5pm EST.  *A link to RFP can be found [here](https://drive.google.com/file/d/14LbfykWkGhqX3jklP6FZ_vYXANWjgrCT/view).
