@@ -4,7 +4,7 @@ date: 2021-11-25 08:00:00 -05:00
 tags:
 - Cybersecurity
 - Education
-- Digital Platforms
+- Digital Insights
 Author: Addie Ryan Tadavarthy
 social-image: "/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg"
 thumbnail: "/uploads/florian-olivo-Mf23RF8xArY-unsplash_resize.jpg"
