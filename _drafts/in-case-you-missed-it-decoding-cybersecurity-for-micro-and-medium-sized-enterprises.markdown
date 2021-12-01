@@ -1,6 +1,11 @@
 ---
 title: 'In Case You Missed It: Decoding Cybersecurity for Micro & Medium-Sized Enterprises'
 date: 2021-12-03 06:00:00 -05:00
+tags:
+- Cybersecurity
+- Entrepreneurship
+- MSMEs
+Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 social-image: "/uploads/Cybersecurity%20forMSMEsImage.jpeg"
 thumbnail: "/uploads/Cybersecurity%20forMSMEsImage.jpeg"
 ---
