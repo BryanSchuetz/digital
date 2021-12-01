@@ -1,5 +1,6 @@
 ---
-title: 'In Case You Missed It: Decoding Cybersecurity for Micro & Medium-Sized Enterprises'
+title: 'In Case You Missed It: Decoding Cybersecurity for Micro- and Medium-Sized
+  Enterprises'
 date: 2021-12-03 06:00:00 -05:00
 tags:
 - Cybersecurity
