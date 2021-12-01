@@ -3,6 +3,7 @@ title: 'Headlining: How News Headlines Can Spread Misinformation'
 date: 2021-12-01 15:30:00 -05:00
 tags:
 - Disinformation
+Author: Nancy Haugh
 social-image: "/uploads/obi-onyeador-qXfD_nG4j-U-unsplash.jpg"
 thumbnail: "/uploads/obi-onyeador-qXfD_nG4j-U-unsplash.jpg"
 ---
