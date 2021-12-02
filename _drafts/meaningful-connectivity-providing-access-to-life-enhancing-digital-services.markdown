@@ -7,7 +7,7 @@ thumbnail: "/uploads/LastMileConnectivity2.jpeg"
 
 A lack of digital connectivity is a prelude to exclusion in today’s rapidly changing world. Yet, over 600 million people worldwide remain uncovered by mobile networks and broadband services. COVID-19 exacerbated the effects of this deep digital divide that continues to leave many communities disconnected, uninformed, and without access to life-enhancing digital services. Internet connectivity in the most remote places is essential to ensure that the most vulnerable populations do not get left behind. Moreover, these communities need effective connectivity – that is consistent, safe, reliable, and accessible with enough bandwidth to allow for information access, news, government resources, telehealth, and educational instruction.
 
-![LastMileConnectivity2.jpeg](/uploads/LastMileConnectivity2.jpeg)
+![LastMileConnectivity2.jpeg](/uploads/LastMileConnectivity2.jpeg)`Women Entrepreneurs accessing digital services in Guna, Madhya Pradesh, India. Credit: Digital Empowerment Foundation.`
 
 <!--more-->
 
