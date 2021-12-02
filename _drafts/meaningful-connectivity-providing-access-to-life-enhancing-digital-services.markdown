@@ -1,13 +1,17 @@
 ---
 title: 'Meaningful Connectivity: Providing Access to Life-Enhancing Digital Services'
-date: 2021-12-01 11:33:00 -05:00
+date: 2021-12-08 06:00:00 -05:00
+tags:
+- Entrepreneurship
+- digital divide
+Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 social-image: "/uploads/LastMileConnectivity2.jpeg"
 thumbnail: "/uploads/LastMileConnectivity2.jpeg"
 ---
 
 A lack of digital connectivity is a prelude to exclusion in today’s rapidly changing world. Yet, over 600 million people worldwide remain uncovered by mobile networks and broadband services. COVID-19 exacerbated the effects of this deep digital divide that continues to leave many communities disconnected, uninformed, and without access to life-enhancing digital services. Internet connectivity in the most remote places is essential to ensure that the most vulnerable populations do not get left behind. Moreover, these communities need effective connectivity – that is consistent, safe, reliable, and accessible with enough bandwidth to allow for information access, news, government resources, telehealth, and educational instruction.
 
-![LastMileConnectivity2.jpeg](/uploads/LastMileConnectivity2.jpeg)`Women Entrepreneurs accessing digital services in Guna, Madhya Pradesh, India. Credit: Digital Empowerment Foundation.`
+![LastMileConnectivity2.jpeg](/uploads/LastMileConnectivity2.jpeg)`Women entrepreneurs accessing digital services in Guna, Madhya Pradesh, India. Credit: Digital Empowerment Foundation.`
 
 <!--more-->
 
