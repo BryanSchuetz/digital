@@ -1,6 +1,6 @@
 ---
 title: 'In Case You Missed It: Decoding Cybersecurity for MSMEs'
-date: 2021-12-03 06:00:00 -05:00
+date: 2021-12-02 06:00:00 -05:00
 tags:
 - Cybersecurity
 - Entrepreneurship
