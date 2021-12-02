@@ -1,7 +1,7 @@
 ---
 title: Erica Behrens
 date: 2020-04-29 09:27:00 -04:00
-Job: Associate, Center for Digital Acceleration
+Job: Digital Associate
 Image: "/uploads/Erica.jpg"
 ---
 
