@@ -12,13 +12,13 @@ thumbnail: "/uploads/Cybersecurity%20forMSMEsImage.jpeg"
 
 A notification pops up on a business’s computer and says they have several days to pay an amount before all their data is deleted. This business just became a victim of ransomware—a debilitating cyberattack that can shut down entire companies and result in enormous financial losses. How do we protect businesses from experiencing these forms of attacks? DAI’s [South Asia Regional Digital Initiative (SARDI),](https://www.usaid.gov/digital-development/sardi-factsheet) in partnership with the U.S. Agency for International Development (USAID)’s Indo-Pacific Office, recently hosted a [thought-provoking webinar](https://www.youtube.com/watch?v=wBywomxU6qI&t=2942s) on strengthening the cybersecurity awareness, preparedness, and defense capabilities of micro, small, and medium enterprises (MSMEs) in South Asia. These businesses not only provide substantial employment opportunities in their communities but also contribute enormously to the region’s GDP levels. We felt it was necessary to bring together renowned experts from some of India’s most well-known technology firms as well as India’s Ministry of Micro, Small, and Medium Enterprises to address the region’s pressing cybersecurity risks, solutions, and resources. This [webinar](https://www.youtube.com/watch?v=wBywomxU6qI&t=2942s) was part of the [SARDI Dialogue Series](https://app.livestorm.co/usaid/sardi) of webinars highlighting the opportunities and challenges for South Asia’s MSMEs. SARDI is an activity under DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project and part of the [Digital Connectivity and Cybersecurity Partnership (DCCP)](https://www.usaid.gov/digital-development/digital-connectivity-cybersecurity-partnership).
 
-![Cybersecurity forMSMEsImage.jpeg](/uploads/Cybersecurity%20forMSMEsImage.jpeg)
+![Cybersecurity forMSMEsImage.jpeg](/uploads/Cybersecurity%20forMSMEsImage.jpeg)`Women entrepreneurs in West Champaran, Bihar, India. Credit: Digital Empowerment Foundation.`
 
 <!--more-->
 
 ## By Going Digital, MSMEs Increase Their Risk
 
-With as many as 63 million MSMEs in India, it is crucial that these businesses recognize their cyber vulnerabilities and the consequences of a digital attack. Cyberattacks not only have reputational implications but can also result in tremendous financial losses for companies of all sizes. “MSMEs run the risk of losing the trust of their clients. For example, if a business is an e-commerce platform and its customer data is stolen, the MSME will be sure of losing almost all their business,” says Abhishek Singh, CEO of India’s [MyGov](https://www.mygov.in/covid-19/), President and CEO of the [National eGovernance Division](https://negd.gov.in/) and Managing Director and CEO of the [Digital India Corporation](https://dic.gov.in/). Singh added that as employees moved to remote working environments, the risk of data loss and cyberattacks increased. 
+With as many as 63 million MSMEs in India, it is crucial that these businesses recognize their cyber vulnerabilities and the consequences of a digital attack. Cyberattacks not only have reputational implications but can also result in tremendous financial losses for companies of all sizes. “MSMEs run the risk of losing the trust of their clients. For example, if a business is an e-commerce platform and its customer data is stolen, the MSME will be sure of losing almost all their business,” says Abhishek Singh, CEO of India’s [MyGov](https://www.mygov.in/covid-19/), President and CEO of the [National eGovernance Division](https://negd.gov.in/) and Managing Director and CEO of the [Digital India Corporation](https://dic.gov.in/). Singh added that as employees moved to remote working environments, the risk of data loss and cyberattacks increased.
 
 It is essential that when MSMEs adopt digital tools, both the business’s leadership and employees understand and mitigate the potential new risks including malware, data breaches, phishing, and ransomware. However, successful cybersecurity requires a whole-of-industry approach. Both policymakers and private sector experts must ensure that they are proactively reaching out to a growing community of digitally connected MSMEs—particularly those led by more vulnerable populations. This outreach will ensure that businesses learn about cybersecurity risks early on in their growth stage and understand the available tools. It is through this approach that businesses can safely grow while protecting both their financial assets and reputation.
 
@@ -31,12 +31,18 @@ Due to a lack of awareness, limited resources, and a perceived lack of return on
 **Seven Habits of Cyber-Aware MSMEs**
 
 1. Know the exact asset you are trying to protect—is it data, intellectual property, a particular product? Businesses should know exactly what is vulnerable and what needs to be secured.
-1. Be aware of certain cybercrimes and cyber risks. For example, how does a phishing attack happen, how does an organization get ransomware? All employees in the organization should be aware of cyber risks (i.e., do not click on unknown links).
-1. Adopt the concept of “never trust, always verify.” Always verify external emails, messages, and electronic sources.
-1. Use multi-factor authentication for all applications and devices (including both personal and professional).
-1. Use strong passwords—do not use date of birth, name, know numbers, or any personally identifying information.
-1. Back up your data—this is the easiest way to protect your company against a ransomware attack.
-1. Vulnerability analysis and patching your system—make sure systems are upgraded on a regular basis.
+
+2. Be aware of certain cybercrimes and cyber risks. For example, how does a phishing attack happen, how does an organization get ransomware? All employees in the organization should be aware of cyber risks (i.e., do not click on unknown links).
+
+3. Adopt the concept of “never trust, always verify.” Always verify external emails, messages, and electronic sources.
+
+4. Use multi-factor authentication for all applications and devices (including both personal and professional).
+
+5. Use strong passwords—do not use date of birth, name, know numbers, or any personally identifying information.
+
+6. Back up your data—this is the easiest way to protect your company against a ransomware attack.
+
+7. Vulnerability analysis and patching your system—make sure systems are upgraded on a regular basis.
 
 These tips are essential to implementing basic and cost-effective cybersecurity practices. In addition, MSMEs should not disregard their vulnerabilities due to their size. Many small businesses believe that they will not be targeted as they are “not important enough.” These businesses are often surprised when an attack hits them. This misconception held by MSMEs—coined as “security by obscurity” by Samir Datt, Director of the Foundation Futuristic Technologies, during our webinar—reaffirms why MSMEs must pay careful attention to their cybersecurity protections regardless of size. Just because a business is unknown to many, does not prevent it from being the recipient of a cyberattack from a malicious actor. An easy way for MSMEs to build their cybersecurity protections is by following the tips our speakers provided above.
 
