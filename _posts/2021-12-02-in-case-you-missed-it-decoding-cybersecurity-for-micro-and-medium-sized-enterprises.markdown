@@ -32,7 +32,7 @@ Due to a lack of awareness, limited resources, and a perceived lack of return on
 
 1. Know the exact asset you are trying to protect—is it data, intellectual property, a particular product? Businesses should know exactly what is vulnerable and what needs to be secured.
 
-2. Be aware of certain cybercrimes and cyber risks. For example, how does a phishing attack happen, how does an organization get ransomware? All employees in the organization should be aware of cyber risks (i.e., do not click on unknown links).
+2. Be aware of certain cybercrimes and cyber risks. For example, how does a phishing attack happen, how do organizations experience ransomware attacks? All employees in the organization should be aware of cyber risks (i.e., do not click on unknown links).
 
 3. Adopt the concept of “never trust, always verify.” Always verify external emails, messages, and electronic sources.
 
