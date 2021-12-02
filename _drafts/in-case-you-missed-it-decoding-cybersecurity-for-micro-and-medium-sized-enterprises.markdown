@@ -48,7 +48,9 @@ These tips are essential to implementing basic and cost-effective cybersecurity 
 
 ![CybersecurityforMSMEs screenshot 1.png](/uploads/CybersecurityforMSMEs%20screenshot%201.png)
 
-![CybersecurityScreenshot for MSMEs2.png](/uploads/CybersecurityScreenshot%20for%20MSMEs2.png)
+`Ms. Rama Vedashree, CEO of Data Security Council of India sharing the DSCI Cyber Adoption Framework for SMBs`
+
+![CybersecurityScreenshot for MSMEs2.png](/uploads/CybersecurityScreenshot%20for%20MSMEs2.png)`SARDI Dialogue Series Panel discussion on the impacts, risks and issues of cyber laws & policies on small businesses in South Asia`
 
 ## Cybersecurity Resources for MSMEs
 
