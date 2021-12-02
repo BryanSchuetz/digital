@@ -1,5 +1,5 @@
 ---
-title: 'Headlining: How News Headlines Can Spread Misinformation'
+title: 'Headlining, Part I: How News Headlines Can Spread Misinformation'
 date: 2021-12-01 15:30:00 -05:00
 tags:
 - Disinformation
