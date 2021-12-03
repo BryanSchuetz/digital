@@ -1,0 +1,27 @@
+---
+title: 'Apply Now: Strengthening Women in Tech in South Asia'
+date: 2021-12-03 13:37:00 -05:00
+Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
+---
+
+Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently conducted a scoping study to explore barriers facing women in tech in South Asia, particularly those who are looking to scale and grow their businesses and engage on a regional level. A total of 47 in-depth interviews conducted on the ground in Bangladesh, India, Nepal, and Sri Lanka revealed a lack of mentorship and support for women entrepreneurs in tech. Interviewees mentioned a strong start-up support ecosystem that fades away and leaves businesses lacking mentorship for growth over time and further investment opportunities. In addition, businesses lack the support required to navigate the myriad of digital policies that affect their business operations.
+
+SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity building support to women seeking to expand their businesses. Digital Frontiers has released a Request for Applications (RFA) to develop this regional network and capacity building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
+
+<!--more-->
+
+**Who Should Apply?**
+
+* DAI is looking for qualified organizations or consortiums with:
+
+* Relevant networks in four focus countries: Bangladesh, India, Nepal, Sri Lanka
+
+* Experience with entrepreneurship acceleration in the digital space
+
+* Strong understanding of the local context and barriers faced by women
+
+* Experience designing and delivering capacity building program to similar target groups
+
+More information on qualifications and how to apply can be found here (link to RFA). Concept notes are due January 10, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16, 2021 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
+
+*The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
