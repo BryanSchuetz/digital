@@ -1,6 +1,10 @@
 ---
 title: 'Apply Now: Strengthening Women in Tech in South Asia'
 date: 2021-12-03 13:37:00 -05:00
+tags:
+- RFA
+- Entrepreneurship
+- Digital Gender Divide
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 ---
 
@@ -22,6 +26,6 @@ SARDI seeks to address these barriers through an initiative to connect women ent
 
 * Experience designing and delivering capacity building program to similar target groups
 
-More information on qualifications and how to apply can be found here (link to RFA). Concept notes are due January 10, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16, 2021 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1ZeF0KeESNYh5qoH_3n5aIEj8zf1YvAc3/view). Concept notes are due January 10, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16, 2021 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
 
 *The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
