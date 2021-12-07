@@ -24,8 +24,8 @@ DAI is looking for qualified organizations or consortiums with:
 * Relevant networks in Bangladesh, India, Nepal, Sri Lanka
 * Experience with entrepreneurship acceleration in the digital space
 * Strong understanding of the local context and barriers faced by women
-* Experience designing and delivering capacity building program to similar target groups
+* Experience designing and delivering capacity building programs to similar target groups
 
-More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1ZeF0KeESNYh5qoH_3n5aIEj8zf1YvAc3/view). Concept notes are due January 10, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16, 2021 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1ZeF0KeESNYh5qoH_3n5aIEj8zf1YvAc3/view). Concept notes are due January 10, 2022, to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
 
 *The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
