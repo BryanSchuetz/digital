@@ -14,20 +14,16 @@ Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently con
 
 ![Cross-regional graphic.JPG](/uploads/Cross-regional%20graphic.JPG)
 
-SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity-building support to women seeking to expand their businesses. Digital Frontiers has released a Request for Applications (RFA) to develop this regional network and capacity building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
+SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity-building support to women seeking to expand their businesses. Digital Frontiers has released a Request for Applications (RFA) to develop this regional network and capacity-building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
 
 <!--more-->
 
 **Who Should Apply?**
 
 * DAI is looking for qualified organizations or consortiums with:
-
 * Relevant networks in four focus countries: Bangladesh, India, Nepal, Sri Lanka
-
 * Experience with entrepreneurship acceleration in the digital space
-
 * Strong understanding of the local context and barriers faced by women
-
 * Experience designing and delivering capacity building program to similar target groups
 
 More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1ZeF0KeESNYh5qoH_3n5aIEj8zf1YvAc3/view). Concept notes are due January 10, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due December 16, 2021 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
