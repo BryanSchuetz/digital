@@ -1,6 +1,6 @@
 ---
 title: 'Apply Now: Strengthening Women in Tech in South Asia'
-date: 2021-12-07 13:37:00 -05:00
+date: 2021-12-07 09:00:00 -05:00
 tags:
 - RFA
 - Entrepreneurship
