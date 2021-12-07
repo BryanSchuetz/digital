@@ -1,5 +1,5 @@
 ---
-title: 'Webinar: Cybersecurity Challenges in the AI Age'
+title: The AI Age Presents New Challenges in Cybersecurity
 date: 2021-12-09 06:00:00 -05:00
 tags:
 - AI
