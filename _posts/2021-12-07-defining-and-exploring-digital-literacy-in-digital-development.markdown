@@ -8,7 +8,7 @@ social-image: "/uploads/Digital%20Literacy%20Blog.jpg"
 thumbnail: "/uploads/Digital%20Literacy%20Blog.jpg"
 ---
 
-Identifying and defining digital literacy can be challenging for even the most seasoned of digital development practitioners. “My previous work was very much related to digital literacy, but I didn’t recognize it as such,” shared Erica Bustinza, Project Director for the [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project to support the U.S. Agency for International Development’s [digital strategy](https://www.usaid.gov/usaid-digital-strategy) implementation.
+Identifying and defining digital literacy can be challenging for even the most seasoned of digital development practitioners. “My previous work was very much related to digital literacy, but I didn’t recognize it as such,” shared Erica Bustinza, Project Director for the [Digital Strategy Activity](https://www.usaid.gov/usaid-digital-strategy), which support's the U.S. Agency for International Development's Digital Strategy implementation.
 
 “After thinking about my previous work further, I would say over 50 percent of our team’s time and the project budget were focused on digital literacy efforts. Despite this, and my years of experience in digital development, I hadn’t ever considered that this was a ‘digital literacy’ project,” Bustinza reflected during the recent “What is Digital Literacy Anyway?” panel at the [Global Digital Development Forum](https://digitaldevforum.com/agenda/) (GDDF).
 
