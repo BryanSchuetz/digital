@@ -1,6 +1,6 @@
 ---
 title: Defining and Exploring Digital Literacy in Digital Development
-date: 2021-12-07 09:00:00 -05:00
+date: 2021-12-07 12:00:00 -05:00
 tags:
 - Digital Literacy
 Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole/)"
