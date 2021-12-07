@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Dec 2021 12:08:39 -0500</pubDate>
-    <lastBuildDate>Tue, 07 Dec 2021 12:08:39 -0500</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 12:18:35 -0500</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 12:18:35 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Digital%20Literacy%20Blog.jpg" medium="image" /> 
+        <title>Defining and Exploring Digital Literacy in Digital Development</title>
+        <description>&lt;p&gt;Identifying and defining digital literacy can be challenging for even the most seasoned of digital development practitioners. “My previous work was very much related to digital literacy, but I didn’t recognize it as such,” shared Erica Bustinza, Project Director for the &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project to support the U.S. Agency for International Development’s &lt;a href=&quot;https://www.usaid.gov/usaid-digital-strategy&quot;&gt;digital strategy&lt;/a&gt; implementation.&lt;/p&gt;
+
+&lt;p&gt;“After thinking about my previous work further, I would say over 50 percent of our team’s time and the project budget were focused on digital literacy efforts. Despite this, and my years of experience in digital development, I hadn’t ever considered that this was a ‘digital literacy’ project,” Bustinza reflected during the recent “What is Digital Literacy Anyway?” panel at the &lt;a href=&quot;https://digitaldevforum.com/agenda/&quot;&gt;Global Digital Development Forum&lt;/a&gt; (GDDF).&lt;/p&gt;
+
+&lt;p&gt;Oftentimes, digital development programming necessitates the digital literacy of target populations, leading many initiatives to intertwine digital literacy activities with other technical programming to bring their overall objectives to fruition. Recognition of the breadth and depth of digital literacy efforts is crucial to advancing digital development worldwide.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Dec 2021 12:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/kendra-poole/">Kendra Poole</a>
+</author>
+        <link>https://dai-global-digital.com/defining-and-exploring-digital-literacy-in-digital-development.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/defining-and-exploring-digital-literacy-in-digital-development.html</guid>
+        
+        <category>Digital Literacy</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Cross-regional%20graphic.JPG" medium="image" /> 
@@ -212,29 +233,6 @@
         <category>digital agriculture</category>
         
         <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/3168212588_cd7d304161_o.jpg" medium="image" /> 
-        <title>The Future is Looking Up: Satellites for Development</title>
-        <description>&lt;p&gt;When predicting which technologies might have an impact on international development in the coming years, shifts in the economics of a technology are often more indicative of impending transformation than improvements in its capabilities. Particularly in emerging markets, even older technologies can suddenly become disruptive once their cost drops, enabling wider application. With that lens in our spyglass as we scan the horizon for coming opportunities, then, we should not forget to look up, because satellites are getting radically cheaper.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/3168212588_cd7d304161_o.jpg&quot; alt=&quot;3168212588_cd7d304161_o.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Flickr, Paul Keller.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Oct 2021 12:17:00 -0400</pubDate>
-        <author>Rob Ryan-Silva
-</author>
-        <link>https://dai-global-digital.com/the-future-is-looking-up-satellites-for-development.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-future-is-looking-up-satellites-for-development.html</guid>
-        
-        <category>Internet of Things</category>
-        
-        <category>Satellite</category>
-        
-        <category>Hardware</category>
         
         
       </item>
