@@ -1,12 +1,16 @@
 ---
 title: 'Apply Now: Strengthening Women in Tech in South Asia'
-date: 2021-12-03 13:37:00 -05:00
+date: 2021-12-07 13:37:00 -05:00
 tags:
 - RFA
 - Entrepreneurship
 - Digital Gender Divide
-Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
+Author: "[Christiy Coster](https://www.linkedin.com/in/christincoster/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAWjkJMBLKaNY7vSK-d8PL5EENwXMpPvobs)"
+social-image: "/uploads/Cross-regional%20graphic.JPG"
+thumbnail: "/uploads/Cross-regional%20graphic.JPG"
 ---
+
+![Cross-regional graphic.JPG](/uploads/Cross-regional%20graphic.JPG)
 
 Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently conducted a scoping study to explore barriers facing women in tech in South Asia, particularly those who are looking to scale and grow their businesses and engage on a regional level. A total of 47 in-depth interviews conducted on the ground in Bangladesh, India, Nepal, and Sri Lanka revealed a lack of mentorship and support for women entrepreneurs in tech. Interviewees mentioned a strong start-up support ecosystem that fades away and leaves businesses lacking mentorship for growth over time and further investment opportunities. In addition, businesses lack the support required to navigate the myriad of digital policies that affect their business operations.
 
