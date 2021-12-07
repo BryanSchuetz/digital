@@ -15,6 +15,6 @@ Artificial intelligence (AI) can be used to strengthen cybersecurity by detectin
 
 On November 3, 2021, I had the privilege to moderate a panel hosted by [DAI’s Center for Digital Acceleration](https://www.dai.com/our-work/solutions/digital-acceleration) and the [World Bank's Global Forum on Law Justice and Development Working Group on Law and Technology](https://globalforumljd.com/) covering *Cybersecurity Challenges in the AI Age. *I highly recommend you take the time to listen to my conversation with Irakli Berizde (Head of the Centre for Artificial Intelligence and Robotics at the United Nations Interregional Crime and Justice Research Institute), Mark Williams (Practice Manager, Digital Development Global Practice, The World Bank), and Katerina Sedova (Research Fellow, Georgetown’s Center for Security and Emerging Technology).
 
-You can watch it or listen to it via the video below.
+You can watch it or listen to it via the video below or at this [link](https://globalforumljd.com/events/2021/cybersecurity-challenges-ai-age).
 
 <iframe src="https://cdnapisec.kaltura.com/p/1930181/sp/193018100/embedIframeJs/uiconf_id/29317392/partner_id/1930181?iframeembed=true&playerId=kplayer&entry_id=1_w0ny06au&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0"></iframe>
