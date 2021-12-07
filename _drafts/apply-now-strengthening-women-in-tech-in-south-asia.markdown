@@ -10,9 +10,9 @@ social-image: "/uploads/Cross-regional%20graphic.JPG"
 thumbnail: "/uploads/Cross-regional%20graphic.JPG"
 ---
 
-![Cross-regional graphic.JPG](/uploads/Cross-regional%20graphic.JPG)
+Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently conducted a scoping study to explore barriers facing women in technology in South Asia, particularly those who are looking to scale and grow their businesses and engage on a regional level. A total of 47 in-depth interviews conducted on the ground in Bangladesh, India, Nepal, and Sri Lanka revealed a lack of mentorship and support for women entrepreneurs in tech. Interviewees mentioned a strong startup support ecosystem that fades away and leaves businesses lacking mentorship for growth over time and further investment opportunities. In addition, businesses lack the support required to navigate the myriad of digital policies that affect their business operations.
 
-Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently conducted a scoping study to explore barriers facing women in tech in South Asia, particularly those who are looking to scale and grow their businesses and engage on a regional level. A total of 47 in-depth interviews conducted on the ground in Bangladesh, India, Nepal, and Sri Lanka revealed a lack of mentorship and support for women entrepreneurs in tech. Interviewees mentioned a strong start-up support ecosystem that fades away and leaves businesses lacking mentorship for growth over time and further investment opportunities. In addition, businesses lack the support required to navigate the myriad of digital policies that affect their business operations.
+![Cross-regional graphic.JPG](/uploads/Cross-regional%20graphic.JPG)
 
 SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity building support to women seeking to expand their businesses. Digital Frontiers has released a Request for Applications (RFA) to develop this regional network and capacity building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
 
