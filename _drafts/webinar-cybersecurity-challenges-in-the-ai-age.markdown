@@ -1,7 +1,12 @@
 ---
 title: 'Webinar: Cybersecurity Challenges in the AI Age'
 date: 2021-12-09 06:00:00 -05:00
+tags:
+- AI
+- Cybersecurity
 Author: Galia Nurko
+social-image: "/uploads/251529551_3057514881152684_6929689380512171727_n.jpg"
+thumbnail: "/uploads/251529551_3057514881152684_6929689380512171727_n.jpg"
 ---
 
 Artificial intelligence (AI) can be used to strengthen cybersecurity by detecting cyber threats more quickly and effectively. Imagine, for instance, if embedded malware meant to disrupt a hospital systems operation was detected within minutes of its installation, rather than after it disrupted access to electronic medical health records, delaying medical treatments? In such a scenario, the use of AI to detect a cyber-attack could literally mean life or death. Nevertheless, the use of AI also introduces its own set of cybersecurity vulnerabilities that bad actors can exploit. For example, it can amplify the exploitation of vulnerabilities across digital systems. The use of IoT (Internet of Things) coupled with AI will further densify the attack surface.
