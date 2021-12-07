@@ -14,7 +14,7 @@ Digital Frontiers’ South Asia Regional Digital Initiative (SARDI) recently con
 
 ![Cross-regional graphic.JPG](/uploads/Cross-regional%20graphic.JPG)
 
-SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity-building support to women seeking to expand their businesses. Digital Frontiers has released a Request for Applications (RFA) to develop this regional network and capacity-building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
+SARDI seeks to address these barriers through an initiative to connect women entrepreneurs in tech across the region and provide mentorship and capacity-building support to women seeking to expand their businesses. [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) has released a Request for Applications (RFA) to develop this regional network and capacity-building program. As a result of this activity, women entrepreneurs’ digital capabilities will be strengthened, they will have a larger footprint in the digital economy, and an improved ability to engage in digital policy.
 
 <!--more-->
 
