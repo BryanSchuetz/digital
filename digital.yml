@@ -1,4 +1,14 @@
 
+- title: "The AI Age Presents New Challenges in Cybersecurity"
+  pub: "Digital"
+  date: 2021-12-09
+  link: "https://dai-global-digital.com/webinar-cybersecurity-challenges-in-the-ai-age.html?utm_source=daidotcom"
+  summary: "Artificial intelligence (AI) can be used to strengthen cybersecurity by detecting cyber threats more quickly and effectively. Imagine, for instance, if embedded malware meant to disrupt a hospital systems operation was detected within minutes of its installation, rather than after it disrupted access to electronic medical health records, delaying medical treatments? In such a scenario, the use of AI to detect a cyber-attack could literally mean life or death. Despite these benefits, the use of AI also introduces its own set of cybersecurity vulnerabilities that bad actors can exploit. For example, it can amplify the exploitation of vulnerabilities across digital systems. Additionally, the use of Internet of Things (IoT) coupled with AI will further densify the potential cyber-attack surface."
+  tags:
+    - digital acceleration 
+    - AI 
+    - Cybersecurity 
+
 - title: "Defining and Exploring Digital Literacy in Digital Development"
   pub: "Digital"
   date: 2021-12-07
@@ -227,13 +237,4 @@ Using DAI’s Frontier Insights™ methodology, our researchers in Colombia, Sou
     - Social Media 
     - Disinformation 
     - Digital Platforms 
-
-- title: "Is Intellectual Property Ready for Blockchain?"
-  pub: "Digital"
-  date: 2021-09-02
-  link: "https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html?utm_source=daidotcom"
-  summary: "With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?"
-  tags:
-    - digital acceleration 
-    - Blockchain Series 
 
