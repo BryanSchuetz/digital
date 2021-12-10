@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Dec 2021 10:09:39 -0500</pubDate>
-    <lastBuildDate>Thu, 09 Dec 2021 10:09:39 -0500</lastBuildDate>
+    <pubDate>Fri, 10 Dec 2021 08:39:52 -0500</pubDate>
+    <lastBuildDate>Fri, 10 Dec 2021 08:39:52 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -24,6 +24,27 @@
         <category>AI</category>
         
         <category>Cybersecurity</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/LastMileConnectivity2.jpeg" medium="image" /> 
+        <title>Meaningful Connectivity: Providing Access to Life-Enhancing Digital Services</title>
+        <description>&lt;p&gt;A lack of digital connectivity is a prelude to exclusion in today’s rapidly changing world. Yet, more than 600 million people worldwide remain uncovered by mobile networks and broadband services. COVID-19 exacerbated the effects of this deep digital divide that continues to leave many communities disconnected, uninformed, and without access to life-enhancing digital services. Internet connectivity in the most remote places is essential to ensure that the most vulnerable populations do not get left behind. Moreover, these communities need effective connectivity that is consistent, safe, reliable, and accessible with enough bandwidth to allow for information access, news, government resources, telehealth, and educational instruction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/LastMileConnectivity2.jpeg&quot; alt=&quot;LastMileConnectivity2.jpeg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Women entrepreneurs accessing digital services in Guna, Madhya Pradesh, India. Photo: Digital Empowerment Foundation.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Dec 2021 06:00:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
+</author>
+        <link>https://dai-global-digital.com/meaningful-connectivity-providing-access-to-life-enhancing-digital-services.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/meaningful-connectivity-providing-access-to-life-enhancing-digital-services.html</guid>
+        
+        <category>Entrepreneurship</category>
+        
+        <category>digital divide</category>
         
         
       </item>
@@ -211,29 +232,6 @@
         <category>Information</category>
         
         <category>GIS</category>
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/AKS%20Blog.jpg" medium="image" /> 
-        <title>Location-Based Platform Work Presents Benefits—and Risks—to Workers in the Global South, Part 1</title>
-        <description>&lt;p&gt;One of the wonders of the digital age is that if at 11 pm I suddenly crave a pizza (Hawaiian preferably—no shame!), all I have to do is click a few buttons on my phone, and &lt;em&gt;voila!&lt;/em&gt; pizza is delivered to my door. While it may feel like the pizza arrived by magic, especially given the “no-contact” options made available since the start of COVID-19, the satisfaction of my late-night craving is made possible by the work of independent contractors hired by digital platforms such as Uber and DoorDash to deliver products in cities around the world.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 04 Nov 2021 08:39:00 -0400</pubDate>
-        <author>Araba Sapara-Grant
-</author>
-        <link>https://dai-global-digital.com/location-based-platform-work-presents-benefits-and-increasing-risks-to-workers-in-the-global-south-part-1.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/location-based-platform-work-presents-benefits-and-increasing-risks-to-workers-in-the-global-south-part-1.html</guid>
-        
-        <category>gig economy</category>
-        
-        <category>gig work</category>
-        
-        <category>digital economy</category>
-        
-        <category>Innovation</category>
-        
         
       </item>
     
