@@ -14,13 +14,13 @@ In some cases, online shopping has a [smaller carbon footprint](https://www.vox.
 * **Consolidate your orders into as few deliveries or packages as possible**. This helps cut down not only on the amount of single-use packaging materials, but also the number of delivery trucks and gas used to reach your address.
 
 
-* **Stick to one method.**If you’ve already ordered several items from Target or Walmart online, avoid driving to those same stores later that day to shop in person. Try ordering everything you need in one order to cut back on unnecessary trips (and gas) to the store.
+* **Stick to one method.** If you’ve already ordered several items from Target or Walmart online, avoid driving to those same stores later that day to shop in person. Try ordering everything you need in one order to cut back on unnecessary trips (and gas) to the store.
 
 ## Where We are Now
 
-**When we order online, companies can maximize efficiency by distributing products from closely located warehouses and delivering multiple packages to the same neighborhood in one trip. This means that if you and all your neighbors order online, you might not all need to drive to the store and instead one delivery truck can drop off all your orders. However, the advent of same-day delivery and free expedited shipping has eroded these efficiencies.
+\*\*When we order online, companies can maximize efficiency by distributing products from closely located warehouses and delivering multiple packages to the same neighborhood in one trip. This means that if you and all your neighbors order online, you might not all need to drive to the store and instead one delivery truck can drop off all your orders. However, the advent of same-day delivery and free expedited shipping has eroded these efficiencies.
 
-Let’s say you place an order which includes three items from Amazon, all with free 2-day shipping. Amazon will try to find two or three of these products from the same warehouse, but if they can’t, they’ll have to ship these products separately from different warehouses and on different delivery trucks to get the products to you on time. You’ve gone from **one box** and **one delivery **truck to ***two or three of each***.
+Let’s say you place an order which includes three items from Amazon, all with free 2-day shipping. Amazon will try to find two or three of these products from the same warehouse, but if they can’t, they’ll have to ship these products separately from different warehouses and on different delivery trucks to get the products to you on time. You’ve gone from **one box** and \*\*one delivery \*\*truck to ***two or three of each***.
 
 This is a result of the rise of expedited shipping, with stores competing over shipping speeds and who can get their products to you the fastest. Customer satisfaction is prioritized over efficiency and environmental impact.
 
