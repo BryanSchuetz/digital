@@ -1,6 +1,6 @@
 ---
 title: 'Meaningful Connectivity: Providing Access to Life-Enhancing Digital Services'
-date: 2021-12-08 06:00:00 -05:00
+date: 2021-12-10 06:00:00 -05:00
 tags:
 - Entrepreneurship
 - digital divide
