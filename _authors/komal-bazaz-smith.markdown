@@ -1,7 +1,7 @@
 ---
 title: Komal Bazaz Smith
 date: 2021-12-13 13:00:00 -05:00
-Job: Digital Connectivity and Cybersecurity Partnership Project Director
+Job: Project Director, Digital Connectivity and Cybersecurity Partnership
 Image: "/uploads/KBS%20Headshot.jpg"
 ---
 
