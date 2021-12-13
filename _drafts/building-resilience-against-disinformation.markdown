@@ -1,6 +1,9 @@
 ---
 title: Building Resilience Against Disinformation
 date: 2021-12-13 13:56:00 -05:00
+Author: "[Krista Baptista](https://dai-global-digital.com/authors/krista-baptista/),
+  [Komal Bazaz Smith](https://dai-global-digital.com/authors/komal-bazaz-smith/),
+  and [Priya Sethi](https://dai-global-digital.com/authors/priya-sethi/)"
 social-image: "/uploads/MDI%20Blog%20Photo.png"
 thumbnail: "/uploads/MDI%20Blog%20Photo.png"
 ---
