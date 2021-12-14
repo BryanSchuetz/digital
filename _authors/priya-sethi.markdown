@@ -1,7 +1,7 @@
 ---
 title: Priya Sethi
 date: 2021-12-13 14:22:00 -05:00
-Job: Senior Program Manager, Digital Connectivity and Cybersecurity Partnership
+Job: Senior Program Manager, Digital Frontiers
 Image: "/uploads/PS%20Headshot.jpg"
 ---
 
