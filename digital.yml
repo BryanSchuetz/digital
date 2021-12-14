@@ -1,15 +1,4 @@
 
-- title: "Building Resilience Against Disinformation"
-  pub: "Digital"
-  date: 2021-12-13
-  link: "https://dai-global-digital.com/building-resilience-against-disinformation.html?utm_source=daidotcom"
-  summary: "The proliferation of user-generated content enabled by improved connectivity and access to digital platforms is unlocking new economic opportunities, while also fomenting disinformation and falsehoods with potentially deleterious effects on society. Misinformation and disinformation can erode the trust and credibility of our public institutions, inflict financial harm, embolden nefarious actors, and jeopardize governance. While misinformation and disinformation are not new phenomena, the emergence of new digital platforms has enabled accelerated proliferation and reach, with implications across diverse sectors. Misinformation and disinformation can be omnipresent and not limited to politics, as they target value chains, consumers, and minority-owned businesses."
-  tags:
-    - digital acceleration 
-    - Disinformation 
-    - Misinformation 
-    - Digital Literacy 
-
 - title: "Meaningful Connectivity: Providing Access to Life-Enhancing Digital Services"
   pub: "Digital"
   date: 2021-12-10
@@ -238,4 +227,15 @@ Using DAI’s Frontier Insights™ methodology, our researchers in Colombia, Sou
     - digital acceleration 
     - Digital Transformation 
     - Digital Economy 
+
+- title: "What is Agile? Part Two: A Primer on Different Frameworks"
+  pub: "Digital"
+  date: 2021-09-16
+  link: "https://dai-global-digital.com/what-is-agile-part-two-a-primer-on-different-agile-frameworks.html?utm_source=daidotcom"
+  summary: "As discussed in part one of this series, agile is an umbrella term that encapsulates a number of frameworks, strategies, and tools. In this second installment, we dive a bit deeper into what agile is in practice by highlighting some of the most common frameworks used by agile teams. This primer on agile frameworks and methods will by no means be comprehensive (there are entire courses, websites, and certifications dedicated to each), but it can serve as a good starting point for better understanding which flavor of agile might be best suited to your teams’ needs if you are considering adopting agile in your organization. This post will cover two of the most popular types of agile in more depth: Scrum and Kanban. There are several others that are widely used as well, but these two have many components that can be flexible and adaptable for use in non-software development contexts."
+  tags:
+    - digital acceleration 
+    - agile 
+    - software development 
+    - Agile Series 
 
