@@ -13,15 +13,13 @@ I remember when my family first got an Amazon Prime membership. At the time, I w
 
 <!--more-->
 
-As consumers, we benefit from the ease of 2-day (and now even same-day) delivery. The ability to think of something in the morning, order it online that afternoon and have it delivered later night is incredibly powerful—but at what cost? As the plethora of daily and weekly delivery boxes began to add up, I began to wonder about the environmental cost of it all. Here are a few things that I’ve learned about online shopping and shipping that we can keep in mind this holiday season:
+As consumers, we benefit from the ease of two-day (and now even same-day) delivery. The ability to think of something in the morning, order it online that afternoon and have it delivered later that night is incredibly powerful—but at what cost? As the plethora of daily and weekly delivery boxes began to add up, I began to wonder about the environmental cost of it all. Here are a few things I’ve learned about online shopping and shipping that we should keep in mind this holiday season:
 
-In some cases, online shopping has a [smaller carbon footprint ](https://www.vox.com/2017/11/17/16670080/environmental-cost-free-two-day-shipping) than shopping at a store so long as you follow these simple rules:
+In some cases, online shopping has a [smaller carbon footprint](https://www.vox.com/2017/11/17/16670080/environmental-cost-free-two-day-shipping) than shopping at a store so long as you follow these simple rules:
 
 ## The Background
 
-* **Consolidate your orders into as few deliveries or packages as possible**. This helps cut down not only on the amount of single-use packaging materials, but also the number of delivery trucks and gas used to reach your address.
-
-
+* **Consolidate your orders into as few deliveries or packages as possible**. This helps cut down not only on the amount of single-use packaging materials but also the number of delivery trucks and gas used to reach your address.
 * **Stick to one method.** If you’ve already ordered several items from Target or Walmart online, avoid driving to those same stores later that day to shop in person. Try ordering everything you need in one order to cut back on unnecessary trips (and gas) to the store.
 
 ![Miranda Blog.jpg](/uploads/Miranda%20Blog.jpg)
