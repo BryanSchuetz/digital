@@ -9,11 +9,11 @@ social-image: "/uploads/Miranda%20Blog.jpg"
 thumbnail: "/uploads/Miranda%20Blog.jpg"
 ---
 
-I remember when my family first got an Amazon Prime membership. At the time, I was a freshman in college living on campus without a car. A trip to the grocery store was a half-day adventure involving multiple bus rides, weaving through weekend shoppers, and then lugging all my purchases back to my room. This all changed with 2-day shipping. With Amazon, everything I could possibly need or want – ranging from toiletries and groceries to textbooks and school supplies – was at my fingertips with just a few clicks and 2-day delivery. My half-day quests for essentials turned into a five-minute walk to the on-campus post office.
+I remember when my family first got an Amazon Prime membership. At the time, I was a freshman in college living on campus with no car. A trip to the grocery store was a half-day adventure involving multiple bus rides, weaving through weekend shoppers, and then lugging all my purchases back to my room. This all changed with two-day shipping. With Amazon, everything I could possibly need or want—ranging from toiletries and groceries to textbooks and school supplies—was at my fingertips with just a few clicks and two-day delivery. My half-day quests for essentials turned into a five-minute walk to the on-campus post office.
 
 <!--more-->
 
-As consumers, we benefit from the ease of 2-day (and now even same-day) delivery. The ability to think of something in the morning, order it online that afternoon and have it delivered later night is incredibly powerful – but at what cost? As the plethora of daily and weekly delivery boxes began to add up, I began to wonder about the environmental cost of it all. Here are a few things that I’ve learned about online shopping and shipping that we can keep in mind this holiday season:
+As consumers, we benefit from the ease of 2-day (and now even same-day) delivery. The ability to think of something in the morning, order it online that afternoon and have it delivered later night is incredibly powerful—but at what cost? As the plethora of daily and weekly delivery boxes began to add up, I began to wonder about the environmental cost of it all. Here are a few things that I’ve learned about online shopping and shipping that we can keep in mind this holiday season:
 
 In some cases, online shopping has a [smaller carbon footprint ](https://www.vox.com/2017/11/17/16670080/environmental-cost-free-two-day-shipping) than shopping at a store so long as you follow these simple rules:
 
