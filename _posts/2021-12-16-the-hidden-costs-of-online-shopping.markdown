@@ -18,10 +18,9 @@ As consumers, we benefit from the ease of two-day (and now even same-day) delive
 In some cases, online shopping has a [smaller carbon footprint](https://www.vox.com/2017/11/17/16670080/environmental-cost-free-two-day-shipping) than shopping at a store so long as you follow these simple rules:
 
 * **Consolidate your orders into as few deliveries or packages as possible**. This helps cut down not only on the amount of single-use packaging materials but also the number of delivery trucks and gas used to reach your address.
-
 * **Stick to one method.** If you’ve already ordered several items from Target or Walmart online, avoid driving to those same stores later that day to shop in person. Try ordering everything you need in one order to cut back on unnecessary trips (and gas) to the store.
 
-![Miranda Blog.jpg](/uploads/Miranda%20Blog.jpg)`Source: Negative Space`
+![Miranda Blog.jpg](/uploads/Miranda%20Blog.jpg)`Photo: Negative Space`
 
 ## Where We are Now
 
