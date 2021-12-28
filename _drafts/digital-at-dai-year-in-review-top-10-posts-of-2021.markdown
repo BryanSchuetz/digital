@@ -1,6 +1,14 @@
 ---
 title: 'Digital@DAI Year in Review: Top 10 Posts of 2021'
 date: 2021-12-28 10:57:00 -05:00
+tags:
+- COVID-19
+- Social Media
+- Digital Transformation
+- Innovation
+- Data
+Author: "[Krista Baptista]( https://www.linkedin.com/in/krista-baptista-2202aa/) and
+  [Galia Nurko]( https://www.linkedin.com/in/galianurko/) and [Afua Owusu]( https://dai-global-digital.com/authors/afua-owusu/)"
 social-image: "/uploads/DIGITAL@DAI%20(1).png"
 thumbnail: "/uploads/DIGITAL@DAI%20(1).png"
 ---
