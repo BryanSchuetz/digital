@@ -1,6 +1,6 @@
 ---
 title: 'Digital@DAI Year in Review: Top 10 Posts of 2021'
-date: 2021-12-28 10:57:00 -05:00
+date: 2021-12-30 10:57:00 -05:00
 tags:
 - COVID-19
 - Social Media
