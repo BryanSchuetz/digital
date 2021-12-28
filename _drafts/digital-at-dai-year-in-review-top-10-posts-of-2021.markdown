@@ -19,8 +19,6 @@ In past years, we’ve highlighted the top 10 posts of the year. This year, we n
 
 ![DIGITAL@DAI (1).png](/uploads/DIGITAL@DAI%20(1).png)
 
-![DIGITAL@DAI.jpg](/uploads/DIGITAL@DAI.jpg)
-
 <!--more-->
 
 ## Top 5 blogs of 2021
