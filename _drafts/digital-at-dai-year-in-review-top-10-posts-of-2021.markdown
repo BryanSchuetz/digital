@@ -17,7 +17,7 @@ As I do at the end of each year, I’d like to take the opportunity to reflect o
 
 In past years, we’ve highlighted the top 10 posts of the year. This year, we noticed a pattern that I think is worth highlighting, especially given the renewed importance and pace of learning in the digital sector that the COVID-19 response requires. While readers enjoyed our most recent posts, our posts from previous years were quite popular, as well! Below, we feature the most read blogs published in 2021 and the most read blogs of 2021 overall.
 
-![DIGITAL@DAI (1).png](/uploads/DIGITAL@DAI%20(1).png)
+![DIGITAL@DAI.jpg](/uploads/DIGITAL@DAI.jpg)
 
 <!--more-->
 
