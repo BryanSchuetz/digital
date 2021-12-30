@@ -21,7 +21,7 @@ In past years, we’ve highlighted the top 10 posts of the year. This year, we n
 
 <!--more-->
 
-## Top 5 blogs of 2021
+## Top 5 Blogs of 2021
 
 1. [Is Intellectual Property Ready for Blockchain](https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html) – This blog addresses blockchains application for managing intellectual property rights such as patents, copyrights, trademarks, industrial designs, and more. This piece discusses how IP owners can use blockchain to better control and exploit their IP works, improve collaboration, and achieve fair and efficient remuneration.
 
@@ -35,7 +35,7 @@ In past years, we’ve highlighted the top 10 posts of the year. This year, we n
 
 As we move into another year of Digital@DAI, one of the trends we see is that readers are highly interested in the future of technology and international development versus the current state of development. Forecasting where global development is heading helps the development community predict global population’s needs as technology evolved exponentially. Knowing this, we will continue to produce content that showcases and indicates what's to be expected as we conduct new research and publish findings.
 
-## Top 5 blogs of 2021
+## Top 5 Blogs of 2021
 
 1. [6 Ways Innovation & Entrepreneurship Promote Prosperity](https://dai-global-digital.com/6-ways-innovation-and-entrepreneurship-promote-prosperity.html)- Written in 2020, this post discusses how innovation and entrepreneurship can significantly affect an economy beyond economic growth. For instance, through improved regulation, support for infrastructure progress, or environmental sustainability.
 
