@@ -19,7 +19,7 @@ To gain a clearer picture of how MSMEs are using digital tools, DAI’s Center f
 
 Today, we’re excited to [share findings](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/msme-study) from our research in Bangladesh, Cambodia, Colombia, Indonesia, Peru, the Philippines, and Thailand. Results from Argentina, Brazil, India, Mexico, Sri Lanka, and Vietnam will be published in the coming months.
 
-![FB report.png](/uploads/FB%20report.png)
+![msme-study-thumbnail-cambodia (1).jpg](/uploads/msme-study-thumbnail-cambodia%20(1).jpg)
 
 For example, key findings from our research in Thailand showed that a large majority (86 percent) of surveyed MSMEs had used digital tools for business in the past year during COVID-19. Moreover, digital tools such as Facebook, WhatsApp, and Instagram, and mobile banking helped online MSMEs adjust to the pandemic: surveyed online MSMEs reported that digital payment tools (82 percent) and Facebook apps (53 percent) helped them adapt to the COVID-19 environment. Across the globe, in Peru, more than half of surveyed MSMEs across all business sizes perceived digital tools to be crucial to their pandemic response. Specifically, 69 percent of online microenterprises in Peru reported that digital tools were important or essential to keeping their business running during COVID-19, as did a large majority of small enterprises (75 percent) and medium-sized enterprises (88 percent).
 
