@@ -1,6 +1,6 @@
 ---
 title: 'The Future is Looking Up: Satellites for Development'
-date: 2021-10-27 12:17:00 -04:00
+date: 2021-10-28 12:17:00 -04:00
 tags:
 - Internet of Things
 - Satellite
