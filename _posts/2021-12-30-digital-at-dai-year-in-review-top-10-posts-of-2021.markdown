@@ -41,7 +41,7 @@ As we move into another year of Digital@DAI, one of the trends we see is that re
 
 1. [6 Ways Innovation & Entrepreneurship Promote Prosperity](https://dai-global-digital.com/6-ways-innovation-and-entrepreneurship-promote-prosperity.html) – Written in 2020, this post discusses how innovation and entrepreneurship can significantly affect an economy beyond economic growth. Examples of innovation include improved regulation, support for infrastructure progress, or environmental sustainability.
 
-2. [5 Trends in Hardware to Watch](https://dai-global-digital.com/five-trends-in-hardware-to-watch.html) – Also written in 2020, this post discusses five types of hardware that are likely to impact international development in coming years. This includes space exploration, which can improve connectivity or satellite imagery in low-income countries.
+2. [5 Trends in Hardware to Watch](https://dai-global-digital.com/five-trends-in-hardware-to-watch.html) – Also written in 2020, this post discusses five types of hardware that are likely to impact international development in coming years. This includes space exploration, which can improve connectivity or satellite imagery in low-income countries. 
 
 3. [Remote Sensing Part 3: Identify Healthy Vegetation from Space ](https://dai-global-digital.com/lush-green-remote-sensing.html) –Written in 2017, this post uses the study of vegetation as a case study on how remote sensing can be essential to development programming.
 
