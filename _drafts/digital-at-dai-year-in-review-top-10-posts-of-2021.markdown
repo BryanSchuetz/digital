@@ -13,7 +13,7 @@ social-image: "/uploads/DIGITAL@DAI%20(1).png"
 thumbnail: "/uploads/DIGITAL@DAI%20(1).png"
 ---
 
-As I do at the end of each year, I’d like to take the opportunity to reflect on the topics that were most read by you, our readers. This year had many ups and downs, from moments where we felt the pandemic might allow us to return to some sense of normalcy, followed by periods where we experienced continued isolation. The COVID-19 pandemic highlighted the continued importance of digital technology, reliable internet connection, and digital literacy as critical components to education, business, and family engagements. We’ve also seen the potential for the digital transformation that is underway around the globe to improve our lives *and* disrupt them. 
+As I do at the end of each year, I’d like to take the opportunity to reflect on the topics that were most read by you, our readers. This year had many ups and downs, from moments where we felt the pandemic might allow us to return to some sense of normalcy, followed by periods where we experienced continued isolation. The COVID-19 pandemic highlighted the continued importance of digital technology, reliable internet connection, and digital literacy as critical components to education, business, and family engagements. We’ve also seen the potential for the digital transformation that is underway around the globe to improve our lives *and* disrupt them.
 
 Through Digital@DAI, we covered global trends in digital tool usage and key takeaways from work we are implementing globally. In total, we published 60 blogs that amassed more than 100,000 page views and covered  topics from [satellites for development](https://dai-global-digital.com/the-future-is-looking-up-satellites-for-development.html) to providing access to [life-enhancing digital services](https://dai-global-digital.com/meaningful-connectivity-providing-access-to-life-enhancing-digital-services.html?utm_source=daidotcom).
 
@@ -23,7 +23,7 @@ In past years, we’ve summarized the top 10 posts of the year. This year, we no
 
 <!--more-->
 
-## Top 5 Blogs of 2021
+## Top 5 New Blogs of 2021
 
 1. [Is Intellectual Property Ready for Blockchain](https://dai-global-digital.com/is-intellectual-property-ready-for-blockchain.html) – This blog addresses blockchains application for managing intellectual property rights such as patents, copyrights, trademarks, industrial designs, and more. The piece discusses how IP owners can use blockchain to better control and exploit their IP works, improve collaboration, and achieve fair and efficient remuneration.
 
