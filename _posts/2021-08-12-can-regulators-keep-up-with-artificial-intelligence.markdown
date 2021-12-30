@@ -1,6 +1,6 @@
 ---
 title: Can Regulators Keep up with Artificial Intelligence?
-date: 2021-08-11 15:35:00 -04:00
+date: 2021-08-12 15:35:00 -04:00
 tags:
 - AI
 - AI Bias
