@@ -34,6 +34,6 @@ Earlier this year, TikTok for Business and the Dubai Chamber of Commerce and Ind
 
 ![33595729488_a7f846400d_o.jpg](/uploads/33595729488_a7f846400d_o.jpg)`Photo credit: Flickr, Christoph Scholz.`
 
-## So, What Next?
+## So, What Next? 
 
 As TikTok continues to explode in popularity and e-commerce expands, the platform may have the [marketing potential](https://digital.hbs.edu/platform-digit/submission/tik-tok-using-ai-to-take-over-the-world/) to enter the payment industry, food delivery industries, and online shopping spaces. While the impact of social media platforms in the global development space is evident as it relates to political advocacy and advancing institutions' missions, there is also skepticism on the genuine influence of such platforms. Although TikTok is a relatively new app, growth and authentic user engagement can aid the development world by providing in-depth insight on people-first research, while humanizing the process. As TikTok continues to capture diverse audiences, it is up to the development industry to strategize on staying attuned and communicating with their audiences as they move to this platform.
