@@ -43,7 +43,7 @@ As we move into another year of Digital@DAI, one of the trends we see is that re
 
 3. [Remote Sensing Part 3: Identify Healthy Vegetation from Space](https://dai-global-digital.com/lush-green-remote-sensing.html)- Written in 2017, this post uses the study of vegetation as a case study on how remote sensing can be essential to development programming.
 
-4. [Visualizing Remotely Sensed Data: True Color and False Color](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html)- Written in 2019, this post discusses color bands of remotely sensed data. It's also a reminder that Landsat data sets are free for anyone to use.
+4. [Visualizing Remotely Sensed Data: True Color and False Color](https://dai-global-digital.com/visualizing-remotely-sensed-data-true-color-and-false-color.html) - Written in 2019, this blog discusses color bands of remotely sensed data. The piece also provides a reminder that Landsat data sets are free for anyone to use.
 
 5. [What's the Best Architecture for a Management Information System](https://dai-global-digital.com/the-back-end-of-management-information-systems.html) – Written in 2020, this post discusses the best architecture for information system management. For instance, your choice of architecture might depend on the purpose of your organization.
 
