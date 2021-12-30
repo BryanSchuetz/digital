@@ -31,9 +31,7 @@ This year, we set out to develop three new products for our internal projects. W
 
 Continuous learning is the [new normal](https://www.pewtrusts.org/en/trend/archive/spring-2020/lifelong-learning-will-be-the-new-normal-but-are-we-ready). When I have “creative block,” I find that taking classes or learning a new song helps me break free. A few years ago, when I was tired with my playing, I signed up for a course that not only changed my perspective on my instrument but opened a new period of growth. As a work team, we encourage everyone to take practices that strengthen their current skillset and/or complement their role. We also encourage everyone to take said courses during the workday and take advantage of the professional development funds to support their learning.
 
-![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)
-
-\[Photo credit: [Flickr - Photosteve101](https://www.flickr.com/photos/42931449@N07)\]
+![5771025070_bddb7e2ec6_b-862784.jpg](/uploads/5771025070_bddb7e2ec6_b-862784.jpg)`Photo credit: Flickr, Photosteve101`
 
 <!--more-->
 
