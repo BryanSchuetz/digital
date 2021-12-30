@@ -13,7 +13,8 @@ thumbnail: "/uploads/arpad-czapp-wS250FJl5Uw-unsplash.jpg"
 
 TikTok—the popular short video-sharing app—is now the fastest-growing social media platform on the internet. Rivaling companies such as Facebook, YouTube, Twitter, and Netflix, the controversial platform has amassed more than 2 billion [downloads](https://sensortower.com/blog/tiktok-downloads-2-billion) in more than [200 countries](https://blog.hootsuite.com/tiktok-stats/) and 75 languages in just the past four years. And while the app has had success in diverse markets, its principles have been challenged by individuals and governments globally. In 2018, the Indonesian government enacted a one-week [restriction on the app](https://www.reuters.com/article/us-indonesia-bytedance-ban/indonesia-bans-chinese-video-app-tik-tok-for-inappropriate-content-idUSKBN1JU0K8) due to allegations of inappropriate content and blasphemy. The Indian government banned the app [in 2020](https://www.npr.org/2021/01/15/957371287/a-look-at-the-fallout-of-tiktok-ban-in-india) on the grounds of geopolitical rationale. Former U.S. President Donald Trump attempted to [ban TikTok](https://www.brookings.edu/blog/up-front/2020/08/07/why-is-the-trump-administration-banning-tiktok-and-wechat/) due to U.S. national security concerns. Yet amidst these challenges, TikTok's popularity continues to proliferate amongst diverse communities and influence international markets and the future development of domestic internet companies overseas.
 
-![solen-feyissa-QKEeVYu0d7U-unsplash (1).jpg](/uploads/solen-feyissa-QKEeVYu0d7U-unsplash%20(1).jpg)
+![solen-feyissa-QKEeVYu0d7U-unsplash (1).jpg](/uploads/solen-feyissa-QKEeVYu0d7U-unsplash%20(1).jpg)\
+`Photo credit: Unsplash, Solen Feyissa`
 
 <!--more-->
 
