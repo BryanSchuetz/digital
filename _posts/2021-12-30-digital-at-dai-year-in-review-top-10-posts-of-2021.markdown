@@ -52,5 +52,3 @@ As we move into another year of Digital@DAI, one of the trends we see is that re
 The popularity of these posts demonstrates that our readers were particularly interested in content that describes how tools can be applied to improve international development. These posts provide information on specific topics, and we look forward to posting these types of discussions going into 2022.
 
 Stay tuned for new content in the new year and thanks for your readership this year! Please subscribe and continue to spread the word about the Digital@DAI blog!
-
-[Krista Baptista](https://www.dai.com/who-we-are/our-team/krista-baptista), [Galia Nurko](https://dai-global-digital.com/authors/galia-nurko/), and [Afua Owusu](https://dai-global-digital.com/authors/afua-owusu/)
