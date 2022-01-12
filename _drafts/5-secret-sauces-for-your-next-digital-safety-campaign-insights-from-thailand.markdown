@@ -11,17 +11,17 @@ social-image: "/uploads/Screenshot%202022-01-12%20010731.png"
 thumbnail: "/uploads/Screenshot%202022-01-12%20010731.png"
 ---
 
-In the previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand](https://dai-global-digital.com/five-fresh-tips-to-make-digital-safety-cool-again-a-case-study-from-thailand.html), we discussed lessons learned from implementing the [‘Wai Kid Digital’](https://th.usembassy.gov/united-states-celebrates-young-leaders-of-digital-literacy-in-thailand/) Challenge (‘the Challenge’), a series of virtual training bootcamps with university students on digital safety and creative video production. Looking back two months after the activity wrapped up, here are our top 5 secret sauces for your next digital safety campaign:
+In a previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand](https://dai-global-digital.com/five-fresh-tips-to-make-digital-safety-cool-again-a-case-study-from-thailand.html), we discussed lessons learned from implementing the [‘Wai Kid Digital’](https://th.usembassy.gov/united-states-celebrates-young-leaders-of-digital-literacy-in-thailand/) Challenge (‘the Challenge’), a series of virtual training bootcamps with university students on digital safety and creative video production. Looking back two months after the activity wrapped up, here are our top suggestions for your next digital safety campaign:
 
-1. Build private sector partnerships that create shared value;
+1. Build private sector partnerships that create shared value
 
-2. Use hybrid approaches to engage Gen Z;
+1. Use hybrid approaches to engage Gen Z
 
-3. Embed experience-based learning and networking opportunities;
+1. Embed experience-based learning and networking opportunities
 
-4. Localize your content to pave way for sustainability;
+1. Localize your content to pave way for sustainability
 
-5. Make MEL capture the real story.
+1. Evolve your approach to capture the real story
 
 The Digital Asia Accelerator, part of the U.S. Government’s [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/), partnered with Facebook Thailand and Love Frankie (a local social change agency) to design and launch the Challenge. We then collaborated with nearly 400 university students around the country to demystify digital safety and educate the public about digital safety and identity, positive online communication, news literacy, and critical thinking through creative videos.
 
@@ -83,9 +83,9 @@ With all the effort that goes through the localization process, the Accelerator 
 
 ![MEL.png](/uploads/MEL.png)
 
-One of our biggest takeaways at the end of the Wai Kid Digital Challenge was that monitoring, evaluation, and learning (MEL) must be a multidimensional and continuously evolving process to be most helpful. We used a combination of different methods such as pre and post-surveys, social media analytics, key informant interviews, and mobile market research tools to gather data about the program.
+One of our biggest takeaways at the end of the Wai Kid Digital Challenge was that our monitoring, evaluation, and learning (MEL) approach must be a multidimensional and continuously evolving process to be most helpful. We used a combination of different methods such as pre- and post-surveys, social media analytics, key informant interviews, and mobile market research tools to gather data about the program.
 
-Talking about the MEL process of the Challenge could be a separate blog on its own, but we will focus on what we learned from the pre and post-surveys for participants. Comparing pre and post-surveys to gauge how much the participants learned from program interventions can be challenging. In the case of the Wai Kid Digital Challenge, because we used a self-evaluation approach, many students thought that they were very savvy in digital safety before joining the program and evaluated their levels of knowledge as high in the pre-test.
+Talking about the MEL process of the Challenge could be a separate blog on its own, but we will focus on what we learned from the surveys for participants. Comparing pre- and post-surveys to gauge how much the participants learned from program interventions can be challenging. In the case of the Wai Kid Digital Challenge, because we used a self-evaluation approach, many students thought that they were very savvy in digital safety before joining the program and evaluated their levels of knowledge as high in the pre-test.
 
 After going through the program training, many students realized later that there were many aspects of digital safety that they did not know anything about and marked their knowledge lower in the post-test, also known as the response shift bias.
 
