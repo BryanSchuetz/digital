@@ -4,6 +4,8 @@ date: 2022-01-13 23:17:00 -05:00
 Author: "[Thaniya Theungsang](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain-th)
   and [Panita Plangprayoon] and [Jirada Phetlam]( https://www.linkedin.com/in/jirada-phetlam/?originalSubdomain=th)
   and [Thanasinee Auksonthongsutti]( https://www.linkedin.com/in/thanasinee/?originalSubdomain=th)"
+social-image: "/uploads/Screenshot%202022-01-12%20010731.png"
+thumbnail: "/uploads/Screenshot%202022-01-12%20010731.png"
 ---
 
 In the previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand](https://dai-global-digital.com/five-fresh-tips-to-make-digital-safety-cool-again-a-case-study-from-thailand.html), we discussed lessons learned from implementing the [‘Wai Kid Digital’](https://th.usembassy.gov/united-states-celebrates-young-leaders-of-digital-literacy-in-thailand/) Challenge (‘the Challenge’), a series of virtual training bootcamps with university students on digital safety and creative video production. Looking back two months after the activity wrapped up, here are our top 5 secret sauces for your next digital safety campaign:
