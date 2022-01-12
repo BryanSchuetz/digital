@@ -43,6 +43,8 @@ Some students reported that they appreciated the program being entirely virtual 
 
 # 3. Embed experience-based learning and networking opportunities
 
+![experience based learning.png](/uploads/experience%20based%20learning.png)
+
 Many students expressed that they were looking forward to learning from industry experts (e.g., Facebook and Thai influencers) throughout the program – and wanted even more access to industry after the program ended.
 
 Over 78% of program participants reported that getting the chance to pitch their ideas to USAID, Facebook, and Thai influencers was the most impactful part. This program gave young people an opportunity to learn real-world skills beyond their usual experiences in the classroom. One student told us that, *"I think \[the bootcamps are\] already good but it'd be great to have more time to hear influencers speak about their experiences. Perhaps a Q&A session where we can ask questions."*
@@ -52,3 +54,37 @@ Another student reported learning more about diverse gender perspectives from a 
 University instructors also appreciated the experience-based learning opportunities for students, sharing that *"Students got to work with the private sector, got close to people who work for social media platforms, and experts in the field. Their work will be commented \[on\] by experienced people. The students really enjoyed this. And they got to learn from experiences, rather than solely from academics."*
 
 A student from the Challenge's winning team reported that getting the chance to learn about digital safety and content production from professional content creators at Facebook and USAID gave him the skills, credibility, and confidence to apply for his internship. Networking and gaining access to professional experiences in Thailand is already hard for many Thai students in "normal times," but it is even more challenging during COVID-19. He also shared that he may not have gotten this internship without his Wai Kid Digital experience!
+
+**What this means for your program**: When planning learning interactions with Gen Z participants, embed hands-on learning activities with industry partners whenever possible. These opportunities — especially during COVID-19 — provide young people with on-the-job learning and practical experiences that can help them stand out in the professional world.
+
+# **4. Localize content to pave way for sustainability**
+
+![localize sustainability.png](/uploads/localize%20sustainability.png)
+
+When working in the Southeast Asian context with Gen Z individuals, make sure that your content is tailored to them and localized to their environment.
+
+Localization does not just mean translating a Silicon Valley curriculum into the local language and calling it a day. It requires an in-depth understanding of your participants' technology needs and barriers, testing the content you develop in an iterative process and contextualizing real-life examples in their environment. This takes a lot of effort — but the impact is worth the time and energy! Over half of the participants mentioned that they are likely to share what they learned from the Challenge with their peers because the content is relatable and can be applied to everyday scenarios.
+
+With all the effort that goes through the localization process, the Accelerator is also looking for ways to encourage sustainability after USAID's investment. To ensure that the program's results are not the end of the story, [Love Frankie](https://lovefrankie.co/), our implementing partner of the program, is developing a toolkit that aims to help universities implement their own versions of a digital safety Challenge. We are also in discussion with universities about how to embed the digital safety modules developed from the Wai Kid Digital Challenge into the university curriculum – institutionalizing the key lessons into coursework.
+
+**What this means for your program**: Understand your users' needs, barriers, and context – and test the content with them. If the content is tailored, it's more likely to stick. When the approach resonates with your users, it is easier to make a case for institutionalizing and sustaining the program with partners.
+
+**5. Make MEL capture the real story**
+
+One of our biggest takeaways at the end of the Wai Kid Digital Challenge was that monitoring, evaluation, and learning (MEL) must be a multidimensional and continuously evolving process to be most helpful. We used a combination of different methods such as pre and post-surveys, social media analytics, key informant interviews, and mobile market research tools to gather data about the program.
+
+Talking about the MEL process of the Challenge could be a separate blog on its own, but we will focus on what we learned from the pre and post-surveys for participants. Comparing pre and post-surveys to gauge how much the participants learned from program interventions can be challenging. In the case of the Wai Kid Digital Challenge, because we used a self-evaluation approach, many students thought that they were very savvy in digital safety before joining the program and evaluated their levels of knowledge as high in the pre-test.
+
+After going through the program training, many students realized later that there were many aspects of digital safety that they did not know anything about and marked their knowledge lower in the post-test, also known as the response shift bias.
+
+Looking at the numbers alone, it might seem that some students had lower digital knowledge or skills after program intervention. For example, when responding to the question on positive online communication, in the pre-test, 88% of participants said that they had a good grasp of what constitutes respectful behavior online. Yet, for the post-test, the percentage decreased to 83%.
+
+Qualitative data from the program, however, suggests otherwise. During key informant interviews, students unanimously agreed that what they learned from the Challenge is highly transferable and beneficial for their studies and prospective careers. One student mentioned that *"This is the most transformative program that I have ever seen…. It is really nice to engage with content producers and see the impact of digital behaviors on our lives".*
+
+**What this means for your program**: Make sure that the questions in the pre and post-tests reflect the participants' growth in knowledge without the self-reported bias. You may want to incorporate knowledge check questions for more objective changes in skills in addition to self-reporting.
+
+Retrospective pre-test surveys have shown some promise in dealing with this issue regarding self-reported data. This means asking participants about their self-reported digital knowledge prior to the program AFTER the program is over — so both pre and post-measures are collected simultaneously, after the program). Of course, there are pros and cons: recall may not be entirely accurate after the training, but for short training programs, it can be a very effective workaround. This, however, is not a replacement for pre and post-tests that measure knowledge through more objective test-type questions, but for gauging self-reported knowledge/confidence, it may be the better approach.
+
+Whenever possible, complement the quantitative data with qualitative ones to have a holistic picture of the program. Key informant interviews are especially effective in providing a cohesive narrative beyond surveys.
+
+*The Wai Kid Digital University Challenge is an expansion of Facebook's flagship **"**[We Think Digital](https://e.america.gov/t/i-l-mihuuul-jydiiujjil-y/)" digital literacy program, first launched in Thailand in 2019. Wai Kid Digital is being implemented by [Love Frankie](https://lovefrankie.co/) and is part of USAID's [Digital Asia Accelerator program](https://e.america.gov/t/i-l-mihuuul-jydiiujjil-j/) ('the Accelerator') implemented by DAI under the [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/) initiative. Through the Accelerator, USAID is working across Southeast Asia and Mongolia to advance inclusive and sustainable economic development by increasing businesses' and citizens' capacities to use digital technology safely and effectively.*
