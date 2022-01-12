@@ -25,23 +25,17 @@ In a previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Case
 
 The Digital Asia Accelerator, part of the U.S. Government’s [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/), partnered with Facebook Thailand and Love Frankie (a local social change agency) to design and launch the Challenge. We then collaborated with nearly 400 university students around the country to demystify digital safety and educate the public about digital safety and identity, positive online communication, news literacy, and critical thinking through creative videos.
 
-For more details on our secret sauce, continue reading:
-
 <!--more-->
-
-# 1. Build private sector partnerships that create shared value
 
 ![priv sector partnerships.png](/uploads/priv%20sector%20partnerships.png)
 
 The first secret sauce to spice up your next digital safety campaign is to build private sector partnerships that create shared value. How might that look in practical terms?
 
-The Accelerator's and Facebook's shared goal was to equip young people with digital skills to help the Thai public thrive in online spaces – creatively, securely, and ethically. Creating shared value would require us to work together to achieve that goal. Within that shared goal, the Accelerator's specific objective was to raise people's awareness of how to stay safe online, while Facebook Thailand's was building positive online communities and helping young people share their voices creatively.
+The Accelerator's and Facebook's shared goal was to equip young people with digital skills to help the Thai public thrive online—creatively, securely, and ethically. Creating shared value would require us to work together to achieve that goal. Within that shared goal, the Accelerator's specific objective was to raise people's awareness of how to stay safe online, while Facebook Thailand's objective was building positive online communities and helping young people share their voices creatively.
 
-From a resource standpoint, we both brought key assets to the table. The Accelerator and USAID brought financial support, program management, and development expertise, resulting in a digitally inclusive strategy, customized training curriculum, and strong program execution. From Facebook's side, their brand value and ad credits enabled the campaign to reach and capture the attention of a much larger audience vs. what we would have been able to reach on our own. While USAID has improved lives around the world over the past 60 years, it isn't a common household brand for some communities in Thailand. [Thais on average spent over 11 hours on the internet per day in 2020, and 98% of Thais use Facebook.](https://www.bangkokpost.com/business/2099991/time-spent-on-internet-surges-in-2020) The partnership with Facebook Thailand thus gave the program high visibility and vibrancy right from the start. During the training bootcamp, experts from USAID and Facebook worked together to provide first-hand expertise and experience on digital inclusion and video content creation to the students. This direct engagement was one of the most popular elements of training for the participants.
+From a resource standpoint, we both brought key assets to the table. The Accelerator and the U.S. Agency for International Development (USAID) brought financial support, program management, and development expertise, resulting in a digitally inclusive strategy, customized training curriculum, and strong program execution. From Facebook's side, its brand value and ad credits enabled the campaign to reach and capture the attention of a much larger audience vs. what we would have been able to reach on our own. While USAID has improved lives around the world over the past 60 years, it isn't a common household brand for some communities in Thailand. Thais on average spent more than 11 hours on the internet per day in 2020, and [98 percent of Thais use Facebook.](https://www.bangkokpost.com/business/2099991/time-spent-on-internet-surges-in-2020) The partnership with Facebook Thailand thus gave the program high visibility from the start. During the training bootcamp, experts from USAID and Facebook worked together to provide firsthand expertise and experience on digital inclusion and video creation to the students. This direct engagement was one of the most popular elements of training for the participants.
 
-**What this means for your program:** At the beginning of program design, align on both partners' vision, goals, and capabilities. Even if a partnership is not 100% perfect, it is still valuable and worth pursuing if it leverages each other's capabilities towards achieving your objectives under a common goal.
-
-# 2. Use hybrid approaches to engage Gen Z
+**What this means for your program:** At the beginning of program design, align on both partners' vision, goals, and capabilities. Even if a partnership is not 100 percent perfect, it is still valuable and worth pursuing if it leverages each other's capabilities towards achieving your objectives under a common goal.
 
 ![hybrid approaches.png](/uploads/hybrid%20approaches.png)
 
