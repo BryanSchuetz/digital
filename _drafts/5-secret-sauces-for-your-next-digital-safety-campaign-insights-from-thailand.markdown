@@ -47,31 +47,27 @@ Some students reported that they appreciated the program being entirely virtual 
 
 ![experience based learning.png](/uploads/experience%20based%20learning.png)
 
-Many students expressed that they were looking forward to learning from industry experts (e.g., Facebook and Thai influencers) throughout the program – and wanted even more access to industry after the program ended.
+Many students expressed that they were looking forward to learning from industry experts (e.g., Facebook and Thai influencers) throughout the program—and wanted even more access to industry after the program ended.
 
-Over 78% of program participants reported that getting the chance to pitch their ideas to USAID, Facebook, and Thai influencers was the most impactful part. This program gave young people an opportunity to learn real-world skills beyond their usual experiences in the classroom. One student told us that, *"I think \[the bootcamps are\] already good but it'd be great to have more time to hear influencers speak about their experiences. Perhaps a Q&A session where we can ask questions."*
+More than 78 percent of program participants reported that getting the chance to pitch their ideas to USAID, Facebook, and Thai influencers was the most impactful part. This program gave young people an opportunity to learn real-world skills beyond their usual experiences in the classroom. One student said, "I think [the bootcamps are] already good but it'd be great to have more time to hear influencers speak about their experiences. Perhaps a Q&A session where we can ask questions."
 
 Another student reported learning more about diverse gender perspectives from a USAID staff member that better informed their video concept.
 
-University instructors also appreciated the experience-based learning opportunities for students, sharing that *"Students got to work with the private sector, got close to people who work for social media platforms, and experts in the field. Their work will be commented \[on\] by experienced people. The students really enjoyed this. And they got to learn from experiences, rather than solely from academics."*
+University instructors also appreciated the experience-based learning opportunities for students; one said, "Students got to work with the private sector, got close to people who work for social media platforms, and experts in the field. Their work will be commented [on] by experienced people. The students really enjoyed this. And they got to learn from experiences, rather than solely from academics."
 
-A student from the Challenge's winning team reported that getting the chance to learn about digital safety and content production from professional content creators at Facebook and USAID gave him the skills, credibility, and confidence to apply for his internship. Networking and gaining access to professional experiences in Thailand is already hard for many Thai students in "normal times," but it is even more challenging during COVID-19. He also shared that he may not have gotten this internship without his Wai Kid Digital experience!
+A student from the Challenge's winning team reported that getting the chance to learn about digital safety and content production from professional content creators at Facebook and USAID gave him the skills, credibility, and confidence to apply for an internship. Networking and gaining access to professional experiences in Thailand is already hard for many Thai students in normal times, but it is even more challenging during COVID-19. He also shared that he may not have gotten this internship without his Wai Kid Digital experience.
 
-**What this means for your program**: When planning learning interactions with Gen Z participants, embed hands-on learning activities with industry partners whenever possible. These opportunities — especially during COVID-19 — provide young people with on-the-job learning and practical experiences that can help them stand out in the professional world.
-
-# **4. Localize content to pave way for sustainability**
+**What this means for your program**: When planning learning interactions with Gen Z participants, embed hands-on learning activities with industry partners whenever possible. These opportunities—especially during COVID-19—provide young people with on-the-job learning and practical experiences that can help them stand out in the professional world.
 
 ![localize sustainability.png](/uploads/localize%20sustainability.png)
 
 When working in the Southeast Asian context with Gen Z individuals, make sure that your content is tailored to them and localized to their environment.
 
-Localization does not just mean translating a Silicon Valley curriculum into the local language and calling it a day. It requires an in-depth understanding of your participants' technology needs and barriers, testing the content you develop in an iterative process and contextualizing real-life examples in their environment. This takes a lot of effort — but the impact is worth the time and energy! Over half of the participants mentioned that they are likely to share what they learned from the Challenge with their peers because the content is relatable and can be applied to everyday scenarios.
+Localization does not just mean translating a Silicon Valley curriculum into the local language and calling it a day. It requires an in-depth understanding of your participants' technology needs and barriers, testing the content you develop in an iterative process, and contextualizing real-life examples in their environment. This takes a lot of effort—but the impact is worth the time and energy! More than half of the participants said they are likely to share what they learned from the Challenge with their peers because the content is relatable and can be applied to everyday scenarios.
 
-With all the effort that goes through the localization process, the Accelerator is also looking for ways to encourage sustainability after USAID's investment. To ensure that the program's results are not the end of the story, [Love Frankie](https://lovefrankie.co/), our implementing partner of the program, is developing a toolkit that aims to help universities implement their own versions of a digital safety Challenge. We are also in discussion with universities about how to embed the digital safety modules developed from the Wai Kid Digital Challenge into the university curriculum – institutionalizing the key lessons into coursework.
+With all the effort that goes through the localization process, the Accelerator is also looking for ways to encourage sustainability after USAID's investment. To ensure that the program's results continue, our partner [Love Frankie](https://lovefrankie.co/) is developing a toolkit to help universities implement their own digital safety challenges. We are also in discussion with universities about how to embed the digital safety modules developed from the Wai Kid Digital Challenge into the university curriculum—institutionalizing the key lessons into coursework.
 
-**What this means for your program**: Understand your users' needs, barriers, and context – and test the content with them. If the content is tailored, it's more likely to stick. When the approach resonates with your users, it is easier to make a case for institutionalizing and sustaining the program with partners.
-
-# **5. Make MEL capture the real story**
+**What this means for your program**: Understand your users' needs, barriers, and context—and test the content with them. If the content is tailored, it's more likely to stick. When the approach resonates with your users, it is easier to make a case for institutionalizing and sustaining the program with partners.
 
 ![MEL.png](/uploads/MEL.png)
 
