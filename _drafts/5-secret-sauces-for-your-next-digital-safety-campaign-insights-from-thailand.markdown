@@ -1,6 +1,9 @@
 ---
 title: '5 Secret Sauces for Your Next Digital Safety Campaign: Insights from Thailand'
 date: 2022-01-13 23:17:00 -05:00
+Author: "[Thaniya Theungsang](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain-th)
+  and [Panita Plangprayoon] and [Jirada Phetlam]( https://www.linkedin.com/in/jirada-phetlam/?originalSubdomain=th)
+  and [Thanasinee Auksonthongsutti]( https://www.linkedin.com/in/thanasinee/?originalSubdomain=th)"
 ---
 
 In the previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Case Study from Thailand](https://dai-global-digital.com/five-fresh-tips-to-make-digital-safety-cool-again-a-case-study-from-thailand.html), we discussed lessons learned from implementing the [‘Wai Kid Digital’](https://th.usembassy.gov/united-states-celebrates-young-leaders-of-digital-literacy-in-thailand/) Challenge (‘the Challenge’), a series of virtual training bootcamps with university students on digital safety and creative video production. Looking back two months after the activity wrapped up, here are our top 5 secret sauces for your next digital safety campaign:
@@ -18,6 +21,8 @@ In the previous blog on [Five Fresh Tips to Make Digital Safety Cool Again: A Ca
 The Digital Asia Accelerator, part of the U.S. Government’s [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/), partnered with Facebook Thailand and Love Frankie (a local social change agency) to design and launch the Challenge. We then collaborated with nearly 400 university students around the country to demystify digital safety and educate the public about digital safety and identity, positive online communication, news literacy, and critical thinking through creative videos.
 
 For more details on our secret sauce, continue reading:
+
+<!--more-->
 
 # 1. Build private sector partnerships that create shared value
 
@@ -69,7 +74,9 @@ With all the effort that goes through the localization process, the Accelerator 
 
 **What this means for your program**: Understand your users' needs, barriers, and context – and test the content with them. If the content is tailored, it's more likely to stick. When the approach resonates with your users, it is easier to make a case for institutionalizing and sustaining the program with partners.
 
-**5. Make MEL capture the real story**
+# **5. Make MEL capture the real story**
+
+![MEL.png](/uploads/MEL.png)
 
 One of our biggest takeaways at the end of the Wai Kid Digital Challenge was that monitoring, evaluation, and learning (MEL) must be a multidimensional and continuously evolving process to be most helpful. We used a combination of different methods such as pre and post-surveys, social media analytics, key informant interviews, and mobile market research tools to gather data about the program.
 
