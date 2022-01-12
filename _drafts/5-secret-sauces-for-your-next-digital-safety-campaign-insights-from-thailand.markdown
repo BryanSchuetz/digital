@@ -2,7 +2,7 @@
 title: '5 Secret Sauces for Your Next Digital Safety Campaign: Insights from Thailand'
 date: 2022-01-13 23:17:00 -05:00
 Author: "[Thaniya Theungsang](https://www.linkedin.com/in/thaniya-theungsang/?originalSubdomain-th)
-  and [Panita Plangprayoon] and [Jirada Phetlam]( https://www.linkedin.com/in/jirada-phetlam/?originalSubdomain=th)
+  and Panita Plangprayoon and [Jirada Phetlam]( https://www.linkedin.com/in/jirada-phetlam/?originalSubdomain=th)
   and [Thanasinee Auksonthongsutti]( https://www.linkedin.com/in/thanasinee/?originalSubdomain=th)"
 social-image: "/uploads/Screenshot%202022-01-12%20010731.png"
 thumbnail: "/uploads/Screenshot%202022-01-12%20010731.png"
