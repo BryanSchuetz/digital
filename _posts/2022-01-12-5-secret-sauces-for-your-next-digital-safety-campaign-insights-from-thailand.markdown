@@ -1,6 +1,6 @@
 ---
 title: '5 Secret Sauces for Your Next Digital Safety Campaign: Insights from Thailand'
-date: 2022-01-13 01:17:00 -05:00
+date: 2022-01-12 01:17:00 -05:00
 tags:
 - Digital Literacy
 - Cybersecurity
