@@ -1,6 +1,9 @@
 ---
 title: 'Let’s Talk Fashion: How Digital Technology Can Support the Circular Economy'
 date: 2022-01-19 23:33:00 -05:00
+Author: Afua Owusu
+social-image: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
+thumbnail: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
 ---
 
 The fashion industry drives a significant part of the global economy. Valued north of [$3 trillion](https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1026&context=mgdr), the fashion industry – defined by the [United Nations Alliance](https://unfashionalliance.org/) as clothing, leather, and footwear – accounts for 2% of the world’s gross domestic product. The sector responsible for employing over 300 million people worldwide – many of whom are women – and providing goods indispensable to human welfare is also responsible for around [8-10% of carbon emissions](https://www.researchgate.net/publication/340635670_The_environmental_price_of_fast_fashion), nearly [20% of global wastewater production](https://news.un.org/en/story/2019/03/1035161), and about [9% of microplastic losses](https://www.fashionrevolution.org/our-clothes-shed-microfibres-heres-what-we-can-do/) to the ocean annually. The [circular economy in design](https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview) that tackles climate change and biodiversity loss is based on three principles: eliminate, circulate, and regenerate. Although retail companies have increased their sustainable investments over the past five years, the progression remains slow in shifting to transparent and sustainable fashion standards.
