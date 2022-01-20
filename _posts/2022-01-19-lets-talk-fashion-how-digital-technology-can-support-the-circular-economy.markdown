@@ -6,6 +6,7 @@ tags:
 - Machine Learning
 - Digital Identity
 - AI
+- Digital Transformation
 Author: Afua Owusu
 social-image: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
 thumbnail: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
