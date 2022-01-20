@@ -14,7 +14,7 @@ While climate change threatens all populations, communities in low- and middle-i
 
 <!--more-->
 
-**Algorithmic Fashion: Leveraging Artificial Intelligence**
+# **Algorithmic Fashion: Leveraging Artificial Intelligence**
 
 [Return rates are rapidly skyrocketing](https://www.shopify.com/enterprise/ecommerce-returns#:\~:text=The%20Plague%20of%20Ecommerce%20Return%20Rates%20and%20How%20to%20Maintain%20Profitability&text=Collectively%2C%20consumers%20returned%20products%20worth,returns%20amounts%20to%20%24101%20billion.) as more people join the e-commerce space; almost [30% of the world’s population consists of digital buyers](https://www.statista.com/statistics/251666/number-of-digital-buyers-worldwide/). In e-commerce environments, consumers are more likely to order multiple sizes, colors, and patterns of items to pick the best fit or purchase items only to try on without the intention of keeping them. Returned packages leave emission trails from trucks, planes, and even boats that bring things back to the seller or are rerouted to a landfill due to high processing costs.
 
@@ -22,7 +22,7 @@ Software offers a process through which companies can reduce shipping emissions.
 
 According to a [report](https://www.mckinsey.com/\~/media/mckinsey/industries/semiconductors/our%20insights/smartening%20up%20with%20artificial%20intelligence/smartening-up-with-artificial-intelligence.ashx) published by McKinsey, AI can reduce forecasting errors between 20 and 50% and decrease lost sales by up to 65%. Companies can practice [just-in-time manufacturing (JIT) models](https://devmesh.intel.com/projects/predicting-order-lead-time-for-just-in-time-production-system-using-various-machine-learning-algorithms-a-case-study) with AI-enabled supply chains and machine learning to provide optimal methods for streamlining production. Unlike traditional manufacturing, JIT eliminates unnecessary raw material, inventory storage, and production costs, resulting in reduced overproduction, waste elimination, better supply chain control, and more. Telfar, the accessible luxury fashion brand, is just one of the few companies spearheading [sustainable fashion democracy](https://www.businessinsider.com/telfars-bag-security-program-is-the-new-white-glove-treatment-2021-4#:\~:text=So%2C%20last%20summer%2C%20Telfar%20introduced,shipped%20directly%20to%20the%20customer.). The brand announced its innovative Bag Security Program, allowing consumers to pre-order unlimited made-to-order handbags without a return option. The brand enlisted Captcha tests to deter automated hackers from preventing stockpiling from automated bots. The made-to-order service eliminates the possibilities of mass wastage and reduces demand amplification while analyzing consumer data to predict inventory levels.
 
-**Sheer Fashion: Blockchain for Transparency**
+# **Sheer Fashion: Blockchain for Transparency**
 
 Transparency and traceability in the supply chain are foundational for achieving sustainable, accountable, and fair fashion standards. According to the [Fashion Transparency Index 2021](https://www.fashionrevolution.org/about/transparency/), 250 of the world's largest fashion brands average an overall score of 23% in transparency – 20 major brands scored a 0% rating. And with only 14% of brands disclosing the number of products annually, it is difficult to unravel the depths of fashion's overproduction problem.
 
