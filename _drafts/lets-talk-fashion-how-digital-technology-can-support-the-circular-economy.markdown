@@ -19,7 +19,7 @@ While climate change threatens all populations, communities in low- and middle-i
 
 <!--more-->
 
-### Algorithmic Fashion: Leveraging Artificial Intelligence
+## Algorithmic Fashion: Leveraging Artificial Intelligence
 
 Return rates are rapidly [skyrocketing](https://www.shopify.com/enterprise/ecommerce-returns#:\~:text=The%20Plague%20of%20Ecommerce%20Return%20Rates%20and%20How%20to%20Maintain%20Profitability&text=Collectively%2C%20consumers%20returned%20products%20worth,returns%20amounts%20to%20%24101%20billion.) as more people join the e-commerce space; almost 30 percent of the world’s population consists of [digital buyers](https://www.statista.com/statistics/251666/number-of-digital-buyers-worldwide/). In e-commerce environments, consumers are more likely to order multiple sizes, colors, and patterns of items to pick the best fit or purchase items only to try on without the intention of keeping them. Returned packages leave emission trails from trucks, planes, and even boats that bring things back to the seller or are rerouted to a landfill due to high processing costs.
 
