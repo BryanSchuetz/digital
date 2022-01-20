@@ -1,6 +1,11 @@
 ---
 title: 'Let’s Talk Fashion: How Digital Technology Can Support the Circular Economy'
 date: 2022-01-19 23:33:00 -05:00
+tags:
+- Climate
+- Machine Learning
+- Digital Identity
+- AI
 Author: Afua Owusu
 social-image: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
 thumbnail: "/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg"
