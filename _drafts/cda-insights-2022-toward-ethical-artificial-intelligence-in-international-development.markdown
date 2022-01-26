@@ -17,7 +17,7 @@ When we conceived the idea of research on ethics and artificial intelligence (AI
 
 Our newest CDA Insights paper explores where the development community currently stands with AI and what steps we need to take to ensure the safe and responsible use of these tools. At the heart of the paper is an adage that continues to echo throughout the development community—locally led and locally run solutions will result in better, more sustainable, and safer outcomes. The paper introduces how can do this when considering AI tools for development. Below is a snapshot of our recommendations. Click [here](https://www.dai.com/uploads/ethical-ai.pdf) to read the complete publication.
 
-Our Recommendations
+## Our Recommendations
 
 1. **Develop or adapt an ethical AI framework aligned to country-specific perceptions of ethics:** We recommend that the international development community use ethical frameworks as foundations for building AI tools — beginning with research to determine if existing ones are partially or wholly applicable to low- and middle-income countries.
 
