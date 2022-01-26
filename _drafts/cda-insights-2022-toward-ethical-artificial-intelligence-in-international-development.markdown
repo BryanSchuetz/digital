@@ -19,7 +19,7 @@ Our newest CDA Insights paper explores where the development community currently
 
 ## Our Recommendations
 
-1. **Develop or adapt an ethical AI framework aligned to country-specific perceptions of ethics:** We recommend that the international development community use ethical frameworks as foundations for building AI tools — beginning with research to determine if existing ones are partially or wholly applicable to low- and middle-income countries.
+1. **Develop or adapt an ethical AI framework aligned to country-specific perceptions of ethics:** We recommend that the international development community use ethical frameworks as foundations for building AI tools— beginning with research to determine if existing ones are partially or wholly applicable to low- and middle-income countries (LMICs).
 
 2. **Diversity data, designers, and decision-makers:** Data is often pointed to as the problem with AI, but it is not the only issue. There is a lack of diversity in the training data used to develop AI systems and in the backgrounds of people who design AI systems and decide when deployed.
 
