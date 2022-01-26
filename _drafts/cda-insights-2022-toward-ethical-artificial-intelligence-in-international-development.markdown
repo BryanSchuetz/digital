@@ -25,4 +25,4 @@ Our Recommendations
 
 3. **Develop metrics to guide ethical AI implementation in LMICs:** Frameworks are the first step, but they can only take AI ethics so far. We need clearer metrics to help AI designers and deployers determine if they are taking adequate measures to counter or mitigate AI bias.
 
-4. **Cultivate partnerships between the Global South and Global North: **Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
+4. **Cultivate partnerships between the Global South and Global North**: Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
