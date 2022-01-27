@@ -1,7 +1,7 @@
 ---
 title: 'CDA Insights 2022: Toward Ethical Artificial Intelligence in International
   Development'
-date: 2022-01-26 02:26:00 -05:00
+date: 2022-01-26 14:26:00 -05:00
 tags:
 - Digital Insights
 - AI
@@ -27,4 +27,4 @@ Our newest CDA Insights paper explores where the development community currently
 
 4. **Cultivate partnerships between the Global South and Global North**: Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
 
-While we have seen successful uses cases of AI tools in LMICs, we have also seen inadequate attention to its overall impact, effectiveness, and unintended consequences. The development sector and international donors are well-positioned to build on existing investments in digital development by investing to ensure the protection of those entering the digital world. As more communities enter the digital space, the development community must maximize the benefits of AI while mitigating its risks.
+While we have seen successful uses cases of AI tools in LMICs, we have also seen inadequate attention to its overall impact, effectiveness, and unintended consequences. The development sector and international donors are well-positioned to build on existing investments in digital development by investing to ensure the protection of those entering the digital world. As more communities enter the digital space, the development community must maximize the benefits of AI while mitigating its risks. 
