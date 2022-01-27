@@ -21,8 +21,10 @@ Our newest CDA Insights paper explores where the development community currently
 
 1. **Develop or adapt an ethical AI framework aligned to country-specific perceptions of ethics:** We recommend that the international development community use ethical frameworks as foundations for building AI tools— beginning with research to determine if existing ones are partially or wholly applicable to low- and middle-income countries (LMICs).
 
-1. **Diversity data, designers, and decision-makers:** Data is often pointed to as the problem with AI, but it is not the only issue. There is a lack of diversity in the training data used to develop AI systems and in the backgrounds of people who design AI systems and decide when deployed.
+2. **Diversity data, designers, and decision-makers:** Data is often pointed to as the problem with AI, but it is not the only issue. There is a lack of diversity in the training data used to develop AI systems and in the backgrounds of people who design AI systems and decide when deployed.
 
-1. **Develop metrics to guide ethical AI implementation in LMICs:** Frameworks are the first step, but they can only take AI ethics so far. We need clearer metrics to help AI designers and deployers determine if they are taking adequate measures to counter or mitigate AI bias.
+3. **Develop metrics to guide ethical AI implementation in LMICs:** Frameworks are the first step, but they can only take AI ethics so far. We need clearer metrics to help AI designers and deployers determine if they are taking adequate measures to counter or mitigate AI bias.
 
-1. **Cultivate partnerships between the Global South and Global North**: Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
+4. **Cultivate partnerships between the Global South and Global North**: Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
+
+While we have seen successful uses cases of AI tools in LMICs, we have also seen inadequate attention to its overall impact, effectiveness, and unintended consequences. The development sector and international donors are well-positioned to build on existing investments in digital development by investing to ensure the protection of those entering the digital world. As more communities enter the digital space, the development community must maximize the benefits of AI while mitigating its risks.
