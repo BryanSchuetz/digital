@@ -4,8 +4,7 @@ title: 'Apply Now: Digital Inclusion Challenge Seeks to Advance Skills of Women-
 date: 2022-01-27 16:45:00 -05:00
 tags:
 - Digital Inclusion
-Author: "(Jirada Phetlam)[https://www.linkedin.com/in/jirada-phetlam/?originalSubdomain=th]
-  and (Kate Heuisler)[ https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh]"
+Author: "(Jirada Phetlam)[https://www.linkedin.com/in/jirada-phetlam] and (Kate Heuisler)[https://www.linkedin.com/in/kate-heuisler-1745326]"
 social-image: "/uploads/DAA.jpg"
 thumbnail: "/uploads/DAA.jpg"
 ---
