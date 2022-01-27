@@ -1,7 +1,7 @@
 ---
 title: 'CDA Insights 2022: Toward Ethical Artificial Intelligence in International
   Development'
-date: 2022-01-26 14:26:00 -05:00
+date: 2022-01-26 02:26:00 -05:00
 tags:
 - Digital Insights
 - AI
