@@ -15,7 +15,7 @@ When we conceived the idea of research on ethics and artificial intelligence (AI
 
 <!--more-->
 
-Our newest CDA Insights paper explores where the development community currently stands with AI and what steps we need to take to ensure the safe and responsible use of these tools. At the heart of the paper is an adage that continues to echo throughout the development community—locally led and locally run solutions will result in better, more sustainable, and safer outcomes. The paper introduces how can do this when considering AI tools for development. Below is a snapshot of our recommendations. Click [here](https://www.dai.com/uploads/ethical-ai.pdf) to read the complete publication.
+Our newest CDA Insights paper explores where the development community currently stands with AI and what steps we need to take to ensure the safe and responsible use of these tools. At the heart of the paper is an adage that continues to echo throughout the development community—locally led and locally run solutions will result in better, more sustainable, and safer outcomes. The paper introduces how we can do this when considering AI tools for development. Below is a snapshot of our recommendations. Click [here](https://www.dai.com/uploads/ethical-ai.pdf) to read the complete publication.
 
 ## Our Recommendations
 
@@ -27,4 +27,4 @@ Our newest CDA Insights paper explores where the development community currently
 
 4. **Cultivate partnerships between the Global South and Global North**: Building on existing AI partnerships, especially North-South and South-South relationships, will create a community and nurture conversations that inform foundational research, data sharing, metrics, and technical assistance for governments and policymakers.
 
-While we have seen successful uses cases of AI tools in LMICs, we have also seen inadequate attention to its overall impact, effectiveness, and unintended consequences. The development sector and international donors are well-positioned to build on existing investments in digital development by investing to ensure the protection of those entering the digital world. As more communities enter the digital space, the development community must maximize the benefits of AI while mitigating its risks. 
+While we have seen successful use cases of AI tools in LMICs, we have also seen inadequate attention to its overall impact, effectiveness, and unintended consequences. The development sector and international donors are well-positioned to build on existing investments in digital development by investing to ensure the protection of those entering the digital world. As more communities enter the digital space, the development community must maximize the benefits of AI while mitigating its risks.
