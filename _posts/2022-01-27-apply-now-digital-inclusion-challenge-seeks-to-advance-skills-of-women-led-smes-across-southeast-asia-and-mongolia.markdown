@@ -29,6 +29,8 @@ Digital Frontiers seeks qualified organizations with:
 
 * Strong understanding of the local context and barriers faced by women in their target communities.
 
+![RFA 2022-01 Women's Digital Inclusion Challenge-dc5ad6.pdf](/uploads/RFA%202022-01%20Women's%20Digital%20Inclusion%20Challenge-dc5ad6.pdf)
+
 The U.S. Agency for International Development (USAID) and DAI will host a webinar to share proven strategies, and good practices in closing the gender digital divide from USAID's [WomenConnect Challenge](https://www.womenconnectchallenge.org/) and introduce the Women's Digital Inclusion Challenge on February 2, from 10–11:20 am ICT (\+07). Registration is free and open to all. [Register here](https://app.livestorm.co/usaid/addressing-southeast-asias-gender-digital-divide-good-practices-and-new-funding-opportunity).
 
 More information on the request for applications, qualifications, and how to apply can be found here. Questions are due February 11, by 5 pm EST, to [DAA_subawards@dai.com](mailto:DAA_subawards@dai.com). If you are interested in receiving updates and further communications regarding this request, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
