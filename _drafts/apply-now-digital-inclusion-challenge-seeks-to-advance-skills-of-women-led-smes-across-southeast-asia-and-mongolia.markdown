@@ -13,7 +13,7 @@ thumbnail: "/uploads/DAA.jpg"
 
 MSMEs [represent](https://www.ilo.org/empent/whatsnew/WCMS_749275/lang--en/index.htm) more than 70 percent of global employment and 50 percent of gross domestic product. With the onset of the COVID-19 pandemic, small businesses have been hit the hardest, and the gender digital divide has continued to widen. In Southeast Asia, the pandemic has disproportionally affected women-led companies due to increased unpaid domestic care duties, shrinking earnings, and decreasing access to resources due to curfews, restrictions, and lockdowns. Despite the urgent need to digitize their businesses due to the pandemic, many women-led firms don’t have access to digital skills training and digitalization support designed for them. Despite increased affordability and [70 percent](https://www.statista.com/statistics/487965/internet-penetration-in-southeast-asian-countries/) internet penetration in Southeast Asia—[11 percent](https://webfoundation.org/2020/03/the-gender-gap-in-internet-access-using-a-women-centred-method/) fewer women than men are online. Men are 21 percent more likely to be online than women—this likelihood rises to 52 percent in the world’s least developed countries. This gender [internet use gap](https://solutionscenter.nethope.org/resources/closing-the-gender-digital-divide) is due to cost, skills, time, relevance, and safety concerns. Although there are numerous models of successful digital skills training and support for women-led MSMEs in the region, many organizations focus on just one country and face funding gaps and sustainability challenges.
 
-![DAA.jpg](/uploads/DAA.jpg)`DAA partner Agile Development Group provided digital skills training and coaching support to disability support organizations and women entrepreneurs with disabilities in 2020.`
+![DAA.jpg](/uploads/DAA.jpg)`DAA partner [Agile Development Group](https://agiledg.com/) provided digital skills training and coaching support to disability support organizations and women entrepreneurs with disabilities in 2020.`
 
 To address this issue, Digital Frontiers, through DAA, has released a request for applications to fund the expansion of these successful models to other countries in Southeast Asia. As a result of this Challenge, women-led MSMEs' digital capabilities will strengthen and their ability to engage in the digital economy will increase. In addition, Challenge partners will have expanded operations to serve new MSME segments and countries across the region.
 
@@ -22,9 +22,14 @@ To address this issue, Digital Frontiers, through DAA, has released a request fo
 Digital Frontiers seeks qualified organizations with:
 
 * Proven strategies for addressing the gender digital divide that have already been successfully delivered results for women-led MSMEs in at least one [ASEAN member state](https://asean.org/about-asean/member-states/).
+
 * Relevant networks in Southeast Asia or Mongolia.
+
 * Experience in assessing the use of digital technologies and key barriers to digital adoption for MSMEs, and developing and delivering digital training support to women-led MSMEs.
+
 * Strong understanding of the local context and barriers faced by women in their target communities.
+
+![RFA 2022-01 Women's Digital Inclusion Challenge.pdf](/uploads/RFA%202022-01%20Women's%20Digital%20Inclusion%20Challenge.pdf)
 
 The U.S. Agency for International Development (USAID) and DAI will host a webinar to share proven strategies, and good practices in closing the gender digital divide from USAID's [WomenConnect Challenge](https://www.womenconnectchallenge.org/) and introduce the Women's Digital Inclusion Challenge on February 2, from 10–11:20 am ICT (\+07). Registration is free and open to all. [Register here](https://app.livestorm.co/usaid/addressing-southeast-asias-gender-digital-divide-good-practices-and-new-funding-opportunity).
 
