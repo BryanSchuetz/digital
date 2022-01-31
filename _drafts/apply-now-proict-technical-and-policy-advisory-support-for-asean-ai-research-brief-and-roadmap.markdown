@@ -53,7 +53,7 @@ DAI is looking for qualified organizations or consultants with:
 
 Questions regarding the request for applications are due February 3, 2022 at 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
-*Digital Frontiers implements USAID’s [Promoting American Approaches to ICT Policy and Regulation](https://www.usaid.gov/digital-development/pro-ict-factsheet) [(ProICT) program activity](https://www.usaid.gov/digital-development/pro-ict-factsheet). The ProICT activity, through the Digital Connectivity and Cybersecurity Partnership (DCCP), is designed to fund intensive, dedicated policy engagements to help countries adopt American models of telecommunications, internet, and ICT regulation, including promoting: *
+*Digital Frontiers implements USAID’s [Promoting American Approaches to ICT Policy and Regulation](https://www.usaid.gov/digital-development/pro-ict-factsheet) [(ProICT) program activity](https://www.usaid.gov/digital-development/pro-ict-factsheet). The ProICT activity, through the Digital Connectivity and Cybersecurity Partnership (DCCP), is designed to fund intensive, dedicated policy engagements to help countries adopt American models of telecommunications, internet, and ICT regulation, including promoting:*
 
 * *Open, interoperable, reliable, and secure internet and communications networks;*
 
