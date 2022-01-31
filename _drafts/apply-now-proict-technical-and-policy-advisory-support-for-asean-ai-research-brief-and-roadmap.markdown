@@ -3,6 +3,8 @@ title: 'Apply Now: ProICT: Technical and Policy Advisory Support for ASEAN AI Re
   Brief and Roadmap'
 date: 2022-01-31 12:51:00 -05:00
 Author: "[Jonathan Kourgialis](https://www.linkedin.com/in/jonathan-kourgialis-bbb6a150/)"
+social-image: "/uploads/fda43a06-c94d-474f-8951-95a95c71c949.png"
+thumbnail: "/uploads/fda43a06-c94d-474f-8951-95a95c71c949.png"
 ---
 
 [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ ProICT activity seeks a consultant or team of consultants to write a Research Brief and a subsequent Artificial Intelligence (AI) Roadmap for The Association of Southeast Asian Nations (ASEAN) member countries. The Research Brief and AI Roadmap will be shared at two convenings—or as required to incorporate substantive feedback and generate buy-in—and will be used to regularly and proactively solicit and incorporate input from relevant stakeholders. Proposals will be accepted from organizations/firms or independent consultants.
