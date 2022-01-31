@@ -2,6 +2,9 @@
 title: 'Apply Now: ProICT: Technical and Policy Advisory Support for ASEAN AI Research
   Brief and Roadmap'
 date: 2022-01-31 12:51:00 -05:00
+tags:
+- RFA
+- Digital
 Author: "[Jonathan Kourgialis](https://www.linkedin.com/in/jonathan-kourgialis-bbb6a150/)"
 social-image: "/uploads/fda43a06-c94d-474f-8951-95a95c71c949.png"
 thumbnail: "/uploads/fda43a06-c94d-474f-8951-95a95c71c949.png"
