@@ -38,7 +38,7 @@ DAI is looking for qualified organizations or consultants with:
 * Experience conducting client-facing projects.
 * Ability to communicate across diverse teams and cultures.
 
-The ProICT: Technical and Policy Advisory Support for ASEAN AI Research Roadmap [can be downloaded here.](/uploads/Digital%20Frontiers-RFP%202022-03%20PROICT-ASEAN%20AI-beaac2.pdf)
+The ProICT: Technical and Policy Advisory Support for ASEAN AI Research Roadmap Request for Proposals [can be downloaded here.](/uploads/Digital%20Frontiers-RFP%202022-03%20PROICT-ASEAN%20AI-beaac2.pdf)
 
 Questions regarding the request for applications are due February 3, at 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
