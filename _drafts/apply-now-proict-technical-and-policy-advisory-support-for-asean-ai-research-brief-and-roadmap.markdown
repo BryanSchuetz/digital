@@ -19,7 +19,7 @@ As part of the U.S. strategic approach to the Indo-Pacific, the U.S. Agency for 
 
 One of USAID’s projects working in the ASEAN economic pillar—ASEAN-USAID Inclusive Growth in ASEAN through Innovation, Trade, and E-Commerce (IGNITE)—promotes close collaboration with ASEAN sectoral bodies and the regional and global private sector. This project will be a close collaboration between the consultant(s), the USAID-IGNITE team, U.S. Mission for ASEAN, and technical staff in Washington, D.C.
 
-ASEAN is increasingly focused on the emergence of the Fourth Industrial Revolution (4IR). AI is one of the rapidly evolving technologies expected to impact the region’s economic outlook significantly. In light of the potential economic gains and challenges that AI can offer, ASEAN must continue to work toward building AI ecosystems that are open, inclusive, and secure. As a whole, ASEAN lacks a coordinated regional approach and response to AI. As such, the ASEAN Secretariat (ASEC) requested USG assistance to tackle two main issues that ASEAN member states (AMS) are grappling with: (1) how to train ASEAN human capital to both work with and respond to AI, (2) and how AMS can respond to labor market impacts caused by the introduction of AI systems.
+AI is one of the rapidly evolving technologies expected to impact the region’s economic outlook significantly. In light of the potential economic gains and challenges that AI can offer, ASEAN must continue to work toward building AI ecosystems that are open, inclusive, and secure. As a whole, ASEAN lacks a coordinated regional approach and response to AI. As such, the ASEAN Secretariat requested assistance to tackle two main issues that ASEAN member states are grappling with: (1) how to train people in the ASEAN region to both work with and respond to AI, (2) and how member states can respond to labor market impacts caused by the introduction of AI systems.
 
 ## Who Should Apply?
 
@@ -40,16 +40,13 @@ DAI is looking for qualified organizations or consultants with:
 
 The ProICT: Technical and Policy Advisory Support for ASEAN AI Research Roadmap [can be downloaded here.](/uploads/Digital%20Frontiers-RFP%202022-03%20PROICT-ASEAN%20AI-beaac2.pdf)
 
-Questions regarding the request for applications are due February 3, 2022 at 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+Questions regarding the request for applications are due February 3, at 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
-*Digital Frontiers implements USAID’s [Promoting American Approaches to ICT Policy and Regulation](https://www.usaid.gov/digital-development/pro-ict-factsheet) [(ProICT) program activity](https://www.usaid.gov/digital-development/pro-ict-factsheet). The ProICT activity, through the Digital Connectivity and Cybersecurity Partnership (DCCP), is designed to fund intensive, dedicated policy engagements to help countries adopt American models of telecommunications, internet, and ICT regulation, including promoting:*
+*Digital Frontiers implements USAID’s [Promoting American Approaches to ICT Policy and Regulation](https://www.usaid.gov/digital-development/pro-ict-factsheet) [(ProICT) program activity](https://www.usaid.gov/digital-development/pro-ict-factsheet). The ProICT activity, operating through the Digital Connectivity and Cybersecurity Partnership (DCCP), is designed to fund intensive, dedicated policy engagements to help countries adopt American models of telecommunications, internet, and ICT regulation, including promoting:*
 
 * *Open, interoperable, reliable, and secure internet and communications networks;*
-
 * *Multi-stakeholder models of internet governance;*
-
-* *Pro-competitive and pro-investment spectrum, telecommunications infrastructure, and regulatory policies;*
-
+* *Pro-competitive and pro-investment spectrum, telecommunications infrastructure, and regulatory policies; and*
 * *Effective approaches to advancing cybersecurity frameworks, supply chain policies, and regulation of communications networks.*
 
-*The program activity is implemented in coordination with the USAID Technology Division in the Bureau for Development, Democracy, and Innovation.*
+*The activity is implemented in coordination with the USAID Technology Division in the Bureau for Development, Democracy, and Innovation.*
