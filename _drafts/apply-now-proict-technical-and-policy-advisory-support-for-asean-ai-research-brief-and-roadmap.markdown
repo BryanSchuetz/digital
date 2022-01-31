@@ -59,4 +59,4 @@ Questions regarding the request for applications are due February 3, 2022 at 5pm
 
 * *Effective approaches to advancing cybersecurity frameworks, supply chain policies, and regulation of communications networks.*
 
-*The program activity is implemented in coordination with the USAID Technology Division in the Bureau for Development, Democracy, and Innovation.*
+*The program activity is implemented in coordination with the USAID Technology Division in the Bureau for Development, Democracy, and Innovation. *
