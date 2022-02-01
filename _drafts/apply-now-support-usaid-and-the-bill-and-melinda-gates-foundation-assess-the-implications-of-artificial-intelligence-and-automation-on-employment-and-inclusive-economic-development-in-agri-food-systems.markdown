@@ -1,5 +1,5 @@
 ---
-title: 'Apply Now: Support USAID and the Bill and Melinda Gates Foundation Assess
+title: 'Apply Now: Support USAID and the Bill and Melinda Gates Foundation to Assess
   the Implications of Artificial Intelligence and Automation on Employment and Inclusive
   Economic Development in Agri-Food Systems'
 date: 2022-02-01 11:50:00 -05:00
