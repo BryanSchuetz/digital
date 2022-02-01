@@ -5,6 +5,7 @@ tags:
 - Digital Inclusion
 - Digital Divide
 Author: Erica Behrens
+social-image: "/uploads/Global%20Forced%20Displacement.png"
 ---
 
 In a [previous post](https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html?utm_source=related-box) from March of last year, I wrote about the reality of the gender digital divide, in which I noted the difference in digital access and usage among women and men globally and the lost potential that results from this lack of access. When able to access, understand, and leverage digital tools, women are able to use these tools to better both their own economic outcomes as well as those of their families and communities. However, women are not the only group facing the reality of the digital divide. The [UN Secretary-General’s Roadmap for Digital Cooperation,](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf) a report presenting strategies for inclusive, equitable adoption of digital technologies, notes some of the many other groups affected by similar challenges, including “migrants, refugees, internally displaced persons, older persons, young people, children, persons with disabilities, rural populations, and indigenous peoples.”
