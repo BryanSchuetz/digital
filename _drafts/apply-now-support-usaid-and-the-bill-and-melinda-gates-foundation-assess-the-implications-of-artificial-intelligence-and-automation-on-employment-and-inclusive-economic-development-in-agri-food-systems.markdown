@@ -3,6 +3,9 @@ title: 'Apply Now: Support USAID and the Bill and Melinda Gates Foundation Asses
   the Implications of Artificial Intelligence and Automation on Employment and Inclusive
   Economic Development in Agri-Food Systems'
 date: 2022-02-01 11:50:00 -05:00
+tags:
+- digital agriculture
+- AI
 Author: "[Lilyana Gabriesle]( https://www.linkedin.com/in/lilyana-gabrielse-8bb40b1bb/)"
 social-image: "/uploads/agriculture%202.svg"
 thumbnail: "/uploads/agriculture%202.svg"
