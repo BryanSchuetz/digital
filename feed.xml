@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Feb 2022 11:40:42 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Feb 2022 11:40:42 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Feb 2022 11:42:59 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Feb 2022 11:42:59 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/fda43a06-c94d-474f-8951-95a95c71c949.png" medium="image" /> 
+        <title>Apply Now: ProICT Seeks Technical and Policy Advisory Support for ASEAN AI Research Brief and Roadmap</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt;’ ProICT activity seeks a consultant or team of consultants to write a research brief and a subsequent artificial intelligence (AI) roadmap for member countries of the Association of Southeast Asian Nations (ASEAN). The research brief and AI roadmap will be shared at two convenings—or as required to incorporate substantive feedback and generate buy-in—and will be used to regularly and proactively solicit and incorporate input from relevant stakeholders. Proposals will be accepted from organizations, firms, or independent consultants.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 31 Jan 2022 12:51:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/jonathan-kourgialis-bbb6a150/">Jonathan Kourgialis</a>
+</author>
+        <link>https://dai-global-digital.com/apply-now-proict-technical-and-policy-advisory-support-for-asean-ai-research-brief-and-roadmap.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-proict-technical-and-policy-advisory-support-for-asean-ai-research-brief-and-roadmap.html</guid>
+        
+        <category>RFA</category>
+        
+        <category>RFP</category>
+        
+        <category>Digital</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/DAA.jpg" medium="image" /> 
@@ -234,25 +255,6 @@
         <category>Entrepreneurship</category>
         
         <category>digital divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/251529551_3057514881152684_6929689380512171727_n.jpg" medium="image" /> 
-        <title>The AI Age Presents New Challenges in Cybersecurity</title>
-        <description>&lt;p&gt;Artificial intelligence (AI) can be used to strengthen cybersecurity by detecting cyber threats more quickly and effectively. Imagine, for instance, if embedded malware meant to disrupt a hospital system’s operation was detected within minutes of its installation, rather than after it disrupted access to electronic medical health records, delaying medical treatments? In such a scenario, the use of AI to detect a cyber-attack could literally mean life or death. Despite these benefits, the use of AI also introduces its own set of cybersecurity vulnerabilities that bad actors can exploit. For example, it can amplify the exploitation of vulnerabilities across digital systems. Additionally, the use of Internet of Things (IoT) coupled with AI will further densify the potential cyber-attack surface.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 09 Dec 2021 06:00:00 -0500</pubDate>
-        <author>Galia Nurko
-</author>
-        <link>https://dai-global-digital.com/webinar-cybersecurity-challenges-in-the-ai-age.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/webinar-cybersecurity-challenges-in-the-ai-age.html</guid>
-        
-        <category>AI</category>
-        
-        <category>Cybersecurity</category>
         
         
       </item>
