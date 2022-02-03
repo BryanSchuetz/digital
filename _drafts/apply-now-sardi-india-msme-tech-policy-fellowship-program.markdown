@@ -9,7 +9,7 @@ social-image: "/uploads/South%20Asia.png"
 thumbnail: "/uploads/South%20Asia.png"
 ---
 
-[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks.
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks. 
 
 <!--more-->
 
