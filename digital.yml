@@ -1,4 +1,16 @@
 
+- title: "Technology and Displacement: The Role of Digital Tools Among Displaced Persons"
+  pub: "Digital"
+  date: 2022-02-03
+  link: "https://dai-global-digital.com/technology-and-displacement-the-role-of-digital-tools-among-displaced-persons.html?utm_source=daidotcom"
+  summary: "In a previous post from last March, I wrote about the reality of the gender digital divide, in which I noted the difference in digital access and usage among women and men globally and the lost potential that results from women’s lack of access. When able to access, understand, and leverage digital tools, women can use these tools to better their economic outcomes and those of their families and communities.
+
+However, women are not the only group facing the reality of the digital divide. The United Nations Secretary-General’s Roadmap for Digital Cooperation, a report presenting strategies for inclusive, equitable adoption of digital technologies, notes some of the many other groups affected by similar challenges, including “migrants, refugees, internally displaced persons, older persons, young people, children, persons with disabilities, rural populations, and indigenous peoples.”"
+  tags:
+    - digital acceleration 
+    - Digital Inclusion 
+    - Digital Divide 
+
 - title: "Apply Now: Support USAID and the Bill and Melinda Gates Foundation to Assess the Implications of Artificial Intelligence and Automation on Employment and Inclusive Economic Development in Agri-Food Systems"
   pub: "Digital"
   date: 2022-02-01
@@ -248,18 +260,4 @@ Photo credit: Unsplash, Obi Onyeador"
     - COVID-19 
     - Digital Transformation 
     - Digital Insights 
-
-- title: "GIS Data: Availability and Applicability, Part 1"
-  pub: "Digital"
-  date: 2021-11-11
-  link: "https://dai-global-digital.com/gis-data-availability-and-applicability.html?utm_source=daidotcom"
-  summary: "It is an understatement to say that data are often imperfect. There are often holes, missing pieces that always seem to be precisely the required piece to cement the foundation of your carefully crafted research question. The process of massaging that research question will not be covered here, but data exploration is pivotal in discovering what is available and what is applicable, especially so when it comes to the spatial components of datasets. Hopefully, the following information will help you in the future when looking for data or deciding which spatial data to use to augment or drive your research."
-  tags:
-    - digital acceleration 
-    - GIS 
-    - Data 
-    - Raster 
-    - Remote Sensing Series 
-    - Satellite 
-    - Imagery 
 

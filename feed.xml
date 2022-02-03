@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Feb 2022 15:28:47 -0500</pubDate>
-    <lastBuildDate>Wed, 02 Feb 2022 15:28:47 -0500</lastBuildDate>
+    <pubDate>Thu, 03 Feb 2022 11:01:42 -0500</pubDate>
+    <lastBuildDate>Thu, 03 Feb 2022 11:01:42 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Global%20Forced%20Displacement.png" medium="image" /> 
+        <title>Technology and Displacement: The Role of Digital Tools Among Displaced Persons</title>
+        <description>&lt;p&gt;In a &lt;a href=&quot;https://dai-global-digital.com/in-honor-of-womens-history-month-exploring-the-gender-digital-divide.html?utm_source=related-box&quot;&gt;previous post&lt;/a&gt; from last March, I wrote about the reality of the gender digital divide, in which I noted the difference in digital access and usage among women and men globally and the lost potential that results from women’s lack of access. When able to access, understand, and leverage digital tools, women can use these tools to better their economic outcomes and those of their families and communities.&lt;/p&gt;
+
+&lt;p&gt;However, women are not the only group facing the reality of the digital divide. The &lt;a href=&quot;https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf&quot;&gt;United Nations Secretary-General’s Roadmap for Digital Cooperation,&lt;/a&gt; a report presenting strategies for inclusive, equitable adoption of digital technologies, notes some of the many other groups affected by similar challenges, including “migrants, refugees, internally displaced persons, older persons, young people, children, persons with disabilities, rural populations, and indigenous peoples.”&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Feb 2022 10:00:00 -0500</pubDate>
+        <author>Erica Behrens
+</author>
+        <link>https://dai-global-digital.com/technology-and-displacement-the-role-of-digital-tools-among-displaced-persons.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/technology-and-displacement-the-role-of-digital-tools-among-displaced-persons.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Digital Divide</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/agriculture%202.svg" medium="image" /> 
@@ -234,27 +255,6 @@
         <category>digital economy</category>
         
         <category>E-Commerce</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/MDI%20Blog%20Photo.png" medium="image" /> 
-        <title>Building Resilience Against Disinformation</title>
-        <description>&lt;p&gt;The proliferation of user-generated content enabled by improved connectivity and access to digital platforms is unlocking new economic opportunities, while also fomenting disinformation and falsehoods with potentially deleterious effects on society. Misinformation and disinformation can erode the trust and credibility of our public institutions, inflict financial harm, embolden nefarious actors, and jeopardize governance. While misinformation and disinformation are not new phenomena, the emergence of new digital platforms has enabled accelerated proliferation and reach, with implications across diverse sectors. Misinformation and disinformation can be omnipresent and not limited to politics, as they target value chains, consumers, and minority-owned businesses.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Dec 2021 13:56:00 -0500</pubDate>
-        <author><a href="https://dai-global-digital.com/authors/krista-baptista/">Krista Baptista</a>, <a href="https://dai-global-digital.com/authors/komal-bazaz-smith/">Komal Bazaz Smith</a>, and <a href="https://dai-global-digital.com/authors/priya-sethi/">Priya Sethi</a>
-</author>
-        <link>https://dai-global-digital.com/building-resilience-against-disinformation.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/building-resilience-against-disinformation.html</guid>
-        
-        <category>Disinformation</category>
-        
-        <category>Misinformation</category>
-        
-        <category>Digital Literacy</category>
         
         
       </item>
