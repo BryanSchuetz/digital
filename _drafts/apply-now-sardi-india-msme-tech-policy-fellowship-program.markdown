@@ -29,8 +29,6 @@ This activity will create sustainable change in the policy ecosystem by sponsori
 
 * Experience designing and implementing similar projects
 
-More information on qualifications and how to apply [can be downaloded here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-4e6e85.pdf)
-
-Applications are due February 21, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due February 7, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+More information on qualifications and how to apply [can be found here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-1ecbb7.pdf) Applications are due February 21, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due February 7, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
