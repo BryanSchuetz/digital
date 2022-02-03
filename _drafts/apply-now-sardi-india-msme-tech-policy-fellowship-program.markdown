@@ -9,11 +9,11 @@ social-image: "/uploads/South%20Asia.png"
 thumbnail: "/uploads/South%20Asia.png"
 ---
 
-[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ SARDI activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks.
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks.
 
 <!--more-->
 
-USAID’s [South Asia Regional Digital Initiative (SARDI)](https://www.usaid.gov/digital-development/sardi-factsheet) aims to increase the digital capacity of the private sector and civil society by strengthening their ability to engage in digital and ICT policy issues. SARDI currently implements two activities focused on digital upskilling, policy awareness and capacity-building with entrepreneurs and micro-, small and medium-sized enterprises (MSMEs) in India. The program seeks to complement these activities by ensuring MSME perspectives and challenges are incorporated in policy development.
+USAID’s [SARDI](https://www.usaid.gov/digital-development/sardi-factsheet) activity aims to increase the digital capacity of the private sector and civil society by strengthening their ability to engage in digital and ICT policy issues. SARDI currently implements two activities focused on digital upskilling, policy awareness and capacity-building with entrepreneurs and micro-, small and medium-sized enterprises (MSMEs) in India. The program seeks to complement these activities by ensuring MSME perspectives and challenges are incorporated in policy development.
 
 This activity will create sustainable change in the policy ecosystem by sponsoring digital policy-centered fellowships across a set of respected and engaged Indian think tanks. Fellows will coordinate research, create sustainable feedback loops between government and the MSME sector, hold a series of learning events, and develop public-facing policy recommendations focused on how digital policies can best support MSMEs and women-led enterprises. Fellows will research how digital policies impact MSMEs and women-led enterprises, with a particular focus on how these policies can promote inclusion for marginalized groups in the digital economy. The partner(s) will coordinate internal and external learning events throughout the year for policy fellows to showcase and discuss their research with relevant stakeholders.
 
