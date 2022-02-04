@@ -5,8 +5,8 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Feb 2022 12:38:45 -0500</pubDate>
-    <lastBuildDate>Fri, 04 Feb 2022 12:38:45 -0500</lastBuildDate>
+    <pubDate>Fri, 04 Feb 2022 12:40:18 -0500</pubDate>
+    <lastBuildDate>Fri, 04 Feb 2022 12:40:18 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -26,6 +26,25 @@
         <category>Digital Inclusion</category>
         
         <category>Digital Divide</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/South%20Asia.png" medium="image" /> 
+        <title>Apply Now: SARDI India MSME Tech Policy Fellowship Program</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt;’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Feb 2022 04:08:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/bermetkabylova/?originalSubdomain=kg">Bermet Kabylova</a>
+</author>
+        <link>https://dai-global-digital.com/apply-now-sardi-india-msme-tech-policy-fellowship-program.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-sardi-india-msme-tech-policy-fellowship-program.html</guid>
+        
+        <category>RFA</category>
+        
+        <category>MSMEs</category>
         
         
       </item>
@@ -236,25 +255,6 @@
         <category>Innovation</category>
         
         <category>Data</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Miranda%20Blog.jpg" medium="image" /> 
-        <title>The Hidden Costs of Online Shopping</title>
-        <description>&lt;p&gt;I remember when my family first got an Amazon Prime membership. At the time, I was a freshman in college living on campus with no car. A trip to the grocery store was a half-day adventure involving multiple bus rides, weaving through weekend shoppers, and then lugging all my purchases back to my room. This all changed with two-day shipping. With Amazon, everything I could possibly need or want—ranging from toiletries and groceries to textbooks and school supplies—was at my fingertips with just a few clicks and two-day delivery. My half-day quests for essentials turned into a five-minute walk to the on-campus post office.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Dec 2021 06:00:00 -0500</pubDate>
-        <author>Miranda Walls
-</author>
-        <link>https://dai-global-digital.com/the-hidden-costs-of-online-shopping.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-hidden-costs-of-online-shopping.html</guid>
-        
-        <category>digital economy</category>
-        
-        <category>E-Commerce</category>
         
         
       </item>
