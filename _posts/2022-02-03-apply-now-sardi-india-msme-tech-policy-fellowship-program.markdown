@@ -1,6 +1,6 @@
 ---
 title: 'Apply Now: SARDI India MSME Tech Policy Fellowship Program'
-date: 2022-02-03 16:08:00 -05:00
+date: 2022-02-03 04:08:00 -05:00
 tags:
 - RFA
 - MSMEs
