@@ -1,7 +1,7 @@
 ---
 title: 'WomenConnect Challenge Blog Series: Introducing Strategies for Closing the
   Gender Digital Divide'
-date: 2022-02-09 14:18:00 -05:00
+date: 2022-02-09 02:18:00 -05:00
 tags:
 - Digital Inclusion
 - Innovation
