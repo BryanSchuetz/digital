@@ -29,6 +29,6 @@ This activity will create sustainable change in the policy ecosystem by sponsori
 
 * Experience designing and implementing similar projects.
 
-The SARDI: India MSME Tech Policy Fellowship program Request for Applications [can be found here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-1ecbb7.pdf)  *Answers to questions [can be downloaded in this modification here.](/uploads/Digital%20Frontiers-RFA%202022-05%20Modification%201-2b95ed.pdf) *Applications are due **February 21** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+The SARDI: India MSME Tech Policy Fellowship program Request for Applications [can be found here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-1ecbb7.pdf)  *Answers to questions [can be downloaded in this modification here. ](/uploads/Digital%20Frontiers-RFA%202022-05%20Modification%201-2b95ed.pdf)*  Applications are due **February 21** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *SARDI, part of the Digital Connectivity and Cybersecurity Partnership, seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
