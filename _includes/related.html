@@ -37,7 +37,7 @@
           {% if post.tags contains tag %}
             {% assign got_related = true%}
             {% comment %} <!-- Show tags that match --> {% endcomment %}
-            <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url'({{ post.thumbnail | default:"/uploads/placeholder-thumb.jpg" }}');"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}?utm_source=related-box"><div class="related-item-image" style="background-image: url('{{ post.thumbnail | default:"/uploads/placeholder-thumb.jpg" }}');"></div><span class="related-item-text">{{ post.title }}</span></a></li>
             {% assign cap = cap | plus: 1 %}
             {% comment %} <!-- If one tag in a post matches a tag on the page, stop --> {% endcomment %}
             {% break %}
