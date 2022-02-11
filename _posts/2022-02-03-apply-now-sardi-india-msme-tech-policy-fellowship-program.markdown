@@ -9,7 +9,7 @@ social-image: "/uploads/South%20Asia.png"
 thumbnail: "/uploads/South%20Asia.png"
 ---
 
-[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks. 
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity seeks applications from organizations interested in arranging one-year fellowships for up to five fellows in up to five different Indian think tanks.
 
 <!--more-->
 
@@ -20,11 +20,15 @@ This activity will create sustainable change in the policy ecosystem by sponsori
 ## Who Should Apply?
 
 * Qualified organizations in India or with a presence in India.
+
 * Must have experience with digital development.
+
 * Must have experience working with the Government of India.
+
 * Experience working with MSMEs preferred.
+
 * Experience designing and implementing similar projects.
 
-More information on qualifications and how to apply [can be found here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-1ecbb7.pdf) Applications are due **February 21** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due **February 7** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). 
+The SARDI: India MSME Tech Policy Fellowship program Request for Applications [can be found here.](/uploads/Digital%20Frontiers%20RFA%202022-05-SARDI-Fellowship-1ecbb7.pdf)  *Answers to questions [can be downloaded in this modification here. ](/uploads/Digital%20Frontiers-RFA%202022-05%20Modification%201-2b95ed.pdf)*  Applications are due **February 21** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *SARDI, part of the Digital Connectivity and Cybersecurity Partnership, seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
