@@ -51,9 +51,7 @@ DAI is looking for qualified organizations or consultants with:
 
 * Ability to communicate across diverse teams and cultures.
 
-The ProICT: Technical and Policy Advisory Support for ASEAN AI Research Roadmap Request for Proposals [can be downloaded here](/uploads/Digital%20Frontiers-RFP%202022-03%20PROICT-ASEAN%20AI-e01e4d.pdf).  *Answers to questions can be downloaded in this modification here. [can be downloaded in this modification here.](/uploads/Digital%20Frontiers-RFP%202022-03%20Modification%201.pdf)*
-
-Questions regarding the request for applications are due February 3, at 5pm EST to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+The ProICT: Technical and Policy Advisory Support for ASEAN AI Research Roadmap Request for Proposals [can be downloaded here](/uploads/Digital%20Frontiers-RFP%202022-03%20PROICT-ASEAN%20AI-e01e4d.pdf).  *Answers to questions can be downloaded in this modification here. [can be downloaded in this modification here.](/uploads/Digital%20Frontiers-RFP%202022-03%20Modification%201.pdf)* If you are interested in receiving updates and further communications regarding this RFP, please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *Digital Frontiers implements USAID’s [Promoting American Approaches to ICT Policy and Regulation](https://www.usaid.gov/digital-development/pro-ict-factsheet) [(ProICT) program activity](https://www.usaid.gov/digital-development/pro-ict-factsheet). The ProICT activity, operating through the Digital Connectivity and Cybersecurity Partnership, is designed to fund intensive, dedicated policy engagements to help countries adopt American models of telecommunications, internet, and ICT regulation, including promoting:*
 
