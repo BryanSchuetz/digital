@@ -1,6 +1,8 @@
 ---
 title: 'Apply Now: Market Assessment of Guatemala’s Digital Financial Services'
 date: 2022-02-14 14:15:00 -05:00
+tags:
+- Digital Financial Services
 Author: "[Andrea Falso](https://www.linkedin.com/in/andrea-falso-99474a103/)"
 social-image: "/uploads/20181023_2.jpg"
 thumbnail: "/uploads/20181023_2.jpg"
