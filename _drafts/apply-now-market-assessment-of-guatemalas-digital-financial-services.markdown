@@ -10,6 +10,8 @@ thumbnail: "/uploads/20181023_2.jpg"
 
 Low-income and marginalized populations, especially women, are more susceptible to shocks, whether those are economic, climate or other, which could lead them to fall into poverty and sometimes migrate within or outside of their country. Oftentimes, individuals lack digital and financial literacy and skills which prevents them from using financial services to help them better deal with shocks and build their resilience and incomes. This activity will assess demand and supply side market conditions to better understand the Guatemalan customer segments’ financial needs. The partner will also develop a prototype of a new or improved financial service to target customer needs.
 
+![20181023_2.jpg](/uploads/20181023_2.jpg)
+
 ### Who Should Apply?
 
 * Organizations with demonstrated experience conducting qualitative research and analysis, writing reports, and leading interviews
