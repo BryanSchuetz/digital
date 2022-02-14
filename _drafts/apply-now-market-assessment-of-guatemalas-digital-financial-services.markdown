@@ -8,7 +8,7 @@ social-image: "/uploads/20181023_2.jpg"
 thumbnail: "/uploads/20181023_2.jpg"
 ---
 
-[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) seeks applications to assess market conditions and identify gaps and opportunities in the use of financial services in Guatemala among low-income and marginalized populations, particularly women.
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) seeks applications from firms that will assess market conditions and identify gaps and opportunities in the use of financial services in Guatemala among low-income and marginalized populations, particularly women.
 
 Low-income and marginalized populations, especially women, are more susceptible to shocks, whether economic, climate, or other, leading them to fall into poverty and sometimes migrate within or outside of their country. Often, individuals lack digital and financial literacy and skills, which prevents them from using financial services to help them better deal with shocks and build their resilience and incomes. This activity will better assess demand and supply-side market conditions to understand Guatemalan customer segments’ financial needs better. The partner will also develop a new or improved financial service prototype to target customer needs.
 
