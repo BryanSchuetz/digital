@@ -12,14 +12,21 @@ thumbnail: "/uploads/20181023_2.jpg"
 
 Low-income and marginalized populations, especially women, are more susceptible to shocks, whether economic, climate, or other, leading them to fall into poverty and sometimes migrate within or outside of their country. Often, individuals lack digital and financial literacy and skills, which prevents them from using financial services to help them better deal with shocks and build their resilience and incomes. This activity will better assess demand and supply-side market conditions to understand Guatemalan customer segments’ financial needs better. The partner will also develop a new or improved financial service prototype to target customer needs.
 
-![20181023_2.jpg](/uploads/20181023_2.jpg)
+<!--more-->
+
+![20181023_2.jpg](/uploads/20181023_2.jpg)\
+`WomenConnect Challenge Focus Group. Photo credit: Unica Mendez`
 
 ### Who Should Apply?
 
 * Organizations with demonstrated experience conducting qualitative research and analysis, writing reports, and leading interviews.
+
 * Organizations with experience working in women's financial inclusion and women-led micro, small, and medium enterprises.
+
 * Organizations with knowledge of design and implementation of women's markets propositions.
+
 * Organizations with experience in landscape studies assessing the women's market.
+
 * Organizations with experience and expertise in digital financial services.
 
 The Request for Applications [can be downloaded here](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-06%20Guatemala%20DFS%20Assessment.pdf). Applications are due **March 7,** **at 5pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the [RFA](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-06%20Guatemala%20DFS%20Assessment.pdf) are due **February 21, by 5pm** **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
