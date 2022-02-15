@@ -14,19 +14,14 @@ Low-income and marginalized populations, especially women, are more susceptible 
 
 <!--more-->
 
-![20181023_2.jpg](/uploads/20181023_2.jpg)\
-`WomenConnect Challenge Focus Group. Photo credit: Unica Mendez`
+![20181023_2.jpg](/uploads/20181023_2.jpg)`WomenConnect Challenge Focus Group. Photo: Unica Mendez.`
 
-### Who Should Apply?
+## Who Should Apply?
 
 * Organizations with demonstrated experience conducting qualitative research and analysis, writing reports, and leading interviews.
-
 * Organizations with experience working in women's financial inclusion and women-led micro, small, and medium enterprises.
-
 * Organizations with knowledge of design and implementation of women's markets propositions.
-
 * Organizations with experience in landscape studies assessing the women's market.
-
 * Organizations with experience and expertise in digital financial services.
 
 The Request for Applications [can be downloaded here](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-06%20Guatemala%20DFS%20Assessment.pdf). Applications are due **March 7,** **at 5pm ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the [RFA](https://dai-assets.s3.amazonaws.com/rfps/RFA%202022-06%20Guatemala%20DFS%20Assessment.pdf) are due **February 21, by 5pm** **ET** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
