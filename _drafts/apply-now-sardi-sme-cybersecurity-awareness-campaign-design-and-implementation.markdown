@@ -1,9 +1,15 @@
 ---
 title: 'Apply Now: SARDI SME Cybersecurity Awareness Campaign design and implementation'
 date: 2022-02-15 20:55:00 -05:00
+Author: "[Bermet Kabylova](https://www.linkedin.com/in/bermetkabylova/?originalSubdomain=kg)"
 ---
 
 [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ SARDI activity is seeking applications from organizations interested in conducting an awareness campaign for micro, small and medium enterprises (MSMEs) in Bangladesh to help them improve their personal and business-related digital hygiene.
+
+![Security.png](/uploads/Security.png)\
+`Photo credit: Pixelcreatures, Pixabay`
+
+<!--more-->
 
 [Bangladesh's Vision 2041](/uploads/vision%202021-2041.pdf) stresses the need for a continued national digitization effort to move the country toward its goal of becoming a high-income country by 2041. However, the Perspective Plan for making Vision 2041 a reality also wisely recognizes the potential dangers of digitization:
 
@@ -11,7 +17,7 @@ date: 2022-02-15 20:55:00 -05:00
 
 In response to this threat and to advance inclusive economic growth in Bangladesh, SARDI proposes to implement a cybersecurity awareness campaign explicitly aimed at micro, small, and medium enterprises (MSMEs).
 
-**Who Should Apply?**
+## Who Should Apply?
 
 * Qualified organization in Bangladesh or with presence in Bangladesh
 
@@ -22,3 +28,7 @@ In response to this threat and to advance inclusive economic growth in Banglades
 * Experience working with MSMEs preferred
 
 * Experience designing and implementing similar projects
+
+ The Request for Applications can be downloaded here. Applications are due **March 15, 2022** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due **February 24, 2022** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+
+*The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
