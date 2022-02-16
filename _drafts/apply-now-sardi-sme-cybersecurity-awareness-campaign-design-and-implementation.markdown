@@ -2,6 +2,8 @@
 title: 'Apply Now: SARDI SME Cybersecurity Awareness Campaign design and implementation'
 date: 2022-02-15 20:55:00 -05:00
 Author: "[Bermet Kabylova](https://www.linkedin.com/in/bermetkabylova/?originalSubdomain=kg)"
+social-image: "/uploads/Security.png"
+thumbnail: "/uploads/Security.png"
 ---
 
 [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ SARDI activity is seeking applications from organizations interested in conducting an awareness campaign for micro, small and medium enterprises (MSMEs) in Bangladesh to help them improve their personal and business-related digital hygiene.
