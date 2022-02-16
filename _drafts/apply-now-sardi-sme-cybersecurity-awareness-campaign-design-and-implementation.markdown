@@ -1,5 +1,5 @@
 ---
-title: 'Apply Now: SARDI SME Cybersecurity Awareness Campaign Design and Implementation'
+title: 'Apply Now: SARDI MSME Cybersecurity Awareness Campaign Design and Implementation'
 date: 2022-02-15 20:55:00 -05:00
 tags:
 - Cybersecurity
