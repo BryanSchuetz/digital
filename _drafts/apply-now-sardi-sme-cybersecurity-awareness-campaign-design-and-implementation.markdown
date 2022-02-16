@@ -9,13 +9,13 @@ social-image: "/uploads/Security.png"
 thumbnail: "/uploads/Security.png"
 ---
 
-[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity is seeking applications from organizations interested in conducting an awareness campaign for micro, small and medium enterprises (MSMEs) in Bangladesh to help them improve their personal and business-related digital hygiene.
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ South Asia Regional Digital Initiative (SARDI) activity is seeking applications from organizations interested in conducting an awareness campaign for micro, small, and medium enterprises (MSMEs) in Bangladesh to help them improve their personal and business digital hygiene.
 
 ![Security.png](/uploads/Security.png)`Photo: Pixelcreatures, Pixabay.`
 
 <!--more-->
 
-[Bangladesh's Vision 2041](/uploads/vision%202021-2041.pdf) stresses the need for a continued national digitization effort to move the country toward its goal of becoming a high-income country by 2041. However, the Perspective Plan for making Vision 2041 a reality also wisely recognizes the potential dangers of digitization:
+[Bangladesh's Vision 2041](/uploads/vision%202021-2041.pdf) stresses the need for a continued national digitization effort to move the country toward its goal of becoming a high-income country by 2041. However, Vision 2041 also wisely recognizes the potential dangers of digitization:
 
 > At the same time, the potentially powerful negative side effects of technology will need to be proactively, continuously, and adequately dealt with to ensure the economic growth is sustained and social cohesion is strengthened. Alarming phenomena such as the proliferation of fake news and control of personal data by megacorporations have to be addressed with citizen-centric regulation and mass digital literacy.
 
