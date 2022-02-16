@@ -1,0 +1,24 @@
+---
+title: 'Apply Now: SARDI SME Cybersecurity Awareness Campaign design and implementation'
+date: 2022-02-15 20:55:00 -05:00
+---
+
+[Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df)’ SARDI activity is seeking applications from organizations interested in conducting an awareness campaign for micro, small and medium enterprises (MSMEs) in Bangladesh to help them improve their personal and business-related digital hygiene.
+
+[Bangladesh's Vision 2041](/uploads/vision%202021-2041.pdf) stresses the need for a continued national digitization effort to move the country toward its goal of becoming a high-income country by 2041. However, the Perspective Plan for making Vision 2041 a reality also wisely recognizes the potential dangers of digitization:
+
+> At the same time, the potentially powerful negative side effects of technology will need to be proactively, continuously and adequately dealt with to ensure the economic growth is sustained and social cohesion is strengthened. Alarming phenomenon such as the proliferation of fake news and control of personal data by mega corporations have to be addressed with citizen-centric regulation and mass digital literacy.
+
+In response to this threat and to advance inclusive economic growth in Bangladesh, SARDI proposes to implement a cybersecurity awareness campaign explicitly aimed at micro, small, and medium enterprises (MSMEs).
+
+**Who Should Apply?**
+
+* Qualified organization in Bangladesh or with presence in Bangladesh
+
+* Must have experience with digital development
+
+* Must be able to develop project materials in English and Bengali
+
+* Experience working with MSMEs preferred
+
+* Experience designing and implementing similar projects
