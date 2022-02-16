@@ -19,13 +19,13 @@ thumbnail: "/uploads/Security.png"
 
 > At the same time, the potentially powerful negative side effects of technology will need to be proactively, continuously, and adequately dealt with to ensure the economic growth is sustained and social cohesion is strengthened. Alarming phenomena such as the proliferation of fake news and control of personal data by megacorporations have to be addressed with citizen-centric regulation and mass digital literacy.
 
-In response to this threat and to advance inclusive economic growth in Bangladesh, SARDI proposes to implement a cybersecurity awareness campaign explicitly aimed at micro, small, and medium enterprises (MSMEs).
+In response to this threat and to advance inclusive economic growth in Bangladesh, SARDI proposes to implement a cybersecurity awareness campaign explicitly aimed at MSMEs.
 
 ## Who Should Apply?
 
-* Qualified organization in Bangladesh or with presence in Bangladesh.
+* Qualified organizations in Bangladesh or with presence in Bangladesh.
 * Must have experience with digital development.
-* Must be able to develop project materials in English and Bengali.
+* Must be able to develop materials in English and Bengali.
 * Experience working with MSMEs preferred.
 * Experience designing and implementing similar projects.
 
