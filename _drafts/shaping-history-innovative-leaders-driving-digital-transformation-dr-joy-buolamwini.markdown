@@ -2,6 +2,10 @@
 title: 'Shaping History: Innovative Leaders Driving Digital Transformation  —  Dr.
   Joy Buolamwini'
 date: 2022-02-17 08:16:00 -05:00
+tags:
+- Innovation
+- AI
+- Shaping History Series
 Author: Inta Plostins
 social-image: "/uploads/1579368606627.jfif"
 thumbnail: "/uploads/1579368606627.jfif"
