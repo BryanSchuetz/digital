@@ -22,7 +22,7 @@ In addition to her academic work, Dr. Buolamwini is an artist – specifically a
 ![poet of code.jpg](/uploads/poet%20of%20code.jpg)\
 `Photo Credit: Megan Smith (former Chief Technology Officer of the USA), AJL.org.`
 
-## Implications of Dr. Buolamwini's work for international development 
+## Implications of Dr. Buolamwini's work for international development
 
 Dr. Buolamwini’s work has multiple potential applications to and implications for the international development sector. A few initial thoughts:
 
