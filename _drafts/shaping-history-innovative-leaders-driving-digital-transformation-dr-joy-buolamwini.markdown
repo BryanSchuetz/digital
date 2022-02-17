@@ -1,6 +1,6 @@
 ---
-title: 'Shaping History Series: Innovative Leaders Driving Digital Transformation
-  — Dr. Joy Buolamwini'
+title: 'Shaping History Series: Innovative Leaders Driving Digital Transformation—Dr.
+  Joy Buolamwini'
 date: 2022-02-17 08:16:00 -05:00
 tags:
 - Innovation
