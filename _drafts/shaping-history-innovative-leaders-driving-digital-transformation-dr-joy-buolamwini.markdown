@@ -3,8 +3,8 @@ title: 'Shaping History: Innovative Leaders Driving Digital Transformation  — 
   Joy Buolamwini'
 date: 2022-02-17 08:16:00 -05:00
 Author: Inta Plostins
-social-image: "/uploads/poet%20of%20code.jpg"
-thumbnail: "/uploads/poet%20of%20code.jpg"
+social-image: "/uploads/1579368606627.jfif"
+thumbnail: "/uploads/1579368606627.jfif"
 ---
 
 Aligned with the Center for Digital Acceleration’s commitment to fostering equity and inclusion within our team and the broader international development sector, Digital @ DAI is launching our new blog series during Black History Month called Shaping History: Innovative Leaders Driving Digital Transformation. The series aims to spotlight racially diverse leaders in the tech space at home and in the countries where we work and discuss their work implications for the international development field. Without further ado, onto our first profile — Dr. Joy Buolamwini.
