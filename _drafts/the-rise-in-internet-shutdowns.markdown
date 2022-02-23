@@ -1,6 +1,10 @@
 ---
 title: The Rise in Internet Shutdowns
 date: 2022-02-22 17:12:00 -05:00
+tags:
+- Digital Repression
+- digital justice
+- Governance
 Author: "[Connor Mackenzie](https://www.linkedin.com/in/connor-mackenzie/)"
 social-image: "/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg"
 thumbnail: "/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg"
