@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Feb 2022 10:15:48 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Feb 2022 10:15:48 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Feb 2022 10:48:59 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Feb 2022 10:48:59 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg" medium="image" /> 
+        <title>The Rise in Internet Shutdowns</title>
+        <description>&lt;p&gt;Recently, a snowstorm knocked out the internet connection at my apartment. While I could still communicate with others from my cellphone and use 4G to check Twitter for outage updates, the temporary inconvenience highlighted how dependent my life is on reliable internet access and how vulnerable our day-to-day lives are when that access is unexpectedly taken away. For many individuals, especially those in countries with authoritarian governments, unanticipated internet shutdowns have become increasingly common.&lt;/p&gt;
+
+&lt;p&gt;The technical &lt;a href=&quot;https://www.trtworld.com/magazine/explained-how-do-internet-shutdowns-work-44212&quot;&gt;definition&lt;/a&gt; for an internet shutdown is when a government or nonstate actor intentionally disrupts access to the internet or certain platforms for a specific population or entire location to exert control over information. In 2020, Access Now’s Shutdown Tracker Optimization Project collected &lt;a href=&quot;https://www.accessnow.org/keepiton/&quot;&gt;information&lt;/a&gt; on 155 reported instances of an internet shutdown, a significant increase from the 56 reported instances in 2016. As internet access has become more ingrained in a society’s ability to communicate, organize, and function, political leaders have increasingly leveraged their control of this resource to stifle dissent and reassert control.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Feb 2022 17:12:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/connor-mackenzie/">Connor Mackenzie</a>
+</author>
+        <link>https://dai-global-digital.com/the-rise-in-internet-shutdowns.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-rise-in-internet-shutdowns.html</guid>
+        
+        <category>Digital Repression</category>
+        
+        <category>digital justice</category>
+        
+        <category>Governance</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/1579368606627.jfif" medium="image" /> 
@@ -192,27 +215,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/apply-now-digital-inclusion-challenge-seeks-to-advance-skills-of-women-led-smes-across-southeast-asia-and-mongolia.html</guid>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screenshot%202022-01-26%20143227.png" medium="image" /> 
-        <title>CDA Insights 2022: Toward Ethical Artificial Intelligence in International Development</title>
-        <description>&lt;p&gt;When we conceived the idea of research on ethics and artificial intelligence (AI), we were—and still are—inundated with news about the detrimental impacts of AI from around the globe. Concerns about facial recognition technologies making false identifications and discriminatory hiring tools were amongst the many themes and headlines we saw. DAI’s Center for Digital Acceleration does its best to stay updated with the latest trends in technology and recognizes the benefits of automation and AI. However, these recent disturbing trends made it clear that the development sector needs to exercise greater caution when building and applying AI tools. AI is being adopted quickly in development, and we must act to prevent the adverse effects of these tools in the communities we work alongside.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 26 Jan 2022 14:26:00 -0500</pubDate>
-        <author>Gratiana Fu
-</author>
-        <link>https://dai-global-digital.com/cda-insights-2022-toward-ethical-artificial-intelligence-in-international-development.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/cda-insights-2022-toward-ethical-artificial-intelligence-in-international-development.html</guid>
-        
-        <category>Digital Insights</category>
-        
-        <category>AI</category>
-        
-        <category>AI Bias</category>
         
         
       </item>
