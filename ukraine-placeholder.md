@@ -1,6 +1,6 @@
 ---
 title: Placeholder Page
-permalink: "/placeholder"
+permalink: "/ukraine-placeholder"
 redirect_from:
 - "/cybersecurity-lessons-from-ukraine.html"
 ---
