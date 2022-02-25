@@ -27,7 +27,9 @@ Digital Frontiers has released a [request for applications (RFA)](https://drive.
 DAI is looking for qualified organizations with:
 
 * Experience in AI and ML relevant to the agriculture sector in developing country contexts.
+
 * Regional or country experience in USAID Feed the Future [priority countries](https://www.usaid.gov/what-we-do/agriculture-and-food-security/increasing-food-security-through-feed-future) and BMGF focus regions.
+
 * Prior experience successfully implementing assessments and providing practical guidance and recommendations.
 
-More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1WdY-OrwioKexu2201-zgQ8-8Cnqmj4ct/view?usp=sharing). Applications are due **March 3** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the [RFA](https://drive.google.com/file/d/1WdY-OrwioKexu2201-zgQ8-8Cnqmj4ct/view?usp=sharing) are due **February 17** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
+More information on qualifications and how to apply can be found [here](https://drive.google.com/file/d/1WdY-OrwioKexu2201-zgQ8-8Cnqmj4ct/view?usp=sharing) (RFA) and [here](https://drive.google.com/file/d/1uS49ly9uJyBh7DZvyTPrEwGqIzjw0uW6/view?usp=sharing) (RFA Modification 1: Q&A). Applications are due **March 14** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the [RFA](https://drive.google.com/file/d/1WdY-OrwioKexu2201-zgQ8-8Cnqmj4ct/view?usp=sharing) are due **February 17** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
