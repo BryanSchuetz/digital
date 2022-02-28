@@ -23,7 +23,7 @@ In response to this threat and to advance inclusive economic growth in Banglades
 
 ## Who Should Apply?
 
-* Qualified organizations in Bangladesh or with presence in Bangladesh.
+* Organizations or consortia with a significant presence in Bangladesh 
 
 * Must have experience with digital development.
 
@@ -35,4 +35,4 @@ In response to this threat and to advance inclusive economic growth in Banglades
 
 SARDI SME Cybersecurity Awareness Campaign design and implementation Request for Applications (RFA) [can be downloaded here.](/uploads/RFA%202022-07%20Modification%2001-7f13ac.pdf) Applications are due **March 15** to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Please kindly be informed that the due date for questions and clarifications was extended to March 4, 2022, 5pm EST. Looking forward to receiving your questions!
 
-*SARDI, part of the Digital Connectivity and Cybersecurity Partnership, seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners so that they can better participate in, and benefit from, the digital revolution. *
+\*SARDI, part of the Digital Connectivity and Cybersecurity Partnership, seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners so that they can better participate in, and benefit from, the digital revolution. \*
