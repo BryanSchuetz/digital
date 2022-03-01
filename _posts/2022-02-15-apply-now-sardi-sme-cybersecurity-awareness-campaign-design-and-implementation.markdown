@@ -23,7 +23,7 @@ In response to this threat and to advance inclusive economic growth in Banglades
 
 ## Who Should Apply?
 
-* Organizations or consortia with a significant presence in Bangladesh 
+* Organizations or consortia with a significant presence in Bangladesh
 
 * Must have experience with digital development.
 
