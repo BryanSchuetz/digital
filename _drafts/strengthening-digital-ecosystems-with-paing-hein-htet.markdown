@@ -1,5 +1,5 @@
 ---
-title: 'Q&A with Paing Hein Htet: Strengthening Digital Ecosystems'
+title: 'Digital Innovator Series: Paing Hein Htet on Strengthening Digital Ecosystems'
 date: 2022-03-09 00:04:00 -05:00
 tags:
 - Digital Innovator Series
