@@ -16,21 +16,21 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 <!--more-->
 
-**KATE: Hi Paing! First, tell our Digital@DAI audience about you.**
+**Q: Hi Paing! First, tell our Digital@DAI audience about you.**
 
-PAING: I tend to see myself as an ecosystem builder who has been on both sides of the table—I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience.
+"I tend to see myself as an ecosystem builder who has been on both sides of the table—I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience."
 
 ![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)`In Taunggyi, the third-largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`
 
-**Myanmar’s digital ecosystem experience unprecedented growth in 2014. What was your experience with the digital ecosystem during that time, and what did you see from the inside?**
+**Q: Myanmar’s digital ecosystem experience unprecedented growth in 2014. What was your experience with the digital ecosystem during that time, and what did you see from the inside?**
 
-I was fortunate to witness the growth firsthand. A fair comparison would be what we currently see in Cambodia and the Pacific Islands, where the internet and digital penetration increased rapidly within a short timeframe. In Myanmar, before 2012-2013, a sim card was $1,500. With the liberalization of the telecom sector in 2014, the sim card price went down to $1-2. Next, the country moved from almost no penetration to 20 to 30 million people having mobile and internet coverage within two to three years.
+"I was fortunate to witness the growth firsthand. A fair comparison would be what we currently see in Cambodia and the Pacific Islands, where the internet and digital penetration increased rapidly within a short timeframe. In Myanmar, before 2012-2013, a sim card was $1,500. With the liberalization of the telecom sector in 2014, the sim card price went down to $1-2. Next, the country moved from almost no penetration to 20 to 30 million people having mobile and internet coverage within two to three years.
 
-The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar](https://en.wikipedia.org/wiki/Phandeeyar) space—a local tech hub that emerged in 2014.
+"The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar](https://en.wikipedia.org/wiki/Phandeeyar) space—a local tech hub that emerged in 2014.
 
-*Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something.
+"*Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like mine were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something.
 
-*Drawback:* After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high *churn* rate. This highlights that a booming ecosystem is required to make sure startups can thrive. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
+"*Drawback:* After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high *churn* rate. This highlights that a booming ecosystem is required to make sure startups can thrive. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
 
 *Maturity:* In late 2019, the startup scene was dominated by more established startups, experienced entrepreneurs, and "startups" with backing from notable brands. Interest from Development Finance Institutions (DFIs) and private equity and venture capital firms brought $300 million in investments to accelerate the startups and businesses for the following 10 years.
 
