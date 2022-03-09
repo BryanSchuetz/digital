@@ -5,7 +5,7 @@ tags:
 - Digital Innovator Series
 - Economic Growth
 - COVID-19
-- Entrepreneurship
+- Digital Ecosystems
 Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh)"
 ---
 
