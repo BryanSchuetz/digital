@@ -8,6 +8,8 @@ tags:
 - Innovation
 - Entrepreneurship
 Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh)"
+social-image: "/uploads/InnovationBus2.JPG"
+thumbnail: "/uploads/InnovationBus2.JPG"
 ---
 
 *Paing Hein Htet is a startup enthusiast and ecosystem builder from Myanmar. Paing has been working with innovators and startups across Myanmar for eight years, first by running fashion commerce and artificial intelligence startups, then through work in digital service design, and now as an investor. We recently spoke to Paing on strengthening digital ecosystems, the current state of entrepreneurial communities in South East Asia, and much more. This is an excerpt from that interview.*
