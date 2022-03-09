@@ -1,6 +1,12 @@
 ---
 title: Strengthening Digital Ecosystems with Paing Hein Htet
 date: 2022-03-09 00:04:00 -05:00
+tags:
+- Digital Innovator Series
+- Economic Growth
+- COVID-19
+- Entrepreneurship
+Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh)"
 ---
 
 *Paing Hein Htet is a startup enthusiast and ecosystem builder from Myanmar. Paing has been working with innovators and startups across Myanmar for eight years, first by running fashion commerce and artificial intelligence startups, and then through work in digital service design, and now as an investor. We recently spoke to Paing on strengthening digital ecosystems, the current state of entrepreneurial communities in South East Asia, and much more. This is an excerpt from that interview.*
@@ -17,7 +23,7 @@ I was fortunate to witness the growth firsthand. A fair comparison would be what
 
 The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar ](https://en.wikipedia.org/wiki/Phandeeyar)space—a local tech hub that emerged in 2014.
 
-**Booming: **In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something. A physical visit \[to Phandeeyar\] would easily draw freshly minted name cards labeled with inspiring titles and attention-catching startup names.
+\*\*Booming: \*\*In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something. A physical visit \[to Phandeeyar\] would easily draw freshly minted name cards labeled with inspiring titles and attention-catching startup names.
 
 **Drawback**: After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high *churn* rate. This highlights that a booming ecosystem is required to make sure startups can thrive. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
 
@@ -44,3 +50,5 @@ Suppose there is a practical, success-focused narrative. In that case, actors ac
 **And on the flip side, what are the gaps you see right now? How could ecosystem supporters fill these gaps?**
 
 Myanmar's digital ecosystem is back to day one, where survival is the most important thing as of now. However, the responsibilities of running a business have heightened, and there is increased demand for responsible business, accountability, and adaptability. Post-pandemic, I encourage ecosystem supporters to look at the regional gaps rather than singular gaps in one country. Business operations have shifted dramatically, and border restrictions have changed since the pandemic. For example, a startup in Myanmar could have a technical team based in Bangkok and serve customers in Sri Lanka. With more regional linkages and support to localizing lessons learned in new countries, development partners could be having a regional impact on a larger scale and contribute to the growth of individual digital economies at the same time. Finally, it is critical to support all the fundamental pillars of the ecosystem as it grows: digital rights, digital hygiene, and literacy.
+
+\[Kate Heuisler\](https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh)
