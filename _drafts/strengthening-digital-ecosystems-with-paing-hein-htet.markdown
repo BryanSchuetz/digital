@@ -26,7 +26,7 @@ PAING: I tend to see myself as an ecosystem builder who has been on both sides o
 
 I was fortunate to witness the growth firsthand. A fair comparison would be what we currently see in Cambodia and the Pacific Islands, where the internet and digital penetration increased rapidly within a short timeframe. In Myanmar, before 2012-2013, a sim card was $1,500. With the liberalization of the telecom sector in 2014, the sim card price went down to $1-2. Next, the country moved from almost no penetration to 20 to 30 million people having mobile and internet coverage within two to three years.
 
-The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar ](https://en.wikipedia.org/wiki/Phandeeyar)space—a local tech hub that emerged in 2014.
+The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar](https://en.wikipedia.org/wiki/Phandeeyar) space—a local tech hub that emerged in 2014.
 
 *Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something.
 
