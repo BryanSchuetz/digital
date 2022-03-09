@@ -16,7 +16,7 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 <!--more-->
 
-**Q: Hi Paing! First, tell our Digital@DAI audience about you.**
+**Q: Hi Paing! First, tell our audience about yourself.**
 
 "I tend to see myself as an ecosystem builder who has been on both sides of the table—I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience."
 
