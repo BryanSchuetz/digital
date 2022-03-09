@@ -23,7 +23,7 @@ I was fortunate to witness the growth firsthand. A fair comparison would be what
 
 The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar ](https://en.wikipedia.org/wiki/Phandeeyar)space—a local tech hub that emerged in 2014.
 
-*Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something. A physical visit \[to Phandeeyar\] would easily draw freshly minted name cards labeled with inspiring titles and attention-catching startup names.
+*Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like me were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something.
 
 *Drawback:* After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high *churn* rate. This highlights that a booming ecosystem is required to make sure startups can thrive. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
 
@@ -35,7 +35,10 @@ These developments need to be complemented by focusing on digital literacy, secu
 
 I remember early 2020 clearly; I was wrapping up the [Mandalay Business Challenge](https://mpevca.org/phandeeyar-hosted-mandalay-business-challenge-2020-in-mandalay/). Little did I know that would be the last sizeable physical event that I would lead for a while. This was also around the same time when Food Panda \[the delivery startup\] launched its operations in Myanmar. Once COVID hit, the entrepreneurial communities shifted into a new landscape. On the one hand, we had major players like Telco and Wave Money \[a bank-backed tech giant and mobile money lender\] negotiating for a US$76 million round of investment —similar to Wing in Cambodia.
 
-On the other hand, less fortunate startups closed because their business models focused on in-person activities. The entrepreneurial community was paralyzed during the onset of the pandemic, but after a few months, entrepreneurs quickly adopted a new way to do business and survive. With support from DFIs, the Government was planning to take steps to accelerate the digital ecosystem. Businesses were identifying new ways to do work and the end users were taking a *second* digital leapfrog step.
+![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)\
+*`Paing participated in a Business Challenge in Mandalay, Myanmar’s 2nd largest city, to help entrepreneurs refine their financial models and business plans.`*
+
+On the other hand, less fortunate startups closed because their business models focused on in-person activities. The entrepreneurial community was paralyzed during the onset of the pandemic, but after a few months, entrepreneurs quickly adopted a new way to do business and survive. With support from DFIs, the Government was planning to take steps to accelerate the digital ecosystem. Businesses were identifying new ways to do work and end users were leapfrogging digital technology for a second time.
 
 **So, what specific startups have been most successful in the last two years? What contributed to that success?**
 
