@@ -42,7 +42,7 @@ These developments need to be complemented by focusing on digital literacy, secu
 I remember early 2020 clearly; I was wrapping up the [Mandalay Business Challenge](https://mpevca.org/phandeeyar-hosted-mandalay-business-challenge-2020-in-mandalay/). Little did I know that would be the last sizeable physical event that I would lead for a while. This was also around the same time when Food Panda \[the delivery startup\] launched its operations in Myanmar. Once COVID hit, the entrepreneurial communities shifted into a new landscape. On the one hand, we had major players like Telco and Wave Money \[a bank-backed tech giant and mobile money lender\] negotiating for a US$76 million round of investment —similar to Wing in Cambodia.
 
 ![BusinessChallenge.jpg](/uploads/BusinessChallenge.jpg)
-`Paing participated in a Business Challenge in Mandalay, Myanmar’s 2nd largest city, to help entrepreneurs refine their financial models and business plans.`
+*`Paing participated in a Business Challenge in Mandalay, Myanmar’s 2nd largest city, to help entrepreneurs refine their financial models and business plans.`*
 
 On the other hand, less fortunate startups closed because their business models focused on in-person activities. The entrepreneurial community was paralyzed during the onset of the pandemic, but after a few months, entrepreneurs quickly adopted a new way to do business and survive. With support from DFIs, the Government was planning to take steps to accelerate the digital ecosystem. Businesses were identifying new ways to do work and end users were leapfrogging digital technology for a second time.
 
