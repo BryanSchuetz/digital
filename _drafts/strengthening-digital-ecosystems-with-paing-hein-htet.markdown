@@ -20,11 +20,11 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 PAING: I tend to see myself as an ecosystem builder who has been on both sides of the table—I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience.
 
-![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)`In Taunggyi, the 3rd largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`
+![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)`In Taunggyi, the third-largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`
 
 **Myanmar’s digital ecosystem experience unprecedented growth in 2014. What was your experience with the digital ecosystem during that time, and what did you see from the inside?**
 
-I was fortunate to witness the growth firsthand. A fair comparison would be what we currently see in Cambodia and the Pacific Islands, where the internet and digital penetration increased rapidly within a short timeframe. In Myanmar, before 2012-2013, a sim card was US$1,500. With the liberalization of the telecom sector in 2014, the sim card price went down to US$1 - 2. Next, the country moved from almost no penetration to 20 to 30 million people having mobile and internet coverage within 2-3 years.
+I was fortunate to witness the growth firsthand. A fair comparison would be what we currently see in Cambodia and the Pacific Islands, where the internet and digital penetration increased rapidly within a short timeframe. In Myanmar, before 2012-2013, a sim card was $1,500. With the liberalization of the telecom sector in 2014, the sim card price went down to $1-2. Next, the country moved from almost no penetration to 20 to 30 million people having mobile and internet coverage within two to three years.
 
 The growth cycle could be divided into three segments: booming, drawback, and maturity. I witnessed these phases physically through my involvement in the [Phandeeyar ](https://en.wikipedia.org/wiki/Phandeeyar)space—a local tech hub that emerged in 2014.
 
