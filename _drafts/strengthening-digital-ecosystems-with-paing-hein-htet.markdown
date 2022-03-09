@@ -5,7 +5,8 @@ tags:
 - Digital Innovator Series
 - Economic Growth
 - COVID-19
-- Digital Ecosystems
+- Innovation
+- Entrepreneurship
 Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/?originalSubdomain=kh)"
 ---
 
@@ -16,6 +17,9 @@ Author: "[Kate Heuisler](https://www.linkedin.com/in/kate-heuisler-1745326/?orig
 **KATE: Hi Paing! First, tell our Digital@DAI audience about you. What is your story?**
 
 PAING: I tend to see myself as an ecosystem builder who has been on both sides of the table —I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience.
+
+![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)\
+*`In Taunggyi, the 3rd largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`*
 
 **Myanmar’s digital ecosystem experience unprecedented growth in 2014. What was your experience with the digital ecosystem during that time, and what did you see from the inside?**
 
@@ -35,8 +39,8 @@ These developments need to be complemented by focusing on digital literacy, secu
 
 I remember early 2020 clearly; I was wrapping up the [Mandalay Business Challenge](https://mpevca.org/phandeeyar-hosted-mandalay-business-challenge-2020-in-mandalay/). Little did I know that would be the last sizeable physical event that I would lead for a while. This was also around the same time when Food Panda \[the delivery startup\] launched its operations in Myanmar. Once COVID hit, the entrepreneurial communities shifted into a new landscape. On the one hand, we had major players like Telco and Wave Money \[a bank-backed tech giant and mobile money lender\] negotiating for a US$76 million round of investment —similar to Wing in Cambodia.
 
-![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)\
-*`Paing participated in a Business Challenge in Mandalay, Myanmar’s 2nd largest city, to help entrepreneurs refine their financial models and business plans.`*
+![BusinessChallenge.jpg](/uploads/BusinessChallenge.jpg)
+`Paing participated in a Business Challenge in Mandalay, Myanmar’s 2nd largest city, to help entrepreneurs refine their financial models and business plans.`
 
 On the other hand, less fortunate startups closed because their business models focused on in-person activities. The entrepreneurial community was paralyzed during the onset of the pandemic, but after a few months, entrepreneurs quickly adopted a new way to do business and survive. With support from DFIs, the Government was planning to take steps to accelerate the digital ecosystem. Businesses were identifying new ways to do work and end users were leapfrogging digital technology for a second time.
 
