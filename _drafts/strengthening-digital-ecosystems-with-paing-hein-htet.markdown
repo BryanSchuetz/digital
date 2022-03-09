@@ -12,16 +12,15 @@ social-image: "/uploads/InnovationBus2.JPG"
 thumbnail: "/uploads/InnovationBus2.JPG"
 ---
 
-*Paing Hein Htet is a startup enthusiast and ecosystem builder from Myanmar. Paing has been working with innovators and startups across Myanmar for eight years, first by running fashion commerce and artificial intelligence startups, then through work in digital service design, and now as an investor. We recently spoke to Paing on strengthening digital ecosystems, the current state of entrepreneurial communities in South East Asia, and much more. This is an excerpt from that interview.*
+*Paing Hein Htet is a startup enthusiast and ecosystem builder from Myanmar. Paing has been working with innovators and startups across Myanmar for eight years, first by running fashion commerce and artificial intelligence startups, then through work in digital service design, and now as an investor. We recently spoke to Paing on strengthening digital ecosystems, the current state of entrepreneurial communities in Southeast Asia, and much more. This is an excerpt from that interview.*
 
 <!--more-->
 
-**KATE: Hi Paing! First, tell our Digital@DAI audience about you. What is your story?**
+**KATE: Hi Paing! First, tell our Digital@DAI audience about you.**
 
-PAING: I tend to see myself as an ecosystem builder who has been on both sides of the table —I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience.
+PAING: I tend to see myself as an ecosystem builder who has been on both sides of the table—I invest and build startups, and I have an educational background in poverty and development. This puts me in a position where I can work across multiple disciplines and understand the holistic aspect of ecosystem building because it’s never a singular, linear experience.
 
-![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)\
-*`In Taunggyi, the 3rd largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`*
+![InnovationBus2.JPG](/uploads/InnovationBus2.JPG)`In Taunggyi, the 3rd largest city, Paing helped train crowds of university students to improve their entrepreneurship and digital skills.`
 
 **Myanmar’s digital ecosystem experience unprecedented growth in 2014. What was your experience with the digital ecosystem during that time, and what did you see from the inside?**
 
