@@ -1,5 +1,6 @@
 ---
-title: 'Digital Innovator Series: Paing Hein Htet on  Entrepreneurship Ecosystems'
+title: 'Digital Innovator Series: Discussing Entrepreneurship Ecosystems with Paing
+  Hein Htet'
 date: 2022-03-09 00:04:00 -05:00
 tags:
 - Digital Innovator Series
@@ -14,7 +15,7 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 *Paing Hein Htet is a startup enthusiast and ecosystem builder from Myanmar. Paing has been working with innovators and startups across Myanmar for eight years, first by running fashion commerce and artificial intelligence startups, then through work in digital service design, and now as an investor. We recently spoke to Paing on strengthening digital ecosystems, the current state of entrepreneurial communities in Southeast Asia, and much more. This is an excerpt from that interview.*
 
-<!--more-->
+<!--more--> 
 
 **Q: Hi Paing! First, tell our audience about yourself.**
 
