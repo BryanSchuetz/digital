@@ -1,5 +1,5 @@
 ---
-title: 'Digital Innovator Series: Paing Hein Htet on Strengthening Digital Ecosystems'
+title: 'Digital Innovator Series: Paing Hein Htet on  Entrepreneurship Ecosystems'
 date: 2022-03-09 00:04:00 -05:00
 tags:
 - Digital Innovator Series
@@ -30,7 +30,7 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 "*Booming:* In the early days, opportunities seemed limitless, and the population and foreign interests were drawn in. Simultaneously, startups like mine were visiting Phandeeyar, where big names from the tech industry in the region would regularly visit and deliver seminars. The audience was young, excited and everyone seemed to be building something.
 
-"*Drawback:* After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high churn rate. This highlights that a booming ecosystem is required to make sure startups can thrive. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
+"*Drawback:* After a few years, the growth slowed. In 2017, there were around 150-200 active startups—that number did not increase much by 2019. One compelling hypothesis is that it’s challenging to build startups in a booming ecosystem and that this challenge results in a high churn rate. In Phandeeyar’s space, the slowdown resulted in fewer newcomers with already close-knit communities.
 
 "*Maturity:* In late 2019, the startup scene was dominated by more established startups, experienced entrepreneurs, and "startups" with backing from notable brands. Interest from development finance institutions and private equity and venture capital firms brought $300 million in investments to accelerate the startups and businesses for the following 10 years.
 
@@ -38,15 +38,15 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 **Q: Many entrepreneurial communities across Southeast Asia suffered setbacks during the pandemic. How did it work in Myanmar?**
 
-"I remember early 2020 clearly; I was wrapping up the [Mandalay Business Challenge](https://mpevca.org/phandeeyar-hosted-mandalay-business-challenge-2020-in-mandalay/). Little did I know that would be the last sizeable physical event that I would lead for a while. This was also around the same time when Food Panda [the delivery startup] launched its operations in Myanmar. Once COVID hit, the entrepreneurial communities shifted into a new landscape. On the one hand, we had major players like Telco and Wave Money [a bank-backed tech giant and mobile money lender] negotiating for a $76 million round of investment—similar to Wing in Cambodia."
+"I remember early 2020 clearly; I was wrapping up the [Mandalay Business Challenge](https://mpevca.org/phandeeyar-hosted-mandalay-business-challenge-2020-in-mandalay/). Little did I know that would be the last sizeable physical event that I would lead for a while. This was also around the same time when Food Panda \[the delivery startup\] launched its operations in Myanmar. Once COVID hit, the entrepreneurial communities shifted into a new landscape. On the one hand, we had major players like Telco and Wave Money \[a bank-backed tech giant and mobile money lender\] negotiating for a $76 million round of investment—similar to Wing in Cambodia."
 
-![BusinessChallenge.jpg](/uploads/BusinessChallenge.jpg)`Paing participated in a Business Challenge in Mandalay, Myanmar’s second-largest city, to help entrepreneurs refine their financial models and business plans.`
+![BusinessChallenge-c142e7.jpg](/uploads/BusinessChallenge-c142e7.jpg)`Paing participated in a Business Challenge in Mandalay, Myanmar’s second-largest city, to help entrepreneurs refine their financial models and business plans.`
 
 "On the other hand, less fortunate startups closed because their business models focused on in-person activities. The entrepreneurial community was paralyzed during the onset of the pandemic, but after a few months, entrepreneurs quickly adopted a new way to do business and survive. With support from development finance institutions, the government was planning to take steps to accelerate the digital ecosystem. Businesses were identifying new ways to do work and end-users were leapfrogging digital technology for a second time."
 
 **Q: So, what specific startups have been most successful in the last two years? What contributed to that success?**
 
-"Over the last two years, most successful startups progressed either because their fundamentals are strong or they were in the right sector. Major platforms and digital players backed by telcos and regional players [Wave Money, Food Panda, Grab, KBZ Pay, Shop.com.mm] thrived. Simultaneously, in Myanmar, organic startups like Kyarlay—e-commerce for baby products, CarsDB—a car listing platform, and BetterHR—started to grow. From a market fundamentals position, these startups were in a necessity segment, sustaining the demand from the consumers. With conservative business planning and cash flow scrutiny, these startups could maintain a runway that would allow them to keep operating while giving them room to experiment and grow."
+"Over the last two years, most successful startups progressed either because their fundamentals are strong or they were in the right sector. Major platforms and digital players backed by telcos and regional players \[Wave Money, Food Panda, Grab, KBZ Pay, Shop.com.mm\] thrived. Simultaneously, in Myanmar, organic startups like Kyarlay—e-commerce for baby products, CarsDB—a car listing platform, and BetterHR—started to grow. From a market fundamentals position, these startups were in a necessity segment, sustaining the demand from the consumers. With conservative business planning and cash flow scrutiny, these startups could maintain a runway that would allow them to keep operating while giving them room to experiment and grow."
 
 **Q: I talk to people a lot about effectively supporting the growth of inclusive digital economies. What advice do you have for development partners who want to support digital ecosystems like the one you see in Myanmar? What is working?**
 
