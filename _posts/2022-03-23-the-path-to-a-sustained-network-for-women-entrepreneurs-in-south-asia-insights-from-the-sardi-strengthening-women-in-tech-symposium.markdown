@@ -40,6 +40,7 @@ Informed by this research, the symposium hosted an “Activity Deconstruction”
 </blockquote>
 </aside>
 
+
 ## What’s Next
 
 Leveraging our extensive network, the [Strengthening Women in Tech in South Asia](https://dai-global-digital.com/apply-now-strengthening-women-in-tech-in-south-asia.html) Initiative will allow the SARDI team to create partnerships as well as find inspiring and relevant mentors for the cohort of women entrepreneurs that we strive to support.
