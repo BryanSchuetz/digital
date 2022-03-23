@@ -2,7 +2,6 @@
 title: 'The Path to a Sustained Network for Women Entrepreneurs in South Asia: Insights
   from the SARDI Strengthening Women in Tech Symposium'
 date: 2022-03-23 12:15:00 -04:00
-published: false
 tags:
 - Entrepreneurship
 - Digital Divide
