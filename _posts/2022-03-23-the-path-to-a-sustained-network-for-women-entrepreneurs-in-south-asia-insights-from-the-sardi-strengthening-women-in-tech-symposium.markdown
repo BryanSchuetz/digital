@@ -8,6 +8,7 @@ tags:
 Author: "[Christiy Coster](https://www.linkedin.com/in/christincoster/) and [Alexander
   Riabov](https://www.linkedin.com/in/riabovalexander/)"
 social-image: "/uploads/Picture1-be05cb.png"
+thumbnail: "/uploads/Picture1-be05cb.png"
 ---
 
 How do you take your chai or coffee? These opening words welcomed participants from all around the world for the South Asia Regional Digital Initiative (SARDI) Strengthening Symposium, a series of conversations about the most pressing barriers to investment in women-owned enterprises. Covering tremendous ground in 10 hours over four days, this virtual event connected finalists for potential partnerships, inspired applicants by clearly articulating the goals of the activity, and strengthened phase two applications in the process for the [Strengthening Women in Tech in South Asia](https://dai-global-digital.com/apply-now-strengthening-women-in-tech-in-south-asia.html) Initiative.
