@@ -33,7 +33,11 @@ Informed by this research, the symposium hosted an “Activity Deconstruction”
 
 ![Picture1-be05cb.png](/uploads/Picture1-be05cb.png)`Participants during SARDI’s Strengthening Women in Tech in South Asia Symposium.`
 
-*“I just wanted to say thank you for running this. We have done work with other governments, NGOs, DFIs, banks through an RFP process and really appreciate you taking the time to step through everything and set expectations, give insight into what you're looking for. I feel like oftentimes, grants are awarded to much bigger organizations simply because they know how to navigate the process and through this symposium you have made it more equitable for other organizations to participate.”*—SARDI symposium participant in post-event survey
+<aside>
+<blockquote>
+  <p>“I just wanted to say thank you for running this. We have done work with other governments, NGOs, DFIs, banks through an RFP process and really appreciate you taking the time to step through everything and set expectations, give insight into what you're looking for. I feel like oftentimes, grants are awarded to much bigger organizations simply because they know how to navigate the process and through this symposium, you have made it more equitable for other organizations to participate.” —<strong>SARDI symposium participant in post-event survey.</p>
+</blockquote>
+</aside>
 
 ## What’s Next
 
