@@ -21,7 +21,7 @@ Throughout the COVID-19 pandemic, companies in Southern Africa—like elsewhere 
 The study looked across numerous sectors, including cosmetics, agriculture, and handicrafts. USAID TradeHub works with TPSPs, buyers, and exporters across southern Africa (see map), and with U.S.-based buyers and TPSPs. The full report is available [here](https://www.satihub.com/811-digital-impact-study), and in this blog, we summarize some of our key findings.
 
 ![USAID Trade Hub.png](/uploads/USAID%20Trade%20Hub.png)\
-`Photo caption: USAID TradeHub`
+*`Photo caption: USAID TradeHub`*
 
 <!--more-->
 
@@ -36,7 +36,7 @@ However, TPSPs report that exporters should improve their digital skills to meet
 Exporters and TPSPs gave overwhelmingly positive feedback on the informational webinars provided by USAID TradeHub. They value the opportunity to learn at no cost and from their own office or home, noting that they would not have attended such events online pre-COVID-19. For instance, exporters reported that the webinars introducing them to certain buyers and e-commerce platforms were useful, and they appreciated events where they were able to learn specific export requirements for their sectors. Not only is the provision of this information clearly vital, but it is also important that this information is presented by trusted, neutral parties.
 
 ![Coverage of USAID TradeHub-7bf72c.jpg](/uploads/Coverage%20of%20USAID%20TradeHub-7bf72c.jpg)\
-Photo caption: *Coverage of USAID TradeHub. As part of its objectives, the program supports increased exports from the Southern Africa region to South Africa and the United States as destination markets.*
+*`Photo caption: Coverage of USAID TradeHub. As part of its objectives, the program supports increased exports from the Southern Africa region to South Africa and the United States as destination markets.`*
 
 # **Smaller online events are far superior to large trade expos**
 
