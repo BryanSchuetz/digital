@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2022 11:58:59 -0400</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2022 11:58:59 -0400</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2022 14:06:42 -0400</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2022 14:06:42 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Jamie%20blog.png" medium="image" /> 
+        <title>Getting Subnational: Combining Large Scale Surveys with Geospatial Data to Produce Better Small Area Estimation (PART I)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Jamie%20blog.png&quot; alt=&quot;Jamie blog.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Collecting granular location data on key socioeconomic indicators for strategic planning is an increasingly important topic in international development. Given the limitations of national-level data, many analysts and policymakers now focus on obtaining subnational data to identify pockets of poverty in a country, to select priority sites for poverty alleviation programs, to establish subnational benchmarks for monitoring and evaluation purposes, and to cross-validate data collected by country governments on indicators such as child mortality and basic literacy rates.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 07 Apr 2022 07:47:00 -0400</pubDate>
+        <author>Jamie Parr
+</author>
+        <link>https://dai-global-digital.com/getting-subnational-combining-large-scale-surveys-with-geospatial-data-to-produce-better-small-area-estimation-part-i.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/getting-subnational-combining-large-scale-surveys-with-geospatial-data-to-produce-better-small-area-estimation-part-i.html</guid>
+        
+        <category>Data Visualization</category>
+        
+        <category>Data</category>
+        
+        <category>Geospatial Data</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/AFCHIX%20leaders.jpg" medium="image" /> 
@@ -226,25 +249,6 @@
         <category>Cybersecurity</category>
         
         <category>RFA</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/20181023_2.jpg" medium="image" /> 
-        <title>Apply Now: Help Assess Guatemala’s Digital Financial Services</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; seeks applications from firms to assess market conditions and identify gaps and opportunities in the use of financial services in Guatemala among low-income and marginalized populations, particularly women.&lt;/p&gt;
-
-&lt;p&gt;Low-income and marginalized populations, especially women, are more susceptible to shocks, whether economic, climate, or other, leading them to fall into poverty and sometimes migrate within or outside of their country. Often, individuals lack digital and financial literacy and skills, which prevents them from using financial services to help them better deal with shocks and build their resilience and incomes. This activity will better assess demand and supply-side market conditions to understand Guatemalan customer segments’ financial needs better. The partner will also develop a new or improved financial service prototype to target customer needs.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 14 Feb 2022 14:15:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/andrea-falso-99474a103/">Andrea Falso</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-help-assess-guatemalas-digital-financial-services.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-help-assess-guatemalas-digital-financial-services.html</guid>
-        
-        <category>Digital Financial Services</category>
         
         
       </item>
