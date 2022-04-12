@@ -1,6 +1,6 @@
 ---
 title: 'Getting Subnational: Combining Large Scale Surveys with Geospatial Data to
-  Produce Better Small Area Estimation (PART I)'
+  Produce Better Small Area Estimation (Part I)'
 date: 2022-04-07 07:47:00 -04:00
 tags:
 - Data Visualization
