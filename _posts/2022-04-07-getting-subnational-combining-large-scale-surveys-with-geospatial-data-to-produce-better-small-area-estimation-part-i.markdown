@@ -11,9 +11,9 @@ social-image: "/uploads/Jamie%20blog.png"
 thumbnail: "/uploads/Jamie%20blog.png"
 ---
 
-![Jamie blog.png](/uploads/Jamie%20blog.png)
+Collecting granular location data on key socioeconomic indicators for strategic planning is an increasingly important topic in international development. Given the limitations of national-level data, many analysts and policymakers now focus on obtaining subnational data to identify pockets of poverty in a country, select priority sites for poverty alleviation programs, establish subnational benchmarks for monitoring and evaluation purposes, and cross-validate data collected by country governments on indicators such as child mortality and basic literacy rates.
 
-Collecting granular location data on key socioeconomic indicators for strategic planning is an increasingly important topic in international development. Given the limitations of national-level data, many analysts and policymakers now focus on obtaining subnational data to identify pockets of poverty in a country, to select priority sites for poverty alleviation programs, to establish subnational benchmarks for monitoring and evaluation purposes, and to cross-validate data collected by country governments on indicators such as child mortality and basic literacy rates.
+![Jamie blog.png](/uploads/Jamie%20blog.png)
 
 <!--more-->
 
