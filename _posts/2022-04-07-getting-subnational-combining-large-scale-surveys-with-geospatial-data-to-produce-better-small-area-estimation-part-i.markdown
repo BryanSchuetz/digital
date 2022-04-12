@@ -23,7 +23,7 @@ The ambitious standards set for the Sustainable Development Goals were intended 
 
 This article provides an overview of SAE methods and their advances. Part I highlights progress made in survey data analysis to produce more precise subnational estimates. We detail the initial use of SAE methods in poverty mapping at the World Bank and their increased relevance to other areas, such as public opinion and polling research. Building on our prior posts on the [innovative uses of GIS data](https://dai-global-digital.com/gis-data-availability-and-applicability.html?utm_source=related-box), Part 2 focuses on the promises and challenges of linking socioeconomic and geospatial data for subnational estimation.
 
-A later article will showcase how the Center for Digital Acceleration (CDA) team has employed SAE methods in its own work to inform strategy and draw insights.
+A later article will showcase how the Center for Digital Acceleration (CDA) team has employed SAE methods in our own work to inform strategy and draw insights.
 
 ## Advances in Survey Research and SAE Methods
 
