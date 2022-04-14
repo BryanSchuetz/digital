@@ -15,6 +15,8 @@ thumbnail: "/uploads/Strategy%203%20-%20Viamo.jpg"
 
 ![Strategy 3 - Viamo.jpg](/uploads/Strategy%203%20-%20Viamo.jpg)`WCC Grantee Viamo works to bridge the gender digital divide and bring vital tools and information to women in Pakistan. Photo: Viamo.`
 
+<!--more-->
+
 “I’m not smart enough to do this… I’ll break it… I'm too dumb to use a phone… It’s not for me.”
 
 Development practitioners and researchers presenting in the [“WomenConnect Challenge Steps to Success” webinar series](https://www.youtube.com/playlist?list=PLd1A49D9AiwWfqIuMDKK5BJnAnhVwTOgH) explained that self-defeating statements such as these are commonplace when women are invited to use digital technologies for the first time.
@@ -22,8 +24,6 @@ Development practitioners and researchers presenting in the [“WomenConnect Cha
 “Bear in mind that this is not just a developing country problem,” said panelist Dr. Araba Sey, the Principal Researcher for [Research ICT Africa](https://researchictafrica.net/). “Our research in Europe and North America also shows that, compared to boys and men, women and girls have lower self-efficacy or confidence in their digital skills.”
 
 Across the world, many women and girls believe themselves incapable or not smart enough to use technology. This chronic lack of confidence is usually instilled by persistent gender stereotypes and negative messaging that position women as inferior to men, including when it comes to all things digital. This internalized sense of incapacity that women experience becomes an additional barrier to women’s access to digital technologies and everything they have to offer.
-
-<!--more-->
 
 “The confidence challenges in women, I would like to argue, may not necessarily be caused just by lack of skills but by an environment permeated with these perceptions that diminish their self-concept,” explained Sey. “For women, these perceptions contribute to a vicious cycle that’s fueling a sense of inadequacy, perceptions of non-relevance of the internet, and disincentivizing its use.”
 
