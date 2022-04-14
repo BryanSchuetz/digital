@@ -1,9 +1,19 @@
 ---
 title: 'WomenConnect Challenge Blog Series: Strategy 3—Cultivating Women’s Confidence'
 date: 2022-04-14 10:14:00 -04:00
+tags:
+- Digital inclusion
+- Innovation
+- Challenges
+- Digital Divide
+Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole)"
+social-image: "/uploads/Strategy%203%20-%20Viamo.jpg"
+thumbnail: "/uploads/Strategy%203%20-%20Viamo.jpg"
 ---
 
 *This blog is part of the WomenConnect Challenge (WCC) Blog Series: Introducing Strategies for Closing the Gender Digital Divide. The U.S. Agency for International Development Women Connect Challenge is a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology. In the first round, WCC awarded nine grants to organizations working to identify and change the social and economic circumstances that keep women offline and under-empowered. Through close partnership with local awardee teams and community members, WCC has identified [five proven strategies](https://womenconnectchallenge.s3.amazonaws.com/media/uploads/proven_strategies_digitalgenderdivide_final.pdf) for closing the gender digital divide and increasing women’s empowerment. This blog explores one strategy at length*.
+
+![Strategy 3 - Viamo.jpg](/uploads/Strategy%203%20-%20Viamo.jpg)`Photo Credit: Viamo, WCC Grantee Viamo works to bridge the gender digital divide and bring vital tools and information to women in Pakistan.`
 
 “I’m not smart enough to do this… I’ll break it… I'm too dumb to use a phone… It’s not for me.”
 
