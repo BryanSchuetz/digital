@@ -16,11 +16,11 @@ Throughout the COVID-19 pandemic, companies in Southern Africa—like elsewhere 
 * **Buyers**: An entity (firm, person, or association) that purchases goods from a vendor—in the case of the USAID TradeHub, the vendor is an exporter from the Southern African region. These firms may be based in the region or in the United States.
 * **Trade promotion service providers (TPSPs):** An organization (public or private) that provides services to assist firms to trade—and in many cases, export—their products. Services include supporting firms to meet market entry and buyer requirements, supporting trade investment events where firms showcase their products and meet buyers, identifying demand and potential buyers and creating mutually beneficial relationships between exporters and buyers for long-term business.
 
+<!--more-->
+
 The study looked across numerous sectors, including cosmetics, agriculture, and handicrafts. USAID TradeHub works with TPSPs, buyers, and exporters across southern Africa (see map), and with U.S.-based buyers and TPSPs. The full report is available [here](https://www.satihub.com/811-digital-impact-study), and in this blog, we summarize some of our key findings.
 
 ![USAID Trade Hub.png](/uploads/USAID%20Trade%20Hub.png)`Photo: USAID TradeHub.`
-
-<!--more-->
 
 ## Exporters Need to Improve Their Digital Skills to Keep up With the “New Normal”
 
