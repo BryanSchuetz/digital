@@ -1,5 +1,5 @@
 ---
-title: 'Apply Now: SARDI SME Digital Upskilling - Sri Lanka'
+title: 'Apply Now: SARDI SME Digital Upskilling ⁠— Sri Lanka'
 date: 2022-04-20 12:14:00 -04:00
 tags:
 - SME
