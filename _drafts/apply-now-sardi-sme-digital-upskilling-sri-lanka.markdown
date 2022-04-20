@@ -6,8 +6,8 @@ tags:
 - RFA
 - Cyber
 Author: "[Bermet Kabylova](https://www.linkedin.com/in/bermetkabylova/?originalSubdomain=kg)"
-social-image: "/uploads/98d8cf38-508f-4210-a9b8-47df1cdb1b34.png"
-thumbnail: "/uploads/98d8cf38-508f-4210-a9b8-47df1cdb1b34.png"
+social-image: "/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif"
+thumbnail: "/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif"
 ---
 
 Digital Frontiers’ SARDI activity is seeking applications from organizations to provide cybersecurity capacity building to SMEs in Sri Lanka.
