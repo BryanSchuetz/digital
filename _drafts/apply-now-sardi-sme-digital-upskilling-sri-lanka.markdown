@@ -16,18 +16,19 @@ Digital Frontiers’ SARDI activity is seeking applications from organizations t
 
 USAID’s South Asia Regional Digital Initiative (SARDI) aims to increase the digital capacity of the private sector and civil society through digital upskilling and by strengthening their ability to engage in digital and ICT policy issues. SARDI implements activities focused on digital upskilling, policy awareness, and cyber capacity-building with entrepreneurs and MSMEs across South Asia. The grant focuses specifically on cyber capacity-building with SMEs in Sri Lanka.
 
-This activity will inform target SMEs in two cohorts of the risks and benefits of safely engaging in digital business and online platforms and provide tools and resources for those seeking to safely digitize. SMEs will be empowered to take steps to grow their business digitally while protecting their assets from cyber-attacks and avoiding being led astray by dis and misinformation. 
+This activity will inform target SMEs in two cohorts of the risks and benefits of safely engaging in digital business and online platforms and provide tools and resources for those seeking to safely digitize. SMEs will be empowered to take steps to grow their business digitally while protecting their assets from cyber-attacks and avoiding being led astray by dis and misinformation.
 
-Who Should Apply? 
+Who Should Apply?
+
 * Applicant team should include a significant presence in Sri Lanka
 * Must have experience with digital development
-* Must have a track record of delivering capacity building to SMEs 
+* Must have a track record of delivering capacity building to SMEs
 * Demonstrated results in training program design and implementation
 * Prior experience with cybersecurity training would be an advantage
 * Well-networked with SME-related associations and chambers
 * Ability to develop curriculum in local languages as needed
 * USAID experience preferred
 
-More information on qualifications and how to apply can be found [here](/uploads/RFA%202022-12%20SARDI%20SME%20Digital%20Upskilling.pdf). Applications are due May 17, 2022 to DigitalFrontiers@dai.com. Questions regarding the request for applications are due April 26, 2022 to DigitalFrontiers@dai.com. If you are interested in receiving updates and further communications regarding this RFA please email DigitalFrontiers@dai.com.
+More information on qualifications and how to apply can be found [here](/uploads/RFA%202022-12%20SARDI%20SME%20Digital%20Upskilling.pdf). Applications are due May 17, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due April 26, 2022 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com).
 
 *The South Asia Regional Digital Initiative (SARDI), part of the Digital Connectivity and Cybersecurity Partnership (DCCP), seeks to advance economic development in South Asia by increasing the digital capacity of the private sector and civil society and by strengthening their ability to engage on digital and ICT policy issues. SARDI provides digital upskilling for ecosystems and local partners, so that they can better participate in, and benefit from, the digital revolution.*
