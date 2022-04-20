@@ -12,9 +12,9 @@ thumbnail: "/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif"
 
 Digital Frontiers’ SARDI activity is seeking applications from organizations to provide cybersecurity capacity building to SMEs in Sri Lanka.
 
-<!--more-->
-
 USAID’s South Asia Regional Digital Initiative (SARDI) aims to increase the digital capacity of the private sector and civil society through digital upskilling and by strengthening their ability to engage in digital and ICT policy issues. SARDI implements activities focused on digital upskilling, policy awareness, and cyber capacity-building with entrepreneurs and MSMEs across South Asia. The grant focuses specifically on cyber capacity-building with SMEs in Sri Lanka.
+
+<!--more-->
 
 This activity will inform target SMEs in two cohorts of the risks and benefits of safely engaging in digital business and online platforms and provide tools and resources for those seeking to safely digitize. SMEs will be empowered to take steps to grow their business digitally while protecting their assets from cyber-attacks and avoiding being led astray by dis and misinformation.
 
