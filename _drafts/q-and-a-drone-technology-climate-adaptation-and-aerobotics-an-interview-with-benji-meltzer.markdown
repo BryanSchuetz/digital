@@ -22,9 +22,9 @@ thumbnail: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%2
 
 "Aerobotics helps farmers—specifically fruit and nut growers—detect crop-related problems early and optimize performance. We primarily use aerial imagery as a source of data, mainly from drones, where we collect a range of visual and multispectral data to assess crop health and performance. This data is then analyzed through our proprietary algorithms. We generate predictive, automated insights that farmers can use to easily make decisions through a range of web and mobile applications.
 
-![Aerobotics provides irrigation insights for fruit and nut growers.png](/uploads/Aerobotics%20provides%20irrigation%20insights%20for%20fruit%20and%20nut%20growers.png)`Aerobotics provides irrigation insights for fruit and nut growers`
-
 "Aerobotics operates in 18 countries worldwide, helping stakeholders throughout the agricultural supply chain, from crop insurers to farmers themselves, improve decision-making."
+
+![Aerobotics provides irrigation insights for fruit and nut growers.png](/uploads/Aerobotics%20provides%20irrigation%20insights%20for%20fruit%20and%20nut%20growers.png)`Aerobotics provides irrigation insights for fruit and nut growers.`
  
 **Q: Climate change is having a significant impact on farming. Weather patterns are changing and, in some instances, becoming less predictable. At [COP26](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fukcop26.org%2Fnations-and-businesses-commit-to-create-sustainable-agriculture-and-land-use%2F&data=04%7C01%7CJulian_Kesler%40dai.com%7Cd99e8ae334b5497a2a5008da18b18dc9%7C7107113de20b4c20a4ce553cabbf686d%7C1%7C0%7C637849449584769339%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=fbg20vL24iJKzrHE%2BpeMRG%2BY%2BoqS6Ki55sFzsLoL2vg%3D&reserved=0), 45 governments pledged urgent action and investment to protect nature and shift to more sustainable farming methods. What role can technology play in climate adaptation and mitigation, and are there any success stories from your work that you could share with us?**
 
