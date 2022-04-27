@@ -5,9 +5,11 @@ date: 2022-04-27 15:33:00 -04:00
 tags:
 - AI
 - AgTech
+- Agriculture
+- Climate
 Author: "[Julian Kesler](https://www.linkedin.com/in/julian-kesler/)"
-social-image: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg"
-thumbnail: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg"
+social-image: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg"
+thumbnail: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg"
 ---
 
 *Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African Ag-Tech startup that uses artificial intelligence to support the world's agriculture industryâ€”specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.*
@@ -40,4 +42,4 @@ Our crop insurance proposition is currently focused entirely on the US marketsâ€
 
 ![Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance-29fdbc.jpeg](/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg)`Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance`
 
-"Based on our experience in the crop insurance space, gathering data for financial decisions can be highly subjective, manually intensive, and often not traceable since information can be captured in a form without any sort of proof or validation. Drones and other platforms for collecting data remotely/non-invasively offer much more scalable approaches to collecting this data. Historically, analyzing and handling the data load that comes from aerial imagery [as an example] hasn't been possible, but advances in computation abilities like machine learning and resource availability [often through cloud providers] are quickly becoming commoditized."
+"Based on our experience in the crop insurance space, gathering data for financial decisions can be highly subjective, manually intensive, and often not traceable since information can be captured in a form without any sort of proof or validation. Drones and other platforms for collecting data remotely/non-invasively offer much more scalable approaches to collecting this data. Historically, analyzing and handling the data load that comes from aerial imagery [as an example] hasn't been possible, but advances in computation abilities like machine learning and resource availability [often through cloud providers] are quickly becoming commoditized." 
