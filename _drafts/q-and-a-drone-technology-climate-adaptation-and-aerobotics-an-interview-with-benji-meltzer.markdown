@@ -7,6 +7,7 @@ tags:
 - AgTech
 Author: "[Julian Kesler](https://www.linkedin.com/in/julian-kesler/)"
 social-image: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg"
+thumbnail: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg"
 ---
 
 *Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African Ag-Tech startup that uses artificial intelligence to support the world's agriculture industryâ€”specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.*
@@ -40,4 +41,5 @@ Our crop insurance proposition is currently focused entirely on the US marketsâ€
  
 **Q: Based on your experience, do you think financial institutions should be more open to incorporating technology, such as drones, in their data gathering, for example, in climate risk screening?**
  
+
 Based on our experience in the crop insurance space, gathering data for financial decisions can be highly subjective, manually intensive, and often not traceable since information can be captured in a form without any sort of proof or validation. Drones and other platforms for collecting data remotely/non-invasively offer much more scalable approaches to collecting this data. Historically, analyzing and handling the data load that comes from aerial imagery [as an example] hasn't been possible, but advances in computation abilities like machine learning and resource availability [often through cloud providers] are quickly becoming commoditized. 
