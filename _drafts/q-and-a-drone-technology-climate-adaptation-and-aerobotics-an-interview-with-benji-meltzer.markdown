@@ -4,8 +4,8 @@ title: 'Q&A: Drone technology, climate adaptation, and Aerobotics—An Interview
 date: 2022-04-27 15:33:00 -04:00
 ---
 
-*Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African Ag-Tech startup that uses artificial intelligence to support the world's agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview. 
-*
+*Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African Ag-Tech startup that uses artificial intelligence to support the world's agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.*
+
 ![Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg](/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg)`Benji Meltzer, co-founder and chief technology officer of Aerobotics`
 
 <!--more--> 
@@ -14,7 +14,7 @@ date: 2022-04-27 15:33:00 -04:00
 **Q: Could you tell us about Aerobotics and how you use drone technology?**
 
 "Aerobotics is a South Africa-based company helping farmers—specifically fruit and nut growers—detect crop-related problems early and optimize performance. We primarily use aerial imagery as a source of data, mainly from drones, where we collect a range of visual and multispectral data to assess crop health and performance. This data is then analyzed through our proprietary algorithms. We generate predictive, automated insights that farmers can use to easily make decisions through a range of web and mobile applications.
- 
+
 Aerobotics operates in 18 countries worldwide, helping stakeholders throughout the agricultural supply chain, from crop insurers to farmers themselves, improve decision-making. 
 
 ![Aerobotics provides irrigation insights for fruit and nut growers.png](/uploads/Aerobotics%20provides%20irrigation%20insights%20for%20fruit%20and%20nut%20growers.png)`Aerobotics provides irrigation insights for fruit and nut growers`
