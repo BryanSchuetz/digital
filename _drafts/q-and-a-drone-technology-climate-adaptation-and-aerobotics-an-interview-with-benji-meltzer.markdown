@@ -2,6 +2,9 @@
 title: 'Q&A: Drone technology, climate adaptation, and Aerobotics—An Interview with
   Benji Meltzer'
 date: 2022-04-27 15:33:00 -04:00
+tags:
+- AI
+- AgTech
 Author: "[Julian Kesler](https://www.linkedin.com/in/julian-kesler/)"
 social-image: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg"
 ---
