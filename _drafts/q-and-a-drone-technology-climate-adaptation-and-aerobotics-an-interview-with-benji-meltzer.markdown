@@ -23,9 +23,7 @@ thumbnail: "/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics
 
 ![Aerobotics provides irrigation insights for fruit and nut growers.png](/uploads/Aerobotics%20provides%20irrigation%20insights%20for%20fruit%20and%20nut%20growers.png)`Aerobotics provides irrigation insights for fruit and nut growers`
 
-Aerobotics operates in 18 countries worldwide, helping stakeholders throughout the agricultural supply chain, from crop insurers to farmers themselves, improve decision-making. 
-
-![Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance.jpeg](/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance.jpeg)`Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance`
+Aerobotics operates in 18 countries worldwide, helping stakeholders throughout the agricultural supply chain, from crop insurers to farmers themselves, improve decision-making."
  
 **Q: Climate change is having a significant impact on farming. Weather patterns are changing and, in some instances, becoming less predictable. At COP26, 45 governments pledged urgent action and investment to protect nature and shift to more sustainable farming methods. What role can technology play in climate adaptation and mitigation, and are there any success stories from your work that you could share with us?**
 
@@ -35,11 +33,12 @@ Another apparent factor related to climate change is water management in agricul
  
 **Q: More recently, Aerobotics has been working with insurance companies to provide a more accurate risk assessment of crops. Could you tell us how this works and how it came about?**
 
-"Aerobotics's core focus is to help growers improve their yields and protect their crops through early problem detection and intervention management. In developing these products, we found that we could quite accurately measure the performance of a crop at a point in time during production through data that traditionally doesn't exist. This information is extremely valuable in quantifying risk from a farmers' perspective and other stakeholders, for example, in the financial services space. 
+"Aerobotics core focus is to help growers improve their yields and protect their crops through early problem detection and intervention management. In developing these products, we found that we could quite accurately measure the performance of a crop at a point in time during production through data that traditionally doesn't exist. This information is extremely valuable in quantifying risk from a farmers' perspective and other stakeholders, for example, in the financial services space. 
  
 Our crop insurance proposition is currently focused entirely on the US markets―where we are working directly with approved insurance providers to help with inspections using our data. Traditionally this information is captured on the ground through crop assessors/adjustors manually walking through the field. We have effectively developed an approach to collecting the same data at scale remotely and objectively."
  
 **Q: Based on your experience, do you think financial institutions should be more open to incorporating technology, such as drones, in their data gathering, for example, in climate risk screening?**
- 
 
-Based on our experience in the crop insurance space, gathering data for financial decisions can be highly subjective, manually intensive, and often not traceable since information can be captured in a form without any sort of proof or validation. Drones and other platforms for collecting data remotely/non-invasively offer much more scalable approaches to collecting this data. Historically, analyzing and handling the data load that comes from aerial imagery [as an example] hasn't been possible, but advances in computation abilities like machine learning and resource availability [often through cloud providers] are quickly becoming commoditized. 
+"Based on our experience in the crop insurance space, gathering data for financial decisions can be highly subjective, manually intensive, and often not traceable since information can be captured in a form without any sort of proof or validation. Drones and other platforms for collecting data remotely/non-invasively offer much more scalable approaches to collecting this data. Historically, analyzing and handling the data load that comes from aerial imagery [as an example] hasn't been possible, but advances in computation abilities like machine learning and resource availability [often through cloud providers] are quickly becoming commoditized."
+
+![Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance.jpeg](/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance.jpeg)`Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance`
