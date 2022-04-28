@@ -55,6 +55,6 @@ thumbnail: "/uploads/InnovationBus2.JPG"
 
 "Suppose there is a practical, success-focused narrative. In that case, actors across the digital ecosystem can learn from each other, follow success stories, and create an enabling environment where the former successful founders or employees build new businesses that can further trigger a chain of successes."
 
-**Q: And on the flip side, what are the gaps you see right now? How could ecosystem supporters fill these gaps? **
+**Q: And on the flip side, what are the gaps you see right now? How could ecosystem supporters fill these gaps?**
 
 "Myanmar's digital ecosystem is back to day one, where survival is the most important thing as of now. However, the responsibilities of running a business have heightened, and there is increased demand for responsible business, accountability, and adaptability. Post-pandemic, I encourage ecosystem supporters to look at the regional gaps rather than singular gaps in one country. Business operations have shifted dramatically, and border restrictions have changed since the pandemic. For example, a startup in Myanmar could have a technical team based in Bangkok and serve customers in Sri Lanka. With more regional linkages and support to localizing lessons learned in new countries, development partners could be having a regional impact on a larger scale and contribute to the growth of individual digital economies at the same time. Finally, it is critical to support all the fundamental pillars of the ecosystem as it grows: digital rights, digital hygiene, and literacy."
