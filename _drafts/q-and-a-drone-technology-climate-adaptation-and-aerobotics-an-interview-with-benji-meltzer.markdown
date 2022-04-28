@@ -14,7 +14,7 @@ thumbnail: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%2
 
 *Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African ag-tech startup that uses artificial intelligence to support the world's agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.*
 
-![Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg](/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg)`Benji Meltzer, co-founder and chief technology officer of Aerobotics.`
+![Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg](/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg){:.float-left}`Benji Meltzer, co-founder and chief technology officer of Aerobotics.`
 
 <!--more--> 
 
