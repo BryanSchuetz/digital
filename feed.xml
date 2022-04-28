@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Apr 2022 11:52:42 -0400</pubDate>
-    <lastBuildDate>Thu, 28 Apr 2022 11:52:42 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Apr 2022 12:23:35 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Apr 2022 12:23:35 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg" medium="image" /> 
+        <title>Q&amp;A: Drone Technology, Climate Adaptation, and Aerobotics—An Interview with Benji Meltzer</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg&quot; alt=&quot;Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;em&gt;Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African ag-tech startup that uses artificial intelligence to support the world’s agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics’ drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview. (Photo: Aerobotics)&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Apr 2022 15:33:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/julian-kesler/">Julian Kesler</a>
+</author>
+        <link>https://dai-global-digital.com/q-and-a-drone-technology-climate-adaptation-and-aerobotics-an-interview-with-benji-meltzer.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/q-and-a-drone-technology-climate-adaptation-and-aerobotics-an-interview-with-benji-meltzer.html</guid>
+        
+        <category>AI</category>
+        
+        <category>AgTech</category>
+        
+        <category>Agriculture</category>
+        
+        <category>Climate</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif" medium="image" /> 
@@ -222,29 +245,6 @@
         <category>Digital Transformation</category>
         
         <category>Digital Insights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/nastya-dulhiier-OKOOGO578eo-unsplash.jpg" medium="image" /> 
-        <title>The Rise in Internet Shutdowns</title>
-        <description>&lt;p&gt;Recently, a snowstorm knocked out the internet connection at my apartment. While I could still communicate with others from my cellphone and use 4G to check Twitter for outage updates, the temporary inconvenience highlighted how dependent my life is on reliable internet access and how vulnerable our day-to-day lives are when that access is unexpectedly taken away. For many individuals, especially those in countries with authoritarian governments, unanticipated internet shutdowns have become increasingly common.&lt;/p&gt;
-
-&lt;p&gt;The technical &lt;a href=&quot;https://www.trtworld.com/magazine/explained-how-do-internet-shutdowns-work-44212&quot;&gt;definition&lt;/a&gt; for an internet shutdown is when a government or nonstate actor intentionally disrupts access to the internet or certain platforms for a specific population or entire location to exert control over information. In 2020, Access Now’s Shutdown Tracker Optimization Project collected &lt;a href=&quot;https://www.accessnow.org/keepiton/&quot;&gt;information&lt;/a&gt; on 155 reported instances of an internet shutdown, a significant increase from the 56 reported instances in 2016. As internet access has become more ingrained in a society’s ability to communicate, organize, and function, political leaders have increasingly leveraged their control of this resource to stifle dissent and reassert control.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 22 Feb 2022 17:12:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/connor-mackenzie/">Connor Mackenzie</a>
-</author>
-        <link>https://dai-global-digital.com/the-rise-in-internet-shutdowns.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-rise-in-internet-shutdowns.html</guid>
-        
-        <category>Digital Repression</category>
-        
-        <category>digital justice</category>
-        
-        <category>Governance</category>
         
         
       </item>
