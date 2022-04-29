@@ -8,8 +8,6 @@ tags:
 - Agriculture
 - Climate
 Author: "[Julian Kesler](https://www.linkedin.com/in/julian-kesler/)"
-social-image: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg"
-thumbnail: "/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg"
 ---
 
 ![Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg](/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg){:.float-left}*Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African ag-tech startup that uses artificial intelligence to support the world's agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics' drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.*
@@ -36,7 +34,7 @@ A: "Aerobotics helps farmers—specifically fruit and nut growers—detect crop-
  
 "Our crop insurance proposition is currently focused entirely on the U.S. markets—where we are working directly with approved insurance providers to help with inspections using our data. Traditionally this information is captured on the ground through crop assessors/adjustors manually walking through the field. We have effectively developed an approach to collecting the same data at scale remotely and objectively."
 
-![Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance-29fdbc.jpeg](/uploads/Aerobotics%20use%20drones%20to%20collect%20a%20range%20of%20visual%20and%20multispectral%20data%20to%20assess%20crop%20health%20and%20performance-29fdbc.jpeg)`Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance. Photo: Aerobotics.`
+![Aerobotics drone.png](/uploads/Aerobotics%20drone.png)`Aerobotics use drones to collect a range of visual and multispectral data to assess crop health and performance. Photo: Aerobotics.`
 
 **Based on your experience, do you think financial institutions should be more open to incorporating technology, such as drones, in their data gathering, for example, in climate risk screening?**
 
