@@ -46,4 +46,4 @@ Mali Health’s WCC project demonstrated that technology programs targeting comm
 
 “The benefit of a truly inclusive design process is an end result that is genuinely well suited to the needs of the community,” said Sterling. “User-centric design is not just a good principle, but also the best solution for technical innovation and actual development.”
 
-*The WomenConnect Challenge is implemented by DAI’s Digital Frontiers project, a buy-in mechanism that works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
+*The WomenConnect Challenge is implemented by DAI’s Digital Frontiers project, a buy-in mechanism that works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.* 
