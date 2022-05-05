@@ -34,7 +34,8 @@ The women who participated in the Mali Health programming—many of whom had nev
 
 “We are not a technology organization,” emphasized Tara Hopkins, Co-Director of Mali Health and a panelist in the WCC webinar series. “We are a grassroots community health organization. So, our journey in the WomenConnect Challenge was something that we did not know how it would go, but it's one of the best experiences that we've had. As a learning organization and as an organization that is really committed to identifying solutions that work for women and are designed and led by women, I think we've done that through this partnership.” 
 
-![Strategy 4 - Mali-health-soap-cooperative-hero.jpg](/uploads/Strategy%204%20-%20Mali-health-soap-cooperative-hero.jpg)`Photo credit: Mali Health, Caption: Mali Health works with women’s profit-sharing collectives to help them use technology to access services and increase their financial and decision-making autonomy.`
+[Strategy 4 - Mali-health-soap-cooperative-hero.jpg](/uploads/Strategy%204%20-%20Mali-health-soap-cooperative-hero.jpg)
+`Photo credit: Mali Health, Caption: Mali Health works with women’s profit-sharing collectives to help them use technology to access services and increase their financial and decision-making autonomy.`
 
 Mali Health worked with 400 women from women’s profit-sharing collectives that produce goods such as soaps, sanitary pads, juices, and peanut butter. The Mali Health team trained the women in the collectives on the use of technology and social networks, helping them to understand the Internet, access health and wellness information, and build their confidence in using technology to access this information. Mali Health also collected feedback from the women to ensure the technology and content was usable and relevant. 
 
