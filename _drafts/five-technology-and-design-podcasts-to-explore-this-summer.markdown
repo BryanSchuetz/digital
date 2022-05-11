@@ -1,6 +1,8 @@
 ---
 title: Five Technology and Design Podcasts to Explore this Summer
 date: 2022-05-11 13:34:00 -04:00
+tags:
+- Review
 Author: Greg Maly
 social-image: "/uploads/michal-dziekonski-21e67o9NxAA-unsplash.jpg"
 thumbnail: "/uploads/michal-dziekonski-21e67o9NxAA-unsplash.jpg"
