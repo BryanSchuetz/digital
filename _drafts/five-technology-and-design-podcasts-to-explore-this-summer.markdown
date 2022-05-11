@@ -9,7 +9,7 @@ thumbnail: "/uploads/michal-dziekonski-21e67o9NxAA-unsplash.jpg"
 ---
 
 *As the weather gets warmer in the Mid-Atlantic region, I’ve been doing my best to get outside more during the day. Podcasts have been a pleasant addition to my walk, runs, and bike rides. Below are five can’t-miss tech podcasts that you should follow—all of which are insightful, engaging, and informative.*
-
+ 
 <!--more-->
 
 ## 99% Invisible
