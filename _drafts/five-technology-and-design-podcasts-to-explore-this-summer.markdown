@@ -21,7 +21,7 @@ Produced and created by Roman Mars, *[99% invisible]*(https://99percentinvisible
 ## Babbage from The Economist
 Named after Charles Babbage—a 19th-century mathematician and engineer—[*Babbage*](https://www.economist.com/babbage) is a weekly podcast on science and technology. Recent pieces have covered nuclear power, climate change, disease prevention, and communication technologies. The podcast often features respected thought leaders and provides the technical depth one would expect from The Economist. I particularly enjoyed their March episode titled [*How to communicate in a war zone*](https://soundcloud.com/theeconomist/babbage-how-to-communicate-in), which examines the technologies helping Ukraine stay connected.
 
-HTML All The Things
+## HTML All The Things
 I discovered [*HTML All The Things*](https://www.htmlallthethings.com/podcast) while looking for conversations about Web 3.0. Their March 9th [episode ](https://www.htmlallthethings.com/podcasts/what-is-web1-web2-and-web3) provides a thoughtful overview of Web 1.0, 2.0, and 3.0 (spoiler alert: they define Web 3.0 as much more than just distributed ledger technologies). While discussions about software and software development may not sound riveting, the hosts do a great job of creating an entertaining conversation about topics such as how to run a good tech interview to a thorough understanding of API development and Search Engine Optimization.
 
 ## Tech Won’t Save Us
