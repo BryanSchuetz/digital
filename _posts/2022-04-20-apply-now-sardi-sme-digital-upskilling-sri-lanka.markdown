@@ -26,7 +26,7 @@ This activity will inform target SMEs in two cohorts of the risks and benefits o
 * Prior experience with cybersecurity training would be an advantage
 * Well-networked with SME-related associations and chambers
 * Ability to develop curriculum in local languages as needed 
-* Experience wth the U.S. Agency for International Development (USAID) is preferred
+* Experience with the U.S. Agency for International Development (USAID) is preferred
 
 More information on qualifications and how to apply can be found [here](/uploads/RFA%202022-12%20SARDI%20SME%20Digital%20Upskilling.pdf) and in [Modification 1](/uploads/RFA%202022-12%20Modification%201.pdf). Applications are due May 25 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). Questions regarding the request for applications are due May 18 to [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). If you are interested in receiving updates and further communications regarding this RFA please email [DigitalFrontiers@dai.com](mailto:DigitalFrontiers@dai.com). 
 
