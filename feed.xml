@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 May 2022 13:09:03 -0400</pubDate>
-    <lastBuildDate>Thu, 19 May 2022 13:09:03 -0400</lastBuildDate>
+    <pubDate>Thu, 19 May 2022 16:05:52 -0400</pubDate>
+    <lastBuildDate>Thu, 19 May 2022 16:05:52 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Picture%20digital%20upskilling%20pwd.png" medium="image" /> 
+        <title>Realizing Inclusive Digital Development Through Boosting the Digital Skills of People Living with Disabilities</title>
+        <description>&lt;p&gt;Twenty-five percent of the nearly 1 billion people living with disabilities around the world live at or below the poverty line. Unfortunately, these roughly 250 million people are more likely to face obstacles ranging from finding employment to outright discrimination. However, digital technologies offer the potential to expand employment opportunities for people living with disabilities, allowing them to realize their capabilities, expand their networks, and increase their mobility through digital accessibility. DAI, implementing activities under the &lt;a href=&quot;http://https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/&quot;&gt;Digital Connectivity and Cybersecurity Partnership (DCCP)&lt;/a&gt;, is designing activities that create employment opportunities and support networks for people living with disabilities in countries such as Cambodia and India.&lt;/p&gt;
+
+&lt;p&gt;Through its work with the Digital Asia Accelerator (DAA) and the South Asia Regional Digital Initiative (SARDI), DAI recognizes disability as a cross-cutting issue and strives to provide equitable access to digital tools for people with a wide array of abilities, including those who are hard of hearing, have visual impairments, speech impediments, or other learning, developmental, and psychosocial disabilities. DAI’s grantee organizations, consultants, and partners are making significant steps towards digital inclusion through the facilitation of trainings, workshops, and mentoring groups specifically targeted and tailored for people living with disabilities.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 May 2022 15:05:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/jeremy-anderson-2b69391b6/">Jeremy Anderson</a>
+</author>
+        <link>https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html</guid>
+        
+        <category>Digital inclusion</category>
+        
+        <category>digital divide</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/michal-dziekonski-21e67o9NxAA-unsplash.jpg" medium="image" /> 
@@ -210,33 +231,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/the-path-to-a-sustained-network-for-women-entrepreneurs-in-south-asia-insights-from-the-sardi-strengthening-women-in-tech-symposium.html</guid>
         
         <category>Entrepreneurship</category>
-        
-        <category>Digital Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Strategy%201%20EAI.jpg" medium="image" /> 
-        <title>WomenConnect Challenge Blog Series: Strategy 1 — Changing Social Norms and Cultural Perceptions</title>
-        <description>&lt;p&gt;&lt;em&gt;This blog is part of the WomenConnect Challenge (WCC) Blog Series: Introducing Strategies for Closing the Gender Digital Divide. The U.S. Agency for International Development (USAID) &lt;a href=&quot;https://www.womenconnectchallenge.org/&quot; title=&quot;https://www.womenconnectchallenge.org/&quot;&gt;WomenConnect Challenge (WCC)&lt;/a&gt; is a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology. In the first round, WCC awarded nine grants to organizations working to identify and change the social and economic circumstances that keep women offline and under-empowered. Through close partnership with local awardee teams and community members, WCC has identified &lt;a href=&quot;https://womenconnectchallenge.s3.amazonaws.com/media/uploads/proven_strategies_digitalgenderdivide_final.pdf&quot;&gt;five proven strategies&lt;/a&gt; for closing the gender digital divide and increasing women’s empowerment. This blog explores one strategy at length.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;“It can lead to stealing. Or promiscuous activities, drug abuse, rudeness, stubbornness, lies… 90 percent of the causes of immorality, bad behavior, attitudes of urban women are related to the internet.” This was one man’s justification for restricting his female family members from using the internet and mobile phones. “The internet will destroy their good upbringing and morality,” declared another young man. “We feel that the phone is a simple way to destroy a woman’s morality and alter her thoughts,” agreed yet another.&lt;/p&gt;
-
-&lt;p&gt;When WCC grantee&lt;a href=&quot;https://www.equalaccess.org/our-work/projects/closing-the-gender-digital-divide-tech4families/&quot;&gt; Equal Access International (EAI)&lt;/a&gt; began its #Tech4Families program in northern Nigeria, baseline interviews were rife with this idea that women’s use of the internet and digital technologies would lead to their moral decline. At the baseline, 80 percent of men and boys interviewed did not believe the internet could be beneficial for women and girls, citing women’s use of digital technologies as immoral, inappropriate, or unnecessary. Many female interviewees echoed the sentiments of their male counterparts, perhaps having internalized the negative gender norms or fearing community backlash.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 17 Mar 2022 11:32:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/kendra-poole">Kendra Poole</a>
-</author>
-        <link>https://dai-global-digital.com/womenconnect-challenge-blog-series-strategy-1-changing-social-norms-and-cultural-perceptions.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/womenconnect-challenge-blog-series-strategy-1-changing-social-norms-and-cultural-perceptions.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Innovation</category>
-        
-        <category>Challenges</category>
         
         <category>Digital Divide</category>
         
