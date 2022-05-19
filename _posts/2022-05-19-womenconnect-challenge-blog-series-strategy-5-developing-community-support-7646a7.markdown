@@ -14,7 +14,7 @@ Troubled by these injustices, [Gram Vaani](https://gramvaani.org/)—the creator
 
 The MAMP platform featured content specifically designed for women, including news, community information, inspirational stories, and a 38-episode drama series based on a fictitious character named Munni, a local girl facing social, cultural, and economic pressures with which other women might relate. The platform also incorporated a verbal chat room for women, introducing the desired safe space for information exchange and resource pooling. Women posted comments, questions, or updates on local news and information, encouraging them to voice their opinions and concerns and drive conversations.
 
-![My project.jpg](/uploads/My%20project.jpg)`Photo Credit: GramVaani, Caption: GramVaani developed a mobile phone-based platform that allows women to learn from their peers and discuss collective solutions to their most pressing challenges.`
+![Strategy 5 -gramvaani1.jpg](/uploads/Strategy%205%20-gramvaani1.jpg)`Photo Credit: GramVaani, Caption: GramVaani developed a mobile phone-based platform that allows women to learn from their peers and discuss collective solutions to their most pressing challenges.`
 
 “The idea of this platform—MAMP—was to drive cross-sharing and peer-learning on several issues and themes around women’s empowerment. Mostly socio-cultural issues like child marriage, dowry, property ownership of women, girl child education, etc.,” explained Sayonee Chatterjee, former Director of Content Operations at Gram Vaani. 
 
