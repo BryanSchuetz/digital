@@ -1,13 +1,16 @@
 ---
 title: 'WomenConnect Challenge Blog Series: Strategy 5—Developing Community Support'
-date: 2022-05-19 11:39:00 -04:00
+date: 2022-05-19 12:18:00 -04:00
+published: false
 tags:
 - Mobile
-- Digital Platforms
-- Innovation
 - Challenges
-- Digital Divide
-Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole)"
+- Digital Inclusion
+- Digital Platform
+- Innovation
+Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole/)"
+social-image: "/uploads/My%20project.jpg"
+thumbnail: "/uploads/My%20project.jpg"
 ---
 
 *This blog is part of the WomenConnect Challenge (WCC) Blog Series: Introducing Strategies for Closing the Gender Digital Divide. The U.S. Agency for International Development (USAID) [WomenConnect Challenge](https://www.womenconnectchallenge.org/) is a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology. In the first round of the Challenge, WCC awarded nine grants to organizations working to identify and change the social and economic circumstances that keep women offline and under-empowered. Through close partnership with local awardee teams and community members, WCC has identified five proven strategies for closing the gender digital divide and increasing women’s empowerment. This blog explores one strategy at length.*
@@ -17,6 +20,8 @@ In Bihar, India, Mahadalit women are regarded as the poorest, lowest caste and a
 Troubled by these injustices, [Gram Vaani](https://gramvaani.org/)—the creator of Mobile Vaani, a social media platform specifically designed and adapted for use in rural communities—applied for a grant through the USAID WomenConnect Challenge (WCC), which works to change the social and economic circumstances that keep women offline and under-empowered. With the help of this USAID funding, Gram Vaani developed a new, free, voice-based media platform called [Meri Awaaz Meri Pehchan](http://mobilevaani.in/vaani/#/1/home) (MAMP, translated as “My Voice My Identity”) to help create a safe space for women’s interaction and education. 
 
 The MAMP platform featured content specifically designed for women, including news, community information, inspirational stories, and a 38-episode drama series based on a fictitious character named Munni, a local girl facing social, cultural, and economic pressures with which other women might relate. The platform also incorporated a verbal chat room for women, introducing the desired safe space for information exchange and resource pooling. Women posted comments, questions, or updates on local news and information, encouraging them to voice their opinions and concerns and drive conversations.
+
+![Picture1-65d9dd.png](/uploads/Picture1-65d9dd.png)`Photo Credit: GramVaani, Caption: GramVaani developed a mobile phone-based platform that allows women to learn from their peers and discuss collective solutions to their most pressing challenges.`
 
 “The idea of this platform—MAMP—was to drive cross-sharing and peer-learning on several issues and themes around women’s empowerment. Mostly socio-cultural issues like child marriage, dowry, property ownership of women, girl child education, etc.,” explained Sayonee Chatterjee, former Director of Content Operations at Gram Vaani. 
 
@@ -40,6 +45,6 @@ In some cases, Mobile Vaani helped empower women not just politically but also i
 
 Gram Vaani reported not only helping empower individual women but also witnessing a ripple effect. “I recall a story of a specific girl,” reflected Chatterjee, “A girl who herself escaped child marriage through the help of our intervention when she called up the child protection number that we publicized… Her marriage was stopped, and, in turn, she actually helped stop several other child marriages… She herself has stopped around eight to ten child marriages happening in her own family and her own village.”
 
-The partnership between Gram Vaani and USAID under the WCC successfully provided thousands of women access to an engaging community media platform, which proved to sustainably catalyze opportunities for empowerment and collective action across the community. Sterling reflected: “Gram Vaani helped isolated, rural women feel empowered to voice their opinions and create meaningful interactions, giving them the confidence to become advocates for their community, for their families, and for themselves.”
+The partnership between Gram Vaani and USAID under the WCC successfully provided thousands of women access to an engaging community media platform, which proved to sustainably catalyze opportunities for empowerment and collective action across the community. Sterling reflected: “Gram Vaani helped isolated, rural women feel empowered to voice their opinions and create meaningful interactions, giving them the confidence to become advocates for their community, for their families, and for themselves.” 
 
 *The WomenConnect Challenge is implemented by DAI’s Digital Frontiers project, a buy-in mechanism that works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
