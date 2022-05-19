@@ -1,6 +1,12 @@
 ---
 title: 'WomenConnect Challenge Blog Series: Strategy 5—Developing Community Support'
 date: 2022-05-19 12:18:00 -04:00
+tags:
+- Mobile
+- Challenges
+- Digital Inclusion
+- Digital Platform
+- Innovation
 Author: "[Kendra Poole](https://www.linkedin.com/in/kendra-poole/)"
 social-image: "/uploads/My%20project.jpg"
 thumbnail: "/uploads/My%20project.jpg"
