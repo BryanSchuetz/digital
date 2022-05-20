@@ -22,7 +22,7 @@ Applications are open to USAID-funded projects and activities that have (1) dire
 
 Learn more about our recent Digi Award winners: 
 
-### USAID/Indonesia Human Resources for Health in 2030 (HRH2030) Program  strengthened the human resources for health information system and its ecosystem to provide real-time quality data for strategic use, while also supporting policy development that addresses challenges in the health workforce and contributes to better public health outcomes overall.
+[USAID/Indonesia Human Resources for Health in 2030 (HRH2030) Program](https://hrh2030program.org/final-report-indonesia/)  strengthened the human resources for health information system and its ecosystem to provide real-time quality data for strategic use, while also supporting policy development that addresses challenges in the health workforce and contributes to better public health outcomes overall.
 
 USAID/Kyrgyz Republic International Development Law Organization (IDLO) Judicial Strengthening/Trusted Judiciary Program created and helped to implement a holistic e-justice initiative that strengthens the integrity of the justice system, minimizes corruption, and enhances transparency.
 
