@@ -4,7 +4,7 @@ title: Realizing Inclusive Digital Development Through Boosting the Digital Skil
 date: 2022-05-19 15:05:00 -04:00
 tags:
 - Digital inclusion
-- digital divide
+- Digital Divide
 Author: "[Jeremy Anderson](https://www.linkedin.com/in/jeremy-anderson-2b69391b6/)"
 social-image: "/uploads/Picture%20digital%20upskilling%20pwd.png"
 thumbnail: "/uploads/Picture%20digital%20upskilling%20pwd.png"
