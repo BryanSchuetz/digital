@@ -34,6 +34,8 @@ Applications are open to USAID-funded projects and activities that have (1) dire
 
 [USAID/Ukraine: Transparency and Accountability in Public Administration and Services Activity (TAPAS)](https://www.usaid.gov/ukraine/democracy-human-rights-and-governance) for helping to advance an electronic procurement system for government purchases and an anti-corruption watchdog network—bringing transparency to a previously opaque public procurement process and reducing corruption in public spending in Ukraine. 
 
+### APPLY NOW
+
 2022 Digi Awards applications must be submitted by 11:59 PM ET on Friday, June 3, 2022. For more information on eligibility and to apply, please visit [https://www.usaid.gov/digital-development/digis](http://ow.ly/FAxA50INE6T). 
 
 Reach out to [digitaldevelopment@usaid.gov](mailto:digitaldevelopment@usaid.gov) with any questions. We look forward to hearing from you!
