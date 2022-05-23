@@ -16,6 +16,8 @@ Have you used digital technology to promote locally led development? Have you sa
 
 ### The Technology Division in USAID’s [Innovation, Technology, and Research (ITR) Hub](https://www.usaid.gov/innovation-technology-research) is pleased to announce the launch of the 2022 Digital Development Awards (the Digis).
 
+![Main Cover 2022 Digis.png](/uploads/Main%20Cover%202022%20Digis.png)
+
 The Digis recognize and celebrate USAID projects and activities that embrace the Agency's vision of advancing locally led development through efficient, effective, and responsible digital initiatives that enhance security and economic prosperity, consistent with the American values of respect for individual rights, freedom of expression, and democratic norms and practices. 
 
 Applications are open to USAID-funded projects and activities that have (1) directly deployed a digital technology or suite of technologies or (2) provided support to digital ecosystem actors to extend digital technology access and/or uptake. 
