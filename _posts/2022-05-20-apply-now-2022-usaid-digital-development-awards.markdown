@@ -22,7 +22,7 @@ The Digis recognize and celebrate USAID projects and activities that embrace the
 
 Applications are open to USAID-funded projects and activities that have (1) directly deployed a digital technology or suite of technologies or (2) provided support to digital ecosystem actors to extend digital technology access and/or uptake. 
 
-Learn more about our recent Digi Award winners: 
+### Learn more about our recent Digi Award winners: 
 
 [USAID/Indonesia Human Resources for Health in 2030 (HRH2030) Program](https://hrh2030program.org/final-report-indonesia/)  strengthened the human resources for health information system and its ecosystem to provide real-time quality data for strategic use, while also supporting policy development that addresses challenges in the health workforce and contributes to better public health outcomes overall.
 
