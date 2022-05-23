@@ -1,6 +1,7 @@
 ---
 title: 'Apply Now: 2022 USAID Digital Development Awards'
 date: 2022-05-20 10:06:00 -04:00
+published: false
 tags:
 - Awards
 - Cybersecurity
