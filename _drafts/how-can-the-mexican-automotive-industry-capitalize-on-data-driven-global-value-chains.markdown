@@ -45,3 +45,19 @@ To fully realize the commercial and social benefits of data generated across the
 Adequate data governance policies and regulations are needed to achieve successful integration of Industry 4.0 practices and data-driven GVCs in the Mexican economy. National regulations that impose excessive data transfer requirements or local data storage conditions can influence the structure of automotive GVCs and their ability to navigate through datafication and digital transformation. The Government of Mexico has embedded the relevance of data for digital transformation in the National Digital Strategy (2013).11 Substantial efforts have been made to build the institutional, social and economic infrastructure around digital transformation to support it. Mexico has also maintained a healthy interest in data-processing technologies, such as AI, which will upend industries. The UK Embassy in Mexico, with support from the Office of the Mexican President, commissioned Oxford Insights to draft a national AI strategy for the Government of Mexico. In June 2018, their findings and recommendations for the National Artificial Intelligence Strategy Mexico were published.12 The Government of Mexico has also supported the creation of ia2030, a multi-sectoral partnership to set the course for AI development in the country.
 
 *This piece is based on the [2021 IDB report on data in value chains](https://publications.iadb.org/en/global-value-chain-data-mexico-automotive-and-electronics-sectors).*
+
+References (they are collapsible on the platform)  
+1.  McKinsey Digital (2018) How Mexico can become Latin America’s digital-government powerhouse.
+2.  Lara (2019) Manufacturers in Mexico take on Industry 4.0 and IIOT.
+3.  Stankovic, M. and Filippo, A. (2022) Global Value Chain Data for Mexico in the Automotive and Electronics Sectors.
+4.  Stankovic, M. and Filippo, A. (2022) Global Value Chain Data for Mexico in the Automotive and Electronics Sectors.
+5.  Simonazzi et al.,(2020) The Future of the Automotive Industry: Dangerous Challenges or New Life for a Saturated Market?
+6.  Simonazzi et al.,(2020) The Future of the Automotive Industry: Dangerous Challenges or New Life for a Saturated Market?
+7.  WEF (2019) Supply_Chain_4.0, Global Practices and Lessons Learned for Latin America and the Caribbean.
+8.  Deloitte (2020) The Future of the Automotive Value Chain Supplier industry outlook 2025.
+9.  WEF, Building a digital automotive industry.
+10. See https://industrialtransformation.mx/
+11. A new National Digital Strategy has been drafted but is not applicable yet. It provides guidelines on a broad range of issues, from digital government to broadband connectivity. However, clear cut answers to some pressing issues relating to data remain absent.
+12. Oxford Insights (2018) Towards an AI Strategy in Mexico.
+13. OECD (2020) Digital Government in Mexico : Sustainable and Inclusive Transformation
+
