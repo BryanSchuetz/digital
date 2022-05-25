@@ -4,6 +4,8 @@ title: How can the Mexican automotive industry capitalize on data-driven global 
 date: 2022-05-25 12:15:00 -04:00
 Author: "[Miriam Stankovich](https://www.linkedin.com/in/mimistankovic/) and [Agustin
   Filippo](https://www.linkedin.com/in/agustin-filippo-3586814/)"
+social-image: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
+thumbnail: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
 ---
 
 *Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven GVCs.*
@@ -42,4 +44,4 @@ To fully realize the commercial and social benefits of data generated across the
 
 Adequate data governance policies and regulations are needed to achieve successful integration of Industry 4.0 practices and data-driven GVCs in the Mexican economy. National regulations that impose excessive data transfer requirements or local data storage conditions can influence the structure of automotive GVCs and their ability to navigate through datafication and digital transformation. The Government of Mexico has embedded the relevance of data for digital transformation in the National Digital Strategy (2013).11 Substantial efforts have been made to build the institutional, social and economic infrastructure around digital transformation to support it. Mexico has also maintained a healthy interest in data-processing technologies, such as AI, which will upend industries. The UK Embassy in Mexico, with support from the Office of the Mexican President, commissioned Oxford Insights to draft a national AI strategy for the Government of Mexico. In June 2018, their findings and recommendations for the National Artificial Intelligence Strategy Mexico were published.12 The Government of Mexico has also supported the creation of ia2030, a multi-sectoral partnership to set the course for AI development in the country.
 
-This piece is based on the [2021 IDB report on data in value chains](https://publications.iadb.org/en/global-value-chain-data-mexico-automotive-and-electronics-sectors).
+*This piece is based on the [2021 IDB report on data in value chains](https://publications.iadb.org/en/global-value-chain-data-mexico-automotive-and-electronics-sectors).*
