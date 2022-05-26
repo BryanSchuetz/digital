@@ -5,9 +5,38 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 May 2022 15:42:40 -0400</pubDate>
-    <lastBuildDate>Mon, 23 May 2022 15:42:40 -0400</lastBuildDate>
+    <pubDate>Thu, 26 May 2022 13:56:46 -0400</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 13:56:46 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/pexels-sergio-souza-3907943%20(1).jpg" medium="image" /> 
+        <title>How Can the Mexican Automotive Industry Capitalize on Data-Driven Global Value Chains?</title>
+        <description>&lt;p&gt;&lt;em&gt;Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven GVCs.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mexico is embracing Industry 4.0. The digital factory in Puebla, the aerospace corridors in Querétaro, Guanajuato, Baja California, Sonora, Chihuahua, and Nuevo León showcase Industry 4.0 manufacturing throughout the country. Smart factories refer toare facilities that primarily use automated tools and machines, from production robots to transportation devices or 3D -printers. Products are equipped with sensors that allow them to connect and exchange data and communicate with each other. They make up a cyber-physical production system (CPPS) connected via the industrial Internet of Things (IoT).&lt;/p&gt;
+
+&lt;p&gt;Data are the smart factory’s blood vessels and the key enabler of modern global value chains (GVCs). In the networked smart factory, identities can be assigned to tools, machines, products and materials. Items at each level of the GVC can thereby be precisely located and tracked. This networked and automated production environment is supplemented with “big data” (huge amounts of data from millions of nodes within a network, including the ability to process and analyze large amounts of data using cloud computing, artificial intelligence (AI) and machine learning). Data can be handled, processed and analyzed in real-time and be passed on through GVCs. Greater customization is possible while retaining speed and efficiency. Individual products are networked and identifiable; customization is possible by drawing on user data, while customer data is directly transferred to machine data. Cloud computing and additive manufacturing enable decentralized production.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 May 2022 12:15:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/mimistankovic/">Miriam Stankovich</a> and <a href="https://www.linkedin.com/in/agustin-filippo-3586814/">Agustin Filippo</a>
+</author>
+        <link>https://dai-global-digital.com/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html</guid>
+        
+        <category>AI</category>
+        
+        <category>industry 4.0</category>
+        
+        <category>Smart Factory</category>
+        
+        <category>Digital twins</category>
+        
+        <category>Digital threads</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Main%20Cover%202022%20Digis.png" medium="image" /> 
@@ -206,31 +235,6 @@
         <category>Challenges</category>
         
         <category>Digital Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Coverage%20of%20USAID%20TradeHub-7bf72c.jpg" medium="image" /> 
-        <title>Digital Trade in Southern Africa: How Firms Have Adapted to Digital Trade During COVID-19</title>
-        <description>&lt;p&gt;Throughout the COVID-19 pandemic, companies in Southern Africa—like elsewhere in the world—have been forced to adapt to remote working: moving their business and communications online, conducting virtual business to business (B2B) meetings, and attending online trade expos and webinars. Between September and December 2021, DAI’s Center for Digital Acceleration worked with the &lt;a href=&quot;https://www.satihub.com/&quot;&gt;USAID Southern Africa Trade and Investment Hub&lt;/a&gt; (USAID TradeHub) to understand how these businesses have adapted, what the long-term effects of the pandemic might be, and the support that firms need to adapt to the new normal. During this study, we spoke to three types of firms:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Exporters:&lt;/strong&gt; A firm—in the case of the USAID TradeHub, in Southern Africa—that sells its goods to a market other than its national domestic market.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Buyers&lt;/strong&gt;: An entity (firm, person, or association) that purchases goods from a vendor—in the case of the USAID TradeHub, the vendor is an exporter from the Southern African region. These firms may be based in the region or in the United States.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Trade promotion service providers (TPSPs):&lt;/strong&gt; An organization (public or private) that provides services to assist firms to trade—and in many cases, export—their products. Services include supporting firms to meet market entry and buyer requirements, supporting trade investment events where firms showcase their products and meet buyers, identifying demand and potential buyers and creating mutually beneficial relationships between exporters and buyers for long-term business.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 24 Mar 2022 11:02:00 -0400</pubDate>
-        <author>Chloe Messenger
-</author>
-        <link>https://dai-global-digital.com/digital-trade-in-southern-africa-how-firms-have-adapted-to-digital-trade-during-covid-19.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-trade-in-southern-africa-how-firms-have-adapted-to-digital-trade-during-covid-19.html</guid>
-        
-        <category>COVID-19</category>
-        
-        <category>Digital Trade</category>
         
         
       </item>

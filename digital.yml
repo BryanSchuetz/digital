@@ -1,4 +1,21 @@
 
+- title: "How Can the Mexican Automotive Industry Capitalize on Data-Driven Global Value Chains?"
+  pub: "Digital"
+  date: 2022-05-25
+  link: "https://dai-global-digital.com/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html?utm_source=daidotcom"
+  summary: "Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven GVCs.
+
+Mexico is embracing Industry 4.0. The digital factory in Puebla, the aerospace corridors in Querétaro, Guanajuato, Baja California, Sonora, Chihuahua, and Nuevo León showcase Industry 4.0 manufacturing throughout the country. Smart factories refer toare facilities that primarily use automated tools and machines, from production robots to transportation devices or 3D -printers. Products are equipped with sensors that allow them to connect and exchange data and communicate with each other. They make up a cyber-physical production system (CPPS) connected via the industrial Internet of Things (IoT).
+
+Data are the smart factory’s blood vessels and the key enabler of modern global value chains (GVCs). In the networked smart factory, identities can be assigned to tools, machines, products and materials. Items at each level of the GVC can thereby be precisely located and tracked. This networked and automated production environment is supplemented with “big data” (huge amounts of data from millions of nodes within a network, including the ability to process and analyze large amounts of data using cloud computing, artificial intelligence (AI) and machine learning). Data can be handled, processed and analyzed in real-time and be passed on through GVCs. Greater customization is possible while retaining speed and efficiency. Individual products are networked and identifiable; customization is possible by drawing on user data, while customer data is directly transferred to machine data. Cloud computing and additive manufacturing enable decentralized production."
+  tags:
+    - digital acceleration 
+    - AI 
+    - industry 4.0 
+    - Smart Factory 
+    - Digital twins 
+    - Digital threads 
+
 - title: "Apply Now: 2022 USAID Digital Development Awards"
   pub: "Digital"
   date: 2022-05-20
@@ -237,17 +254,5 @@ In her recent blog on the low uptake of digital agriculture applications by wome
     - Digital Inclusion 
     - Innovation 
     - Challenges 
-    - Digital Divide 
-
-- title: "Technology and Displacement: The Role of Digital Tools Among Displaced Persons"
-  pub: "Digital"
-  date: 2022-02-03
-  link: "https://dai-global-digital.com/technology-and-displacement-the-role-of-digital-tools-among-displaced-persons.html?utm_source=daidotcom"
-  summary: "In a previous post from last March, I wrote about the reality of the gender digital divide, in which I noted the difference in digital access and usage among women and men globally and the lost potential that results from women’s lack of access. When able to access, understand, and leverage digital tools, women can use these tools to better their economic outcomes and those of their families and communities.
-
-However, women are not the only group facing the reality of the digital divide. The United Nations Secretary-General’s Roadmap for Digital Cooperation, a report presenting strategies for inclusive, equitable adoption of digital technologies, notes some of the many other groups affected by similar challenges, including “migrants, refugees, internally displaced persons, older persons, young people, children, persons with disabilities, rural populations, and indigenous peoples.”"
-  tags:
-    - digital acceleration 
-    - Digital Inclusion 
     - Digital Divide 
 
