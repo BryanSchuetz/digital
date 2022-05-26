@@ -51,18 +51,3 @@ Adequate data governance policies and regulations are needed to achieve successf
 
 *This piece is based on the [2021 IDB report on data in value chains](https://publications.iadb.org/en/global-value-chain-data-mexico-automotive-and-electronics-sectors).*
 
-References (they are collapsible on the platform)  
-1.  McKinsey Digital (2018) How Mexico can become Latin America’s digital-government powerhouse.
-2.  Lara (2019) Manufacturers in Mexico take on Industry 4.0 and IIOT.
-3.  Stankovic, M. and Filippo, A. (2022) Global Value Chain Data for Mexico in the Automotive and Electronics Sectors.
-4.  Stankovic, M. and Filippo, A. (2022) Global Value Chain Data for Mexico in the Automotive and Electronics Sectors.
-5.  Simonazzi et al.,(2020) The Future of the Automotive Industry: Dangerous Challenges or New Life for a Saturated Market?
-6.  Simonazzi et al.,(2020) The Future of the Automotive Industry: Dangerous Challenges or New Life for a Saturated Market?
-7.  WEF (2019) Supply_Chain_4.0, Global Practices and Lessons Learned for Latin America and the Caribbean.
-8.  Deloitte (2020) The Future of the Automotive Value Chain Supplier industry outlook 2025.
-9.  WEF, Building a digital automotive industry.
-10. See https://industrialtransformation.mx/
-11. A new National Digital Strategy has been drafted but is not applicable yet. It provides guidelines on a broad range of issues, from digital government to broadband connectivity. However, clear cut answers to some pressing issues relating to data remain absent.
-12. Oxford Insights (2018) Towards an AI Strategy in Mexico.
-13. OECD (2020) Digital Government in Mexico : Sustainable and Inclusive Transformation
-
