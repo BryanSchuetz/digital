@@ -2,6 +2,12 @@
 title: How Can the Mexican Automotive Industry Capitalize on Data-Driven Global Value
   Chains?
 date: 2022-05-25 12:15:00 -04:00
+tags:
+- AI
+- industry 4.0
+- Smart Factory
+- Digital twins
+- Digital threads
 Author: "[Miriam Stankovich](https://www.linkedin.com/in/mimistankovic/) and [Agustin
   Filippo](https://www.linkedin.com/in/agustin-filippo-3586814/)"
 social-image: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
