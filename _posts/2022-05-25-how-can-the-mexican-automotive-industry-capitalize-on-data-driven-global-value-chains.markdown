@@ -12,7 +12,7 @@ social-image: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
 thumbnail: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
 ---
 
-*Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven GVCs.*
+*Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven global value chains (GVCs).*
 
 Mexico is embracing Industry 4.0. The digital factory in Puebla, the aerospace corridors in Querétaro, Guanajuato, Baja California, Sonora, Chihuahua, and Nuevo León showcase Industry 4.0 manufacturing throughout the country. Smart factories refer toare facilities that primarily use automated tools and machines, from production robots to transportation devices or 3D -printers. Products are equipped with sensors that allow them to connect and exchange data and communicate with each other. They make up a cyber-physical production system (CPPS) connected via the industrial Internet of Things (IoT).
 
