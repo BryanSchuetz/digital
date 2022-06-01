@@ -1,6 +1,9 @@
 ---
 title: Drone Mapping Reflects Solid Waste and Ocean Plastic Impact of the Durban Floods
 date: 2022-06-01 13:51:00 -04:00
+tags:
+- Environment
+- Waste Management
 Author: "[Joshua Palfreman](https://www.linkedin.com/in/joshua-palfreman-wastewash/?originalSubdomain=za)"
 social-image: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
 thumbnail: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
