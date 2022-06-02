@@ -11,7 +11,7 @@ thumbnail: "/uploads/pexels-sergio-souza-3907943%20(1).jpg"
 
 Heavy downpours over only two days in April 2022 caused South Africa's worst and most deadly natural disaster to date: a flash flood so rare and devastating it has a one in the 300-year probability of recurring. According to the [European Union](https://erccportal.jrc.ec.europa.eu/ECHO-Products/Echo-Flash#/daily-flash-archive/4474), approximately 435 people died and up to 41,000 people were affected. Rescue and disaster response efforts, which began immediately, are ongoing.
 
-![Broken Bridge uMlazi.jpg](/uploads/Broken%20Bridge%20uMlazi.jpg) `Photo caption: Broken bridge in Umlazi. Photo Credit: DAI and Humanitarian OpenStreetMap Team`
+![Broken Bridge uMlazi.jpg](/uploads/Broken%20Bridge%20uMlazi.jpg) `Photo caption: Aerial image of broken bridge in Umlazi. Photo Credit: DAI and Humanitarian OpenStreetMap Team`
 
 <!--more-->
 
@@ -21,7 +21,7 @@ On April 18, when the state emergency was declared, I began leading geographic i
 
 From groundwater contamination and leachate runoff, the disaster exposed persistent environmental and public health issues in Durban and surrounding areas. With housing developments built on sand dunes that have collapsed, there are also landslide risks. The plastic pollution in the Indian Ocean, which was already an existing problem, worsened overnight. The aerial data we captured right after the flood shows these and other consequences up close and in detail. In collaboration with [Humanitarian OpenStreetMap Team](https://www.linkedin.com/company/humanitarian-openstreetmap-team/), DAI flew consumer-grade drones such as Mavic Air 2 using simple mobile applications such as Pix4D Capture and OpenDroneMap, as well as QGIS and MeshLab which are open-source computer processing software. This helped us generate extremely high-quality images with resolutions up to 10 centimeters. 
 
-![Main drone photo.png](/uploads/Main%20drone%20photo.png) `Photo caption: Aerial image of Durban natural disaster captured by consumer-grade drone. Photo credit: DAI and Humanitarian OpenStreetMap Team`
+![Main drone photo.png](/uploads/Main%20drone%20photo.png) `Photo caption: Image of Durban natural disaster processed via MeshLab. Photo credit: DAI and Humanitarian OpenStreetMap Team`
 
 The drones offer far more than aerial photos or videos of the flood damage. We were able to map the impact, including on the topography, in 3D. The results include detailed renders of a broken riverbank at an informal settlement hard hit near the Springfield industrial area and the damage to infrastructure, such as a wrecked access road to Buffelsdraai landfill. The real-time imagery generated from the aircraft and drones soon after the downpour was otherwise unavailable. The images produced by DAI and Humanitarian OpenStreetMap Team can be used to help policymakers design effective solutions. From engagements with government personnel, I have learned the metropolitan municipality relies on dated satellite imagery taken before the floods.
 
