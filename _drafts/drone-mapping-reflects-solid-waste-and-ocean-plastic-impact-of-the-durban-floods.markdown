@@ -4,6 +4,7 @@ date: 2022-06-01 13:51:00 -04:00
 tags:
 - Environment
 - Waste Management
+- Climate
 Author: "[Joshua Palfreman](https://www.linkedin.com/in/joshua-palfreman-wastewash/?originalSubdomain=za)"
 social-image: "/uploads/Broken%20Bridge%20uMlazi.jpg"
 thumbnail: "/uploads/Broken%20Bridge%20uMlazi.jpg"
