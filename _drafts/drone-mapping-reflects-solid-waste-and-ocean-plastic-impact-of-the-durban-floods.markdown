@@ -11,7 +11,7 @@ thumbnail: "/uploads/Broken%20Bridge%20uMlazi.jpg"
 
 Heavy downpours over only two days in April 2022 caused South Africa's worst and most deadly natural disaster to date: a flash flood so rare and devastating it has a one in the 300-year probability of recurring. According to the [European Union](https://erccportal.jrc.ec.europa.eu/ECHO-Products/Echo-Flash#/daily-flash-archive/4474), approximately 435 people died and up to 41,000 people were affected. Rescue and disaster response efforts, which began immediately, are ongoing.
 
-![Broken Bridge uMlazi.jpg](/uploads/Broken%20Bridge%20uMlazi.jpg)`Photo caption: Aerial image of a broken bridge in Umlazi. Photo: DAI and Humanitarian OpenStreetMap Team.`
+![Broken Bridge uMlazi.jpg](/uploads/Broken%20Bridge%20uMlazi.jpg)`Aerial image of a broken bridge in Umlazi. Photo: DAI and Humanitarian OpenStreetMap Team.`
 
 <!--more-->
 
