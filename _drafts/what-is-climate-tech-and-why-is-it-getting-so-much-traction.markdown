@@ -7,6 +7,8 @@ tags:
 - Adaption
 - ClimateAction
 Author: Alejandro Solis
+social-image: "/uploads/karsten-wurth-w_a40DuyPAc-unsplash.jpg"
+thumbnail: "/uploads/karsten-wurth-w_a40DuyPAc-unsplash.jpg"
 ---
 
 The term “climate tech” encompasses both physical and digital technologies that seek to remove emissions from the atmosphere and encourage the resilience of people to address climate-related issues. While the term is broad and has become somewhat popular in recent years, the practice of climate tech is not entirely new. The [Kyoto Protocol](https://unfccc.int/process-and-meetings/the-kyoto-protocol/what-is-the-kyoto-protocol/kyoto-protocol-targets-for-the-first-commitment-period), which was signed in the mid-90s helped to establish flexible market mechanisms based on the trade emissions permit, supports the concept that technologies can be used to adapt and mitigate climate change. Since the signing of the Kyoto Protocol, hundreds of technology-driven initiatives have sought to respond climate related issues. 
