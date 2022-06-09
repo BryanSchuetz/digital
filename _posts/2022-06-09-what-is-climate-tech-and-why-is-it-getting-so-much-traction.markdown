@@ -1,7 +1,6 @@
 ---
 title: What is Climate Tech and Why Is It Getting So Much Traction?
 date: 2022-06-09 08:56:00 -04:00
-published: false
 tags:
 - ClimateTech
 - Mitigation
