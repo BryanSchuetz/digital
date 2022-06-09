@@ -6,7 +6,8 @@ tags:
 - Mitigation
 - Adaption
 - ClimateAction
-Author: Alejandro Solis
+Author: "[Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/) and [Miranda
+  Walls](https://www.linkedin.com/in/miranda-walls/)"
 social-image: "/uploads/karsten-wurth-w_a40DuyPAc-unsplash.jpg"
 thumbnail: "/uploads/karsten-wurth-w_a40DuyPAc-unsplash.jpg"
 ---
