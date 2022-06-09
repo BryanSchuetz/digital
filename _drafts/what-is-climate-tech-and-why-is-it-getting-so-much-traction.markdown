@@ -22,22 +22,21 @@ The recent legal commitments countries made through the [Paris Agreement](https:
 
 International development investment strategies rely on the international mandates and entrepreneurial ecosystems are generating solutions using emerging technologies to respond to climate-related issues to satisfy the unprecedented demand to help save the planet. Many actors are looking to aggressively address countries, companies, and individuals that emit large amounts of [GHG](https://www.epa.gov/ghgemissions/overview-greenhouse-gases) into the atmosphere using technology, as the intense impact of climate change is increase sea levels, causing major floods and intense hurricanes and storm, as well as prolonging droughts and rises in temperature that directly impact health, food security, and ecosystem balances. 
 
-## So, What is CDA doing? 
+# So, What is CDA doing? 
 In recent years, CDA has interacted with new climate-tech related tools. Below are some examples: 
 
-### Climate Data Hub for Central America
+## Climate Data Hub for Central America
 To provide information, predictions, and data to better react to climate change and increase variability in tropical regions, Central American countries developed [Centro Clima](https://centroclima.org/). Centro Clima, developed in 2015, was the first center to integrate 40 years of data, information, and tools, including the Central American Climate Data Base (BDCAC) with models such as the Weather Research and Forecasting (WRF) model. WRF is a next generation mesoscale numerical weather prediction system. 
 
-
-### Clima Pesca
+## Clima Pesca
 [Clima Pesca](https://climapesca.org/) provides meteorological monitoring for fishermen. The deluge of data and underutilized data is one of the ailments of this era. However, through a user-centered design, CDA developed Clima Pesca which is an application that integrates relevant weather information for fishermen in an easy and simple way, transforming a PDF newsletter into a multi-channel platform. Developed in 2017, Clima Pesca helps 120,000 fishermen annually. 
 
-### Coffee Cloud
+## Coffee Cloud
 Developed in 2018, [Coffee Cloud](https://www.anacafe.org/coffee-cloud/) is a Climate Tech Solution for Coffee Cultivation. The solution analyzed climate data and trends in coffee plants to reduce the presence of coffee rust in Central America. Coffee cloud is currently used in Guatemala, Honduras, El Salvador and Costa Rica by more than 6,000 producers.
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/xjitnxmVEMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Climate Tool for Assess Risks and Preparedness 
+## Climate Tool for Assess Risks and Preparedness 
 In partnership with the DAI’s Sustainable Business Group, CDA developed the [Climate Tool for Assess Risks and Preparedness (CTARP)](https://dai-global-digital.com/how-digital-climate-risk-assessment-tools-can-help-unclog-climate-finance-flows-in-emerging-economies.html) in 2021. The tool is a response for a need in the Financial and Banking sector to better assess the current and future climate risk on lending and providing mitigation strategies for climate change effects. 
 
 ![CTARP.png](/uploads/CTARP.png)`Risk Maps from CTARP. Photo: DAI`
