@@ -32,12 +32,12 @@ To provide information, predictions, and data to better react to climate change 
 ### Clima Pesca
 [Clima Pesca](https://climapesca.org/) provides meteorological monitoring for fishermen. The deluge of data and underutilized data is one of the ailments of this era. However, through a user-centered design, CDA developed Clima Pesca which is an application that integrates relevant weather information for fishermen in an easy and simple way, transforming a PDF newsletter into a multi-channel platform. Developed in 2017, Clima Pesca helps 120,000 fishermen annually. 
 
-Coffee Cloud
+### Coffee Cloud
 Developed in 2018, [Coffee Cloud](https://www.anacafe.org/coffee-cloud/) is a Climate Tech Solution for Coffee Cultivation. The solution analyzed climate data and trends in coffee plants to reduce the presence of coffee rust in Central America. Coffee cloud is currently used in Guatemala, Honduras, El Salvador and Costa Rica by more than 6,000 producers.
 
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/xjitnxmVEMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Climate Tool for Assess Risks and Preparedness 
+### Climate Tool for Assess Risks and Preparedness 
 In partnership with the DAI’s Sustainable Business Group, CDA developed the [Climate Tool for Assess Risks and Preparedness (CTARP)](https://dai-global-digital.com/how-digital-climate-risk-assessment-tools-can-help-unclog-climate-finance-flows-in-emerging-economies.html) in 2021. The tool is a response for a need in the Financial and Banking sector to better assess the current and future climate risk on lending and providing mitigation strategies for climate change effects. 
 
 ![CTARP.png](/uploads/CTARP.png)`Risk Maps from CTARP. Photo: DAI`
