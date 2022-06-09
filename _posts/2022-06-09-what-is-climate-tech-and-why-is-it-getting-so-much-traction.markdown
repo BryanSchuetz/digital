@@ -12,7 +12,7 @@ Climate tech is classified by two categories: mitigation or adaption. Mitigation
 
 Climate tech must comply with the below principles and criteria:
 1. **Use of historical data** for short- and medium-term analysis of scenarios applied to sectors such as agriculture, housing, ecosystem services, human health and more. Climate change is a cross-cutting issue that affects everything in our daily lives. 
-2. **Help quantify the environmental impact **caused by economic, social, or individual activities to achieve zero CO2 emissions, net zero emissions or climate neutrality—each of which have different set of actions that can be followed and implications for the future. 
+2. **Help quantify the environmental impact** caused by economic, social, or individual activities to achieve zero CO2 emissions, net zero emissions or climate neutrality—each of which have different set of actions that can be followed and implications for the future. 
 3. **Generate new data and information** supported by science to respond to existing problems caused by global warming. 
 
 The recent legal commitments countries made through the [Paris Agreement](https://www.un.org/en/climatechange/paris-agreement) and the [Glasgow Climate Pact](https://unfccc.int/documents/310475) have brought increased awareness and conversations surrounding climate tech. Both treaties are focused on three solutions: 
@@ -35,13 +35,13 @@ To provide information, predictions, and data to better react to climate change 
 Coffee Cloud
 Developed in 2018, [Coffee Cloud](https://www.anacafe.org/coffee-cloud/) is a Climate Tech Solution for Coffee Cultivation. The solution analyzed climate data and trends in coffee plants to reduce the presence of coffee rust in Central America. Coffee cloud is currently used in Guatemala, Honduras, El Salvador and Costa Rica by more than 6,000 producers.
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/xjitnxmVEMA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src=https://www.youtube.com/embed/xjitnxmVEMA title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Climate Tool for Assess Risks and Preparedness 
 In partnership with the DAI’s Sustainable Business Group, CDA developed the [Climate Tool for Assess Risks and Preparedness (CTARP)](https://dai-global-digital.com/how-digital-climate-risk-assessment-tools-can-help-unclog-climate-finance-flows-in-emerging-economies.html) in 2021. The tool is a response for a need in the Financial and Banking sector to better assess the current and future climate risk on lending and providing mitigation strategies for climate change effects. 
 
 ![CTARP.png](/uploads/CTARP.png)`Risk Maps from CTARP. Photo: DAI`
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/J0mGJu3jZh4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src=https://www.youtube.com/embed/J0mGJu3jZh4 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 While climate tech may be a buzz word now, it is a multidisciplinary field that has existed long before the word for formalized. As public and private sector begin to mobilize on climate change, the term climate tech will transition to a standardized way of approaching problems rather than a specific sector looking for anxious stability. 
