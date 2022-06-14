@@ -1,6 +1,8 @@
 ---
 title: How Four Awardees Are Paving the Way for a More Equitable AI-Powered Future
 date: 2022-06-14 10:20:00 -04:00
+tags:
+- AI
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 social-image: "/uploads/AIGraphic.jpg"
 thumbnail: "/uploads/AIGraphic.jpg"
