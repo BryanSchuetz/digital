@@ -1,5 +1,5 @@
 ---
-title: What is Climate Tech and Why Is It Getting So Much Traction?
+title: Climate Tech Tools Gain Traction in Mitigation and Adaptation Approaches
 date: 2022-06-09 08:56:00 -04:00
 tags:
 - ClimateTech
@@ -34,7 +34,7 @@ Both treaties are focused on three solutions:
 
 International development investment strategies rely on the international mandates and entrepreneurial ecosystems are generating solutions using emerging technologies to respond to climate-related issues to satisfy the unprecedented demand to help save the planet. Many actors are looking to aggressively address countries, companies, and individuals that emit large amounts of [GHG](https://www.epa.gov/ghgemissions/overview-greenhouse-gases) into the atmosphere using technology, as the intense impact of climate change is increasing sea levels, causing major floods and intense hurricanes and storms, as well as prolonging droughts and rises in temperature that directly impact health, food security, and ecosystem balances. 
 
-# So, What is DAI's Center for Digital Acceleration (CDA( doing? 
+# So, What is DAI's Center for Digital Acceleration (CDA) doing? 
 
 In recent years, CDA has interacted with new climate-tech tools. Below are some examples: 
 
