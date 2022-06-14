@@ -1,6 +1,9 @@
 ---
 title: How Four Awardees Are Paving the Way for a More Equitable AI-Powered Future
 date: 2022-06-14 10:20:00 -04:00
+Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
+social-image: "/uploads/AIGraphic.jpg"
+thumbnail: "/uploads/AIGraphic.jpg"
 ---
 
 Artificial intelligence (AI) tools are a dual-edged sword: they promise tremendous benefits for international development, but have also demonstrated instances of bias and harm, often resulting from inequitable design, use, and impact. Recognizing that AI technologies can cause gender biases, the U.S. Agency for International Development (USAID) urgently looked for innovative and creative approaches to address gender-inequitable outcomes by launching the [Equitable AI Challenge](https://www.ictworks.org/gender-equitable-artificial-intelligence-outcomes/#.YnPvuejMKUl) in Fall 2021. This challenge, implemented through DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df), sought to support approaches that increase the accountability and transparency of AI systems in global development contexts. Dozens of competitors submitted approaches related to the prevention, identification, or monitoring of bias and harm against women and gender-nonconforming people—reflecting the larger goals of [USAID’s Digital Strategy](https://www.usaid.gov/usaid-digital-strategy), the [National Strategy on Gender Equity and Equality](https://www.usaid.gov/news-information/press-releases/oct-26-2021-administrator-samantha-power-first-ever-national-strategy-gender), and the recently launched [USAID AI Action Plan](https://www.usaid.gov/digital-development/artificial-intelligence-action-plan).
@@ -39,4 +42,3 @@ Through these diverse concepts spanning geographic regions and types of approach
 Over the next year, these awardees will work with USAID and its partners to implement their approaches and generate new technical knowledge, lessons learned, and tested solutions in addressing gender -bias in AI tools. Through this implementation phase, USAID seeks to foster a diverse and more inclusive digital ecosystem where all communities can benefit from emerging technologies like AI, and—most importantly—ensure all members of these communities are not harmed by these technologies. This effort will inform USAID and the development community, providing a greater understanding of AI fairness tools and approaches, what they capture and what they leave out, and what tactics are needed to update, adapt, and socialize these tools for broader use. 
 
 Stay tuned as we share the ongoing progress of the challenge winners and build a stronger community of practice to learn together and work towards a more equitable AI-powered future.
-
