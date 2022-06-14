@@ -5,9 +5,27 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jun 2022 10:59:51 -0400</pubDate>
-    <lastBuildDate>Tue, 14 Jun 2022 10:59:51 -0400</lastBuildDate>
+    <pubDate>Tue, 14 Jun 2022 11:06:31 -0400</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2022 11:06:31 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/AIGraphic.jpg" medium="image" /> 
+        <title>How Four Awardees Are Paving the Way for a More Equitable AI-Powered Future</title>
+        <description>&lt;h3 id=&quot;introducing-the-winners-of-usaids-equitable-ai-challenge&quot;&gt;Introducing the Winners of USAID’s Equitable AI Challenge&lt;/h3&gt;
+&lt;p&gt;Artificial intelligence (AI) tools are a dual-edged sword: they promise tremendous benefits for international development, but have also demonstrated instances of bias and harm, often resulting from inequitable design, use, and impact. Recognizing that AI technologies can cause gender biases, the U.S. Agency for International Development (USAID) urgently looked for innovative and creative approaches to address gender-inequitable outcomes by launching the &lt;a href=&quot;https://www.ictworks.org/gender-equitable-artificial-intelligence-outcomes/#.YnPvuejMKUl&quot;&gt;Equitable AI Challenge&lt;/a&gt; in the fall of 2021. This challenge, implemented through DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt;, sought to support approaches that increase the accountability and transparency of AI systems in global development contexts. Dozens of competitors submitted approaches related to the prevention, identification, or monitoring of bias and harm against women and gender-nonconforming people—reflecting the larger goals of &lt;a href=&quot;https://www.usaid.gov/usaid-digital-strategy&quot;&gt;USAID’s Digital Strategy&lt;/a&gt;, the &lt;a href=&quot;https://www.usaid.gov/news-information/press-releases/oct-26-2021-administrator-samantha-power-first-ever-national-strategy-gender&quot;&gt;National Strategy on Gender Equity and Equality&lt;/a&gt;, and the recently launched &lt;a href=&quot;https://www.usaid.gov/digital-development/artificial-intelligence-action-plan&quot;&gt;USAID AI Action Plan&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Jun 2022 10:20:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
+</author>
+        <link>https://dai-global-digital.com/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Broken%20Bridge%20uMlazi.jpg" medium="image" /> 
@@ -239,31 +257,6 @@
         <category>RFA</category>
         
         <category>Cyber</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Strategy%203%20-%20Viamo.jpg" medium="image" /> 
-        <title>WomenConnect Challenge Blog Series: Strategy 3—Cultivating Women’s Confidence</title>
-        <description>&lt;p&gt;&lt;em&gt;This blog is part of the WomenConnect Challenge (WCC) Blog Series: Introducing Strategies for Closing the Gender Digital Divide. The U.S. Agency for International Development (USAID) Women Connect Challenge is a global call for solutions to improve women’s participation in everyday life by meaningfully changing the ways women access and use technology. In the first round, WCC awarded nine grants to organizations working to identify and change the social and economic circumstances that keep women offline and under-empowered. Through close partnership with local awardee teams and community members, WCC has identified &lt;a href=&quot;https://womenconnectchallenge.s3.amazonaws.com/media/uploads/proven_strategies_digitalgenderdivide_final.pdf&quot;&gt;five proven strategies&lt;/a&gt; for closing the gender digital divide and increasing women’s empowerment. This blog explores one strategy at length&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Strategy%203%20-%20Viamo.jpg&quot; alt=&quot;Strategy 3 - Viamo.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WCC Grantee Viamo works to bridge the gender digital divide and bring vital tools and information to women in Pakistan. Photo: Viamo.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Apr 2022 10:14:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/kendra-poole">Kendra Poole</a>
-</author>
-        <link>https://dai-global-digital.com/womenconnect-challenge-blog-series-strategy-3-cultivating-womens-confidence.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/womenconnect-challenge-blog-series-strategy-3-cultivating-womens-confidence.html</guid>
-        
-        <category>Digital inclusion</category>
-        
-        <category>Innovation</category>
-        
-        <category>Challenges</category>
-        
-        <category>Digital Divide</category>
         
         
       </item>
