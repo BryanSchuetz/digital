@@ -28,15 +28,15 @@ The [Digital Competence Framework for Citizens](https://publications.jrc.ec.euro
 
 While DigComp was developed by the European Commission to help its citizens “engage confidently, critically, and safely” with digital technologies, by defining digital literacy, DigComp provides the development community with a common understanding and language needed to incorporate digital literacy more intentionally into our programming. Frameworks such as DigComp can help us clarify what range of skills need to be developed, and prompt us to think about how best to track progress over time. Recognizing the responsibility of development practitioners to support digital literacy among the populations with which we work, USAID recently launched the [Digital Literacy Primer](https://www.usaid.gov/digital-development/digital-literacy-primer), which defines digital literacy and lays out how it contributes to the global development goals. The primer recognizes that there is room in all digital-facing development programs to contribute to building digital skills. The primer uses DigComp as a comprehensive framework for understanding digital literacy, demonstrating the benefit of the Framework for our sector.
 
-![DL Image 1.jpg](/uploads/DL%20Image%201.jpg)
+![DL Image 1.jpg](/uploads/DL%20Image%201.jpg) `Definition of digital literacy as per the EU Digital Competence Framework for Citizens 2.2`
 
 DigComp lays out five digital competence areas and a total of 21 digital competencies. The digital competence areas include information and data literacy, communication and collaboration, digital content creation, safety, and problem-solving. The competencies include specific activities (such as searching for digital information, creating content, and communicating online); and transversal competencies that apply to all online activities (safety and problem solving). 
 
-![Picture5.png](/uploads/Picture5.png)`Image: Figure 1 DigComp Conceptual Reference Model 2022.`
+![Digcomp3.jpg](/uploads/Digcomp3.jpg)`Image: Figure 1 DigComp Conceptual Reference Model 2022.`
 
 In its most recent update, DigComp takes into consideration the ever-changing digital space, and the increasing digital literacy requirements these changes place on citizens. DigComp 2.2 now includes examples of knowledge, skills, and attitudes for each competence area, that are needed to navigate a complex digital world. For instance, requiring knowledge of the [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) and its applicability to one’s life, having the skills to complete more advanced tasks such as using IoT devices to create content, and having attitudes such as the willingness to weigh the benefits of giving permissions to a device to access your location. It provides examples for different scenarios, such as what collaborating through digital technologies looks like in work and education settings. 
 
-![Picture6.png](/uploads/Picture6.png)`Image: DigComp 2.2: Competence 2.4 Collaborating through digital technologies, Use Cases p.21.`
+![Digcomp2.jpg](/uploads/Digcomp2.jpg)`Image: DigComp 2.2: Competence 2.4 Collaborating through digital technologies, Use Cases p.21.`
 
 ## How Can the International Development Community Use DigComp? 
  
