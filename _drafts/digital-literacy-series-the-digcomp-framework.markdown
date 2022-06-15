@@ -18,7 +18,7 @@ As we noted in a [previous blog](https://dai-global-digital.com/defining-and-exp
 
 With so many different digital skills and competencies to consider addressing in development programming, it often feels overwhelming to know where to begin. Luckily, numerous frameworks have been created to define and create a common language for digital literacy, including the [Digital Literacy Global Framework](http://uis.unesco.org/sites/default/files/documents/ip51-global-framework-reference-digital-literacy-skills-2018-en.pdf), the [DQ Institute Framework](https://www.dqinstitute.org/global-standards/) for Digital Intelligence, and the [EU Digital Competence Framework for Citizens](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415) (DigComp), among others. 
 
-As one of the most comprehensive frameworks for digital literacy and having been drawn on for the USAID digital literacy primer, we wanted to dig more into DigComp to better understand how it applies to our work in international development. This blog is the first in a series focused on the applicability of the DigComp Framework to the international development community.
+As one of the most comprehensive frameworks for digital literacy and having been drawn on for the U.S. Agency for International Development's digital literacy primer, we wanted to dig more into DigComp to better understand how it applies to our work in international development. This blog is the first in a series focused on the applicability of the DigComp Framework to the international development community.
 
 ![mars-sector-6-IgUR1iX0mqM-unsplash.jpg](/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg) `Image: Mars Sector-6, Unsplash`
 
