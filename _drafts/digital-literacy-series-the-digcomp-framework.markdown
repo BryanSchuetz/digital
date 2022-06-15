@@ -20,7 +20,7 @@ With so many different digital skills and competencies to consider addressing in
 
 As one of the most comprehensive frameworks for digital literacy and having been drawn on for the U.S. Agency for International Development (USAID)'s digital literacy primer, we wanted to dig more into DigComp to better understand how it applies to our work in international development. This blog is the first in a series focused on the applicability of the DigComp Framework to the international development community.
 
-![mars-sector-6-IgUR1iX0mqM-unsplash.jpg](/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg)`Image: Mars Sector-6, Unsplash.`
+![mars-sector-6-IgUR1iX0mqM-unsplash.jpg](/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg)`Mars Sector-6, Photo: Unsplash.`
 
 ## Introducing DigComp
 
@@ -28,7 +28,7 @@ The [Digital Competence Framework for Citizens](https://publications.jrc.ec.euro
 
 While DigComp was developed by the European Commission to help its citizens “engage confidently, critically, and safely” with digital technologies, by defining digital literacy, DigComp provides the development community with a common understanding and language needed to incorporate digital literacy more intentionally into our programming. Frameworks such as DigComp can help us clarify what range of skills need to be developed, and prompt us to think about how best to track progress over time. Recognizing the responsibility of development practitioners to support digital literacy among the populations with which we work, USAID recently launched the [Digital Literacy Primer](https://www.usaid.gov/digital-development/digital-literacy-primer), which defines digital literacy and lays out how it contributes to the global development goals. The primer recognizes that there is room in all digital-facing development programs to contribute to building digital skills. The primer uses DigComp as a comprehensive framework for understanding digital literacy, demonstrating the benefit of the Framework for our sector.
 
-![DL Image 1.jpg](/uploads/DL%20Image%201.jpg) `Image: Definition of digital literacy as per the EU Digital Competence Framework for Citizens 2.2`
+![DL Image 1.jpg](/uploads/DL%20Image%201.jpg)`Definition of digital literacy as per the European Union Digital Competence Framework for Citizens 2.2.`
 
 DigComp lays out five digital competence areas and a total of 21 digital competencies. The digital competence areas include information and data literacy, communication and collaboration, digital content creation, safety, and problem-solving. The competencies include specific activities (such as searching for digital information, creating content, and communicating online); and transversal competencies that apply to all online activities (safety and problem solving). 
 
