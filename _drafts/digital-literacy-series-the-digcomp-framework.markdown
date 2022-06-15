@@ -34,13 +34,13 @@ DigComp lays out five digital competence areas and a total of 21 digital compete
 
 ![Picture5.png](/uploads/Picture5.png)`Image: Figure 1 DigComp Conceptual Reference Model 2022.`
 
-In its most recent update, DigComptakes into consideration the ever-changing digital space, and the increasing digital literacy requirements these changes place on citizens. DigComp 2.2 now includes examples of knowledge, skills, and attitudes for each competence area, that are needed to navigate a complex digital world. For instance, requiring knowledge of IoT and its applicability to one’s life, having the skills to complete more advanced tasks such as using IoT devices to create content, and having attitudes such as the willingness to weigh the benefits of giving permissions to a device to access your location. It provides examples for different scenarios, such as what Collaborating through digital technologies looks like in work and education settings. 
+In its most recent update, DigComp takes into consideration the ever-changing digital space, and the increasing digital literacy requirements these changes place on citizens. DigComp 2.2 now includes examples of knowledge, skills, and attitudes for each competence area, that are needed to navigate a complex digital world. For instance, requiring knowledge of the [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) and its applicability to one’s life, having the skills to complete more advanced tasks such as using IoT devices to create content, and having attitudes such as the willingness to weigh the benefits of giving permissions to a device to access your location. It provides examples for different scenarios, such as what collaborating through digital technologies looks like in work and education settings. 
 
-![Picture6.png](/uploads/Picture6.png) `Image: DigComp 2.2: Competence 2.4 Collaborating through digital technologies, Use Cases p.21`
+![Picture6.png](/uploads/Picture6.png)`Image: DigComp 2.2: Competence 2.4 Collaborating through digital technologies, Use Cases p.21.`
 
-## How can the international development community use DigComp? 
-
-The DigComp framework can help us identify where we might already be doing digital literacy. Digital literacy is so complex, it might not always be clear to practitioners where it is already part of existing programming. We can use the DigComp Framework to identify what activities are contributing to building digital literacy and use this knowledge as a basis for information sharing and finding best practices. 
+## How Can the International Development Community Use DigComp? 
+ 
+DigComp can help us identify where we might already be doing digital literacy. Digital literacy is so complex, it might not always be clear to practitioners where it is already part of existing programming. We can use the DigComp Framework to identify what activities are contributing to building digital literacy and use this knowledge as a basis for information sharing and finding best practices. 
  
 The development community can also use the Framework to design programming, and in doing so will be guided to consider the full range of digital literacy competencies. Armed with guidance on the complex nature of digital literacy, users can design comprehensive digital literacy curricula which include finding and managing information, communication, and collaboration through digital technologies, creating content, keeping safe online, and problem-solving. 
 
