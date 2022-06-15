@@ -32,7 +32,7 @@ While DigComp was developed by the European Commission to help its citizens “e
 
 DigComp lays out five digital competence areas and a total of 21 digital competencies. The digital competence areas include information and data literacy, communication and collaboration, digital content creation, safety, and problem-solving. The competencies include specific activities (such as searching for digital information, creating content, and communicating online); and transversal competencies that apply to all online activities (safety and problem solving). 
 
-![Digcomp3.jpg](/uploads/Digcomp3.jpg)`Image: Figure 1 DigComp Conceptual Reference Model 2022.`
+![Digcomp3.jpg](/uploads/Digcomp3.jpg)`DigComp Conceptual Reference Model 2022.`
 
 In its most recent update, DigComp takes into consideration the ever-changing digital space, and the increasing digital literacy requirements these changes place on citizens. DigComp 2.2 now includes examples of knowledge, skills, and attitudes for each competence area, that are needed to navigate a complex digital world. For instance, requiring knowledge of the [Internet of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things) and its applicability to one’s life, having the skills to complete more advanced tasks such as using IoT devices to create content, and having attitudes such as the willingness to weigh the benefits of giving permissions to a device to access your location. It provides examples for different scenarios, such as what collaborating through digital technologies looks like in work and education settings. 
 
