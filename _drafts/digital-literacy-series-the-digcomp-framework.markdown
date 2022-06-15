@@ -20,7 +20,7 @@ With so many different digital skills and competencies to consider addressing in
 
 As one of the most comprehensive frameworks for digital literacy and having been drawn on for the U.S. Agency for International Development (USAID)'s digital literacy primer, we wanted to dig more into DigComp to better understand how it applies to our work in international development. This blog is the first in a series focused on the applicability of the DigComp Framework to the international development community.
 
-![mars-sector-6-IgUR1iX0mqM-unsplash.jpg](/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg)`Mars Sector-6, Photo: Unsplash.`
+![mars-sector-6-IgUR1iX0mqM-unsplash.jpg](/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg)`Photo: Unsplash.`
 
 ## Introducing DigComp
 
