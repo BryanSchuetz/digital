@@ -60,6 +60,6 @@ When reviewing the DigComp Framework it was notable that trust is not considered
 
 ## What Next?
 
-DigComp lays out the competence areas of digital literacy in a population–, sector–, and technology-agnostic way. It is therefore fully adaptable to the international development sector’s purposes. Through “design with the user” practices, we will be able to use these competencies to design programming that considers what skills the target audience needs to develop and place these in the local context to support trust-building.
+DigComp lays out the competence areas of digital literacy in a population-, sector-, and technology-agnostic way. It is therefore fully adaptable to the international development sector’s purposes. Through “design with the user” practices, we will be able to use these competencies to design programming that considers what skills the target audience needs to develop and place these in the local context to support trust-building.
 
 In the rest of this series, we will delve into each of the five competence areas, to further examine their applicability to the international development sector. 
