@@ -5,7 +5,7 @@ tags:
 - Digital Identity Series
 - Digital Inclusion
 - Privacy
-Author: Chloe Messenger
+Author: Chloe Carrington
 social-image: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 thumbnail: "/uploads/Digital%20ID%20small-1-ab2324.jpg"
 ---
