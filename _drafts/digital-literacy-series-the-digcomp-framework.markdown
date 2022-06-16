@@ -2,9 +2,10 @@
 title: 'Digital Literacy Series: The DigComp Framework'
 date: 2022-06-14 15:28:00 -04:00
 tags:
-- Digital Literacy
 - Digital inclusion
 - Digital Divide
+- Digital Literacy
+- Digital Literacy Series
 Author: Chloe Carrington
 social-image: "/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg"
 thumbnail: "/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg"
