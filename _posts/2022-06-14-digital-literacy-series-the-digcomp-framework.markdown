@@ -1,7 +1,6 @@
 ---
 title: 'Digital Literacy Series: The DigComp Framework'
 date: 2022-06-14 15:28:00 -04:00
-published: false
 tags:
 - Digital inclusion
 - Digital Divide
