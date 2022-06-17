@@ -12,6 +12,6 @@ Beginning in 2021, as people around the world—and their governments—were gra
 
 <!--more-->
 
-[digital model.PNG](/uploads/digital%20model.PNG)`Image: USAID`
+[digital model.PNG](/uploads/digital%20model.PNG) `Image: USAID`
 
 The goal of the model, at its core, is descriptive. Using existing literature as well as USAID’s own experience as a starting point, the model creates a clear conceptual understanding of the various elements of digital government and the risks of digitizing systems, processes, and tools at a rapid pace. ITR/T also consulted heavily with USAID’s Center for Democracy, Human Rights, and Governance (DRG Center) in developing this model. The diagram above summarizes the various elements of the model. Read the model in full [here](https://www.usaid.gov/digital-development/digital-government-model).  
