@@ -1,4 +1,13 @@
 
+- title: "USAID Launches Its Digital Government Model"
+  pub: "Digital"
+  date: 2022-06-16
+  link: "https://dai-global-digital.com/usaid-launches-its-digital-government-model.html?utm_source=daidotcom"
+  summary: "In 2021, as people around the world—and their governments—were grappling with a rapid transition to digital technology, the DAI-implemented USAID Digital Frontiers project began working  with the Technology Division of USAID’s Innovation, Technology, and Research (ITR) Hub to create a conceptual model of digital government (often called ‘e-government’). The model is now live and available to the public."
+  tags:
+    - digital acceleration 
+    - Digital Government 
+
 - title: "Digital Literacy Series: The DigComp Framework"
   pub: "Digital"
   date: 2022-06-14
@@ -270,17 +279,4 @@ When WCC grantee Equal Access International (EAI) began its #Tech4Families progr
     - COVID-19 
     - Digital Transformation 
     - Digital Insights 
-
-- title: "The Rise in Internet Shutdowns"
-  pub: "Digital"
-  date: 2022-02-22
-  link: "https://dai-global-digital.com/the-rise-in-internet-shutdowns.html?utm_source=daidotcom"
-  summary: "Recently, a snowstorm knocked out the internet connection at my apartment. While I could still communicate with others from my cellphone and use 4G to check Twitter for outage updates, the temporary inconvenience highlighted how dependent my life is on reliable internet access and how vulnerable our day-to-day lives are when that access is unexpectedly taken away. For many individuals, especially those in countries with authoritarian governments, unanticipated internet shutdowns have become increasingly common.
-
-The technical definition for an internet shutdown is when a government or nonstate actor intentionally disrupts access to the internet or certain platforms for a specific population or entire location to exert control over information. In 2020, Access Now’s Shutdown Tracker Optimization Project collected information on 155 reported instances of an internet shutdown, a significant increase from the 56 reported instances in 2016. As internet access has become more ingrained in a society’s ability to communicate, organize, and function, political leaders have increasingly leveraged their control of this resource to stifle dissent and reassert control."
-  tags:
-    - digital acceleration 
-    - Digital Repression 
-    - digital justice 
-    - Governance 
 

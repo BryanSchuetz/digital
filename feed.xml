@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Jun 2022 08:56:08 -0400</pubDate>
-    <lastBuildDate>Fri, 17 Jun 2022 08:56:08 -0400</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2022 15:10:05 -0400</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2022 15:10:05 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Model.png" medium="image" /> 
+        <title>USAID Launches Its Digital Government Model</title>
+        <description>&lt;p&gt;In 2021, as people around the world—and their governments—were grappling with a rapid transition to digital technology, the DAI-implemented USAID &lt;a href=&quot;https://www.digitalfrontiersdai.com/&quot;&gt;Digital Frontiers&lt;/a&gt; project began working  with the Technology Division of USAID’s Innovation, Technology, and Research (ITR) Hub to create a conceptual model of digital government (often called ‘e-government’). The model is now &lt;a href=&quot;https://www.usaid.gov/digital-development/digital-government-model&quot;&gt;live&lt;/a&gt; and available to the public.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Jun 2022 16:43:00 -0400</pubDate>
+        <author>Anand Varghese
+</author>
+        <link>https://dai-global-digital.com/usaid-launches-its-digital-government-model.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/usaid-launches-its-digital-government-model.html</guid>
+        
+        <category>Digital Government</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg" medium="image" /> 
@@ -234,29 +251,6 @@
         <category>Innovation</category>
         
         <category>Digital Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Aerobotics%20drone-8057e3.png" medium="image" /> 
-        <title>Q&amp;A: Drone Technology, Climate Adaptation, and Aerobotics—An Interview with Benji Meltzer</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Benji%20Meltzer,%20Co-Founder%20and%20CTO%20of%20Aerobotics.jpg&quot; alt=&quot;Benji Meltzer, Co-Founder and CTO of Aerobotics.jpg&quot; class=&quot;float-left&quot; /&gt;&lt;em&gt;Benji Meltzer is the co-founder and chief technology officer of Aerobotics, a South African ag-tech startup that uses artificial intelligence to support the world’s agriculture industry—specifically, farmers in managing their farms, trees, and fruits. We recently spoke with Benji on Aerobotics’ drone technology, the impact of digital tools in climate adaptation and mitigation, and more. This is an excerpt from that interview.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Apr 2022 15:33:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/julian-kesler/">Julian Kesler</a>
-</author>
-        <link>https://dai-global-digital.com/q-and-a-drone-technology-climate-adaptation-and-aerobotics-an-interview-with-benji-meltzer.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/q-and-a-drone-technology-climate-adaptation-and-aerobotics-an-interview-with-benji-meltzer.html</guid>
-        
-        <category>AI</category>
-        
-        <category>AgTech</category>
-        
-        <category>Agriculture</category>
-        
-        <category>Climate</category>
         
         
       </item>
