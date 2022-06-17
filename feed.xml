@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Jun 2022 09:37:33 -0400</pubDate>
-    <lastBuildDate>Thu, 16 Jun 2022 09:37:33 -0400</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2022 08:56:08 -0400</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2022 08:56:08 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/mars-sector-6-IgUR1iX0mqM-unsplash.jpg" medium="image" /> 
+        <title>Digital Literacy Series: The DigComp Framework</title>
+        <description>&lt;p&gt;With the onset of the pandemic spurring ever-faster digitalization around the world, we at DAI’s Center for Digital Acceleration are thinking about the key elements needed to ensure sustainable digital transformation in the countries where we work. One of the primary building blocks needed to achieve sustainability is strengthening digital literacy. As digital development practitioners, digital literacy is a big part of our work. Whether a person is getting online for the first time or is a cyber specialist, we have a responsibility to ensure those we work with have the agency to use the appropriate technology meaningfully: to achieve professional and personal goals, while avoiding digital harm. We also have a responsibility to close the digital divide by supporting novices in developing basic skills, so they are not left behind.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Jun 2022 15:28:00 -0400</pubDate>
+        <author>Chloe Carrington
+</author>
+        <link>https://dai-global-digital.com/digital-literacy-series-the-digcomp-framework.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-literacy-series-the-digcomp-framework.html</guid>
+        
+        <category>Digital inclusion</category>
+        
+        <category>Digital Divide</category>
+        
+        <category>Digital Literacy</category>
+        
+        <category>Digital Literacy Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/AIGraphic.jpg" medium="image" /> 
@@ -234,29 +257,6 @@
         <category>Agriculture</category>
         
         <category>Climate</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif" medium="image" /> 
-        <title>Apply Now: Teach Digital Upskilling to Small Firms in Sri Lanka</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt;’ South Asia Regional Digital Initiative (SARDI) is seeking applications from organizations to provide cybersecurity capacity building to small- and medium-sized enterprises (SMEs) in Sri Lanka.&lt;/p&gt;
-
-&lt;p&gt;SARDI aims to increase the digital capacity of the private sector and civil society through digital upskilling and by strengthening firms’ ability to engage in digital and ICT policy issues. SARDI implements activities focused on digital upskilling, policy awareness, and cyber capacity-building with entrepreneurs and small firms across South Asia.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Apr 2022 12:14:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/bermetkabylova/?originalSubdomain=kg">Bermet Kabylova</a>
-</author>
-        <link>https://dai-global-digital.com/apply-now-sardi-sme-digital-upskilling-sri-lanka.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/apply-now-sardi-sme-digital-upskilling-sri-lanka.html</guid>
-        
-        <category>SME</category>
-        
-        <category>RFA</category>
-        
-        <category>Cyber</category>
         
         
       </item>
