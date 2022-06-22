@@ -4,7 +4,7 @@ date: 2020-01-09 06:00:00 -05:00
 tags:
 - Digital Insights
 - Ecosystem Insights
-Author: Chloe Messenger
+Author: Chloe Carrington
 social-image: "/uploads/BiH.jpg"
 thumbnail: "/uploads/BiH.jpg"
 ---
