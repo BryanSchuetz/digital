@@ -28,6 +28,7 @@ Now, you might be reading this thinking, “But Nancy, I work in lower to middle
 
 ## Combatting anti-LGBTQ hate speech
 The “hate speech” vs. “free speech” debate is incredibly nuanced and context specific. I can’t pretend to have all the answers, but I can offer insights on what social media platforms and other key stakeholders are doing to combat anti-LGBTQ hate speech. 
+
 *Social Media Platforms*: Most platforms have some form of content moderation policy including:
 * Defining hate speech or “hateful conduct” and establishing community guidelines that do not allow for hate speech ([TikTok](https://www.tiktok.com/community-guidelines?lang=en), [Twitter](https://help.twitter.com/en/rules-and-policies/hateful-conduct-policy), and [YouTube](https://support.google.com/youtube/answer/2801939?hl=en)); or defining hate speech on a three tier system and removing content in violation based on severity (Facebook); 
 * Moderation in 70 different languages, covering many non-English speaking users ([Facebook](https://www.wired.com/story/facebooks-global-reach-exceeds-linguistic-grasp/));
