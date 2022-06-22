@@ -2,10 +2,21 @@
 title: 'Flagged for Review: A Look at Hate Speech in the International Development
   Context'
 date: 2022-06-22 14:19:00 -04:00
+tags:
+- Think Piece
+- Digital Platforms
+- Digital Rights
+- Digital Communications
 Author: Nancy Haugh
+social-image: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash-6021b0.jpg"
+thumbnail: "/uploads/rami-al-zayat-w33-zg-dNL4-unsplash-6021b0.jpg"
 ---
 
 Many countries [around the world](https://www.globesmart.com/blog/celebrating-lgbt-pride-around-the-world-things-to-know/) recognize June as Pride Month—a time for celebration of lesbian, gay, bisexual, transgender, and queer (LGBTQ) joy while reflecting on the community’s history. But this year it’s not just sunshine and rainbows. In cyberspace, the discourse on LGBTQ people and their rights is increasingly crowded with hate speech. On any given day, between kitten photos and life updates from friends, my own Twitter feed is sprinkled with discourses arguing that LGBTQ people are [“grooming”](https://www.npr.org/2022/05/11/1096623939/accusations-grooming-political-attack-homophobic-origins) children claiming [same-sex couples](https://twitter.com/benshapiro/status/1536667667150651392?s=21) shouldn’t be represented in Disney movies, and targeting the [validity and humanity](https://www.nbcnews.com/tech/tech-news/anti-lgbtq-threats-orchestrated-on-internet-shut-down-events-rcna33955) of transgender people. While I find these messages deeply distressing, I’m forced to ask myself, “Is this hate speech?” In this blog, I’m going to use the example of anti-LGBTQ hate speech to lay out what hate speech is, link it to the international development context, and share what social media platforms and other stakeholders are doing to combat hate speech. 
+
+![rami-al-zayat-w33-zg-dNL4-unsplash-6021b0.jpg](/uploads/rami-al-zayat-w33-zg-dNL4-unsplash-6021b0.jpg) `Image: Unsplash`
+
+<!--more--> 
 
 ## What is hate speech?
 In 2021, the Gay and Lesbian Alliance Against Defamation (GLAAD) published a [Social Media Safety Index](https://www.glaad.org/sites/default/files/images/2021-05/GLAAD SOCIAL MEDIA SAFETY INDEX_0.pdf) reviewing the product safety of Meta (formerly Facebook), Twitter, YouTube (subsidiary of Google), Instagram (subsidiary of Meta), and TikTok. The report’s findings suggest that these social media platforms are “effectively unsafe” for LGBTQ users, primarily due to hate speech and harassment these users face. But what is “hate speech”? 
