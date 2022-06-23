@@ -45,6 +45,7 @@ As illustrated by the [United Nations Educational, Scientific and Cultural Organ
 ## Other Key Stakeholders
 
 Below are a few policies from international bodies and U.S. agencies addressing hate speech:
+
 * The European Commission has a [Code of Conduct](https://ec.europa.eu/info/policies/justice-and-fundamental-rights/combatting-discrimination/racism-and-xenophobia/eu-code-conduct-countering-illegal-hate-speech-online_en) on countering illegal hate speech online with IT companies and social media platforms. 
 * The European Union (EU) uses the [General Data Protection Regulation](https://gdpr.eu/what-is-gdpr/) (GDPR) to govern privacy and security in the EU and is largely considered one of the world’s [most robust](https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=1564&context=jetlaw) policies impacting social media companies. In April, it also introduced the [Digital Services Act](https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html) which aims to combat mis and disinformation.   
 * The UN employs a variety of [articles](https://dig.watch/topics/freedom-expression) and strategies concerning freedom of expression and hate speech, including the [UN Strategy and Plan of Action on Hate Speech](https://www.un.org/en/genocideprevention/documents/UN Strategy and Plan of Action on Hate Speech 18 June SYNOPSIS.pdf).  
