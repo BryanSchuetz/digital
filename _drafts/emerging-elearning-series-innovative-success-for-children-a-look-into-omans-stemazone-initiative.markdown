@@ -7,8 +7,8 @@ tags:
 - Education
 - STEAM
 Author: "[Anne Hand](https://www.linkedin.com/in/annehand/) and [Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/)"
-social-image: "/uploads/9c5f27ba-54ca-4a23-88e1-13a001fe1f42.jpg"
-thumbnail: "/uploads/9c5f27ba-54ca-4a23-88e1-13a001fe1f42.jpg"
+social-image: "/uploads/stemazone%20thumbnail.png"
+thumbnail: "/uploads/stemazone%20thumbnail.png"
 ---
 
 This is the first in a series of blog posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.
@@ -26,6 +26,8 @@ This was not an easy process. Our team went through significant trial and error 
 ## Considerations for bringing STEAM to new audiences through eLearning
 
 We consider the following points as key elements of our success in creating a remote learning environment to support STEAM learning experiences, using Moodle as the learning management system (LMS). 
+
+![stemazone.png](/uploads/stemazone.png)`Image: DAI`
 
 **1. Keep it accessible, with comprehensive tracking.** 
 
