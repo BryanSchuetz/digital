@@ -6,7 +6,8 @@ tags:
 - eLearning
 - Education
 - STEAM
-Author: "[Anne Hand](https://www.linkedin.com/in/annehand/) and [Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/)"
+Author: "[Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/?originalSubdomain=cr)
+  and [Anne Hand](https://www.linkedin.com/in/annehand/)"
 social-image: "/uploads/stemazone%20thumbnail.png"
 thumbnail: "/uploads/stemazone%20thumbnail.png"
 ---
@@ -48,4 +49,3 @@ Therefore, different types of partnerships may be necessary to successfully impl
 ## Good results with transformative vision
 
 A year after it was launched, the [*stemazone*](https://stemazoneoman.om/) eLearning initiative was a big winner at the Future Skills and Human Resources Development Conference 2021 in Muscat, Oman. The Arabian Research Bureau ARB/OITE presented awards to Eshraqa—the social development arm of Omani conglomerate Khimji Ramdas—in three categories: “Future Technology,” “Robotics,” and “Best of the Best.” In 2022, *stemazone* will be part of a broader STEM learning ecosystem, continuing to support Oman’s youth and the productive future of the Sultanate of Oman. 
- 
