@@ -6,6 +6,7 @@ tags:
 - eLearning
 - Education
 - STEAM
+- Emerging eLearning Series
 Author: "[Alejandro Solis](https://www.linkedin.com/in/alejandrosolis/?originalSubdomain=cr)
   and [Anne Hand](https://www.linkedin.com/in/annehand/)"
 social-image: "/uploads/stemazone%20thumbnail.png"
