@@ -16,7 +16,7 @@ This is the first post in a series that seeks to capture e-learning efforts, cel
 
 <!--more--> 
 
-## Bringing Child-focused Science, Technology, Engineering, Arts, and Math (STEAM) Content to eLearning
+## Introducing Children to STEAM Content via eLearning
 
 The [stemazone](https://stemazoneoman.om/ar/#section-1) initiative for young Omanis—funded by the private foundation Eshraqa and [designed by DAI](https://www.dai.com/our-work/projects/oman-corporate-social-investment-science-technology-engineering-and-mathematics-csi-stem-program)—was intended to be cutting edge. Science, technology, engineering, arts, and math (STEAM) education is considered fundamental to support the development of a knowledge economy, something that the Sultanate of Oman has prioritized for the coming years. Designed to encourage children and young adults to get directly involved in STEAM activities, this project originally had a detailed plan to carry out in-person, hands-on workshops for youth. With widespread restrictions on people gathering in 2020 during the pandemic, the project had to pivot quickly. 
 
