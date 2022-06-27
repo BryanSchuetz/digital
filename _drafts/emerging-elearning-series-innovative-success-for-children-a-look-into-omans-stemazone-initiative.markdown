@@ -26,15 +26,19 @@ This was not an easy process. Our team went through significant trial and error 
 ## Considerations for bringing STEAM to new audiences through eLearning
 
 We consider the following points as key elements of our success in creating a remote learning environment to support STEAM learning experiences, using Moodle as the learning management system (LMS). 
+
 **1. Keep it accessible, with comprehensive tracking.** 
+
 User experience design is key to success for eLearning, especially for children. As adults, we are often dazzled by futuristic, fancy, or complex interfaces, when the target audience might need something simpler. For the stemazone project, significant time and effort went into determining the right balance. For example, it was important for the platform to capture intake information on students, but the reality is that children are not necessarily able to answer comprehensive demographic information. Finding the right fit there took multiple iterations and testing.
 
 Additionally, eLearning is more than just the content a user engages with, such as well-produced videos or pedagogically appropriate lessons. For example, it’s important for all eLearning content to be SCORM (Shareable Content Object Reference Model) compliant. When content is SCORM compliant, that allows project managers to more easily track and manage data to understand how well the online courses are working.
 
 **2. Scalable and secure infrastructure.** 
+
 Stemazone serves students, children, and young people nationwide in Oman. Through partnership with a local information technology (IT) provider, we were able to ensure high availability of content, a quick connection to servers, and flexible infrastructure to respond to spikes in platform demand. The level of security in data and system access should never be underestimated, and it’s important to, for example, consider the implementation of security layers like two-factor authentication.
 
 **3.Consider different modalities of STEAM learning as complementary and additive.** 
+
 While the digital stemazone platform was created in response to pandemic restrictions, a hybrid program generated more engagement among learners. STEAM education in particular is highly tactile, based on building and experimentation. Having step-by-step guidance at home, and participating in some in-person activities, allow learners to experience the best of both worlds. 
 
 Therefore, different types of partnerships may be necessary to successfully implement these different types of modalities. For example, working with the Omani Ministry of Education has been crucial for this hybrid transition, strategically complemeting work done in partnership with the Oman Children’s Museum and the Omani Ministry of Culture, Sports, and Youth.
