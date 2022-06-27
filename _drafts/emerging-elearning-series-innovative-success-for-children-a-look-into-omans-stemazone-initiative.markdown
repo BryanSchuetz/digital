@@ -30,8 +30,6 @@ This was not an easy process. Our team went through significant trial and error 
 
 The following points were key elements of our success in creating a remote learning environment to support STEAM learning experiences, using Moodle as the learning management system (LMS). 
 
-![stemazone.png](/uploads/stemazone.png)`Image: DAI`
-
 **1. Keep it accessible, with comprehensive tracking** 
 
 User experience is key to success for eLearning, especially for children. As adults, we are often dazzled by futuristic, fancy, or complex interfaces, when the target audience might need something simpler. For the stemazone project, significant time and effort went into determining the right balance. For example, it was important for the platform to capture intake information on students, but the reality is that children are not necessarily able to answer comprehensive demographic information. Finding the right fit there took multiple iterations and testing.
@@ -47,6 +45,8 @@ Stemazone serves students, children, and young people nationwide in Oman. Throug
 While the digital stemazone platform was created in response to pandemic restrictions, a hybrid program generated more engagement among learners. STEAM education in particular is highly tactile, based on building and experimentation. Having step-by-step guidance at home, and participating in some in-person activities, allow learners to experience the best of both worlds. 
 
 Therefore, different types of partnerships may be necessary to successfully implement these different types of modalities. For example, working with the Omani Ministry of Education has been crucial for this hybrid transition, strategically complementary work done in partnership with the Oman Children’s Museum and the Omani Ministry of Culture, Sports, and Youth.
+
+![stemazone.png](/uploads/stemazone.png)`Image: DAI`
 
 ## Transformative Vision
 
