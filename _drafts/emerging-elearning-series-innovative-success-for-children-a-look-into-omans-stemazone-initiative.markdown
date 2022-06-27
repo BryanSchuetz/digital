@@ -37,7 +37,7 @@ Additionally, eLearning is more than just the content a user engages with, such 
 
 Stemazone serves students, children, and young people nationwide in Oman. Through partnership with a local information technology (IT) provider, we were able to ensure high availability of content, a quick connection to servers, and flexible infrastructure to respond to spikes in platform demand. The level of security in data and system access should never be underestimated, and it’s important to, for example, consider the implementation of security layers like two-factor authentication.
 
-**3.Consider different modalities of STEAM learning as complementary and additive.** 
+**3. Consider different modalities of STEAM learning as complementary and additive.** 
 
 While the digital stemazone platform was created in response to pandemic restrictions, a hybrid program generated more engagement among learners. STEAM education in particular is highly tactile, based on building and experimentation. Having step-by-step guidance at home, and participating in some in-person activities, allow learners to experience the best of both worlds. 
 
