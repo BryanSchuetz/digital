@@ -22,6 +22,8 @@ The [*stemazone*](https://stemazoneoman.om/ar/#section-1) initiative for Omani y
 
 The main challenge was to transform that in-person experience into a virtual one, in a very short timeframe, with an exceptional level of quality as the first program of its type in Oman. When the [Sustainable Business Group](https://www.dai.com/our-work/solutions/sustainable-business) shared this idea with the CDA team, the ideas and proposals began to flow. In a matter of approximately six months, a platform with cutting-edge, culturally appropriate content went live. It is now an award-winning learning environment that continues to be actively used by Omani teachers and learners. 
 
+<iframe src="https://player.vimeo.com/video/552003877?h=191aa571a0" width="640" height="329" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 This was not an easy process. Our team went through significant trial and error to launch, improve, and maintain the site and its contents. Eighteen months after the platform launch, we would like to share some key lessons learned, thinking about one central question: What is the best way to create an innovative, child-focused, remote learning experience quickly? 
 
 ## Considerations for bringing STEAM to new audiences through eLearning
