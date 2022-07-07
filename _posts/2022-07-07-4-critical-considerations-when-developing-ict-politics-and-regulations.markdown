@@ -1,5 +1,5 @@
 ---
-title: 4 Critical Considerations When Developing ICT Politics and Regulations
+title: 4 Critical Considerations When Developing ICT Policies and Regulations
 date: 2022-07-07 10:26:00 -04:00
 tags:
 - ICT Policy
