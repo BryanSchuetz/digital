@@ -10,18 +10,17 @@ thumbnail: "/uploads/ATLATL%20(Timor%20Leste)%20(1).jpg"
 
 In a world dominated by rapid innovation, information and communications technology (ICT) is not only an accelerator for economic growth, it also provides on-ramps for vulnerable populations to participate in society and not get left behind. However, the potential of this type of tech can only go as far as a nation’s regulatory environment allows. A weak regulatory environment can drastically limit the benefits of ICT for a country’s economy, consumers, and citizens.  
 
+<!--more--> 
 
 Across several regions, DAI’s [ProICT](https://www.usaid.gov/digital-development/pro-ict-factsheet) and [Advancing Timor-Leste’s Autonomous Telecommunications Landscape](https://www.usaid.gov/sites/default/files/documents/ATLATL_Advancing_Timor-Lestes_Autonomous_Telecomunications_Landscape_Factsheet.pdf) (ATLATL) policy experts, implementing activities under the [Digital Connectivity and Cybersecurity Partnership](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/) (DCCP), stress that practitioners can demonstrate value in the ICT policy development process by building trusted and meaningful relationships with relevant stakeholders and beneficiaries, becoming deeply knowledgeable and respectful of local cultures, norms, laws, and challenges, and focusing their expertise on long-term capacity building that can outlast their time in country.
 
-![ATLATL (Timor Leste) (1).jpg](/uploads/ATLATL%20(Timor%20Leste)%20(1).jpg) `Image: Maahid Photos`
-
-<!--more--> 
+![ATLATL (Timor Leste) (1).jpg](/uploads/ATLATL%20(Timor%20Leste)%20(1).jpg)`Image: Maahid Photos.`
 
 ## 1: Listen to the Ecosystem before Making Recommendations
 
 A young tech-savvy population in Indonesia, a competitive telecommunications market in Liberia, and the desire for consumer protection laws in the Philippines are examples of diverse conditions that require vastly different local ICT policy approaches. ICT practitioners, which include individual policy experts to international development organizations, must realistically look at the current stage of a country’s ICT development as well as the existing policy and regulatory landscape before approaching policymakers with solutions. 
 
-For example, merchants and consumers in the Philippines use applications such as Facebook and Viber to conduct financial transactions for goods and services. Since many of these digital apps handle commercial disputes only through the app itself, consumers are left to depend on the app’s transaction policies, which may often provide limited options for financial protection. For consumers with issues such as fraudulent payments, many are unable to pursue alternative routes to recover their losses. Such instances necessitated enhanced consumer protection laws in the Philippines — a direct response to the country’s developing e-commerce market. 
+For example, merchants and consumers in the Philippines use applications such as Facebook and Viber to conduct financial transactions for goods and services. Since many of these digital apps handle commercial disputes only through the app itself, consumers are left to depend on the app’s transaction policies, which may often provide limited options for financial protection. For consumers with issues such as fraudulent payments, many are unable to pursue alternative routes to recover their losses. Such instances necessitated enhanced consumer protection laws in the Philippines—a direct response to the country’s developing e-commerce market. 
 
 ## 2: Pay Attention to Five Key Macroeconomic Drivers of the ICT Sector 
 
