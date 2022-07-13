@@ -1,6 +1,13 @@
 ---
 title: Embracing the Unlikely Resilience of Feature Phones
 date: 2022-07-13 11:38:00 -04:00
+tags:
+- Digital Literacy
+- Digital Skills
+- Smartphones
+- Feature Phones
+- Think Piece
+- Digital Inclusion
 Author: "[Anand Varghese](https://www.linkedin.com/in/anand-varghese-95235695) and
   [Galia Nurko](https://www.linkedin.com/in/galianurko)"
 social-image: "/uploads/sumeet-singh-okfXVsBHAtQ-unsplash%20(1).jpg"
