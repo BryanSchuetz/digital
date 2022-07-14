@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jul 2022 16:10:23 -0400</pubDate>
-    <lastBuildDate>Wed, 13 Jul 2022 16:10:23 -0400</lastBuildDate>
+    <pubDate>Thu, 14 Jul 2022 10:29:21 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Jul 2022 10:29:21 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sumeet-singh-okfXVsBHAtQ-unsplash%20(1).jpg" medium="image" /> 
+        <title>Embracing the Unlikely Resilience of Feature Phones</title>
+        <description>&lt;p&gt;Most of us in the development sector have been &lt;a href=&quot;https://blogs.worldbank.org/digital-development/mobile-based-solutions-can-strengthen-human-capital-gains-disrupted-covid-19&quot;&gt;preparing&lt;/a&gt; for an inevitable and imminent &lt;a href=&quot;https://www.worldbank.org/en/events/2021/06/10/using-smartphones-to-strengthen-the-human-capital-of-online-and-offline-populations-new-evidence-and-collaborations-for-&quot;&gt;smartphone&lt;/a&gt; future. But in a recent &lt;a href=&quot;https://www.bbc.com/news/business-60763168&quot;&gt;article&lt;/a&gt;, the BBC highlighted an interesting—if somewhat unexpected—phenomenon in the world of digital devices: the “return of the dumbphones” (we prefer the less pejorative term “feature phones,” which we use in this piece). According to the article, “While sales figures are hard to come by, one report said that global purchases of [feature phones] were due to hit one billion units last year, up from 400 million in 2019. This compares to worldwide sales of 1.4 billion smartphones last year, following a 12.5 percent decline in 2020.” Some might argue that the feature phone has never really gone away.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Jul 2022 11:38:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/anand-varghese">Anand Varghese</a> and <a href="https://www.dai.com/who-we-are/our-team/galia-nurko">Galia Nurko</a>
+</author>
+        <link>https://dai-global-digital.com/embracing-the-unlikely-resilience-of-feature-phones.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/embracing-the-unlikely-resilience-of-feature-phones.html</guid>
+        
+        <category>Digital Literacy</category>
+        
+        <category>Digital Skills</category>
+        
+        <category>Smartphones</category>
+        
+        <category>Feature Phones</category>
+        
+        <category>Think Piece</category>
+        
+        <category>Digital Inclusion</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/ATLATL%20(Timor%20Leste)%20(1).jpg" medium="image" /> 
@@ -199,27 +226,6 @@
         <category>Cybersecurity</category>
         
         <category>Digital Rights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Picture%20digital%20upskilling%20pwd.png" medium="image" /> 
-        <title>Realizing Inclusive Digital Development Through Boosting the Digital Skills of People Living with Disabilities</title>
-        <description>&lt;p&gt;Twenty-five percent of the nearly 1 billion people living with disabilities around the world live at or below the poverty line. Unfortunately, these roughly 250 million people are more likely to face obstacles ranging from finding employment to outright discrimination. However, digital technologies offer the potential to expand employment opportunities for people living with disabilities, allowing them to realize their capabilities, expand their networks, and increase their mobility through digital accessibility. DAI, implementing activities under the &lt;a href=&quot;https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/&quot;&gt;Digital Connectivity and Cybersecurity Partnership (DCCP)&lt;/a&gt;, is designing activities that create employment opportunities and support networks for people living with disabilities in countries such as Cambodia and India.&lt;/p&gt;
-
-&lt;p&gt;Through its work with the Digital Asia Accelerator (DAA) and the South Asia Regional Digital Initiative (SARDI), DAI recognizes disability as a cross-cutting issue and strives to provide equitable access to digital tools for people with a wide array of abilities, including those who are hard of hearing, have visual impairments, speech impediments, or other learning, developmental, and psychosocial disabilities. DAI’s grantee organizations, consultants, and partners are making significant steps towards digital inclusion through the facilitation of trainings, workshops, and mentoring groups specifically targeted and tailored for people living with disabilities.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 19 May 2022 15:05:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/jeremy-anderson-2b69391b6/">Jeremy Anderson</a>
-</author>
-        <link>https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html</guid>
-        
-        <category>Digital inclusion</category>
-        
-        <category>Digital Divide</category>
         
         
       </item>
