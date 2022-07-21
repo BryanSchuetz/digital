@@ -6,6 +6,8 @@ tags:
 - Digital Literacy
 - Digital Literacy Series
 Author: Araba Sapara-Grant
+social-image: "/uploads/Designing%20for%20Dig%20Lit.jpg"
+thumbnail: "/uploads/Designing%20for%20Dig%20Lit.jpg"
 ---
 
 Last month, the Center for Digital Acceleration [launched](https://www.google.com/url?q=https://dai-global-digital.com/digital-literacy-series-the-digcomp-framework.html&sa=D&source=docs&ust=1658146562000797&usg=AOvVaw3j9jpbm928yigZBp2zwbhX) a new blog series dedicated to digital literacy in international development. We want to learn more about this nuanced topic because digital literacy is central to sustaining the rapid digitalization that has taken place over the last two years. As donors, implementing partners, private companies, and government agencies invest in the digital transformation of key sectors and services, digital development practitioners must prioritize helping the communities interact with digital technology “[confidently, critically, and safely.](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415)”  
