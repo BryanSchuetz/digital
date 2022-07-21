@@ -5,6 +5,11 @@ date: 2022-07-21 09:30:00 -04:00
 tags:
 - Digital Literacy
 - Digital Literacy Series
+- Digital Inclusion
+- Digital Platforms
+- Innovation
+- Digital Divide
+- Digital Gender Divide
 Author: Araba Sapara-Grant
 social-image: "/uploads/Designing%20for%20Dig%20Lit.jpg"
 thumbnail: "/uploads/Designing%20for%20Dig%20Lit.jpg"
