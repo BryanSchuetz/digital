@@ -2,6 +2,9 @@
 title: 'Digital Literacy Series: Closing the Gap for Semi-Literate and Illiterate
   Populations'
 date: 2022-07-21 09:30:00 -04:00
+tags:
+- Digital Literacy
+- Digital Literacy Series
 Author: Araba Sapara-Grant
 ---
 
