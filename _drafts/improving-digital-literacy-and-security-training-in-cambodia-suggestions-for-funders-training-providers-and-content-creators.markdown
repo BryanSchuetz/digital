@@ -12,8 +12,6 @@ social-image: "/uploads/FHI%20360%20Blog%20Post.jpg"
 thumbnail: "/uploads/FHI%20360%20Blog%20Post.jpg"
 ---
 
-[Maura Joul](https://www.linkedin.com/in/maura-joul/) and [Annie Kemmerer](https://www.linkedin.com/in/anne-kemmerer/) and [Baker Lu]( https://www.linkedin.com/in/xiaoyilu/) and [Billy Taki](https://www.linkedin.com/in/williamtaki/) 
-
 *Maura Joul, Annie Kemmerer, Baker Lu, and Billy Taki are second-year master’s students in the Johns Hopkins University School of Advanced International Studies (SAIS) international development program. They worked with DAI staff on the Innovations for Social Accountability in Cambodia (ISAC) project, implemented by FHI 360 and funded by U.S. Agency for International Development (USAID), to conduct a landscape assessment of digital literacy and security education and training initiatives in Cambodia. The team interviewed digital security consultants, content creators, training providers, local civil society organizations (CSOs), international organizations, and industry experts in Cambodia. This post summarizes their key findings and recommendations.*
 
 CSOs in Cambodia are experiencing a series of rapid changes in response to COVID-19. The pandemic forced Cambodian citizens served by CSOs into the digital world, leading these organizations to shift their communications and programming to virtual platforms. Although Cambodian CSOs successfully accommodated to the rapid digitalization, the move to virtual has increased digital security issues in the country. 
