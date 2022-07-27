@@ -7,7 +7,7 @@ tags:
 - Digital Security
 - Digital Skills
 Author: "[Maura Joul](https://www.linkedin.com/in/maura-joul/) and [Annie Kemmerer](https://www.linkedin.com/in/anne-kemmerer/)
-  and [Baker Lu]( https://www.linkedin.com/in/xiaoyilu/) and [Billy Taki](https://www.linkedin.com/in/williamtaki/"
+  and [Baker Lu]( https://www.linkedin.com/in/xiaoyilu/) and [Billy Taki](https://www.linkedin.com/in/williamtaki/)"
 social-image: "/uploads/FHI%20360%20Blog%20Post.jpg"
 thumbnail: "/uploads/FHI%20360%20Blog%20Post.jpg"
 ---
@@ -49,3 +49,5 @@ Below are specific actions that training providers, and individual content creat
 * **Collaborate with key stakeholders to increase engagement, cross-promote, and share best practices.** While employers can mandate training attendance, active participation and engagement are much more difficult to elicit. Thoughtfully selecting a like-minded partner can help increase the perceived value of new digital literacy and security training programs while amplifying outreach efforts.
 
 As Cambodians come online, developing digital literacy and digital security skills is increasingly important. This also holds true for Cambodian CSOs, who need digitally literate and vigilant staff members to maintain their organizations’ online safety and reputation. Funders and training providers play a crucial role in supporting the digital upskilling of Cambodian CSOs and the broader population, which can help improve social accountability for public service delivery in Cambodia.
+
+[Maura Joul](https://www.linkedin.com/in/maura-joul/) and [Annie Kemmerer](https://www.linkedin.com/in/anne-kemmerer/) and [Baker Lu]( https://www.linkedin.com/in/xiaoyilu/) and [Billy Taki](https://www.linkedin.com/in/williamtaki/)
