@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Jul 2022 16:45:38 -0400</pubDate>
-    <lastBuildDate>Wed, 27 Jul 2022 16:45:38 -0400</lastBuildDate>
+    <pubDate>Thu, 28 Jul 2022 11:13:17 -0400</pubDate>
+    <lastBuildDate>Thu, 28 Jul 2022 11:13:17 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/FHI%20360%20Blog%20Post.jpg" medium="image" /> 
+        <title>Improving Digital Literacy and Security Training In Cambodia: Suggestions for Funders, Training Providers, and Content Creators</title>
+        <description>&lt;p&gt;&lt;em&gt;Maura Joul, Annie Kemmerer, Baker Lu, and Billy Taki are second-year master’s students in the Johns Hopkins University School of Advanced International Studies (SAIS) international development program. They worked with DAI on the Innovations for Social Accountability in Cambodia (ISAC) project, implemented by FHI 360 and funded by U.S. Agency for International Development (USAID), to conduct a landscape assessment of digital literacy and security education and training initiatives in Cambodia. The team interviewed digital security consultants, content creators, training providers, local civil society organizations (CSOs), international organizations, and industry experts in Cambodia. This post summarizes their key findings and recommendations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;CSOs in Cambodia are experiencing rapid changes in response to COVID-19. The pandemic forced Cambodian citizens served by CSOs into the digital world, leading these organizations to shift their communications and programming to virtual platforms. Although Cambodian CSOs successfully aclimated to the rapid digitalization, the move to virtual has increased digital security issues in the country.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/FHI%20360%20Blog%20Post.jpg&quot; alt=&quot;FHI 360 Blog Post.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Unsplash.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 27 Jul 2022 14:42:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/maura-joul/">Maura Joul</a>, <a href="https://www.linkedin.com/in/anne-kemmerer/">Annie Kemmerer</a>, <a href="https://www.linkedin.com/in/xiaoyilu/">Baker Lu</a>, and <a href="https://www.linkedin.com/in/williamtaki/">Billy Taki</a>
+</author>
+        <link>https://dai-global-digital.com/improving-digital-literacy-and-security-training-in-cambodia-suggestions-for-funders-training-providers-and-content-creators.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/improving-digital-literacy-and-security-training-in-cambodia-suggestions-for-funders-training-providers-and-content-creators.html</guid>
+        
+        <category>Digital Literacy</category>
+        
+        <category>Digital Security</category>
+        
+        <category>Digital Skills</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Designing%20for%20Dig%20Lit.jpg" medium="image" /> 
@@ -215,31 +240,6 @@
         <category>Waste Management</category>
         
         <category>Climate</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/pexels-sergio-souza-3907943%20(1).jpg" medium="image" /> 
-        <title>How Can the Mexican Automotive Industry Capitalize on Data-Driven Global Value Chains?</title>
-        <description>&lt;p&gt;&lt;em&gt;Smart factories could position Mexico as an Industry 4.0 hub and open doors to data-driven global value chains (GVCs).&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Mexico is embracing Industry 4.0. The digital factory in Puebla, the aerospace corridors in Querétaro, Guanajuato, Baja California, Sonora, Chihuahua, and Nuevo León showcase Industry 4.0 manufacturing throughout the country. Smart factories are facilities that primarily use automated tools and machines, from production robots to transportation devices or 3D printers. Products are equipped with sensors that allow them to connect and exchange data and communicate with each other. They make up a cyber-physical production system (CPPS) connected via the industrial Internet of Things (IoT).&lt;/p&gt;
-
-&lt;p&gt;Data are the smart factory’s blood vessels and the key enabler of modern global value chains (GVCs). In the networked smart factory, identities can be assigned to tools, machines, products, and materials. Items at each level of the GVC can thereby be precisely located and tracked. This networked and automated production environment is supplemented with “big data” (huge amounts of data from millions of nodes within a network, including the ability to process and analyze large amounts of data using cloud computing, artificial intelligence (AI), and machine learning). Data can be handled, processed, and analyzed in real time and passed on through GVCs. Greater customization is possible while retaining speed and efficiency. Individual products are networked and identifiable; customization is possible by drawing on user data, while customer data is directly transferred to machine data. Cloud computing and additive manufacturing enable decentralized production.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 25 May 2022 12:15:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/mimistankovic/">Miriam Stankovich</a> and <a href="https://www.linkedin.com/in/agustin-filippo-3586814/">Agustin Filippo</a>
-</author>
-        <link>https://dai-global-digital.com/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html</guid>
-        
-        <category>AI</category>
-        
-        <category>industry 4.0</category>
-        
-        <category>Smart Factory</category>
         
         
       </item>
