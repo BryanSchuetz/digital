@@ -28,6 +28,3 @@ Sharawwat Islam, highlighted how the piloting services offered by the Activity c
 Several innovative financing solutions from UNCDF were discussed by Sakshi Chadha, which could help to scale AgTech solutions. Currently, AgTech solutions are considered high risk business models by traditional financiers, thus limiting the solutions’ growth by lack of access to finance. Through Bridge Facility, UNCDF provides financing facilities that are too small for commercial and development banks and too large for micro-finance institutions.
 
 The Activity plans to do a few of these webinars. These series of dialogues and webinars aims to identify and facilitate linkages between promising AgTech tool owners and potential investors to support the long-term sustainability of scalable digital agriculture tools and technologies. 
-
-
-
