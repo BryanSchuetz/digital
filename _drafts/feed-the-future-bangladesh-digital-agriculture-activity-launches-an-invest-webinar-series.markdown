@@ -19,6 +19,8 @@ The panel included: [Dipka Chawla](https://www.linkedin.com/in/dipikachawla/), S
 
 ![Screenshot FTF.png](/uploads/Screenshot%20FTF.png) `Image: DAI`
 
+<!--more-->
+
 “One of the key guiding principles of business accelerators in commercializing AgTech services is to ensure entrepreneurs ‘get out of the building’, meet with customers, partners, and users to understand what roles they can play in scaling a business venture,” said Dipika Chawla in her speech. It is also essential for technology companies to realize that users and customers could be separate groups. For example, users could be farmers, whereas customers could be chemical fertilizer companies, governments, and other stakeholders. Business Accelerators could support such ventures to design their propositions and validate business models to better work with customers to support their user needs.
 
 The panelists discussed how business accelerators could offer structured support beyond funding for early-stage AgTech ventures. Structured support to help entrepreneurs market test their products and services before launching and connecting them with local and international markets, business partners, and offering mentorship and networking opportunities is key to establishing a position in the ecosystem. While at growth stage, the impact investors and venture capitalists could handhold high-growth ventures whose business models envision solving the most pressing user needs.
