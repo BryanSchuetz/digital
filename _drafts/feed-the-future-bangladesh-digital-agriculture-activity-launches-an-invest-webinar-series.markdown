@@ -17,7 +17,7 @@ On June 30, 2022, U.S. Agency for International Development (USAID) Feed the Fut
 
 The panel included: [Dipka Chawla](https://www.linkedin.com/in/dipikachawla/), Strategic Investment Advisor at DAI; [Shazeeb M. Khairul Islam](https://www.linkedin.com/in/shazeebislam/?originalSubdomain=bd), Founder & Managing Director of YY Ventures and Co-Founder and Managing Director at Impact Hub; [Prajeet Prabhakaran](https://www.linkedin.com/in/prajeet-prabhakaran-495b8049/?originalSubdomain=in), Head of Corporate Relations/Partnerships & Accelerator Programs at Kerala Startup Mission; [Deepak Nagpal](https://www.linkedin.com/in/deepakn/?originalSubdomain=in), Managing Partner at India Accelerator; [Barisha Rabbe](https://www.linkedin.com/in/barisha-rabbe-b07402120/?originalSubdomain=bd), Senior Manager of Ventures at Bangladesh Youth Leadership Center; [Dr. Zia Uddin Ahmed](https://www.vipbamc.com/about/board-of-directors/RADUQcf5EL6qBT7V4nycxXT8ctrLXuMayW1QAFgJoQc), Chairman of Venture Investments Partners Bangladesh; [Nazmul Karim](https://www.linkedin.com/in/nazmul-karim-cfa-37148a13/), CFA, CAIA, Country Manager, Bangladesh for Aavishkaar Capital; [Sharawwat Islam](https://truvalu-group.com/about-truvalu/), Managing Director for Truvalu; [Nurul Hai](https://www.seaf.com/team/nurul-hai/), Vice President of SEAF Bangladesh Ventures; and [Sakshi Chadha](https://www.linkedin.com/in/sakshichadha/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=in), Digital Expert Bangladesh for United Nations Capital Development Fund (UNCDF).
 
-![Screenshot FTF.png](/uploads/Screenshot%20FTF.png) `Image: DAI`
+![Screenshot FTF.png](/uploads/Screenshot%20FTF.png)
 
 <!--more-->
 
