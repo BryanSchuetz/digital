@@ -1,6 +1,5 @@
 ---
-title: Feed The Future Bangladesh Digital Agriculture Activity Launches an Invest
-  Webinar Series
+title: 'Webinar Series: Connecting Innovators with Funders in Bangladesh'
 date: 2022-08-02 11:34:00 -04:00
 tags:
 - AgTech
