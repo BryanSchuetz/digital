@@ -34,4 +34,4 @@ Islam highlighted how the piloting services offered by the Bangladesh Digital Ag
 
 Several innovative financing solutions to scale AgTech solutions were discussed by UNCDF's Chadha. Currently, AgTech solutions are considered high-risk business models by traditional financiers, she added, thus limiting the solutions’ growth by lack of access to finance. Through its Bridge Facility, UNCDF provides financing facilities that are too small for commercial and development banks and too large for micro-finance institutions.
 
-Follow this space to hear more about the next webinar and panelists. 
+Follow this space to hear more about the next webinar and panelists.  
