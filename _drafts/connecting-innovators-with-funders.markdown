@@ -6,7 +6,7 @@ tags:
 - Innovation
 - digital agriculture
 - Agriculture
-Author: "[Sajedul Haq](https://www.linkedin.com/in/pavelhoq/?originalSubdomain=bd)
+Author: "[Sajedul Hoq](https://www.linkedin.com/in/pavelhoq/?originalSubdomain=bd)
   and [Naba Nashit Tareque](https://www.linkedin.com/in/naba-tareque/?originalSubdomain=bd)"
 social-image: "/uploads/FTF%20Press%20Release.png"
 thumbnail: "/uploads/FTF%20Press%20Release.png"
@@ -35,3 +35,4 @@ Islam highlighted how the piloting services offered by the Bangladesh Digital Ag
 Several innovative financing solutions to scale AgTech solutions were discussed by UNCDF's Chadha. Currently, AgTech solutions are considered high-risk business models by traditional financiers, she added, thus limiting the solutions’ growth by lack of access to finance. Through its Bridge Facility, UNCDF provides financing facilities that are too small for commercial and development banks and too large for micro-finance institutions.
 
 The next webinar topic focuses on XXXXXXXXX. LINK to info??
+
