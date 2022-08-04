@@ -32,6 +32,6 @@ While at the growth stage, impact investors and venture capitalists can handhold
 
 Islam highlighted how the piloting services offered by the Bangladesh Digital Agricultural Activity complement and de-risk investors’ services. She emphasized that the piloting support can provide credible user testing information of Agtech solutions for sound investment decisions as well as ensure the sustainability of the tools.
 
-Several innovative financing solutions to scale AgTech solutions were discussed by UNCDF's Chadha. Currently, AgTech solutions are considered high-risk business models by traditional financiers, she added, thus limiting the solutions’ growth by lack of access to finance. Through its Bridge Facility, UNCDF provides financing facilities that are too small for commercial and development banks and too large for micro-finance institutions.
+Several innovative financing solutions to scale AgTech solutions were discussed by UNCDF's Chadha. Currently, AgTech solutions are considered high-risk business models by traditional financiers, she added, thus limiting the solutions’ growth by lack of access to finance. Through its Bridge Facility, UNCDF provides financing facilities that are too small for commercial and development banks and too large for microfinance institutions.
 
 Follow this space to hear more about the next webinar and panelists.  
