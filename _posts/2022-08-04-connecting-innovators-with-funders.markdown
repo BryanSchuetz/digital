@@ -1,6 +1,6 @@
 ---
 title: 'Webinar Series: Connecting Innovators with Funders in Bangladesh'
-date: 2022-08-02 11:34:00 -04:00
+date: 2022-08-04 11:34:00 -04:00
 tags:
 - AgTech
 - Innovation
