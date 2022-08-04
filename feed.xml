@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Aug 2022 10:33:22 -0400</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2022 10:33:22 -0400</lastBuildDate>
+    <pubDate>Thu, 04 Aug 2022 12:06:32 -0400</pubDate>
+    <lastBuildDate>Thu, 04 Aug 2022 12:06:32 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/FTF%20Press%20Release.png" medium="image" /> 
+        <title>Webinar Series: Connecting Innovators with Funders in Bangladesh</title>
+        <description>&lt;p&gt;Identifying and facilitating linkages between those who own promising digital tools for the agriculture sector—better known as AgTech—and those who have funds to invest is key to supporting the long-term sustainability of scalable digital AgTech tools.&lt;/p&gt;
+
+&lt;p&gt;Panelists at a recent webinar unpacked exactly how these links can be accomplished. Hosted by the U.S. Agency for International Development (USAID) Feed the Future Bangladesh Digital Agricultural Activity, and the first in a series, “Scaling Digital AgTech: Building Ecosystem for Innovation, Investment, and Sustainability of Digital Tools in Bangladesh” featured panelists from business accelerators, venture capital firms, impact investment organizations, donor organizations supporting digital agriculture tools, and technology firms.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Aug 2022 11:34:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/pavelhoq/?originalSubdomain=bd">Sajedul Hoq</a> and <a href="https://www.linkedin.com/in/naba-tareque/?originalSubdomain=bd">Naba Nashit Tareque</a>
+</author>
+        <link>https://dai-global-digital.com/connecting-innovators-with-funders.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/connecting-innovators-with-funders.html</guid>
+        
+        <category>AgTech</category>
+        
+        <category>Innovation</category>
+        
+        <category>digital agriculture</category>
+        
+        <category>Agriculture</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/FHI%20360%20Blog%20Post.jpg" medium="image" /> 
@@ -217,29 +242,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html</guid>
         
         <category>AI</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Broken%20Bridge%20uMlazi.jpg" medium="image" /> 
-        <title>Drone Mapping Reflects Solid Waste and Ocean Plastic Impact of the Durban Floods</title>
-        <description>&lt;p&gt;Heavy downpours over only two days in April 2022 caused South Africa’s worst and most deadly natural disaster to date: a flash flood so rare and devastating it has a one in the 300-year probability of recurring. According to the &lt;a href=&quot;https://erccportal.jrc.ec.europa.eu/ECHO-Products/Echo-Flash#/daily-flash-archive/4474&quot;&gt;European Union&lt;/a&gt;, approximately 435 people died and up to 41,000 people were affected. Rescue and disaster response efforts, which began immediately, are ongoing.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/716884061?h=ff95501847&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Wed, 01 Jun 2022 13:51:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/joshua-palfreman-wastewash/?originalSubdomain=za">Joshua Palfreman</a>
-</author>
-        <link>https://dai-global-digital.com/drone-mapping-reflects-solid-waste-and-ocean-plastic-impact-of-the-durban-floods.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/drone-mapping-reflects-solid-waste-and-ocean-plastic-impact-of-the-durban-floods.html</guid>
-        
-        <category>Environment</category>
-        
-        <category>Waste Management</category>
-        
-        <category>Climate</category>
         
         
       </item>
