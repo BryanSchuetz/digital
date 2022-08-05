@@ -18,7 +18,7 @@ The fashion industry drives a significant part of the global economy. Valued nor
 
 While climate change threatens all populations, communities in low- and middle-income countries feel its impact first and worst. The onset of the COVID-19 crisis has powered global eco-awakenings; consumers are now, more than ever, urging fashion players to be more socially and environmentally responsible through all stages of the fashion production life cycle. While far from the target of taking urgent action to combat climate change and its impacts, digital technologies offer innovative solutions to tackling climate change.
 
-![francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg](/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg)`Photo: Francois Le Nguyen, Unsplash.`
+![francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg](/uploads/francois-le-nguyen-pouTfHUG430-unsplash-f63dbf.jpg)`Photo: Francois Le Nguyen/Unsplash.`
 
 <!--more-->
 
