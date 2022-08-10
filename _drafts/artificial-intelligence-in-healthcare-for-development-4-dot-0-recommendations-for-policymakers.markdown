@@ -2,6 +2,8 @@
 title: 'Artificial Intelligence in Healthcare for Development 4.0: Recommendations
   for Policymakers'
 date: 2022-08-10 12:44:00 -04:00
+tags:
+- AI
 Author: Miriam Stankovich
 social-image: "/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 thumbnail: "/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
