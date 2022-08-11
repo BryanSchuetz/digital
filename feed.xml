@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2022 17:24:37 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2022 17:24:37 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2022 10:39:16 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2022 10:39:16 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg" medium="image" /> 
+        <title>Artificial Intelligence in Healthcare for Development 4.0: Recommendations for Policymakers</title>
+        <description>&lt;p&gt;Today, artificial intelligence (AI) is broadly understood to include not only long-term efforts to simulate the general intelligence humans exhibit, but also fast-evolving technologies—such as &lt;a href=&quot;https://www.ibm.com/cloud/learn/convolutional-neural-networks&quot;&gt;convolutional neural networks&lt;/a&gt;—that affect many facets of modern society, such as healthcare, national security, social media, agriculture, and more. The sweeping changes caused by AI have significantly increased the gap between government policy and innovative business models that rely on AI deployment. AI is changing norms and business models throughout society, demanding new and effective policy responses from governments on subjects with little real precedence. While governments struggle to adapt to the rapid pace of change, AI brings new solutions and offers the potential to transform how policy is made by providing new tools and methods of policy development.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Aug 2022 12:44:00 -0400</pubDate>
+        <author>Miriam Stankovich
+</author>
+        <link>https://dai-global-digital.com/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html</guid>
+        
+        <category>AI</category>
+        
+        <category>Data</category>
+        
+        <category>Innovation</category>
+        
+        <category>ICT Policy</category>
+        
+        <category>Machine Learning</category>
+        
+        <category>industry 4.0</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/FTF%20Press%20Release.png" medium="image" /> 
@@ -224,24 +251,6 @@
         <category>Digital Literacy</category>
         
         <category>Digital Literacy Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/AIGraphic.jpg" medium="image" /> 
-        <title>How Four Awardees Are Paving the Way for a More Equitable AI-Powered Future</title>
-        <description>&lt;h3 id=&quot;introducing-the-winners-of-usaids-equitable-ai-challenge&quot;&gt;Introducing the Winners of USAID’s Equitable AI Challenge&lt;/h3&gt;
-&lt;p&gt;Artificial intelligence (AI) tools are a dual-edged sword: they promise tremendous benefits for international development, but have also demonstrated instances of bias and harm, often resulting from inequitable design, use, and impact. Recognizing that AI technologies can cause gender biases, the U.S. Agency for International Development (USAID) urgently looked for innovative and creative approaches to address gender-inequitable outcomes by launching the &lt;a href=&quot;https://www.ictworks.org/gender-equitable-artificial-intelligence-outcomes/#.YnPvuejMKUl&quot;&gt;Equitable AI Challenge&lt;/a&gt; in the fall of 2021. This challenge, implemented through DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt;, sought to support approaches that increase the accountability and transparency of AI systems in global development contexts. Dozens of competitors submitted approaches related to the prevention, identification, or monitoring of bias and harm against women and gender-nonconforming people—reflecting the larger goals of &lt;a href=&quot;https://www.usaid.gov/usaid-digital-strategy&quot;&gt;USAID’s Digital Strategy&lt;/a&gt;, the &lt;a href=&quot;https://www.usaid.gov/news-information/press-releases/oct-26-2021-administrator-samantha-power-first-ever-national-strategy-gender&quot;&gt;National Strategy on Gender Equity and Equality&lt;/a&gt;, and the recently launched &lt;a href=&quot;https://www.usaid.gov/digital-development/artificial-intelligence-action-plan&quot;&gt;USAID AI Action Plan&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 14 Jun 2022 10:20:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
-</author>
-        <link>https://dai-global-digital.com/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html</guid>
-        
-        <category>AI</category>
         
         
       </item>
