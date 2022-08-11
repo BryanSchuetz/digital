@@ -4,6 +4,11 @@ title: 'Artificial Intelligence in Healthcare for Development 4.0: Recommendatio
 date: 2022-08-10 12:44:00 -04:00
 tags:
 - AI
+- Data
+- Innovation
+- ICT Policy
+- Machine Learning
+- industry 4.0
 Author: Miriam Stankovich
 social-image: "/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
 thumbnail: "/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg"
