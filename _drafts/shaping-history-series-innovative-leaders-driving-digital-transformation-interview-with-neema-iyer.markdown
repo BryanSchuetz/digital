@@ -51,7 +51,7 @@ Art has an immense role in shaping technology. In the next month, we will be rel
 
 "I’m proud of the breadth of feminist technology research that we have put out in our short time in existence and in pushing for these issues to be at the forefront of technology development, research and deployment. My favorite projects, as an artist, are the ones that deal with art: painting murals across Kampala based on citizen data, creating an interactive fiction game on digital safety for women in East Africa, curating short stories on speculative fiction by young Africans and when I can, creating the illustrations and visuals for our reports."
 
-According to [Pollicy Our Story](https://www.youtube.com/watch?v=MBaBEAcgbp0&t=5s) video, your company’s next step is to go global. How does Pollicy successfully go global while still maintaining a strong connection to the communities that it serves and that drive its work?
+**According to [Pollicy Our Story](https://www.youtube.com/watch?v=MBaBEAcgbp0&t=5s) video, your company’s next step is to go global. How does Pollicy successfully go global while still maintaining a strong connection to the communities that it serves and that drive its work?**
 
 "Pollicy has a hybrid team structure whereby half our team is based in Kampala, Uganda and the other half are remote. We conduct a number of engagements with partner organizations in-country such as our annual event, DataFest Africa, through engagements with educational institutions, in rural areas, with government stakeholders etc. As such, we have our feet firmly on the ground in Uganda, across Africa and now, across the world."
 
