@@ -4,6 +4,8 @@ title: 'Shaping History Series: Innovative Leaders Driving Digital Transformatio
 date: 2022-08-18 10:07:00 -04:00
 tags:
 - Innovation
+- Data
+- ICT
 Author: "[Afua Owusu](https://www.linkedin.com/in/afuaowusu/) and [Inta Plostins](https://www.linkedin.com/in/intaplostins/)"
 social-image: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
 thumbnail: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
@@ -50,6 +52,4 @@ According to [Pollicy Our Story](https://www.youtube.com/watch?v=MBaBEAcgbp0&t=5
 
 Pollicy has a hybrid team structure whereby half our team is based in Kampala, Uganda and the other half are remote. We conduct a number of engagements with partner organizations in-country such as our annual event, DataFest Africa, through engagements with educational institutions, in rural areas, with government stakeholders etc. As such, we have our feet firmly on the ground in Uganda, across Africa and now, across the world. 
 
-To learn more about Pollicy, check out their [website](https://pollicy.org/) and subscribe to their [newsletter](https://pollicy.us17.list-manage.com/subscribe/post?u=5036b2982f29f7269b0ed7775&id=871f3eddb8). Their recent research includes Encoded Biases & Future Imaginariesan—an examination of the relationship between AI and African women; Inclusion, Not Just An Add-On—a guide that reconsiders and reconceptualizes inclusive design practices; and Exploring the Future of Data Governance in Africa—a look at data stewardship methods.
-
-Learn more about Pollicy on its website or by subscribing to its newsletter. Their recent research includes Encoded Biases & Future Imaginaries (an examination of the relationship between AI and African women); Inclusion, Not Just An Add-On (a guide that reconsiders and reconceptualizes inclusive design practices); and Exploring the Future of Data Governance in Africa (a look at data stewardship methods).
+To learn more about Pollicy, check out their [website](https://pollicy.org/) and subscribe to their [newsletter](https://pollicy.us17.list-manage.com/subscribe/post?u=5036b2982f29f7269b0ed7775&id=871f3eddb8). Their recent research includes [Encoded Biases & Future Imaginariesan](https://pollicy.org/resource/encoded-biases-future-imaginaries/)—an examination of the relationship between AI and African women; [Inclusion, Not Just An Add-On](https://pollicy.org/resource/inclusion-not-just-an-add-on/)—a guide that reconsiders and reconceptualizes inclusive design practices; and [Exploring the Future of Data Governance in Africa](https://pollicy.org/resource/exploring-the-future-of-data-governance-in-africa/)—a look at data stewardship methods.
