@@ -1,6 +1,6 @@
 ---
-title: 'Shaping History Series: Innovative Leaders Driving Digital Transformation
-  – Interview with Neema Iyer'
+title: 'Shaping History Series: Innovative Leaders Driving Digital Transformation—Interview
+  with Neema Iyer'
 date: 2022-08-18 10:07:00 -04:00
 tags:
 - Innovation
