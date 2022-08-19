@@ -10,8 +10,8 @@ tags:
 - Shaping History Series
 Author: "[Afua Owusu](https://dai-global-digital.com/authors/afua-owusu/) and [Inta
   Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
-social-image: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
-thumbnail: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
+social-image: "/uploads/Neema%20Iyer%20Headshot.jpg"
+thumbnail: "/uploads/Neema%20Iyer%20Headshot.jpg"
 ---
 
 To put it simply, [Neema Iyer](https://www.linkedin.com/in/ineema/) is a trailblazer. Iyer is an artist and technologist influencing the digital development sector with her innovative lens on the intersection of data, technology, and design to improve government service delivery. The East African native is the founder and director of [Pollicy](https://pollicy.org/), a feminist collective of technologists, data scientists, and creatives. After graduating with a master’s degree in global epidemiology from Emory University in Atlanta, Georgia, Iyer returned to Africa, where she was exposed to the lack of gendered perspectives in the information and communications sector on the continent. Simultaneously, she was also experiencing and witnessing frustrations at various touch points with the government, such as securing important documents, information, or services. 
