@@ -9,7 +9,7 @@ tags:
 - Digital Gender Divide
 - Shaping History Series
 Author: "[Afua Owusu](https://dai-global-digital.com/authors/afua-owusu/) and [Inta
-  Plostins](https://dai-global-digital.com/authors/inta-plostins/) "
+  Plostins](https://dai-global-digital.com/authors/inta-plostins/)"
 social-image: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
 thumbnail: "/uploads/Neema-Headshot-2021-c-1-1200x800.jpg"
 ---
