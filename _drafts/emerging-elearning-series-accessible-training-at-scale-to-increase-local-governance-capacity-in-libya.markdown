@@ -15,20 +15,20 @@ thumbnail: "/uploads/tariq%20image.png"
 
 Since the beginning of the COVID-19 pandemic, DAI’s Center for Digital Acceleration (CDA) has been at the forefront of supporting international development projects to understand, apply, and implement eLearning solutions in settings that had not initially considered their wide-scale use.  
 
-This is the second in a series of blog posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.
+This is the second in a series of posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.
 
 <!--more-->
 
 ## Training Local Government Officials in Libya
 
-Among the first acts of Libya’s revolutionary government in November 2011 was to create a Ministry of Local Government, a first step actionable decentralization, a core value of the revolution, seen as insurance against the emergence of another dictatorship. The USAID-funded Libya Local Governance and Civil Society Program, locally known as “[Taqarib](https://www.dai.com/our-work/projects/libya-taqarib)” (the Arabic term for coming together or growing closer), strengthens the foundation of a more unified Libyan state by empowering local governments, reinforcing community bonds, and improving people’s standard of living. Taqarib helps citizens engage in public dialogue, prioritize public resource allocations, and understand the roles and responsibilities of local government. As part of this effort, Taqarib offers numerous outreach and training opportunities for Libyan local government officials. 
+Among the first acts of Libya’s revolutionary government in November 2011 was to create a Ministry of Local Government, a first step in actionable decentralization, a core value of the revolution, seen as insurance against the emergence of another dictatorship. The U.S. Agency for International Development (USAID)-funded Libya Local Governance and Civil Society Program, locally known as “[*Taqarib*](https://www.dai.com/our-work/projects/libya-taqarib)” (Arabic for coming together or growing closer), strengthens the foundation of a more unified Libya by empowering local governments, reinforcing community bonds, and improving people’s standard of living. *Taqarib* helps citizens engage in public dialogue, prioritize public resource allocations, and understand the roles and responsibilities of local government. As part of this effort, *Taqarib* offers numerous outreach and training opportunities for local government officials. 
 
-![taqarib 3.png](/uploads/taqarib%203.png)`Taqarib eLearning courses on learning.dai.com`
+![taqarib 3.png](/uploads/taqarib%203.png)`Taqarib eLearning courses on learning.dai.com.`
 
-Before the COVID-19 pandemic, Taqarib had already engaged with Libyan municipalities and gave in-person trainings on over 60 topics to these officials. The challenge the pandemic now posed to the CDA and Taqarib teams was twofold:
+Before the pandemic, *Taqarib* had already engaged with Libyan municipalities and given in-person training on more than 60 topics to these officials. The challenge the pandemic now posed to the CDA and *Taqarib* teams was twofold:
 
 1. How could content previously delivered through in-person workshops be adapted to an online environment?
-2. In what ways could this content be broadly accessible to civil servants in a diverse array of Libyan contexts?
+1. In what ways could this content be broadly accessible to civil servants in a diverse array of Libyan contexts?
 
 Two years into project development, we would like to share some key lessons learned, thinking about one central question: How can a digital training mechanism best be implemented in a context where both technical and technological capacity are being developed simultaneously? 
 
