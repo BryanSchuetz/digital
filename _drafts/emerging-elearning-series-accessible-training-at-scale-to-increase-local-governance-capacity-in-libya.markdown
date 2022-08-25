@@ -6,6 +6,7 @@ tags:
 - eLearning
 - Education
 - Emerging eLearning Series
+- eTraining
 Author: "[Trevor Olexy](https://www.dai.com/who-we-are/our-team/trevor-oxley) and
   [Anne Hand](https://dai-global-digital.com/authors/anne-hand/)"
 social-image: "/uploads/tariq%20image.png"
