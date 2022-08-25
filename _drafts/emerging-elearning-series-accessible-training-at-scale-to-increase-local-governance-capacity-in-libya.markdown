@@ -31,7 +31,7 @@ Before the COVID-19 pandemic, Taqarib had already engaged with Libyan municipali
 
 Two years into project development, we would like to share some key lessons learned, thinking about one central question: How can a digital training mechanism best be implemented in a context where both technical and technological capacity are being developed simultaneously? 
 
-**Considerations for eTraining of Local Government Officials**
+## Considerations for eTraining of Local Government Officials
 
 We consider the following points as key elements of our success in creating a remote learning environment to support the Taqarib eLearning experience, using DAI’s external-facing learning management system, learning.dai.com, as the means to disseminate material.
 
