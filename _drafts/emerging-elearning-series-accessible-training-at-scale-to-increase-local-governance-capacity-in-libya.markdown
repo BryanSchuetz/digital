@@ -13,7 +13,7 @@ social-image: "/uploads/tariq%20image.png"
 thumbnail: "/uploads/tariq%20image.png"
 ---
 
-Since the beginning of the COVID-19 pandemic, DAI’s Center for Digital Acceleration (CDA) has been at the forefront of supporting international development projects to understand, apply, and implement eLearning solutions in settings that had not initially considered their wide-scale use. 
+Since the beginning of the COVID-19 pandemic, DAI’s Center for Digital Acceleration (CDA) has been at the forefront of supporting international development projects to understand, apply, and implement eLearning solutions in settings that had not initially considered their wide-scale use.  
 
 This is the second in a series of blog posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.
 
