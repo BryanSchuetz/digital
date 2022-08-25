@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2022 11:19:35 -0400</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2022 11:19:35 -0400</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2022 13:04:24 -0400</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2022 13:04:24 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/tariq%20image.png" medium="image" /> 
+        <title>Emerging eLearning Series: Accessible Training at Scale to Increase Local Governance Capacity in Libya</title>
+        <description>&lt;p&gt;Since the beginning of the COVID-19 pandemic, DAI’s Center for Digital Acceleration (CDA) has been at the forefront of supporting international development projects to understand, apply, and implement eLearning solutions in settings that had not initially considered their wide-scale use.&lt;/p&gt;
+
+&lt;p&gt;This is the second in a series of posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Aug 2022 23:48:00 -0400</pubDate>
+        <author><a href="https://www.dai.com/who-we-are/our-team/trevor-oxley">Trevor Olexy</a> and <a href="https://dai-global-digital.com/authors/anne-hand/">Anne Hand</a>
+</author>
+        <link>https://dai-global-digital.com/emerging-elearning-series-accessible-training-at-scale-to-increase-local-governance-capacity-in-libya.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/emerging-elearning-series-accessible-training-at-scale-to-increase-local-governance-capacity-in-libya.html</guid>
+        
+        <category>eLearning</category>
+        
+        <category>Education</category>
+        
+        <category>Emerging eLearning Series</category>
+        
+        <category>eTraining</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Neema%20Iyer%20Headshot.jpg" medium="image" /> 
@@ -236,23 +261,6 @@
         <category>Digital Rights</category>
         
         <category>Digital Communications</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Model.png" medium="image" /> 
-        <title>USAID Launches Digital Government Model</title>
-        <description>&lt;p&gt;In 2021, as people around the world—and their governments—were grappling with a rapid transition to digital technology, the U.S. Agency for International Development (USAID) &lt;a href=&quot;https://www.digitalfrontiersdai.com/&quot;&gt;Digital Frontiers&lt;/a&gt; project began working with the Technology Division of USAID’s Innovation, Technology, and Research (ITR/T) Hub to create a conceptual model of digital government, or e-government. That model is now &lt;a href=&quot;https://www.usaid.gov/digital-development/digital-government-model&quot;&gt;live&lt;/a&gt; and available to the public.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Jun 2022 16:43:00 -0400</pubDate>
-        <author>Anand Varghese
-</author>
-        <link>https://dai-global-digital.com/usaid-launches-its-digital-government-model.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/usaid-launches-its-digital-government-model.html</guid>
-        
-        <category>Digital Government</category>
         
         
       </item>
