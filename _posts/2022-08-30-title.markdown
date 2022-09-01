@@ -1,13 +1,13 @@
 ---
 title: Lack of Cybersecurity Talent Poses a Global Challenge and Opportunity
-date: 2022-08-30 13:10:00 -04:00
+date: 2022-08-30 09:00:00 -04:00
 tags:
 - Cybersecurity
 - Innovation
 - Education
 Author: Galia Nurko
-social-image: "/uploads/shutterstock_605029655-cyberworkforce-copyright-rawpixel_2mb.jpg"
-thumbnail: "/uploads/shutterstock_605029655-cyberworkforce-copyright-rawpixel_2mb.jpg"
+social-image: "/uploads/pexels-pixabay-60504.jpg"
+thumbnail: "/uploads/pexels-pixabay-60504.jpg"
 ---
 
 The limited supply of a skilled workforce is one of the major challenges plaguing the technology ecosystems of countries around the world. The field of cybersecurity is an excellent case study. According to the [2021 (ICS)2Cybersecurity Workforce Study](https://www.isc2.org/-/media/ISC2/Research/2021/ISC2-Cybersecurity-Workforce-Study-2021.ashx), the cybersecurity workforce gap—the number of people needed to help organizations protect their critical assets from cybersecurity threats—is 2.72 million worldwide. Although down from 3.12 million the previous year, this is still a significant gap. The true shortfall is likely greater, as the study does not account for the public policy, diplomatic, or business talent in small and medium-sized enterprises. This post explores opportunities to enhance the cybersecurity literacy of policymakers, diplomats, and business leaders, and makes the case for cybersecurity workforce development across these professions.
@@ -24,7 +24,7 @@ In the United States, and other mature markets, there are efforts to bridge the 
 
 These ideas do not contend with the problem of policy maker or civil servant turnover, which is why these initiatives must also be coupled with integrating cybersecurity courses and curricula into formal policy education beginning at the secondary level. This helps ensure that future generations of policy makers are already equipped with basic cybersecurity knowledge.
 
-![shutterstock_605029655-cyberworkforce-copyright-rawpixel_2mb.jpg](/uploads/shutterstock_605029655-cyberworkforce-copyright-rawpixel_2mb.jpg)`Photo: Shutterstock.`
+![pexels-pixabay-60504.jpg](/uploads/pexels-pixabay-60504.jpg)
 
 ## Diplomatic Corps
 
