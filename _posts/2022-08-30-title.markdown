@@ -14,7 +14,7 @@ The limited supply of a skilled workforce is one of the major challenges plaguin
 
 <!--more-->
 
-## Policy makers
+## Policymakers
 
 Digital tools and services are becoming ubiquitous across sectors. As countries rapidly digitalize, complex policy questions arise about how and when to use technology, how to protect consumer privacy effectively, and what tools lawmakers should have at their disposal when a country’s critical systems are compromised via a cyberattack. Answering these questions requires policy makers to understand the capabilities of technologies active in the market and how their use cases might transform in the future. In other words, countries need policy makers who are technology literate and technologists who are policy literate—enabling the development of policies that are responsive to organizational and individual needs. Because policy makers also hold the purse strings at the national and local levels, knowledge on these topics is even more critical to ensuring adequate budget is allocated to cybersecurity activities. If this argument isn’t convincing enough, listen to Bruce Schneier’s [remarks](https://www.schneier.com/blog/about/) from 2019.
 
