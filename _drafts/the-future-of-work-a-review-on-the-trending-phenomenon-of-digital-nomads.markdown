@@ -9,6 +9,8 @@ tags:
 - Future of Work
 - Review
 - Think Piece
+Author: "[Afua Owusu](https://dai-global-digital.com/authors/afua-owusu/) and [Temi
+  Olatunji](https://dai-global-digital.com/authors/temi-olatunji/)"
 social-image: "/uploads/austin-distel-x1J0zj63ZjM-unsplash.jpg"
 thumbnail: "/uploads/austin-distel-x1J0zj63ZjM-unsplash.jpg"
 ---
