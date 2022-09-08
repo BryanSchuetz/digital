@@ -31,7 +31,7 @@ Societal changes, such as the pervasiveness of mobility and technology in everyd
 
 ## An Exploration on Freedom, Home, and Neo-Nomadic Communities 
 
-A quick google search of the "pros and cons of being a digital nomad" will yield first-person accounts on why or why not to consider the trend or lifestyle. The themes of freedom, cultural awareness, and community are amongst the pros of digital nomadism, while some cons are loneliness, the inability to save [money](https://bucketlistbri.com/pros-cons-of-being-a-digital-nomad/), and burnout. We dove into the most seemingly popular themes mentioned on first-person accounted digital nomad blogs: [freedom](https://asiaexchange.org/blogs/7-pros-and-cons-of-being-a-digital-nomad/), home, and community:
+A quick google search of the "pros and cons of being a digital nomad" will yield first-person accounts on why or why not to consider the trend or lifestyle. The themes of freedom, cultural awareness, and community are amongst the pros of digital nomadism, while some cons are loneliness, the inability to save [money](https://bucketlistbri.com/pros-cons-of-being-a-digital-nomad/), and burnout. We dove into the most seemingly popular themes mentioned on first-person accounted digital nomad blogs—[freedom](https://asiaexchange.org/blogs/7-pros-and-cons-of-being-a-digital-nomad/), home, and community:
 
 ![2340521934_14d72ab3ef_c-6c31c3.jpg](/uploads/2340521934_14d72ab3ef_c-6c31c3.jpg) `Photo: CC BY-SA 2.0`
 
