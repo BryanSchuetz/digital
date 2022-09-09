@@ -11,8 +11,8 @@ tags:
 - Think Piece
 Author: "[Afua Owusu](https://dai-global-digital.com/authors/afua-owusu/) and [Temi
   Olatunji](https://dai-global-digital.com/authors/temi-olatunji/)"
-social-image: "/uploads/austin-distel-x1J0zj63ZjM-unsplash.jpg"
-thumbnail: "/uploads/austin-distel-x1J0zj63ZjM-unsplash.jpg"
+social-image: "/uploads/austin-distel-x1J0zj63ZjM-unsplash%20(1).jpg"
+thumbnail: "/uploads/austin-distel-x1J0zj63ZjM-unsplash%20(1).jpg"
 ---
 
 In 2020, the world witnessed and experienced the COVID-19 pandemic reshape organizational cultures and how people define work in their lives. Companies shifted their models to accommodate working from home, and that trend continues, as an Upwork [study](https://www.upwork.com/press/releases/upwork-study-finds-22-of-american-workforce-will-be-remote-by-2025) estimated that by 2025, 22 percent of the U.S. workforce will be remote workers. The reshaping of work also pushed further the phenomenon of digital nomads.
