@@ -9,15 +9,15 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="First Contact with the Planet API and NodeJS">
-  <meta name="twitter:description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is Planet, a sma...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta name="twitter:title" content="The Authentication Dilemma: Can a Single Solution Guarantee Security for Small Firms?">
+  <meta name="twitter:description" content="Due to the rapid rate of digitalization catalyzed by the COVID-19 pandemic, cyber-attacks have become ubiquitous, presenting opportunities to improve cybersecurity practices for small and medium-sized enterprises (SMEs). SMEs contribu...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/Thumbnail%20MFA.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>First Contact with the Planet API and NodeJS</title>
-  <meta name="description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most promi...">
+  <title>The Authentication Dilemma: Can a Single Solution Guarantee Security for Small Firms?</title>
+  <meta name="description" content="Due to the rapid rate of digitalization catalyzed by the COVID-19 pandemic, cyber-attacks have become ubiquitous, presenting opportunities to improve cyberse...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/Thumbnail%20MFA.jpg">
   
   <!-- JS -->
   <script   src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
@@ -25,7 +25,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=23">
-  <link rel="canonical" href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html">
+  <link rel="canonical" href="https://dai-global-digital.com/the-authentication-dilemma.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -99,55 +99,53 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">First Contact with the Planet API and NodeJS</h1>
+    <h1 class="post-title">The Authentication Dilemma: Can a Single Solution Guarantee Security for Small Firms?</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=remote-sensing-series">series of posts</a> on Remote Sensing.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Apr 20, 2017</p>
+      <p class="post-details--date">Sep 15, 2022</p>
       
       
-      <p class="post-details--byline">By John DeRiggi
-</p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=remote-sensing-series" class="without-style">Remote Sensing Series</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span></p>
+      <p class="post-details--byline">By <a href="/authors/alexander-sekhniashvili/" class="without-style">Alexander Sekhniashvili
+</a></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=cybersecurity" class="without-style">Cybersecurity</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-security" class="without-style">Digital Security</a></span> • <span class="post-topic"><a href="/tags/?tag=sme" class="without-style">SME</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is <a href="https://www.planet.com/">Planet</a>, a small company with lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. It provides access to that imagery through a web platform, and it gives developers access to its data through a web API.</p>
+    <p>Due to the rapid rate of digitalization catalyzed by the COVID-19 pandemic, cyber-attacks have become ubiquitous, presenting opportunities to improve cybersecurity practices for small and medium-sized enterprises (SMEs). SMEs contribute up to <a href="https://www.worldbank.org/en/topic/smefinance">40 percent</a> of the gross domestic product in emerging economies, make up 90 percent of all businesses, and provide more than 50 percent of employment worldwide, making them significant economic drivers and digital supply chain actors. They also endure unprecedented malicious cyber activity, such as ransomware, phishing, password targeting, and advanced persistent threat attacks. In Nigeria, cyber attacks against SMEs have increased by <a href="https://guardian.ng/business-services/cyber-attack-on-nigerian-smes-up-by-89-per-cent-in-2022/">89 percent</a>, in 2022 alone, and in India, more than <a href="https://timesofindia.indiatimes.com/business/india-business/more-than-60-of-mid-sized-indian-organizations-surveyed-fell-victim-to-a-cyberattack-in-2021-sophos-research-shows/articleshow/90517626.cms">60 percent</a> of all SMEs experienced attacks last year.</p>
 
 <!--more-->
 
-<p><img src="/uploads/thumbnails-054255.png" alt="thumbnails-054255.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails of Sentinel Imagery from Planet’s API.</code></p>
+<p>Many stakeholders claim that a single measure can significantly reduce hackers’ ability to infiltrate individual or organizational systems. So much so, that the United States Cybersecurity and Infrastructure Security Agency (CISA) has been running a public awareness campaign since June to encourage its adoption, claiming it can reduce 99 percent of cyber incidents. This measure is multi-factor authentication (MFA), sometimes referred to as two-factor authentication or 2FA. MFA, a cornerstone of the <a href="https://www.microsoft.com/en-us/security/business/zero-trust">Zero Trust</a> cybersecurity stance, is an <a href="https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html">electronic authentication method</a> that protects applications by using second source validation before granting access to users.</p>
 
-<p>We’re really excited about the prospect of building custom apps to collect imagery for some of our project sites. The <a href="https://www.planet.com/docs/">API docs</a> for Planet are thorough, letting you work out how to write a client of the API in the programming language of your choice. It has a few Python examples on the site but none for NodeJS in the latest version of the API—so let’s make one!</p>
+<p>Despite widespread promotion of this security measure, recent hacks exploiting MFA-enabled accounts and inherent technical issues with adoption, imply that MFA is not infallible in guaranteeing organizational security. While MFA is foundational to boosting SME defenses, a holistic and consistent approach to <a href="https://www.microsoft.com/security/blog/2020/01/15/how-to-implement-multi-factor-authentication/">implementing</a>, maintaining, and evolving cybersecurity measures will strengthen the protective impact of MFA by prioritizing other controls and processes—and building a strong cybersecurity culture along the way.</p>
 
-<p>One of the apps we’re cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1, has downloadable assets and is an image with at least 85 percent actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as <a href="https://www.planet.com/docs/glossary/">blackfill</a> in the Planet glossary. Also, for the record, we don’t have any projects in Malibu, it’s just an example.</p>
+<p><img src="/uploads/ed-hardie-RMIsZlv8qv4-unsplash.jpg" alt="ed-hardie-RMIsZlv8qv4-unsplash.jpg" /><code class="language-plaintext highlighter-rouge">Photo: Ed Hardie/Unsplash.</code></p>
 
-<h1 id="making-a-request-to-the-api">Making a Request to the API</h1>
+<h2 id="benefits-and-limitations-of-mfa">Benefits and Limitations of MFA</h2>
 
-<p>Here’s the code to make a request to the Planet API using NodeJS. If you want to use the code, you first need to <a href="https://www.planet.com/explorer/">register as a developer with Planet</a> to get your API key, and then insert it on line 76. That is the only change you need to make in the code before running it on your own machine.</p>
+<p>MFA comes in various forms. Most likely, the app you use to log into emails, bank accounts, or social media platforms has an option to turn on MFA to increase your protection. The most common type of authentication involves sending a user a code via text message or email to verify their identity. Advanced forms of MFA also incorporate biometric authentication mechanisms such as fingerprints, face scans, or voice recognition. These additional steps make it difficult for hackers to steal or crack traditional passwords and prevent unauthorized access to accounts containing sensitive data.</p>
 
-<script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
+<p>National and international organizations rightly provide guidance to incentivize MFA among individuals and organizations. CISA kicked off a “More Than a Password” social media campaign in June, with a <a href="https://www.cisa.gov/mfa">landing page</a> to learn about MFA and explore resources to enable the security measure. Likewise, the National Institute of Standards and Technology (NIST) advises all organizations to use MFA whenever possible. NIST’s <a href="https://pages.nist.gov/800-63-3/sp800-63-3.html#:~:text=Digital%20Identity%20Guidelines%201%201%20Purpose%20This%20section,a%20subject%20engaged%20in%20an%20online%20transaction.%20">Digital Identity Guidelines</a> establish different categories of MFA controls to delineate between various levels of identity assurance. In Europe, international directives such as the European Union’s landmark <a href="https://gdpr.eu/what-is-gdpr/#:~:text=The%20General%20Data%20Protection%20Regulation,to%20people%20in%20the%20EU.">General Data Protection Regulation</a> (GDPR) or the revised <a href="https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en">Payment Services Directive</a> (PSD2) represent essential factors in increasing the popularity of MFA methods. Both directives have had a significant impact on the security awareness of companies and individual users to protect themselves against the consequences of breaking the GDPR. Electronic-banking customers in the European Union also use two-factor solid authentication as one of the requirements of PSD2 <a href="https://secfense.com/blog/mfa-trends-and-recommendations/">directive</a>.</p>
 
-<h1 id="reading-the-response">Reading the Response</h1>
+<p>With these advances in MFA-enabled accounts, bad actors have naturally evolved their attempts to evade and exploit MFA through phishing and <a href="https://www.cisa.gov/uscert/ncas/tips/ST04-014">social engineering attacks</a>. Most recently, in a <a href="https://www.cybersecuritydive.com/news/okta-twilio-phishing-attack/630820/">text-message phishing campaign</a> named “Scatter Swine,” attackers hacked texting software that sends one-time passwords to access to corporate networks and steal almost 10,000 user credentials. In May, <a href="https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html">attackers</a> bypassed MFA through a compromised Google account tied to a Cisco employee’s virtual private network using a various techniques. <a href="https://www.nasdaq.com/articles/cisco-systems-faced-cyberattack-from-hacked-employees-google-account">MFA fatigue</a>—sending multiple push requests to the target’s mobile device to deceive the user into accepting, either accidentally or while trying to silence notifications—and voice phishing (known as “vishing”) were among the tactics used in the attack.</p>
 
-<p>Our response comes back as a page-able list of responses with 250 records in each page, with each record corresponding to a single imagery product. One record contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you need to make another authenticated web request using the asset link that is part of each response object.
-<script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script></p>
+<p>There are also noteworthy technical speedbumps to implementing MFA within an organization of any size. Employees who don’t understand the relevance of incorporating MFA into their daily work routine, don’t trust the technology, or experience complications with accessing to secondary devices, all present challenges for organizations looking to install MFA.</p>
 
-<h1 id="images-in-the-response">Images in the Response</h1>
+<h2 id="building-cybersecurity-resilience-beyond-single-measures">Building Cybersecurity Resilience Beyond Single Measures</h2>
 
-<p>Here are some beautiful images of the southern Californian coastline that came back in our response. A useful parameter in the result set is cloud_cover. Filtering on images with low cloud_cover gives you crystal clear imagery.</p>
+<p>While MFA is a tool that can help immensely reduce cyber incidents, organizations must think holistically about cybersecurity to increase resilience and be better prepared for the evolving threat landscape. Here are three tips for SMEs with more limited resources and capacity looking to strengthen cybersecurity:</p>
 
-<p><img src="/uploads/malibu_3-215f3c.png" alt="malibu_3-215f3c.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails in the response of our API request for images near Malibu, California.</code>
-This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.</p>
+<ul>
+  <li><strong>Take advantage of free online resources.</strong> Investing in cybersecurity does not mean adopting expensive proprietary technology as first course of defense. The Global Cyber Alliance and Mastercard have made a <a href="https://gcatoolkit.org/smallbusiness/?__hstc=59124731.ee6cb420c83be560ebe753a1c9be7c47.1663112764506.1663112764506.1663112764506.1&amp;__hssc=59124731.2.1663112764506&amp;__hsfp=1547942685">Cybersecurity Toolkit</a> for SMEs that provides actionable guidance and tools with clear directions to combat the increasing cyberattacks.</li>
+  <li><strong>Devise a cybersecurity strategy.</strong> A strategy or company policy that improves defensive posture around people, processes, and technology can address various factors, including identification, mitigation, and response to cyber threats or compliance with cybersecurity standards or frameworks. Start by understanding data security management risks and include important provisions such as deploying, monitoring, and gathering feedback on MFA from users.</li>
+  <li><strong>Build a cybersecurity culture through awareness and skills training.</strong> A strong and healthy culture of cybersecurity should be paramount for business leaders. Consider initiatives that ensure employees are well informed of cybersecurity threats with regular or mandated online training to spot risks or vulnerabilities, or an effective internal communications campaign to understand the benefits of MFA. If national or donor-funded skills or awareness training is planned or ongoing in your sector, maximize the participation of employees.</li>
+</ul>
 
-<p>If you have any questions or if you spot any bugs in my code then get at me! <a href="https://twitter.com/DeRiggible">@DeRiggible</a></p>
+<p>Cybersecurity can sometimes seem like an endless assault or shoring up defenses against ever-evolving enemies. MFA represents a major step in improving cybersecurity and is appropriately campaigned as the focal point of efforts to boost individual and organizational resilience to cyber threats. While acknowledging its inherent benefits, it’s also important to note its limitations to prioritize a well-rounded and consistent approach to improving cybersecurity. Start with measures like implementing MFA within your organization to reduce targets for hackers, but also build a layered approach to cybersecurity that improves internal processes or cyber awareness to transform your cybersecurity posture from reactive to proactive in the face of ever-evolving threats.</p>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html" data-width="100%" data-numposts="5"></div> -->
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/the-authentication-dilemma.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -175,9 +173,53 @@ This is a super-simple start, just scratching the surface of the API but we hope
   
   
     
+    
+  
+  
+    
       
       
         
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/cyberworkforce.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/pexels-pixabay-60504.jpg');"></div><span class="related-item-text">Lack of Cybersecurity Talent Poses a Global Challenge and Opportunity</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
         
           
           
@@ -201,6 +243,9 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
+          
+          
+        
       
     
     
@@ -217,6 +262,9 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
+          
+          
+        
       
     
     
@@ -226,6 +274,9 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
+        
+          
+          
         
           
           
@@ -250,28 +301,7 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/shaping-history-series-innovative-leaders-driving-digital-transformation-interview-with-neema-iyer.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Neema%20Iyer%20Headshot.jpg');"></div><span class="related-item-text">Shaping History Series: Innovative Leaders Driving Digital Transformation—Interview with Neema Iyer</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg');"></div><span class="related-item-text">Artificial Intelligence in Healthcare for Development 4.0: Recommendations for Policymakers</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/improving-digital-literacy-and-security-training-in-cambodia-suggestions-for-funders-training-providers-and-content-creators.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/FHI%20360%20Blog%20Post.jpg');"></div><span class="related-item-text">Improving Digital Literacy and Security Training In Cambodia: Suggestions for Funders, Training Providers, and Content Creators</span></a></li>
             
             
             
@@ -291,19 +321,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -319,19 +336,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -355,19 +359,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -383,19 +374,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -419,19 +397,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -447,19 +412,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -483,19 +435,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -511,19 +450,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -547,19 +473,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -579,19 +492,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -604,15 +504,12 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/getting-subnational-combining-large-scale-surveys-with-geospatial-data-to-produce-better-small-area-estimation-part-i.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Jamie%20blog.png');"></div><span class="related-item-text">Getting Subnational: Combining Large Scale Surveys with Geospatial Data to Produce Better Small Area Estimation, Part I</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/apply-now-2022-usaid-digital-development-awards.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Main%20Cover%202022%20Digis.png');"></div><span class="related-item-text">Apply Now: 2022 USAID Digital Development Awards</span></a></li>
             
             
             
@@ -632,19 +529,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -660,19 +544,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -696,19 +567,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -724,19 +582,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -760,19 +605,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -788,163 +620,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -953,7 +628,7 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/digital-at-dai-year-in-review-top-10-posts-of-2021.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/DIGITAL@DAI%20(1).png');"></div><span class="related-item-text">Digital@DAI Year in Review: Top 10 Posts of 2021</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/apply-now-sardi-sme-digital-upskilling-sri-lanka.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/510e45ab-eb96-465c-a85b-eeb1e67d20e2.jfif');"></div><span class="related-item-text">Apply Now: Teach Digital Upskilling to Small Firms in Sri Lanka</span></a></li>
             
             
             

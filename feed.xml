@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Sep 2022 11:36:54 -0400</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2022 11:36:54 -0400</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 13:11:59 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 13:11:59 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Thumbnail%20MFA.jpg" medium="image" /> 
+        <title>The Authentication Dilemma: Can a Single Solution Guarantee Security for Small Firms?</title>
+        <description>&lt;p&gt;Due to the rapid rate of digitalization catalyzed by the COVID-19 pandemic, cyber-attacks have become ubiquitous, presenting opportunities to improve cybersecurity practices for small and medium-sized enterprises (SMEs). SMEs contribute up to &lt;a href=&quot;https://www.worldbank.org/en/topic/smefinance&quot;&gt;40 percent&lt;/a&gt; of the gross domestic product in emerging economies, make up 90 percent of all businesses, and provide more than 50 percent of employment worldwide, making them significant economic drivers and digital supply chain actors. They also endure unprecedented malicious cyber activity, such as ransomware, phishing, password targeting, and advanced persistent threat attacks. In Nigeria, cyber attacks against SMEs have increased by &lt;a href=&quot;https://guardian.ng/business-services/cyber-attack-on-nigerian-smes-up-by-89-per-cent-in-2022/&quot;&gt;89 percent&lt;/a&gt;, in 2022 alone, and in India, more than &lt;a href=&quot;https://timesofindia.indiatimes.com/business/india-business/more-than-60-of-mid-sized-indian-organizations-surveyed-fell-victim-to-a-cyberattack-in-2021-sophos-research-shows/articleshow/90517626.cms&quot;&gt;60 percent&lt;/a&gt; of all SMEs experienced attacks last year.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Sep 2022 10:22:00 -0400</pubDate>
+        <author>Alexander Sekhniashvili
+</author>
+        <link>https://dai-global-digital.com/the-authentication-dilemma.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-authentication-dilemma.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Digital Security</category>
+        
+        <category>SME</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/austin-distel-x1J0zj63ZjM-unsplash%20(1).jpg" medium="image" /> 
@@ -244,23 +265,6 @@
         <category>Think Piece</category>
         
         <category>Digital Inclusion</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/ATLATL%20(Timor%20Leste)%20(1).jpg" medium="image" /> 
-        <title>4 Critical Considerations When Developing ICT Policies and Regulations</title>
-        <description>&lt;p&gt;In a world dominated by rapid innovation, information and communications technology (ICT) is not only an accelerator for economic growth, it also provides on-ramps for vulnerable populations to participate in society and not get left behind. However, the potential of this type of tech can only go as far as a nation’s regulatory environment allows. A weak regulatory environment can drastically limit the benefits of ICT for a country’s economy, consumers, and citizens.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Jul 2022 10:26:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
-</author>
-        <link>https://dai-global-digital.com/4-critical-considerations-when-developing-ict-politics-and-regulations.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/4-critical-considerations-when-developing-ict-politics-and-regulations.html</guid>
-        
-        <category>ICT Policy</category>
         
         
       </item>
