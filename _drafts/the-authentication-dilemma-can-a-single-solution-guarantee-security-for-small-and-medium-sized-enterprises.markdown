@@ -1,6 +1,6 @@
 ---
 title: 'The Authentication Dilemma: Can a Single Solution Guarantee Security for Small
-  and Medium Sized Enterprises?'
+  Firms?'
 date: 2022-09-15 10:22:00 -04:00
 tags:
 - Cybersecurity
