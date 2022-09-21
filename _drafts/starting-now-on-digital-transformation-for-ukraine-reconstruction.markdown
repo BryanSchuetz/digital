@@ -6,6 +6,8 @@ social-image: "/uploads/ukraine%20cross%20post.png"
 thumbnail: "/uploads/ukraine%20cross%20post.png"
 ---
 
+*Originally published on the [ICTworks](https://www.ictworks.org/digital-transformation-ukraine-reconstruction/#.YytIXKTMI2w)*
+
 When the war in Ukraine comes to an end (hopefully with Ukraine having recovered all of its territory, including Crimea), Western countries are likely to provide a massive aid package to help rebuild Ukrainian infrastructure, buildings and lives. This moment in history will offer an opportunity for Ukraine to engage in rapid digital transformation. We should already begin deploying digital tools that will help Ukraine as it continues to fight bravely against the invaders, with the intention of seeing the country emerge from war on the right foot for a quick recovery. As President Volodymyr Zelenskyy himself [said](https://www.anews.com.tr/world/2022/07/03/zelensky-calls-for-international-assistance-to-rebuild-ukraine) the post-war reconstruction should use the moment to build “a new foundation for our lives: safe, modern, comfortable, accessible”. “colossal investments, billions, new technologies, best practices, new institutions and, of course, reforms.”
 
 <!--more-->
@@ -68,3 +70,19 @@ This coordinating office could set up a singular, unifying website that would be
 * **Tracking of official assets:***  Post-war, the Ukrainian government will undoubtedly deploy as many assets and resources to its population as possible. The location and status of government assets can help identify corruption.
 * **Damages and Claims:** A virtual place where people can report what they’ve lost, including anything from possessions (if, for example, Russian soldiers looted their home) to lost revenue (if their small business is no longer viable due to the destruction of their town).
 * **Health Care:** A system tracking supply and demand of services and medicines; referral services, but also to monitor the physical and mental health of its citizens.
+
+## Establish Secure Peer-to-Peer Transactions
+When the country starts rebuilding, there will be immense potential for Ukrainians to help Ukrainians, both in-person and online. Potential services could include psychosocial support, babysitters, pooled childcare, ad hoc transportation needs, and more. One can see several competing platforms popping up to connect supply with demand.
+
+The Ukrainian government should anticipate this and its potential safety issues. Since the high vulnerability of the displaced, the orphaned, the hungry and others could be exploited by criminals or corrupt officials, the government should establish a digital registration and verification system that could help protect these groups by allowing people first to check whether a service provider is legitimate.
+
+This system could build on Diia since it already contains a digital registration and verification system. This would also be helpful for international organizations who are going to need to deploy rapidly.
+
+## Communications Strategy for Digital Transformation
+Rolling out one or more of these digital systems will require a massive communications and awareness-raising effort—which we can also start planning now. For both technical deployment and its communication efforts, collaboration of the KyivStar and Vodacom country’s main MNOs will be essential—even as security questions linger over KyivStar’s majority Russian ownership.
+
+As services are launched it will be important to remember that many people would be experiencing digital interfaces for the first time. For them, the medium would be the message (as they say), meaning that using the fact they were using digital tools to access services symbolizes progress with digitalization across Ukrainian society.
+
+The war will indeed leave Ukraine permanently changed. Strategic preparatory action would help ensure many of these changes are positive and sustainable.
+
+*[Troy Etulain](https://www.linkedin.com/in/troyetulain/) is an international digital development expert who previously served as an advisor to the Ukrainian Minister of Infrastructure on open data and international cooperation, and worked with state asset procurement platform Prozorro.sale to design an approach for placing transaction records on a distributed ledger to make them immutable and reviewable.*
