@@ -1,7 +1,12 @@
 ---
 title: Starting Now on Digital Transformation for Ukraine Reconstruction
 date: 2022-09-21 12:40:00 -04:00
-Author: "(Troy Etulain)[https://www.linkedin.com/in/troyetulain/]"
+tags:
+- Disinformation
+- Think Piece
+- Digital Government
+- Digital Transformation
+Author: "[Troy Etulain](https://www.linkedin.com/in/troyetulain/)"
 social-image: "/uploads/ukraine%20cross%20post.png"
 thumbnail: "/uploads/ukraine%20cross%20post.png"
 ---
