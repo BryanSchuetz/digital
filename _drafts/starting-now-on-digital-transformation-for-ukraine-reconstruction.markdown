@@ -33,10 +33,38 @@ While it is similar, since Diia is purely state run and focused on official proc
 ## Six Digital Transformation Tools for Ukraine
 Building on the Ukrainian government’s readiness to improve digital governance, here are some digitalization ideas it (and we) could get started developing now:
 
-1. Establish a National Digital Hryvnia Currency
+**Establish a National Digital Hryvnia Currency**
 As compared to decentralized digital currency like Bitcoin, a digital hryvnia would be issued and controlled by the National Bank of Ukraine. (Thankfully, though, it would not run on a blockchain.) Each digital hryvnia would have its own unique identification number, just as each physical US dollar has a unique serial number and can be tracked along its journey through transaction after transaction. This would help tremendously with tracking how reconstruction funds were spent. And with increased international trust will come increased support.
 
-The idea of a national digital currency (also called a central bank digital currency, or CBDC) is not new. The US Federal Reserve is considering a digital dollar. And in 2021 Ukraine’s friends across the Black Sea in Georgia launched their own digital currency, in large part to stem corruption (and to allow enable instant payments and, eventually, smart contracts). And in 2020 the National Bank of Ukraine considered the idea.
+The idea of a national digital currency (also called a central bank digital currency, or CBDC) is not new. The US Federal Reserve is considering a digital dollar. And in 2021 Ukraine’s friends across the Black Sea in Georgia [launched](https://bm.ge/en/article/fda-m-eleqtrosigareti-usafrtxod-agiara/93146) their own digital currency, in large part to stem corruption (and to allow enable instant payments and, eventually, smart contracts). And in 2020 the National Bank of Ukraine [considered the idea](https://bank.gov.ua/admin_uploads/article/Hartinger_E-Hryvnia_pr_2020-02-21.pdf).
 
 Obviously digitizing payments across the entire reconstruction value chain will make things more efficient, particularly if integrated with a digital hryvnia. And, in addition to digital currencies’ promise to lower the cost of capital (printing money, stocking ATMs, transporting it in bulletproof vehicles), just imagine the challenging, expensive logistics of providing cash in areas with decimated infrastructure. But the aim here is also behavior change all the way down to the most remote village, to lay a foundation that over the long-term moves the society and economy towards the benefits of a cashless economy.
 
+**Create Advanced Geospatial Analysis of Land Use**
+Ukraine’s military is benefiting from rich daily feed of satellite imagery for battlefield awareness, [paid for the US government](https://universemagazine.com/en/usa-constantly-provides-ukraine-with-satellite-images/%20%20%20%20%20https:/universemagazine.com/en/usa-constantly-provides-ukraine-with-satellite-images/), and has honed its analytical capabilities.
+
+Post-war, while they won’t be getting as much imagery, the analytical skills they have developed and the relationships they have built could be used to develop macro-level status assessments (including on an automated basis), to plan out agricultural or infrastructural projects and to monitor reconstruction overall.
+
+The Ukrainian government should make the imagery and the assessments open to establish a common understanding of that status of reconstruction and to enable third parties (such as investors) to develop their own economic analyses.
+
+**Roll out Universal and Safe Internet Access**
+The sooner internet connections can be restored to liberated areas, the faster residents and relief organizations can start using digital tools for the reconstruction. While MNOs have done a heroic job keeping mobile voice and internet services running during the war, we should think beyond simply restoring services. Let’s instead use the reconstruction to push for universal broadband in the east, including by using build-once approaches.
+
+One additional idea would be to repurpose the Starlink receivers to provide internet access to remote areas: One Starlink receiver can receive up to 350 Gbps of bandwidth, which is enough to redistribute terrestrially. USAID has already [paid for 5,000 Starlink terminals](https://www.washingtonpost.com/politics/2022/04/08/us-quietly-paying-millions-send-starlink-terminals-ukraine-contrary-spacexs-claims/). Starlink says its bandwidth can be up to 350 Mbps and to connect 20 users. With some coordination, these terminals could be used to quickly connect affected locations.
+
+In addition to expanding access, we should be mindful of security. Russian forces [forcefully taken over](https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html) control of ISPs in occupied areas, routing all traffic via Russia and blocking social media sites. While rerouting traffic towards Kyiv is technically simple, the equipment should be replaced, because it is possible the Russians installed spyware on the servers or other equipment in order to monitor the communications and activities of Ukrainian citizens—even after they left. The devices of the people who used the internet in occupied areas may also have been targeted with malware.
+
+The US government and private sector have [been providing cybersecurity technical assistance](https://ge.usembassy.gov/protecting-ukraines-internet-access-and-critical-data/) to the Ukrainian government during the war (and since the 2014 occupation of Crimea). This should continue during reconstruction.
+
+**Unified Reconstruction Coordination System**
+
+Reconstruction will be chaotic, with millions of people on the move, returning to the country and returning home. Several international donors will move ahead with their priority projects and, if previous experiences are any indication, may fail to coordinate effectively. Meanwhile each of Ukraine’s 17 ministries will have a role to play in the country’s reconstruction and the potential to use digital tools.
+
+An obvious question is, who should be in charge of coordinating all the various ministries’ digital transformations and roles in Ukraine’s reconstruction? The Ukraine Ministry of Digital Transformation is an obvious potential choice. Though, it might be better for the government to set up a higher-level organization to coordinate all these activities—a reconstruction coordination office that would be empowered and placed directly underneath the Cabinet of Ministers, with seconded ministerial representatives.
+
+This coordinating office could set up a singular, unifying website that would be interoperable with Diia and include the following information and functionalities:
+* **Geolocated reconstruction budgets and allocations:** The transparency should also enable easy international observation of reconstruction efforts, so that the taxpayers of
+* **Financial assistance application system:** I’m guessing that, as a part of the post-war reconstruction process, the government will set up some sort of temporary bureaucracy to manage the reconstruction process, and that that agency will set up a process for individuals and organizations/businesses to apply for funding. You can imagine a requirement for people to upload photos of progress on works, enabling crowdsourced monitoring of reconstructions activities funded by the government.
+* **Tracking of official assets:***  Post-war, the Ukrainian government will undoubtedly deploy as many assets and resources to its population as possible. The location and status of government assets can help identify corruption.
+* **Damages and Claims:** A virtual place where people can report what they’ve lost, including anything from possessions (if, for example, Russian soldiers looted their home) to lost revenue (if their small business is no longer viable due to the destruction of their town).
+* **Health Care:** A system tracking supply and demand of services and medicines; referral services, but also to monitor the physical and mental health of its citizens.
