@@ -29,7 +29,7 @@ Minister Fedorov has the noble ambition of tackling petty corruption by moving s
 
 Given the threat a democratic, Western-oriented Ukraine poses to Putin’s desire to bring it back under his authoritarian control, it was perhaps not surprising that Russians [tried to hack](https://babel.ua/ru/news/76723-hakery-nachali-atakovat-i-portal-diya) Diia just ten days before the war started. It spoke well of Ukraine’s cybersecurity that the attack failed and users didn’t even notice it was happening.
 
-## Contrasting Diia to a predecessor
+## Contrasting Diia to a Predecessor
 
 Diia is very close to the preexisting concept promoted by none other than father of the internet Sir Tim-Berners Lee, who has long been dissatisfied with the extent of personal information held by companies and platforms like Google and Facebook.
 
