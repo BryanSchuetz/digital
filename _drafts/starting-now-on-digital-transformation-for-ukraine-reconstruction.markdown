@@ -86,7 +86,7 @@ The Ukrainian government should anticipate this and its potential safety issues.
 
 This system could build on Diia since it already contains a digital registration and verification system. This would also be helpful for international organizations who are going to need to deploy rapidly.
 
-**Communications Strategy for Digital Transformation.**
+### Communications Strategy for Digital Transformation.
 
 Rolling out one or more of these digital systems will require a massive communications and awareness-raising effort—which we can also start planning now. For both technical deployment and its communication efforts, collaboration of the KyivStar and Vodacom country’s main MNOs will be essential—even as security questions linger over KyivStar’s majority Russian ownership.
 
