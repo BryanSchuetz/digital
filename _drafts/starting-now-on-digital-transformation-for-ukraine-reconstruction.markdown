@@ -11,7 +11,7 @@ social-image: "/uploads/ukraine%20cross%20post.png"
 thumbnail: "/uploads/ukraine%20cross%20post.png"
 ---
 
-*Originally published on the [ICTworks](https://www.ictworks.org/digital-transformation-ukraine-reconstruction/)*
+*Originally published on the [ICTworks.](https://www.ictworks.org/digital-transformation-ukraine-reconstruction/)*
 
 When the war in Ukraine comes to an end (hopefully with Ukraine having recovered all of its territories, including Crimea), Western countries are likely to provide a massive aid package to help rebuild Ukrainian infrastructure, buildings, and lives. This moment in history will offer an opportunity for Ukraine to engage in rapid digital transformation. We should already begin deploying digital tools that will help Ukraine as it continues to fight bravely against the invaders, with the intention of seeing the country emerge from war on the right foot for a quick recovery. As President Volodymyr Zelenskyy himself [said](https://www.anews.com.tr/world/2022/07/03/zelensky-calls-for-international-assistance-to-rebuild-ukraine) the post-war reconstruction should use the moment to build “a new foundation for our lives: ... accessible new technologies, best practices, new institutions and, of course, reforms.” 
 
