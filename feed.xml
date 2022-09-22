@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Sep 2022 08:45:08 -0400</pubDate>
-    <lastBuildDate>Thu, 22 Sep 2022 08:45:08 -0400</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2022 10:27:29 -0400</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2022 10:27:29 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ukraine%20cross%20post.png" medium="image" /> 
+        <title>Starting Now on Digital Transformation for Ukraine Reconstruction</title>
+        <description>&lt;p&gt;&lt;em&gt;Originally published on the &lt;a href=&quot;https://www.ictworks.org/digital-transformation-ukraine-reconstruction/&quot;&gt;ICTworks blog.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When the war in Ukraine comes to an end (hopefully with Ukraine having recovered all of its territories, including Crimea), Western countries are likely to provide a massive aid package to help rebuild Ukrainian infrastructure, buildings, and lives. This moment in history will offer an opportunity for Ukraine to engage in rapid digital transformation. We should already begin deploying digital tools that will help Ukraine as it continues to fight bravely against the invaders, with the intention of seeing the country emerge from war on the right foot for a quick recovery. As President Volodymyr Zelenskyy himself &lt;a href=&quot;https://www.anews.com.tr/world/2022/07/03/zelensky-calls-for-international-assistance-to-rebuild-ukraine&quot;&gt;said&lt;/a&gt; the post-war reconstruction should use the moment to build “a new foundation for our lives: … accessible new technologies, best practices, new institutions and, of course, reforms.”&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Sep 2022 12:40:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/troyetulain/">Troy Etulain</a>
+</author>
+        <link>https://dai-global-digital.com/starting-now-on-digital-transformation-for-ukraine-reconstruction.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/starting-now-on-digital-transformation-for-ukraine-reconstruction.html</guid>
+        
+        <category>Disinformation</category>
+        
+        <category>Think Piece</category>
+        
+        <category>Digital Government</category>
+        
+        <category>Digital Transformation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Thumbnail%20MFA.jpg" medium="image" /> 
@@ -238,33 +263,6 @@
         <category>Digital Divide</category>
         
         <category>Digital Gender Divide</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/sumeet-singh-okfXVsBHAtQ-unsplash%20(1).jpg" medium="image" /> 
-        <title>Embracing the Unlikely Resilience of Feature Phones</title>
-        <description>&lt;p&gt;Most of us in the development sector have been &lt;a href=&quot;https://blogs.worldbank.org/digital-development/mobile-based-solutions-can-strengthen-human-capital-gains-disrupted-covid-19&quot;&gt;preparing&lt;/a&gt; for an inevitable and imminent &lt;a href=&quot;https://www.worldbank.org/en/events/2021/06/10/using-smartphones-to-strengthen-the-human-capital-of-online-and-offline-populations-new-evidence-and-collaborations-for-&quot;&gt;smartphone&lt;/a&gt; future. But in a recent &lt;a href=&quot;https://www.bbc.com/news/business-60763168&quot;&gt;article&lt;/a&gt;, the BBC highlighted an interesting—if somewhat unexpected—phenomenon in the world of digital devices: the “return of the dumbphones” (we prefer the less pejorative term “feature phones,” which we use in this piece). According to the article, “While sales figures are hard to come by, one report said that global purchases of [feature phones] were due to hit one billion units last year, up from 400 million in 2019. This compares to worldwide sales of 1.4 billion smartphones last year, following a 12.5 percent decline in 2020.” Some might argue that the feature phone has never really gone away.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Jul 2022 11:38:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/anand-varghese">Anand Varghese</a> and <a href="https://www.dai.com/who-we-are/our-team/galia-nurko">Galia Nurko</a>
-</author>
-        <link>https://dai-global-digital.com/embracing-the-unlikely-resilience-of-feature-phones.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/embracing-the-unlikely-resilience-of-feature-phones.html</guid>
-        
-        <category>Digital Literacy</category>
-        
-        <category>Digital Skills</category>
-        
-        <category>Smartphones</category>
-        
-        <category>Feature Phones</category>
-        
-        <category>Think Piece</category>
-        
-        <category>Digital Inclusion</category>
         
         
       </item>
