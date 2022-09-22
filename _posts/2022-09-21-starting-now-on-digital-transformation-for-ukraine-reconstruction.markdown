@@ -71,7 +71,7 @@ An obvious question is, who should be in charge of coordinating all the various 
 
 This coordinating office could set up a singular, unifying website that would be interoperable with *Diia* and include the following information and functionalities:
 
-* **Geolocated reconstruction budgets and allocations:** The transparency should also enable easy international observation of reconstruction efforts so that the taxpayers of
+* **Geolocated reconstruction budgets and allocations:** The transparency should also enable easy international observation of reconstruction efforts so that the taxpayers of donor countries can track their progress online. 
 * **Financial assistance application system:** I’m guessing that, as a part of the post-war reconstruction process, the government will set up some sort of temporary bureaucracy to manage the reconstruction process, and that that agency will set up a process for individuals and organizations/businesses to apply for funding. You can imagine a requirement for people to upload photos of progress on works, enabling crowdsourced monitoring of reconstruction activities funded by the government.
 * **Tracking of official assets:** Post-war, the Ukrainian government will undoubtedly deploy as many assets and resources to its population as possible. The location and status of government assets can help identify corruption.
 * **Damages and Claims:** A virtual place where people can report what they’ve lost, including anything from possessions (if, for example, Russian soldiers looted their home) to lost revenue (if their small business is no longer viable due to the destruction of their town).
