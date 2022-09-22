@@ -55,7 +55,7 @@ Post-war, while they won’t be getting as much imagery, the analytical skills t
 
 The Ukrainian government should make the imagery and the assessments open to establish a common understanding of the status of reconstruction and to enable third parties (such as investors) to develop their own economic analyses.
 
-### Roll out Universal and Safe Internet Access
+### Roll Out Universal and Safe Internet Access
 The sooner internet connections can be restored to liberated areas, the faster residents and relief organizations can start using digital tools for the reconstruction. While mobile network operators have done a heroic job keeping mobile voice and internet services running during the war, we should think beyond simply restoring services. Let’s instead use the reconstruction to push for universal broadband in the east, including by using build-once approaches.
 
 One additional idea would be to repurpose the Starlink receivers to provide internet access to remote areas: One Starlink receiver can receive up to 350 gigabits of bandwidth, which is enough to redistribute terrestrially. The U.S. Agency for International Development (USAID) has already [paid for 5,000 Starlink terminals](https://www.washingtonpost.com/politics/2022/04/08/us-quietly-paying-millions-send-starlink-terminals-ukraine-contrary-spacexs-claims/). Starlink says its bandwidth can be up to 350 megabits per second and to connect 20 users. With some coordination, these terminals could be used to quickly connect affected locations.
