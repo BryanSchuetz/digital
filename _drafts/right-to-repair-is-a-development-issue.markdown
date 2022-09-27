@@ -37,7 +37,7 @@ Most development professionals view procurement as a tedious process that should
 
 ## Old Equipment is Not a Good Idea
 
-Some organizations will try to give equipment that has been cast off in the West a new lease on life in a developing country. These well-meaning efforts reason that a 7-year-old laptop or other device still has value to those who cannot afford a newer one. Unfortunately, this means importing equipment that is already well along in the hardware process without having a clear road to replacement (other than waiting for Americans to dump their next one and ship it over) and has been chosen for availability rather than appropriateness to context.
+Some organizations will try to give equipment that has been cast off in the West a new lease on life in a developing country. These well-meaning efforts reason that a seven-year-old laptop or other device still has value to those who cannot afford a newer one. Unfortunately, this means importing equipment that is already well along in the hardware process without having a clear road to replacement (other than waiting for Americans to dump their next one and ship it over) and has been chosen for availability rather than appropriateness to context.
 
 ## Support a Local Alternative
 
