@@ -1,6 +1,9 @@
 ---
 title: Right to Repair is a Development Issue
 date: 2022-09-27 15:38:00 -04:00
+tags:
+- Digital Inclusion
+- Hardware
 Author: Rob Ryan-Silva
 social-image: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
 thumbnail: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
