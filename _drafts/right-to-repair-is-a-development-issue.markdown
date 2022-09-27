@@ -15,7 +15,7 @@ thumbnail: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
 
 It may seem like a straightforward question until a power surge fries a key circuit or a stray elbow knocks a unit to the floor. At this point, the process of repairing what you thought was your (or your employer’s) property is likely to get a bit more complicated: The device turns out to be held together with [proprietary screws](https://en.wikipedia.org/wiki/List_of_screw_drives#Proprietary_head), contains deliberately unobtainable spare parts, has software locks that cannot be overridden without the manufacturer’s express permission, or other random features included specifically to seal you out.
 
-![2018-04-11-image-6.webp](/uploads/2018-04-11-image-6.webp)`Source: TechSpot.`
+![2018-04-11-image-6.webp](/uploads/2018-04-11-image-6.webp)`Source: TechSpot.` 
 
 <!--more-->
 
