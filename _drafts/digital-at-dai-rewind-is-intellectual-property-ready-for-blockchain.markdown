@@ -8,6 +8,9 @@ social-image: "/uploads/guerrillabuzz-crypto-pr-_rZnChsIFuQ-unsplash.jpg"
 thumbnail: "/uploads/guerrillabuzz-crypto-pr-_rZnChsIFuQ-unsplash.jpg"
 ---
 
+
+
+
 With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
 
 ![markus-spiske-Skf7HxARcoc-unsplash.jpg](/uploads/markus-spiske-Skf7HxARcoc-unsplash.jpg)\
