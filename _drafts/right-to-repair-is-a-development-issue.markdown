@@ -1,6 +1,6 @@
 ---
 title: 'Digital@DAI Rewind: Right to Repair is a Development Issue'
-date: 2022-09-27 15:38:00 -04:00
+date: 2022-09-29 07:38:00 -04:00
 tags:
 - Digital Inclusion
 - Hardware
@@ -9,7 +9,7 @@ social-image: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
 thumbnail: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
 ---
 
-*The "[Right to Repair](https://www.repair.org/stand-up)" is a concept and advocacy movement centered around the idea that anyone who owns a device, machinery or piece of equipment should have the Right to Repair it themselves or take it to a repair person or shop of their choosing. While this has been a subject in tech news for the last several years, the Right to Repair is back in the spotlight. Last week, Apple unveiled its new, more repairable [iPhone 14](https://www.cnbc.com/2022/09/19/apple-iphone-14-easiest-to-fix-since-2016-ifixit.html) and in June, the New York state legislature [passed](https://www.theverge.com/2022/6/3/23153504/right-to-repair-new-york-state-law-ifixit-repairability-diy) the United States' first Right to Repair bill. With the movement picking up steam, we are reminded that there are linkages between Right to Repair and our work in digital development. This week, we will revisit a [2021 post](https://dai-global-digital.com/right-to-repair-is-a-development-issue.html) from Rob Ryan-Silva, Senior Director of DAI's Maker Lab, about why this movement is an issue the development community needs to care about.*
+*The "[Right to Repair](https://www.repair.org/stand-up)" is a concept and advocacy movement centered around the idea that anyone who owns a device, machinery, or piece of equipment should have the right to repair it themselves or take it to a repair person or shop of their choosing. While this has been a subject in tech news for the last several years, the concept is back in the spotlight. Last week, Apple unveiled its new, more repairable [iPhone 14](https://www.cnbc.com/2022/09/19/apple-iphone-14-easiest-to-fix-since-2016-ifixit.html) and in June, the New York state legislature [passed](https://www.theverge.com/2022/6/3/23153504/right-to-repair-new-york-state-law-ifixit-repairability-diy) the United States' first Right to Repair bill. With the movement picking up steam, we are reminded that there are linkages to our work in digital development. This week, we will revisit a [2021 post](https://dai-global-digital.com/right-to-repair-is-a-development-issue.html) from [Rob Ryan-Silva](https://www.dai.com/who-we-are/our-team/robert-ryan-silva), Director of DAI's [Maker Lab](https://www.dai.com/our-work/solutions/dai-maker-lab), about why this movement is an issue the development community needs to care about.*
 
 <!--more-->
 
