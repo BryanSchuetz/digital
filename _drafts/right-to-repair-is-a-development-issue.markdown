@@ -13,11 +13,11 @@ thumbnail: "/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg"
 
 <!--more-->
 
-## Who owns the device you are reading this blog post on?
+## Who Owns the Device You Are Reading This Blog On?
 
 It may seem like a straightforward question until a power surge fries a key circuit or a stray elbow knocks a unit to the floor. At this point, the process of repairing what you thought was your (or your employer’s) property is likely to get a bit more complicated: The device turns out to be held together with [proprietary screws](https://en.wikipedia.org/wiki/List_of_screw_drives#Proprietary_head), contains deliberately unobtainable spare parts, has software locks that cannot be overridden without the manufacturer’s express permission, or other random features included specifically to seal you out.
 
-![2018-04-11-image-6.webp](/uploads/2018-04-11-image-6.webp)`Source: TechSpot`
+![2018-04-11-image-6.webp](/uploads/2018-04-11-image-6.webp)`Photo: TechSpot.`
 
 From the time we first pull our gadgets from their boxes, we tend to think of them as discrete, finished products. But any serious hardware—[Snapchat Spectacles](https://www.spectacles.com/), you may leave the room—is really just part of a process meant to solve a problem. That process includes things like technical support, repair and maintenance, legal considerations, and assumptions about when and how you will eventually replace the hardware.
 
