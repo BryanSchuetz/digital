@@ -28,7 +28,7 @@ While it is difficult to predict all potential IP-related applications of blockc
 
 **1. Blockchain can help with IP rights management and technology transfer and commercialization practices**
 
-Blockchain could be used by inventors looking to find potential investors while at the same time safeguarding their inventions. A ledger might consist of a short description of the character and goal of the invention, while those wishing to gain access to more information on how the invention works would then have to accept the provisions of a [“smart contract”](https://blockgeeks.com/guides/smart-contracts/). Or blockchain could be utilized by patent holders wishing to find potential licensees for related know-how and trade secrets in addition to the patented invention.
+Blockchain could be used by inventors looking to find potential investors while at the same time safeguarding their inventions. A ledger might consist of a short description of the character and goal of the invention, while those wishing to gain access to more information on how the invention works would then have to accept the provisions of a [“smart contract.”](https://blockgeeks.com/guides/smart-contracts/) Or blockchain could be utilized by patent holders wishing to find potential licensees for related know-how and trade secrets in addition to the patented invention.
 
 Inventors might be interested in publishing their technological developments to preserve the novelty of the inventions and guarantee their freedom to operate. Thus, blockchain technology will be able to facilitate the management of IP rights. Publications under a blockchain environment might be used as evidence in IP-related law proceedings.
 
