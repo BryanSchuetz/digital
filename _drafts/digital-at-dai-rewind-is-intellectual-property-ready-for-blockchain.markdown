@@ -1,6 +1,6 @@
 ---
 title: 'Digital@DAI Rewind: Is Intellectual Property Ready for Blockchain?'
-date: 2022-09-27 19:27:00 -04:00
+date: 2022-10-06 07:27:00 -04:00
 tags:
 - Blockchain Series
 Author: Miriam Stankovich
