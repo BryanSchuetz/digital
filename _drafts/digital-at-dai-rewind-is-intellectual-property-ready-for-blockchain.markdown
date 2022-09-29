@@ -4,12 +4,15 @@ date: 2022-09-27 19:27:00 -04:00
 tags:
 - Blockchain Series
 Author: Miriam Stankovich
-social-image: "/uploads/guerrillabuzz-crypto-pr-_rZnChsIFuQ-unsplash.jpg"
-thumbnail: "/uploads/guerrillabuzz-crypto-pr-_rZnChsIFuQ-unsplash.jpg"
+social-image: "/uploads/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg"
+thumbnail: "/uploads/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg"
 ---
 
+*If you're an avid reader of the Digital@DAI blog, then by now you've surely heard of blockchain technology. For those in need of a refresher, blockchain is a decentralized database system that records information in a way that makes it near-to-impossible to change, breach, or cheat the system. International donors and the private sector have deployed blockchain towards furthering financial inclusion, digital government, and improved supply chain management.
 
+More recently, governments and the private sector are exploring how this technology can be applied towards building of secure and data preserving e-governance systems. Governments across the [globe](https://irishtechnews.ie/global-blockchain-adoption-which-countries-are-leading-the-charge/),  such as Chile, Singapore, Estonia, Uzbekistan, and Venezuela to name a few, are using blockchain and other emerging technologies such as artificial intelligence, the Internet of Things and smart contracts to build digital governance systems. An exciting feature of blockchain is that it can support the creative industry by serving as intellectual property rights register and enforcement tool. For instance, the European Union Intellectual Property Office in collaboration with participating offices launched a [Blockchain IP register](https://www.scintilla-ip.com/blockchain-ip-register-at-the-euipo/), which has the ability to automatically store data about registered IP rights in various IP offices.
 
+As blockchain is a versatile technology that impacts many sectors from cryptocurrency to creative industries and intellectual property management, it is crucial that the digital development sector stays abreast of blockchain’s impact on digital transformation. This week, we will revisit a post from 2021 from Dr. Miriam Stankovich about blockchain’s applicability to patents, copyrights, trademarks, and industrial designs.* 
 
 With its relatively low maintenance cost, increased transparency, reduced administrative burden, and resilience to fraud, blockchain is a versatile technology deployed in many sectors and businesses. So, what is blockchain, and could this disruptive technology have any application for managing intellectual property (IP) rights such as patents, copyrights, trademarks, industrial designs, and more?
 
