@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Sep 2022 16:06:06 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Sep 2022 16:06:06 -0400</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2022 11:01:40 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2022 11:01:40 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg" medium="image" /> 
+        <title>Digital@DAI Rewind: Is Intellectual Property Ready for Blockchain?</title>
+        <description>&lt;p&gt;&lt;em&gt;If you’re an avid reader of the Digital@DAI blog, then by now you’ve surely heard of blockchain technology. For those in need of a refresher, blockchain is a decentralized database system that records information in a way that makes it near-to-impossible to change, breach, or cheat the system. International donors and the private sector have deployed blockchain towards furthering financial inclusion, digital government, and improved supply chain management.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More recently, governments and the private sector are exploring how this technology can be applied toward the building of secure and data-preserving e-governance systems. Governments across the &lt;a href=&quot;https://irishtechnews.ie/global-blockchain-adoption-which-countries-are-leading-the-charge/&quot;&gt;globe&lt;/a&gt;, such as in Chile, Estonia, Singapore, Uzbekistan, and Venezuela, to name a few, are using blockchain and other emerging technologies such as artificial intelligence, the Internet of Things and smart contracts to build digital governance systems. An exciting feature of blockchain is that it can support the creative industry by serving as intellectual property rights register and enforcement tool. For instance, the European Union Intellectual Property (IP) Office, in collaboration with participating offices, launched a &lt;a href=&quot;https://www.scintilla-ip.com/blockchain-ip-register-at-the-euipo/&quot;&gt;Blockchain IP register&lt;/a&gt;, which has the ability to automatically store data about registered IP rights in various IP offices.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;As blockchain is a versatile technology that impacts many sectors from cryptocurrency to creative industries and IP management, it is crucial that the digital development sector stays abreast of blockchain’s impact on digital transformation. This week, we will revisit a post from 2021 from &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/miriam-stankovich&quot;&gt;Dr. Miriam Stankovich&lt;/a&gt; about blockchain’s applicability to patents, copyrights, trademarks, and industrial designs.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Oct 2022 07:27:00 -0400</pubDate>
+        <author>Miriam Stankovich
+</author>
+        <link>https://dai-global-digital.com/digital-at-dai-rewind-is-intellectual-property-ready-for-blockchain.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-rewind-is-intellectual-property-ready-for-blockchain.html</guid>
+        
+        <category>Blockchain Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg" medium="image" /> 
@@ -222,31 +243,6 @@
         <category>digital agriculture</category>
         
         <category>Agriculture</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FHI%20360%20Blog%20Post.jpg" medium="image" /> 
-        <title>Improving Digital Literacy and Security Training In Cambodia: Suggestions for Funders, Training Providers, and Content Creators</title>
-        <description>&lt;p&gt;&lt;em&gt;Maura Joul, Annie Kemmerer, Baker Lu, and Billy Taki are second-year master’s students in the Johns Hopkins University School of Advanced International Studies (SAIS) international development program. They worked with DAI on the Innovations for Social Accountability in Cambodia (ISAC) project, implemented by FHI 360 and funded by U.S. Agency for International Development (USAID), to conduct a landscape assessment of digital literacy and security education and training initiatives in Cambodia. The team interviewed digital security consultants, content creators, training providers, local civil society organizations (CSOs), international organizations, and industry experts in Cambodia. This post summarizes their key findings and recommendations.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;CSOs in Cambodia are experiencing rapid changes in response to COVID-19. The pandemic forced Cambodian citizens served by CSOs into the digital world, leading these organizations to shift their communications and programming to virtual platforms. Although Cambodian CSOs successfully aclimated to the rapid digitalization, the move to virtual has increased digital security issues in the country.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/FHI%20360%20Blog%20Post.jpg&quot; alt=&quot;FHI 360 Blog Post.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Unsplash.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 27 Jul 2022 14:42:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/maura-joul/">Maura Joul</a>, <a href="https://www.linkedin.com/in/anne-kemmerer/">Annie Kemmerer</a>, <a href="https://www.linkedin.com/in/xiaoyilu/">Baker Lu</a>, and <a href="https://www.linkedin.com/in/williamtaki/">Billy Taki</a>
-</author>
-        <link>https://dai-global-digital.com/improving-digital-literacy-and-security-training-in-cambodia-suggestions-for-funders-training-providers-and-content-creators.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/improving-digital-literacy-and-security-training-in-cambodia-suggestions-for-funders-training-providers-and-content-creators.html</guid>
-        
-        <category>Digital Literacy</category>
-        
-        <category>Digital Security</category>
-        
-        <category>Digital Skills</category>
         
         
       </item>
