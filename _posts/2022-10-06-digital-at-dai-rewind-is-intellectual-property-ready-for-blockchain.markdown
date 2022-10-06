@@ -1,5 +1,5 @@
 ---
-title: 'Digital@DAI Rewind: Is Intellectual Property Ready for Blockchain?'
+title: 'Digital @ DAI Rewind: Is Intellectual Property Ready for Blockchain?'
 date: 2022-10-06 07:27:00 -04:00
 tags:
 - Blockchain Series
