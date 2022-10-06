@@ -1,6 +1,6 @@
 ---
 title: How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share
-  Truths and Reclaim Power
+  Truths, and Reclaim Power
 date: 2022-10-13 14:14:00 -04:00
 tags:
 - Digital Inclusion
@@ -11,19 +11,19 @@ social-image: "/uploads/Picture2.png"
 thumbnail: "/uploads/Picture2.png"
 ---
 
-Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions, while stewarding lands rich biodiversity. While the terms “ancient” and “traditional” are rarely seen in concert with “emerging tech trends,” there are communities around the world doing just that: finding creative ways to merge their ancient traditions with modern and even cutting-edge technologies.
-
-While the COVID-19 pandemic brought disruption and adaption to indigenous communities as it did so many others. it didn’t take long for people to find ways to maintain social connectedness and communal healing virtually. A social media movement of [virtual powwows](https://www.cbc.ca/news/indigenous/coronavirus-virtual-powwow-social-distance-1.5521785) started in the United States to “connect powwow dancers, drummers, vendors and visitors from across North America.” In another example, Elders Elsey Gauthier and Francis Whiskeyjack took their in-person [talking circles online](https://www.ualberta.ca/folio/2020/05/elders-take-indigenous-cultural-teachings-online-to-support-u-of-a-students.html) to continue providing one-on-one counseling sessions for indigenous students through the University of Alberta’s First Peoples House. 
-
-In this blog, I will showcase how indigenous people in Canada and the United States integrate community-building, storytelling, and art creation with 21st-century technologies for cultural preservation, advocacy, healing, and economic empowerment, and its linkages to international development.
+Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions while stewarding lands’ rich biodiversity. While the terms “ancient” and “traditional” are rarely seen in concert with “emerging tech trends,” there are communities around the world doing just that: finding creative ways to merge their ancient traditions with modern and even cutting-edge technologies.
 
 <!--more-->
 
-## Sharing Stories of Truth and Trauma
-Indigenous and First Nations communities in the United States and Canada have been using digital avenues such as podcast platforms and social media for storytelling and advocacy related to horrors and abuse that have afflicted their communities for generations. Investigative podcast series embrace the true crime trend to recount stories of crime and trauma experienced by indigenous communities. In [Missing & Murdered](https://www.cbc.ca/mediacentre/program/missing-and-murdered), Connie Walker, Cree journalist from Okanese First Nation, uncovers the stories of Alberta Williams and Cleo Nicotine Semaganis, shedding light on the [staggering number](https://airc.ucsc.edu/resources/mmiwg.html) of missing and murdered indigenous women and girls (“MMIWG”). In *[Stolen](https://gimletmedia.com/shows/stolen)*, she exposes harsh realities of the abuse and subsequent intergenerational trauma that resulted from government policies around [residential schools](https://www.washingtonpost.com/outlook/2021/08/10/residential-schools-were-key-tool-americas-long-history-native-genocide/) in North America throughout the 19th and 20th centuries. Another podcast, *[This Land](https://crooked.com/podcast-series/this-land/)*, explains the history of the current Indian Child Welfare Act ([ICWA](https://www.nicwa.org/about-icwa/)), which protects indigenous child custody and welfare, and how political challenges to ICWA threaten the broader right to tribal lands. ICWA advocates and indigenous influencers also use platforms such as Instagram to share updates and advocacy around this and other issues afflicting their communities.  
+While the COVID-19 pandemic brought disruption and adaption to indigenous communities as it did so many others, it didn’t take long for people to find ways to maintain social connectedness and communal healing virtually. A social media movement of [virtual powwows](https://www.cbc.ca/news/indigenous/coronavirus-virtual-powwow-social-distance-1.5521785) started in the United States to “connect powwow dancers, drummers, vendors, and visitors from across North America.” In another example, Elders Elsey Gauthier and Francis Whiskeyjack took their in-person talking circles [online](https://www.ualberta.ca/folio/2020/05/elders-take-indigenous-cultural-teachings-online-to-support-u-of-a-students.html) to continue providing one-on-one counseling sessions for indigenous students through the University of Alberta’s First Peoples House. 
 
-![Picture1-27bd2e.png](/uploads/Picture1-27bd2e.png)
-`Fig. 1. Still from Spotify (desktop application) search results (3:53PM ET, 9/28/2022).`
+In this blog, I will showcase how indigenous North Americans integrate community-building, storytelling, and art creation with 21st-century technologies for cultural preservation, advocacy, healing, and economic empowerment, and the link to international development.
+
+## Sharing Stories of Truth and Trauma
+
+Indigenous and First Nations communities in North America have been using digital avenues such as podcasts and social media for storytelling and advocacy related to the horrors and abuse that have afflicted their communities for generations. Investigative podcast series embrace the true crime trend to recount stories of crime and trauma experienced by indigenous communities. In [Missing & Murdered](https://www.cbc.ca/mediacentre/program/missing-and-murdered), Connie Walker, a Cree journalist from Okanese First Nation, tells the stories of Alberta Williams and Cleo Nicotine Semaganis, shedding light on the [staggering number](https://airc.ucsc.edu/resources/mmiwg.html) of missing and murdered indigenous women and girls (“MMIWG”). In *[Stolen](https://gimletmedia.com/shows/stolen)*, she exposes the harsh realities of the abuse and subsequent intergenerational trauma that resulted from government policies around [residential schools](https://www.washingtonpost.com/outlook/2021/08/10/residential-schools-were-key-tool-americas-long-history-native-genocide/) in North America throughout the 19th and 20th centuries. Another podcast, *[This Land](https://crooked.com/podcast-series/this-land/)*, explains the history of the current Indian Child Welfare Act ([ICWA](https://www.nicwa.org/about-icwa/)), which protects indigenous child custody and welfare, and how political challenges to ICWA threaten the broader right to tribal lands. ICWA advocates and indigenous influencers also use platforms such as Instagram to share updates and advocacy around this and other issues in their communities.  
+
+![Picture1-27bd2e.png](/uploads/Picture1-27bd2e.png)`Fig. 1. Still from Spotify (desktop application) search results (3:53PM ET, 9/28/2022).`
   
 For more examples of how the longstanding tradition of oral storytelling continues to reach 21st-century audiences, check out Chatelaine’s [12 Great Podcasts Hosted by Indigenous Women](https://www.chatelaine.com/living/indigenous-podcasts-hosted-by-women/).  
 
