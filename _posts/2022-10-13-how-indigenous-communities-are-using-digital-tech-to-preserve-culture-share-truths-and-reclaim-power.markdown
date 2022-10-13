@@ -1,7 +1,7 @@
 ---
 title: How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share
   Truths, and Reclaim Power
-date: 2022-10-13 14:14:00 -04:00
+date: 2022-10-13 10:00:00 -04:00
 tags:
 - Digital Inclusion
 - Digital Insights
