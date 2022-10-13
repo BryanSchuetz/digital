@@ -9,15 +9,15 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="First Contact with the Planet API and NodeJS">
-  <meta name="twitter:description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is Planet, a sma...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta name="twitter:title" content="How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share Truths, and Reclaim Power">
+  <meta name="twitter:description" content="Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions while stewarding lands’ rich biodiversity. While the terms “ancient” and “traditional” are rarely seen in concert with “emerging tech trends,” th...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/Picture2.png">
   <meta property="fb:app_id" content="166488866849393">
-  <title>First Contact with the Planet API and NodeJS</title>
-  <meta name="description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most promi...">
+  <title>How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share Truths, and Reclaim Power</title>
+  <meta name="description" content="Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions while stewarding lands’ rich biodiversity. While the terms “ancient”...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/Picture2.png">
   
   <!-- JS -->
   <script   src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
@@ -25,7 +25,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=23">
-  <link rel="canonical" href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html">
+  <link rel="canonical" href="https://dai-global-digital.com/how-indigenous-communities-are-using-digital-tech-to-preserve-culture-share-truths-and-reclaim-power.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -99,55 +99,65 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">First Contact with the Planet API and NodeJS</h1>
+    <h1 class="post-title">How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share Truths, and Reclaim Power</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=remote-sensing-series">series of posts</a> on Remote Sensing.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Apr 20, 2017</p>
+      <p class="post-details--date">Oct 13, 2022</p>
       
       
-      <p class="post-details--byline">By John DeRiggi
-</p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=remote-sensing-series" class="without-style">Remote Sensing Series</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span></p>
+      <p class="post-details--byline">By <a href="/authors/addie-ryan-tadavarthy/" class="without-style">Addie Ryan Tadavarthy
+</a></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=digital-inclusion" class="without-style">Digital Inclusion</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-insights" class="without-style">Digital Insights</a></span> • <span class="post-topic"><a href="/tags/?tag=digital-economy" class="without-style">Digital Economy</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is <a href="https://www.planet.com/">Planet</a>, a small company with lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. It provides access to that imagery through a web platform, and it gives developers access to its data through a web API.</p>
+    <p>Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions while stewarding lands’ rich biodiversity. While the terms “ancient” and “traditional” are rarely seen in concert with “emerging tech trends,” there are communities around the world doing just that: finding creative ways to merge their ancient traditions with modern and even cutting-edge technologies.</p>
 
 <!--more-->
 
-<p><img src="/uploads/thumbnails-054255.png" alt="thumbnails-054255.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails of Sentinel Imagery from Planet’s API.</code></p>
+<p>While the COVID-19 pandemic brought disruption and adaption to indigenous communities as it did so many others, it didn’t take long for people to find ways to maintain social connectedness and communal healing virtually. A social media movement of <a href="https://www.cbc.ca/news/indigenous/coronavirus-virtual-powwow-social-distance-1.5521785">virtual powwows</a> started in the United States to “connect powwow dancers, drummers, vendors, and visitors from across North America.” In another example, Elders Elsey Gauthier and Francis Whiskeyjack took their in-person talking circles <a href="https://www.ualberta.ca/folio/2020/05/elders-take-indigenous-cultural-teachings-online-to-support-u-of-a-students.html">online</a> to continue providing one-on-one counseling sessions for indigenous students through the University of Alberta’s First Peoples House.</p>
 
-<p>We’re really excited about the prospect of building custom apps to collect imagery for some of our project sites. The <a href="https://www.planet.com/docs/">API docs</a> for Planet are thorough, letting you work out how to write a client of the API in the programming language of your choice. It has a few Python examples on the site but none for NodeJS in the latest version of the API—so let’s make one!</p>
+<p>In this blog, I will showcase how indigenous North Americans integrate community-building, storytelling, and art creation with 21st-century technologies for cultural preservation, advocacy, healing, and economic empowerment, and the link to international development.</p>
 
-<p>One of the apps we’re cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1, has downloadable assets and is an image with at least 85 percent actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as <a href="https://www.planet.com/docs/glossary/">blackfill</a> in the Planet glossary. Also, for the record, we don’t have any projects in Malibu, it’s just an example.</p>
+<h2 id="sharing-stories-of-truth-and-trauma">Sharing Stories of Truth and Trauma</h2>
 
-<h1 id="making-a-request-to-the-api">Making a Request to the API</h1>
+<p>Indigenous and First Nations communities in North America have been using digital avenues such as podcasts and social media for storytelling and advocacy related to the horrors and abuse that have afflicted their communities for generations. Investigative podcast series embrace the true crime trend to recount stories of crime and trauma experienced by indigenous communities. In <a href="https://www.cbc.ca/mediacentre/program/missing-and-murdered"><em>Missing &amp; Murdered</em></a>, Connie Walker, a Cree journalist from Okanese First Nation, tells the stories of Alberta Williams and Cleo Nicotine Semaganis, shedding light on the <a href="https://airc.ucsc.edu/resources/mmiwg.html">staggering number</a> of missing and murdered indigenous women and girls (“MMIWG”). In <em><a href="https://gimletmedia.com/shows/stolen">Stolen</a></em>, she exposes the harsh realities of the abuse and subsequent intergenerational trauma that resulted from government policies around <a href="https://www.washingtonpost.com/outlook/2021/08/10/residential-schools-were-key-tool-americas-long-history-native-genocide/">residential schools</a> in North America throughout the 19th and 20th centuries. Another podcast, <em><a href="https://crooked.com/podcast-series/this-land/">This Land</a></em>, explains the history of the current Indian Child Welfare Act (<a href="https://www.nicwa.org/about-icwa/">ICWA</a>), which protects indigenous child custody and welfare, and how political challenges to ICWA threaten the broader right to tribal lands. ICWA advocates and indigenous influencers also use platforms such as Instagram to share updates and advocacy around this and other issues in their communities.</p>
 
-<p>Here’s the code to make a request to the Planet API using NodeJS. If you want to use the code, you first need to <a href="https://www.planet.com/explorer/">register as a developer with Planet</a> to get your API key, and then insert it on line 76. That is the only change you need to make in the code before running it on your own machine.</p>
+<p><img src="/uploads/Picture1-27bd2e.png" alt="Picture1-27bd2e.png" /><code class="language-plaintext highlighter-rouge">Screenshot from Spotify.</code></p>
 
-<script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
+<p>For more examples of how the longstanding tradition of oral storytelling continues to reach modern audiences, check out Chatelaine’s <a href="https://www.chatelaine.com/living/indigenous-podcasts-hosted-by-women/">12 Great Podcasts Hosted by Indigenous Women</a>.</p>
 
-<h1 id="reading-the-response">Reading the Response</h1>
+<h2 id="decolonizing-the-internet-and-facilitating-financial-freedom">Decolonizing the Internet and Facilitating Financial Freedom</h2>
 
-<p>Our response comes back as a page-able list of responses with 250 records in each page, with each record corresponding to a single imagery product. One record contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you need to make another authenticated web request using the asset link that is part of each response object.
-<script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script></p>
+<p>In Canada, the <a href="https://www.400drums.com/">400 Drums</a> <a href="https://www.nasdaq.com/articles/web3-and-nfts-explained">Web3</a> project aims to economically empower indigenous populations while sharing cultural traditions and bringing physical artifacts into the digital space. The project hosts a catalog of more than 400 non-fungible tokens (NFTs) derived from drums handcrafted by lead artist David Fierro of the Okanagan Nation, which he then digitally enhances for <a href="https://ethereum.org/en/">Ethereum</a> release. The program helps indigenous elders, artists, and language speakers use cutting-edge digital technology to achieve financial freedom. NFTs are unique digital codes using blockchain technology that allow artists to control how their <a href="https://www.forbes.com/sites/bernardmarr/2022/08/19/web3-nfts-and-the-future-of-art/?sh=69cfc2eb1e05">work is used</a> and establish favorable payment terms. Through this proof-of-concept platform, artists can sell digital versions of their original works and control who gets credit and payment for the work indefinitely, regardless of how many times the item is resold. Art that can’t be copied is particularly appealing to indigenous artists, whose works are frequently replicated and sold without permission. Funds from 400 Drums NFTs support a variety of social, environmental and community programs, such as teaching indigenous youth the ancient physical craft of drum making. Additionally, the physical drums Fierro creates can still be gifted and kept within the community, where selling such sacred pieces of art is a crime.</p>
 
-<h1 id="images-in-the-response">Images in the Response</h1>
+<p>By this Web3 proof-of-concept, people are taking control of their own data, intellectual property, and monetary systems. 400 Drums Creative Director Tamara Goddard of Saulteau First Nation describes the decentralized opportunity to enter the Web3 space as a way of decolonizing the internet. As quoted in the <a href="https://dailyhive.com/vancouver/400-drums-indigenous-nfts">Daily Hive</a>, Goddard says, “It’s time we blazed our own trail for economic reconciliation and cultural revitalization.” Indigenous cultures have persisted for generations, adapting as the world evolves. 400 Drums’ revolutionary economic model is another way communities are adapting to current times, saving space for authentic indigenous products in Web3 to preserve and share indigenous culture and teachings for future generations of indigenous youth and other cultures alike.</p>
 
-<p>Here are some beautiful images of the southern Californian coastline that came back in our response. A useful parameter in the result set is cloud_cover. Filtering on images with low cloud_cover gives you crystal clear imagery.</p>
+<h2 id="applications-in-international-development">Applications in International Development</h2>
 
-<p><img src="/uploads/malibu_3-215f3c.png" alt="malibu_3-215f3c.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails in the response of our API request for images near Malibu, California.</code>
-This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.</p>
+<p>As indigenous communities use modern technology to preserve, share, and exert control over their stories, how can international development practitioners be mindful to not only <a href="https://www.cdacollaborative.org/wp-content/uploads/2018/01/Do-No-Harm-A-Brief-Introduction-from-CDA.pdf">do no harm</a>, but benefit and empower these historically underserved communities through digital solutions?</p>
 
-<p>If you have any questions or if you spot any bugs in my code then get at me! <a href="https://twitter.com/DeRiggible">@DeRiggible</a></p>
+<p>Last year, I spoke with a religious community leader from a country in the Pacific Islands about the challenges and opportunities related to connectivity and ICT among diverse, remote, and indigenous populations in the region. As communal people, he emphasized the importance of ICT to Pacific Island populations—especially amid COVID-19 lockdowns—to foster relationships and community. He also highlighted its further potential to support income-generating e-commerce opportunities and cultural preservation for indigenous languages, traditions, and arts. At the same time, he expressed concern that individuals’ reliance on devices such as smartphones may detract from in-person family and community communication, potentially eroding their social matrix and cultural identity. When proposing a digital literacy or donor-funded program in this context, he stressed the importance of considering cultural values and priorities for successful implementation. In the Pacific Islands, this includes principles like respectful engagement, consensus-building, the value of silence, and respect for the land. There are a number of donors and international organizations supporting digital development in this context, such as the International Centre for Democratic Partnerships (ICDP) Pacific Connect project that has supported groups such as Tonga Women in ICT on digital and virtual <a href="https://www.icdp.com.au/2020/12/01/tonga-women-in-ict-thriving-in-the-new-normal/">training initiatives</a> around topics such as coding, storytelling and digital media, and digital agriculture.</p>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html" data-width="100%" data-numposts="5"></div> -->
+<p>Another example in international development can be found within the U.S. Agency for International Development (USAID)’s partnership with Microsoft through the Airband initiative. Implemented through DAI’s <a href="https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df">Digital Frontiers</a> program, this initiative utilizes public-private collaboration to close the gender digital divide for remote and rural populations. In Guatemala, program partner New Sun Road launched an initiative to improve connectivity in the Alta Verapaz region by building digital community centers and developing a digital literacy training curriculum targeting <a href="https://www.digitalfrontiersdai.com/resources/bridging-the-gender-digital-divide-for-guatemalan-indigenous-women/">indigenous women</a>. From April to June alone, women’s leadership committees offered 2,316 services to their communities through the digital community centers, and the centers saw an 81 percent average increase in revenue over the prior quarter.</p>
+
+<p><img src="/uploads/Picture2.png" alt="Picture2.png" /><code class="language-plaintext highlighter-rouge">Photo: New Sun Road.</code></p>
+
+<p>As we support people and projects worldwide in areas such as digital literacy, cyber safety, and e-commerce, let’s be mindful that literacy comes in many forms (i.e., linguistic, iconographic, olfactory, gustatory, sartorial, and spiritual—as explained in Araba Sapara-Grant’s Digital@DAI blog post, <a href="https://dai-global-digital.com/digital-literacy-series-closing-the-gap-for-semi-literate-and-illiterate-populations.html">Digital Literacy Series: Closing the Gap for Semi-Literate and Illiterate Populations</a>). When designing with the user (frequent readers will be familiar with this <a href="https://digitalprinciples.org/">Principle of Digital Development</a>), consider the user’s cultural values, traditions, norms, and existing means of communication and literacy. With this intention, we can actively support target communities with tools or practices most likely to be adopted, owned, and sustained in the long term.</p>
+
+<h2 id="to-learn-more">To Learn More</h2>
+
+<p>For additional resources on the promotion and protection of the rights of indigenous communities in international development, check out:</p>
+<ul>
+  <li>USAID’s <a href="https://www.usaid.gov/indigenous-peoples/usaid-policy-on-indigenous-peoples">Policy on Promoting the Rights of Indigenous Peoples</a> (PRO-IP)</li>
+  <li><a href="https://www.un.org/development/desa/indigenouspeoples/focus-areas/post-2015-agenda/the-sustainable-development-goals-sdgs-and-indigenous/tools-and-resources.html">Indigenous Peoples and the Sustainable Development Goals </a>(SDGs), including the United Nations’ downloadable Briefing Paper on <a href="http://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2016/10/Briefing-Paper-on-Indigenous-Peoples-Rights-and-the-2030-Agenda.pdf">Indigenous Peoples’ Rights and the 2030 Agenda  </a></li>
+  <li><a href="https://namati.org/">Namati</a>, a movement for legal empowerment</li>
+  <li>The World Bank’s <a href="https://www.worldbank.org/en/topic/indigenouspeoples">Policy on Indigenous Peoples</a></li>
+</ul>
+
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/how-indigenous-communities-are-using-digital-tech-to-preserve-culture-share-truths-and-reclaim-power.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -175,9 +185,16 @@ This is a super-simple start, just scratching the surface of the API but we hope
   
   
     
+    
+  
+  
+    
       
       
         
+        
+          
+          
         
           
           
@@ -194,148 +211,12 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/shaping-history-series-innovative-leaders-driving-digital-transformation-interview-with-neema-iyer.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Neema%20Iyer%20Headshot.jpg');"></div><span class="related-item-text">Shaping History Series: Innovative Leaders Driving Digital Transformation—Interview with Neema Iyer</span></a></li>
-            
-            
-            
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg');"></div><span class="related-item-text">Artificial Intelligence in Healthcare for Development 4.0: Recommendations for Policymakers</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/right-to-repair-is-a-development-issue.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg');"></div><span class="related-item-text">Digital@DAI Rewind: Right to Repair is a Development Issue</span></a></li>
             
             
             
@@ -355,19 +236,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -387,19 +255,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -415,259 +270,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -676,7 +278,7 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/getting-subnational-combining-large-scale-surveys-with-geospatial-data-to-produce-better-small-area-estimation-part-i.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Jamie%20blog.png');"></div><span class="related-item-text">Getting Subnational: Combining Large Scale Surveys with Geospatial Data to Produce Better Small Area Estimation, Part I</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/the-future-of-work-a-review-on-the-trending-phenomenon-of-digital-nomads.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/austin-distel-x1J0zj63ZjM-unsplash%20(1).jpg');"></div><span class="related-item-text">The Future of Work: A Review on the Trending Phenomenon of Digital Nomads</span></a></li>
             
             
             
@@ -696,19 +298,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -724,19 +313,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -760,19 +336,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -788,19 +351,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
         
           
           
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
         
           
           
@@ -824,19 +374,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -856,19 +393,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
           
           
         
@@ -881,143 +405,30 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/digital-at-dai-year-in-review-top-10-posts-of-2021.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/DIGITAL@DAI%20(1).png');"></div><span class="related-item-text">Digital@DAI Year in Review: Top 10 Posts of 2021</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/digital-literacy-series-closing-the-gap-for-semi-literate-and-illiterate-populations.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Designing%20for%20Dig%20Lit.jpg');"></div><span class="related-item-text">Digital Literacy Series: Closing the Gap for Semi-Literate and Illiterate Populations</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/embracing-the-unlikely-resilience-of-feature-phones.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/sumeet-singh-okfXVsBHAtQ-unsplash%20(1).jpg');"></div><span class="related-item-text">Embracing the Unlikely Resilience of Feature Phones</span></a></li>
             
             
             
