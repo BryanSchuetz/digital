@@ -5,30 +5,9 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Oct 2022 10:17:59 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Oct 2022 10:17:59 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2022 22:44:17 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2022 22:44:17 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Picture2.png" medium="image" /> 
-        <title>How Indigenous Communities Are Using Digital Tech to Preserve Culture, Share Truths, and Reclaim Power</title>
-        <description>&lt;p&gt;Indigenous peoples hold some of the world’s most ancient knowledge and sacred traditions while stewarding lands’ rich biodiversity. While the terms “ancient” and “traditional” are rarely seen in concert with “emerging tech trends,” there are communities around the world doing just that: finding creative ways to merge their ancient traditions with modern and even cutting-edge technologies.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Oct 2022 10:00:00 -0400</pubDate>
-        <author>Addie Ryan Tadavarthy
-</author>
-        <link>https://dai-global-digital.com/how-indigenous-communities-are-using-digital-tech-to-preserve-culture-share-truths-and-reclaim-power.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/how-indigenous-communities-are-using-digital-tech-to-preserve-culture-share-truths-and-reclaim-power.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Insights</category>
-        
-        <category>Digital Economy</category>
-        
-        
-      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg" medium="image" /> 
@@ -239,6 +218,31 @@
         <category>Machine Learning</category>
         
         <category>industry 4.0</category>
+        
+        
+      </item>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/FTF%20Press%20Release.png" medium="image" /> 
+        <title>Webinar Series: Connecting Innovators with Funders in Bangladesh</title>
+        <description>&lt;p&gt;Identifying and facilitating linkages between those who own promising digital tools for the agriculture sector—better known as AgTech—and those who have funds to invest is key to supporting the long-term sustainability of scalable digital AgTech tools.&lt;/p&gt;
+
+&lt;p&gt;Panelists at a recent webinar unpacked exactly how these links can be accomplished. Hosted by the U.S. Agency for International Development (USAID) Feed the Future Bangladesh Digital Agricultural Activity, and the first in a series, “Scaling Digital AgTech: Building Ecosystem for Innovation, Investment, and Sustainability of Digital Tools in Bangladesh” featured panelists from business accelerators, venture capital firms, impact investment organizations, donor organizations supporting digital agriculture tools, and technology firms.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2022 11:34:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/pavelhoq/?originalSubdomain=bd">Sajedul Hoq</a> and <a href="https://www.linkedin.com/in/naba-tareque/?originalSubdomain=bd">Naba Nashit Tareque</a>
+</author>
+        <link>https://dai-global-digital.com/connecting-innovators-with-funders.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/connecting-innovators-with-funders.html</guid>
+        
+        <category>AgTech</category>
+        
+        <category>Innovation</category>
+        
+        <category>digital agriculture</category>
+        
+        <category>Agriculture</category>
         
         
       </item>
