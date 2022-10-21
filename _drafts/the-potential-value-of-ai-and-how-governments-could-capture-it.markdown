@@ -45,4 +45,5 @@ Many countries in the Gulf Cooperation Council (GCC)—Bahrain, Kuwait, Oman, Qa
 
 When applied across all GCC countries, our methodology reveals a $150 billion potential value across all sectors of their combined economies. Our analysis shows that AI could potentially add value corresponding to 6 percent or more of each economic sector’s GDP in GCC countries.
 
+<div style='position: relative;width: auto;padding: 0 0 68.41%;height: 0;top: 0;left: 0;bottom: 0;right: 0;margin: 0;border: 0 none' id="experience-62bdc448bb6f3" data-aspectRatio="1.46181818"><iframe allowfullscreen src='//view.ceros.com/leff-communications/mck-shape-data-ai' style='position: absolute;top: 0;left: 0;bottom: 0;right: 0;margin: 0;padding: 0;border: 0 none;height: 1px;width: 1px;min-height: 100%;min-width: 100%' frameborder='0' class='ceros-experience' title='SHaPE Data AI' scrolling='no'></iframe></div><script type="text/javascript" src="//view.ceros.com/scroll-proxy.min.js" data-ceros-origin-domains="view.ceros.com"></script>
 
