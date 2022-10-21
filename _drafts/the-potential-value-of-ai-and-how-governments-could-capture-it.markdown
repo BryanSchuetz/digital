@@ -5,6 +5,8 @@ tags:
 - AI
 Author: "[Niklas Berglind](https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se)
   and [Ankit Fadia](https://www.linkedin.com/in/ankit-fadia/) and [Tom Isherwood](https://www.mckinsey.com/our-people/tom-isherwood)"
+social-image: "/uploads/GettyImages-1379895972.jpg"
+thumbnail: "/uploads/GettyImages-1379895972.jpg"
 ---
 
 *Originally published on the [McKinsey & Company](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it) website.*
