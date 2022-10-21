@@ -11,6 +11,8 @@ thumbnail: "/uploads/aman-pal-15r9RAOy38Q-unsplash-912957.jpg"
 
 In December 2021, I wrote [Headlining, Part I: Spreading Misinformation](https://dai-global-digital.com/headlining-part-1-spreading-misinformation.html), to define “headlining” as a form of misinformation that uses a sensational headline to pass along false information uncritically. In Part 1, I also offered tips and tricks on not falling victim to headlining, like taking a moment to pause and asking yourself, “does this sound too good or too awful to be true?” and actually reading a news article before you share it. Now I want to take “headlining” and situate it directly in the contexts and communities in which international development practitioners work.
 
+![aman-pal-15r9RAOy38Q-unsplash-48d28a.jpg](/uploads/aman-pal-15r9RAOy38Q-unsplash-48d28a.jpg) `Unsplash`
+
 <!--more-->
 
 I don’t know about you, but I often get trapped into thinking that misinformation is strictly political. In communities that have lower media literacy, however, it’s more often the case that misinformation via headlining cuts across multiple disciplines to impact the average person’s (read: someone that does not consume political news or watch CSPAN for fun…) life. In this blog, I will focus on and provide examples of one key discipline impacted by misinformation: public health.
