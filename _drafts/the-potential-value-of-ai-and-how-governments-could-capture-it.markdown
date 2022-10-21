@@ -57,4 +57,4 @@ There are significant nuances across countries (Exhibit 2). For instance, the me
 
 Meanwhile, our analysis suggests that the manufacturing sector could potentially see outsize impact from AI in Bahrain (32 percent) and Kuwait (30 percent). In Bahrain, this opportunity likely stems from the fact that the manufacturing sector accounts for 18 percent of the economy, compared with just 9 percent on average in the other five countries.
 
-
+Of course, moving to capture this value in GCC economies raises potential risks from these technologies. For instance, an AI model being used to distribute social benefits must be thoroughly checked for inherent biases against segments of society. Similarly, an AI model being used for predictive maintenance in a manufacturing plant must be tested to ensure that it delivers the desired performance and safety every time without any failures.
