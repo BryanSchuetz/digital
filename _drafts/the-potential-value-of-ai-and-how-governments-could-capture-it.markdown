@@ -24,7 +24,7 @@ AI may mean different things to different people, but here, we use the term “A
 
 In September 2018, the McKinsey Global Institute modeled trends in AI adoption, using early adopters and their performance as a leading indicator of how businesses across the board may want to absorb AI. In the aggregate and netting out competition effects and transition costs, early evidence suggests that AI could potentially deliver an additional global economic output of about $13 trillion by 2030, [boosting global gross domestic product](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy) (GDP) by about 1.2 percent a year.
 
-![McKinsey Photo.png](/uploads/McKinsey%20Photo.png)
+![Considerations of AI.png](/uploads/Considerations%20of%20AI.png)
 
 However, while it’s generally understood that AI holds a great deal of potential, it can be difficult to measure and track the impact of AI in a specific country in a structured manner that can be replicated. Below is a methodology that could help governments estimate this potential (also see, “Considerations when quantifying the impact of AI”).
 
