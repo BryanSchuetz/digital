@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Oct 2022 09:39:41 -0400</pubDate>
-    <lastBuildDate>Mon, 24 Oct 2022 09:39:41 -0400</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2022 13:46:40 -0400</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2022 13:46:40 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg" medium="image" /> 
+        <title>The Potential Value of AI—and How Governments Could Capture It, Part 1</title>
+        <description>&lt;p&gt;&lt;em&gt;Originally published on the &lt;a href=&quot;https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it&quot;&gt;McKinsey &amp;amp; Company&lt;/a&gt; website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Artificial intelligence (AI) could have a significant impact on individuals, businesses, and governments. Here is what countries need to know about its benefits—and the first steps toward realizing them.&lt;/p&gt;
+
+&lt;p&gt;The long-term potential of AI to change key aspects of the way we live and to support the operations of businesses, governments, and other organizations is hard to grasp.&lt;/p&gt;
+
+&lt;p&gt;Indeed, AI has contributed to improvements in quality of life for all segments of society through innovations such as &lt;a href=&quot;https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai&quot;&gt;predictive healthcare&lt;/a&gt;, &lt;a href=&quot;https://www.mckinsey.com/industries/education/our-insights/how-artificial-intelligence-will-impact-k-12-teachers&quot;&gt;adaptive education&lt;/a&gt;, and &lt;a href=&quot;https://www.mckinsey.com/featured-insights/artificial-intelligence/applying-artificial-intelligence-for-social-good&quot;&gt;optimized crisis response&lt;/a&gt;. The National Health Service in the United Kingdom, for instance, set up a National COVID-19 Chest Imaging Database containing a shared library of chest X-rays, computerized tomography (CT) scans, and magnetic resonance imaging (MRI) images to support the testing and development of AI technologies to treat COVID-19 and a variety of other health conditions. Businesses have seen increased productivity and operational efficiency using autonomous robotics in manufacturing, AI-optimized supply chains, and intelligent cargo routing with autonomous vehicles, among other initiatives. For example, many logistics companies are using AI-powered sorting robots to optimize their warehouse operations. Governments can also harness the power of AI through personalized services and automated processes. Consider Singapore’s “Ask Jamie,” a virtual assistant that helps citizens and businesses navigate government services across roughly 70 government agencies through AI-powered chat and voice.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 24 Oct 2022 08:11:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se">Niklas Berglind</a> and <a href="https://www.linkedin.com/in/ankit-fadia/">Ankit Fadia</a> and <a href="https://www.mckinsey.com/our-people/tom-isherwood">Tom Isherwood</a>
+</author>
+        <link>https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/guerrillabuzz-crypto-pr-T9rKvI3N0NM-unsplash.jpg" medium="image" /> 
@@ -218,31 +241,6 @@
         <category>Machine Learning</category>
         
         <category>industry 4.0</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/FTF%20Press%20Release.png" medium="image" /> 
-        <title>Webinar Series: Connecting Innovators with Funders in Bangladesh</title>
-        <description>&lt;p&gt;Identifying and facilitating linkages between those who own promising digital tools for the agriculture sector—better known as AgTech—and those who have funds to invest is key to supporting the long-term sustainability of scalable digital AgTech tools.&lt;/p&gt;
-
-&lt;p&gt;Panelists at a recent webinar unpacked exactly how these links can be accomplished. Hosted by the U.S. Agency for International Development (USAID) Feed the Future Bangladesh Digital Agricultural Activity, and the first in a series, “Scaling Digital AgTech: Building Ecosystem for Innovation, Investment, and Sustainability of Digital Tools in Bangladesh” featured panelists from business accelerators, venture capital firms, impact investment organizations, donor organizations supporting digital agriculture tools, and technology firms.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 04 Aug 2022 11:34:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/pavelhoq/?originalSubdomain=bd">Sajedul Hoq</a> and <a href="https://www.linkedin.com/in/naba-tareque/?originalSubdomain=bd">Naba Nashit Tareque</a>
-</author>
-        <link>https://dai-global-digital.com/connecting-innovators-with-funders.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/connecting-innovators-with-funders.html</guid>
-        
-        <category>AgTech</category>
-        
-        <category>Innovation</category>
-        
-        <category>digital agriculture</category>
-        
-        <category>Agriculture</category>
         
         
       </item>

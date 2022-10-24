@@ -9,15 +9,17 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@daiglobal">
   <meta name="twitter:creator" content="@daiglobal">
-  <meta name="twitter:title" content="First Contact with the Planet API and NodeJS">
-  <meta name="twitter:description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is Planet, a sma...">
-  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta name="twitter:title" content="The Potential Value of AI—and How Governments Could Capture It, Part 1">
+  <meta name="twitter:description" content="Originally published on the McKinsey &amp; Company website.
+
+<...">
+  <meta name="twitter:image" content="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg">
   <meta property="fb:app_id" content="166488866849393">
-  <title>First Contact with the Planet API and NodeJS</title>
-  <meta name="description" content="We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most promi...">
+  <title>The Potential Value of AI—and How Governments Could Capture It, Part 1</title>
+  <meta name="description" content="Originally published on the McKinsey &amp; Company website.Artificial intelligence (AI) could have a significant impact on individuals, businesses, and gover...">
   <meta http-equiv="X-UA-Compatible" content="IE=9">
   <meta property="fb:admins" content="100001494188199"/>
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/social-image.jpg">
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg">
   
   <!-- JS -->
   <script   src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
@@ -25,7 +27,7 @@
   <script type="text/javascript" src="/js/site.js?v=2"></script>
   
   <link rel="stylesheet" href="/css/main.css?v=23">
-  <link rel="canonical" href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html">
+  <link rel="canonical" href="https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html">
   <link rel="alternate" type="application/rss+xml" title="Digital@DAI" href="https://dai-global-digital.com/feed.xml" />
   <!--[if lt IE 9]>
     <script type="text/javascript">
@@ -99,55 +101,96 @@
             <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">First Contact with the Planet API and NodeJS</h1>
+    <h1 class="post-title">The Potential Value of AI—and How Governments Could Capture It, Part 1</h1>
       
-      
-        <p class="series-flag">This post is <em>one</em> of a <a class="without-style" href="/tags/?tag=remote-sensing-series">series of posts</a> on Remote Sensing.</p>
       
     <div class="post-details">
-      <p class="post-details--date">Apr 20, 2017</p>
+      <p class="post-details--date">Oct 24, 2022</p>
       
       
-      <p class="post-details--byline">By John DeRiggi
+      <p class="post-details--byline">By <a href="https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se">Niklas Berglind</a> and <a href="https://www.linkedin.com/in/ankit-fadia/">Ankit Fadia</a> and <a href="https://www.mckinsey.com/our-people/tom-isherwood">Tom Isherwood</a>
 </p>
-      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=remote-sensing-series" class="without-style">Remote Sensing Series</a></span> • <span class="post-topic"><a href="/tags/?tag=data" class="without-style">Data</a></span></p>
+      <p class="post-details--tags">Tags: <span class="post-topic"><a href="/tags/?tag=ai" class="without-style">AI</a></span></p>
     </div>
   </header>
 
   <article class="post-content">
-    <p>We love remote sensing here at DAI and luckily for us, satellite imagery APIs are starting to pop up all over, like springtime flowers. One of the most prominent imagery providers is <a href="https://www.planet.com/">Planet</a>, a small company with lofty service and product offerings for remote sensing. Planet builds and launches small satellites that image the entire world every day. It provides access to that imagery through a web platform, and it gives developers access to its data through a web API.</p>
+    <p><em>Originally published on the <a href="https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it">McKinsey &amp; Company</a> website.</em></p>
+
+<p>Artificial intelligence (AI) could have a significant impact on individuals, businesses, and governments. Here is what countries need to know about its benefits—and the first steps toward realizing them.</p>
+
+<p>The long-term potential of AI to change key aspects of the way we live and to support the operations of businesses, governments, and other organizations is hard to grasp.</p>
+
+<p>Indeed, AI has contributed to improvements in quality of life for all segments of society through innovations such as <a href="https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai">predictive healthcare</a>, <a href="https://www.mckinsey.com/industries/education/our-insights/how-artificial-intelligence-will-impact-k-12-teachers">adaptive education</a>, and <a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/applying-artificial-intelligence-for-social-good">optimized crisis response</a>. The National Health Service in the United Kingdom, for instance, set up a National COVID-19 Chest Imaging Database containing a shared library of chest X-rays, computerized tomography (CT) scans, and magnetic resonance imaging (MRI) images to support the testing and development of AI technologies to treat COVID-19 and a variety of other health conditions. Businesses have seen increased productivity and operational efficiency using autonomous robotics in manufacturing, AI-optimized supply chains, and intelligent cargo routing with autonomous vehicles, among other initiatives. For example, many logistics companies are using AI-powered sorting robots to optimize their warehouse operations. Governments can also harness the power of AI through personalized services and automated processes. Consider Singapore’s “Ask Jamie,” a virtual assistant that helps citizens and businesses navigate government services across roughly 70 government agencies through AI-powered chat and voice.</p>
 
 <!--more-->
 
-<p><img src="/uploads/thumbnails-054255.png" alt="thumbnails-054255.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails of Sentinel Imagery from Planet’s API.</code></p>
+<p><img src="/uploads/GettyImages-1379895972.jpg" alt="GettyImages-1379895972.jpg" /><code class="language-plaintext highlighter-rouge">Photo: Getty.</code></p>
 
-<p>We’re really excited about the prospect of building custom apps to collect imagery for some of our project sites. The <a href="https://www.planet.com/docs/">API docs</a> for Planet are thorough, letting you work out how to write a client of the API in the programming language of your choice. It has a few Python examples on the site but none for NodeJS in the latest version of the API—so let’s make one!</p>
+<p>But governments face numerous barriers—including a lack of specialized talent, limited investments in AI research and innovation, and often-unclear regulations designed to ensure that AI is applied in an ethical, secure, transparent, and human-centric manner across all sectors—that could prevent them from adopting AI use cases and capturing their value. Indeed, when developing and deploying AI use cases, it is critical that governments proactively consider and address the fast-changing universe of <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/getting-to-know-and-manage-your-biggest-ai-risks">privacy, security risks, and ethical pitfalls</a> that AI technologies can expose them to.</p>
 
-<p>One of the apps we’re cooking up here at DAI is one that helps us monitor a work site with regularly updated satellite imagery. In the following code block, we have a NodeJS script that makes an authenticated request for recent Sentinel imagery products that meet the following criteria: covers an area near Malibu, California, acquired any time since January 1, has downloadable assets and is an image with at least 85 percent actual imagery data data. The reason for that last criterion is that some images are only slices of a complete tile, so we want to specify a minimum threshold for imagery data per tile, something referred to as <a href="https://www.planet.com/docs/glossary/">blackfill</a> in the Planet glossary. Also, for the record, we don’t have any projects in Malibu, it’s just an example.</p>
+<p>Below, we share three steps to measure the potential impact of AI in a country, and we examine how this could play out in a handful of countries. We also review a range of initiatives that could help governments overcome current challenges and capture this value throughout their economies. These initiatives include launching programs in the areas where AI could have the most impact on the country, creating a vibrant AI ecosystem, and appointing an AI authority, as some countries have already done.</p>
 
-<h1 id="making-a-request-to-the-api">Making a Request to the API</h1>
+<h2 id="measuring-the-potential-impact-of-ai-in-a-country">Measuring the Potential Impact of AI in a Country</h2>
 
-<p>Here’s the code to make a request to the Planet API using NodeJS. If you want to use the code, you first need to <a href="https://www.planet.com/explorer/">register as a developer with Planet</a> to get your API key, and then insert it on line 76. That is the only change you need to make in the code before running it on your own machine.</p>
+<p>AI may mean different things to different people, but here, we use the term “AI” to refer to a subset of data analytics. AI systems include computer vision, natural-language processing, and advanced robots. They are both autonomous (performing complex tasks without human supervision) and adaptive (improving by “learning” from more data).</p>
 
-<script src="https://gist.github.com/deriggi/3ad1186b460b3587adbbfabbac83d9c7.js"></script>
+<p>In September 2018, the McKinsey Global Institute modeled trends in AI adoption, using early adopters and their performance as a leading indicator of how businesses across the board may want to absorb AI. In the aggregate and netting out competition effects and transition costs, early evidence suggests that AI could potentially deliver an additional global economic output of about $13 trillion by 2030, <a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-modeling-the-impact-of-ai-on-the-world-economy">boosting global gross domestic product</a> (GDP) by about 1.2 percent a year.</p>
 
-<h1 id="reading-the-response">Reading the Response</h1>
+<p>However, while it’s generally understood that AI holds a great deal of potential, it can be difficult to measure and track the impact of AI in a specific country in a structured manner that can be replicated. Below is a methodology that could help governments estimate this potential (also see, “Considerations when quantifying the impact of AI”).</p>
 
-<p>Our response comes back as a page-able list of responses with 250 records in each page, with each record corresponding to a single imagery product. One record contains the coordinates for the perimeter of the tile, as well as a long list of useful parameters like cloud cover, sun angle, and image source. To actually download the imagery you need to make another authenticated web request using the asset link that is part of each response object.
-<script src="https://gist.github.com/deriggi/e6bc26063e72dcc53b2cbd25f3771ce1.js"></script></p>
+<ol>
+  <li><strong>Identify the most relevant use case domains.</strong> Our research suggests that the hundreds of AI use cases that have the potential to unlock value in countries can be grouped into 15 domains, which can inform efforts to measure impact. While each of these use case domains includes numerous AI applications, the underlying technologies and mechanisms through which they create value are similar, as is their typical impact when applied across like organizations. It may be useful to determine which use case domains are the most relevant for businesses and organizations across sectors of the economy. For example, the most relevant domains for manufacturing are yield, energy, and throughput (where AI could enable predictive machinery maintenance and resource productivity maximization) and integrated supply chain optimization (including demand forecasting and inventory optimization).</li>
+  <li><strong>Scale up impact to the sector and economy level.</strong> Suppose that for one manufacturing company, all relevant use case domains combined can increase earnings before interest and taxes (EBIT) by 10 percent. If total EBIT for all companies in the sector is $10 billion, then that EBIT would rise to $11 billion. If net operating surplus (approximated by EBIT) accounts for 50 percent of gross value add (GVA)—that is, contribution to GDP—in the manufacturing industry (which would total $20 billion), an industry-wide 10 percent EBIT increase from AI would increase the sector’s GVA by 5 percent. Once the impact at the sector level is understood, it can be scaled up to the total economy level by adding up the impact of all sectors.</li>
+</ol>
 
-<h1 id="images-in-the-response">Images in the Response</h1>
+<p>Of course, governments must carefully consider and address the potential risks of implementing AI technology. These <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/getting-to-know-and-manage-your-biggest-ai-risks">risks</a> include the following:</p>
 
-<p>Here are some beautiful images of the southern Californian coastline that came back in our response. A useful parameter in the result set is cloud_cover. Filtering on images with low cloud_cover gives you crystal clear imagery.</p>
+<ul>
+  <li><strong>Privacy.</strong> Is the privacy of customers being protected through adherence to local and global data privacy regulations?</li>
+  <li><strong>Security.</strong> Is the AI model comprehensively protected against cybersecurity vulnerabilities and risks?</li>
+  <li><strong>Fairness.</strong> Is the AI model fair and unbiased toward all segments of customers?</li>
+  <li><strong>Transparency and explainability.</strong> Is it possible to explain how the AI model works and the methodology it uses?</li>
+  <li><strong>Safety and performance.</strong> Has the AI model been adequately tested to ensure that the desired safety and performance are delivered each time?</li>
+  <li><strong>Third-party risks.</strong> Are all third-party vendors and partners following the required risk mitigation and governance standards?</li>
+</ul>
 
-<p><img src="/uploads/malibu_3-215f3c.png" alt="malibu_3-215f3c.png" />
-<code class="language-plaintext highlighter-rouge">Thumbnails in the response of our API request for images near Malibu, California.</code>
-This is a super-simple start, just scratching the surface of the API but we hope you find ways to use it in your work.</p>
+<h2 id="considerations-when-quantifying-the-impact-of-ai">Considerations When Quantifying the Impact of AI</h2>
+<p>Our methodology relies on several standard assumptions and simplifications, which are necessary for modeling theoretical values of an emerging technology:</p>
+<ul>
+  <li>AI use cases that have proved to be effective in one company or one part of the world can be as effective in other companies in a given country.</li>
+  <li>The value of automation can also be realized in the form of more leisure time for workers, which can have a high value that is difficult to quantify.</li>
+  <li>Some AI use case domains redistribute value within the industry rather than increasing total value creation; for example, AI-based marketing and sales increases the market share of companies that use AI at the expense of those that do not.</li>
+  <li>Resources that are freed up in one company can be productively redeployed in the same company or elsewhere in the economy.</li>
+</ul>
 
-<p>If you have any questions or if you spot any bugs in my code then get at me! <a href="https://twitter.com/DeRiggible">@DeRiggible</a></p>
+<p>This last assumption deserves particular attention, given that this redeployment does not happen automatically. It may require upskilling or reskilling and may lead to time lags and disruptions in the economy when reallocating resources.</p>
 
-      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/first-contact-with-the-planet-api-and-nodejs.html" data-width="100%" data-numposts="5"></div> -->
+<h2 id="methodology-in-action-the-potential-impact-of-ai-across-gulf-cooperation-council-countries">Methodology in Action: The Potential Impact of AI Across Gulf Cooperation Council Countries</h2>
+<p>Many countries in the Gulf Cooperation Council (GCC)—Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates (UAE)—are working to diversify their economies away from oil, modernize them, and increase efficiency through technology. AI is one of the technologies that many GCC countries are betting on. For example, in October 2017, the UAE government launched the <a href="https://ai.gov.ae/wp-content/uploads/2021/07/UAE-National-Strategy-for-Artificial-Intelligence-2031.pdf">UAE Strategy for Artificial Intelligence</a>, one of the first of its kind in the region. Similarly, in October 2020, the Saudi Data and AI Authority in Saudi Arabia launched its <a href="https://www.carringtonmalin.com/wp-content/uploads/2020/08/NDAIS-Strategy-Narrative-V2-19Oct20.pdf">National Strategy for Data and AI</a> with the ambition of elevating the kingdom as a global leader in the elite league of data-driven economies.</p>
+
+<p>When applied across all GCC countries, our methodology reveals a $150 billion potential value across all sectors of their combined economies. Our analysis shows that AI could potentially add value corresponding to 6 percent or more of each economic sector’s GDP in GCC countries.</p>
+
+<div style="position: relative;width: auto;padding: 0 0 68.41%;height: 0;top: 0;left: 0;bottom: 0;right: 0;margin: 0;border: 0 none" id="experience-62bdc448bb6f3" data-aspectratio="1.46181818"><iframe allowfullscreen="" src="//view.ceros.com/leff-communications/mck-shape-data-ai" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;margin: 0;padding: 0;border: 0 none;height: 1px;width: 1px;min-height: 100%;min-width: 100%" frameborder="0" class="ceros-experience" title="SHaPE Data AI" scrolling="no"></iframe></div>
+<script type="text/javascript" src="//view.ceros.com/scroll-proxy.min.js" data-ceros-origin-domains="view.ceros.com"></script>
+
+<p>Indeed, across GCC countries, the methodology suggests that AI could play a transformative role in the public sector and manufacturing, with a 12 percent and 15 percent impact potential (percent of GDP), respectively. Given that oil and gas is the largest sector in most of these economies, our analysis also reveals significant potential value there; however, investing in new AI technologies could also be an opportunity to accelerate a necessary diversification away from oil and gas and modernize other high-potential sectors as the world gradually shifts away from fossil fuels.</p>
+
+<p>This impact comes from different use case domains depending on the sector. For example, in the manufacturing sector, large productivity gains could potentially be achieved from predictive maintenance, whereby fewer, more-targeted maintenance activities reduce downtime both from failures and from maintenance itself, which increases production at lower costs. Advanced robotics could also play an important role in this sector, and significant value may be captured through data-driven supply chain optimization—for example, through better demand forecasting that improves product availability, inventory costs, and overall production costs.</p>
+
+<p>In the public sector, successful AI implementation could have an outsize effect on the wider economy across countries. Some use cases in the sector could have a meaningful, direct impact on government cash flows, such as advanced analytics to detect fraud and incorrect payments in grant and transfer systems or tax evasion—which are often significant sources of financial leakage. Moreover, many public-sector use cases affect the population and total economy by improving the quality and outcomes of public services. With personalized, predictive, and preventive services in areas as diverse as education, transport planning, and firefighting, better outcomes may have an economic multiplier: they not only save money directly for the government but could also enable higher productivity for citizens and private companies.</p>
+
+<p>There are significant nuances across countries. For instance, the methodology suggests that the potential impact of AI in the public sector may be especially pronounced in UAE (23 percent), Oman (15 percent), and Qatar (15 percent). Across these countries, public-service personalization and fraud and debt analytics could represent a significant portion of this potential value. Procurement and spending analytics may also be large opportunity use cases in the public sector in Qatar and UAE because procurement and investments, not least in the construction sector, account for a large share of these countries’ public spending.</p>
+
+<p>Meanwhile, our analysis suggests that the manufacturing sector could potentially see outsize impact from AI in Bahrain (32 percent) and Kuwait (30 percent). In Bahrain, this opportunity likely stems from the fact that the manufacturing sector accounts for 18 percent of the economy, compared with just 9 percent on average in the other five countries.</p>
+
+<p>Of course, moving to capture this value in GCC economies raises potential risks from these technologies. For instance, an AI model being used to distribute social benefits must be thoroughly checked for inherent biases against segments of society. Similarly, an AI model being used for predictive maintenance in a manufacturing plant must be tested to ensure that it delivers the desired performance and safety every time without any failures.</p>
+
+<p><em>This blog is Part 1 of this topic. <a href="https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&amp;id=67e58edf98">Subscribe</a> to be notified of Part 2.</em></p>
+
+<p><em>Rawan Abukhaled, Jigar Patel, and Nikhil Shah contributed to this article.</em></p>
+
+      <!-- <div class="fb-comments cf" data-href="https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html" data-width="100%" data-numposts="5"></div> -->
   </article>
 </div>
 
@@ -175,12 +218,13 @@ This is a super-simple start, just scratching the surface of the API but we hope
   
   
     
+    
+  
+  
+    
       
       
         
-        
-          
-          
         
           
           
@@ -198,9 +242,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -210,25 +251,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -246,9 +268,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -258,25 +277,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -294,6 +294,16 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
           
           
         
@@ -310,14 +320,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-            
-            
-            <li class="related-list-item"><a class="related-item-link" href="/shaping-history-series-innovative-leaders-driving-digital-transformation-interview-with-neema-iyer.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Neema%20Iyer%20Headshot.jpg');"></div><span class="related-item-text">Shaping History Series: Innovative Leaders Driving Digital Transformation—Interview with Neema Iyer</span></a></li>
-            
-            
-            
       
     
     
@@ -327,9 +329,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
         
           
           
@@ -352,9 +351,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -364,25 +360,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -400,9 +377,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -412,25 +386,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -448,9 +403,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -460,25 +412,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -496,9 +429,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -508,25 +438,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
@@ -544,9 +455,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -556,127 +464,12 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/getting-subnational-combining-large-scale-surveys-with-geospatial-data-to-produce-better-small-area-estimation-part-i.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Jamie%20blog.png');"></div><span class="related-item-text">Getting Subnational: Combining Large Scale Surveys with Geospatial Data to Produce Better Small Area Estimation, Part I</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/how-four-awardees-are-paving-the-way-for-a-more-equitable-ai-powered-future.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/AIGraphic.jpg');"></div><span class="related-item-text">How Four Awardees Are Paving the Way for a More Equitable AI-Powered Future</span></a></li>
             
             
             
@@ -693,9 +486,6 @@ This is a super-simple start, just scratching the surface of the API but we hope
           
           
         
-          
-          
-        
       
     
     
@@ -705,319 +495,95 @@ This is a super-simple start, just scratching the surface of the API but we hope
       
       
         
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
-        
-          
-          
-        
-      
-    
-    
-  
-  
-    
-      
-      
-        
-        
-          
-          
         
           
           
             
             
-            <li class="related-list-item"><a class="related-item-link" href="/digital-at-dai-year-in-review-top-10-posts-of-2021.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/DIGITAL@DAI%20(1).png');"></div><span class="related-item-text">Digital@DAI Year in Review: Top 10 Posts of 2021</span></a></li>
+            <li class="related-list-item"><a class="related-item-link" href="/how-can-the-mexican-automotive-industry-capitalize-on-data-driven-global-value-chains.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/pexels-sergio-souza-3907943%20(1).jpg');"></div><span class="related-item-text">How Can the Mexican Automotive Industry Capitalize on Data-Driven Global Value Chains?</span></a></li>
+            
+            
+            
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+        
+      
+    
+    
+  
+  
+    
+      
+      
+        
+        
+          
+          
+            
+            
+            <li class="related-list-item"><a class="related-item-link" href="/q-and-a-drone-technology-climate-adaptation-and-aerobotics-an-interview-with-benji-meltzer.html?utm_source=related-box"><div class="related-item-image" style="background-image: url('/uploads/Aerobotics%20drone-8057e3.png');"></div><span class="related-item-text">Q&A: Drone Technology, Climate Adaptation, and Aerobotics—An Interview with Benji Meltzer</span></a></li>
             
             
             
