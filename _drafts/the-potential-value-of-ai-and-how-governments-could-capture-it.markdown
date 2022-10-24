@@ -1,6 +1,6 @@
 ---
-title: The Potential Value of AI—and How Governments Could Capture It
-date: 2022-10-21 14:11:00 -04:00
+title: The Potential Value of AI—and How Governments Could Capture It, Part 1
+date: 2022-10-24 08:11:00 -04:00
 tags:
 - AI
 Author: "[Niklas Berglind](https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se)
@@ -73,6 +73,6 @@ Meanwhile, our analysis suggests that the manufacturing sector could potentially
 
 Of course, moving to capture this value in GCC economies raises potential risks from these technologies. For instance, an AI model being used to distribute social benefits must be thoroughly checked for inherent biases against segments of society. Similarly, an AI model being used for predictive maintenance in a manufacturing plant must be tested to ensure that it delivers the desired performance and safety every time without any failures.
 
-*The authors wish to thank Rawan Abukhaled, Jigar Patel, and Nikhil Shah for their contributions to this article.*
+*This blog is Part 1 of this topic. [Subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to be notified of Part 2.*
 
-*This blog is part 1 of this topic. [Subscribe](https://dai.us19.list-manage.com/subscribe?u=9cb0638e1f8d7224ba7058efa&id=67e58edf98) to be notified of Part 2.*
+*Rawan Abukhaled, Jigar Patel, and Nikhil Shah contributed to this article.*
