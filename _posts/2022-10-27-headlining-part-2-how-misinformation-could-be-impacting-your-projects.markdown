@@ -1,6 +1,6 @@
 ---
 title: 'Headlining, Part 2: How Misinformation Could Impact Development Programming'
-date: 2022-10-24 06:48:00 -04:00
+date: 2022-10-27 09:30:00 -04:00
 tags:
 - Digital Literacy
 - Misinformation
