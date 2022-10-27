@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Oct 2022 09:21:40 -0400</pubDate>
-    <lastBuildDate>Thu, 27 Oct 2022 09:21:40 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2022 09:32:26 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2022 09:32:26 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/aman-pal-15r9RAOy38Q-unsplash-912957.jpg" medium="image" /> 
+        <title>Headlining, Part 2: How Misinformation Could Impact Development Programming</title>
+        <description>&lt;p&gt;In December 2021, I wrote &lt;a href=&quot;https://dai-global-digital.com/headlining-part-1-spreading-misinformation.html&quot;&gt;Headlining, Part I: Spreading Misinformation&lt;/a&gt;, which defines “headlining” as a form of misinformation that uses a sensational headline to uncritically pass along false information.&lt;/p&gt;
+
+&lt;p&gt;I also offered tips and tricks to avoid falling victim to headlining, like taking a moment to pause and ask yourself, “Does this sound too good or too awful to be true?” and actually reading a news article before you share it. Now I want to take headlining and situate it directly in the contexts and communities in which international development practitioners work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/aman-pal-15r9RAOy38Q-unsplash-48d28a.jpg&quot; alt=&quot;aman-pal-15r9RAOy38Q-unsplash-48d28a.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Aman Pal/Unsplash.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 Oct 2022 09:30:00 -0400</pubDate>
+        <author>Nancy Haugh
+</author>
+        <link>https://dai-global-digital.com/headlining-part-2-how-misinformation-could-be-impacting-your-projects.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/headlining-part-2-how-misinformation-could-be-impacting-your-projects.html</guid>
+        
+        <category>Digital Literacy</category>
+        
+        <category>Misinformation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg" medium="image" /> 
@@ -214,33 +237,6 @@
         <category>Digital Gender Divide</category>
         
         <category>Shaping History Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/possessed-photography-jIBMSMs4_kA-unsplash.jpg" medium="image" /> 
-        <title>Artificial Intelligence in Healthcare for Development 4.0: Recommendations for Policymakers</title>
-        <description>&lt;p&gt;Today, artificial intelligence (AI) is broadly understood to include not only long-term efforts to simulate the general intelligence humans exhibit, but also fast-evolving technologies—such as &lt;a href=&quot;https://www.ibm.com/cloud/learn/convolutional-neural-networks&quot;&gt;convolutional neural networks&lt;/a&gt;—that affect many facets of modern society, such as healthcare, national security, social media, agriculture, and more. The sweeping changes caused by AI have significantly increased the gap between government policy and innovative business models that rely on AI deployment. AI is changing norms and business models throughout society, demanding new and effective policy responses from governments on subjects with little real precedence. While governments struggle to adapt to the rapid pace of change, AI brings new solutions and offers the potential to transform how policy is made by providing new tools and methods of policy development.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 10 Aug 2022 12:44:00 -0400</pubDate>
-        <author>Miriam Stankovich
-</author>
-        <link>https://dai-global-digital.com/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/artificial-intelligence-in-healthcare-for-development-4-dot-0-recommendations-for-policymakers.html</guid>
-        
-        <category>AI</category>
-        
-        <category>Data</category>
-        
-        <category>Innovation</category>
-        
-        <category>ICT Policy</category>
-        
-        <category>Machine Learning</category>
-        
-        <category>industry 4.0</category>
         
         
       </item>
