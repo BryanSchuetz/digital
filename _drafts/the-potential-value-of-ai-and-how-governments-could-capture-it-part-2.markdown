@@ -9,7 +9,7 @@ social-image: "/uploads/GettyImages-1379895972.jpg"
 thumbnail: "/uploads/GettyImages-1379895972.jpg"
 ---
 
-*Originally published on the [McKinsey & Company](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it) website. Read part 1 [here](https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html).*
+*Originally published on the [McKinsey & Company](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it) website. Read Part 1 [here](https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html).*
 
 ![GettyImages-1379895972.jpg](/uploads/GettyImages-1379895972.jpg)
 
