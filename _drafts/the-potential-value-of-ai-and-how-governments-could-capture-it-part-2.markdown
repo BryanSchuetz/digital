@@ -9,6 +9,10 @@ thumbnail: "/uploads/GettyImages-1379895972.jpg"
 
 *Originally published on the [McKinsey & Company](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it) website. Read part 1 [here](https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html).*
 
+![GettyImages-1379895972.jpg](/uploads/GettyImages-1379895972.jpg)
+
+<!--more-->
+
 ## Possible opportunities for governments to help capture this potential
 Governments can potentially play an active and critical role in capturing the many benefits of implementing AI technology across a country. They can choose from a variety of approaches, depending on factors such as local political and economic structures. And when these approaches are applied to different sectors or countries, there may be unique challenges to navigate. Based on our benchmark analysis of early adopters of AI technologies, we have identified several example initiatives.
 
