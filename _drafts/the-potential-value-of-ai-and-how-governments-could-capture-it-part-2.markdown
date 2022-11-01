@@ -1,6 +1,8 @@
 ---
 title: The Potential Value of AI—and How Governments Could Capture It, Part 2
 date: 2022-11-01 14:23:00 -04:00
+tags:
+- AI
 Author: "[Niklas Berglind](https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se)
   and [Ankit Fadia](https://www.linkedin.com/in/ankit-fadia/) and [Tom Isherwood](https://www.mckinsey.com/our-people/tom-isherwood)"
 social-image: "/uploads/GettyImages-1379895972.jpg"
