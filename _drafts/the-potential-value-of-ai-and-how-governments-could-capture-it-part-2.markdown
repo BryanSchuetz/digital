@@ -15,7 +15,7 @@ thumbnail: "/uploads/GettyImages-1379895972.jpg"
 
 Governments can potentially play an active and critical role in capturing the many benefits of implementing artificial intelligence (AI) technology across their country. They can choose from a variety of approaches, depending on factors such as local political and economic structures. And when these approaches are applied to different sectors, there may be unique challenges to navigate. Based on our benchmark analysis of early adopters of AI technologies, we have identified several initiatives.
 
-![GettyImages-1379895972.jpg](/uploads/GettyImages-1379895972.jpg)`Photo: Getty Images.`
+![GettyImages-1379895972-f79172.jpg](/uploads/GettyImages-1379895972-f79172.jpg)`Photo: Getty Images.`
 
 ## Enabling a Vibrant AI Ecosystem
 
