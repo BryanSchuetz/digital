@@ -4,7 +4,8 @@ title: In Case You Missed It—Discussing the Impact and Implications of AI on D
 date: 2022-11-08 15:27:00 -05:00
 tags:
 - AI
-Author: Gratiana Fu
+Author: "[Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/) and [Nancy
+  Haugh](https://dai-global-digital.com/authors/nancy-haugh/)"
 social-image: "/uploads/arno-senoner-42t-DKecmPk-unsplash%20(1).jpg"
 thumbnail: "/uploads/arno-senoner-42t-DKecmPk-unsplash%20(1).jpg"
 ---
@@ -34,4 +35,3 @@ Following the presentations and dialogue between panelists, we came to the follo
 * In each FRT case study, there were concerns over the lack of regulations guiding FRT implementation and the use of FRT for state surveillance. Such regulations are essential for the ethical use of FRTs. 
 
 While the novelty of FRTs might energize digital development practitioners, this discussion encourages us to take a closer look at the negative impact of emerging technologies and consider whether and how these technologies include a variety of users. In this case, it does not seem that FRTs are incompatible with and digital inclusion.
-
