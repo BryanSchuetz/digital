@@ -1,7 +1,7 @@
 ---
 title: In Case You Missed It—Discussing the Impact and Implications of AI on Digital
   Inclusion at the NetHope Conference
-date: 2022-11-08 15:27:00 -05:00
+date: 2022-11-09 05:27:00 -05:00
 tags:
 - AI
 Author: "[Gratiana Fu](https://dai-global-digital.com/authors/gratiana-fu/) and [Nancy
