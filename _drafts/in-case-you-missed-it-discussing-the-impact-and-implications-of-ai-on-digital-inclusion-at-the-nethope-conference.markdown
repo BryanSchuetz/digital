@@ -15,7 +15,6 @@ Last month, DAI’s Center for Digital Acceleration hosted a panel discussion du
 
 ## Meet Our Speakers
 
-
 ![Jai-Vipra-Picture-JNC.jpg](/uploads/Jai-Vipra-Picture-JNC.jpg){:.float-left}*Our first speaker, Jai Vipra, is a Senior Resident Fellow at the Centre for Applied Law and Technology Research at the [Vidhi Legal Center](https://vidhilegalpolicy.in/). Her work focuses on the economics of digital platforms and the regulatory implications surrounding emerging technologies. 
 
 In her presentation, Jai shared her research on the use of FRTs, specifically closed-circuit television (CCTV) camera networks, for policing in Delhi, India. The study mapped police stations and CCTV camera networks alongside population demographics. She found that police stations in Delhi are spread unevenly throughout the city with some areas of Old Delhi being more policed than others. Overpoliced and over-surveilled areas had a large proportion of Muslim residents, demonstrating that the most surveilled communities and/or those most vulnerable to the negative impacts of FRTs in Delhi were Muslim residents. You can read Jai’s full research report here.
