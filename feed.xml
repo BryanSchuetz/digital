@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2022 13:57:28 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2022 13:57:28 -0500</lastBuildDate>
+    <pubDate>Thu, 10 Nov 2022 12:09:10 -0500</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2022 12:09:10 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/arno-senoner-42t-DKecmPk-unsplash%20(1).jpg" medium="image" /> 
+        <title>In Case You Missed It—Discussing the Impact and Implications of AI on Digital Inclusion at the NetHope Conference</title>
+        <description>&lt;p&gt;Last month, DAI’s Center for Digital Acceleration hosted a panel discussion during the NetHope Global Summit featuring artificial intelligence (AI) experts representing the public, private, and civil society sectors to discuss practical uses for facial recognition technology (FRT) and its impact on digital inclusion. The panelists presented specific case studies where they have seen their work intersect with AI and facial recognition technologies and digital inclusion, providing lessons learned for attendees to apply.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Nov 2022 05:27:00 -0500</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/gratiana-fu/">Gratiana Fu</a> and <a href="https://dai-global-digital.com/authors/nancy-haugh/">Nancy Haugh</a>
+</author>
+        <link>https://dai-global-digital.com/in-case-you-missed-it-discussing-the-impact-and-implications-of-ai-on-digital-inclusion-at-the-nethope-conference.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/in-case-you-missed-it-discussing-the-impact-and-implications-of-ai-on-digital-inclusion-at-the-nethope-conference.html</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg" medium="image" /> 
@@ -204,31 +221,6 @@
         <category>Innovation</category>
         
         <category>Education</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/tariq%20image.png" medium="image" /> 
-        <title>Emerging eLearning Series: Accessible Training at Scale to Increase Local Governance Capacity in Libya</title>
-        <description>&lt;p&gt;Since the beginning of the COVID-19 pandemic, DAI’s Center for Digital Acceleration (CDA) has been at the forefront of supporting international development projects to understand, apply, and implement eLearning solutions in settings that had not initially considered their wide-scale use.&lt;/p&gt;
-
-&lt;p&gt;This is the second in a series of posts that seek to capture some of these efforts, celebrate innovative successes, consider critical lessons learned, and support practitioners who continue to do this work.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 24 Aug 2022 23:48:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/trevor-oxley">Trevor Olexy</a> and <a href="https://dai-global-digital.com/authors/anne-hand/">Anne Hand</a>
-</author>
-        <link>https://dai-global-digital.com/emerging-elearning-series-accessible-training-at-scale-to-increase-local-governance-capacity-in-libya.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/emerging-elearning-series-accessible-training-at-scale-to-increase-local-governance-capacity-in-libya.html</guid>
-        
-        <category>eLearning</category>
-        
-        <category>Education</category>
-        
-        <category>Emerging eLearning Series</category>
-        
-        <category>eTraining</category>
         
         
       </item>
