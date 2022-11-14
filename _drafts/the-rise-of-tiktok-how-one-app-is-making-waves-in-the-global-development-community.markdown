@@ -11,12 +11,20 @@ social-image: "/uploads/solen-feyissa-3aLMXGvH4GA-unsplash.jpg"
 thumbnail: "/uploads/solen-feyissa-3aLMXGvH4GA-unsplash.jpg"
 ---
 
+*Recently, I’ve been thinking about how the organizational shifts at Twitter will affect TikTok. With Tesla CEO Elon Musk now owning one of the world’s most high-profile information systems, there are bound to be changes in user satisfaction. While TikTok and Twitter have different features and purposes, a few questions have popped up for me. Will we see more users flocking to TikTok due to Musk’s acquisition (or vice versa)? Will TikTok’s brand, ownership, or features change to compete with Twitter’s upcoming changes? Will communities find new ways to organize and communicate beyond both apps? Is it a matter of time before a more unique, more innovative platform rides the wave (and hopefully, betters all of our [attention spans](https://oakparktalon.org/15364/opinion/tiktok-is-shortening-our-attention-spans/))?*
+
+*While I don’t have the answers to any of these questions, I do have the answer to one question: Is TikTok really that influential?*
+
+*A lot has happened with TikTok since I first explored its influence in 2021. In Bangladesh, the platform has ramped up its commitment to minor safety, women empowerment, and safe internet usage (as seen through #LetsTokSafety and #SafeOnSocials)—and over the past seven months, they’ve held workshops and built a community of over 2000 participants from 10 universities. Global Witness and the Cybersecurity for Democracy team at the University published preliminary research stating that the platform is failing to filter election misinformation. For countries like Kenya, TikTok has been criticized as a tool for malign actors to spread tribal hatred. The platform, which is now available in over 150 countries and has over 1 billion users, has been called the “future of social media” by many international news outlets.*
+
+*This week, we will revisit my post on how international markets use TikTok to reach communities and how the development community can replicate these opportunities.*
+
+<!--more-->
+
 TikTok—the popular short video-sharing app—is now the fastest-growing social media platform on the internet. Rivaling companies such as Facebook, YouTube, Twitter, and Netflix, the controversial platform has amassed more than 2 billion [downloads](https://sensortower.com/blog/tiktok-downloads-2-billion) in more than [200 countries](https://blog.hootsuite.com/tiktok-stats/) and 75 languages in just the past four years. And while the app has had success in diverse markets, its principles have been challenged by individuals and governments globally. In 2018, the Indonesian government enacted a one-week [restriction on the app](https://www.reuters.com/article/us-indonesia-bytedance-ban/indonesia-bans-chinese-video-app-tik-tok-for-inappropriate-content-idUSKBN1JU0K8) due to allegations of inappropriate content and blasphemy. The Indian government banned the app [in 2020](https://www.npr.org/2021/01/15/957371287/a-look-at-the-fallout-of-tiktok-ban-in-india) on the grounds of geopolitical rationale. Former U.S. President Donald Trump attempted to [ban TikTok](https://www.brookings.edu/blog/up-front/2020/08/07/why-is-the-trump-administration-banning-tiktok-and-wechat/) due to U.S. national security concerns. Yet amidst these challenges, TikTok's popularity continues to proliferate amongst diverse communities and influence international markets and the future development of domestic internet companies overseas.
 
 ![solen-feyissa-QKEeVYu0d7U-unsplash (1).jpg](/uploads/solen-feyissa-QKEeVYu0d7U-unsplash%20(1).jpg)\
 `Photo credit: Unsplash, Solen Feyissa`
-
-<!--more-->
 
 ## The Evolution and Relevance of TikTok
 
