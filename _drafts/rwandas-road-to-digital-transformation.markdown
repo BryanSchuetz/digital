@@ -1,6 +1,6 @@
 ---
 title: 'A Look Into the Future: Rwanda’s Road to Digital Transformation'
-date: 2022-11-24 15:08:00 -05:00
+date: 2022-12-01 08:08:00 -05:00
 tags:
 - Digital Transformation
 - ICT Policy
