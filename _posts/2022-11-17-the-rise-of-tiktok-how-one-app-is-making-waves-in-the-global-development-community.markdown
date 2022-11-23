@@ -1,5 +1,5 @@
 ---
-title: 'Digital @ DAI Rewind: The Rise of TikTok—How One App is Making Waves in the
+title: 'Digital@DAI Rewind: The Rise of TikTok—How One App is Making Waves in the
   Global Development Community'
 date: 2022-11-17 15:33:00 -05:00
 tags:
