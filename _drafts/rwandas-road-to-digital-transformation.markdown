@@ -13,7 +13,7 @@ thumbnail: "/uploads/system-g3f0828b60_640.jpg"
 
 A couple of months ago, my family was visiting me in Rwanda. We were traveling two hours outside of the capital, in a rural, forested area, on what seemed to be the only straight patch of road in the mountainous country. As we were admiring the landscape, in my rearview mirror, I saw a flash. I knew she got me. Sophia—one of Rwanda’s [notorious traffic cameras](https://www.ktpress.rw/2021/11/rwanda-police-drivers-in-traffic-fines-controversy/) (jokingly called "Sophia" by Rwandans and named after a humanoid robot that spoke at the Transform Africa Summit in 2019) cruelly captured me going over the speed limit. Within 15 minutes, I received a speeding ticket via text message. I quickly paid the fine through Rwanda’s mobile money app, MoMo, and we continued our trip. Despite the ticket, I had to marvel at the technology that underpinned the entire exchange. 
 
-![PXL_20221120_104048864.MP.jpg](/uploads/PXL_20221120_104048864.MP.jpg) `Image: Sophia traffic camera`
+![PXL_20221120_104048864.MP.jpg](/uploads/PXL_20221120_104048864.MP.jpg)`Sophia traffic camera. Photo: Ben Harguth.`
 
 Criticize Sophia all you want, but it is just one fascinating example of Rwanda’s digital transformation.  
 
