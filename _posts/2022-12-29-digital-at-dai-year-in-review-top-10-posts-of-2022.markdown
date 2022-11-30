@@ -12,6 +12,10 @@ Author: Kristen Roggemann
 As we do annually, it’s time for the Top 10 Posts of 2022. What a year! A bit of a return to normalcy after the hardships of 2021, with a welcome return to childcare (not joking), in-person meetings, and travel to connect with colleagues and do technical work globally. In the digital development world, a continued reckoning with the complex challenges of advanced technologies and the multitude of benefits—and risks—of widespread digital transformation. 
 Happily, it seems our [predictions](https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2022.html) for what we’re thinking about in 2022 were largely correct. Through Digital@DAI, we covered topics as varied as ethical artificial intelligence (AI) and its importance in international development, a robust series on digital literacy, and the disability divide in ICT. Interestingly, the top two most-read posts published in 2022 were climate tech-focused. Climate tech has been called the “new frontier for innovation and growth” and investments in the sector are at an all-time high. Our readers’ engagement with these posts aligns with the expanding focus on this area in digital development. 
 
+<!--more-->
+
+![Screen Shot 2022-11-30 at 1.31.17 PM.png](/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM.png)
+
 We’ll be taking a brief break over the holiday period to do some much-needed site maintenance. Below, for your reading enjoyment, we feature the top 10 most-read blogs published in 2022. Happy holidays and see you in 2023!
 
 1.	Drone Mapping Reflects Solid Waste and Ocean Plastic Impact of the Durban Floods Heavy downpours over only two days in April caused South Africa’s worst and most deadly natural disaster to date: a flash flood so rare and devastating it has a one in the 300-year probability of recurring. DAI led drone flight operations in Durban to assess the damaged the floods caused to better understand what risks damage to waste management sites pose to the public, the environment, and service delivery. 
