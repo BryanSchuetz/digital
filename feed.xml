@@ -5,9 +5,34 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Dec 2022 11:51:45 -0500</pubDate>
-    <lastBuildDate>Thu, 15 Dec 2022 11:51:45 -0500</lastBuildDate>
+    <pubDate>Thu, 15 Dec 2022 11:56:16 -0500</pubDate>
+    <lastBuildDate>Thu, 15 Dec 2022 11:56:16 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Picture1.jpg" medium="image" /> 
+        <title>Chatbots for the International Development and Humanitarian Sectors: What Works?</title>
+        <description>&lt;p&gt;You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.&lt;/p&gt;
+
+&lt;p&gt;As they operate with low bandwidth and are simple to use, chatbots seem like they could be a beneficial technology to engage with recipients of our development and humanitarian programs, don’t they?&lt;/p&gt;
+
+&lt;p&gt;As with any technology, the use of chatbots is migrating from the private sector and becoming more prevalent in crisis and conflict response. However, documentation of lessons learned, successes and failures, and best practices of the use of chatbots in the development and humanitarian sectors are still few and far between. Through our work with Sesame Workshop, DAI conducted desk research and key informant interviews to examine use cases and review lessons learned for the use of chatbots in the international development and humanitarian sectors. In this blog, we summarize our key findings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Picture1-dc4d49.jpg&quot; alt=&quot;Picture1-dc4d49.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Image: Pixabay/Mohamed Hassan.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 14 Dec 2022 10:04:00 -0500</pubDate>
+        <author>Chloe Carrington
+</author>
+        <link>https://dai-global-digital.com/chatbots-for-the-international-development-and-humanitarian-sectors-what-works.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/chatbots-for-the-international-development-and-humanitarian-sectors-what-works.html</guid>
+        
+        <category>Innovation</category>
+        
+        <category>Mobile</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/system-g3f0828b60_640.jpg" medium="image" /> 
@@ -196,27 +221,6 @@
         <category>Digital Government</category>
         
         <category>Digital Transformation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Thumbnail%20MFA.jpg" medium="image" /> 
-        <title>The Authentication Dilemma: Can a Single Solution Guarantee Security for Small Firms?</title>
-        <description>&lt;p&gt;Due to the rapid rate of digitalization catalyzed by the COVID-19 pandemic, cyber-attacks have become ubiquitous, presenting opportunities to improve cybersecurity practices for small and medium-sized enterprises (SMEs). SMEs contribute up to &lt;a href=&quot;https://www.worldbank.org/en/topic/smefinance&quot;&gt;40 percent&lt;/a&gt; of the gross domestic product in emerging economies, make up 90 percent of all businesses, and provide more than 50 percent of employment worldwide, making them significant economic drivers and digital supply chain actors. They also endure unprecedented malicious cyber activity, such as ransomware, phishing, password targeting, and advanced persistent threat attacks. In Nigeria, cyber attacks against SMEs have increased by &lt;a href=&quot;https://guardian.ng/business-services/cyber-attack-on-nigerian-smes-up-by-89-per-cent-in-2022/&quot;&gt;89 percent&lt;/a&gt;, in 2022 alone, and in India, more than &lt;a href=&quot;https://timesofindia.indiatimes.com/business/india-business/more-than-60-of-mid-sized-indian-organizations-surveyed-fell-victim-to-a-cyberattack-in-2021-sophos-research-shows/articleshow/90517626.cms&quot;&gt;60 percent&lt;/a&gt; of all SMEs experienced attacks last year.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 Sep 2022 10:22:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/alexander-odisheli-a2a56494/">Alexander Odisheli</a>
-</author>
-        <link>https://dai-global-digital.com/the-authentication-dilemma.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-authentication-dilemma.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Digital Security</category>
-        
-        <category>SME</category>
         
         
       </item>
