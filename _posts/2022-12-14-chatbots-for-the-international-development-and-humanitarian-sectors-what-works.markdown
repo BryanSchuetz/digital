@@ -10,7 +10,7 @@ social-image: "/uploads/Picture1.jpg"
 thumbnail: "/uploads/Picture1.jpg"
 ---
 
-You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp. 
+You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.
 
 As they operate with low bandwidth and are simple to use, chatbots seem like they could be a beneficial technology to engage with recipients of our development and humanitarian programs, don’t they?
 
@@ -24,9 +24,12 @@ As with any technology, the use of chatbots is migrating from the private sector
 
 From a review of chatbots for international development and humanitarian efforts, we found that use cases often fall into four main categories:
 
-* **Provision of information**: Most chatbots fall into this category, creating an interactive web page or magazine-style format whereby users can ask questions or pick a topic, and receive text-based information, as well as information in other formats such as links, videos, or images. (Some examples include: [Cosas de Mujeres](https://ladysmithcollective.com/), which provides information on gender-based violence; [Voices of Venezuela](https://www.turn.io/case-studies/voices-of-venezuela), which provides information for migrants; and Girl Effect’s [Big Sis](https://www.global.girleffect.org/products-showcase/big-sis-chatbot-springster/), which provides young women with information on relationships and sexual and reproductive health).
+* **Provision of information**: Most chatbots fall into this category, creating an interactive web page or magazine-style format whereby users can ask questions or pick a topic, and receive text-based information, as well as information in other formats such as links, videos, or images. (Some examples include: [Cosas de Mujeres](https://ladysmithcollective.com/), which provides information on gender-based violence; [Voices of Venezuela](https://voicesofvenezuela.com/), which provides information for migrants; and Girl Effect’s [Big Sis](https://www.global.girleffect.org/products-showcase/big-sis-chatbot-springster/), which provides young women with information on relationships and sexual and reproductive health).
+
 * **Training:** This is also a common use, and often includes a gamified learning experience whereby users complete course materials through text-based content and quizzes ([Digify Africa](https://digifyafrica.com/)’s chatbots such as Kitso and Naledi; [Learn.Ink](https://learn.ink/), and [Darsel](https://www.darsel.tech/))
+
 * **Broad support services:** Comprehensive chatbots provide chat-based support and services such as reminders. These chatbots may provide healthcare services such as notifications on when to take medications and appointment reminders (Praekelt [MomConnect](https://www.praekelt.org/momconnect)).
+
 * **Reporting:** Users can report issues such as instances of violence or misinformation to a chatbot. They may tag locations, provide links to misinformational websites, or send information about prevalent rumors. Users may even receive a response fact-checking the information. (Examples include UNAIDS [Ask Marlo](https://www.unaids.org/en/resources/presscentre/featurestories/2019/march/20190329_ask_marlo) for COVID-19 mis/disinformation; [Cofacts](https://en.cofacts.tw/) Taiwan for mis/disinformation).
 
 ## What Is Chatbot Best Practice?
