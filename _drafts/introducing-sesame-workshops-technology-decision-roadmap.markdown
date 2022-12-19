@@ -30,19 +30,19 @@ Therefore, the Roadmap begins with digging into the context: understanding the b
 
 The barrier analysis page of the Roadmap details the possible barriers to digital inclusion. These factors serve as a guide to assess which barriers are most challenging for the target population, alongside an assessment of the opportunities in the context, including whether there are child-friendly community spaces, what usage solutions families are already using, and which existing programs and partners are operating.
 
-![Picture3-4cb756.png](/uploads/Picture3-4cb756.png)
+![Decision Roadmap_Presentation2_barrier.png](/uploads/Decision%20Roadmap_Presentation2_barrier.png)
 
 ## Stage 2: Select a Technology Solution
 
 The next stage of the Roadmap is selecting the technology solutions that are most likely to address their barriers to and opportunities for digital inclusion. The identified possible solutions are outlined in the next section. The Roadmap then guides project teams on how to choose from these technology solutions based on the communities’ key digital barriers, again, putting users at the center of the decision.
 
-![Picture4-573b62.png](/uploads/Picture4-573b62.png)
+![Decision Roadmap_Presentation3_tech sol.png](/uploads/Decision%20Roadmap_Presentation3_tech%20sol.png)
 
 ## Stage 3: Select Appropriate Delivery Methods
 
 The next step is to select the delivery method for the content, including usage—the way in which the user accesses the content; and device access—the device on which the user accesses content. For example, if Sneakernet is the selected technology solution and there are safe community spaces available to host facilitated learning sessions, the project may consider communal usage through a shared screen, such as a projector. See the image below for more details about the various delivery methods.
 
-![Picture5-17db12.png](/uploads/Picture5-17db12.png)
+![Understand delivery methods slide.png](/uploads/Understand%20delivery%20methods%20slide.png)
 
 At this stage, the team has selected its technology solution based on the needs of the target population and has an idea as to how it will roll it out. The next stage is to choose the appropriate partners that can facilitate implementation. Consider the operational aspects of the project, to ensure it is appropriate to the implementer as well as the population.
 
