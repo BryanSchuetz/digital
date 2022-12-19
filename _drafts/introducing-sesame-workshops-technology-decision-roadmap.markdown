@@ -12,13 +12,13 @@ These videos, along with other programmatic materials, now serve as an innovativ
 
 To do this, Sesame Workshop worked with DAI’s Center for Digital Acceleration to better understand the key barriers, risks, and opportunities to media access for children in these settings. The result of collaborative research is the Technology Decision Roadmap (the Roadmap). The Roadmap helps guide the technology selection process and answers that question of “How?” At its core, the Roadmap is user-centered and grounded in the realities of conflict-affected populations. In this blog, we provide the background for this research and introduce the Roadmap. The full Roadmap is available at this link.
 
-![roadmap1.png](/uploads/roadmap1.png)
+![2022 Decision Roadmap_v6_Page_01.jpg](/uploads/2022%20Decision%20Roadmap_v6_Page_01.jpg)
 
-# **Solutions for Distributing Media in Crisis-affected Communities**
+**Solutions for Distributing Media in Crisis-affected Communities**
 
 The Roadmap is a tool that guides teams through a step-by-step process to determine the most appropriate technology solutions and partnerships for distributing video content to children in low-connectivity and crisis-affected communities. Teams work through each stage of the Roadmap in a workshop-style design discussion. The following image is an overview of the Roadmap, showing each stage of the process—don’t worry, we’ll walk through each stage in this blog, too!
 
-![Roadmap2.png](/uploads/Roadmap2.png)
+![2022 Decision Roadmap_v6_Page_04.jpg](/uploads/2022%20Decision%20Roadmap_v6_Page_04.jpg)
 
 ## **Stage 1: Understand the Context**
 
