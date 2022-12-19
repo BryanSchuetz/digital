@@ -24,8 +24,6 @@ The Roadmap is a tool that guides teams through a step-by-step process to determ
 
 Sesame Workshop is already sharing its WPL content across the world. For example, in Cox’s Bazar, Bangladesh, WPL videos are played through an android-based offline application connected to a PICO projector to show videos to children in Child Friendly Spaces. In an early childhood development center in Dadaab refugee camp, WPL videos are viewed through the Moodle platform on individual tablets. Through these pilots, Sesame Workshop learned that to reach these communities it needs to select technology solutions that best fit the users and context. The Roadmap aligns with this approach and puts children and the communities they live in at the center of the decision-making process.
 
-![FG_Cúcuta(2)-f41fcb.jpeg](/uploads/FG_C%C3%BAcuta(2)-f41fcb.jpeg)
-
 Therefore, the Roadmap begins with digging into the context: understanding the barriers to digital inclusion and what is already happening on the ground to address these barriers.
 
 The barrier analysis page of the Roadmap details the possible barriers to digital inclusion. These factors serve as a guide to assess which barriers are most challenging for the target population, alongside an assessment of the opportunities in the context, including whether there are child-friendly community spaces, what usage solutions families are already using, and which existing programs and partners are operating.
