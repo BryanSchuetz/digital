@@ -27,7 +27,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: site-builder
+    runs-on: Site-Builder
     steps:
       - name: Checkout
         uses: actions/checkout@v3
