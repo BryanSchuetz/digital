@@ -10,7 +10,7 @@ social-image: "/uploads/Picture1.jpg"
 thumbnail: "/uploads/Picture1.jpg"
 ---
 
-You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.
+You may have noticed chatbots becoming more commonplace. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.
 
 As they operate with low bandwidth and are simple to use, chatbots seem like they could be a beneficial technology to engage with recipients of our development and humanitarian programs, don’t they?
 
