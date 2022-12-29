@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2022 07:32:35 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2022 07:32:35 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2022 08:04:09 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2022 08:04:09 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM-5eb76b.png" medium="image" /> 
+        <title>Digital@DAI Year in Review: Top 10 Posts of 2022</title>
+        <description>&lt;p&gt;As we do annually, it’s time for the Top 10 Posts of 2022. What a year! A bit of a return to normalcy after the hardships of 2021, with a welcome return to childcare (not joking), in-person meetings, and travel to connect with colleagues and do technical work globally. In the digital development world, a continued reckoning with the complex challenges of advanced technologies and the multitude of benefits—and risks—of widespread digital transformation.&lt;/p&gt;
+
+&lt;p&gt;Happily, it seems our &lt;a href=&quot;https://dai-global-digital.com/looking-ahead-what-were-thinking-about-in-2022.html&quot;&gt;predictions&lt;/a&gt; for what we’re thinking about in 2022 were largely correct. Through Digital@DAI, we covered topics as varied as &lt;a href=&quot;https://dai-global-digital.com/cda-insights-2022-toward-ethical-artificial-intelligence-in-international-development.html&quot;&gt;ethical artificial intelligence&lt;/a&gt; (AI) and its importance in international development, a robust &lt;a href=&quot;https://dai-global-digital.com/digital-literacy-series-closing-the-gap-for-semi-literate-and-illiterate-populations.html&quot;&gt;series&lt;/a&gt; on digital literacy, and the &lt;a href=&quot;https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html&quot;&gt;disability divide&lt;/a&gt; in ICT. Interestingly, the top two most-read posts published in 2022 were &lt;a href=&quot;https://dai-global-digital.com/tags/?tag=climate&quot;&gt;climate tech-focused&lt;/a&gt;. Climate tech has been called the “&lt;a href=&quot;https://www.mckinsey.com/capabilities/sustainability/how-we-help-clients/cop/the-cop26-daily/climate-technology-a-new-frontier-for-innovation-and-growth&quot;&gt;new frontier for innovation and growth&lt;/a&gt;” and investments in the sector are at an all-time high. Our readers’ engagement with these posts aligns with the expanding focus on this area in digital development.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 29 Dec 2022 08:00:00 -0500</pubDate>
+        <author>Kristen Roggemann
+</author>
+        <link>https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2022.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-year-in-review-top-10-posts-of-2022.html</guid>
+        
+        <category>digital economy</category>
+        
+        <category>ai</category>
+        
+        <category>Digital Transformation</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Picture1.jpg" medium="image" /> 
@@ -196,31 +219,6 @@
         <category>Digital Inclusion</category>
         
         <category>Hardware</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/ukraine%20cross%20post.png" medium="image" /> 
-        <title>Starting Now on Digital Transformation for Ukraine Reconstruction</title>
-        <description>&lt;p&gt;&lt;em&gt;Originally published on the &lt;a href=&quot;https://www.ictworks.org/digital-transformation-ukraine-reconstruction/&quot;&gt;ICTworks blog.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;When the war in Ukraine comes to an end (hopefully with Ukraine having recovered all of its territories, including Crimea), Western countries are likely to provide a massive aid package to help rebuild Ukrainian infrastructure, buildings, and lives. This moment in history will offer an opportunity for Ukraine to engage in rapid digital transformation. We should already begin deploying digital tools that will help Ukraine as it continues to fight bravely against the invaders, with the intention of seeing the country emerge from war on the right foot for a quick recovery. As President Volodymyr Zelenskyy himself &lt;a href=&quot;https://www.anews.com.tr/world/2022/07/03/zelensky-calls-for-international-assistance-to-rebuild-ukraine&quot;&gt;said&lt;/a&gt; the post-war reconstruction should use the moment to build “a new foundation for our lives: … accessible new technologies, best practices, new institutions and, of course, reforms.”&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Sep 2022 12:40:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/troyetulain/">Troy Etulain</a>
-</author>
-        <link>https://dai-global-digital.com/starting-now-on-digital-transformation-for-ukraine-reconstruction.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/starting-now-on-digital-transformation-for-ukraine-reconstruction.html</guid>
-        
-        <category>Disinformation</category>
-        
-        <category>Think Piece</category>
-        
-        <category>Digital Government</category>
-        
-        <category>Digital Transformation</category>
         
         
       </item>
