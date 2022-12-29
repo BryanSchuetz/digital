@@ -6,7 +6,7 @@ tags:
 - ai
 - Digital Transformation
 Author: Kristen Roggemann
-social-image: "/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM-5eb76b.png"
+social-image: "/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM-03871e.png"
 thumbnail: "/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM-5eb76b.png"
 ---
 
