@@ -14,6 +14,7 @@ Over the past 18 months, DAI’s Center for Digital Acceleration has been workin
 In October and November 2022, the team continued its research in Libya, focusing on three locations: Khoms (east of Tripoli), Brak al Shati (south), and Tripoli Center. The local research team conducted surveys with 64 households, focused on children ages 3–8 and their parents or caregivers. In this blog we share the findings from that research.
 
 ![Ahlan SimSim.png](/uploads/Ahlan%20SimSim.png)
+<!--more-->
 
 # **Key Findings**
 
