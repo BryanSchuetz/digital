@@ -40,9 +40,7 @@ The next stage of the Roadmap is selecting the technology solutions that are mos
 
 The next step is to select the delivery method for the content, including usage—the way in which the user accesses the content; and device access—the device on which the user accesses content. For example, if Sneakernet is the selected technology solution and there are safe community spaces available to host facilitated learning sessions, the project may consider communal usage through a shared screen, such as a projector. See the image below for more details about the various delivery methods.
 
-![Understand delivery methods slide.png](/uploads/Understand%20delivery%20methods%20slide.png)
-
-At this stage, the team has selected its technology solution based on the needs of the target population and has an idea as to how it will roll it out. The next stage is to choose the appropriate partners that can facilitate implementation. Consider the operational aspects of the project, to ensure it is appropriate to the implementer as well as the population.
+![Understand delivery methods slide.png](/uploads/Understand%20delivery%20methods%20slide.png)At this stage, the team has selected its technology solution based on the needs of the target population and has an idea as to how it will roll it out. The next stage is to choose the appropriate partners that can facilitate implementation. Consider the operational aspects of the project, to ensure it is appropriate to the implementer as well as the population.
 
 ## **Identify Possible Partners**
 
