@@ -1,6 +1,10 @@
 ---
 title: 'Frontier Insights Libya: Understanding Children’s Digital Access'
 date: 2023-01-04 05:57:00 -05:00
+categories:
+- Digital Insights
+- education
+social-image: "/uploads/Ahlan%20SimSim-4acced.png"
 ---
 
 Sesame Workshop and the International Rescue Committee (IRC) partnered to address the critical needs of children affected by the Syrian conflict and other crises in Jordan, Lebanon, Syria, and Iraq. The [Ahlan Simsim program](https://ahlansimsim.org/) addresses the urgent needs of children affected by crisis by creating educational resources that reach children through mass media and that are integrated with early childhood services. Ahlan Simsim is exploring the possibility of expanding its work to other countries, specifically Libya.
