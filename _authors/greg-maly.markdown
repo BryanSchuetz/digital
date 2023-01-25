@@ -1,6 +1,7 @@
 ---
 title: Greg Maly
 date: 2017-07-12 15:00:00 -04:00
+published: false
 position: 6
 Job: Products and Data Science Manager
 Image: "/uploads/0.jpg"
