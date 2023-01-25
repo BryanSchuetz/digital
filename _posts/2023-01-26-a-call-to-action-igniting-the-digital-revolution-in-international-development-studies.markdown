@@ -4,7 +4,11 @@ title: 'A Call to Action: Igniting the Digital Revolution in International Devel
 date: 2023-01-26 07:00:00 -05:00
 published: false
 tags:
-- digital economy
+- Think Piece
+- Cybersecurity
+- Digital Inclusion
+- digital platforms
+- USAID
 Author: Romina Bandura and Christopher Burns
 social-image: "/uploads/sm%20DAI%20LLC-182.jpg"
 thumbnail: "/uploads/sm%20DAI%20LLC-182.jpg"
