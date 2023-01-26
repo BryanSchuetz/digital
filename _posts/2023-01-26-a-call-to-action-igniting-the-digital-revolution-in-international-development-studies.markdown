@@ -1,8 +1,7 @@
 ---
 title: 'A Call to Action: Igniting the Digital Revolution in International Development
   Studies'
-date: 2023-01-26 07:00:00 -05:00
-published: false
+date: 2023-01-26 05:00:00 -05:00
 tags:
 - Think Piece
 - Cybersecurity
