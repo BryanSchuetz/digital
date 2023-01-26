@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jan 2023 13:44:09 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Jan 2023 13:44:09 -0500</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2023 05:09:58 -0500</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2023 05:09:58 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sm%20DAI%20LLC-182.jpg" medium="image" /> 
+        <title>A Call to Action: Igniting the Digital Revolution in International Development Studies</title>
+        <description>&lt;p&gt;&lt;em&gt;This &lt;a href=&quot;https://www.csis.org/analysis/call-action-igniting-digital-revolution-international-development-studies&quot;&gt;post&lt;/a&gt; originally appeared on the Center for Strategic and International Studies’ website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technological advancements are transforming every sector of the global economy, opening the way for governments, businesses, and individuals to drastically reframe how they engage with one another. The field of international development is not immune to these changes and has, in fact, seen a marked shift in new approaches and business models in response to today’s digital age. Development practitioners are actively responding to the increased role of tools like artificial intelligence, digital identity, digital financial services, and geospatial visualization in project design and implementation. However, the increased use of digital technology also carries real risks to users. Beyond cybersecurity and data privacy breaches, the rise in disinformation and misinformation, the increased risk of misuse, bias, and discrimination, and the growing trend of digital authoritarianism around the world are all causes for concern.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 26 Jan 2023 05:00:00 -0500</pubDate>
+        <author>Romina Bandura and Christopher Burns
+</author>
+        <link>https://dai-global-digital.com/a-call-to-action-igniting-the-digital-revolution-in-international-development-studies.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/a-call-to-action-igniting-the-digital-revolution-in-international-development-studies.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>digital platforms</category>
+        
+        <category>USAID</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Screen%20Shot%202022-11-30%20at%201.31.17%20PM-03871e.png" medium="image" /> 
@@ -200,25 +227,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/digital-at-dai-rewind-is-intellectual-property-ready-for-blockchain.html</guid>
         
         <category>Blockchain Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/dan-cristian-padure-BxgVEo_rF-o-unsplash.jpg" medium="image" /> 
-        <title>Digital@DAI Rewind: Right to Repair is a Development Issue</title>
-        <description>&lt;p&gt;&lt;em&gt;The “&lt;a href=&quot;https://www.repair.org/stand-up&quot;&gt;Right to Repair&lt;/a&gt;” is a concept and advocacy movement centered around the idea that anyone who owns a device, machinery, or piece of equipment should have the right to repair it themselves or take it to a repair person or shop of their choosing. While this has been a subject in tech news for the last several years, the concept is back in the spotlight. Last week, Apple unveiled its new, more repairable &lt;a href=&quot;https://www.cnbc.com/2022/09/19/apple-iphone-14-easiest-to-fix-since-2016-ifixit.html&quot;&gt;iPhone 14&lt;/a&gt; and in June, the New York state legislature &lt;a href=&quot;https://www.theverge.com/2022/6/3/23153504/right-to-repair-new-york-state-law-ifixit-repairability-diy&quot;&gt;passed&lt;/a&gt; the United States’ first Right to Repair bill. With the movement picking up steam, we are reminded that there are linkages to our work in digital development. This week, we will revisit a &lt;a href=&quot;https://dai-global-digital.com/right-to-repair-is-a-development-issue.html&quot;&gt;2021 post&lt;/a&gt; from &lt;a href=&quot;https://www.dai.com/who-we-are/our-team/robert-ryan-silva&quot;&gt;Rob Ryan-Silva&lt;/a&gt;, Director of DAI’s &lt;a href=&quot;https://www.dai.com/our-work/solutions/dai-maker-lab&quot;&gt;Maker Lab&lt;/a&gt;, about why this movement is an issue the development community needs to care about.&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 29 Sep 2022 07:38:00 -0400</pubDate>
-        <author>Rob Ryan-Silva
-</author>
-        <link>https://dai-global-digital.com/right-to-repair-is-a-development-issue.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/right-to-repair-is-a-development-issue.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Hardware</category>
         
         
       </item>
