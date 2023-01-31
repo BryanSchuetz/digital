@@ -74,7 +74,7 @@ module Jekyll
 					# "mobiledoc" => mobiledoc,
 					"mobiledoc" => mobiledoc.to_json.to_s,
 					# "html" => converter.convert(post.content),
-					"feature_image" => processImageUrl(post.data['image']),
+					"feature_image" => post.data['featured_image'],
 					"featured" => post.data['featured'],
 					"page" => 0,
 					"status" => "published",
@@ -102,7 +102,7 @@ module Jekyll
 				},
 				"data" => {
 					"posts" => ex_posts,
-					"tags" => self.tag_objects,
+					"tags" => self.tag_objects, 
 					"posts_tags" => self.posts_tag_objects,
                     "users" => self.author_objects(site)
                     # TODO: add roles_users
@@ -236,7 +236,7 @@ module Jekyll
 
 
 		def tag_objects
-			tag_array = []
+			tag_array = ["id" => 0, "name" => 'hash-digital', "slug" => 'hash-digital', "description" => '']
 			@tags.each do |tag|
 				tag_array.push({
 					"id" => tag_array.size,
@@ -258,6 +258,11 @@ module Jekyll
 										"tag_id" => @tags.index(tag)
 										})
 				end
+        posts_tag_array.push({
+          "id" => (posts_tag_array.size + 1),
+          "post_id" => post,
+          "tag_id" => 0
+        })
 			end
 			return posts_tag_array
 		end
