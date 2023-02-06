@@ -21,6 +21,8 @@ Digitalization presents both opportunities and challenges for micro, small, and 
 
 As part of our research, and with the help of our in-country local partners, we asked 85 business owners about their understanding and awareness of misinformation and other digital downsides and the impact of these experiences on their businesses. We further wanted to understand the types of digital tools (social media platforms, messaging services, digital payment devices, etc.) that business owners in lower- and middle-income countries (LMICs) use and what gaps exist that could be filled through training or by government, private sector, nonprofit and other actors. Lastly, we uncovered how misinformation factors into a business context, rather than an electoral or public health context (which is how misinformation has typically been studied). 
 
+<!--more-->
+
 ## Report Highlights 
 
 Our study found that even though digital tools greatly benefit MSMEs in emerging markets, without the resources to address misinformation, scams, and other digital risks, those MSMEs are vulnerable to financial losses, damaged reputations, and/or loss of customer trust that inhibit their participation in the digital economy.  
