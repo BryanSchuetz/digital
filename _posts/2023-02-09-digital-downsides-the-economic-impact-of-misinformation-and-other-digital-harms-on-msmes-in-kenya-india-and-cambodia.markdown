@@ -14,7 +14,9 @@ tags:
 - Digital Literacy
 - Misinformation
 - Disinformation
-Author: 'Nancy Haugh, Priya Sethi, Komal Bazaz Smith, and Kristen Roggemann '
+Author: "[Nancy Haugh](https://www.dai.com/who-we-are/our-team/nancy-haugh), [Priya
+  Sethi](https://www.linkedin.com/in/priya-sethi-96ba3025/), [Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/),
+  and [Kristen Roggemann](https://www.linkedin.com/in/kristenroggemann/)"
 social-image: "/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg"
 thumbnail: "/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg"
 ---
@@ -41,7 +43,7 @@ We found the following:
 
 **3. MSMEs are losing trust in online tools as a result of misinformation**. Businesses also reported industry rumors where misinformation resulted in the devaluation of a product, sowed mistrust among customers, and negatively impacted the companies’ revenue. The reach of and speed with which misinformation can spread and ruin companies’ brands, as well as the overall difficulty businesses faced in seeking recourse, made the MSMEs we interviewed wary of using digital tools altogether.  
 
-*“The response is always the same. Algorithms read it and don’t find anything wrong. One of those screenshots was a proper chat screenshot of someone abusing me. But nothing happened. It is disheartening. I think there should be a person involved rather than the algorithm.”—Rouble, Madam Sweet Tooth, India*
+> *“The response is always the same. Algorithms read it and don’t find anything wrong. One of those screenshots was a proper chat screenshot of someone abusing me. But nothing happened. It is disheartening. I think there should be a person involved rather than the algorithm.”—Rouble, Madam Sweet Tooth, India*
 
 **4. Still, MSMEs continue to operate online… albeit cautiously.** About 30 percent of respondents indicated they took no mitigation measures when confronting digital harms, often because, in their opinion, they did not know where and how to do so or felt that their business was too small to be targeted by scams, fraud, misinformation, and hacking in the first place. Furthermore, about 70 percent of MSMEs reported a lack of confidence in their ability to protect their businesses.  
 
@@ -60,3 +62,4 @@ As a result of our research, we recommend that development practitioners and oth
 **4. Assist governments to sustain their critical role in the business innovation and protection ecosystem.** To nurture MSME economic growth, governments must take proactive steps to help businesses protect themselves from the negative effects of digitalization. Such actions could include coupling online business registration requirements with mandatory digital literacy and risk-awareness trainings or establishing accountability mechanisms such as hotlines to lodge complaints, report scams, or flag inaccurate content.  
 
 *There’s much more to say about this research, the business owners we interviewed, and the concrete steps we can take to build MSME resilience to digital harms. This is just a taste of the insights we’ve uncovered. The full research report will be published in mid-February and shared here.*
+[Nancy Haugh](https://www.dai.com/who-we-are/our-team/nancy-haugh), [Priya Sethi](https://www.linkedin.com/in/priya-sethi-96ba3025/), [Komal Bazaz Smith](https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/), and [Kristen Roggemann](https://www.linkedin.com/in/kristenroggemann/)
