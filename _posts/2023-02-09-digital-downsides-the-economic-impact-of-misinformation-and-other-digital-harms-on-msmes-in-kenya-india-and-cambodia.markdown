@@ -20,6 +20,8 @@ social-image: "/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg"
 thumbnail: "/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg"
 ---
 
+**Update: Complete report now available for download [here](https://www.dai.com/uploads/no-reward-without-risk-cda-insights.pdf).**
+
 Digitalization presents both opportunities and challenges for micro, small, and medium enterprises (MSMEs) in emerging markets. Digital tools can increase business efficiency and reach, but also increase exposure to misinformation, fraud, and cyber attacks. Such “digital downsides” can lead to financial losses, reputational damage, loss of customer trust, and other challenges that hinder MSMEs’ ability—and desire—to participate in the digital economy. In this post, we’re previewing a soon-to-be-released report that DAI authored about the economic impact of misinformation and other digital harms on MSMEs in Kenya, India, and Cambodia.  
 
 As part of our research, and with the help of our in-country local partners, we asked 85 business owners about their understanding and [awareness of misinformation](https://dai-global-digital.com/building-resilience-against-disinformation.html) and other digital downsides and the impact of these experiences on their businesses. We further wanted to understand the types of digital tools (social media platforms, messaging services, digital payment devices, etc.) that business owners in lower- and middle-income countries (LMICs) use and what gaps exist that could be filled through training or by government, private sector, nonprofit and other actors. Lastly, we uncovered how misinformation factors into a business context, rather than an electoral or public health context (which is how misinformation has typically been studied). 
