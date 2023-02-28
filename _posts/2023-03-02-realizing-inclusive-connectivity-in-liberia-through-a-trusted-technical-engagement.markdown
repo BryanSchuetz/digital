@@ -3,13 +3,17 @@ title: Realizing Inclusive Connectivity in Liberia Through a Trusted Technical E
 date: 2023-03-02 07:56:00 -05:00
 published: false
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
+social-image: "/uploads/LiberiaConnectivityImage.jpg"
+thumbnail: "/uploads/LiberiaConnectivityImage.jpg"
 ---
 
 Transmitting data through transparent fibers barely thicker than a human hair, the Africa Coast to Europe (ACE) optical-fiber submarine cable system revolutionized Liberia’s information and communications technology (ICT) sector. Landing off the shore of Liberia’s capital, Monrovia, in 2011, this 17,000-kilometer cable that stretches from France to South Africa marked the country’s introduction to high-speed internet. Providing connectivity to 24 countries, the arrival of the ACE also demonstrated a commitment to reduce the digital divide and democratize internet access in Africa through secure, diverse, and resilient ICT infrastructure investments.  
 
 While ACE, made possible through a [landmark agreement](https://ace-submarinecable.com/en/members/) between a consortium of telecommunications companies and member countries, significantly increased connectivity in Monrovia, the lack of optical fiber cables beyond the capital resulted in low connectivity in Liberia’s rural areas. Moreover, Liberia lacks a much-needed system of high-speed networks linked together with fiber-optic connections to establish what is formally known as a fiber backbone—a critical prerequisite to fully maximize the ACE cable’s potential.
 
-Since the ACE cable’s deployment, much work has been done to enhance competition and growth among internet service providers (ISPs) and mobile network operators (MNOs) to provide greater connectivity options to Liberian consumers. Under a revised technology license issued by the Liberia Telecommunications Authority (LTA) in 2015, the regulatory authority authorized wireless carriers to build their own optical-fiber cable infrastructure. However, the lack of coherent regulatory frameworks to guide the deployment of optical fibers across Liberia and the lack of a concrete national fiber backbone severely hampered connectivity efforts beyond Monrovia—exacerbating the digital divide.    
+Since the ACE cable’s deployment, much work has been done to enhance competition and growth among internet service providers (ISPs) and mobile network operators (MNOs) to provide greater connectivity options to Liberian consumers. Under a revised technology license issued by the Liberia Telecommunications Authority (LTA) in 2015, the regulatory authority authorized wireless carriers to build their own optical-fiber cable infrastructure. However, the lack of coherent regulatory frameworks to guide the deployment of optical fibers across Liberia and the lack of a concrete national fiber backbone severely hampered connectivity efforts beyond Monrovia—exacerbating the digital divide. 
+
+![LiberiaConnectivityImage-12074e.jpg](/uploads/LiberiaConnectivityImage-12074e.jpg)
 
 ## Addressing the Connectivity Challenge
 
