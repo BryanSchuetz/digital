@@ -22,7 +22,7 @@ While ACE, made possible through a [landmark agreement](https://ace-submarinecab
 
 Since the ACE cable’s deployment, much work has been done to enhance competition and growth among internet service providers (ISPs) and mobile network operators to provide greater connectivity options to Liberian consumers. Under a revised technology license issued by the Liberia Telecommunications Authority (LTA) in 2015, the regulatory authority authorized wireless carriers to build their own optical-fiber cable infrastructure. However, the lack of coherent regulatory frameworks to guide the deployment of optical fibers across Liberia and no concrete national fiber backbone severely hampered connectivity efforts beyond Monrovia—exacerbating the digital divide. 
 
-![LiberiaConnectivityImage-12074e.jpg](/uploads/LiberiaConnectivityImage-12074e.jpg)
+![LiberiaConnectivityImage-12074e.jpg](/uploads/LiberiaConnectivityImage-12074e.jpg)`Photo: Stefan Peterson.`
 
 ## Addressing the Connectivity Challenge
 
