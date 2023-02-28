@@ -2,10 +2,13 @@
 title: Realizing Inclusive Connectivity in Liberia Through a Trusted Technical Engagement
 date: 2023-03-02 07:56:00 -05:00
 published: false
-categories:
+tags:
+- Digital Inclusion
 - Digital Insights
-- Data Analysis
-- Resilience
+- digital economy
+- Data
+- Digital Divide
+- Digital Ecosystems
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 social-image: "/uploads/LiberiaConnectivityImage.jpg"
 thumbnail: "/uploads/LiberiaConnectivityImage.jpg"
