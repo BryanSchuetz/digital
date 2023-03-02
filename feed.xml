@@ -5,9 +5,38 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Mar 2023 10:32:09 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Mar 2023 10:32:09 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Mar 2023 11:55:02 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Mar 2023 11:55:02 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/LiberiaConnectivityImage.jpg" medium="image" /> 
+        <title>Realizing Inclusive Connectivity in Liberia Through a Trusted Technical Engagement</title>
+        <description>&lt;p&gt;Transmitting data through transparent fibers barely thicker than a human hair, the Africa Coast to Europe (ACE) optical-fiber submarine cable system revolutionized Liberia’s information and communications technology (ICT) sector. Landing off the shore of Liberia’s capital, Monrovia, in 2011, this 17,000-kilometer cable that stretches from France to South Africa marked the country’s introduction to high-speed internet. Providing connectivity to 24 countries, the cable also demonstrated a commitment to reduce the digital divide and democratize internet access in Africa through secure, diverse, and resilient ICT infrastructure investments.&lt;/p&gt;
+
+&lt;p&gt;While ACE, made possible through a &lt;a href=&quot;https://ace-submarinecable.com/en/members/&quot;&gt;landmark agreement&lt;/a&gt; between a consortium of telecommunications companies and member countries, significantly increased connectivity in Monrovia, the lack of optical fiber cables beyond the capital resulted in low connectivity in Liberia’s rural areas. Moreover, Liberia lacks a much-needed system of high-speed networks linked together with fiber-optic connections to establish what is formally known as a fiber backbone—a critical prerequisite to fully maximize the ACE cable’s potential.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Mar 2023 07:56:00 -0500</pubDate>
+        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
+</author>
+        <link>https://dai-global-digital.com/realizing-inclusive-connectivity-in-liberia-through-a-trusted-technical-engagement.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/realizing-inclusive-connectivity-in-liberia-through-a-trusted-technical-engagement.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Digital Insights</category>
+        
+        <category>digital economy</category>
+        
+        <category>Data</category>
+        
+        <category>Digital Divide</category>
+        
+        <category>Digital Ecosystems</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg" medium="image" /> 
@@ -222,29 +251,6 @@
         <category>Digital Literacy</category>
         
         <category>Misinformation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/GettyImages-1379895972.jpg" medium="image" /> 
-        <title>The Potential Value of AI—and How Governments Could Capture It, Part 1</title>
-        <description>&lt;p&gt;&lt;em&gt;Originally published on the &lt;a href=&quot;https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-potential-value-of-ai-and-how-governments-could-look-to-capture-it&quot;&gt;McKinsey &amp;amp; Company&lt;/a&gt; website.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Artificial intelligence (AI) could have a significant impact on individuals, businesses, and governments. Here is what countries need to know about its benefits—and the first steps toward realizing them.&lt;/p&gt;
-
-&lt;p&gt;The long-term potential of AI to change key aspects of the way we live and to support the operations of businesses, governments, and other organizations is hard to grasp.&lt;/p&gt;
-
-&lt;p&gt;Indeed, AI has contributed to improvements in quality of life for all segments of society through innovations such as &lt;a href=&quot;https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/transforming-healthcare-with-ai&quot;&gt;predictive healthcare&lt;/a&gt;, &lt;a href=&quot;https://www.mckinsey.com/industries/education/our-insights/how-artificial-intelligence-will-impact-k-12-teachers&quot;&gt;adaptive education&lt;/a&gt;, and &lt;a href=&quot;https://www.mckinsey.com/featured-insights/artificial-intelligence/applying-artificial-intelligence-for-social-good&quot;&gt;optimized crisis response&lt;/a&gt;. The National Health Service in the United Kingdom, for instance, set up a National COVID-19 Chest Imaging Database containing a shared library of chest X-rays, computerized tomography (CT) scans, and magnetic resonance imaging (MRI) images to support the testing and development of AI technologies to treat COVID-19 and a variety of other health conditions. Businesses have seen increased productivity and operational efficiency using autonomous robotics in manufacturing, AI-optimized supply chains, and intelligent cargo routing with autonomous vehicles, among other initiatives. For example, many logistics companies are using AI-powered sorting robots to optimize their warehouse operations. Governments can also harness the power of AI through personalized services and automated processes. Consider Singapore’s “Ask Jamie,” a virtual assistant that helps citizens and businesses navigate government services across roughly 70 government agencies through AI-powered chat and voice.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 24 Oct 2022 08:11:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/niklas-berglind-92571231/?originalSubdomain=se">Niklas Berglind</a> and <a href="https://www.linkedin.com/in/ankit-fadia/">Ankit Fadia</a> and <a href="https://www.mckinsey.com/our-people/tom-isherwood">Tom Isherwood</a>
-</author>
-        <link>https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html</guid>
-        
-        <category>AI</category>
         
         
       </item>
