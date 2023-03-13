@@ -1,6 +1,6 @@
 ---
 title: Preparing International Development Professionals for the Digital Age
-date: 2023-03-16 10:10:00 -04:00
+date: 2023-03-16 08:10:00 -04:00
 published: false
 tags:
 - digital economy
