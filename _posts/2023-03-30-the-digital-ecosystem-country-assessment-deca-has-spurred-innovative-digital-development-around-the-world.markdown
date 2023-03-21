@@ -16,7 +16,7 @@ In 2016, the Government of Colombia and the Revolutionary Armed Forces of Colomb
 
 As more USAID Missions like Colombia’s grapple with the emerging opportunities and challenges of our digital world, the Digital Strategy is shaping the Agency’s response. To design policies and programs that take advantage of technology, stakeholders need to first understand the building blocks of a country’s digital landscape. The DECA, a cornerstone of the [Digital Strategy](https://www.usaid.gov/digital-development/digital-strategy), is helping development practitioners to do just that.  
 
-![deca 1.jpg](/uploads/deca%201.jpg)`Photo: USAID.`
+![deca 1.jpg](/uploads/deca%201.jpg)`Photo: Hanz Rippe/Paramo Films for USAID.`
 
 <!--more-->
 
@@ -26,7 +26,7 @@ The [DECA concept](https://www.usaid.gov/digital-strategy/implementation-tracks/
 
 The joint USAID and Digital Frontiers team has or will conduct 19 additional DECAs for a total of 23 by mid-2024. This diversity of DECAs has encompassed conflict and crisis zones, countries with a large humanitarian aid presence or heightened security environment, and regional Missions covering multiple countries. After each assessment, the team documented technical processes and created internal templates and research tools to standardize the process. USAID saw the value in this collection of internal documentation and the idea for the [DECA Toolkit](https://www.usaid.gov/digital-development/deca-toolkit) was born. Today, the toolkit empowers Missions to conduct a robust DECA through their existing partnerships that is neither confusing nor overly complex and allows Missions to tackle their priorities. 
 
-![deca 2.jpg](/uploads/deca%202.jpg)`Photo: USAID.`
+![deca 2.jpg](/uploads/deca%202.jpg)`Photo: Hanz Rippe/Paramo Films for USAID.`
 
 ## Ideas Born of the DECA
 
