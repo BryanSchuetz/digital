@@ -8,15 +8,15 @@ tags:
 - Data
 - Think Piece
 Author: Patrick Malone
-social-image: "/uploads/Screen%20Shot%202023-03-21%20at%2012.09.45%20PM.png"
-thumbnail: "/uploads/Screen%20Shot%202023-03-21%20at%2012.09.45%20PM.png"
+social-image: "/uploads/sm.jpg"
+thumbnail: "/uploads/sm.jpg"
 ---
 
 In 2016, the Government of Colombia and the Revolutionary Armed Forces of Colombia (FARC) brokered a peace accord that ended nearly five decades of internal armed conflict. After years of reconciliation and peacebuilding efforts, however, new emerging threats to civil society, while digital, have the potential to incite physical violence, according to findings in a 2020 [Digital Ecosystem Country Assessment](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) (DECA) report published by the U.S. Agency for International Development (USAID) and DAI’s [Digital Frontiers](https://www.digitalfrontiersdai.com/) project. The report recommended that USAID invest in [cyber hygiene programming](https://www.usaid.gov/digital-development/cybersecurity) in Colombia to assess and improve online and offline safety. Today, USAID Colombia has partnered with USAID’s Digital APEX project to build just this type of capacity.       
 
 As more USAID Missions like Colombia’s grapple with the emerging opportunities and challenges of our digital world, the Digital Strategy is shaping the Agency’s response. To design policies and programs that take advantage of technology, stakeholders need to first understand the building blocks of a country’s digital landscape. The DECA, a cornerstone of the [Digital Strategy](https://www.usaid.gov/digital-development/digital-strategy), is helping development practitioners to do just that.  
 
-![Screen Shot 2023-03-21 at 12.09.45 PM-fe75f0.png](/uploads/Screen%20Shot%202023-03-21%20at%2012.09.45%20PM-fe75f0.png)
+![deca 1.jpg](/uploads/deca%201.jpg)`Photo: USAID.`
 
 <!--more-->
 
@@ -25,6 +25,8 @@ As more USAID Missions like Colombia’s grapple with the emerging opportunities
 The [DECA concept](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) emerged from a close working partnership between USAID’s Technology Division within the Innovation, Technology, and Research (ITR) Hub and the Digital Frontiers team, which, together, set out to define the digital ecosystem. As part of the initial implementation of USAID’s Digital Strategy, the division worked with Digital Frontiers to design and pilot the DECA beginning in the Fall of 2019. After two years of piloting and iterating the methodology in four countries, the DECA became not just a standalone assessment, but a versatile and broadly applicable tool. Building on these pilots, the team developed the [Digital Ecosystem Framework](https://www.usaid.gov/digital-development/digital-ecosystem-framework) to better explain the concept to the Agency and its partners. The framework now guides the whole of USAID’s digital development approach. 
 
 The joint USAID and Digital Frontiers team has or will conduct 19 additional DECAs for a total of 23 by mid-2024. This diversity of DECAs has encompassed conflict and crisis zones, countries with a large humanitarian aid presence or heightened security environment, and regional Missions covering multiple countries. After each assessment, the team documented technical processes and created internal templates and research tools to standardize the process. USAID saw the value in this collection of internal documentation and the idea for the [DECA Toolkit](https://www.usaid.gov/digital-development/deca-toolkit) was born. Today, the toolkit empowers Missions to conduct a robust DECA through their existing partnerships that is neither confusing nor overly complex and allows Missions to tackle their priorities. 
+
+![deca 2.jpg](/uploads/deca%202.jpg)`Photo: USAID.`
 
 ## Ideas Born of the DECA
 
