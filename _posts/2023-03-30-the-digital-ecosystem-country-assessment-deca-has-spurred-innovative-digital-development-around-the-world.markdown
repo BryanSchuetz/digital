@@ -18,6 +18,8 @@ As more USAID Missions like Colombia’s grapple with the emerging opportunities
 
 ![Screen Shot 2023-03-21 at 12.09.45 PM-fe75f0.png](/uploads/Screen%20Shot%202023-03-21%20at%2012.09.45%20PM-fe75f0.png)
 
+<!--more-->
+
 ## How the DECA was Born
 
 The [DECA concept](https://www.usaid.gov/digital-strategy/implementation-tracks/track1-adopt-ecosystem/digital-ecosystem-country-assessments) emerged from a close working partnership between USAID’s Technology Division within the Innovation, Technology, and Research (ITR) Hub and the Digital Frontiers team, which, together, set out to define the digital ecosystem. As part of the initial implementation of USAID’s Digital Strategy, the division worked with Digital Frontiers to design and pilot the DECA beginning in the Fall of 2019. After two years of piloting and iterating the methodology in four countries, the DECA became not just a standalone assessment, but a versatile and broadly applicable tool. Building on these pilots, the team developed the [Digital Ecosystem Framework](https://www.usaid.gov/digital-development/digital-ecosystem-framework) to better explain the concept to the Agency and its partners. The framework now guides the whole of USAID’s digital development approach. 
