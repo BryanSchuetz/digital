@@ -26,7 +26,7 @@ The [DECA concept](https://www.usaid.gov/digital-strategy/implementation-tracks/
 
 The joint USAID and Digital Frontiers team has or will conduct 19 additional DECAs for a total of 23 by mid-2024. This diversity of DECAs has encompassed conflict and crisis zones, countries with a large humanitarian aid presence or heightened security environment, and regional Missions covering multiple countries. After each assessment, the team documented technical processes and created internal templates and research tools to standardize the process. USAID saw the value in this collection of internal documentation and the idea for the [DECA Toolkit](https://www.usaid.gov/digital-development/deca-toolkit) was born. Today, the toolkit empowers Missions to conduct a robust DECA through their existing partnerships that is neither confusing nor overly complex and allows Missions to tackle their priorities. 
 
-![deca 2.jpg](/uploads/deca%202.jpg)`Photo: Hanz Rippe/Paramo Films for USAID.`
+![Digital Strategy Graphic.png](/uploads/Digital%20Strategy%20Graphic.png)
 
 ## Ideas Born of the DECA
 
