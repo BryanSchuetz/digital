@@ -3,15 +3,21 @@ title: 'Lessons Learned in Bangladesh: Engaging Women in Digital Agriculture Too
 date: 2023-04-12 13:54:00 -04:00
 published: false
 Author: "[Tasnuba Sinha](https://www.linkedin.com/in/tasnuba/)"
+social-image: "/uploads/sm%20Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Bangladesh%20Digital%20Activity.jpg"
+thumbnail: "/uploads/sm%20Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Bangladesh%20Digital%20Activity.jpg"
 ---
 
 The role of women in agriculture is crucial, especially in countries like Bangladesh they make up almost half of the sector’s labor force. However, women often have limited access to resources and assets that could improve their livelihoods, including information that can be accessed through technology. 
 
 Digital agriculture tools, such as mobile apps and texting services, can help overcome the information disparity between men and women. But first, it is essential to understand the unique challenges that women face in agriculture and how digital tools can address those challenges. Women often have limited access to land, capital, and information, which hinders their participation. Moreover, they have limited mobility, which makes it difficult for them to physically access markets and other agricultural services.
 
-The [Feed the Future Bangladesh Digital Agriculture Activity (BDAA)](https://www.digitalfrontiersdai.com/thematic-areas/digital-agriculture/) is a program implemented by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project that promote the use of digital tools and technologies to bolster the expertise of farmers, retailers, and service providers in the agricultural industry in Bangladesh. BDAA identifies and selects potentially effective digital agricultural tools and deploys them in collaboration with other Feed the Future partners, tool owners, and relevant private-sector actors. 
+![Plantix_BNA_Patuakhali_Sador_Add On  Farmer_Ayesha Begum_16Mr22.jpeg](/uploads/Plantix_BNA_Patuakhali_Sador_Add%20On%20%20Farmer_Ayesha%20Begum_16Mr22.jpeg)`Photo: BDAA.`
+
+The [Feed the Future Bangladesh Digital Agriculture Activity (BDAA)](https://www.digitalfrontiersdai.com/thematic-areas/digital-agriculture/) is a program implemented by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project that promotes the use of digital tools and technologies to bolster the expertise of farmers, retailers, and service providers in the agricultural industry in Bangladesh. BDAA identifies and selects potentially effective digital agricultural tools and deploys them in collaboration with other Feed the Future partners, tool owners, and relevant private-sector actors. 
 
 While integrating women into BDAA’s work—including all pilots or testing activities—is a key requirement of the team’s, assessing the true nature of including women in tool design and achieving real inclusion during project implementation remains a challenge.
+
+![Munni Akhter_PC Atanu Bhattacharjee_Bangladesh Digital Activity.jpg](/uploads/Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Bangladesh%20Digital%20Activity.jpg)`Photo: BDAA.`
 
 ## Pilots: What Works and What Doesn't Work
 
@@ -20,6 +26,8 @@ One tool piloted by BDAA is Plantix, a mobile crop advisory application that can
 Despite the tool’s clear benefit, only 14 women participated in the pilot. The BDAA team struggled to enroll women farmers due to many women not owning smartphones, having limited digital and traditional literacy, or simply unwilling to use digital tools. Even worse, as one of the goals was to engage agro-input retailers, the BDAA team only found one woman able to participate. 
 
 The scarcity of women [contract growers](https://www.fao.org/3/y0937e/y0937e02.htm#:~:text=Contract%20farming%20can%20be%20defined,agreements%2C%20frequently%20at%20predetermined%20prices.) in Bangladesh is also a significant challenge, despite the presence of women farmers and their involvement in contract farming processes. When piloting a tool called SHUFOLA, which provides weather-based agricultural advisory to farmers in Bangladesh, only 152 out of the 500 participating farmers were women. While the tool has immense potential to address the mobility barriers faced by women in agriculture, it [was observed](https://www.digitalfrontiersdai.com/resources/feed-the-future-bangladesh-digital-agriculture-activity-shufola-pilot-end-line-assessment-report/) that fewer female participants could comprehend the messages compared to their male counterparts, primarily due to low education. With only around 12 percent of the women having no formal education, and most completing only primary and secondary schooling, their understanding of the tool's potential was limited.
+
+![Plantix_SDC_Faridpur_Sadar_Ambikapur_Gyindia_Farmer_21 Mr 22 .jpg](/uploads/Plantix_SDC_Faridpur_Sadar_Ambikapur_Gyindia_Farmer_21%20Mr%2022%20.jpg)`Photo: BDAA.`
 
 ## Factors to Consider
 
