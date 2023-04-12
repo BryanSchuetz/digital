@@ -19,6 +19,8 @@ Digital agriculture tools, such as mobile apps and texting services, can help ov
 
 ![Plantix_BNA_Patuakhali_Sador_Add On  Farmer_Ayesha Begum_16Mr22.jpeg](/uploads/Plantix_BNA_Patuakhali_Sador_Add%20On%20%20Farmer_Ayesha%20Begum_16Mr22.jpeg)`Photo: BDAA.`
 
+<!--more-->
+
 The [Feed the Future Bangladesh Digital Agriculture Activity (BDAA)](https://www.digitalfrontiersdai.com/thematic-areas/digital-agriculture/) is a program implemented by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project that promotes the use of digital tools and technologies to bolster the expertise of farmers, retailers, and service providers in the agricultural industry in Bangladesh. BDAA identifies and selects potentially effective digital agricultural tools and deploys them in collaboration with other Feed the Future partners, tool owners, and relevant private-sector actors. 
 
 While integrating women into BDAA’s work—including all pilots or testing activities—is a key requirement of the team’s, assessing the true nature of including women in tool design and achieving real inclusion during project implementation remains a challenge.
