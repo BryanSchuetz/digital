@@ -1,7 +1,6 @@
 ---
 title: 'Lessons Learned in Bangladesh: Engaging Women in Digital Agriculture Tools'
 date: 2023-04-12 13:54:00 -04:00
-published: false
 tags:
 - Human-centered design
 - Digital Inclusion
