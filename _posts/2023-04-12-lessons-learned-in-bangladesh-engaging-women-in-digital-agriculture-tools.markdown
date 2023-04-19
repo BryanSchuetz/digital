@@ -12,7 +12,7 @@ social-image: "/uploads/sm%20Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Banglades
 thumbnail: "/uploads/sm%20Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Bangladesh%20Digital%20Activity.jpg"
 ---
 
-The role of women in agriculture is crucial, especially in countries like Bangladesh they make up almost half of the sector’s labor force. However, women often have limited access to resources and assets that could improve their livelihoods, including information that can be accessed through technology. 
+The role of women in agriculture is crucial, especially in countries such as Bangladesh where they make up almost half of the sector’s labor force. However, women often have limited access to resources and assets that could improve their livelihoods, including information that can be accessed through technology. 
 
 Digital agriculture tools, such as mobile apps and texting services, can help overcome the information disparity between men and women. But first, it is essential to understand the unique challenges that women face in agriculture and how digital tools can address those challenges. Women often have limited access to land, capital, and information, which hinders their participation. Moreover, they have limited mobility, which makes it difficult for them to physically access markets and other agricultural services.
 
