@@ -1,14 +1,18 @@
 ---
 title: Introducing Sesame Workshop’s Technology Decision Roadmap
 date: 2022-12-19 08:06:00 -05:00
+tags:
+- Data Visualization
+- Digital Insights
+- Digital Platforms
 Author: Chloe Carrington
 ---
 
-There is no doubt that Sesame Street has produced an immense amount of educational media content for children. The iconic video of the Count von Count muppet teaching children how to count to ten permeates through American society. This value has expanded beyond the United States, providing globally accessible videos to numerous countries. Most recently, in 2022, Sesame Workshop, the nonprofit behind Sesame Street, created a library of newly produced, modular, play-based, and globally relevant animation videos called Watch, Play, Learn (WPL) to be distributed in humanitarian contexts and beyond. The 140 segments are five minutes each and cover four thematic early childhood development areas: science, math, social-emotional learning, and health, safety, and child protection.
+There is no doubt that Sesame Street has produced an immense amount of educational media content for children. The iconic video of the Count von Count muppet teaching children how to count to ten permeates through American society. This value has expanded beyond the United States, providing globally accessible videos to numerous countries. Most recently, in 2022, Sesame Workshop, the nonprofit behind Sesame Street, created a library of newly produced, modular, play-based, and globally relevant animation videos called Watch, Play, Learn (WPL) to be distributed in humanitarian contexts and beyond. The 140 segments are five minutes each and cover thematic early childhood development areas: science, math, social-emotional learning, and health, safety, and child protection.
 
 <!--more-->
 
-These videos, along with other programmatic materials, now serve as an innovative global learning resource that can be rolled out to reach children affected by conflict and crisis around the world. The big question is “how?” How do we make sure children in the hardest-to-reach places, in areas affected by conflict, in migrant communities, in low-connectivity settings get access to this valuable media content? A large part of Sesame Workshop’s vision is to address this issue and increase access and inclusion in low-connectivity contexts, where last-mile delivery solutions are a particular challenge.
+These videos, along with other programmatic materials, now serve as an innovative global learning resource that can be rolled out to reach children affected by conflict and crises around the world. The big question is “how?” How do we make sure children in the hardest-to-reach places, in areas affected by conflict, in migrant communities, and in low-connectivity settings get access to this valuable media content? A large part of Sesame Workshop’s vision is to address this issue and increase access and inclusion in low-connectivity contexts, where last-mile delivery solutions are a particular challenge.
 
 To do this, Sesame Workshop worked with DAI’s Center for Digital Acceleration to better understand the key barriers, risks, and opportunities to media access for children in these settings. The result of collaborative research is the [Technology Decision Roadmap](https://sesameworkshop.org/wp-content/uploads/2023/02/technology-decision-roadmap-and-worksheets_final_dec2022-2.pdf) (the Roadmap). The Roadmap helps guide the technology selection process and answers the question of “How?” At its core, the Roadmap is user-centered and grounded in the realities of conflict-affected populations. In this blog, we provide the background for this research and introduce the Roadmap.
 
