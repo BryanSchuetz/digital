@@ -10,7 +10,7 @@ There is no doubt that Sesame Street has produced an immense amount of education
 
 These videos, along with other programmatic materials, now serve as an innovative global learning resource that can be rolled out to reach children affected by conflict and crisis around the world. The big question is “how?” How do we make sure children in the hardest-to-reach places, in areas affected by conflict, in migrant communities, in low-connectivity settings get access to this valuable media content? A large part of Sesame Workshop’s vision is to address this issue and increase access and inclusion in low-connectivity contexts, where last-mile delivery solutions are a particular challenge.
 
-To do this, Sesame Workshop worked with DAI’s Center for Digital Acceleration to better understand the key barriers, risks, and opportunities to media access for children in these settings. The result of collaborative research is the Technology Decision Roadmap (the Roadmap). The Roadmap helps guide the technology selection process and answers that question of “How?” At its core, the Roadmap is user-centered and grounded in the realities of conflict-affected populations. In this blog, we provide the background for this research and introduce the Roadmap. The full Roadmap is available at this link.
+To do this, Sesame Workshop worked with DAI’s Center for Digital Acceleration to better understand the key barriers, risks, and opportunities to media access for children in these settings. The result of collaborative research is the [Technology Decision Roadmap](https://sesameworkshop.org/wp-content/uploads/2023/02/technology-decision-roadmap-and-worksheets_final_dec2022-2.pdf) (the Roadmap). The Roadmap helps guide the technology selection process and answers the question of “How?” At its core, the Roadmap is user-centered and grounded in the realities of conflict-affected populations. In this blog, we provide the background for this research and introduce the Roadmap.
 
 ![2022 Decision Roadmap_v6_Page_01.jpg](/uploads/2022%20Decision%20Roadmap_v6_Page_01.jpg)
 
@@ -20,9 +20,9 @@ The Roadmap is a tool that guides teams through a step-by-step process to determ
 
 ![2022 Decision Roadmap_v6_Page_04.jpg](/uploads/2022%20Decision%20Roadmap_v6_Page_04.jpg)
 
-## **Stage 1: Understand the Context**
+## Stage 1: Understand the Context
 
-Sesame Workshop is already sharing its WPL content across the world. For example, in Cox’s Bazar, Bangladesh, WPL videos are played through an android-based offline application connected to a PICO projector to show videos to children in Child Friendly Spaces. In an early childhood development center in Dadaab refugee camp, WPL videos are viewed through the Moodle platform on individual tablets. Through these pilots, Sesame Workshop learned that to reach these communities it needs to select technology solutions that best fit the users and context. The Roadmap aligns with this approach and puts children and the communities they live in at the center of the decision-making process.
+Sesame Workshop is already sharing its WPL content across the world. For example, in Cox’s Bazar, Bangladesh, WPL videos are played through an Android-based offline application connected to a PICO projector to show videos to children in child-friendly spaces. In an early childhood development center in Dadaab refugee camp, WPL videos are viewed through the Moodle platform on individual tablets. Through these pilots, Sesame Workshop learned that to reach these communities it needs to select technology solutions that best fit the users and context. The Roadmap aligns with this approach and puts children and the communities they live in at the center of the decision-making process.
 
 Therefore, the Roadmap begins with digging into the context: understanding the barriers to digital inclusion and what is already happening on the ground to address these barriers.
 
@@ -42,20 +42,20 @@ The next step is to select the delivery method for the content, including usage�
 
 ![Understand delivery methods slide.png](/uploads/Understand%20delivery%20methods%20slide.png)At this stage, the team has selected its technology solution based on the needs of the target population and has an idea as to how it will roll it out. The next stage is to choose the appropriate partners that can facilitate implementation. Consider the operational aspects of the project, to ensure it is appropriate to the implementer as well as the population.
 
-## **Identify Possible Partners**
+## Identify Possible Partners
 
-The Partnerships section guides teams through the selection of appropriate partners based on project needs, such as a hardware provider to supply tablets or local servers, or a humanitarian organization to assist with in-country roll out and logistics support. It also provides guiding questions that help determine which partners would be most useful for the chosen technology solutions. Example questions include: Do you need a partner to provide hardware devices? Do you need a partner to help subsidize the cost of data and/or internet access?
+The Partnerships section guides teams through the selection of appropriate partners based on project needs, such as a hardware provider to supply tablets or local servers, or a humanitarian organization to assist with in-country rollout and logistics support. It also provides guiding questions that help determine which partners would be most useful for the chosen technology solutions. Example questions include: Do you need a partner to provide hardware devices? Do you need a partner to help subsidize the cost of data and/or internet access?
 
-## **Assess Potential Operational Challenges**
+## Assess Potential Operational Challenges
 
-The purpose of the final section is to guide teams through the possible operational challenges that need to be taken into consideration before coming to a final technology decision. We purposefully placed this stage at the end, as we wanted to ensure the Roadmap was user-driven, rather than based on an implementing organization’s needs. This stage guides users through considerations such as staff capacity, budget, safety and security, and privacy, sustainability planning, and project logistics.
+The purpose of the final section is to guide teams through the possible operational challenges that need to be taken into consideration before coming to a final technology decision. We purposefully placed this stage at the end, as we wanted to ensure the Roadmap was user-driven, rather than based on an implementing organization’s needs. This stage guides users through considerations such as staff capacity, budget, safety and security, privacy, sustainability planning, and project logistics.
 
 It’s important to note that at this phase, the Roadmap overview has an arrow back to the Technology Solutions and Partnerships steps. As teams review the potential challenges, they may need to revisit which partners could help them implement. For example, if pre-loaded devices are the best solution, but there is nowhere safe to store them, could a local nongovernmental group provide that space? If these challenges prove too difficult, the team may need to reconsider the technology solution.
 
-By the end of the Roadmap, teams will have come to a decision on a technology solution or solutions (or indeed, a no-tech solution!), partners that can support them, and next steps to address operational considerations prior to implementation. Now all that is left to do is to pilot the approach.
+By the end of the Roadmap, teams will have come to a decision on a technology solution or solutions (or indeed, a no-tech solution!), partners that can support them, and the next steps to address operational considerations prior to implementation. Now all that is left to do is to pilot the approach.
 
-# **What’s Next?**
+# What’s Next?
 
 Now that the Roadmap has been completed, what is next? Currently, the Roadmap is a public resource so partners also have access to a decision-making guide when looking to reach at-risk and marginalized children with educational media. The Roadmap will also go into a WPL Toolkit, to come in mid-2024, the goal of which is to provide a comprehensive set of adaptable resources for frontline users that helps to inform and support effective implementation of the WPL video content in humanitarian and development settings​.
 
-If you use the Roadmap in your decision-making process, we would love to hear from you and get your feedback its usefulness.
+If you use the Roadmap in your decision-making process, we would love to hear from you and get your feedback on its usefulness.
