@@ -6,8 +6,8 @@ tags:
 - Digital Insights
 - Digital Platforms
 Author: Chloe Carrington
-social-image: 022 Decision Roadmap_v6_Page_01.jpg
-thumbnail: 022 Decision Roadmap_v6_Page_01.jpg
+social-image: "/uploads/Screen%20Shot%202023-04-21%20at%2010.48.29%20AM.png"
+thumbnail: "/uploads/Screen%20Shot%202023-04-21%20at%2010.48.29%20AM.png"
 ---
 
 There is no doubt that Sesame Street has produced an immense amount of educational media content for children. The iconic video of the Count von Count muppet teaching children how to count to ten permeates through American society. This value has expanded beyond the United States, providing globally accessible videos to numerous countries. Most recently, in 2022, Sesame Workshop, the nonprofit behind Sesame Street, created a library of newly produced, modular, play-based, and globally relevant animation videos called Watch, Play, Learn (WPL) to be distributed in humanitarian contexts and beyond. The 140 segments are five minutes each and cover thematic early childhood development areas: science, math, social-emotional learning, and health, safety, and child protection.
