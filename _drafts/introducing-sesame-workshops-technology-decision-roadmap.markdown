@@ -6,6 +6,8 @@ tags:
 - Digital Insights
 - Digital Platforms
 Author: Chloe Carrington
+social-image: 022 Decision Roadmap_v6_Page_01.jpg
+thumbnail: 022 Decision Roadmap_v6_Page_01.jpg
 ---
 
 There is no doubt that Sesame Street has produced an immense amount of educational media content for children. The iconic video of the Count von Count muppet teaching children how to count to ten permeates through American society. This value has expanded beyond the United States, providing globally accessible videos to numerous countries. Most recently, in 2022, Sesame Workshop, the nonprofit behind Sesame Street, created a library of newly produced, modular, play-based, and globally relevant animation videos called Watch, Play, Learn (WPL) to be distributed in humanitarian contexts and beyond. The 140 segments are five minutes each and cover thematic early childhood development areas: science, math, social-emotional learning, and health, safety, and child protection.
@@ -18,7 +20,7 @@ To do this, Sesame Workshop worked with DAI’s Center for Digital Acceleration 
 
 ![2022 Decision Roadmap_v6_Page_01.jpg](/uploads/2022%20Decision%20Roadmap_v6_Page_01.jpg)
 
-**Solutions for Distributing Media in Crisis-affected Communities**
+## Solutions for Distributing Media in Crisis-Affected Communities
 
 The Roadmap is a tool that guides teams through a step-by-step process to determine the most appropriate technology solutions and partnerships for distributing video content to children in low-connectivity and crisis-affected communities. Teams work through each stage of the Roadmap in a workshop-style design discussion. The following image is an overview of the Roadmap, showing each stage of the process—don’t worry, we’ll walk through each stage in this blog, too!
 
