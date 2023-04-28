@@ -2,9 +2,9 @@
 title: 'Frontier Insights Libya: Understanding Children’s Digital Access'
 date: 2023-05-04 05:57:00 -04:00
 published: false
-categories:
+tags:
 - Digital Insights
-- education
+- Education
 Author: Talia Dweck and Chloe Carrington
 social-image: "/uploads/Ahlan%20SimSim-4acced.png"
 thumbnail: "/uploads/Ahlan%20SimSim-4acced.png"
@@ -22,7 +22,7 @@ In October and November 2022, the team continued its research in Libya, focusing
 
 ## Key Findings
 
-Despite the challenging connectivity environment caused principally by years of conflict and maintenance challenges—such as frequent power cuts and poor mobile connectivity infrastructure— Libyans do not appear to face significant connectivity or device access challenges. Affordability of mobile data or mobile handsets is also not a significant concern for most families interviewed, and mobile phone penetration and television ownership are both high.
+Despite the challenging connectivity environment caused principally by years of conflict and maintenance challenges—such as frequent power cuts and poor mobile connectivity infrastructure—Libyans do not appear to face significant connectivity or device access challenges. Affordability of mobile data or mobile handsets is also not a significant concern for most families interviewed, and mobile phone penetration and television ownership are both high.
 
 Families use the internet frequently for entertainment, but there is a high level of caution around children’s use of technology and access to the internet: Parents and caregivers are not only concerned about access to violent, inappropriate, or non-Islamic content, but also with their children’s health and the perceived negative effects of technology on mental development.
 
