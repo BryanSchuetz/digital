@@ -1,6 +1,7 @@
 ---
 title: 'Frontier Insights Libya: Understanding Children’s Digital Access'
 date: 2023-05-04 05:57:00 -04:00
+published: false
 categories:
 - Digital Insights
 - education
@@ -9,7 +10,7 @@ social-image: "/uploads/Ahlan%20SimSim-4acced.png"
 thumbnail: "/uploads/Ahlan%20SimSim-4acced.png"
 ---
 
-Sesame Workshop and the International Rescue Committee (IRC) partnered to address the critical needs of children affected by the Syrian conflict and other crises in Jordan, Lebanon, Syria, and Iraq. The [Ahlan Simsim program](https://ahlansimsim.org/) addresses the urgent needs of children affected by crisis by creating educational resources that reach children through mass media and that are integrated with early childhood services. Ahlan Simsim is exploring the possibility of expanding its work to other countries, specifically Libya.
+Sesame Workshop and the International Rescue Committee (IRC) partnered to address the critical needs of children affected by the Syrian conflict and other crises in Jordan, Lebanon, Syria, and Iraq. The [Ahlan Simsim initiative](https://ahlansimsim.org/) addresses the urgent needs of children affected by crisis and conflict by creating educational resources that reach children through an award-winning and impactful TV series viewed by more than 23 million children and through early childhood services that integrate media reaching more than 1 million children and caregivers in Iraq, Jordan, Lebanon, and Syria. Ahlan Simsim is exploring the possibility of expanding its work to other countries, specifically Libya.
 
 Over the past 18 months, DAI’s Center for Digital Acceleration has been working with [Sesame Workshop](https://www.sesameworkshop.org/what-we-do/refugee-response) to explore the possibilities for using digital tools to provide education services to young children living in crisis-affected communities. Using DAI’s [Frontier Insights™](https://dai-global-digital.com/tags/?tag=digital-insights) methodology, in 2021 DAI conducted research in [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html), [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), and [South Sudan  ](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html)to understand communities’ barriers to connectivity, technology usage habits, and ways to leverage those habits to improve access to educational content.
 
@@ -77,6 +78,6 @@ However, some parents say they feel that technology can complement traditional e
 
 ## What Next?
 
-Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in Libya will guide how Sesame Workshop proceeds with program design and implementation. The learnings allow the Ahlan Simsim program to explore the possibility of expanding its work to Libya. The next step is to leverage the Technology Decision Roadmap to select the appropriate technology solutions, delivery methods and partnerships models to rolling out content to target populations.
+Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in Libya will guide how Sesame Workshop proceeds with program design and implementation. The learnings allow the Ahlan Simsim initiative to explore the possibility of expanding its work to Libya. The next step is to leverage the [Technology Decision Roadmap](https://dai-global-digital.com/introducing-sesame-workshops-technology-decision-roadmap.html) to select the appropriate technology solutions, delivery methods, and partnerships models to roll out content to target populations.
 
 *Editor’s Note: Researchers from Altai Consulting and its team of enumerators conducted this research. This blog is part of a wider [series](https://dai-global-digital.com/tags/?tag=digital-insights), where we share our findings and interesting insights into the digital lives of children in these contexts. See also our blogs for Sesame Workshop on Frontier Insights in [Colombia](https://dai-global-digital.com/frontier-insights-colombia-understanding-childrens-digital-access.html), [South Sudan](https://dai-global-digital.com/frontier-insights-south-sudan-understanding-childrens-digital-access.html), and [Yemen](https://dai-global-digital.com/frontier-insights-yemen-understanding-childrens-digital-access.html).*
