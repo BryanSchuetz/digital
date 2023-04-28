@@ -28,7 +28,7 @@ Families use the internet frequently for entertainment, but there is a high leve
 
 The key findings from the research are as follows:
 
-1. Television and YouTube are the main sources of entertainment for children
+**1. Television and YouTube are the main sources of entertainment for children**
 
 ![1 Child Entertainment Content.png](/uploads/1%20Child%20Entertainment%20Content.png)
 
@@ -38,13 +38,13 @@ When asked about entertainment content, most children noted that they watch TV, 
 
 The children interviewed are very tech-savvy. When asked to show the enumerator how they use the mobile phone, three children opened offline games on the mobile phone, and all others went straight to YouTube. Children were able to type and audio search for the YouTube content they wanted or scrolled down to what was recommended to find something to watch.
 
-1. Children watch a lot of international programming
+**2. Children watch a lot of international programming**
 
 There are few Libyan channels available on television, with most being news channels. The most popular TV channels for children were regional channels, accessed through subscription-based boxes, including MBC3, Spacetoon, Cartoon Network Arabia, and Majid TV. Only one survey respondent mentioned Disney, and one mentioned Netflix. Many children reported that they watch generally the same programs on YouTube as they do on TV: many of which are international programs such as Spiderman, Masha and the Bear, SpongeBob Squarepants, and Tom and Jerry; and regional programs such as Amouna Al Mazyona, Naqib (Captain) Khalfan, and Freej/Umm Khammas. Children also watch YouTubers mostly from the United States.
 
 ![3. child tv.png](/uploads/3.%20child%20tv.png)
 
-1. Most adults share their mobile phones with the children in their households but try to limit the amount
+**3. Most adults share their mobile phones with the children in their households but try to limit the amount**
 
 Most parents (89 percent) share their mobile phones with their children. A few parents note that their child is only able to use their mobile phone offline for games, but a majority allow their child to access the internet. Indeed, 76.6 percent of children report that they have access to the internet on a mobile phone or other personal device (mostly tablets).
 
@@ -56,7 +56,7 @@ Of the 64 interviewed, 57 parents have concerns about their children using techn
 
 Concerns around technology usage appear to apply principally to internet use as, contrary to internet use, parents allow children to watch TV alone (54 percent) and choose what they want to watch (70 percent).
 
-1. Parents and caregivers are concerned about the health and safety implications of too much technology use
+**4. Parents and caregivers are concerned about the health and safety implications of too much technology use**
 
 Most parents are afraid that children might have adverse health effects if they use technology too much to watch videos or play games for too long. Parents are concerned that high usage of technologies such as TV, mobile phones, and tablets will:
 
@@ -68,7 +68,7 @@ In addition to health concerns, most parents are worried about their children ac
 
 Violent and inappropriate content was a particular concern, with parents concerned about their children emulating what they see on the internet (from violent content to pranks, to imitating behaviors from cartoons such as Spiderman).
 
-1. Technology is not perceived as a tool for education, but many parents are open to the idea
+**5. Technology is not perceived as a tool for education, but many parents are open to the idea**
 
 There was consensus that technology—including use of tablets, mobile phones, and TV—are for entertainment rather than for education. Parents noted that they mostly use hard copy materials from the school to continue education at home, and less than 20 percent use the internet or TV for their child’s education. Indeed, most parents and caregivers surveyed reported that they search for games for children, cartoons, and musical shows on YouTube. Only a few noted that they search for educational materials such as videos for teaching English or learning to draw.
 
@@ -76,7 +76,7 @@ There was consensus that technology—including use of tablets, mobile phones, a
 
 However, some parents say they feel that technology can complement traditional education and make up for shortcomings in the education system. Parents would like their children to use technology more to increase access to education, but with caveats around appropriate content, noting that it should be appropriate for the age group, aligned to the curriculum, and approved by the Ministry of Education. Parents note that any technological solution would likely need to be deployed with parental supervision, but that in an ideal world, content could be provided in a way in which they don’t risk their children accessing negative content.
 
-## What Next?
+## What's Next?
 
 Understanding the barriers and opportunities to accessing technology, connectivity and virtual learning and videos in Libya will guide how Sesame Workshop proceeds with program design and implementation. The learnings allow the Ahlan Simsim initiative to explore the possibility of expanding its work to Libya. The next step is to leverage the [Technology Decision Roadmap](https://dai-global-digital.com/introducing-sesame-workshops-technology-decision-roadmap.html) to select the appropriate technology solutions, delivery methods, and partnerships models to roll out content to target populations.
 
