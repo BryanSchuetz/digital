@@ -6,7 +6,7 @@ tags:
 - Cybersecurity
 - Digital Security
 - SME
-Author: "[Alexander Odisheli](https://www.linkedin.com/in/alexander-odisheli-a2a56494/)"
+Author: Alexander Odisheli
 social-image: "/uploads/Thumbnail%20MFA.jpg"
 thumbnail: "/uploads/Thumbnail%20MFA.jpg"
 ---
