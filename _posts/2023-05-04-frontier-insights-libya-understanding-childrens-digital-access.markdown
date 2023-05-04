@@ -1,7 +1,6 @@
 ---
 title: 'Frontier Insights Libya: Understanding Children’s Digital Access'
 date: 2023-05-04 05:57:00 -04:00
-published: false
 tags:
 - Digital Insights
 - Education
