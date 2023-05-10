@@ -5,14 +5,16 @@ date: 2023-05-11 07:33:00 -04:00
 published: false
 tags:
 - AI
-Author: Miriam Stankovich, Erica Behrens, and Julia Burchell
+Author: "[Miriam Stankovich](https://dai-global-digital.com/authors/miriam-stankovich/),
+  [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/), and [Julia
+  Burchell](https://dai-global-digital.com/authors/julia-burchell/)"
 ---
 
 From our social media feeds to the societal benefits we receive, artificial intelligence (AI) is everywhere and affects everyone. AI may assist us in a variety of ways: it can execute difficult, risky, or tedious tasks on our behalf; assist us in saving lives and coping with natural disasters; entertain us; and make our daily lives more enjoyable. AI helps doctors make decisions about our health and helps judges and lawyers sift through cases, speeding up the judicial process.   
 
 Governments worldwide are increasingly turning to AI algorithms to automate or support decision-making in public services. Algorithms assist in urban planning, prioritize social-care cases, make decisions about welfare entitlements, detect unemployment fraud, or monitor people in criminal justice and law enforcement settings. The use of these algorithms is often seen to improve efficiency and lower the costs of public services.  
 
-
+<!--more-->
 
 However, evidence suggests that algorithmic systems in public service delivery can also cause harm, violate human rights (through reinforcing discrimination and undermining the privacy of digital personal data), and frequently lack transparency and accountability in their implementation. This conundrum is exacerbated by the fact that AI technologies work with vast amounts of (personal) data and can have crossover and multiplicative effects that impact human rights issues and the rule of law. AI systems might reinforce what they have been taught from data and intensify risks, such as racial or gender/sex bias. There is mounting evidence that AI systems are far from being neutral technology. Instead, they can reflect their creators' (un)conscious preferences, priorities, and prejudices. Even when software developers take great care to minimize any influence by their own biases, the data used to train an algorithm can be another significant source of bias. AI programs are susceptible to making judgment errors in novel situations. Consider the infamous instance when hundreds of eligible Dutch families were wrongfully implicated in fraud by an algorithm and made to repay social assistance. These households consisted largely of immigrants.  
 
