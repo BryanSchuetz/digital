@@ -5,9 +5,13 @@ date: 2023-05-11 07:33:00 -04:00
 published: false
 tags:
 - AI
+- digital platforms
+- Digital Insights
 Author: "[Miriam Stankovich](https://dai-global-digital.com/authors/miriam-stankovich/),
   [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/), and [Julia
   Burchell](https://dai-global-digital.com/authors/julia-burchell/)"
+social-image: "/uploads/AI.jpg"
+thumbnail: "/uploads/AI.jpg"
 ---
 
 From our social media feeds to the societal benefits we receive, artificial intelligence (AI) is everywhere and affects everyone. AI may assist us in a variety of ways: it can execute difficult, risky, or tedious tasks on our behalf; assist us in saving lives and coping with natural disasters; entertain us; and make our daily lives more enjoyable. AI helps doctors make decisions about our health and helps judges and lawyers sift through cases, speeding up the judicial process.   
