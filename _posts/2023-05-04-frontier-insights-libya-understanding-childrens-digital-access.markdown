@@ -4,7 +4,8 @@ date: 2023-05-04 05:57:00 -04:00
 tags:
 - Digital Insights
 - Education
-Author: Talia Dweck and Chloe Carrington
+Author: "[Talia Dweck](https://dai-global-digital.com/authors/talia-dweck/) and [Chloe
+  Carrington](https://dai-global-digital.com/authors/chloe-carrington/)"
 social-image: "/uploads/Ahlan%20SimSim-4acced.png"
 thumbnail: "/uploads/Ahlan%20SimSim-4acced.png"
 ---
