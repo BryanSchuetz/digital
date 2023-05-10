@@ -39,7 +39,7 @@ To ensure a rights-based approach in public sector operations, developing countr
 Based on our research, our CDA team has developed an analytical framework for algorithmic human rights impact assessment that international development donors and government officials can use throughout the lifecycle of AI tools to evaluate their impact on human rights in automated decision-making processes.  
 
 ![Screenshot 2023-05-10 at 4.49.31 PM.png](/uploads/Screenshot%202023-05-10%20at%204.49.31%20PM.png)
-[Analytical Framework](/uploads/Digital%20blog%20table_02.pdf)
+[Download the Analytical Framework here](/uploads/Digital%20blog%20table_02.pdf)
 
 This framework has been adapted from the following sources:[ Brookings, Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/); Singapore AI Governance Framework (2020); [Government of the Netherlands, Fundamental Rights, and Algorithms Impact Assessment (FRAIA)](https://www.government.nl/documents/reports/2021/07/31/impact-assessment-fundamental-rights-and-algorithms) 
 
