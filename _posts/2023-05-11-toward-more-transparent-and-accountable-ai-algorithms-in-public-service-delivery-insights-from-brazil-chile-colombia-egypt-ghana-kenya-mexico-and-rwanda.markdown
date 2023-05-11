@@ -2,7 +2,6 @@
 title: 'Toward More Transparent and Accountable AI Algorithms in Public Service Delivery:
   Insights from Brazil, Chile, Colombia, Egypt, Ghana, Kenya, Mexico, and Rwanda'
 date: 2023-05-11 07:33:00 -04:00
-published: false
 tags:
 - AI
 - digital platforms
