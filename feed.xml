@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 May 2023 10:31:30 -0400</pubDate>
-    <lastBuildDate>Thu, 11 May 2023 10:31:30 -0400</lastBuildDate>
+    <pubDate>Thu, 11 May 2023 10:34:34 -0400</pubDate>
+    <lastBuildDate>Thu, 11 May 2023 10:34:34 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/AI%20SM.png" medium="image" /> 
+        <title>Toward More Transparent and Accountable AI Algorithms in Public Service Delivery: Insights from Brazil, Chile, Colombia, Egypt, Ghana, Kenya, Mexico, and Rwanda</title>
+        <description>&lt;p&gt;From our social media feeds to the societal benefits we receive, artificial intelligence (AI) is everywhere and affects everyone. AI may assist us in a variety of ways: it can execute difficult, risky, or tedious tasks on our behalf; assist us in saving lives and coping with natural disasters; entertain us; and make our daily lives more enjoyable. AI helps doctors make decisions about our health and helps judges and lawyers sift through cases, speeding up the judicial process.&lt;/p&gt;
+
+&lt;p&gt;Governments worldwide are increasingly turning to AI algorithms to automate or support decision-making in public services. Algorithms assist in urban planning, prioritize social-care cases, make decisions about welfare entitlements, detect unemployment fraud, or monitor people in criminal justice and law enforcement settings. The use of these algorithms is often seen to improve efficiency and lower the costs of public services.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 May 2023 07:33:00 -0400</pubDate>
+        <author><a href="https://dai-global-digital.com/authors/miriam-stankovich/">Miriam Stankovich</a>, <a href="https://dai-global-digital.com/authors/erica-behrens/">Erica Behrens</a>, and <a href="https://dai-global-digital.com/authors/julia-burchell/">Julia Burchell</a>
+</author>
+        <link>https://dai-global-digital.com/toward-more-transparent-and-accountable-ai-algorithms-in-public-service-delivery-insights-from-brazil-chile-colombia-egypt-ghana-kenya-mexico-and-rwanda.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/toward-more-transparent-and-accountable-ai-algorithms-in-public-service-delivery-insights-from-brazil-chile-colombia-egypt-ghana-kenya-mexico-and-rwanda.html</guid>
+        
+        <category>AI</category>
+        
+        <category>digital platforms</category>
+        
+        <category>Digital Insights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Ahlan%20SimSim-4acced.png" medium="image" /> 
@@ -250,31 +273,6 @@
         <category>ai</category>
         
         <category>Digital Transformation</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Picture1.jpg" medium="image" /> 
-        <title>Chatbots for the International Development and Humanitarian Sectors: What Works?</title>
-        <description>&lt;p&gt;You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.&lt;/p&gt;
-
-&lt;p&gt;As they operate with low bandwidth and are simple to use, chatbots seem like they could be a beneficial technology to engage with recipients of our development and humanitarian programs, don’t they?&lt;/p&gt;
-
-&lt;p&gt;As with any technology, the use of chatbots is migrating from the private sector and becoming more prevalent in crisis and conflict response. However, documentation of lessons learned, successes and failures, and best practices of the use of chatbots in the development and humanitarian sectors are still few and far between. Through our work with Sesame Workshop, DAI conducted desk research and key informant interviews to examine use cases and review lessons learned for the use of chatbots in the international development and humanitarian sectors. In this blog, we summarize our key findings.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Picture1-dc4d49.jpg&quot; alt=&quot;Picture1-dc4d49.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Image: Pixabay/Mohamed Hassan.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 14 Dec 2022 10:04:00 -0500</pubDate>
-        <author>Chloe Carrington
-</author>
-        <link>https://dai-global-digital.com/chatbots-for-the-international-development-and-humanitarian-sectors-what-works.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/chatbots-for-the-international-development-and-humanitarian-sectors-what-works.html</guid>
-        
-        <category>Innovation</category>
-        
-        <category>Mobile</category>
         
         
       </item>
