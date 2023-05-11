@@ -39,7 +39,7 @@ To ensure a rights-based approach in public sector operations, developing countr
 Based on our research, our CDA team has developed an analytical framework for algorithmic human rights impact assessment that international development donors and government officials can use throughout the lifecycle of AI tools to evaluate their impact on human rights in automated decision-making processes.  
 
 ![Screenshot 2023-05-11 at 10.28.57 AM.png](/uploads/Screenshot%202023-05-11%20at%2010.28.57%20AM.png)
-[Download the Analytical Framework here](/uploads/Towards%20Transparent%20and%20Accountable%20AI%20in%20Public%20Service.pdf)
+[DOWNLOAD THE ANALYTICAL FRAMEWORK HERE](/uploads/Toward%20More%20Transparent%20and%20Accountable%20AI%20Algorithms%20in%20Public%20Service%20Delivery.pdf)
 
 <aside>Our Creative Team conducted an experiment in the above document using Midjourney to test for bias. We selected "AI" and "public servant" as prompts. However, we were disappointed to find that the system's output only included three images of white, slim men and one image of a white, thin woman with robots in the background. This experiment highlights that AI systems are often trained on data that predominantly represents white demographics, which excludes minorities, including people of color.</aside>
 
