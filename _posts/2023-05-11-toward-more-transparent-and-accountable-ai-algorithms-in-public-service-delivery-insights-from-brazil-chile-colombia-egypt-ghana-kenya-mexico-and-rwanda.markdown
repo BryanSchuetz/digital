@@ -41,6 +41,8 @@ Based on our research, our CDA team has developed an analytical framework for al
 ![Screenshot 2023-05-11 at 10.28.57 AM.png](/uploads/Screenshot%202023-05-11%20at%2010.28.57%20AM.png)
 [Download the Analytical Framework here](/uploads/Towards%20Transparent%20and%20Accountable%20AI%20in%20Public%20Service.pdf)
 
+^ Our Creative Team conducted an experiment using Midjourney to test for bias. We selected "AI" and "public servant" as prompts. However, we were disappointed to find that the system's output only included three images of white, slim men and one image of a white, thin woman with robots in the background. This experiment highlights that AI systems are often trained on data that predominantly represents white demographics, which excludes minorities, including people of color.
+
 This framework has been adapted from the following sources: [Brookings, Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/); Singapore AI Governance Framework (2020); [Government of the Netherlands, Fundamental Rights, and Algorithms Impact Assessment (FRAIA)](https://www.government.nl/documents/reports/2021/07/31/impact-assessment-fundamental-rights-and-algorithms) 
 
 **2. Simplicity, context, and trust are key to achieving algorithmic transparency in public service delivery.** 
