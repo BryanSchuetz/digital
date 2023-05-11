@@ -64,3 +64,5 @@ Chile, a high-income country, has demonstrated the power of a well-educated, fre
 **6. True accountability and transparency in algorithm usage by governments necessitate digital literacy, digital access, and digital rights awareness among the public.** 
 
 If algorithms are transparent, individuals still need to have the ability to redress and understand the algorithms and use the resources available to them to remedy the situation. Governments and international donors should prioritize digital literacy, rights, and access efforts. Governments unable to assure accountability and transparency of an algorithm should reconsider if the algorithm is the most appropriate solution or incorporate non-digital means of explanation and redress.
+
+*We want to hear from you! Please send your comments regarding the proposed framework to miriam_stankovich@dai.com.*
