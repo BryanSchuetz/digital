@@ -10,8 +10,8 @@ tags:
 Author: "[Miriam Stankovich](https://dai-global-digital.com/authors/miriam-stankovich/),
   [Erica Behrens](https://dai-global-digital.com/authors/erica-behrens/), and [Julia
   Burchell](https://dai-global-digital.com/authors/julia-burchell/)"
-social-image: "/uploads/AI.jpg"
-thumbnail: "/uploads/AI.jpg"
+social-image: "/uploads/AI%20SM.png"
+thumbnail: "/uploads/AI%20SM.png"
 ---
 
 From our social media feeds to the societal benefits we receive, artificial intelligence (AI) is everywhere and affects everyone. AI may assist us in a variety of ways: it can execute difficult, risky, or tedious tasks on our behalf; assist us in saving lives and coping with natural disasters; entertain us; and make our daily lives more enjoyable. AI helps doctors make decisions about our health and helps judges and lawyers sift through cases, speeding up the judicial process.   
@@ -38,10 +38,10 @@ To ensure a rights-based approach in public sector operations, developing countr
 
 Based on our research, our CDA team has developed an analytical framework for algorithmic human rights impact assessment that international development donors and government officials can use throughout the lifecycle of AI tools to evaluate their impact on human rights in automated decision-making processes.  
 
-![Screenshot 2023-05-10 at 4.49.31 PM.png](/uploads/Screenshot%202023-05-10%20at%204.49.31%20PM.png)
-[Download the Analytical Framework here](/uploads/Digital%20blog%20table_02.pdf)
+![Screenshot 2023-05-11 at 10.28.57 AM.png](/uploads/Screenshot%202023-05-11%20at%2010.28.57%20AM.png)
+[Download the Analytical Framework here](/uploads/Towards%20Transparent%20and%20Accountable%20AI%20in%20Public%20Service.pdf)
 
-This framework has been adapted from the following sources:[ Brookings, Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/); Singapore AI Governance Framework (2020); [Government of the Netherlands, Fundamental Rights, and Algorithms Impact Assessment (FRAIA)](https://www.government.nl/documents/reports/2021/07/31/impact-assessment-fundamental-rights-and-algorithms) 
+This framework has been adapted from the following sources: [Brookings, Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/); Singapore AI Governance Framework (2020); [Government of the Netherlands, Fundamental Rights, and Algorithms Impact Assessment (FRAIA)](https://www.government.nl/documents/reports/2021/07/31/impact-assessment-fundamental-rights-and-algorithms) 
 
 **2. Simplicity, context, and trust are key to achieving algorithmic transparency in public service delivery.** 
 
