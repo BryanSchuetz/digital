@@ -12,7 +12,7 @@ thumbnail: "/uploads/smCambodia%20DI.jpg"
 
 *This post is adapted from a [lightning talk](https://www.digitaldevforum.com/agenda/the-kids-are-alright-reframing-digital-natives-for-international-development) presented at the 2023 Global Digital Development Forum (GDDF).* 
 
-Who comes to mind when you hear the term ‘digital native’? You might think of teenagers glued to their phones and using it for everything from their schoolwork to connecting with friends. 
+Who comes to mind when you hear the term "digital native?" You might think of teenagers glued to their phones and using them for everything from their schoolwork to connecting with friends. 
 The term digital native was coined by [Mark Prensky](https://en.wikipedia.org/wiki/Marc_Prensky) in 2001. The writer and educator used it to broadly describe a generation that grew up in an era shaped by the internet and digital technology. Digital natives are believed to possess a mastery of technological skills that are inherently different from prior generations. Prensky referred to the arrival of the digital age as a “singularity” that caused students of the time to “think and process information fundamentally differently than their predecessors.” These skills were attributed to the early introduction of digital tools into the homes, schools, and social lives of young people and the perception that this technology is seamlessly integrated into their daily interactions.
 
 <!--more-->
