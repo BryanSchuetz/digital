@@ -14,6 +14,8 @@ The term digital native was coined by [Mark Prensky](https://en.wikipedia.org/wi
 
 In the decades since that term was introduced, it has remained a part of our public discourse, especially as our world continues to rapidly digitize. Countless articles have dissected the ways in which our companies, workplaces, classrooms, and governments have had to adapt to effectively engage these new generations to stay relevant. The term has also served as a beacon of hope, as leaders across the Global South recognize the potential for their booming youth populations to drive their countries forward by engaging in the digital economy. 
 
+![Cambodia DI.jpg](/uploads/Cambodia%20DI.jpg)`Photo: USAID Cambodia Development Innovations.`
+
 ## Missed Opportunity?
 
 The more we at DAI’s Center for Digital Acceleration kept hearing about digital natives, the more we wondered if our stereotypes about them we were causing us to miss an opportunity to learn about a population that might be key to global digital development. In exploring this question, we learned that the term digital native is not a useful way to categorize young people who have acquired digital competencies. In fact, it can actually be harmful, introducing the idea that young people don’t need any additional support from their communities in navigating online spaces or their journey to digital competency. 
@@ -21,6 +23,8 @@ The more we at DAI’s Center for Digital Acceleration kept hearing about digita
 First, there’s a lack of empirical evidence supporting Prensky’s definition. Since the term was introduced, researchers have conducted their own analysis to determine whether Prensky’s measures of digital nativism, things like: age cohort, frequent use, being self-taught, and having the ability to multitask produce similar findings when tested. Multiple research papers have found that digital competence is not driven by age, but rather by factors such as familiarity and cost. Researchers found that those who meet the definition of a digital native were simply just members of a digital elite with enough access to internet, affordable devices, digital tools in languages they understood, and opportunities to use digital technology at home and school, to truly master them. This makes the term quite exclusionary and treats technological savvy as an inevitable characteristic of the young rather than a privilege associated with socio-economic status. By focusing on digital natives as an age cohort, we risk excluding populations around the world that don’t have the same access to the internet and devices that wealthier populations do. 
 
 Second, the term treats digital competence as a binary: either you have it or you don’t. Either you’re young and a digital native, or in Prensky’s terms, you’re old and a digital immigrant. This is a problematic framing, since we know that digital literacy is a continuum. It takes time to develop the capability, competence, and confidence needed to safely engage in our digital world. Just because young people may have the capability, it doesn’t mean that they have the competence or confidence. 
+
+![Parlimen Digital (1079).jpg](/uploads/Parlimen%20Digital%20(1079).jpg)`Photo: USAID Malaysia Reform Initiative.`
 
 ## Support Access for All
 
