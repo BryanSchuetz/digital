@@ -29,7 +29,7 @@ First, there’s a lack of empirical evidence supporting Prensky’s definition.
 
 Second, the term treats digital competence as a binary: either you have it or you don’t. Either you’re young and a digital native, or in Prensky’s terms, you’re old and a digital immigrant. This is a problematic framing, since we know that digital literacy is a continuum. It takes time to develop the capability, competence, and confidence needed to safely engage in our digital world. Just because young people may have the capability, it doesn’t mean that they have the competence or confidence. 
 
-![Parlimen Digital (1079).jpg](/uploads/Parlimen%20Digital%20(1079).jpg)`Photo: USAID Malaysia Reform Initiative.`
+![Erwati, a cadre for Gerai KIA Mobile is guiding a pregnant woman in using MCH Booklet (Photo by Oscar Siagian for USAID Jalin).jpg](/uploads/Erwati,%20a%20cadre%20for%20Gerai%20KIA%20Mobile%20is%20guiding%20a%20pregnant%20woman%20in%20using%20MCH%20Booklet%20(Photo%20by%20Oscar%20Siagian%20for%20USAID%20Jalin).jpg)`Photo: USAID Indonesia Jalin.`
 
 ## Support Access for All
 
