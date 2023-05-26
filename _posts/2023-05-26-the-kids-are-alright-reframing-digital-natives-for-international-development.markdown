@@ -3,6 +3,8 @@ title: 'The Kids are Alright: Reframing “Digital Natives”  for International
 date: 2023-05-26 16:20:00 -04:00
 published: false
 Author: Araba Sapara-Grant
+social-image: "/uploads/smCambodia%20DI.jpg"
+thumbnail: "/uploads/smCambodia%20DI.jpg"
 ---
 
 *This post is adapted from a [lightning talk](https://www.digitaldevforum.com/agenda/the-kids-are-alright-reframing-digital-natives-for-international-development) presented at the 2023 Global Digital Development Forum (GDDF).* 
