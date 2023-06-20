@@ -68,6 +68,6 @@ Using these four approaches, the USAID/Microsoft Airband Initiative has brought 
 
 By developing interventions that respond to the specific needs of women and girls, the USAID/Microsoft Airband Initiative demonstrates the powerful potential of public-private partnerships in creating a more inclusive and equitable digital society.
 
-*Lana Alnesany is a Senior Communications Specialist on DAI’s Digital Frontiers Project.*
-
 *The USAID/Microsoft Airband Initiative is implemented by DAI’s Digital Frontiers project, a buy-in mechanism that works closely with USAID Missions and Bureaus, the private sector, and international and local development organizations to identify successful and sustainable digital development approaches and scale their impact globally.*
+
+*[Lana Alnesany](https://www.linkedin.com/in/lana-jabbar/) is a Senior Communications Specialist on DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) Project.*
