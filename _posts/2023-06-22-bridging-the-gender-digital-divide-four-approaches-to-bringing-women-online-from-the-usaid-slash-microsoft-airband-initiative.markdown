@@ -17,7 +17,7 @@ social-image: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
 thumbnail: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
 ---
 
-Globally, women are [18 percent](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf) less likely than men to own a smartphone. This statistic illustrates— particularly in low-income, rural households—the "gender digital divide," where women are less likely to be connected to the internet and lack access to important tools that could improve their lives.  
+Globally, women are [18 percent](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf) less likely than men to own a smartphone. This statistic illustrates—particularly in low-income, rural households—the "gender digital divide," where women are less likely to be connected to the internet and lack access to important tools that could improve their lives.  
 
 The gender digital divide limits women and girls' opportunities on all fronts—from gaining an education to accessing their finances online to participating in politics and society.
 
