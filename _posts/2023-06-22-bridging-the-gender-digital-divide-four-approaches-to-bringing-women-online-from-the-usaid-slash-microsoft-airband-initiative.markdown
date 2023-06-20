@@ -12,11 +12,11 @@ social-image: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
 thumbnail: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
 ---
 
-Globally, women are 18 percent less likely than men to own a smartphone. This statistic illustrates— particularly in low-income, rural households—the "gender digital divide," where women are less likely to be connected to the internet and have access to important tools that could improve their lives.  
+Globally, women are [18 percent](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf) less likely than men to own a smartphone. This statistic illustrates— particularly in low-income, rural households—the "gender digital divide," where women are less likely to be connected to the internet and lack access to important tools that could improve their lives.  
 
-When women and girls lack access to the internet and other information communication technologies (ICT), it limits their opportunities on all fronts—from gaining an education to accessing their finances online to participating in politics and society—further highlighting the need for efforts to ensure equal access to digital technologies and all the benefits that come with it.
+The gender digital divide limits women and girls' opportunities on all fronts—from gaining an education to accessing their finances online to participating in politics and society.
 
-Recognizing how digital inclusion empowers women and boosts the economies of rural communities, the USAID/Microsoft Airband Initiative has partnered with six private-sector companies in five countries to provide women and girls with meaningful connectivity, internet access, and the digital skills necessary to navigate the digital world.
+Recognizing how digital inclusion empowers women and boosts the economies of rural communities, the [USAID/Microsoft Airband Initiative](https://www.usaid.gov/digital-development/usaid-microsoft-airband-initiative) has partnered with six private companies in five countries to provide women and girls with meaningful connectivity, internet access, and the digital skills necessary to navigate the digital world.
 
 ![Photo Credit_ New Sun Road.jpg](/uploads/Photo%20Credit_%20New%20Sun%20Road.jpg)`Photo: New Sun Road.`
 
@@ -24,7 +24,7 @@ Here are four approaches that the USAID/Microsoft Airband Initiative is employin
 
 1. Increasing Access: Connecting Women Through Digital Community Centers
 
-Digital community centers are physical spaces that provide access to the internet, technology devices, and digital skills. Three of the initiative’s partners—Anditel, New Sun Road (NSR), and Bluetown—are operating community centers in remote areas that lack Internet connectivity, with a focus on involving women as both managers and customers. Altogether, these companies have established 26 digital community centers in the countries where they operate: Colombia, Guatemala, and Ghana.  
+Digital community centers are physical spaces that provide access to the internet, technology devices, and digital skills. Three of the initiative’s partners—[Anditel](https://www.usaid.gov/digital-development/anditel-factsheet), [New Sun Road](https://www.usaid.gov/digital-development/new-sun-road-factsheet), and [Bluetown](https://www.usaid.gov/digital-development/bluetown-factsheet)—are operating community centers in remote areas that lack internet connectivity, with a focus on involving women as both managers and customers. Altogether, these companies have established 26 digital community centers in the countries where they operate: Colombia, Guatemala, and Ghana.  
 
 To encourage more women to visit, both Anditel and NSR hired women from the communities to manage the centers and lead various activities and trainings. These leaders have brought positive change to their communities by promoting the adoption of digital technologies, and helping visitors see how technology can bring value to their lives. They also provided digital literacy training and access to digital resources and created safe spaces for women to learn and use technology. To date, 26 community centers have trained more than 6,650 women on topics like email basics, safe Internet browsing, digital content creation, how to use Microsoft Office applications, and tips on becoming an entrepreneur.  
 
