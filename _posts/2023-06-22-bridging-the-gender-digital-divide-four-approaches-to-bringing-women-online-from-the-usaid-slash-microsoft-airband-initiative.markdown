@@ -7,6 +7,11 @@ tags:
 - digital economy
 - digital platforms
 - Digital Gender Divide
+- Digital Inclusion
+- Mobile
+- Innovation
+- Digital Literacy
+- Digital Skills
 Author: Lana Alnesany
 social-image: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
 thumbnail: "/uploads/sm%20Photo%20Credit_Mawingu.jpg"
