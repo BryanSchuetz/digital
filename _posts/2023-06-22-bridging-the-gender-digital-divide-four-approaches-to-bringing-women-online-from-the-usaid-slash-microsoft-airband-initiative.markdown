@@ -27,7 +27,7 @@ Recognizing how digital inclusion empowers women and boosts the economies of rur
 
 Here are four approaches that the USAID/Microsoft Airband Initiative is employing to bring women and girls in rural areas online:
 
-1. Increasing Access: Connecting Women Through Digital Community Centers
+**1. Increasing Access: Connecting Women Through Digital Community Centers**
 
 Digital community centers are physical spaces that provide access to the internet, technology devices, and digital skills. Three of the initiative’s partners—[Anditel](https://www.usaid.gov/digital-development/anditel-factsheet), [New Sun Road](https://www.usaid.gov/digital-development/new-sun-road-factsheet), and [Bluetown](https://www.usaid.gov/digital-development/bluetown-factsheet)—are operating community centers in remote areas that lack internet connectivity, involving women as both managers and customers. Altogether, these companies have established 26 digital community centers in the countries where they operate: Colombia, Guatemala, and Ghana.  
 
@@ -37,7 +37,7 @@ To encourage more women to visit, both Anditel and New Sun Road hired women from
 
 To ensure the centers’ sustainability, each partner has adopted different business models to generate revenue and continue operations. The New Sun Road centers are administered by women’s leadership committees and run as micro businesses. In addition to internet access, the centers offer services at a fee, including photocopying, printing, scanning, and phone and laptop charging, which fund the committees' salaries and the centers' operational costs. Similarly, Bluetown is considering turning the centers into internet cafés, where visitors pay a small fee to use its services. Anditel, on the other hand, is pursuing partnerships with local organizations so centers can continue their operations.  
 
-1. Driving Meaningful Connectivity: Building Digital Literacy Skills Through Tailored Training
+**2. Driving Meaningful Connectivity: Building Digital Literacy Skills Through Tailored Training**
 
 Access to the internet is just the first step in connecting remote areas to the rest of the world. The meaningful adoption of technology for personal and economic advancement is just as important. The USAID/Microsoft Airband Initiative partnered with AirJaldi, which provides broadband to India’s most remote areas, to increase women’s digital literacy skills through training and guidance.
 
@@ -46,7 +46,7 @@ Tashi, a salon owner, has used her new online skills to surf the web and grow he
 
 Other initiative partners have also tailored their training to help women effectively use the internet. Bluetown, for example, has established partnerships with different organizations to offer specific training at the center for its diverse visitors, with a focus on students, farmers, college graduates, and job seekers. In total, the initiative has taught digital literacy skills to more than 12,000 women.
 
-1. Empowering Women: Sales Strategies for Inclusive Connectivity
+**3. Empowering Women: Sales Strategies for Inclusive Connectivity**
 
 Prioritizing women’s needs can create more inclusive markets and help companies like M-KOPA to bridge the gender digital divide. M-KOPA provides underbanked customers in Africa with smartphones, internet plans, and other essential services. Over time, M-KOPA realized that it sold significantly more products to men than to women. By adopting innovative sales strategies to address this gap, M-KOPA increased its reach and brought the benefits of Internet access to more women. 
 
@@ -54,7 +54,7 @@ One of M-KOPA’s key strategies was to increase the number of female sales agen
 
 M-KOPA also provided its sales agents with access to M-KOPA Academy for training to better understand the specific needs, concerns, and preferences of female customers and how to effectively communicate with them. By training its sales agents, M-KOPA ensured they were well-equipped to engage with and provide more tailored service to female customers. Through the USAID/Microsoft Airband Initiative, M-KOPA reached more than 200,000 female customers and improved its overall sales outcomes—while ultimately helping bring more women online.
 
-1. Engaging Local Partners and Creating Community Networks
+**4. Engaging Local Partners and Creating Community Networks**
 
 Local partnerships and community engagement are instrumental in the USAID/Microsoft Airband Initiative. All six partners work with local organizations to respond to the needs and aspirations of women in rural areas, including inviting existing women’s associations and collectives to become involved in the centers and receive training on topics like digital agriculture for farmers, STEM for young girls, business management for entrepreneurs, and job-seeking skills for college graduates. Additionally, the partnerships have built networks where women find support, share knowledge, and connect with each other. This in turn promotes a sense of community and belonging. 
 
