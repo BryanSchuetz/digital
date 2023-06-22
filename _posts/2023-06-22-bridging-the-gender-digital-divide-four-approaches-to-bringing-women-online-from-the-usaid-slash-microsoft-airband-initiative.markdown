@@ -2,7 +2,6 @@
 title: 'Bridging the Gender Digital Divide: Four Approaches to Bringing Women Online
   From the USAID/Microsoft Airband Initiative'
 date: 2023-06-22 08:33:00 -04:00
-published: false
 tags:
 - digital economy
 - digital platforms
