@@ -24,6 +24,8 @@ Recognizing how digital inclusion empowers women and boosts the economies of rur
 
 ![Photo Credit_ New Sun Road.jpg](/uploads/Photo%20Credit_%20New%20Sun%20Road.jpg)`Photo: New Sun Road.`
 
+<!--more-->
+
 Here are four approaches that the USAID/Microsoft Airband Initiative is employing to bring women and girls in rural areas online:
 
 **1. Increasing Access: Connecting Women Through Digital Community Centers**
