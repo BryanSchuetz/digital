@@ -1,6 +1,7 @@
 ---
 title: Ben Harguth
 date: 2022-11-15 15:25:00 -05:00
+published: false
 Job: Principal Manager
 Image: "/uploads/Ben%20H.jpg"
 ---
