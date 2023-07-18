@@ -13,6 +13,8 @@ Author: Alexander Odisheli
 
 Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.  
 
+<!--more-->
+
 On the one hand, medium- and long-term considerations are paramount to reducing vulnerabilities, while advancing and sustaining cybersecurity ecosystems and industries. For instance, there is a clear, ongoing need to strengthen the cybersecurity workforce and address the global shortage of 3.4 million workers in this field. Remedying this takes time, and it may involve developing targeted curricula together with industry to meet the growing demand for skills, or initiatives to reduce perpetual brain drain issues. On the other hand, the rapidly evolving nature of the cybersecurity threat landscape, geopolitical instabilities, and the deepening sophistication of tools and methods of inflicting damage to networks and systems demands immediate responses. 
 
 # Adapting in Dangerous Circumstances 
