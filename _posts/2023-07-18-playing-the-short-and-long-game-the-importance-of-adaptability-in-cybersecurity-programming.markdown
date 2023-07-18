@@ -7,11 +7,15 @@ tags:
 - Cybersecurity
 - digital platforms
 Author: Alexander Odisheli
+social-image: "/uploads/sm_VZR9145.jpg"
+thumbnail: "/uploads/sm_VZR9145.jpg"
 ---
 
 *Editor’s Note: This post is adapted from a [lightning talk](https://www.digitaldevforum.com/agenda/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming) presented at the recent Global Digital Development Forum (GDDF) 2023.* 
 
-Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.  
+Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.
+
+![_VZR9145.jpg](/uploads/_VZR9145.jpg)`Photo: Stock.`
 
 <!--more-->
 
