@@ -15,7 +15,7 @@ thumbnail: "/uploads/sm_VZR9145.jpg"
 
 Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.
 
-![_VZR9145.jpg](/uploads/_VZR9145.jpg)`Photo: Stock.`
+![VZR9145.jpg](/uploads/VZR9145.jpg)`Photo: Stock.`
 
 <!--more-->
 
