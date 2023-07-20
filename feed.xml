@@ -5,9 +5,32 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 16:17:54 -0400</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 16:17:54 -0400</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2023 06:45:22 -0400</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 06:45:22 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sm_VZR9145.jpg" medium="image" /> 
+        <title>Playing the Short and Long Game: The Importance of Adaptability in Cybersecurity Programming</title>
+        <description>&lt;p&gt;&lt;em&gt;Editor’s Note: This post is adapted from a &lt;a href=&quot;https://www.digitaldevforum.com/agenda/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming&quot;&gt;lightning talk&lt;/a&gt; presented at the recent Global Digital Development Forum (GDDF) 2023.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/VZR9145.jpg&quot; alt=&quot;VZR9145.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Stock.&lt;/code&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Jul 2023 06:43:00 -0400</pubDate>
+        <author>Alexander Odisheli
+</author>
+        <link>https://dai-global-digital.com/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>digital platforms</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/sm%20Photo%20Credit_Mawingu.jpg" medium="image" /> 
@@ -242,45 +265,6 @@
         <category>Digital Divide</category>
         
         <category>Digital Ecosystems</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/sm%20olumide-bamgbelu-Ciba8rvHYng-unsplash.jpg" medium="image" /> 
-        <title>Digital Downsides: The Economic Impact of Misinformation and Other Digital Harms on MSMEs in Kenya, India, and Cambodia</title>
-        <description>&lt;p&gt;&lt;em&gt;UPDATE: The full report is now available for &lt;a href=&quot;https://www.dai.com/uploads/digital-downsides.pdf&quot;&gt;download here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Digitalization presents both opportunities and challenges for micro, small, and medium enterprises (MSMEs) in emerging markets. Digital tools can increase business efficiency and reach, but also increase exposure to misinformation, fraud, and cyber attacks. Such “digital downsides” can lead to financial losses, reputational damage, loss of customer trust, and other challenges that hinder MSMEs’ ability—and desire—to participate in the digital economy. In this post, we’re previewing a soon-to-be-released report that DAI authored about the economic impact of misinformation and other digital harms on MSMEs in Kenya, India, and Cambodia.&lt;/p&gt;
-
-&lt;p&gt;As part of our research, and with the help of our in-country local partners, we asked 85 business owners about their understanding and &lt;a href=&quot;https://dai-global-digital.com/building-resilience-against-disinformation.html&quot;&gt;awareness of misinformation&lt;/a&gt; and other digital downsides and the impact of these experiences on their businesses. We further wanted to understand the types of digital tools (social media platforms, messaging services, digital payment devices, etc.) that business owners in lower- and middle-income countries (LMICs) use and what gaps exist that could be filled through training or by government, private sector, nonprofit and other actors. Lastly, we uncovered how misinformation factors into a business context, rather than an electoral or public health context (which is how misinformation has typically been studied).&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 09 Feb 2023 07:05:00 -0500</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/nancy-haugh">Nancy Haugh</a>, <a href="https://www.linkedin.com/in/priya-sethi-96ba3025/">Priya Sethi</a>, <a href="https://www.linkedin.com/in/komal-bazaz-smith-3a56b5/">Komal Bazaz Smith</a>, and <a href="https://www.linkedin.com/in/kristenroggemann/">Kristen Roggemann</a>
-</author>
-        <link>https://dai-global-digital.com/digital-downsides-the-economic-impact-of-misinformation-and-other-digital-harms-on-msmes-in-kenya-india-and-cambodia.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-downsides-the-economic-impact-of-misinformation-and-other-digital-harms-on-msmes-in-kenya-india-and-cambodia.html</guid>
-        
-        <category>digital platforms</category>
-        
-        <category>Digital Insights</category>
-        
-        <category>Social Media</category>
-        
-        <category>Digital Communications</category>
-        
-        <category>digital economy</category>
-        
-        <category>Digital Health</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Digital Literacy</category>
-        
-        <category>Misinformation</category>
-        
-        <category>Disinformation</category>
         
         
       </item>

@@ -1,4 +1,18 @@
 
+- title: "Playing the Short and Long Game: The Importance of Adaptability in Cybersecurity Programming"
+  pub: "Digital"
+  date: 2023-07-20
+  link: "https://dai-global-digital.com/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming.html?utm_source=daidotcom"
+  summary: "Editor’s Note: This post is adapted from a lightning talk presented at the recent Global Digital Development Forum (GDDF) 2023.
+
+Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.
+
+Photo: Stock."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - digital platforms 
+
 - title: "Bridging the Gender Digital Divide: Four Approaches to Bringing Women Online From the USAID/Microsoft Airband Initiative"
   pub: "Digital"
   date: 2023-06-22
@@ -272,17 +286,4 @@ Indeed, AI has contributed to improvements in quality of life for all segments o
   tags:
     - digital acceleration 
     - AI 
-
-- title: "Digital @ DAI Rewind: Is Intellectual Property Ready for Blockchain?"
-  pub: "Digital"
-  date: 2022-10-06
-  link: "https://dai-global-digital.com/digital-at-dai-rewind-is-intellectual-property-ready-for-blockchain.html?utm_source=daidotcom"
-  summary: "If you’re an avid reader of the Digital@DAI blog, then by now you’ve surely heard of blockchain technology. For those in need of a refresher, blockchain is a decentralized database system that records information in a way that makes it near-to-impossible to change, breach, or cheat the system. International donors and the private sector have deployed blockchain towards furthering financial inclusion, digital government, and improved supply chain management.
-
-More recently, governments and the private sector are exploring how this technology can be applied toward the building of secure and data-preserving e-governance systems. Governments across the globe, such as in Chile, Estonia, Singapore, Uzbekistan, and Venezuela, to name a few, are using blockchain and other emerging technologies such as artificial intelligence, the Internet of Things and smart contracts to build digital governance systems. An exciting feature of blockchain is that it can support the creative industry by serving as intellectual property rights register and enforcement tool. For instance, the European Union Intellectual Property (IP) Office, in collaboration with participating offices, launched a Blockchain IP register, which has the ability to automatically store data about registered IP rights in various IP offices.
-
-As blockchain is a versatile technology that impacts many sectors from cryptocurrency to creative industries and IP management, it is crucial that the digital development sector stays abreast of blockchain’s impact on digital transformation. This week, we will revisit a post from 2021 from Dr. Miriam Stankovich about blockchain’s applicability to patents, copyrights, trademarks, and industrial designs."
-  tags:
-    - digital acceleration 
-    - Blockchain Series 
 
