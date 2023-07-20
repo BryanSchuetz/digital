@@ -1,6 +1,7 @@
 ---
 title: Alexander Odisheli
 date: 2020-10-29 10:43:00 -04:00
+published: false
 Job: 'Digital Specialist '
 Image: "/uploads/AS%20Picture.jpeg"
 ---
