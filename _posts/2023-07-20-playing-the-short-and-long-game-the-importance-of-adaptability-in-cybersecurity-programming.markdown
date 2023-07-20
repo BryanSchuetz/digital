@@ -5,7 +5,7 @@ date: 2023-07-20 06:43:00 -04:00
 tags:
 - Cybersecurity
 - digital platforms
-Author: Alexander Odisheli
+Author: "[Alexander Odisheli](https://www.linkedin.com/in/alexander-odisheli-a2a56494/)"
 social-image: "/uploads/sm_VZR9145.jpg"
 thumbnail: "/uploads/sm_VZR9145.jpg"
 ---
