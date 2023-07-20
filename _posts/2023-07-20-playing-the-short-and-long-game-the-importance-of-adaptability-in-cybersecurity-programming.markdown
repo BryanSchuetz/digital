@@ -1,8 +1,7 @@
 ---
 title: 'Playing the Short and Long Game: The Importance of Adaptability in Cybersecurity
   Programming'
-date: 2023-07-20 07:45:00 -04:00
-published: false
+date: 2023-07-20 06:43:00 -04:00
 tags:
 - Cybersecurity
 - digital platforms
