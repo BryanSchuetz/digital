@@ -1,14 +1,14 @@
 ---
 title: 'As Democracy Goes Digital, Cybersecurity Takes Precedence: 5 Critical Resources
   For Protecting Elections Against Digital Threats'
-date: 2023-08-01 15:07:00 -04:00
+date: 2023-08-03 07:07:00 -04:00
 published: false
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 ---
 
 From introducing biometric voter verification machines in Kenya to testing an internet voting pilot in Norway, election management bodies (EMBs) have increasingly digitized elections in efforts to increase efficiency, promote transparency, and encourage greater voter participation. While many elections have increasingly involved technology, including digital voter rolls, biometric voter registration, and electronic voting machines, these critical democratic processes have become more susceptible to a rapidly evolving threat—cyberattacks. Failure to address cybersecurity risks inherent to a digitized electoral process can pose a grave threat to electoral integrity. 
 
-Recognizing the need to secure election infrastructure, the U.S. Agency for International Development (USAID) supported DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project and the [International Foundation for Electoral Systems](https://www.ifes.org/) (IFES) to produce a five-part briefing series to help election stakeholders, bilateral and multilateral donors, and their implementing partners understand electoral cybersecurity risks. This series also provides an in-depth look at ways to secure voter registration and results management systems, recommendations on improving election cyber resilience, and outlines programming options to reduce cybersecurity risks before and during an electoral process. 
+Recognizing the need to secure election infrastructure, the U.S. Agency for International Development (USAID) supported DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project and the [International Foundation for Electoral Systems](https://www.ifes.org/) (IFES) to produce a [five-part briefing series](https://www.usaid.gov/democracy/electoral-cybersecurity-briefing-series) to help election stakeholders, bilateral and multilateral donors, and their implementing partners understand electoral cybersecurity risks. This series also provides an in-depth look at ways to secure voter registration and results management systems, recommendations on improving election cyber resilience, and outlines programming options to reduce cybersecurity risks before and during an electoral process. 
 
 ## Electoral Cyber Risk-Management Strategies, Mitigation Measures, and Recommendations
 
