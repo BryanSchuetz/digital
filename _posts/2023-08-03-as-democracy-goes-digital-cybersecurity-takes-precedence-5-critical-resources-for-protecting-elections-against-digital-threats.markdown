@@ -3,6 +3,10 @@ title: 'As Democracy Goes Digital, Cybersecurity Takes Precedence: 5 Critical Re
   For Protecting Elections Against Digital Threats'
 date: 2023-08-03 07:07:00 -04:00
 published: false
+tags:
+- Governance
+- Digital Security
+- Cybersecurity
 Author: "[Alexander Riabov](https://www.linkedin.com/in/riabovalexander/)"
 ---
 
