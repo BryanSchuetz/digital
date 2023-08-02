@@ -32,7 +32,7 @@ Recognizing the need to secure election infrastructure, the U.S. Agency for Inte
 
 1. [Cybersecurity of Election Results Management Systems:](https://www.usaid.gov/democracy/document/may-22-2023-briefing-paper-cybersecurity-election-results-management-systems) Election results management (ERM) is one of the most crucial parts of the overall electoral process. Even citizens who have no interest in politics pay attention to the results management process—because everyone wants to know who won. In the age of a rapid news cycle and social media, the slightest anomaly or hiccup in results management can quickly accelerate into a political crisis as voters want results in real time. To better secure election management systems, this resource looks at key technologies used for ERM processes, provides an overview of cybersecurity threats, threat actors, and motivations that can jeopardize ERMs, and examines options for election management bodies to secure their ERM systems. 
 
-![53075475825_41beccb548_o.jpg](/uploads/53075475825_41beccb548_o.jpg)`People living with disabilities participate in polling workshop ahead of a local election in Aceh. USAID funded inclusive efforts to create more democratic and credible electoral processes. Photo: USAID Indonesia.`
+![53075475825_41beccb548_o.jpg](/uploads/53075475825_41beccb548_o.jpg)`People living with disabilities participate in a polling workshop ahead of a local election in Aceh. USAID funded inclusive efforts to create more democratic and credible electoral processes. Photo: USAID Indonesia.`
 
 ## What’s Next: A Call to Action 
 
