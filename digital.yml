@@ -1,4 +1,15 @@
 
+- title: "As Democracy Goes Digital, Cybersecurity Takes Precedence: 5 Critical Resources For Protecting Elections Against Digital Threats"
+  pub: "Digital"
+  date: 2023-08-03
+  link: "https://dai-global-digital.com/as-democracy-goes-digital-cybersecurity-takes-precedence-5-critical-resources-for-protecting-elections-against-digital-threats.html?utm_source=daidotcom"
+  summary: "From introducing biometric voter verification machines in Kenya to testing an internet voting pilot in Norway, election management bodies (EMBs) have increasingly digitized elections in efforts to increase efficiency, promote transparency, and encourage greater voter participation. While many elections have increasingly involved technology, including digital voter rolls, biometric voter registration, and electronic voting machines, these critical democratic processes have become more susceptible to a rapidly evolving threat—cyberattacks. Failure to address cybersecurity risks inherent to a digitized electoral process can pose a grave threat to electoral integrity."
+  tags:
+    - digital acceleration 
+    - Governance 
+    - Digital Security 
+    - Cybersecurity 
+
 - title: "Playing the Short and Long Game: The Importance of Adaptability in Cybersecurity Programming"
   pub: "Digital"
   date: 2023-07-20
@@ -271,19 +282,4 @@ Photo: Aman Pal/Unsplash."
     - digital acceleration 
     - Digital Literacy 
     - Misinformation 
-
-- title: "The Potential Value of AI—and How Governments Could Capture It, Part 1"
-  pub: "Digital"
-  date: 2022-10-24
-  link: "https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it.html?utm_source=daidotcom"
-  summary: "Originally published on the McKinsey &amp; Company website.
-
-Artificial intelligence (AI) could have a significant impact on individuals, businesses, and governments. Here is what countries need to know about its benefits—and the first steps toward realizing them.
-
-The long-term potential of AI to change key aspects of the way we live and to support the operations of businesses, governments, and other organizations is hard to grasp.
-
-Indeed, AI has contributed to improvements in quality of life for all segments of society through innovations such as predictive healthcare, adaptive education, and optimized crisis response. The National Health Service in the United Kingdom, for instance, set up a National COVID-19 Chest Imaging Database containing a shared library of chest X-rays, computerized tomography (CT) scans, and magnetic resonance imaging (MRI) images to support the testing and development of AI technologies to treat COVID-19 and a variety of other health conditions. Businesses have seen increased productivity and operational efficiency using autonomous robotics in manufacturing, AI-optimized supply chains, and intelligent cargo routing with autonomous vehicles, among other initiatives. For example, many logistics companies are using AI-powered sorting robots to optimize their warehouse operations. Governments can also harness the power of AI through personalized services and automated processes. Consider Singapore’s “Ask Jamie,” a virtual assistant that helps citizens and businesses navigate government services across roughly 70 government agencies through AI-powered chat and voice."
-  tags:
-    - digital acceleration 
-    - AI 
 

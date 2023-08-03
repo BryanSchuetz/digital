@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Aug 2023 13:24:28 -0400</pubDate>
-    <lastBuildDate>Wed, 02 Aug 2023 13:24:28 -0400</lastBuildDate>
+    <pubDate>Thu, 03 Aug 2023 08:39:46 -0400</pubDate>
+    <lastBuildDate>Thu, 03 Aug 2023 08:39:46 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/5545435994_acd18f073c_o.jpg" medium="image" /> 
+        <title>As Democracy Goes Digital, Cybersecurity Takes Precedence: 5 Critical Resources For Protecting Elections Against Digital Threats</title>
+        <description>&lt;p&gt;From introducing biometric voter verification machines in Kenya to testing an internet voting pilot in Norway, election management bodies (EMBs) have increasingly digitized elections in efforts to increase efficiency, promote transparency, and encourage greater voter participation. While many elections have increasingly involved technology, including digital voter rolls, biometric voter registration, and electronic voting machines, these critical democratic processes have become more susceptible to a rapidly evolving threat—cyberattacks. Failure to address cybersecurity risks inherent to a digitized electoral process can pose a grave threat to electoral integrity.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Aug 2023 07:07:00 -0400</pubDate>
+        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
+</author>
+        <link>https://dai-global-digital.com/as-democracy-goes-digital-cybersecurity-takes-precedence-5-critical-resources-for-protecting-elections-against-digital-threats.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/as-democracy-goes-digital-cybersecurity-takes-precedence-5-critical-resources-for-protecting-elections-against-digital-threats.html</guid>
+        
+        <category>Governance</category>
+        
+        <category>Digital Security</category>
+        
+        <category>Cybersecurity</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/sm_VZR9145.jpg" medium="image" /> 
@@ -236,35 +257,6 @@
         <category>digital platforms</category>
         
         <category>Human-centered design</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/LiberiaConnectivityImage.jpg" medium="image" /> 
-        <title>Realizing Inclusive Connectivity in Liberia Through a Trusted Technical Engagement</title>
-        <description>&lt;p&gt;Transmitting data through transparent fibers barely thicker than a human hair, the Africa Coast to Europe (ACE) optical-fiber submarine cable system revolutionized Liberia’s information and communications technology (ICT) sector. Landing off the shore of Liberia’s capital, Monrovia, in 2011, this 17,000-kilometer cable that stretches from France to South Africa marked the country’s introduction to high-speed internet. Providing connectivity to 24 countries, the cable also demonstrated a commitment to reduce the digital divide and democratize internet access in Africa through secure, diverse, and resilient ICT infrastructure investments.&lt;/p&gt;
-
-&lt;p&gt;While ACE, made possible through a &lt;a href=&quot;https://ace-submarinecable.com/en/members/&quot;&gt;landmark agreement&lt;/a&gt; between a consortium of telecommunications companies and member countries, significantly increased connectivity in Monrovia, the lack of optical fiber cables beyond the capital resulted in low connectivity in Liberia’s rural areas. Moreover, Liberia lacks a much-needed system of high-speed networks linked together with fiber-optic connections to establish what is formally known as a fiber backbone—a critical prerequisite to fully maximize the ACE cable’s potential.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Mar 2023 07:56:00 -0500</pubDate>
-        <author><a href="https://www.linkedin.com/in/riabovalexander/">Alexander Riabov</a>
-</author>
-        <link>https://dai-global-digital.com/realizing-inclusive-connectivity-in-liberia-through-a-trusted-technical-engagement.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/realizing-inclusive-connectivity-in-liberia-through-a-trusted-technical-engagement.html</guid>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Insights</category>
-        
-        <category>digital economy</category>
-        
-        <category>Data</category>
-        
-        <category>Digital Divide</category>
-        
-        <category>Digital Ecosystems</category>
         
         
       </item>
