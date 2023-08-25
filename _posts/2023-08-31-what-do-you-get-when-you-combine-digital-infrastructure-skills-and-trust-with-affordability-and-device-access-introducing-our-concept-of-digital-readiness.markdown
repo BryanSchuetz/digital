@@ -3,6 +3,12 @@ title: What Do You Get When You Combine Digital Infrastructure, Skills, and Trus
   with Affordability and Device Access? Introducing Our Concept of Digital Readiness
 date: 2023-08-31 06:52:00 -04:00
 published: false
+tags:
+- digital economy
+- Digital Transformation
+- Digital Insights
+- digital divide
+- Digital Inclusion
 Author: Inta Plostins
 social-image: "/uploads/sm%20Cambodia%20DI%20Khmer%20Keyboard%20with%20Vanna%20Kruy.jpg"
 thumbnail: "/uploads/sm%20Cambodia%20DI%20Khmer%20Keyboard%20with%20Vanna%20Kruy.jpg"
