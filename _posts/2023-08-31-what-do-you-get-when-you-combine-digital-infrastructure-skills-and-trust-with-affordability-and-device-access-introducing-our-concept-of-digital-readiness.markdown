@@ -35,7 +35,6 @@ By looking at five different enablers, which we consider prerequisites for any k
 To show how each enabler builds on the others to create or signify digital readiness, we are currently using a pyramid structure. In this hierarchy, each building block requires the one below it—for example, device access requires affordable devices, which require digital infrastructure for internet access. We like the concept for its simplicity and cleanness. However, a pyramid structure can also obscure the complex interplay among these digital enablers. For example, a lack of digital trust could mean that individuals choose not to acquire digital skills. Because of this complexity, we may eventually move away from the pyramid shape in favor of a different “digital readiness” visual.
 
 ![pyramid chart.png](/uploads/pyramid%20chart.png)
-
 ## How is our definition different? 
 
 Now that I have clarified CDA’s working definition of digital readiness our five different digital enablers, and how they relate to one another, let’s talk about what sets our definition apart from the other digital readiness definitions out there. (Let me clarify that I do not have ChatGPT-like abilities and have not read every single definition of digital readiness out there but based on my own research.)
