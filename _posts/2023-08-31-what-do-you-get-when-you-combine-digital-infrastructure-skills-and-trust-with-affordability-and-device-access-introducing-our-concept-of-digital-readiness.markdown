@@ -14,7 +14,7 @@ social-image: "/uploads/sm%20Cambodia%20DI%20Khmer%20Keyboard%20with%20Vanna%20K
 thumbnail: "/uploads/sm%20Cambodia%20DI%20Khmer%20Keyboard%20with%20Vanna%20Kruy.jpg"
 ---
 
-DAI’s Center for Digital Acceleration (CDA) has done many deep dives about different topic areas on Digital@DAI over the years, from digital skills, digital trust, and digital infrastructure to affordability and access. For the first time ever, I am going to bring them all together under the umbrella of “digital readiness.” Before we get there, however, I want to acknowledge that CDA is not the first organization to come up with its own definition for this term. How have others defined digital readiness? 
+DAI’s Center for Digital Acceleration (CDA) has done many deep dives about different topic areas on *Digital@DAI* over the years, from [digital skills](https://dai-global-digital.com/realizing-inclusive-digital-development-through-boosting-the-digital-skills-of-people-living-with-disabilities.html), [digital trust](https://dai-global-digital.com/cybersecurity-frontier-insights-findings-user-perceptions-of-trust-and-privacy-on-the-internet.html), and [digital infrastructure](https://dai-global-digital.com/realizing-inclusive-connectivity-in-liberia-through-a-trusted-technical-engagement.html) to [affordability](https://dai-global-digital.com/covid-19.html) and [access](https://dai-global-digital.com/embracing-the-unlikely-resilience-of-feature-phones.html). For the first time ever, I am going to bring them all together under the umbrella of “digital readiness.” Before we get there, however, I want to acknowledge that CDA is not the first organization to come up with its own definition for this term. How have others defined digital readiness? 
 
 <!--more-->
 
