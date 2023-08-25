@@ -34,7 +34,7 @@ By looking at five different enablers, which we consider prerequisites for any k
 * **Digital trust**—do our target users believe that digital tools and technologies will compromise their physical or digital safety—especially among marginalized populations, such as the LGBTQI+ community? Do they believe that using digital tools will improve their quality of life? Target users who meet these criteria for digital readiness believe that their digital devices and tools will not harm them and can add value to their everyday lives.
 To show how each enabler builds on the others to create or signify digital readiness, we are currently using a pyramid structure. In this hierarchy, each building block requires the one below it—for example, device access requires affordable devices, which require digital infrastructure for internet access. We like the concept for its simplicity and cleanness. However, a pyramid structure can also obscure the complex interplay among these digital enablers. For example, a lack of digital trust could mean that individuals choose not to acquire digital skills. Because of this complexity, we may eventually move away from the pyramid shape in favor of a different “digital readiness” visual.
 
-![pyramid chart.png](/uploads/pyramid%20chart.png)`CDA’s working pyramid of digital readiness.`
+![pyramid chart.png](/uploads/pyramid%20chart.png)
 
 ## How is our definition different? 
 
