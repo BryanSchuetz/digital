@@ -36,7 +36,7 @@ To show how each enabler builds on the others to create or signify digital readi
 ![pyramid chart.png](/uploads/pyramid%20chart.png)
 ## How is Our Definition Different? 
 
-Now that I have clarified CDA’s working definition of digital readiness our five different digital enablers, and how they relate to one another, let’s talk about what sets our definition apart from the other digital readiness definitions out there. (Let me clarify that I do not have ChatGPT-like abilities and have not read every single definition of digital readiness out there but based on my own research.)
+Now that I have clarified CDA’s working definition of digital readiness, our five different digital enablers, and how they relate to one another, let’s talk about what sets our definition apart from the other definitions out there. (Let me clarify that I do not have ChatGPT-like abilities and have not read every single definition of digital readiness out there but based on my own research.)
 
 * **It is user-centric.** We focus on the digital readiness of individual users or user groups at the micro level, rather than taking a macro-level view of a specific country’s digital readiness, as is more common in the digital development sector. (Our definition of digital readiness is closest to that of the other household/citizen-level definitions put out by ASEAN, Pew Research, and Purdue University, but these definitions and metrics often assume that target users can get online, which is not always the case—and directly leads to my next point). 
 
