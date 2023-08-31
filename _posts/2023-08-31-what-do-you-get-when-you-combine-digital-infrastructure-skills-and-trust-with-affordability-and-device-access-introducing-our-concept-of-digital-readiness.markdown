@@ -2,7 +2,6 @@
 title: What Do You Get When You Combine Digital Infrastructure, Skills, and Trust
   with Affordability and Device Access? Introducing Our Concept of Digital Readiness
 date: 2023-08-31 06:52:00 -04:00
-published: false
 tags:
 - digital economy
 - Digital Transformation
