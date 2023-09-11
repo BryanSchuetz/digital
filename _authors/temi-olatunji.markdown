@@ -1,7 +1,6 @@
 ---
 title: Temi Olatunji
 date: 2021-08-19 10:16:00 -04:00
-published: false
 Job: Data Analyst Associate
 Image: "/uploads/1627490846765.jpg"
 ---

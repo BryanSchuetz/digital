@@ -1,6 +1,7 @@
 ---
 title: Julia Burchell
 date: 2020-10-21 09:15:00 -04:00
+published: false
 Job: Senior Consultant
 Image: "/uploads/Julia.jpg"
 ---
