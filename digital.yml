@@ -1,4 +1,20 @@
 
+- title: "Government-Run Digital Tools to Combat Corruption: Can They Work?"
+  pub: "Digital"
+  date: 2023-09-21
+  link: "https://dai-global-digital.com/government-run-digital-tools-to-combat-corruption-can-they-work.html?utm_source=daidotcom"
+  summary: "(Originally published on DAI’s Developments blog.)
+
+In 2014 and early 2015, more than 3,000 volunteers peered into their monitors to try and decipher poorly handwritten and scanned annual asset declarations from Ukrainian officials that described their properties, vehicles, land, commercial venues, bank accounts, and cash. It was a tedious task. At times, it seemed that civil servants deliberately used bad handwriting to comply with the requirements of paper-based transparency. By 2022, before the full-scale war, any internet user would have free access to more than 2.5 million asset declarations searchable through the public registry of the National Agency for Prevention of Corruption of Ukraine and at least one advanced civil society powered instrument that worked on the data-fuel from this registry. The difference was night and day. Now, instead of peering into illegible scans of handwritten scribbles, with a click of a button you can check whether a company owned by civil servant John Doe won any government contracts last year, and whether his elderly parents bought a mansion close to the capital or a new luxury car—and ask questions to the authorities.
+
+Governments worldwide are rushing to use digital technology to reduce corruption. Over the past decade, state agencies have increasingly used digital systems to conduct anti-corruption investigations, gather and analyze asset declarations, automate electronic procurement processes, and analyze open data. Despite initial implementation difficulties in many countries, these digital tools have proven effective. Many governments that benefit from donor assistance are now asking to prioritize resources for upgrading or building new IT systems to help counter corruption.
+
+In this article, we reflect on some lessons learned in supporting such government-commissioned digital systems, as one approach to assist with dekleptification efforts."
+  tags:
+    - digital acceleration 
+    - Governance 
+    - Digital Government 
+
 - title: "What Do You Get When You Combine Digital Infrastructure, Skills, and Trust with Affordability and Device Access? Introducing Our Concept of Digital Readiness"
   pub: "Digital"
   date: 2023-08-31
@@ -269,15 +285,6 @@ While I don’t have the answers to any of these questions, I do have the answer
   date: 2022-11-09
   link: "https://dai-global-digital.com/in-case-you-missed-it-discussing-the-impact-and-implications-of-ai-on-digital-inclusion-at-the-nethope-conference.html?utm_source=daidotcom"
   summary: "Last month, DAI’s Center for Digital Acceleration hosted a panel discussion during the NetHope Global Summit featuring artificial intelligence (AI) experts representing the public, private, and civil society sectors to discuss practical uses for facial recognition technology (FRT) and its impact on digital inclusion. The panelists presented specific case studies where they have seen their work intersect with AI and facial recognition technologies and digital inclusion, providing lessons learned for attendees to apply."
-  tags:
-    - digital acceleration 
-    - AI 
-
-- title: "The Potential Value of AI—and How Governments Could Capture It, Part 2"
-  pub: "Digital"
-  date: 2022-11-01
-  link: "https://dai-global-digital.com/the-potential-value-of-ai-and-how-governments-could-capture-it-part-2.html?utm_source=daidotcom"
-  summary: "Originally published on the McKinsey &amp; Company website. Read Part 1 here."
   tags:
     - digital acceleration 
     - AI 
