@@ -16,9 +16,9 @@ In 2014 and early 2015, more than 3,000 volunteers peered into their monitors to
 
 Governments worldwide are rushing to use digital technology to reduce corruption. Over the past decade, state agencies have increasingly used digital systems to conduct anti-corruption investigations, gather and analyze asset declarations, automate [electronic procurement processes](https://www.dai.com/uploads/E-Procurement%20pages.pdf?ref=pubs.ghost.io), and analyze open data. Despite initial implementation difficulties in many countries, these digital tools have [proven effective](https://star.worldbank.org/publications/automated-risk-analysis-asset-and-interest-declarations-public-officials?ref=pubs.ghost.io). Many governments that benefit from donor assistance are now asking to prioritize resources for upgrading or building new IT systems to help counter corruption.
 
-In this article, we reflect on some lessons learned in supporting such government-commissioned digital systems, as one approach to assist with [dekleptification efforts](https://www.usaid.gov/anti-corruption/dekleptification?ref=pubs.ghost.io).
-
 <!--more-->
+
+In this article, we reflect on some lessons learned in supporting such government-commissioned digital systems, as one approach to assist with [dekleptification efforts](https://www.usaid.gov/anti-corruption/dekleptification?ref=pubs.ghost.io).
 
 ![Performance-with-Umbrellas---TEAM----FOL---15--1-ce7ee9.jpg](/uploads/Performance-with-Umbrellas---TEAM----FOL---15--1-ce7ee9.jpg)`Photo: FOL/USAID Kosovo.`
 
