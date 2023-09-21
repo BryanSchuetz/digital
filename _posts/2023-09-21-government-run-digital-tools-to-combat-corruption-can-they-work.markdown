@@ -18,6 +18,8 @@ Governments worldwide are rushing to use digital technology to reduce corruption
 
 In this article, we reflect on some lessons learned in supporting such government-commissioned digital systems, as one approach to assist with dekleptification efforts.
 
+<!--more-->
+
 Photo: FOL/USAID Kosovo.
 
 ## Lessons Learned from Government Tech Solutions
