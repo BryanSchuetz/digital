@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Sep 2023 11:55:35 -0400</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 11:55:35 -0400</lastBuildDate>
+    <pubDate>Fri, 22 Sep 2023 15:45:47 -0400</pubDate>
+    <lastBuildDate>Fri, 22 Sep 2023 15:45:47 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/ICTforag.jpg" medium="image" /> 
+        <title>Call for Sessions: ICTforAg 2023</title>
+        <description>&lt;p&gt;Mark your calendars for November 7-9, because ICTforAg is back and bigger than ever. The recent online launch event unveiled the theme for 2023: “Cultivating Inclusion.” This annual gathering, now hosted by CGIAR in partnership with the U.S. Agency for International Development (USAID), Feed the Future, DevGlobal, and DAI’s &lt;a href=&quot;https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df&quot;&gt;Digital Frontiers&lt;/a&gt; project, will be a global hub where technology and agriculture intersect. Sign up now and &lt;a href=&quot;https://www.ictforag.com/events/ictforag-2023/suggest-a-session/&quot;&gt;submit your session ideas&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Sep 2023 15:32:00 -0400</pubDate>
+        <author>Lana Alnesany
+</author>
+        <link>https://dai-global-digital.com/call-for-sessions-ictforag-2023.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/call-for-sessions-ictforag-2023.html</guid>
+        
+        <category>digital agriculture</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Screenshot%202023-09-21%20at%2010.00.36%20AM.png" medium="image" /> 
@@ -17,8 +34,6 @@
 &lt;p&gt;In 2014 and early 2015, more than 3,000 volunteers peered into their monitors to try and decipher poorly handwritten and scanned &lt;a href=&quot;https://star.worldbank.org/focus-area/asset-declarations?ref=pubs.ghost.io&quot;&gt;annual asset declarations&lt;/a&gt; from Ukrainian officials that described their properties, vehicles, land, commercial venues, bank accounts, and cash. It was a tedious task. At times, it seemed that civil servants deliberately used bad handwriting to comply with the requirements of paper-based transparency. By 2022, before the full-scale war, any internet user would have free access to more than 2.5 million asset declarations searchable through the public registry of the National Agency for Prevention of Corruption of Ukraine and at least one advanced civil society powered instrument that worked on the data-fuel from this registry. The difference was night and day. Now, instead of peering into illegible scans of handwritten scribbles, with a click of a button you can check whether a company owned by civil servant John Doe won any government contracts last year, and whether his elderly parents bought a mansion close to the capital or a new luxury car—and ask questions to the authorities.&lt;/p&gt;
 
 &lt;p&gt;Governments worldwide are rushing to use digital technology to reduce corruption. Over the past decade, state agencies have increasingly used digital systems to conduct anti-corruption investigations, gather and analyze asset declarations, automate &lt;a href=&quot;https://www.dai.com/uploads/E-Procurement%20pages.pdf?ref=pubs.ghost.io&quot;&gt;electronic procurement processes&lt;/a&gt;, and analyze open data. Despite initial implementation difficulties in many countries, these digital tools have &lt;a href=&quot;https://star.worldbank.org/publications/automated-risk-analysis-asset-and-interest-declarations-public-officials?ref=pubs.ghost.io&quot;&gt;proven effective&lt;/a&gt;. Many governments that benefit from donor assistance are now asking to prioritize resources for upgrading or building new IT systems to help counter corruption.&lt;/p&gt;
-
-&lt;p&gt;In this article, we reflect on some lessons learned in supporting such government-commissioned digital systems, as one approach to assist with &lt;a href=&quot;https://www.usaid.gov/anti-corruption/dekleptification?ref=pubs.ghost.io&quot;&gt;dekleptification efforts&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 21 Sep 2023 09:58:00 -0400</pubDate>
@@ -226,35 +241,6 @@
         <category>Digital Insights</category>
         
         <category>Digital Platforms</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/sm%20Munni%20Akhter_PC%20Atanu%20Bhattacharjee_Bangladesh%20Digital%20Activity.jpg" medium="image" /> 
-        <title>Lessons Learned in Bangladesh: Engaging Women in Digital Agriculture Tools</title>
-        <description>&lt;p&gt;The role of women in agriculture is crucial, especially in countries such as Bangladesh where they make up almost half of the sector’s labor force. However, women often have limited access to resources and assets that could improve their livelihoods, including information that can be accessed through technology.&lt;/p&gt;
-
-&lt;p&gt;Digital agriculture tools, such as mobile apps and texting services, can help overcome the information disparity between men and women. But first, it is essential to understand the unique challenges that women face in agriculture and how digital tools can address those challenges. Women often have limited access to land, capital, and information, which hinders their participation. Moreover, they have limited mobility, which makes it difficult for them to physically access markets and other agricultural services.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Plantix_BNA_Patuakhali_Sador_Add%20On%20%20Farmer_Ayesha%20Begum_16Mr22.jpeg&quot; alt=&quot;Plantix_BNA_Patuakhali_Sador_Add On  Farmer_Ayesha Begum_16Mr22.jpeg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: BDAA.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 12 Apr 2023 13:54:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/tasnuba/">Tasnuba Sinha</a>
-</author>
-        <link>https://dai-global-digital.com/lessons-learned-in-bangladesh-engaging-women-in-digital-agriculture-tools.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/lessons-learned-in-bangladesh-engaging-women-in-digital-agriculture-tools.html</guid>
-        
-        <category>Human-centered design</category>
-        
-        <category>Digital Inclusion</category>
-        
-        <category>Digital Platforms</category>
-        
-        <category>Agriculture</category>
-        
-        <category>digital agriculture</category>
         
         
       </item>
