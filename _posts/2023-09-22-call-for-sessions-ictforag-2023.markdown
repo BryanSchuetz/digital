@@ -3,7 +3,7 @@ title: 'Call for Sessions: ICTforAg 2023'
 date: 2023-09-22 15:32:00 -04:00
 tags:
 - digital agriculture
-Author: Lana Alnesany
+Author: Juliet Terrill
 social-image: "/uploads/ICTforag.jpg"
 thumbnail: "/uploads/ICTforag.jpg"
 ---
