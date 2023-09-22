@@ -8,7 +8,9 @@ social-image: "/uploads/ICTforag.jpg"
 thumbnail: "/uploads/ICTforag.jpg"
 ---
 
-Mark your calendars for November 7-9, because ICTforAg is back and bigger than ever. The recent online launch event unveiled the theme for 2023: "Cultivating Inclusion." This annual gathering, now hosted by CGIAR in partnership with the U.S. Agency for International Development (USAID), Feed the Future, DevGlobal, and DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, will be a global hub where technology and agriculture intersect. Sign up now and submit your session ideas.
+Mark your calendars for November 7-9, because ICTforAg is back and bigger than ever. The recent online launch event unveiled the theme for 2023: "Cultivating Inclusion." This annual gathering, now hosted by CGIAR in partnership with the U.S. Agency for International Development (USAID), Feed the Future, DevGlobal, and DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) project, will be a global hub where technology and agriculture intersect. Sign up now and [submit your session ideas](https://www.ictforag.com/events/ictforag-2023/suggest-a-session/).
+
+<!--more-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fuStaJFNNUg?si=zMK_97BxzLW_nUJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
