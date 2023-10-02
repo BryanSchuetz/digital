@@ -44,6 +44,8 @@ These examples illustrate how generative AI can enhance cybersecurity by improvi
 ## The Challenges
 
 Despite all the exciting opportunities and applications, generative AI comes with challenges, such as ethical concerns regarding privacy and bias, lack of transparency, resource intensity, and false positives. To illustrate this, as the advancements in generative AI continue, cybercriminals have found a new tool to morph malicious code, making it harder to detect and defend against. This tool poses a greater threat to cybersecurity, calling for constantly innovating and evolving defense strategies to stay ahead of the cybercriminals. What's more, the use of generative AI by government adversaries, such as [self-evolving malware](https://ieeexplore.ieee.org/document/9914560), can lead to a dangerous escalation of their capabilities, while also making it easier for hackers to gain access to sensitive information. Have you ever wondered how advanced AI has become in mimicking human speech patterns and linguistic tendencies? It's almost frightening to think about the level of sophistication that generative AI has achieved in natural language processing. With such capabilities, it's becoming increasingly difficult to tell the difference between humans and machines. All these challenges make it imperative that we remain vigilant and proactive in the face of this constantly evolving landscape of cybersecurity threats. 
+
+![graphic2.png](/uploads/graphic2.png)
  
 Generative AI in cybersecurity faces several key challenges:
 
