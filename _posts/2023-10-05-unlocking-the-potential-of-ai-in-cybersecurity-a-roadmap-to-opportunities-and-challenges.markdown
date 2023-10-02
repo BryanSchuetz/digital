@@ -8,6 +8,8 @@ tags:
 - AI
 - Cybersecurity
 Author: Miriam Stankovich
+social-image: "/uploads/goldsteinunsplash.jpg"
+thumbnail: "/uploads/goldsteinunsplash.jpg"
 ---
 
 *This is the first in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
