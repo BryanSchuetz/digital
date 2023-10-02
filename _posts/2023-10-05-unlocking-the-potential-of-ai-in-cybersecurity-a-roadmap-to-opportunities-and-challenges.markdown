@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the Potential of AI in Cybersecurity: A Roadmap to Opportunities
+title: 'Unlocking the Potential of Generative AI in Cybersecurity: A Roadmap to Opportunities
   and Challenges'
 date: 2023-10-05 08:33:00 -04:00
 published: false
