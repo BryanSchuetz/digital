@@ -26,7 +26,7 @@ Generative AI can be a [game-changer](https://www.bain.com/insights/generative-a
 
 Generative AI has already been implemented in several real-life cybersecurity scenarios, providing enhanced threat detection, automated response, advanced authentication, and improved security testing:
 
-![graphic1.png](/uploads/graphic1.png)
+![Untitled-1.png](/uploads/Untitled-1.png)
  
 * **Anomaly Detection:** Generative models such as [variational autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73) have been used to detect anomalies in network traffic. By learning the normal patterns of traffic, VAEs can flag unusual behavior that might indicate a cyberattack. For instance, Darktrace's [Enterprise Immune System](https://darktrace.com/news/darktrace-launches-enterprise-immune-system-version-4) is an AI-powered cybersecurity solution that uses unsupervised machine learning to detect and respond to cyber threats. It can identify unusual behavior patterns within a network, such as an employee's sudden access to sensitive data or a device connecting to the network for the first time. This allows it to detect threats that may have gone unnoticed by traditional security measures.
 * **Phishing Detection:** [Generative adversarial networks (GANs)](https://developers.google.com/machine-learning/gan/gan_structure) have been used to generate and detect phishing websites. These models can create realistic phishing pages to test an organization's defenses or identify phishing websites in real time. For instance, Google [applied generative AI](https://techcrunch.com/2023/04/24/google-brings-generative-ai-to-cybersecurity/) to improve email security. It used reinforcement learning to train its AI system to recognize phishing emails and protect Gmail users from potential threats.
@@ -45,7 +45,7 @@ These examples illustrate how generative AI can enhance cybersecurity by improvi
 
 Despite all the exciting opportunities and applications, generative AI comes with challenges, such as ethical concerns regarding privacy and bias, lack of transparency, resource intensity, and false positives. To illustrate this, as the advancements in generative AI continue, cybercriminals have found a new tool to morph malicious code, making it harder to detect and defend against. This tool poses a greater threat to cybersecurity, calling for constantly innovating and evolving defense strategies to stay ahead of the cybercriminals. What's more, the use of generative AI by government adversaries, such as [self-evolving malware](https://ieeexplore.ieee.org/document/9914560), can lead to a dangerous escalation of their capabilities, while also making it easier for hackers to gain access to sensitive information. Have you ever wondered how advanced AI has become in mimicking human speech patterns and linguistic tendencies? It's almost frightening to think about the level of sophistication that generative AI has achieved in natural language processing. With such capabilities, it's becoming increasingly difficult to tell the difference between humans and machines. All these challenges make it imperative that we remain vigilant and proactive in the face of this constantly evolving landscape of cybersecurity threats. 
 
-![graphic2.png](/uploads/graphic2.png)
+![Untitled-2.png](/uploads/Untitled-2.png)
  
 Generative AI in cybersecurity faces several key challenges:
 
