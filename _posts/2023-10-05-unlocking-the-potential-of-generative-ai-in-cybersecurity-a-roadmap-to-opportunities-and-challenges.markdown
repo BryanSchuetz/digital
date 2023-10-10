@@ -6,6 +6,7 @@ tags:
 - Machine Learning
 - AI
 - Cybersecurity
+- Cyber Security Series
 Author: Miriam Stankovich
 social-image: "/uploads/goldsteinunsplash.jpg"
 thumbnail: "/uploads/goldsteinunsplash.jpg"
