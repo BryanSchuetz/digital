@@ -10,6 +10,8 @@ tags:
 - Cyber
 ---
 
+*This is the second in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
+
 The [2022 Threat Landscape Report](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2022) published by the European Union Agency for Cybersecurity (ENISA) highlights the spread of disinformation as one of the top eight cybersecurity [threats](https://www.europarl.europa.eu/news/en/headlines/society/20220120STO21428/cybersecurity-main-and-emerging-threats). The U.S. Agency for International Development (USAID)’s [Disinformation Primer](https://www.usaid.gov/sites/default/files/2023-01/Disinformation-Primer.pdf) defines disinformation as information that is shared with the intent to mislead people. As the world becomes more digitally connected and as digital technologies become more integrated into different aspects of daily life, it is important to understand the impact of digital disinformation. For example:
 
 * Disinformation can cause people to stop trusting the institutions and systems that assist them in exercising their fundamental human rights. 
