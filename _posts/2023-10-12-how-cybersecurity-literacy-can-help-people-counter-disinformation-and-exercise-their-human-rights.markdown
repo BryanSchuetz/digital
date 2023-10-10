@@ -18,6 +18,8 @@ The [2022 Threat Landscape Report](https://www.enisa.europa.eu/publications/enis
 * Citizens who do not trust their electoral systems will be deterred from exercising their right to vote. 
 * Business owners who are hesitant to use digital technologies will find it harder to earn a good income. 
 
+<!--more-->
+
 Increasing the ability of individual citizens to identify and counter disinformation allows them to participate more safely and confidently in civic, political, and economic life. When people understand how to keep themselves safe online—such as identifying false news outlets and not engaging in phishing or scams emails—then they have the knowledge and ability to control how they interact with the technology they use to achieve their goals. 
 
 ## Political Challenges: Addressing Vulnerabilities in Cyberspace During Elections in Indonesia
