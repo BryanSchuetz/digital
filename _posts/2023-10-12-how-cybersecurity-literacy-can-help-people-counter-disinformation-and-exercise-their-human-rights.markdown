@@ -8,6 +8,7 @@ tags:
 - Disinformation
 - Cyber Security Series
 - Cyber
+Author: Rachel Chang
 social-image: "/uploads/sm%20vote.jpg"
 thumbnail: "/uploads/sm%20vote.jpg"
 ---
