@@ -1,8 +1,7 @@
 ---
 title: How Cybersecurity Literacy Can Help People Counter Disinformation and Exercise
   their Human Rights
-date: 2023-10-12 08:30:00 -04:00
-published: false
+date: 2023-10-12 08:00:00 -04:00
 tags:
 - Cybersecurity
 - Disinformation
