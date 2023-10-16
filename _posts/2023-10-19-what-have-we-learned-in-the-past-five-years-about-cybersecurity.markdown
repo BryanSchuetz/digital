@@ -10,7 +10,7 @@ social-image: "/uploads/sm%20kevin-ku_unsplash.jpg"
 thumbnail: "/uploads/sm%20kevin-ku_unsplash.jpg"
 ---
 
-*This is the second in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
+*This is the third in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
 
 For digital development practitioners, cybersecurity is now in the digital development zeitgeist. Over the past five years or so, it has become an important standalone technical area, as well as a critical building block of all our interventions. In honor of Cybersecurity Awareness Month, I wanted to revisit Digital@DAI’s earliest posts about cybersecurity from 2018 to see how our initial thinking holds up against a 2023 mindset. Our first-ever series on cybersecurity introduced the concept of cybersecurity to digital development practitioners by doing three things:
 
