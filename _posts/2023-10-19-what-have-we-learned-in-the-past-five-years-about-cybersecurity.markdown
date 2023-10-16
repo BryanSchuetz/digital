@@ -18,6 +18,10 @@ For digital development practitioners, cybersecurity is now in the digital devel
 * [Examining cybersecurity](https://dai-global-digital.com/cyber-security-2.html) through the lens of regulations, skills, and institutions, aligned to the World Bank’s 2016 *[Digital Dividends](https://documents1.worldbank.org/curated/en/896971468194972881/pdf/102725-PUB-Replacement-PUBLIC.pdf)* report, and;
 * [Examining the topic](https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html) of pirated software at the micro level.
 
+<!--more-->
+
+![kevin-ku_unsplash.jpg](/uploads/kevin-ku_unsplash.jpg)`Photo: Kevin Ku/Unsplash.`
+
 ### Re-reading these articles today, what struck me about this series?
 
 * **We were clearly focused on awareness raising**–Reading this series five years later, it is clear that the underlying purpose of the first article was to sensitize digital development practitioners (and international development practitioners more generally) to the field of cybersecurity and to emphasize the nuanced interplay between cybersecurity and digital development. Sentences like, “As development professionals committed to leveraging digital access and tools that provide services globally, we must take the concept of securing trust more seriously. This will require us to focus on cybersecurity. Cybersecurity sounds daunting, particularly for people who associate the profession with dark rooms, humming computers, and coding expertise” would almost certainly not be necessary in 2023 for digital development professionals because—as stated previously—cybersecurity is everywhere these days.
