@@ -1,4 +1,21 @@
 
+- title: "What Have We Learned in the Past Five Years about Cybersecurity?"
+  pub: "Digital"
+  date: 2023-10-19
+  link: "https://dai-global-digital.com/what-have-we-learned-in-the-past-five-years-about-cybersecurity.html?utm_source=daidotcom"
+  summary: "This is the third in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.
+
+For digital development practitioners, cybersecurity is now in the digital development zeitgeist. Over the past five years or so, it has become an important standalone technical area, as well as a critical building block of all our interventions. In honor of Cybersecurity Awareness Month, I wanted to revisit Digital@DAI’s earliest posts about cybersecurity from 2018 to see how our initial thinking holds up against a 2023 mindset. Our first-ever series on cybersecurity introduced the concept of cybersecurity to digital development practitioners by doing three things:
+
+
+  Providing a technical explanation of cybersecurity and linking it to the concept of trust;
+  Examining cybersecurity through the lens of regulations, skills, and institutions, aligned to the World Bank’s 2016 Digital Dividends report, and;
+  Examining the topic of pirated software at the micro level."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Cyber Security Series 
+
 - title: "How Cybersecurity Literacy Can Help People Counter Disinformation and Exercise their Human Rights"
   pub: "Digital"
   date: 2023-10-12
@@ -280,20 +297,4 @@ Happily, it seems our predictions for what we’re thinking about in 2022 were l
     - digital economy 
     - ai 
     - Digital Transformation 
-
-- title: "Chatbots for the International Development and Humanitarian Sectors: What Works?"
-  pub: "Digital"
-  date: 2022-12-14
-  link: "https://dai-global-digital.com/chatbots-for-the-international-development-and-humanitarian-sectors-what-works.html?utm_source=daidotcom"
-  summary: "You may have noticed chatbots becoming more commonplace in your life. Buying yourself a new sound system online? A chatbot pops up offering help. Need to confirm flight details? The airline’s chatbot can do that for you. Chatbots can offer a quick and easy way to get the information you need on the platform you are already using, whether that be a website, Facebook Messenger, or WhatsApp.
-
-As they operate with low bandwidth and are simple to use, chatbots seem like they could be a beneficial technology to engage with recipients of our development and humanitarian programs, don’t they?
-
-As with any technology, the use of chatbots is migrating from the private sector and becoming more prevalent in crisis and conflict response. However, documentation of lessons learned, successes and failures, and best practices of the use of chatbots in the development and humanitarian sectors are still few and far between. Through our work with Sesame Workshop, DAI conducted desk research and key informant interviews to examine use cases and review lessons learned for the use of chatbots in the international development and humanitarian sectors. In this blog, we summarize our key findings.
-
-Image: Pixabay/Mohamed Hassan."
-  tags:
-    - digital acceleration 
-    - Innovation 
-    - Mobile 
 
