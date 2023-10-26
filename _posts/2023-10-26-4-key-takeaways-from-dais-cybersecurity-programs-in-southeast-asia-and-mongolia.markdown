@@ -9,6 +9,8 @@ social-image: "/uploads/2mdig1.jpg"
 thumbnail: "/uploads/2mdig1.jpg"
 ---
 
+*This is the fourth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
+
 Cyber threats in Southeast Asia are on the rise. Data from Singapore’s Ministry of Defense shows that cybercrime in the region [increased by 82 percent](https://www.japantimes.co.jp/news/2023/07/18/asia-pacific/asean-cyberattacks-operations-center/) between 2021 and 2022. To help counter these growing threats, the U.S. Agency for International Development (USAID)’s Digital Asia Accelerator (DAA) initiative, implemented by DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) under the [Digital Connectivity and Cybersecurity Partnership (DCCP)](https://www.state.gov/digital-connectivity-and-cybersecurity-partnership/), promotes cybersecurity awareness and capacity building in Cambodia, Indonesia, Laos, Mongolia, Myanmar, and Thailand. Since 2019, DAA has implemented several [cybersecurity awareness initiatives](https://www.ictworks.org/effective-cybersecurity-awareness-programs/) in the region. Drawing on these experiences, here are four of our key takeaways on how to create an enabling environment for better cybersecurity awareness, defense, and opportunity. 
 
 
