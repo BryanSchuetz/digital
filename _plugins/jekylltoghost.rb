@@ -55,8 +55,8 @@ module Jekyll
 			converter = site.find_converter_instance(Jekyll::Converters::Markdown)
 			ex_posts = []
 			id = 0
-
-			site.posts.docs.each do |post|
+      batch = site.posts.docs.reverse.take(10)
+			batch.each do |post|
 
 				# timestamp =Time.now.to_i
 				timestamp = post.date.to_i * 1000
@@ -74,10 +74,10 @@ module Jekyll
 					# "mobiledoc" => mobiledoc,
 					"mobiledoc" => mobiledoc.to_json.to_s,
 					# "html" => converter.convert(post.content),
-					"feature_image" => post.data['featured_image'],
-					"featured" => post.data['featured'],
+					"feature_image" => false,
+					"featured" => false,
 					"page" => 0,
-					"status" => "published",
+					"status" => "draft",
 					"published_at" => timestamp,
 					"published_by" => 1,
 					"meta_title" => post.data['title'],
