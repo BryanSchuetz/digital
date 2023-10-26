@@ -45,7 +45,7 @@ Companies, consumers, and civil society may want to actively engage in discussio
 
 To address this challenge, DAA has hosted two [Digital Economy Forums](https://www.youtube.com/watch?v=j9Zin_5sdKA) that have brought together chambers of commerce and other digital economy stakeholders from across Asia-Pacific to learn about the policymaking process and share best practices and lessons learned within their home countries. [By joining together](https://digitalpolicy.asia/digital-economy-forum-two/) digital policy experts with international and regional businesses to discuss the issues shaping the future of the digital economy and their impact on the private sector in Asia-Pacific, DAA promoted a tried-and-true multi-stakeholder approaches to digital economy policymaking within and across the region.
  
-![three-0af8d7.jpg](/uploads/three-0af8d7.jpg)`Participants arrive for DAA’s Digital Economy Forum. Photo: Mango Tango.` 
+![conference.jpg](/uploads/conference.jpg)`Participants arrive for DAA’s Digital Economy Forum. Photo: Mango Tango.` 
 
 Cybersecurity is not only about protecting data; it is about protecting people. It requires an interdisciplinary approach which creates a shared goal of stronger cybersecurity practices among diverse stakeholders and ensuring that all who are involved are part of the solution to safeguarding our digital world. 
 
