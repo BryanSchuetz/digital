@@ -8,6 +8,8 @@ tags:
 Author: Charles Coon and Alexander Riabov
 ---
 
+*This is the fifth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
+
 “Spiderman,” as he was dubbed, worked for military intelligence as an undercover volunteer.
 
 As told by Nathan Thornburgh in *[Time](https://courses.cs.washington.edu/courses/csep590/05au/readings/titan.rain.htm)*, Spiderman, later identified as Shawn Carpenter—a U.S. intel contractor by day—watched by night as hackers breached networks of the U.S. military and made off with uncommon stealth. Spiderman “clung unseen to the walls of their chat rooms and servers,” following the stolen files from site to site, landing him virtually in China’s Guangdong province. When his private-sector employers found out what he was doing, they fired Carpenter and stripped him of his top-secret clearance for “inappropriate” after-hours sleuthing. 
