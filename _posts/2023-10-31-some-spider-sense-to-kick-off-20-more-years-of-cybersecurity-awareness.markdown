@@ -10,7 +10,7 @@ social-image: "/uploads/pic%20for%20blog.png"
 thumbnail: "/uploads/pic%20for%20blog.png"
 ---
 
-*This is the fifth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
+*This is the fifth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October. It first appeared in the Tech Policy Press [here](https://techpolicy.press/some-spider-sense-to-kick-off-20-more-years-of-cybersecurity-awareness/).*
 
 “Spiderman,” as he was dubbed, worked for military intelligence as an undercover volunteer.
 
