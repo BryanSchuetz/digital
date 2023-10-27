@@ -32,7 +32,7 @@ Once hacked, tools used for legitimate administrative and security-testing funct
 
 ## The Disinformation Age 
 
-With the advent of generative artificial intelligence (AI), there is a growing industry devoted to developing advanced disinformation in the form of deep fakes and other crooked content. This reality calls for forward-thinking investment in digital literacy that raises awareness and recognition to help repel disinformation. Such actions could include coupling online business registration requirements with mandatory digital literacy and risk-awareness training or establishing accountability mechanisms such as hotlines to lodge complaints, report scams, or flag inaccurate content.
+With the advent of generative artificial intelligence (AI), there is a growing industry devoted to developing advanced disinformation in the form of deep fakes and other crooked content. This reality calls for forward-thinking investment in digital literacy that raises awareness and recognition to help repel disinformation. [Such actions](https://dai-global-digital.com/digital-downsides-the-economic-impact-of-misinformation-and-other-digital-harms-on-msmes-in-kenya-india-and-cambodia.html) could include coupling online business registration requirements with mandatory digital literacy and risk-awareness training or establishing accountability mechanisms such as hotlines to lodge complaints, report scams, or flag inaccurate content.
 
 ## Back to the (New) Basics
 
