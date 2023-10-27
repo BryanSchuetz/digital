@@ -18,7 +18,7 @@ Around the same time, in October 2004, a small nonprofit called the National Cyb
 
 Safe to say, cybersecurity awareness has come a long way since Spiderman got sacked.
 
-
+<!--more-->
 
 As we mark the 20th Cybersecurity Awareness Month, security threats continue to evolve while the need for cybersecurity preparedness has become abundantly clear. Integrating cybersecurity into the day-to-day of organizations and institutions across society can [profoundly propel](https://www.usaid.gov/digital-development/usaid-cybersecurity-primer) a country’s inclusion, economic growth, and infrastructure resilience. 
 
