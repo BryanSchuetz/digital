@@ -6,6 +6,8 @@ tags:
 - Cybersecurity
 - Cyber Security Series
 Author: Charles Coon and Alexander Riabov
+social-image: "/uploads/pic%20for%20blog.png"
+thumbnail: "/uploads/pic%20for%20blog.png"
 ---
 
 *This is the fifth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.*
