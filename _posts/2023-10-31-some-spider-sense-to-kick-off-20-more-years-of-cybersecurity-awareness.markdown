@@ -1,6 +1,6 @@
 ---
 title: Some Spider-Sense to Kick Off 20 More Years of Cybersecurity Awareness
-date: 2023-10-27 11:11:00 -04:00
+date: 2023-10-31 08:11:00 -04:00
 published: false
 tags:
 - Cybersecurity
