@@ -2,7 +2,13 @@
 title: 'Social Media for Civic Education: Challenges and Opportunities in Cambodia'
 date: 2023-11-16 08:08:00 -05:00
 published: false
-Author: Inta Plostins
+tags:
+- Think Piece
+- digital economy
+- Digital Insights
+Author: Guest authors
+social-image: "/uploads/sm%20ISAC.jpg"
+thumbnail: "/uploads/sm%20ISAC.jpg"
 ---
 
 *Abby Edwards, Aishwarya Jadav, Arin Kerstein, Alvin Siagian, and Shuyang Wang are second-year master’s students in the Johns Hopkins University School of Advanced International Studies international development program. They worked with DAI from September 2022 to April 2023 on the Innovations for Social Accountability in Cambodia (ISAC) project, implemented by FHI 360 and funded by U.S. Agency for International Development (USAID), to conduct an assessment of the Cambodian digital ecosystem and the digitalization of ISAC partner civil society organizations (CSOs). The team interviewed civic engagement experts, Cambodian CSOs working to implement the ISAC project, international organizations working in Cambodia, Cambodian content creators, and citizens in multiple ISAC target provinces. This post summarizes their key findings and recommendations.* 
@@ -15,9 +21,11 @@ As more people access online platforms in Cambodia, CSOs are exploring new and i
  
 The first set of constraints on CSOs stems from the current state of digital engagement in Cambodia. While more Cambodians overall are now digitally connected than in previous years, our research found that this does not mean that *all* Cambodians are digitally connected. Therefore, high connectivity rates across Cambodia do not necessarily translate to an overall increase in digital civic engagement in ISAC target areas. 
 
-* Despite high connectivity rates in Cambodia, many citizens in ISAC target areas still lack either digital access or literacy. This is particularly the case outside of major cities, where citizens often do not have access to high-quality internet connections and typically share phones. Senior citizens also risk being left behind in this digital transition, even if they are generally more civically engaged than youth, because they lack the knowledge to access online platforms that facilitate digital civic engagement.
+* Despite high connectivity rates in Cambodia, many citizens in ISAC target areas still lack either digital access or literacy. This is particularly the case outside of major cities, where citizens often do not have access to high-quality internet connections and typically share phones. Senior citizens also risk being left behind in this digital transition, even if they are generally more civically engaged than young people, because they lack the knowledge to access online platforms that facilitate digital civic engagement.
 * Even among citizens who are active online, users rarely engage with or create content related to civic education. Instead, citizens typically only engage with, or create, online content that they either see as entertaining or directly relevant to their lives. For the latter, this content often focuses on local happenings or people who they know.
 * There is also a tendency for Cambodians to self-censor their opinions online and offline. This not only explains the reasoning behind low levels of civic engagement in the country but also indicates that any CSO programming to increase digital civic engagement will run into challenges due to the public nature of social media. 
+
+![ISAC.jpg](/uploads/ISAC.jpg)`Photo: ISAC/DAI.`
 
 ## Digitizing CSOs
 
