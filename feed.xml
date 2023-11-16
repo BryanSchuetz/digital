@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Nov 2023 09:55:38 -0500</pubDate>
-    <lastBuildDate>Wed, 15 Nov 2023 09:55:38 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 07:42:49 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 07:42:49 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sm%20ISAC.jpg" medium="image" /> 
+        <title>Social Media for Civic Education: Challenges and Opportunities in Cambodia</title>
+        <description>&lt;p&gt;&lt;em&gt;Abby Edwards, Aishwarya Jadav, Arin Kerstein, Alvin Siagian, and Shuyang Wang are second-year master’s students in the Johns Hopkins University School of Advanced International Studies international development program. They worked with DAI from September 2022 to April 2023 on the Innovations for Social Accountability in Cambodia (ISAC) project, implemented by FHI 360 and funded by U.S. Agency for International Development (USAID), to conduct an assessment of the Cambodian digital ecosystem and the digitalization of ISAC partner civil society organizations (CSOs). The team interviewed civic engagement experts, Cambodian CSOs working to implement the ISAC project, international organizations working in Cambodia, Cambodian content creators, and citizens in multiple ISAC target provinces. This post summarizes their key findings and recommendations.&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Nov 2023 07:08:00 -0500</pubDate>
+        <author>Guest authors
+</author>
+        <link>https://dai-global-digital.com/social-media-for-civic-education-challenges-and-opportunities-in-cambodia.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/social-media-for-civic-education-challenges-and-opportunities-in-cambodia.html</guid>
+        
+        <category>Think Piece</category>
+        
+        <category>digital economy</category>
+        
+        <category>Digital Insights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/pic%20for%20blog.png" medium="image" /> 
@@ -224,29 +245,6 @@
         <category>Digital Security</category>
         
         <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/sm_VZR9145.jpg" medium="image" /> 
-        <title>Playing the Short and Long Game: The Importance of Adaptability in Cybersecurity Programming</title>
-        <description>&lt;p&gt;&lt;em&gt;Editor’s Note: This post is adapted from a &lt;a href=&quot;https://www.digitaldevforum.com/agenda/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming&quot;&gt;lightning talk&lt;/a&gt; presented at the recent Global Digital Development Forum (GDDF) 2023.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the last few years, DAI has expanded its cybersecurity portfolio to cover regions including Asia-Pacific, Eastern Europe, and the Western Balkans. Designing and delivering programs that focus on building the resilience of cybersecurity stakeholders and ecosystems involves investments in three key elements of cybersecurity: people, process, and technology. It also demands that we apply this approach with local existing conditions. Importantly, cybersecurity programming also requires flexibility for rapid responses in case of unforeseen and new threats, political turnover, or major geopolitical developments expanding cyber or hybrid warfare. This is naturally dictated by realities and conditions in the geographies where we work, where local actors and beneficiaries often face external shocks requiring adaptation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/VZR9145.jpg&quot; alt=&quot;VZR9145.jpg&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: Stock.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 20 Jul 2023 06:43:00 -0400</pubDate>
-        <author><a href="https://www.linkedin.com/in/alexander-odisheli-a2a56494/">Alexander Odisheli</a>
-</author>
-        <link>https://dai-global-digital.com/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/playing-the-short-and-long-game-the-importance-of-adaptability-in-cybersecurity-programming.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>digital platforms</category>
         
         
       </item>
