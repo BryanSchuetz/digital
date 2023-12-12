@@ -14,6 +14,8 @@ thumbnail: "/uploads/Screenshot%202023-12-12%20at%2011.52.01%20AM.png"
 
 Global donors and development implementers are increasingly aligned around the theory that digital investments are most effective and equitable when owned by local stakeholders who can leverage the full potential of digital technologies and data. They are also embracing an agenda of “localization” to prioritize local digital ownership, expertise, and leadership. 
 
+<!--more-->
+
 Digital public goods provide local actors with an alternative to expensive, proprietary digital solutions through a verified registry of open-source software, open data, open artificial intelligence (AI) models, open standards, and open content. International development actors seeking to localize these digital public goods and related digital public infrastructure (DPI) must adapt digital solutions to suit local digital ecosystems, as well as ensure they are wholly owned by local partners. In this post, we provide an overview of a new report that DAI authored about the challenges and opportunities associated with localizing digital public goods.
 
 As part of this research, our partner [ExchangeDesign](https://www.exchange.design/) created a [DPG Explorer](https://www.exchange.design/dpgs-explorer) that allows us to analyze data on existing digital public goods, where they were developed and deployed, and which digital public goods they support. See two screenshots of the analysis below:
