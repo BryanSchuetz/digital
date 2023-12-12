@@ -6,8 +6,8 @@ tags:
 - digital economy
 - Digital Insights
 Author: " Christopher Neu, Talia Dweck, Anand Varghese"
-social-image: "/uploads/Screenshot%202023-12-12%20at%2011.52.01%20AM.png"
-thumbnail: "/uploads/Screenshot%202023-12-12%20at%2011.52.01%20AM.png"
+social-image: "/uploads/cover.png"
+thumbnail: "/uploads/cover.png"
 ---
 
 *DAI is pleased to announce the release of its latest [CDA Insights](https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights) paper, "[Localizing Digital Public Goods](https://dai-assets.s3.amazonaws.com/Localizing%20Digital%20Public%20Goods.pdf)."*
@@ -20,9 +20,9 @@ Digital public goods provide local actors with an alternative to expensive, prop
 
 As part of this research, our partner [ExchangeDesign](https://www.exchange.design/) created a [DPG Explorer](https://www.exchange.design/dpgs-explorer) that allows us to analyze data on existing digital public goods, where they were developed and deployed, and which digital public goods they support. See two screenshots of the analysis below:
 
-![Screenshot 2023-12-12 at 11.50.02 AM.png](/uploads/Screenshot%202023-12-12%20at%2011.50.02%20AM.png) 
+![Screenshot 1.png](/uploads/Screenshot%201.png)
 
-![Screenshot 2023-12-12 at 11.51.15 AM.png](/uploads/Screenshot%202023-12-12%20at%2011.51.15%20AM.png) 
+![Screenshot 2.png](/uploads/Screenshot%202.png)
 
 In addition to analyzing this data, the report conducted 21 key informant interviews to better understand the challenges and opportunities of localizing digital public goods. The report identifies five principal challenges and offers initial recommendations to address them: 
 
