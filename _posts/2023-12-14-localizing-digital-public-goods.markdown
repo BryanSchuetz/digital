@@ -3,8 +3,8 @@ title: Localizing Digital Public Goods
 date: 2023-12-14 08:43:00 -05:00
 published: false
 tags:
-- digital economy
-- Digital Insights
+- digital platforms
+- Digital Transformation
 Author: " Christopher Neu, Talia Dweck, Anand Varghese"
 social-image: "/uploads/cover.png"
 thumbnail: "/uploads/cover.png"
