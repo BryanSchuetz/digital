@@ -1,7 +1,6 @@
 ---
 title: Localizing Digital Public Goods
-date: 2023-12-14 08:43:00 -05:00
-published: false
+date: 2023-12-14 08:41:00 -05:00
 tags:
 - digital platforms
 - Digital Transformation
