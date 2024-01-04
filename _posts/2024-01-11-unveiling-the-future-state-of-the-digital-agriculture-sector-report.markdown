@@ -48,3 +48,5 @@ As we navigate the complexities of the digital agriculture landscape, we find th
 *How to Access the Report:* Ready to explore the future of agriculture? Access the full report [here](https://www.digitalfrontiersdai.com/resources/state-of-the-digital-agriculture-sector/). This report offers a reflection of unprecedented breadth and depth on the historical growth, challenges, and futures for the digital agriculture sector, as well as a diverse but targeted set of stakeholder-specific recommendations to ensure a "thriving" D4Ag landscape in the decade to come.
 
 *Watch the Presentation:* For a more in-depth exploration of the report's findings, insights, and recommendations, we invite you to watch the presentation at ICTforAg [here](https://www.youtube.com/watch?v=6lP5T-pTTEQ&list=PLtOADzg0EonTt61vVO3tUdP2kGRy5NAcr&index=14). Join the conversation, share your insights, and contribute to shaping the future of digital agriculture.
+
+*[Juliet Terrill ](https://www.linkedin.com/in/juliet-terrill-a55903114/)is a Program Associate on the USAID Digital Frontiers team.*
