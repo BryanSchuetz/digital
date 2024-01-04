@@ -41,7 +41,7 @@ The report's findings are the result of rigorous research, analysis, and consult
 
 **Gender Inequality and Social Exclusion:** Gender inequality and social exclusion remain pervasive challenges within the digital agriculture landscape. The report sheds light on the gender disparities, cultural barriers, and social norms hindering women's participation, access to resources, and decision-making. Promoting gender equality, empowering women, and fostering inclusive agricultural policies and programs are crucial for achieving sustainable development goals and driving equitable growth.
 
-**Climate-Smart D4Ag Deployment and Credibility Constraints: **Climate-smart digital agriculture deployment faces unique challenges, including credibility constraints, regulatory barriers, and technological limitations. The report outlines strategies for addressing these challenges, fostering collaboration, and promoting responsible, sustainable, and scalable digital agriculture solutions.
+**Climate-Smart D4Ag Deployment and Credibility Constraints:** Climate-smart digital agriculture deployment faces unique challenges, including credibility constraints, regulatory barriers, and technological limitations. The report outlines strategies for addressing these challenges, fostering collaboration, and promoting responsible, sustainable, and scalable digital agriculture solutions.
 
 As we navigate the complexities of the digital agriculture landscape, we find that collaboration, innovation, and commitment are essential for achieving sustainable development goals, enhancing food security, and empowering communities worldwide.
 
