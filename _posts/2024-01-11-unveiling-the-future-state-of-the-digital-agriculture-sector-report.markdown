@@ -15,7 +15,7 @@ The recently published "[State of the Digital Agriculture Sector](https://www.be
 
 <!--more-->
 
-The report's findings are the result of rigorous research, analysis, and consultations with a diverse range of stakeholders, including farmers, policymakers, agribusinesses, technology providers, and development organizations to gain firsthand insights from individuals and organizations at the forefront of digital agriculture.
+The report's findings result from rigorous research, analysis, and consultations with a diverse range of stakeholders, including farmers, policymakers, agribusinesses, technology providers, and development organizations to gain firsthand insights from individuals and organizations at the forefront of digital agriculture.
 
 ![Photo Credit CABI.jpg](/uploads/Photo%20Credit%20CABI.jpg)`Photo: CABI.`
 
