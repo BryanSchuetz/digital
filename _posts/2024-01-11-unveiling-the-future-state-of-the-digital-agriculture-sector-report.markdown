@@ -17,6 +17,8 @@ The recently published "[State of the Digital Agriculture Sector](https://www.be
 
 The report's findings are the result of rigorous research, analysis, and consultations with a diverse range of stakeholders, including farmers, policymakers, agribusinesses, technology providers, and development organizations to gain firsthand insights from individuals and organizations at the forefront of digital agriculture.
 
+![Photo Credit CABI.jpg](/uploads/Photo%20Credit%20CABI.jpg)`Photo: CABI.`
+
 ## Key Highlights
 
 **Digital Transformation Accelerating Agriculture:** Digital tools, such as precision farming techniques, powered by Internet of Things (IoT) sensors and data analytics, play a pivotal role in modernizing agriculture and enabling farmers to optimize crop yields, conserve resources, and enhance sustainability. In addition to these technologies, smart supply chain solutions can ensure efficient distribution, reduce waste, and meet consumer demands effectively.
