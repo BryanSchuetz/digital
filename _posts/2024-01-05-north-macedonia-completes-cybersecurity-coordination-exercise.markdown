@@ -32,6 +32,6 @@ Exercise facilitators drew parallels to recent cyberattacks both globally and wi
 
 ![CIDR MKD TTX DEC23 3.jpeg](/uploads/CIDR%20MKD%20TTX%20DEC23%203.jpeg)
 
-The exercise was organized by the Agency for Electronic Communications of the Republic of North Macedonia and sponsored by U.S. Agency for International Development (USAID) through the [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr).
+The exercise was organized by the Agency for Electronic Communications of the Republic of North Macedonia and sponsored by the U.S. Agency for International Development (USAID) through the [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program.
 
 “We are committed to translating these learnings into tangible measures that strengthen our cybersecurity posture at the national level,” said Mr. Regepagic of the AEC.
