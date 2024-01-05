@@ -11,6 +11,8 @@ thumbnail: "/uploads/CIDR%20MKD%20TTX%20DEC23%201.jpeg"
 
 More than 30 members of North Macedonia’s government, critical infrastructure firms, and other key institutions recently completed the country’s 5th annual National Coordination Exercise and Cyber Drill.
 
+<!--more-->
+
 ![CIDR MKD TTX DEC23 1.jpeg](/uploads/CIDR%20MKD%20TTX%20DEC23%201.jpeg)
 
 The three-day exercise strove to diagnose the government’s current capacity for cyber incident response and identify areas for improvement. The exercise clarified roles and established national protocols within the government, improving the country’s readiness to mobilize a coordinated and effective response to a cyber crisis and protect public institutions. Findings and recommendations from the drill will be provided to the National Cyber Incident Response Team. These conclusions will inform the country’s ongoing effort to reshape its policies and institutional capabilities, addressing the country’s heightened cyber threat environment.
