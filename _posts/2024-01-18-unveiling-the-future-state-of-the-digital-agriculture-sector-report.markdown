@@ -1,6 +1,6 @@
 ---
 title: 'Unveiling the Future: State of the Digital Agriculture Sector Report'
-date: 2024-01-11 08:34:00 -05:00
+date: 2024-01-18 08:34:00 -05:00
 published: false
 tags:
 - digital agriculture
