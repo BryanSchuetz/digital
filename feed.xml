@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2024 13:52:51 -0500</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 13:52:51 -0500</lastBuildDate>
+    <pubDate>Thu, 18 Jan 2024 08:35:31 -0500</pubDate>
+    <lastBuildDate>Thu, 18 Jan 2024 08:35:31 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/smPhoto%20Credit%20CABI.jpg" medium="image" /> 
+        <title>Unveiling the Future: State of the Digital Agriculture Sector Report</title>
+        <description>&lt;p&gt;In the ever-evolving landscape of agricultural development, the digital revolution has taken center stage. Digital tools have the potential to transform the agriculture sector, especially across low- and middle-income countries (LMICs).&lt;/p&gt;
+
+&lt;p&gt;The recently published “&lt;a href=&quot;https://www.beanstalkagtech.com/d4aglmic&quot;&gt;State of the Digital Agriculture Sector&lt;/a&gt;” report from Beanstalk, funded and sponsored by the U.S. Agency for International Development, DAI, and the Bill &amp;amp; Melinda Gates Foundation, delves into the current trends, challenges, and opportunities shaping the future of agriculture in the digital age.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Jan 2024 08:33:00 -0500</pubDate>
+        <author>Juliet Terrill
+</author>
+        <link>https://dai-global-digital.com/unveiling-the-future-state-of-the-digital-agriculture-sector-report.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/unveiling-the-future-state-of-the-digital-agriculture-sector-report.html</guid>
+        
+        <category>digital agriculture</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/CIDR%20MKD%20TTX%20DEC23%201.jpeg" medium="image" /> 
@@ -216,29 +235,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/call-for-sessions-ictforag-2023.html</guid>
         
         <category>digital agriculture</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Screenshot%202023-09-21%20at%2010.00.36%20AM.png" medium="image" /> 
-        <title>Government-Run Digital Tools to Combat Corruption: Can They Work?</title>
-        <description>&lt;p&gt;&lt;em&gt;(Originally &lt;a href=&quot;https://dai-global-developments.com/articles/government-run-digital-tools-to-combat-corruption-can-they-work/&quot;&gt;published&lt;/a&gt; on DAI’s Developments blog.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2014 and early 2015, more than 3,000 volunteers peered into their monitors to try and decipher poorly handwritten and scanned &lt;a href=&quot;https://star.worldbank.org/focus-area/asset-declarations?ref=pubs.ghost.io&quot;&gt;annual asset declarations&lt;/a&gt; from Ukrainian officials that described their properties, vehicles, land, commercial venues, bank accounts, and cash. It was a tedious task. At times, it seemed that civil servants deliberately used bad handwriting to comply with the requirements of paper-based transparency. By 2022, before the full-scale war, any internet user would have free access to more than 2.5 million asset declarations searchable through the public registry of the National Agency for Prevention of Corruption of Ukraine and at least one advanced civil society powered instrument that worked on the data-fuel from this registry. The difference was night and day. Now, instead of peering into illegible scans of handwritten scribbles, with a click of a button you can check whether a company owned by civil servant John Doe won any government contracts last year, and whether his elderly parents bought a mansion close to the capital or a new luxury car—and ask questions to the authorities.&lt;/p&gt;
-
-&lt;p&gt;Governments worldwide are rushing to use digital technology to reduce corruption. Over the past decade, state agencies have increasingly used digital systems to conduct anti-corruption investigations, gather and analyze asset declarations, automate &lt;a href=&quot;https://www.dai.com/uploads/E-Procurement%20pages.pdf?ref=pubs.ghost.io&quot;&gt;electronic procurement processes&lt;/a&gt;, and analyze open data. Despite initial implementation difficulties in many countries, these digital tools have &lt;a href=&quot;https://star.worldbank.org/publications/automated-risk-analysis-asset-and-interest-declarations-public-officials?ref=pubs.ghost.io&quot;&gt;proven effective&lt;/a&gt;. Many governments that benefit from donor assistance are now asking to prioritize resources for upgrading or building new IT systems to help counter corruption.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 21 Sep 2023 09:58:00 -0400</pubDate>
-        <author><a href="https://www.dai.com/who-we-are/our-team/maksym-klyuchar">Maksym Klyuchar</a> and <a href="https://www.dai.com/who-we-are/our-team/miriam-stankovich">Miriam Stankovich</a>
-</author>
-        <link>https://dai-global-digital.com/government-run-digital-tools-to-combat-corruption-can-they-work.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/government-run-digital-tools-to-combat-corruption-can-they-work.html</guid>
-        
-        <category>Governance</category>
-        
-        <category>Digital Government</category>
         
         
       </item>
