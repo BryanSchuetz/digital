@@ -1,7 +1,6 @@
 ---
 title: 'Unveiling the Future: State of the Digital Agriculture Sector Report'
-date: 2024-01-18 08:34:00 -05:00
-published: false
+date: 2024-01-18 08:33:00 -05:00
 tags:
 - digital agriculture
 Author: Juliet Terrill
