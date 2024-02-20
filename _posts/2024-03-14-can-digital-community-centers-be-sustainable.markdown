@@ -59,4 +59,4 @@ Sustainability is difficult to achieve for digital community centers. Throughout
 
 We have found that, while the road to sustainability for digital community centers may be challenging, it can be achievable. The success of several approaches of the Initiative partners shows that it is possible to address the inherent obstacles to implementing this model while demonstrating the potential for digital community centers to revolutionize connectivity in remote areas where people are currently unconnected to the digital world.
 
-*[Lana Alnesany](https://www.linkedin.com/in/lana-jabbar/) is a Senior Communications Specialist on DAI’s Digital Frontiers team.*
+*[Lana Alnesany](https://www.linkedin.com/in/lana-jabbar/) is a Senior Communications Specialist on DAI’s [Digital Frontiers](https://www.dai.com/our-work/projects/worldwide-digital-frontiers-df) team.*
