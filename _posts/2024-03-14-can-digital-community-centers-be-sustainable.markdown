@@ -1,7 +1,13 @@
 ---
-title: Can Digital Community Centers Be Sustainable?
+title: Can Rural Digital Community Centers Be Sustainable?
 date: 2024-03-14 08:48:00 -04:00
 published: false
+tags:
+- digital economy
+- Digital Gender Divide
+- Digital Inclusion
+- digital divide
+- Digital Literacy
 Author: Lana Alnesany
 social-image: "/uploads/sm%20Photo%20credit_New%20Sun%20Road.jpg"
 thumbnail: "/uploads/sm%20Photo%20credit_New%20Sun%20Road.jpg"
