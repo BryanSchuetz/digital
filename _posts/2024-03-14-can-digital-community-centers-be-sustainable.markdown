@@ -42,6 +42,7 @@ By encouraging community engagement and active involvement, the digital communit
 ## The Road to Sustainability
 
 Sustainability is difficult to achieve for digital community centers. Throughout the USAID/Microsoft Airband Initiative, several community centers closed down for various reasons, including costs being too high for centers using satellite internet, partners not being able to take on the expected maintenance costs, and low engagement from the community. However, the digital community center model continues to have promise with its ability to bring digital resources and knowledge to remote areas. 
- We have found that, while the road to sustainability for digital community centers may be challenging, it can be achievable. The success of several approaches of the Airband Initiative partners shows that it is possible to address the inherent obstacles to implementing this model while demonstrating the potential for digital community centers to revolutionize connectivity in remote areas where people are currently unconnected to the digital world.
+
+We have found that, while the road to sustainability for digital community centers may be challenging, it can be achievable. The success of several approaches of the Airband Initiative partners shows that it is possible to address the inherent obstacles to implementing this model while demonstrating the potential for digital community centers to revolutionize connectivity in remote areas where people are currently unconnected to the digital world.
 
 *[Lana Alnesany](https://www.linkedin.com/in/lana-jabbar/) is a Senior Communications Specialist on DAI’s Digital Frontiers team.*
