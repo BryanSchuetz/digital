@@ -40,7 +40,7 @@ Following the panel, we led a "cyber hygiene" workshop for civil servants and en
 
 We started with the basics—teaching practices that most people already know, but rarely employ. One example of good cyber hygiene is the use of strong passwords and changing them often. [Passwords](https://www.cisecurity.org/newsletter/why-strong-unique-passwords-matter/) are foundational to accessing nearly all digital tools and services. They also serve as one of the weakest points in a network.
 
-![cs5.jpg](/uploads/cs5.jpg)`A workshop participant thinks through which download buttons are fake and which are real. Photo:SocialBoost.`
+![cs5.jpg](/uploads/cs5.jpg)`A workshop participant thinks through which download buttons are fake and which are real. Photo: SocialBoost.`
 
 Though widely known, it was no surprise that few people or companies [employ](https://33kpvz33obwvvdeaa3co3hu1-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/07/cybersecurity-ventures-thycoti_70778.pdf) good password management. The workshop participants were no different. They all had personal experience with their data getting stolen or misused, even though they know password management is essential to protecting information. Of the participants who did employ good password management, it was only because they were required to by an employer.
 
