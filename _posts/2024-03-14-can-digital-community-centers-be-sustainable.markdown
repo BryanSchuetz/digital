@@ -1,7 +1,6 @@
 ---
 title: Can Rural Digital Community Centers Be Sustainable?
-date: 2024-03-14 08:48:00 -04:00
-published: false
+date: 2024-03-14 08:18:00 -04:00
 tags:
 - digital economy
 - Digital Gender Divide
