@@ -5,9 +5,38 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Feb 2024 10:00:13 -0500</pubDate>
-    <lastBuildDate>Thu, 29 Feb 2024 10:00:13 -0500</lastBuildDate>
+    <pubDate>Thu, 14 Mar 2024 08:29:22 -0400</pubDate>
+    <lastBuildDate>Thu, 14 Mar 2024 08:29:22 -0400</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sm%20Photo%20credit_New%20Sun%20Road.jpg" medium="image" /> 
+        <title>Can Rural Digital Community Centers Be Sustainable?</title>
+        <description>&lt;p&gt;&lt;em&gt;This blog first appeared in &lt;a href=&quot;https://www.ictworks.org/digital-community-centers-sustainable/&quot;&gt;ICT Works&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To bridge the digital divide, digital community centers—physical spaces that provide access to the internet, technology devices, and digital skills—have become a popular solution for organizations working to bring connectivity to remote areas. Not only do these centers bring internet access to previously unconnected communities, but they also deliver digital literacy training to equip citizens with the skills and knowledge to use technology for personal and economic growth while ensuring their meaningful and safe use of it. While these centers may benefit their communities and act as gateways to the digital world, a pressing question lingers: Can these centers become truly sustainable and self-sufficient?&lt;/p&gt;
+
+&lt;p&gt;In this post, we explore the lessons learned by digital community centers established under the &lt;a href=&quot;https://www.usaid.gov/digital-development/usaid-microsoft-airband-initiative&quot;&gt;USAID/Microsoft Airband Initiative&lt;/a&gt;, a public-private partnership that seeks to bring internet access to more women around the world. Partners of the initiative, including internet service providers (ISPs) and technology companies, have built and managed these centers in rural and semi-urban areas and pursued different models for sustainability. We’ll delve into the approaches the partners have pursued to keep community center doors open once initial financial support from the U.S. Agency for International Development and Microsoft ended.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Mar 2024 08:18:00 -0400</pubDate>
+        <author>Lana Alnesany
+</author>
+        <link>https://dai-global-digital.com/can-digital-community-centers-be-sustainable.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/can-digital-community-centers-be-sustainable.html</guid>
+        
+        <category>digital economy</category>
+        
+        <category>Digital Gender Divide</category>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>digital divide</category>
+        
+        <category>Digital Literacy</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/2sm.jpg" medium="image" /> 
@@ -212,33 +241,6 @@
         <category>Cyber Security Series</category>
         
         <category>Cyber</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/goldsteinunsplash.jpg" medium="image" /> 
-        <title>Unlocking the Potential of Generative AI in Cybersecurity: A Roadmap to Opportunities and Challenges</title>
-        <description>&lt;p&gt;&lt;em&gt;This is the first in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Generative artificial intelligence (AI) is a fascinating field that is taking the world by storm. It is a cutting-edge technology that allows algorithms to create new and unique data, which was unimaginable just a few years ago. While traditional AI models are designed to recognize and classify existing patterns, generative AI models are trained to generate new patterns and unique output data. With generative AI, the possibilities are endless—&lt;a href=&quot;https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F&quot;&gt;MidJourney&lt;/a&gt; and &lt;a href=&quot;https://openai.com/dall-e-2&quot;&gt;DALL-E&lt;/a&gt; create art, and &lt;a href=&quot;https://chat.openai.com/auth/login&quot;&gt;ChatGPT&lt;/a&gt; writes compelling pieces of text that are nearly indistinguishable from those created by humans.&lt;/p&gt;
-
-&lt;p&gt;Imagine the potential of this technology in industries such as healthcare and cybersecurity, where it can be used to create new and innovative solutions to existing problems. The possibilities are truly endless, and we are only at the beginning of this exciting journey. However, despite offering exciting opportunities and applications in cybersecurity, generative AI comes with its challenges.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 05 Oct 2023 08:33:00 -0400</pubDate>
-        <author>Miriam Stankovich
-</author>
-        <link>https://dai-global-digital.com/unlocking-the-potential-of-generative-ai-in-cybersecurity-a-roadmap-to-opportunities-and-challenges.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/unlocking-the-potential-of-generative-ai-in-cybersecurity-a-roadmap-to-opportunities-and-challenges.html</guid>
-        
-        <category>Machine Learning</category>
-        
-        <category>AI</category>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Cyber Security Series</category>
         
         
       </item>
