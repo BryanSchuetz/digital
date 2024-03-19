@@ -9,7 +9,7 @@ tags:
 Author: Liljana Pecova-Ilieska
 ---
 
-In my country of North Macedonia and elsewhere, cyberattacks on our essential services are becoming increasingly multifaceted and intricate. To defend against them, diverse teams equipped with myriad perspectives are key to comprehensive cybersecurity problem solving. This diversity, however, does not exist in the cybersecurity field; women—who represent half of technology users—comprise only 25 percent of the global cybersecurity workforce and only 11 percent of information security jobs among the EU’s operators of essential services and digital service providers.
+In my country of North Macedonia and elsewhere, cyberattacks on our essential services are becoming increasingly multifaceted and intricate. To defend against them, diverse teams equipped with myriad perspectives are key to comprehensive cybersecurity problem solving. This diversity, however, does not exist in the cybersecurity field; women—who represent half of technology users—comprise only 25 percent of the global cybersecurity workforce and only 11 percent of information security jobs among the European Union’s operators of essential services and digital service providers.
 
 This disparity is concerning both as a matter of equity and security. A homogeneous workforce limits national capacity for cybersecurity problem solving. Furthermore, the underrepresentation of women in cyber career and academic pathways perpetuates gender stereotypes and may sway females from pursuing these pathways. When young women and girls see a field dominated by one sex, it can unconsciously reinforce outdated beliefs about what they can or cannot achieve. This stunts the growth of countries’ cybersecurity workforces by narrowing the talent pool.
 
