@@ -13,9 +13,9 @@ Author: " Alexander Riabov"
 
 "Top Gun," the classic tale of fearless test pilot-turned-hero Maverick, pushed cinema boundaries with audiences back in 1986—so much so that, in the year following the movie’s box-office success, the U.S. Navy claimed its recruitment swelled by a massive 500 percent. How does this translate to cybersecurity where the global shortfall of cybersecurity workers has reached 4 million?
 
-We need a spark – with an energy equal to that iconic 80s flick – that could inspire future leaders to guide citizens and businesses alike on how they can mitigate cyber risks, implement comprehensive cybersecurity strategies, and increase their cyber resilience. While there is no silver bullet to solve the talent gap issue, the global shortfall speaks to a more urgent need to implement fresh and innovative methods that can inspire, encourage, and foster a new generation of cybersecurity talent.
+We need a spark—with an energy equal to that iconic '80s flick—that could inspire future leaders to guide citizens and businesses alike on how they can mitigate cyber risks, implement comprehensive cybersecurity strategies, and increase their cyber resilience. While there is no silver bullet to solve the talent gap issue, the global shortfall speaks to a more urgent need to implement fresh and innovative methods that can inspire, encourage, and foster a new generation of cybersecurity talent.
 
-Have you read?
+
 What does 2024 have in store for the world of cybersecurity?
 Cybersecurity is a social issue. Here's how we get young people to rally for it
 Is this how to build a more inclusive cybersecurity strategy?
