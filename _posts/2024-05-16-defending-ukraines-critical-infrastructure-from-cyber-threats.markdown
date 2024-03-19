@@ -11,7 +11,7 @@ Modern wars reach far beyond trenches and tanks to include political, informatio
 
 Given the digitalization of the modern networked economy, cyberattacks are a particularly potent weapon, and Ukraine has been the testing ground for Russia’s cyber warfare since the annexation of the Crimean Peninsula and initial invasion in 2014, with attacks focused on the banking system, government agencies, and critical infrastructure. 
 
-
+<!--more-->
 
 Russia’s full-scale invasion of Ukraine in 2022 precipitated a sharp increase in the frequency and scope of these attacks. For example, Russia’s attempts to breach the IT perimeter of the key electricity transmission system operator in Ukraine—Ukrenergo—tripled compared to peacetime, and the Computer Emergency Response Team of Ukraine (CERT-UA) detected 1,123 cyberattacks in the first six months of Russia’s full-scale invasion. Targeted, large-scale cyberattacks on IT infrastructure continue to number in the hundreds, and phishing campaigns remain prevalent. Ukrainian telecommunications company Kyivstar notes that by late 2022, the number of phishing attacks attempting to infiltrate their networks had tripled, while distributed-denial-of-service (DDoS) attacks aimed at overwhelming their websites doubled.  
 
