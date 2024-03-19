@@ -1,5 +1,5 @@
 ---
-title: Here's how to harness the Top Gun effect to find the next generation of cyber
+title: Here’s how to harness the Top Gun effect to find the next generation of cyber
   talent
 date: 2024-04-11 08:09:00 -04:00
 published: false
@@ -15,14 +15,11 @@ Author: " Alexander Riabov"
 
 We need a spark—with an energy equal to that iconic '80s flick—that could inspire future leaders to guide citizens and businesses alike on how they can mitigate cyber risks, implement comprehensive cybersecurity strategies, and increase their cyber resilience. While there is no silver bullet to solve the talent gap issue, the global shortfall speaks to a more urgent need to implement fresh and innovative methods that can inspire, encourage, and foster a new generation of cybersecurity talent.
 
-
-What does 2024 have in store for the world of cybersecurity?
-Cybersecurity is a social issue. Here's how we get young people to rally for it
-Is this how to build a more inclusive cybersecurity strategy?
 As tomorrow’s cyber challenges beg for tomorrow’s pros, here are a few suggestions on how to inspire those with a passion for protecting their communities to pursue cybersecurity as a viable and (cool) gig:
 
-1. Harness pop culture to prove why cyber matters
-Cybersecurity in popular media – whether it be through creative live-streamers broadcasting via the likes of Twitch, social media influencers, or features on Primetime – can frame societal problems into clear arguments for why cybersecurity matters.
+### 1. Harness pop culture to prove why cyber matters
+
+Cybersecurity in popular media—whether it be through creative live-streamers broadcasting via the likes of Twitch, social media influencers, or features on Primetime—can frame societal problems into clear arguments for why cybersecurity matters.
 
 Take the Only Mine campaign as an example. In efforts to make cybersecurity more relatable to young minds in Mongolia, USAID’s Digital Asia Accelerator, implemented by DAI’s Digital Frontiers, worked with recording artists GangBay and Hishigdalai to release Miniih, a hip-hop track emphasizing the need to respect online privacy in loving relationships. Capitalizing on Mongolia’s mainstream music scene, this anthem generated an audience reach of over 1.7 million views on YouTube.
 
