@@ -7,6 +7,8 @@ tags:
 - Cybersecurity
 - digital economy
 Author: " Alexander Riabov"
+social-image: "/uploads/Space%20Apps%20Bogota%CC%81-11.jpg"
+thumbnail: "/uploads/Space%20Apps%20Bogota%CC%81-11.jpg"
 ---
 
 *This [post](https://www.weforum.org/agenda/2024/02/cybersecurity-talent-next-generation/) first appeared on the World Economic Forum blog.*
