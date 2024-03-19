@@ -45,6 +45,8 @@ Imagine spotting an app vulnerability and getting paid for it. The expansion of 
 
 Yet, it's not only about the software aspect that can allow rookies to get a taste of what it means to be in cyber. University programs such as the [Wai Kid Digital Challenge in Thailand](https://dai-global-digital.com/five-fresh-tips-to-make-digital-safety-cool-again-a-case-study-from-thailand.html) allow students to rub shoulders with leading digital technology companies and gain valuable professional skills. In this case, student teams created captivating video content with Facebook around digital safety concerns in the country. With six selected teams showcasing their work at the Wai Kid Digital celebration summit in Bangkok, many participants [testified](https://dai-global-digital.com/5-secret-sauces-for-your-next-digital-safety-campaign-insights-from-thailand.html) to gaining the skills, credibility, and confidence to apply for their next role.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q899vRM_0MA?si=GqzHMe7VqBdTHgGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### 4. Insist That it’s Not Just About Technical Skills
 
 It’s a common misconception that cybersecurity professions require a computer engineering degree. Yet, a skills-first approach that values a person’s skills and competencies—rather than degrees, job histories, or job titles—can democratize access to new technology opportunities previously considered unreachable by many professionals worldwide.
