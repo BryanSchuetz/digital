@@ -21,7 +21,7 @@ We need a spark—with an energy equal to that iconic '80s flick—that could in
 
 As tomorrow’s cyber challenges beg for tomorrow’s pros, here are a few suggestions on how to inspire those with a passion for protecting their communities to pursue cybersecurity as a viable and (cool) gig:
 
-### 1. Harness Pop Culture to Prove why Cyber Matters
+### 1. Harness Pop Culture to Prove Why Cyber Matters
 
 Cybersecurity in popular media—whether through creative live-streamers broadcasting via the likes of Twitch, social media influencers, or features on "Primetime"—can frame societal problems into clear arguments for why cybersecurity matters.
 
@@ -41,7 +41,7 @@ And it's not only here where these engagements happen. Examples such as the [Asi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8trgznzHdQk?si=1w80Du6QKDrHsaEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 3. Demonstrate You can be one of the Good Guys and Still Make Money
+### 3. Demonstrate You Can Be One of the Good Guys and Still Make Money
 
 Imagine spotting an app vulnerability and getting paid for it. The expansion of corporate vulnerability [reward programs](https://hackerone.com/bug-bounty-programs)—which not only cover company products but ensure high-risk free software applications and libraries are included too—create new possibilities for young software novices to enhance their skill sets. By spotting bugs and reporting them to an application’s developer through these programs, ethical techies can simultaneously make some hard-earned cash for their efforts.
 
