@@ -2,6 +2,8 @@
 title: Defending Ukraine’s Critical Infrastructure from Cyber Threats
 date: 2024-05-16 07:42:00 -04:00
 published: false
+tags:
+- Cybersecurity
 Author: Lana Ramer
 social-image: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-221328.jpg"
 thumbnail: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-221328.jpg"
