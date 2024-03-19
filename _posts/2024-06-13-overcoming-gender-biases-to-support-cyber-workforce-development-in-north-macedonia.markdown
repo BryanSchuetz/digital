@@ -13,12 +13,15 @@ In my country of North Macedonia and elsewhere, cyberattacks on our essential se
 
 This disparity is concerning both as a matter of equity and security. A homogeneous workforce limits national capacity for cybersecurity problem solving. Furthermore, the underrepresentation of women in cyber career and academic pathways perpetuates gender stereotypes and may sway females from pursuing these pathways. When young women and girls see a field dominated by one sex, it can unconsciously reinforce outdated beliefs about what they can or cannot achieve. This stunts the growth of countries’ cybersecurity workforces by narrowing the talent pool.
 
+<!--more-->
+
 ## Built-in Social Biases at an Early Age 
 
 A pervasive narrative is present in North Macedonia from an early age for young girls. Teaching in primary and lower secondary schools, for example, is seen as ideal for women and young mothers as a career that would harmoniously blend with the responsibilities of managing a home and nurturing a family. Many young girls and women from my generation and those who have followed have been subtly—and sometimes not-so-subtly—directed toward careers viewed as “suitable” for women. We women continue to encounter these persistent social biases.
  
 Source: State Statistical Office of the Republic of North Macedonia (October 2023)
-Today’s shortage of women in cybersecurity can be addressed in part by motivating more girls and women to pursue this profession and more institutions—starting with schools—to help build these career pathways. For girls in North Macedonia, the road from childhood to a career in cybersecurity contains many impediments; today, the Cyber Pathways for Women (CPW) activity is confronting these obstacles. Cyber Pathways for Women is an activity of Critical Infrastructure Digitalization and Resilience (CIDR), a regional program funded by the U.S. Agency for International Development to develop cybersecurity in the Western Balkans, Black Sea region, and South Caucasus.
+
+Today’s shortage of women in cybersecurity can be addressed in part by motivating more girls and women to pursue this profession and more institutions—starting with schools—to help build these career pathways. For girls in North Macedonia, the road from childhood to a career in cybersecurity contains many impediments; today, the Cyber Pathways for Women (CPW) activity is confronting these obstacles. CPW is an activity of [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr), a regional program funded by the U.S. Agency for International Development to develop cybersecurity in the Western Balkans, Black Sea region, and South Caucasus, and led by DAI.
 
 ## Perceptions Steer Girls and Women Away from Cybersecurity
 
@@ -33,12 +36,14 @@ STEM education is an area ready for change in traditional gender roles. Long bef
 
 In the face of these curriculum overhauls, North Macedonia is grappling with misunderstandings regarding gender equality and witnessing the propagation of gender misinformation. This was notably evident in the capital of Skopje in June 2023 when several thousand protesters denounced the Draft Law on Gender Equality and amendments to the Law on Civil Registry as threatening traditional ideology. Within this context, CPW is conducting activities to attract women and girls into ICT- and cybersecurity-related career and academic pathways.
  
-Playing a cybersecurity board game at the February 6, 2024, Safer Internet Day event in Skopje. Photo: Ivan Popovic.
+![Picture1-6644ef.jpg](/uploads/Picture1-6644ef.jpg)`Playing a cybersecurity board game at the February 6, 2024, Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
 
-CPW’s approach to normalizing cyber pathways for women and girls
-Cyber Pathways for Women recently launched two task forces in North Macedonia— the STEM Teachers Task Force focused on primary and secondary education and the Academia Task Force for university technology professors. These aim to attract more girls and women into the cybersecurity academic pipeline.
+Normalizing Cyber Pathways for Women and Girls
+
+CPW recently launched two task forces in North Macedonia— the STEM Teachers Task Force focused on primary and secondary education and the Academia Task Force for university technology professors. These aim to attract more girls and women into the cybersecurity academic pipeline.
 
 CPW launched these task forces at events in October and December 2023 with approximately 40 total stakeholders, and both events produced encouraging takeaways, including: 
+
 * There is strong interest and need across North Macedonia’s education sector to bolster female participation in academic tracks relevant to cybersecurity.
 * Female role models can help motivate females’ interest and participation in cyber-related academics.
 * Task force members can help build the linkages (pathways) between cyber-aspirant females and employers seeking trained and qualified job applicants.
@@ -49,9 +54,12 @@ For example, as part of our February 6, 2024, Safer Internet Day event, CPW and 
 
 I believe that through this initiative, we inspired young girls to consider cyber-workforce career paths by providing a closer look at what they can anticipate. Additionally, we were honored at this event to host U.S. Ambassador to North Macedonia Angela P. Aggeler, which was a thrill for the students and everyone in attendance.
  
-U.S. Ambassador to North Macedonia Angela P. Aggeler and students at the February 6, 2024, Safer Internet Day event in Skopje. Photo: Ivan Popovic
+![Picture2-1fb4bc.jpg](/uploads/Picture2-1fb4bc.jpg)`U.S. Ambassador to North Macedonia Angela P. Aggeler and students at the Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
+
 While women and girls face many impediments to entering cybersecurity career pathways, these barriers are surmountable; in fact, it is good business for employers of all kinds—academic, government, private sector, critical infrastructure—to help break down these barriers to grow their respective pools for qualified cybersecurity job candidates.
+
 In addition to North Macedonia, Cyber Pathways for Women operates under the CIDR program in Serbia and has recently begun planning activities for Moldova. Each country’s activities aim to help develop well prepared women, more informed and supportive influencers and decision makers, and, ultimately, stronger cybersecurity workforces for protecting our essential services.
+
 For the rising generation, a good place to start this development is by breaking through the glass ceilings at our schools. The need is apparent—for example, in a 2023 CIDR survey of North Macedonia’s public institutions, 87 percent of respondents said they do not have enough skilled cybersecurity personnel at their institution.
 
 My country has a great opportunity to build its cybersecurity talent pool by expanding technology-focused academics to those whose technology potential has been underutilized. By growing the number of girls and young women entering and taking ICT- and cybersecurity-related coursework, North Macedonia will be helping to address the long-term demand of employers for qualified professionals who can secure their organizations from cyberattacks.
