@@ -3,6 +3,8 @@ title: Defending Ukraine’s Critical Infrastructure from Cyber Threats
 date: 2024-05-16 07:42:00 -04:00
 published: false
 Author: Lana Ramer
+social-image: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-221328.jpg"
+thumbnail: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-221328.jpg"
 ---
 
 Modern wars reach far beyond trenches and tanks to include political, informational, and cyberattacks designed to weaken the opponent and diminish its ability to resist. Peacemaking, reconstruction, and development work must account for all types of destabilizing efforts and operate in ways that not only mitigate the immediate damage but build sustainable and resilient systems for the future.  
@@ -48,4 +50,4 @@ On December 14, 2023, the Activity—in cooperation with the Ministry of Digital
 
 Cybersecurity is a fundamental part of that agenda, and the USAID Cybersecurity Activity looks forward to playing its part in Ukraine’s emergence as a leading player in this critical field. By helping Ukraine’s critical infrastructure defend itself against cyber-attacks, the Activity contributes to the country’s resiliency, prosperity, and safety, now and in the future.
 
-*Lana Ramer 
+*[Lana Ramer](https://www.linkedin.com/in/svitlana-ramer-68505a195/) is the Senior Manager of Communications for DAI's Ukraine Management Unit.*
