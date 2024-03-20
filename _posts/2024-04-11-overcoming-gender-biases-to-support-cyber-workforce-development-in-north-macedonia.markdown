@@ -27,10 +27,10 @@ Today’s shortage of women in cybersecurity can be addressed in part by motivat
 
 ## Perceptions Steer Girls and Women Away from Cybersecurity
 
-In North Macedonia, social norms influence children’s choices of educational fields and directly contribute to gender segregation within the labor market. In the 2020–2021 academic year, 65 percent of students enrolled in gymnasium (general high school) were girls, as were 73 percent of pupils studying health. On the other hand, in the more technical academic tracks, 68 percent of students studying agriculture and veterinary medicine, 95 percent studying mechanical engineering, and 85 percent studying electrical engineering were boys, according to UNWomen.org.
+In North Macedonia, social norms influence children’s choices of educational fields and directly contribute to gender segregation within the labor market. In the 2020–2021 academic year, 65 percent of students enrolled in gymnasium (general high school) were girls, as were 73 percent of pupils studying health. On the other hand, in the more technical academic tracks, 68 percent of students studying agriculture and veterinary medicine, 95 percent studying mechanical engineering, and 85 percent studying electrical engineering were boys, according to UN Women.
 Several surveys also indicate girls across North Macedonia may already have lower confidence in their digital skills than boys by age 15. In fact, when girls in primary school perform well in both STEM subjects (science, technology, engineering, and mathematics) and humanities (non-STEM subjects), girls tend to choose a humanities schedule for high school because they believe it will be easier for them to achieve higher grades.  
- 
-Source: State Statistical Office of the Republic of North Macedonia (October 2023)
+
+![2-Slide-1-copy-1.jpg](/uploads/2-Slide-1-copy-1.jpg)`Source: State Statistical Office of the Republic of North Macedonia (October 2023)`
 
 Despite the increasing enrollment of young women in tertiary education (see chart above), a concerning trend emerges as we lose women’s participation in the labor force after they complete their degrees. This often occurs when young women either prioritize starting a family or opt for jobs that ensure their sustenance and family support.
 
