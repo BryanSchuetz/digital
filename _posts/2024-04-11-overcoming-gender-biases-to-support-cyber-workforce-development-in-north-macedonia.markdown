@@ -20,8 +20,8 @@ This disparity is concerning both as a matter of equity and security. A homogene
 ## Built-in Social Biases at an Early Age 
 
 A pervasive narrative is present in North Macedonia from an early age for young girls. Teaching in primary and lower secondary schools, for example, is seen as ideal for women and young mothers as a career that would harmoniously blend with the responsibilities of managing a home and nurturing a family. Many young girls and women from my generation and those who have followed have been subtly—and sometimes not-so-subtly—directed toward careers viewed as “suitable” for women. We women continue to encounter these persistent social biases.
- 
-Source: State Statistical Office of the Republic of North Macedonia (October 2023)
+
+![chart 1.jpg](/uploads/chart%201.jpg)`Source: State Statistical Office of the Republic of North Macedonia (October 2023)`
 
 Today’s shortage of women in cybersecurity can be addressed in part by motivating more girls and women to pursue this profession and more institutions—starting with schools—to help build these career pathways. For girls in North Macedonia, the road from childhood to a career in cybersecurity contains many impediments; today, the Cyber Pathways for Women (CPW) activity is confronting these obstacles. CPW is an activity of [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr), a regional program funded by the U.S. Agency for International Development to develop cybersecurity in the Western Balkans, Black Sea region, and South Caucasus, and led by DAI.
 
