@@ -1,12 +1,14 @@
 ---
 title: Overcoming Gender Biases to Support Cyber Workforce Development in North Macedonia
-date: 2024-06-13 07:34:00 -04:00
+date: 2024-04-11 07:34:00 -04:00
 published: false
 tags:
 - Cybersecurity
 - Future of Work
 - Digital Gender Divide
 Author: Liljana Pecova-Ilieska
+social-image: "/uploads/picture1%20NM-235b84.jpg"
+thumbnail: "/uploads/picture1%20NM-235b84.jpg"
 ---
 
 In my country of North Macedonia and elsewhere, cyberattacks on our essential services are becoming increasingly multifaceted and intricate. To defend against them, diverse teams equipped with myriad perspectives are key to comprehensive cybersecurity problem solving. This diversity, however, does not exist in the cybersecurity field; women—who represent half of technology users—comprise only 25 percent of the global cybersecurity workforce and only 11 percent of information security jobs among the European Union’s operators of essential services and digital service providers.
@@ -36,9 +38,9 @@ STEM education is an area ready for change in traditional gender roles. Long bef
 
 In the face of these curriculum overhauls, North Macedonia is grappling with misunderstandings regarding gender equality and witnessing the propagation of gender misinformation. This was notably evident in the capital of Skopje in June 2023 when several thousand protesters denounced the Draft Law on Gender Equality and amendments to the Law on Civil Registry as threatening traditional ideology. Within this context, CPW is conducting activities to attract women and girls into ICT- and cybersecurity-related career and academic pathways.
  
-![Picture1-6644ef.jpg](/uploads/Picture1-6644ef.jpg)`Playing a cybersecurity board game at the February 6, 2024, Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
+![picture1 NM.jpg](/uploads/picture1%20NM.jpg)`Playing a cybersecurity board game at the Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
 
-Normalizing Cyber Pathways for Women and Girls
+## Normalizing Cyber Pathways for Women and Girls
 
 CPW recently launched two task forces in North Macedonia— the STEM Teachers Task Force focused on primary and secondary education and the Academia Task Force for university technology professors. These aim to attract more girls and women into the cybersecurity academic pipeline.
 
@@ -50,11 +52,11 @@ CPW launched these task forces at events in October and December 2023 with appro
 
 Both task forces will convene regularly in 2024 to plan and implement actions to support the building of cyber pathways from childhood to job market. This will include by utilizing CPW’s baseline research and stakeholder mapping to strategically engage decision makers in the cybersecurity workforce, develop gender-inclusive curricula, establish mentorships, launch behavior change campaigns for parents and communities, and facilitate dialogue on creating inclusive policies, including ones to address gender-based harassment and violence, an area in which young women and families have shown particular interest.
 
-For example, as part of our February 6, 2024, Safer Internet Day event, CPW and the STEM Teachers Task Force brought together young students and cyber women champions at the Creative Center Karposh, an extracurricular learning center in Skopje for motivated students and teachers. The students and champions met face to face in a session titled Meet the Professional. As a CPW manager, I felt rewarded to see how we matched the secondary school students and women professionals from different cyber-related organizations. This activity offered female students a unique opportunity to interact with women cyber professionals from various cybersecurity domains and ask questions about their working pathways and challenges. 
+For example, as part of our Safer Internet Day event, CPW and the STEM Teachers Task Force brought together young students and cyber women champions at the Creative Center Karposh, an extracurricular learning center in Skopje for motivated students and teachers. The students and champions met face to face in a session titled Meet the Professional. As a CPW manager, I felt rewarded to see how we matched the secondary school students and women professionals from different cyber-related organizations. This activity offered female students a unique opportunity to interact with women cyber professionals from various cybersecurity domains and ask questions about their working pathways and challenges. 
 
 I believe that through this initiative, we inspired young girls to consider cyber-workforce career paths by providing a closer look at what they can anticipate. Additionally, we were honored at this event to host U.S. Ambassador to North Macedonia Angela P. Aggeler, which was a thrill for the students and everyone in attendance.
  
-![Picture2-1fb4bc.jpg](/uploads/Picture2-1fb4bc.jpg)`U.S. Ambassador to North Macedonia Angela P. Aggeler and students at the Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
+![Picture 2 NM.jpg](/uploads/Picture%202%20NM.jpg)`U.S. Ambassador to North Macedonia Angela P. Aggeler and students at the Safer Internet Day event in Skopje. Photo: Ivan Popovic.`
 
 While women and girls face many impediments to entering cybersecurity career pathways, these barriers are surmountable; in fact, it is good business for employers of all kinds—academic, government, private sector, critical infrastructure—to help break down these barriers to grow their respective pools for qualified cybersecurity job candidates.
 
