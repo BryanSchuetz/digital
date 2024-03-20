@@ -1,7 +1,7 @@
 ---
 title: Here’s how to harness the Top Gun effect to find the next generation of cyber
   talent
-date: 2024-04-11 08:09:00 -04:00
+date: 2024-05-16 08:09:00 -04:00
 published: false
 tags:
 - Cybersecurity
