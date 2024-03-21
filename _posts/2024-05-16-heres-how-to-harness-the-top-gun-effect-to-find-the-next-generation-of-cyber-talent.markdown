@@ -1,6 +1,6 @@
 ---
-title: Here’s how to harness the Top Gun effect to find the next generation of cyber
-  talent
+title: Here’s How to Harness the Top Gun Effect to Find the Next Generation of Cyber
+  Talent
 date: 2024-05-16 08:09:00 -04:00
 published: false
 tags:
