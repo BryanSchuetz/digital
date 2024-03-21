@@ -17,6 +17,8 @@ thumbnail: "/uploads/Space%20Apps%20Bogota%CC%81-11.jpg"
 
 We need a spark—with an energy equal to that iconic '80s flick—that could inspire future leaders to guide citizens and businesses alike on how they can mitigate cyber risks, implement comprehensive cybersecurity strategies, and increase their cyber resilience. While there is no silver bullet to solve the talent gap issue, the global shortfall speaks to a more urgent need to implement fresh and innovative methods that can inspire, encourage, and foster a new generation of cybersecurity talent.
 
+![Space Apps Bogotá-11-3f54e6.jpg](/uploads/Space%20Apps%20Bogota%CC%81-11-3f54e6.jpg)`Photo: USAID Colombia.`
+
 <!--more-->
 
 As tomorrow’s cyber challenges beg for tomorrow’s pros, here are a few suggestions on how to inspire those with a passion for protecting their communities to pursue cybersecurity as a viable and (cool) gig:
