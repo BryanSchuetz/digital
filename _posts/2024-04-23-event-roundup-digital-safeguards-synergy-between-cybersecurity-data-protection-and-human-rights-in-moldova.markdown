@@ -19,13 +19,13 @@ DAI recently brought together stakeholders in Chisinau, Moldova, from across the
 
 [Catalina Plinschi](https://www.linkedin.com/in/plinschi-catalina-5b410617a/?originalSubdomain=md), State Secretary of the Ministry of Economic Development and Digitalization, delivered a keynote address that outlined the Government's 2023-2030 Digital Transformation Strategy. She underscored the Government's commitment to citizen-centric public services and to the creation of a digital state. Importantly, she highlighted the delicate balance between ambitious goals and human rights, ensuring the provision of a secure, rights-respecting digital future.
 
-![dai_forum-29.jpg](/uploads/dai_forum-29.jpg)`Catalina Plinschi gives a keynote address. Photo: Alina Rudachevschi Photography.`
+![dai_forum-29 (1).jpg](/uploads/dai_forum-29%20(1).jpg)`Catalina Plinschi gives a keynote address. Photo: Alina Rudachevschi Photography.`
 
 The next speaker was [Julian Ringhof](https://ecfr.eu/profile/julian-ringhof/), Policy Officer at the European Commission's DG Connect. Julian began by saying that the starting point for digitalization should be human rights. He noted that for all the opportunities for access to information and freedom of speech that online platforms facilitate, they also might do harm and can put fundamental rights at risk in the digital environment. He said that for there to be no trade-off between fundamental human rights and the use of technology platforms, there must be an independent regulator grounded in principles of transparency and human rights. Julian spoke about how the [EU Digital Services Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en) (DSA) enshrines the European Digital Rights and Principles into law, safeguards fundamental rights on digital services, and improves online safety.
 
 [Marina Bzovii](https://www.linkedin.com/in/marina-bzov%C3%AEi-107242153/), Executive Director of the Moldovan Association of ICT Companies, highlighted the importance of the EU [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/) and DSA for ensuring human rights are at the core of digitalization efforts, and particularly the importance of having an independent regulator in such a challenging time geopolitically. However, she noted that rules and regulations must be adapted for different contexts. In particular, she urged attendees to consider the size of the market, as there is a balance to be made between imposing stringent rules and not disincentivizing investment in Moldova.
 
-![dai_forum-55.jpg](/uploads/dai_forum-55.jpg)`Dr. Miriam Stankovich moderates a panel discussion. Photo: Alina Rudachevschi Photography.`
+![dai_forum-74 (1).jpg](/uploads/dai_forum-74%20(1).jpg)`Dr. Miriam Stankovich moderates a panel discussion. Photo: Alina Rudachevschi Photography.`
 
 [Vitalie Levinta](https://www.linkedin.com/in/vitalie-levinta-5b164422/?originalSubdomain=md) and [Constantin Postica](https://www.linkedin.com/in/constantin-postica-8bb95b66/?originalSubdomain=uk), of the DAI-led [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program, funded by the U.S. Agency for International Development (USAID), agreed on the need for independent regulation of the online space but noted that this has to come with awareness and education to make meaningful changes. They asserted that there should be a collaborative approach to the protection of human rights in the digital age. There may be a lack of specialists in cybersecurity in Moldova (and indeed globally), but everyone has a role to play in protecting data and systems.
 
@@ -35,6 +35,6 @@ Representatives from civil society agreed about the importance of taking a human
 
 Panelists resoundingly agreed that a collaborative, multi-stakeholder approach is vital to ensuring that Moldova's ongoing digital transformation aligns with international best practices, safeguards citizens' rights, and strengthens national security.
 
-![dai_forum-7.jpg](/uploads/dai_forum-7.jpg)`Attendees network before the panel. Photo: Alina Rudachevschi Photography.`
+![dai_forum-7 (1).jpg](/uploads/dai_forum-7%20(1).jpg)`Attendees network before the panel. Photo: Alina Rudachevschi Photography.`
 
 *Thank you to all our speakers and guests. We also thank [Anand Varghese](https://www.dai.com/who-we-are/our-team/anand-varghese) and [Miriam Stankovich](https://www.dai.com/who-we-are/our-team/miriam-stankovich) for their event moderation and [Svetlana Gore](https://www.linkedin.com/in/svetlana-gore-3767781b0/?originalSubdomain=md) for her support organizing this event.*
