@@ -13,6 +13,8 @@ thumbnail: "/uploads/sm%20Kosovo%20CSA%20blog%201.jpg"
 
 In early 2022, the Government of Kosovo, with the support of the U.S. Agency for International Development (USAID)'s [Critical Infrastructure Digitalization and Resilience (CIDR)](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr) program, launched Kosovo’s Critical Infrastructure Cybersecurity Working Group (CICWG). This working group, led by the Prime Minister’s office and facilitated by CIDR, brings together stakeholders across the public and private sectors, academia, and civil society to discuss and recommend ways to bolster the cyber resilience of critical infrastructure. 
 
+<!--more-->
+
 The group’s work has been invaluable. In less than two years, while supporting the passage of Kosovo’s first-ever comprehensive [Law on Cybersecurity](https://qkss.org/al/publikimet/kosovos-take-on-cybersecurity#:~:text=In%202023%20Kosovo%20Assembly%20adopted,on%20attacks%20against%20information%20systems.), the Kosovo CICWG led the drafting of complementary bylaws that will help operationalize the law for specific critical infrastructure sectors and key institutions. This is an important milestone in the evolution of Kosovo’s cyber resilience, especially because it coincides with the establishment of the Cybersecurity Agency—a single government entity responsible for proposing and implementing cybersecurity measures within Kosovo.
 
 ![Kosovo CSA blog 2.jpg](/uploads/Kosovo%20CSA%20blog%202.jpg)`CICWG preparing to engage in a tabletop exercise for addressing cybersecurity vulnerabilities and defensive options.`
