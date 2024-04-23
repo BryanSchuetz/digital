@@ -18,7 +18,7 @@ Like so many other countries, Moldova’s digital transformation journey is frau
 
 DAI recently brought together stakeholders in Chisinau, Moldova, from across the digital ecosystem for a roundtable discussion to foster a comprehensive dialogue on the intersection of digital transformation, cybersecurity, data protection, and human rights.  
 
-Catalina Plinschi, State Secretary of the Ministry of Economic Development and Digitalization, delivered a keynote address that outlined the Government's 2023-2030 Digital Transformation Strategy. She underscored the Government's commitment to citizen-centric public services and to the creation of a digital state. Importantly, she highlighted the delicate balance between ambitious goals and human rights, ensuring the provision of a secure, rights-respecting digital future. 
+[Catalina Plinschi](https://www.linkedin.com/in/plinschi-catalina-5b410617a/?originalSubdomain=md), State Secretary of the Ministry of Economic Development and Digitalization, delivered a keynote address that outlined the Government's 2023-2030 Digital Transformation Strategy. She underscored the Government's commitment to citizen-centric public services and to the creation of a digital state. Importantly, she highlighted the delicate balance between ambitious goals and human rights, ensuring the provision of a secure, rights-respecting digital future. 
 
 ![dai_forum-29.jpg](/uploads/dai_forum-29.jpg)`Photo: Alina Rudachevschi Photography.`
 
