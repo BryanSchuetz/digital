@@ -2,7 +2,6 @@
 title: 'Event Roundup. Digital Safeguards: Synergy between Cybersecurity, Data Protection,
   and Human Rights in Moldova'
 date: 2024-04-23 09:09:00 -04:00
-published: false
 tags:
 - Digital Transformation
 - Privacy
