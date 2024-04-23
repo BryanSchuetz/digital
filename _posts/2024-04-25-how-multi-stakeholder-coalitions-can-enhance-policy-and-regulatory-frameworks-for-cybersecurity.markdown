@@ -3,6 +3,9 @@ title: How Multi-Stakeholder Coalitions Can Enhance Policy and Regulatory Framew
   for Cybersecurity
 date: 2024-04-25 04:29:00 -04:00
 published: false
+tags:
+- Cybersecurity
+- Critical Infrastructure
 Author: Albulena Xhelili Berisha and Inta Plostins
 social-image: "/uploads/sm%20Kosovo%20CSA%20blog%201.jpg"
 thumbnail: "/uploads/sm%20Kosovo%20CSA%20blog%201.jpg"
