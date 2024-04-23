@@ -12,6 +12,7 @@ social-image: "/uploads/dai_forum-74.jpg"
 
 Like so many other countries around the world, Moldova’s digital transformation journey is fraught with challenges and opportunities. International human rights principles and regulations are highly valuable as the country develops its own legislation, yet local engagement is crucial in understanding the specific needs and concerns of Moldovan citizens and ensuring that digital transformation benefits everyone. 
  
+<!--more-->
 
 On April 8th, 2024, in Chisinau, Moldova, DAI brought together stakeholders from across the Moldovan digital ecosystem for a roundtable discussion, with the aim to foster a comprehensive dialogue on the intersection of digital transformation, cybersecurity, data protection, and human rights in Moldova.  
 
