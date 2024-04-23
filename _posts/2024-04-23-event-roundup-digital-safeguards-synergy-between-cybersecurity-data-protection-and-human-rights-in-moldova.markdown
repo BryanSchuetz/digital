@@ -38,4 +38,4 @@ Panelists resoundingly agreed that a collaborative, multi-stakeholder approach i
 
 ![dai_forum-7.jpg](/uploads/dai_forum-7.jpg)`Photo: Alina Rudachevschi Photography.`
 
-*Thank you to all our speakers and guests. We also thank [Anand Varghese](https://www.dai.com/who-we-are/our-team/anand-varghese) and [Miriam Stankovich](https://www.dai.com/who-we-are/our-team/miriam-stankovich) for their event moderation and [Svetlana Gore](https://www.linkedin.com/in/svetlana-gore-3767781b0/?originalSubdomain=md) for her support organizing this event. *
+*Thank you to all our speakers and guests. We also thank [Anand Varghese](https://www.dai.com/who-we-are/our-team/anand-varghese) and [Miriam Stankovich](https://www.dai.com/who-we-are/our-team/miriam-stankovich) for their event moderation and [Svetlana Gore](https://www.linkedin.com/in/svetlana-gore-3767781b0/?originalSubdomain=md) for her support organizing this event.*
