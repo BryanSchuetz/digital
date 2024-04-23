@@ -37,5 +37,6 @@ Through each presentation, panelists resoundingly agreed that a collaborative, m
 DAI hopes that, by bringing together diverse perspectives from the private sector, government, and civil society, the panel event will encourage much-needed collaboration that will continue beyond the roundtable.  
 
 ![dai_forum-7.jpg](/uploads/dai_forum-7.jpg)
+> Source: Alina Rudachevschi Photography
 
 *Thank you to all our speakers and guests for a brilliant, collaborative event. We also thank Anand Varghese and Miriam Stankovich for their event moderation and Ms Svetlana Gore for her support organizing this event. *
