@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Apr 2024 10:55:40 -0400</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2024 10:55:40 -0400</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2024 11:22:07 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2024 11:22:07 -0400</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/dai_forum-74.jpg" medium="image" /> 
+        <title>Digital Safeguards: Synergy between Cybersecurity, Data Protection, and Human Rights in Moldova</title>
+        <description>&lt;p&gt;Like so many other countries, Moldova’s digital transformation journey is fraught with challenges and opportunities. International human rights principles and regulations are highly valuable as the country develops its legislation, yet local engagement is crucial in understanding the specific needs and concerns of Moldovans and ensuring that digital transformation benefits everyone.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Apr 2024 09:09:00 -0400</pubDate>
+        <author>Chloe Carrington
+</author>
+        <link>https://dai-global-digital.com/event-roundup-digital-safeguards-synergy-between-cybersecurity-data-protection-and-human-rights-in-moldova.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/event-roundup-digital-safeguards-synergy-between-cybersecurity-data-protection-and-human-rights-in-moldova.html</guid>
+        
+        <category>Digital Transformation</category>
+        
+        <category>Privacy</category>
+        
+        <category>Digital Rights</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/picture1%20NM-235b84.jpg" medium="image" /> 
@@ -202,33 +223,6 @@
 </author>
         <link>https://dai-global-digital.com/4-key-takeaways-from-dais-cybersecurity-programs-in-southeast-asia-and-mongolia.html</link>
         <guid isPermaLink="true">https://dai-global-digital.com/4-key-takeaways-from-dais-cybersecurity-programs-in-southeast-asia-and-mongolia.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Cyber Security Series</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/sm%20kevin-ku_unsplash.jpg" medium="image" /> 
-        <title>What Have We Learned in the Past Five Years about Cybersecurity?</title>
-        <description>&lt;p&gt;&lt;em&gt;This is the third in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For digital development practitioners, cybersecurity is now in the digital development zeitgeist. Over the past five years or so, it has become an important standalone technical area, as well as a critical building block of all our interventions. In honor of Cybersecurity Awareness Month, I wanted to revisit Digital@DAI’s earliest posts about cybersecurity from 2018 to see how our initial thinking holds up against a 2023 mindset. Our first-ever series on cybersecurity introduced the concept of cybersecurity to digital development practitioners by doing three things:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dai-global-digital.com/cybersecurity-series-part-1-trust-is-why-cyber-security-matters-to-digital-development.html?utm_source=related-box&quot;&gt;Providing a technical explanation&lt;/a&gt; of cybersecurity and linking it to the concept of trust;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dai-global-digital.com/cyber-security-2.html&quot;&gt;Examining cybersecurity&lt;/a&gt; through the lens of regulations, skills, and institutions, aligned to the World Bank’s 2016 &lt;em&gt;&lt;a href=&quot;https://documents1.worldbank.org/curated/en/896971468194972881/pdf/102725-PUB-Replacement-PUBLIC.pdf&quot;&gt;Digital Dividends&lt;/a&gt;&lt;/em&gt; report, and;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dai-global-digital.com/cyber-security-series-part-3-pirated-software.html&quot;&gt;Examining the topic&lt;/a&gt; of pirated software at the micro level.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 19 Oct 2023 08:10:00 -0400</pubDate>
-        <author>Inta Plostins
-</author>
-        <link>https://dai-global-digital.com/what-have-we-learned-in-the-past-five-years-about-cybersecurity.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/what-have-we-learned-in-the-past-five-years-about-cybersecurity.html</guid>
         
         <category>Cybersecurity</category>
         
