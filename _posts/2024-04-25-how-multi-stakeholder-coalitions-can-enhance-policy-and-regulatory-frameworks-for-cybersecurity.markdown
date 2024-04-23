@@ -23,3 +23,8 @@ Given these recent successes, the government has recognized the CICWG as a key f
 
 ![Kosovo CSA blog 1.jpg](/uploads/Kosovo%20CSA%20blog%201.jpg)`Kosovo CICWG discussing national critical information infrastructure and risk scenarios in the health sector.`
 
+As Kurti noted in his remarks, a key element of the CICWG’s success is the active participation of a cross-section of Kosovo’s cybersecurity and critical infrastructure stakeholders. By bringing together critical infrastructure operators, cybersecurity companies, cybersecurity experts, and the Government of Kosovo (among other stakeholders) in a single recurring forum, the CICWG has created the space for these stakeholders to share their diverse viewpoints, talk through thorny issues, and build consensus around specific policies, laws, and regulations.  
+
+This approach also builds trust among Kosovo’s cybersecurity and critical infrastructure stakeholders, which helps reinforce Kosovo’s cyber resilience in the long term. These successful policy and regulatory reforms in Kosovo underscore the importance of multi-stakeholder engagements in cybersecurity policymaking and serve as an important model for other countries seeking to establish or modernize policies, laws, and regulations on cybersecurity for critical infrastructure.  
+
+*[Albulena Xhelili Berisha](https://bcrpub.com/albulena-xhelili-berisha-phd) is the CIDR/Kosovo Country Director and [Inta Plostins](https://www.dai.com/who-we-are/our-team/inta-plostins) is a Senior Digital Specialist with DAI’s Center for Digital Acceleration.*
