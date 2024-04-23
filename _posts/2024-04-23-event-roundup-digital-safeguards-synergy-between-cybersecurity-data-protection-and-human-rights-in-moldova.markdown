@@ -1,7 +1,8 @@
 ---
-title: 'Event Roundup. Digital Safeguards: Synergy between Cybersecurity, Data Protection,
-  and Human Rights in Moldova'
+title: 'Digital Safeguards: Synergy between Cybersecurity, Data Protection, and Human
+  Rights in Moldova'
 date: 2024-04-23 09:09:00 -04:00
+published: false
 tags:
 - Digital Transformation
 - Privacy
@@ -10,13 +11,13 @@ Author: Chloe Carrington
 social-image: "/uploads/dai_forum-74.jpg"
 ---
 
-Like so many other countries around the world, Moldova’s digital transformation journey is fraught with challenges and opportunities. International human rights principles and regulations are highly valuable as the country develops its own legislation, yet local engagement is crucial in understanding the specific needs and concerns of Moldovan citizens and ensuring that digital transformation benefits everyone. 
+Like so many other countries, Moldova’s digital transformation journey is fraught with challenges and opportunities. International human rights principles and regulations are highly valuable as the country develops its own legislation, yet local engagement is crucial in understanding the specific needs and concerns of Moldovan citizens and ensuring that digital transformation benefits everyone. 
  
 <!--more-->
 
-On April 8th, 2024, in Chisinau, Moldova, DAI brought together stakeholders from across the Moldovan digital ecosystem for a roundtable discussion, with the aim to foster a comprehensive dialogue on the intersection of digital transformation, cybersecurity, data protection, and human rights in Moldova.  
+DAI recently brought together stakeholders in Chisinau, Moldova, from across the digital ecosystem for a roundtable discussion to foster a comprehensive dialogue on the intersection of digital transformation, cybersecurity, data protection, and human rights.  
 
-Ms Catalina Plinschi, State Secretary, Ministry of Economic Development and Digitalization, delivered a keynote address that outlined the Government's 2023-2030 Digital Transformation Strategy. She underscored the Government of Moldova's commitment to citizen-centric public services and the creation of a digital state. Importantly, she highlighted the delicate balance between ambitious goals and human rights, ensuring the provision of a secure, rights-respecting digital future. 
+Catalina Plinschi, State Secretary, Ministry of Economic Development and Digitalization, delivered a keynote address that outlined the Government's 2023-2030 Digital Transformation Strategy. She underscored the Government of Moldova's commitment to citizen-centric public services and the creation of a digital state. Importantly, she highlighted the delicate balance between ambitious goals and human rights, ensuring the provision of a secure, rights-respecting digital future. 
 ![dai_forum-29.jpg](/uploads/dai_forum-29.jpg)
 > Source: Alina Rudachevschi Photography
 
