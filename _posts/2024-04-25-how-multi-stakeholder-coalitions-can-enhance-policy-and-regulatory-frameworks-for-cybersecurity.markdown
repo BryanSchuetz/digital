@@ -15,7 +15,7 @@ In early 2022, the Government of Kosovo, with the support of the U.S. Agency for
 
 <!--more-->
 
-The group’s work has been invaluable. In less than two years, while supporting the passage of Kosovo’s first-ever comprehensive [Law on Cybersecurity](https://qkss.org/al/publikimet/kosovos-take-on-cybersecurity#:~:text=In%202023%20Kosovo%20Assembly%20adopted,on%20attacks%20against%20information%20systems.), the Kosovo CICWG led the drafting of complementary bylaws that will help operationalize the law for specific critical infrastructure sectors and key institutions. This is an important milestone in the evolution of Kosovo’s cyber resilience, especially because it coincides with the establishment of the Cybersecurity Agency—a single government entity responsible for proposing and implementing cybersecurity measures within Kosovo.
+The group’s work has been invaluable. In less than two years, while supporting the passage of Kosovo’s first-ever comprehensive [Law on Cybersecurity](https://gzk.rks-gov.net/ActDetail.aspx?ActID=70933), the Kosovo CICWG led the drafting of complementary bylaws that will help operationalize the law for specific critical infrastructure sectors and key institutions. This is an important milestone in the evolution of Kosovo’s cyber resilience, especially because it coincides with the establishment of the Cybersecurity Agency—a single government entity responsible for proposing and implementing cybersecurity measures within Kosovo.
 
 ![Kosovo CSA blog 2.jpg](/uploads/Kosovo%20CSA%20blog%202.jpg)`CICWG preparing to engage in a tabletop exercise for addressing cybersecurity vulnerabilities and defensive options.`
 
@@ -32,4 +32,4 @@ As Kurti noted in his remarks, a key element of the CICWG’s success is the act
 
 This approach also builds trust among Kosovo’s cybersecurity and critical infrastructure stakeholders, which helps reinforce Kosovo’s cyber resilience in the long term. These successful policy and regulatory reforms in Kosovo underscore the importance of multi-stakeholder engagements in cybersecurity policymaking and serve as an important model for other countries seeking to establish or modernize policies, laws, and regulations on cybersecurity for critical infrastructure.  
 
-*[Albulena Xhelili Berisha](https://bcrpub.com/albulena-xhelili-berisha-phd) is the CIDR/Kosovo Country Director and [Inta Plostins](https://www.dai.com/who-we-are/our-team/inta-plostins) is a Senior Digital Specialist with DAI’s Center for Digital Acceleration.*
+*[Albulena Xhelili Berisha](https://www.linkedin.com/in/axhb-48712b58/) is the CIDR/Kosovo Country Director and [Inta Plostins](https://www.dai.com/who-we-are/our-team/inta-plostins) is a Senior Digital Specialist with DAI’s Center for Digital Acceleration.*
