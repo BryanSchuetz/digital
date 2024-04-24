@@ -1,6 +1,6 @@
 ---
-title: How Multi-Stakeholder Coalitions Can Enhance Policy and Regulatory Frameworks
-  for Cybersecurity
+title: 'Lessons from Kosovo: How Multi-Stakeholder Coalitions Can Enhance Policy and
+  Regulatory Frameworks for Cybersecurity'
 date: 2024-04-25 04:29:00 -04:00
 published: false
 tags:
