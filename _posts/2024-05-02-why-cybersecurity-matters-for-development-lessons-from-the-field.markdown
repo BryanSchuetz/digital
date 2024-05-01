@@ -2,6 +2,9 @@
 title: 'Why Cybersecurity Matters for Development: Lessons from the Field'
 date: 2024-05-02 07:20:00 -04:00
 published: false
+tags:
+- Cybersecurity
+- Critical Infrastructure
 Author: By Rachel Chang, Douglas White, and Charles Coon
 ---
 
@@ -46,3 +49,15 @@ Under CIDR, USAID’s Cyber Pathways for Women activity in Serbia and North Mace
 Through the USAID Cybersecurity Activity, USAID addresses Ukraine’s workforce gaps by [enhancing educational programs](https://dai-global-developments.com/articles/defending-ukraines-critical-infrastructure-from-cyber-threats/), nurturing new talent, and promoting the National Cybersecurity Workforce Framework in line with National Institute of Standards & Technology (NIST) standards. This is essential to build a robust defense in Ukraine against sophisticated cyber threats. To build practical cybersecurity skills, the USAID Cybersecurity Activity provided the Kyiv Polytechnic Institute with 30 licenses to HackTheBox, a gamified cybersecurity upskilling, certification, and talent assessment tool. HackTheBox enables students to hone their skills in analyzing the security of network systems such as network vulnerability assessment and network penetration testing on virtual machines. 
 
 ![MicrosoftTeams-image (15).png](/uploads/MicrosoftTeams-image%20(15).png)`Representatives in Ukraine from displaced Ukrainian higher education institutions that received donated software and IT equipment. Photo: USAID Cybersecurity Activity.`
+
+In addition, the USAID Cybersecurity Activity addressed the urgent equipment and software needs of 25 higher educational institutions (HEIs) displaced or damaged by Russia’s invasion of Ukraine to facilitate both in-person and remote learning. In January 2024, to enhance the practical knowledge of students and align academic curricula with industry needs, the USAID Cybersecurity Activity launched an internship program for undergraduate students in collaboration with state-owned enterprises, private companies, and partner HEIs to develop a new generation of cybersecurity professionals.
+
+**Join USAID for two sessions at RSA Conference 2024:**
+
+1. On May 6, USAID will host a [panel discussion](https://www.rsaconference.com/USA/agenda/session/Bear%20Necessities%20Ukraines%20Experience%20Facing%20APTs%20Building%20Resilience) sharing firsthand experience from Ukraine in building cybersecurity preparedness, response, recovery, and resilience. The panel will feature USAID Ukraine Digital Development Advisor Maksym Darkin and members of the Ukrainian government directly involved in cybersecurity incident response. This panel highlights important voices and inside stories from the battlefront as they share perspectives on what can be accomplished and how cybersecurity resilience can be made operational.
+
+1. On May 8, the CIDR team will lead an [interactive learning lab game](https://www.rsaconference.com/usa/agenda/session/Cyberattacks%20To%20the%20Rail%20Banks%20Grid%20Government%20What%20Would%20You%20Do) where participants become critical infrastructure cyber-controls operators. Drawing from CIDR’s tabletop exercises, players will encounter cyberattack scenarios and—while working within a fixed budget—make management and operational decisions based on the threat environment that will save or sink their company while learning critical leadership skills on planning, budgeting, hiring, and training to increase their company’s cyber resilience. 
+
+Register [here](https://www.rsaconference.com/usa/passes-and-rates) to attend RSA Conference. 
+
+*[Rachel Chang](https://www.dai.com/who-we-are/our-team/rachel-chang) is Digital Specialist with DAI’s Center for Digital Acceleration; [Douglas White](https://www.linkedin.com/in/douglasbwhite/) is Technical Director for the USAID Cybersecurity for Critical Infrastructure in Ukraine Activity; [Charles Coon](https://www.linkedin.com/in/charles-coon-5a92a54/) is Senior Communications Manager for the Critical Infrastructure Digitalization and Resilience program.*
