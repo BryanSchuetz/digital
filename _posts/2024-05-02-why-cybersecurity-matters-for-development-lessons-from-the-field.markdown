@@ -12,6 +12,8 @@ In December 2023, millions of Ukrainians lost cell phone service for days becaus
 
 Countries are increasingly adopting digital technologies to deliver essential services and advance sustainable development. This creates new entry points for malign actors to utilize cyberattacks for motives such as financial gain or political protest or to destabilize governments. Sophisticated attacks render governments unable to provide necessary services for citizens, fulfill financial transactions, and issue the routine authorities that keep municipal and central government functioning.
 
+<!--more-->
+
 Cyberattacks by state actors conducted against government and critical infrastructure expose and steal sensitive data; disrupt industrial control systems; and disable vital services such as water, power, and heat. A nation’s ability to withstand the novel, complex attacks of today and recover smartly from successful attacks provides compelling sustainability lessons for the development community.
 
 This is especially true in Eastern Europe, where countries face cyberattacks both as part of Russia’s invasion of Ukraine and by other malign actors. At the May 6–9 [RSA Conference](https://www.rsaconference.com/) in San Francisco, two U.S. Agency for International Development (USAID) projects will host sessions drawing on country-level experiences to demonstrate the importance of cybersecurity as a development priority.
