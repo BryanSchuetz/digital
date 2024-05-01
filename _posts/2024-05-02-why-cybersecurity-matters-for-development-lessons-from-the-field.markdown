@@ -18,7 +18,7 @@ Cyberattacks by state actors conducted against government and critical infrastru
 
 This is especially true in Eastern Europe, where countries face cyberattacks both as part of Russia’s invasion of Ukraine and by other malign actors. At the May 6–9 [RSA Conference](https://www.rsaconference.com/) in San Francisco, two U.S. Agency for International Development (USAID) projects will host sessions drawing on country-level experiences to demonstrate the importance of cybersecurity as a development priority.
 
-![MicrosoftTeams-image (16).png](/uploads/MicrosoftTeams-image%20(16).png)`Preparing equipment for the Internet Association of Ukraine. Photo: USAID Ukraine.`
+![MicrosoftTeams-image (16).png](/uploads/MicrosoftTeams-image%20(16).png)`Repairing equipment for the Internet Association of Ukraine. Photo: USAID Ukraine.`
 
 ## Cyberattacks Target Critical Services for Everyone
 
