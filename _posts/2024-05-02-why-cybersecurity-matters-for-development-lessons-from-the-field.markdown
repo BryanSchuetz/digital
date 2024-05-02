@@ -42,7 +42,7 @@ In 2023 in Ukraine, USAID in cooperation with the Ministry of Digital Transforma
 
 Public-private partnerships can broaden cybersecurity awareness. International exchanges such as RSA Conference 2024 present opportunities to engage new partners for international cybersecurity development. Forums such as the RSA Conference connect private companies and leaders in the information technology and security industry with donor governments, non-profit organizations, and other stakeholders to break down silos and forge partnerships to advance common goals. 
 
-![EB Annual Report 1 copy.jpeg](/uploads/EB%20Annual%20Report%201%20copy.jpeg)`CIDR cyber tabletop exercise with STEM students in North Macedonia. Photo: USAID CIDR.`
+![EB Annual Report 1 copy.jpeg](/uploads/EB%20Annual%20Report%201%20copy.jpeg)`Cyber Pathways for Women organized a tabletop exercise for STEM students in Skopje, North Macedonia. Photo: USAID CIDR.`
 
 ## Nurturing Cybersecurity Workforce Growth
 
