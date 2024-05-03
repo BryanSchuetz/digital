@@ -1,7 +1,6 @@
 ---
 title: 'Why Cybersecurity Matters for Development: Lessons from the Field'
 date: 2024-05-03 07:20:00 -04:00
-published: false
 tags:
 - Cybersecurity
 - Critical Infrastructure
