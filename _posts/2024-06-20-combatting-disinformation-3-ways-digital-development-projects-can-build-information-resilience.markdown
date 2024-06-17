@@ -10,7 +10,9 @@ The rapid spread of false or misleading information on social media platforms un
  
 Social media platforms have been especially weaponized to spread disinformation. There is a higher probability of false information going viral because algorithms are designed to maximize controversial content as it is more likely to generate likes and shares, resulting in disinformation spreading at an alarming rate.
  
-Digital development projects can mitigate the effects of disinformation by designing programs with these risks in mind. Below, I explore three steps organizations can take to mitigate the negative effects of disinformation and build information resilience. 
+Digital development projects can mitigate the effects of disinformation by designing programs with these risks in mind. Below, we explore three steps organizations can take to mitigate the negative effects of disinformation and build information resilience. 
+
+<!--more-->
 
 ## Increase the Capacity of Fact-Checking Organizations
 
