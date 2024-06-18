@@ -45,7 +45,7 @@ In addition to incorporating social media analytics into their activities, devel
 
 Considering the rapid growth of the global digital ecosystem, it is also important to incorporate digital safety awareness and training in development programming. USAID’s Digital Asia Accelerator, a project under the Digital Connectivity and Cybersecurity Partnership initiative, launched the [Wai Kid Digital University Challenge](https://www.usaid.gov/asia-regional/press-releases/may-27-2021-united-states-celebrates-young-leaders-digital-literacy) in Thailand. The initiative challenged university students to create and disseminate informational videos for the public to practice digital safety by learning how to spot fake information, keep their personal information safe online, and protect themselves from cyberbullying. Through this challenge, participants became more aware of the topic while championing digital safety and helped creatively educate the public.
 
-![USAID Conference, Day 1 -21st May 2024, -110.jpg](/uploads/USAID%20Conference,%20Day%201%20-21st%20May%202024,%20-110.jpg)`From the May "Countering Digital Threats to Democracy: Forging a Path to Responsible Digital Development" conference in Kenya.`
+![USAID Conference, Day 1 -21st May 2024, -110.jpg](/uploads/USAID%20Conference,%20Day%201%20-21st%20May%202024,%20-110.jpg)`From left, USAID grantees CABC, FactSpace, and MMA presenting at the “Countering Digital Threats to Democracy: Forging a Path to Responsible Digital Development” conference in Kenya.`
 
 ## Digital Rights are Human Rights
 
