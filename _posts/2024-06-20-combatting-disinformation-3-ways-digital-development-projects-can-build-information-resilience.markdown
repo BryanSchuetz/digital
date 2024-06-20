@@ -1,8 +1,7 @@
 ---
 title: 'Combatting Disinformation: 3 Ways Digital Development Projects Can Build Information
   Resilience'
-date: 2024-06-20 08:35:00 -04:00
-published: false
+date: 2024-06-20 08:25:00 -04:00
 tags:
 - Disinformation
 - Misinformation
