@@ -5,9 +5,36 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jun 2024 13:27:10 -0400</pubDate>
-    <lastBuildDate>Tue, 18 Jun 2024 13:27:10 -0400</lastBuildDate>
+    <pubDate>Thu, 20 Jun 2024 08:32:22 -0400</pubDate>
+    <lastBuildDate>Thu, 20 Jun 2024 08:32:22 -0400</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/sm%20.jpg" medium="image" /> 
+        <title>Combatting Disinformation: 3 Ways Digital Development Projects Can Build Information Resilience</title>
+        <description>&lt;p&gt;The rapid spread of false or misleading information on social media platforms undermines the progress of digital development. Disinformation is designed to manipulate facts, is often spread by undemocratic actors to advance their agendas, mislead the public, and can sow confusion around major events such as elections, conflicts, and epidemics. Government actors can also use disinformation to suppress opposition, threatening democratic processes.&lt;/p&gt;
+
+&lt;p&gt;Social media platforms have been especially weaponized to spread disinformation. There is a higher probability of false information going viral because algorithms are designed to maximize controversial content as it is more likely to generate likes and shares, resulting in disinformation spreading at an alarming rate.&lt;/p&gt;
+
+&lt;p&gt;Digital development projects can mitigate the effects of disinformation by designing programs with these risks in mind. Below, we explore three steps organizations can take to mitigate the negative effects of disinformation and build information resilience.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Jun 2024 08:25:00 -0400</pubDate>
+        <author>Lana Alnesany
+</author>
+        <link>https://dai-global-digital.com/combatting-disinformation-3-ways-digital-development-projects-can-build-information-resilience.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/combatting-disinformation-3-ways-digital-development-projects-can-build-information-resilience.html</guid>
+        
+        <category>Disinformation</category>
+        
+        <category>Misinformation</category>
+        
+        <category>Social Media</category>
+        
+        <category>Resilience</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Space%20Apps%20Bogota%CC%81-11.jpg" medium="image" /> 
@@ -202,27 +229,6 @@
         <category>digital</category>
         
         <category>governance</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/cover.png" medium="image" /> 
-        <title>Localizing Digital Public Goods</title>
-        <description>&lt;p&gt;&lt;em&gt;DAI is pleased to announce the release of its latest &lt;a href=&quot;https://www.dai.com/our-work/solutions/digital-acceleration-solutions/cda-insights&quot;&gt;CDA Insights&lt;/a&gt; paper, “&lt;a href=&quot;https://dai-assets.s3.amazonaws.com/Localizing%20Digital%20Public%20Goods.pdf&quot;&gt;Localizing Digital Public Goods&lt;/a&gt;.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Global donors and development implementers are increasingly aligned around the theory that digital investments are most effective and equitable when owned by local stakeholders who can leverage the full potential of digital technologies and data. They are also embracing an agenda of “localization” to prioritize local digital ownership, expertise, and leadership.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Dec 2023 08:41:00 -0500</pubDate>
-        <author>Christopher Neu, Talia Dweck, Anand Varghese
-</author>
-        <link>https://dai-global-digital.com/localizing-digital-public-goods.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/localizing-digital-public-goods.html</guid>
-        
-        <category>digital platforms</category>
-        
-        <category>Digital Transformation</category>
         
         
       </item>
