@@ -9,6 +9,7 @@ tags:
 - Digital Skills
 - Digital Rights
 - Future of Work
+- Digital Transformation
 Author: Chloe Carrington
 social-image: "/uploads/Computer%20training-e05e6e.png"
 thumbnail: "/uploads/Computer%20training-e05e6e.png"
