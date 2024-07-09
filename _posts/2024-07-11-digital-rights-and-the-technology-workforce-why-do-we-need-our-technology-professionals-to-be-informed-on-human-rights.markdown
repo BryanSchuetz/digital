@@ -3,8 +3,12 @@ title: 'Digital Rights and the Technology Workforce: Why Do We Need Our Technolo
   Professionals to be Informed on Human Rights?'
 date: 2024-07-11 07:31:00 -04:00
 published: false
-categories:
-- Digital Insights
+tags:
+- digital economy
+- ICT
+- Digital Skills
+- Digital Rights
+- Future of Work
 Author: Chloe Carrington
 social-image: "/uploads/Computer%20training-e05e6e.png"
 thumbnail: "/uploads/Computer%20training-e05e6e.png"
