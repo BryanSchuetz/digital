@@ -31,8 +31,6 @@ Actions taken by tech professionals can have implications for digital rights, wh
 
 These workers are making choices that impact, for example, how an individual’s personal data—and thus right to privacy—is protected; a choice on whether freedom of expression is protected on that platform; and a choice on how candidates are assessed against their peers in the hiring process. To protect digital rights, each of these workers must understand digital rights and the implications of their choices on these rights.  
 
-![20191130 - DI Office Photos-5-1d3b7d.jpg](/uploads/20191130%20-%20DI%20Office%20Photos-5-1d3b7d.jpg)`Photo: USAID Cambodia.`
-
 Of course, we need governments and the private sector to put in place policies and protocols that protect and uphold digital rights. The workforce can only operate within the bounds of their enabling environment. The workforce must understand what digital rights are, what it means to protect them, and how national legislation and international best practices apply to their work. This will support the workforce to make conscious decisions to protect the human rights of users, to the extent that it is in their control. This might look like:  
 
 * An IT staffer pushing management for privacy protocols on who can access data, who controls data, and how that data is used.  
@@ -42,7 +40,7 @@ Of course, we need governments and the private sector to put in place policies a
 
 Transformative technologies such as AI only increase the urgency to understand emerging risks and to build human rights into digital technologies from the design phase. As new technologies emerge, the ways in which rights can be violated online are ever-increasing. The tech workforce will need to understand how new technologies impact digital rights, not least those who are working on their development or implementation. 
 
-![Space Apps Bogotá-11-6b0106.jpg](/uploads/Space%20Apps%20Bogota%CC%81-11-6b0106.jpg)`Photo: USAID Colombia.` 
+![20191130 - DI Office Photos-5-1d3b7d.jpg](/uploads/20191130%20-%20DI%20Office%20Photos-5-1d3b7d.jpg)`Photo: USAID Cambodia.`
 
 ## How Informed is the Global Tech Workforce on Digital Rights? 
 
