@@ -19,6 +19,8 @@ We are in a digital revolution, from which governments, economies, and individua
 
 ![Computer training.png](/uploads/Computer%20training.png)`Photo: USAID Nigeria.`
 
+<!--more-->
+
 Digital skills are complex and multifaceted, and the skills needed in any given workforce can vary, from cybersecurity to critical thinking. I have been thinking about an emerging area of digital skills for the technology workforce: their linkage to digital rights. If tech professionals have skills gaps in this area, surely there will be implications not just for the economy, technological progress, and national security, but for the protection of digital rights. This post is one of a series about digital democracy. 
 
 ## Why is an Understanding of Human Rights so Vital for the Tech Workforce? 
