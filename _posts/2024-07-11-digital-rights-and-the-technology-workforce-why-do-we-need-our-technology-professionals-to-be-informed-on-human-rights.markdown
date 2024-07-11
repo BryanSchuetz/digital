@@ -2,7 +2,6 @@
 title: 'Digital Rights and the Technology Workforce: Why Do We Need Our Technology
   Professionals to be Informed on Human Rights?'
 date: 2024-07-11 07:31:00 -04:00
-published: false
 tags:
 - digital economy
 - ICT
