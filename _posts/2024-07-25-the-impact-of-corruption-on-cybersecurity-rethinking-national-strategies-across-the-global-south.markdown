@@ -6,6 +6,8 @@ published: false
 tags:
 - Cybersecurity
 Author: Robert Peacock
+social-image: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-94eeb2.jpg"
+thumbnail: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-94eeb2.jpg"
 ---
 
 *This is an excerpt from the issue brief published July 1, by the Atlantic Council’s Digital Forensic Research Lab. View the full issue brief [here](https://dfrlab.org/2024/07/01/the-impact-of-corruption-on-cybersecurity/).*
@@ -13,6 +15,8 @@ Author: Robert Peacock
 “Cyber criminals are coming for the Global South”—*[Deutsch Welle](https://dfrlab.org/2024/07/01/the-impact-of-corruption-on-cybersecurity/)* 
 
 The global revolution in information and communications technology has expanded educational and economic opportunities across the Global South* even as it brings new threats of inequality and cyber vulnerability. Whether these countries are prepared, they now represent the fastest-growing population of new internet users. Moreover, malicious hackers have recognized this rise in networked users, with Latin America and the Caribbean now leading the globe in the rate of cyberattacks as a share of the [networked population](https://www.routledge.com/Cybercrime-and-Cybersecurity-in-the-Global-South-Concepts-Strategies-and-Frameworks-for-Greater-Resilience/Donalds-Barclay-Osei-Bryson/p/book/9780367464318), while Africa leads in the [rate of cyberattacks](https://blog.checkpoint.com/research/global-cyberattacks-continue-to-rise/) per institution.
+
+<!--more-->
  
 The process of digital transformation started later in the Global South, which likely limited the vulnerability of these countries to ransomware attacks. This is no longer the case. Vanuatu served as a wake-up call in 2022 when most of the island’s public services shut down after [hackers encrypted](https://www.techinpacific.com/the-vanuatu-ransomware-attack-serves-as-a-warning-to-others/) the government’s data networks. The ransomware gang’s commitment of time and resources to infiltrate Vanuatu’s government networks demonstrates that even the smallest nations in the Global South can no longer assume they will be overlooked by global hacker organizations. 
 
