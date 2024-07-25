@@ -1,4 +1,17 @@
 
+- title: "The Impact of Corruption on Cybersecurity: Rethinking National Strategies Across the Global South"
+  pub: "Digital"
+  date: 2024-07-25
+  link: "https://dai-global-digital.com/the-impact-of-corruption-on-cybersecurity-rethinking-national-strategies-across-the-global-south.html?utm_source=daidotcom"
+  summary: "This is an excerpt from the issue brief published July 1, by the Atlantic Council’s Digital Forensic Research Lab. View the full issue brief here.
+
+“Cyber criminals are coming for the Global South”—Deutsch Welle
+
+The global revolution in information and communications technology has expanded educational and economic opportunities across the Global South even as it brings new threats of inequality and cyber vulnerability. Whether these countries are prepared, they now represent the fastest-growing population of new internet users. Moreover, malicious hackers have recognized this rise in networked users, with Latin America and the Caribbean now leading the globe in the rate of cyberattacks as a share of the networked population, while Africa leads in the rate of cyberattacks per institution."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+
 - title: "Digital Rights and the Technology Workforce: Why Do We Need Our Technology Professionals to be Informed on Human Rights?"
   pub: "Digital"
   date: 2024-07-11
@@ -257,18 +270,4 @@ Imagine the potential of this technology in industries such as healthcare and cy
   tags:
     - digital acceleration 
     - digital agriculture 
-
-- title: "Government-Run Digital Tools to Combat Corruption: Can They Work?"
-  pub: "Digital"
-  date: 2023-09-21
-  link: "https://dai-global-digital.com/government-run-digital-tools-to-combat-corruption-can-they-work.html?utm_source=daidotcom"
-  summary: "(Originally published on DAI’s Developments blog.)
-
-In 2014 and early 2015, more than 3,000 volunteers peered into their monitors to try and decipher poorly handwritten and scanned annual asset declarations from Ukrainian officials that described their properties, vehicles, land, commercial venues, bank accounts, and cash. It was a tedious task. At times, it seemed that civil servants deliberately used bad handwriting to comply with the requirements of paper-based transparency. By 2022, before the full-scale war, any internet user would have free access to more than 2.5 million asset declarations searchable through the public registry of the National Agency for Prevention of Corruption of Ukraine and at least one advanced civil society powered instrument that worked on the data-fuel from this registry. The difference was night and day. Now, instead of peering into illegible scans of handwritten scribbles, with a click of a button you can check whether a company owned by civil servant John Doe won any government contracts last year, and whether his elderly parents bought a mansion close to the capital or a new luxury car—and ask questions to the authorities.
-
-Governments worldwide are rushing to use digital technology to reduce corruption. Over the past decade, state agencies have increasingly used digital systems to conduct anti-corruption investigations, gather and analyze asset declarations, automate electronic procurement processes, and analyze open data. Despite initial implementation difficulties in many countries, these digital tools have proven effective. Many governments that benefit from donor assistance are now asking to prioritize resources for upgrading or building new IT systems to help counter corruption."
-  tags:
-    - digital acceleration 
-    - Governance 
-    - Digital Government 
 
