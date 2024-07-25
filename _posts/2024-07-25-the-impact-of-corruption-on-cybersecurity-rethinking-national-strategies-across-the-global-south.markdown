@@ -1,8 +1,7 @@
 ---
 title: 'The Impact of Corruption on Cybersecurity: Rethinking National Strategies
   Across the Global South'
-date: 2024-07-25 08:51:00 -04:00
-published: false
+date: 2024-07-25 08:31:00 -04:00
 tags:
 - Cybersecurity
 Author: Robert Peacock
