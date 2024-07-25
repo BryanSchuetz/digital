@@ -19,7 +19,7 @@ The global revolution in information and communications technology has expanded 
  
 The process of digital transformation started later in the Global South, which likely limited the vulnerability of these countries to ransomware attacks. This is no longer the case. Vanuatu served as a wake-up call in 2022 when most of the island’s public services shut down after [hackers encrypted](https://www.techinpacific.com/the-vanuatu-ransomware-attack-serves-as-a-warning-to-others/) the government’s data networks. The ransomware gang’s commitment of time and resources to infiltrate Vanuatu’s government networks demonstrates that even the smallest nations in the Global South can no longer assume they will be overlooked by global hacker organizations. 
 
-## Cathing Up
+## Catching Up
 
 A critical lesson from the first decade of ubiquitous cyberattacks is the importance of patching an enterprise’s network software. Unfortunately, the vulnerabilities that IT professionals must track and patch each year have been growing, especially since the arrival of cryptocurrency in the mid-2010s offered the first practical means for hackers to receive payments after [locking up or seizing](https://www.coindesk.com/policy/2021/06/08/state-of-crypto-ransomware-is-a-crypto-problem/) data. 
  
