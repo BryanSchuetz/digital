@@ -10,6 +10,8 @@ Author: Rachel Chang
 
 In 2023, there were an estimated 2,365 cyberattacks. On top of this, there is a global shortage of at least 4 million cybersecurity professionals. The World Economic Forum and Accenture 2024 Global Security Outlook reports that 71 percent of organizations have unfilled cybersecurity positions. Cybersecurity preparedness is critical for preventing and responding to future attacks and without a skilled workforce, investments will fall short. In May, DAI hosted two sessions and joined international cybersecurity stakeholders at the RSA Conference (RSAC). At the conference, various approaches for boosting cybersecurity preparedness were discussed, including integrating human-centered practices, introducing tabletop exercises, and dedicating resources to target-rich, resource-poor organizations.
 
+<!--more-->
+
 ## 1. Take a Human-Centered Approach to Cybersecurity Workforce Development 
 
 USAID’s Cybersecurity Primer acknowledges that cybersecurity is how people, processes, and systems protect information kept in digital formats. Cyberattacks occur when actors illegitimately access digital systems and data. Research studies, including from Stanford University, confirmed that nearly 90 percent of cyber breaches are caused by human error or behavior. Speakers at RSAC from the White House Office of the National Cyber Director and Purdue University emphasized the need for a human-centered cybersecurity approach to bolster workforce development. This approach entails “championing the human in cybersecurity” by focusing cyber defense efforts on user behavior and preferences not just tools and metrics. As a starting point, some recommendations include:
