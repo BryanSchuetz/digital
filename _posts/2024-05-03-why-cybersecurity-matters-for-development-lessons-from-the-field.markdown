@@ -5,8 +5,8 @@ tags:
 - Cybersecurity
 - Critical Infrastructure
 Author: Rachel Chang, Douglas White, and Charles Coon
-social-image: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-c139fc.jpg"
-thumbnail: "/uploads/Ukraine%E2%80%99s%20National%20Innovations%20Strategy-c139fc.jpg"
+social-image: "/uploads/20191027DSCF1272amikhaylov.jpg"
+thumbnail: "/uploads/20191027DSCF1272amikhaylov.jpg"
 ---
 
 In December 2023, millions of Ukrainians lost cell service for days after Russia carried out a [cyberattack on Kyivstar](https://www.reuters.com/technology/cybersecurity/kyivstar-starts-restoring-voice-services-ceo-2023-12-13/), Ukraine’s largest telecom operator. But malign actors do not reserve cyberattacks for wartime; in September 2022, international hacker group [BlackByte cyberattacked](https://mzsv.gov.mk/Events.aspx?IdRoot=1&IdLanguage=1&News=2772) the electronic systems of North Macedonia’s Ministry of Agriculture, Forestry, and Water Management, taking systems offline across the ministry.
