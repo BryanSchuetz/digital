@@ -6,6 +6,8 @@ published: false
 tags:
 - Cybersecurity
 Author: Rachel Chang
+social-image: "/uploads/SSSCIP%20to%20offer%20enhanced%20emergency%20cyber%20assistance%20to%20government%20organizations-a18817.jpg"
+thumbnail: "/uploads/SSSCIP%20to%20offer%20enhanced%20emergency%20cyber%20assistance%20to%20government%20organizations-a18817.jpg"
 ---
 
 In 2023, there were an [estimated](https://www.forbes.com/advisor/education/it-and-tech/cybersecurity-statistics/#Sources) 2,365 cyberattacks. On top of this, there is a [global shortage](https://www.isc2.org/Insights/2023/10/ISC2-Reveals-Workforce-Growth-But-Record-Breaking-Gap-4-Million-Cybersecurity-Professionals) of at least 4 million cybersecurity professionals. The World Economic Forum and Accenture 2024 [Global Security Outlook](https://www.weforum.org/publications/global-cybersecurity-outlook-2024/) reports that 71 percent of organizations have unfilled cybersecurity positions. Cybersecurity preparedness is critical for preventing and responding to future attacks and without a skilled workforce, investments will fall short. In May, DAI hosted two sessions and joined international cybersecurity stakeholders at the [RSA Conference (RSAC)](https://www.rsaconference.com/usa). At the conference, various approaches for boosting cybersecurity preparedness were discussed, including integrating human-centered practices, introducing tabletop exercises, and dedicating resources to target-rich, resource-poor organizations.
