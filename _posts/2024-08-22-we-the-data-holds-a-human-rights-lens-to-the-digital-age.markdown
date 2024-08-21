@@ -6,6 +6,8 @@ tags:
 - Digital Democracy Series
 - Data
 Author: Chloe Carrington
+social-image: "/uploads/Screenshot%202024-08-21%20at%204.09.18%E2%80%AFPM.png"
+thumbnail: "/uploads/Screenshot%202024-08-21%20at%204.09.18%E2%80%AFPM.png"
 ---
 
 In “[We, The Data](https://mitpress.mit.edu/9780262048576/we-the-data/),” Wendy H. Wong looks at the applicability of human rights to the digital age, making the case for extending the application of human rights outside of our physical bodies. She explores the extensive implications of datafication on our rights and what actions we as data creators and subjects need to take to protect these rights. She notes that a focus on human rights gets us to the core of why regulating datafication matters and provides us with globally accepted values through which to talk about it. 
