@@ -22,7 +22,7 @@ Data are “sticky”: we can’t decouple the data from the person. Wong uses t
 
 1. Data are co-created, and so are inextricably linked to us as a person.  
 1. Data are mostly about mundane activities that don’t appear to be of interest to anyone. Our perceptions of what “personal” data are is outdated, because... 
-1. 3) Data are linked—our data is combined with other datasets to create patterns, so even the most mundane data says a lot about us. 
+1. Data are linked—our data is combined with other datasets to create patterns, so even the most mundane data says a lot about us. 
 1. Data is easily replicated and transported, lasting forever.  
 
 We are all creators of data and thus are stakeholder snot just subjects of datafication. We facilitate the collection of data about us by using the websites, apps, and devices that collect these data. Yet for a vast majority of us, it probably isn’t plausible to opt out of their use: our data is a part of who we are. Wong argues that current policies do not reflect how inextricably our data is linked to us, and we are currently left out of conversations around technology policy, regulation, and ethics. These conversations matter, and as such as we should be stakeholders in our datafication.  
