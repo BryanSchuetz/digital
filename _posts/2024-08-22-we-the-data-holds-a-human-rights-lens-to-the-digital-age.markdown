@@ -33,6 +33,10 @@ We should engage in protecting our data rights as a collective. Overall, Wong’
 
 How do the main themes in the book apply to our work in development? 
 
+![claudio-schwarz-fyeOxvYvIyY-unsplash.jpg](/uploads/claudio-schwarz-fyeOxvYvIyY-unsplash.jpg)`Photo: Claudio Schwarz/Unsplash.`
+
+
+
 ## The Limits of Data Literacy 
 
 The author considers data literacy to be the foundation to rights it helps make the trade-offs of sharing our data clear and help us advocate for better protection of our rights. Aside from risks at an individual level, Wong argues that data literacy is vital for communities to be able to collectively stand against data abuses. However, Wong quite rightly recognizes that having data literacy is not possible for all: “Literacy is not a burden that individuals can take on without the practical opportunities and resources to become literate.” We know that digital literacy more broadly remains a key barrier to the adoption of digital tools for many, most notably for women and girls, and other marginalized populations. Low basic literacy and numeracy, restrictive gender and social norms, time and financial constraints, and a lack of content in local languages are just a few of the barriers to digital literacy that people experience throughout the world. So, while Wong argues that data literacy should be a human right—achieved through education in libraries and advocacy by civil society overly this is optimistic for those living in global majority countries, where basic digital literacy is still yet to be achieved. As technology evolves, so too does the definition of what it means to be digitally literate. As the development community continues efforts to increase digital literacy in global majority countries, we should ensure that data literacy is a core component of those efforts.  
