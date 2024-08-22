@@ -17,7 +17,7 @@ Exploring data rights, facial recognition technology, human rights after death, 
 
 While we are all voracious readers over here in the DAI Center for Digital Acceleration, we are not literary experts. In this blog, part of the Digital Democracy [Series](https://dai-global-digital.com/digital-rights-and-the-technology-workforce-why-do-we-need-our-technology-professionals-to-be-informed-on-human-rights.html), I provide a personal review of the book and think about how it aligns to our work in international development. 
 
-Data are “sticky”: we can’t decouple the data from the person. Wong uses this term throughout the book, explaining that the “stickiness” of data is for four reasons:  
+Data are “sticky”: We can’t decouple the data from the person. Wong uses this term throughout the book, explaining that the “stickiness” of data is for four reasons:  
 
 1. Data are co-created, and so are inextricably linked to us as a person.  
 1. Data are mostly about mundane activities that don’t appear to be of interest to anyone. Our perceptions of what “personal” data are is outdated, because... 
