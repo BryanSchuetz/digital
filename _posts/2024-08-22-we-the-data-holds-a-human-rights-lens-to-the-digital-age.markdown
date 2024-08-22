@@ -26,15 +26,13 @@ Data are “sticky”: We can’t decouple the data from the person. Wong uses t
 
 We are all data creators and thus are stakeholders, not just subjects of datafication. We facilitate the collection of data about us by using the websites, apps, and devices that collect these data. Yet for a vast majority of us, it probably isn’t plausible to opt out of their use: Our data is a part of who we are. Wong argues that current policies do not reflect how inextricably our data is linked to us, and we are currently left out of conversations around technology policy, regulation, and ethics. These conversations matter—and we should be stakeholders in our datafication.  
 
-We should be proactive in protecting our data, and not just focus on what to do once data are already created. Wong argues that we should be proactive in considering how technologies can affect human rights in both positive and negative ways. If we aren’t proactive, we can’t safeguard against transgressions. Essentially, collection of data is not a foregone conclusion that should be legislated only once created. As co-creators of our data, we should have a voice and can only advocate with a full understanding of the implications of sharing our data. 
+We should be proactive in protecting our data, and not just focus on what to do once data are already created. Wong argues that we should be proactive in considering how technologies can affect human rights in both positive and negative ways. If we aren’t proactive, we can’t safeguard against transgressions. Essentially, the collection of data is not a foregone conclusion that should be legislated only once created. As co-creators of our data, we should have a voice and can only advocate with a full understanding of the implications of sharing our data. 
 
 We should engage in protecting our data rights as a collective. Overall, Wong’s book is a collective call to action, rather than a focus on the personal impacts of datafication. Because the processing of personal data has such significant collective impacts, due to the existence of big data, she argues that we should stand against data abuses as a collective.  
 
 How do the main themes in the book apply to our work in development? 
 
 ![claudio-schwarz-fyeOxvYvIyY-unsplash.jpg](/uploads/claudio-schwarz-fyeOxvYvIyY-unsplash.jpg)`Photo: Claudio Schwarz/Unsplash.`
-
-
 
 ## The Limits of Data Literacy 
 
