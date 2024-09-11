@@ -11,12 +11,12 @@ Author: Chloe Carrington
 ---
 
 Nigeria is Africa’s most populous country and one of the world’s largest democracies. In February 2023, millions of Nigerians went to the polls in the country’s seventh election since the return to democracy in 1999. Nigeria’s 2023 election was also its most technologically advanced yet, a trend that is not unique to Nigeria alone. Digital technologies are increasingly being used in elections across the globe—from biometric voter registration and identity verification to the digitalization of voter registries. Digital tools can increase efficiency, improve transparency, and help share information with voters.
+
+<!--more-->
  
-Since 2022, in collaboration with Nigeria’s Electoral Management Bodies, DAI has been supporting the Independent National Electoral Commission (INEC) through the [European Union Support to Democratic Governance in Nigeria (EU-SDGN)](https://eusdgn.org/) program. DAI, supporting the INEC with new technologies to improve the management of Nigeria’s electoral system. In this context, the project supports foundational electoral institutions with their digital transformation to ensure that citizens continue to trust the democratic process. The use of GIS tools – used to map polling units and to inform the program’s voter education tools – have become a core part of the way the program achieves this goal. 
-This blog is part of a series on digital democracy.
+Since 2022, in collaboration with Nigeria’s Electoral Management Bodies, DAI has been supporting the Independent National Electoral Commission (INEC) through the [European Union Support to Democratic Governance in Nigeria (EU-SDGN)](https://eusdgn.org/) program. DAI supports the INEC with new technologies to improve the management of Nigeria’s electoral system. In this context, the project supports foundational electoral institutions with their digital transformation to ensure that citizens continue to trust the democratic process. The use of GIS tools—used to map polling units and to inform the program’s voter education tools—have become a core part of the way the program achieves this goal. 
  
-Figure 1 Eligible voters register to collect their Permanent Voter Cards (PVCs) in Lagos, Nigeria, at the PVC collection drive and Youth Vote Count campaign, implemented by INEC, DAI and the European Delegation.
-ß/moreà
+![Picture1-550544.jpg](/uploads/Picture1-550544.jpg)`Eligible voters register to collect their permanent voter cards in Lagos, Nigeria, at the card collection drive and Youth Vote Count campaign, implemented by INEC, DAI, and the European Delegation. Photo: EU-SDGN.`
 
 Using Geospatial Tools to Support Elections Coordination and Management 
 Due to the rapid growth of the Nigerian population and the subsequent increase of the electorate to over 90 million, INEC had to create 57,000 new polling units in preparation for the 2023 election. However, despite the creation of these new PUs, there is still a high number of over-populated PUs with as many as 5,000 voters, and many underpopulated with as few as 20 voters. To provide data for improved planning and decongestion of PUs, DAI conducted a large operation across all 36 states, helping INEC capture missing GIS data for 87,000 PUs. 
