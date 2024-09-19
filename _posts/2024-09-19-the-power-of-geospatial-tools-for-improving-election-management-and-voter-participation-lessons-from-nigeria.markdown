@@ -7,7 +7,7 @@ tags:
 - Digital Government
 - Digital Democracy Series
 Author: Chloe Carrington
-social-image: "/uploads/flag.png"
+social-image: "/uploads/640px-Flag_of_Nigeria.png"
 thumbnail: "/uploads/flag.png"
 ---
 
