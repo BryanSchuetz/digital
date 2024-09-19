@@ -5,9 +5,30 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Sep 2024 16:16:51 -0400</pubDate>
-    <lastBuildDate>Wed, 11 Sep 2024 16:16:51 -0400</lastBuildDate>
+    <pubDate>Thu, 19 Sep 2024 08:23:18 -0400</pubDate>
+    <lastBuildDate>Thu, 19 Sep 2024 08:23:18 -0400</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/flag.png" medium="image" /> 
+        <title>The Power of Geospatial Tools for Improving Election Management and Voter Participation: Lessons from Nigeria</title>
+        <description>&lt;p&gt;Nigeria is Africa’s most populous country and one of the world’s largest democracies. In February 2023, millions of Nigerians went to the polls in the country’s seventh election since the return to democracy in 1999. Nigeria’s 2023 election was also its most technologically advanced yet, a trend that is not unique to Nigeria alone. Digital technologies are increasingly being used in elections across the globe—from biometric voter registration and identity verification to the digitalization of voter registries. Digital tools can increase efficiency, improve transparency, and help share information with voters.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Sep 2024 08:25:00 -0400</pubDate>
+        <author>Chloe Carrington
+</author>
+        <link>https://dai-global-digital.com/the-power-of-geospatial-tools-for-improving-election-management-and-voter-participation-lessons-from-nigeria.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/the-power-of-geospatial-tools-for-improving-election-management-and-voter-participation-lessons-from-nigeria.html</guid>
+        
+        <category>Digital Inclusion</category>
+        
+        <category>Digital Government</category>
+        
+        <category>Digital Democracy Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/Screenshot%202024-08-21%20at%204.09.18%E2%80%AFPM.png" medium="image" /> 
@@ -208,29 +229,6 @@
         <category>Privacy</category>
         
         <category>Digital Rights</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/picture1%20NM-235b84.jpg" medium="image" /> 
-        <title>Overcoming Gender Biases to Support Cyber Workforce Development in North Macedonia</title>
-        <description>&lt;p&gt;In my country of North Macedonia and elsewhere, cyberattacks on our essential services are becoming increasingly multifaceted and intricate. To defend against them, diverse teams equipped with myriad perspectives are key to comprehensive cybersecurity problem solving. This diversity, however, does not exist in the cybersecurity field; women—who represent half of technology users—comprise only 25 percent of the global cybersecurity workforce and only 11 percent of information security jobs among the European Union’s operators of essential services and digital service providers.&lt;/p&gt;
-
-&lt;p&gt;This disparity is concerning both as a matter of equity and security. A homogeneous workforce limits national capacity for cybersecurity problem solving. Furthermore, the underrepresentation of women in cyber career and academic pathways perpetuates gender stereotypes and may sway females from pursuing these pathways. When young women and girls see a field dominated by one sex, it can unconsciously reinforce outdated beliefs about what they can or cannot achieve. This stunts the growth of countries’ cybersecurity workforces by narrowing the talent pool.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 04 Apr 2024 07:34:00 -0400</pubDate>
-        <author>Liljana Pecova-Ilieska
-</author>
-        <link>https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/overcoming-gender-biases-to-support-cyber-workforce-development-in-north-macedonia.html</guid>
-        
-        <category>Cybersecurity</category>
-        
-        <category>Future of Work</category>
-        
-        <category>Digital Gender Divide</category>
         
         
       </item>
