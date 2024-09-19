@@ -2,7 +2,6 @@
 title: 'The Power of Geospatial Tools for Improving Election Management and Voter
   Participation: Lessons from Nigeria'
 date: 2024-09-18 08:25:00 -04:00
-published: false
 tags:
 - Digital Inclusion
 - Digital Government
