@@ -5,9 +5,28 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Oct 2024 01:47:30 -0400</pubDate>
-    <lastBuildDate>Thu, 10 Oct 2024 01:47:30 -0400</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2024 02:28:20 -0400</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2024 02:28:20 -0400</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/rodion-kutsaiev-0VGG7cqTwCo-unsplash.jpg" medium="image" /> 
+        <title>Building a Safer Digital World: How ‘Secure By Design’ Shifts the Cybersecurity Paradigm</title>
+        <description>&lt;p&gt;We rely on software all the time—you probably joined a video call, sent an email, or logged into your banking application today. Businesses rely on software to sell goods and services, governments rely on it to deliver public services, and critical infrastructure relies on software to manage electricity and water. These activities require the storage and processing of massive amounts of sensitive data including personally identifiable and proprietary information. It is critical to keep such data secure from malicious actors who may find political or financial gain in leaking data or holding it for ransom.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Oct 2024 03:14:00 -0400</pubDate>
+        <author>Susannah Horton
+</author>
+        <link>https://dai-global-digital.com/building-a-safer-digital-world-how-secure-by-design-shifts-the-cybersecurity-paradigm.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/building-a-safer-digital-world-how-secure-by-design-shifts-the-cybersecurity-paradigm.html</guid>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Cyber Security Series</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/640px-Flag_of_Nigeria.png" medium="image" /> 
@@ -208,27 +227,6 @@
         <category>Cybersecurity</category>
         
         <category>Critical Infrastructure</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/dai_forum-74.jpg" medium="image" /> 
-        <title>Digital Safeguards: Synergy between Cybersecurity, Data Protection, and Human Rights in Moldova</title>
-        <description>&lt;p&gt;Like so many other countries, Moldova’s digital transformation journey is fraught with challenges and opportunities. International human rights principles and regulations are highly valuable as the country develops its legislation, yet local engagement is crucial in understanding the specific needs and concerns of Moldovans and ensuring that digital transformation benefits everyone.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 23 Apr 2024 09:09:00 -0400</pubDate>
-        <author>Chloe Carrington
-</author>
-        <link>https://dai-global-digital.com/event-roundup-digital-safeguards-synergy-between-cybersecurity-data-protection-and-human-rights-in-moldova.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/event-roundup-digital-safeguards-synergy-between-cybersecurity-data-protection-and-human-rights-in-moldova.html</guid>
-        
-        <category>Digital Transformation</category>
-        
-        <category>Privacy</category>
-        
-        <category>Digital Rights</category>
         
         
       </item>

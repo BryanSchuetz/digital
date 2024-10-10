@@ -1,4 +1,14 @@
 
+- title: "Building a Safer Digital World: How ‘Secure By Design’ Shifts the Cybersecurity Paradigm"
+  pub: "Digital"
+  date: 2024-10-09
+  link: "https://dai-global-digital.com/building-a-safer-digital-world-how-secure-by-design-shifts-the-cybersecurity-paradigm.html?utm_source=daidotcom"
+  summary: "We rely on software all the time—you probably joined a video call, sent an email, or logged into your banking application today. Businesses rely on software to sell goods and services, governments rely on it to deliver public services, and critical infrastructure relies on software to manage electricity and water. These activities require the storage and processing of massive amounts of sensitive data including personally identifiable and proprietary information. It is critical to keep such data secure from malicious actors who may find political or financial gain in leaking data or holding it for ransom."
+  tags:
+    - digital acceleration 
+    - Cybersecurity 
+    - Cyber Security Series 
+
 - title: "The Power of Geospatial Tools for Improving Election Management and Voter Participation: Lessons from Nigeria"
   pub: "Digital"
   date: 2024-09-19
@@ -237,23 +247,6 @@ Safe to say, cybersecurity awareness has come a long way since Spiderman got sac
   summary: "This is the fourth in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.
 
 Cyber threats in Southeast Asia are on the rise. Data from Singapore’s Ministry of Defense shows that cybercrime in the region increased by 82 percent between 2021 and 2022. To help counter these growing threats, the U.S. Agency for International Development (USAID)’s Digital Asia Accelerator (DAA) initiative, implemented by DAI’s Digital Frontiers under the Digital Connectivity and Cybersecurity Partnership (DCCP), promotes cybersecurity awareness and capacity building in Cambodia, Indonesia, Laos, Mongolia, Myanmar, and Thailand. Since 2019, DAA has implemented several cybersecurity awareness initiatives in the region. Drawing on these experiences, here are four of our key takeaways on how to create an enabling environment for better cybersecurity awareness, defense, and opportunity."
-  tags:
-    - digital acceleration 
-    - Cybersecurity 
-    - Cyber Security Series 
-
-- title: "What Have We Learned in the Past Five Years about Cybersecurity?"
-  pub: "Digital"
-  date: 2023-10-19
-  link: "https://dai-global-digital.com/what-have-we-learned-in-the-past-five-years-about-cybersecurity.html?utm_source=daidotcom"
-  summary: "This is the third in a series of blog posts about cybersecurity to mark Cybersecurity Awareness Month in October.
-
-For digital development practitioners, cybersecurity is now in the digital development zeitgeist. Over the past five years or so, it has become an important standalone technical area, as well as a critical building block of all our interventions. In honor of Cybersecurity Awareness Month, I wanted to revisit Digital@DAI’s earliest posts about cybersecurity from 2018 to see how our initial thinking holds up against a 2023 mindset. Our first-ever series on cybersecurity introduced the concept of cybersecurity to digital development practitioners by doing three things:
-
-
-  Providing a technical explanation of cybersecurity and linking it to the concept of trust;
-  Examining cybersecurity through the lens of regulations, skills, and institutions, aligned to the World Bank’s 2016 Digital Dividends report, and;
-  Examining the topic of pirated software at the micro level."
   tags:
     - digital acceleration 
     - Cybersecurity 
