@@ -16,7 +16,7 @@ On August 22, 2022, [hackers attacked](https://www.cyberthreat.report/russian-ha
 
 As part of their responses to this threat, governments in the Western Balkans and Eastern Europe partnered with the U.S. Agency for International Development (USAID)’s [Critical Infrastructure Digitalization and Resilience (CIDR) program](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr), implemented by DAI. Among its cybersecurity development activities, CIDR works with governments to build capacity to reduce cyber threats to e-governance platforms. 
 
-![Hacker.png](/uploads/Hacker.png)
+![Hacker.png](/uploads/Hacker.png)`Photo: Wikimedia Commons.`
 
 <!--more-->
 
