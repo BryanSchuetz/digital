@@ -11,7 +11,9 @@ Author: Robert Peacock
 
 On August 22, 2022, hackers attacked more than 80 Moldovan government web portals. They were seeking to shut down key elements of the e-governance platform used every day by Moldovan citizens and businesses. Similar attacks soon followed across the region, including ones targeting government portals in Albania, Kosovo, and Montenegro.  
 
-As part of their responses to this threat, governments in the Western Balkans and Eastern Europe partnered with the U.S. Agency for International Development (USAID)’s Critical Infrastructure Digitalization and Resilience (CIDR) program, implemented by DAI. Among its cybersecurity development activities, CIDR works with governments to build capacity to reduce cyber threats to e-governance platforms. 
+As part of their responses to this threat, governments in the Western Balkans and Eastern Europe partnered with the U.S. Agency for International Development (USAID)’s [Critical Infrastructure Digitalization and Resilience (CIDR) program](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr), implemented by DAI. Among its cybersecurity development activities, CIDR works with governments to build capacity to reduce cyber threats to e-governance platforms. 
+
+<!--more-->
 
 ## E-Governance Revolution—Promoting Efficiency and Trust 
 
