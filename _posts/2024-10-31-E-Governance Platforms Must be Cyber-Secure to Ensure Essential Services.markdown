@@ -8,11 +8,15 @@ tags:
 - Digital Government
 - Cyber Security Series
 Author: Robert Peacock
+social-image: "/uploads/sm%201024hacker.png"
+thumbnail: "/uploads/sm%201024hacker.png"
 ---
 
 On August 22, 2022, [hackers attacked](https://www.cyberthreat.report/russian-hackers-attacked-websites-of-moldova/) more than 80 Moldovan government web portals to shut down key elements of the e-governance platform used by citizens and businesses. Similar attacks soon followed across the region, including ones targeting government portals in Albania, Kosovo, and Montenegro.  
 
 As part of their responses to this threat, governments in the Western Balkans and Eastern Europe partnered with the U.S. Agency for International Development (USAID)’s [Critical Infrastructure Digitalization and Resilience (CIDR) program](https://www.dai.com/our-work/projects/regional-critical-infrastructure-digitalization-and-resilience-cidr), implemented by DAI. Among its cybersecurity development activities, CIDR works with governments to build capacity to reduce cyber threats to e-governance platforms. 
+
+![1024px-A_Hacker_or_Cyber_Criminal_-_hooded_in_a_dark_room_with_computer_screens.png](/uploads/1024px-A_Hacker_or_Cyber_Criminal_-_hooded_in_a_dark_room_with_computer_screens.png)
 
 <!--more-->
 
@@ -31,6 +35,8 @@ Both state-sponsored and ransomware groups target e-governance portals because t
 Since service-delivery applications depend on web portals, the primary method of attackers has been to overwhelm system resources through flooding attacks. This type of distributed denial-of-service (DDoS) attack has become the most prominent cyberattack across Eastern Europe. The attackers often make use of a global set of botnets—or pirated computer systems—to make the direction and scale of attacks difficult to predict and defend. 
 
 As noted in Cynthia’s Brumfield’s oft-cited article, “[2022 was the Year of Crippling Ransomware Attacks on Small Countries](https://readme.synack.com/2022-was-the-year-of-crippling-ransomware-attacks-on-small-countries),” the countries most challenged in economic growth and good governance are now seeing their nascent information systems increasingly targeted and exploited by hackers. The year 2022 also marked the rapid rise of DDoS attacks in Central and Eastern Europe. That summer, countries suffering attacks on government systems included Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia. While most of these DDoS attacks had limited impacts, a serious intention to knock out services across multiple ministries was seen in the attacks on Albania, Moldova, and Montenegro. 
+
+![Serbia CPW rollout March 12 2024.jpg](/uploads/Serbia%20CPW%20rollout%20March%2012%202024.jpg)`Cyber training in Serbia. Photo: CIDR.`
 
 ## Strengthening Portal Security 
 
