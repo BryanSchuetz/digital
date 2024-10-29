@@ -7,7 +7,7 @@ tags:
 - governance
 - Digital Government
 - Cyber Security Series
-Author: Robert Peacock
+Author: Dr. Robert Peacock
 social-image: "/uploads/sm%201024hacker.png"
 thumbnail: "/uploads/sm%201024hacker.png"
 ---
@@ -52,4 +52,4 @@ USAID, through CIDR, has since worked with partner countries to identify vulnera
 
 As one of CIDR’s Eastern European partners recently said, these efforts mark “steps” toward raising governments’ overall capacity for protecting the public digital space. CIDR will continue to help build countries’ capacity and capability to withstand the attacks of malevolent actors against e-government portals so citizens and their governments will be able to connect more safely. 
 
-*DAI’s [Robert Peacock](https://www.linkedin.com/in/robert-peacock-7b86655/) is a Senior Strategic Technical Advisor on USAID CIDR.*
+*DAI’s Dr. [Robert Peacock](https://www.linkedin.com/in/robert-peacock-7b86655/) is a Senior Strategic Technical Advisor on USAID CIDR.*
