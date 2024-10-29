@@ -40,7 +40,7 @@ As noted in Cynthia’s Brumfield’s oft-cited article, “[2022 was the Year o
 
 ## Strengthening Portal Security 
 
-In the spring of 2022, CIDR launched country teams in Kosovo and North Macedonia—the first two of its six CIDR country teams. Initial planning focused on partnering with countries to help develop their cyber governance and workforces. While CIDR was not prioritizing e-governance protection, the events of 2022 prompted several assistance initiatives to strengthen the resistance and resilience of e-government portals. The participating governments and USAID shared an understanding that these portals facilitate important everyday activities such as commerce, healthcare, and agribusiness, to name a few. 
+In the spring of 2022, CIDR launched country teams in Kosovo and North Macedonia—the first two of its six country teams. Initial planning focused on partnering with countries to help develop their cyber governance and workforces. While CIDR was not prioritizing e-governance protection, the events of 2022 prompted several assistance initiatives to strengthen the resistance and resilience of e-government portals. The participating governments and USAID shared an understanding that these portals facilitate important everyday activities such as commerce, healthcare, and agribusiness, to name a few. 
 
 USAID, through CIDR, has since worked with partner countries to identify vulnerabilities and provide technical assistance to strengthen security for e-governance portals. These results can be broken into three key categories: 
 
