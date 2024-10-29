@@ -36,7 +36,7 @@ Since service-delivery applications depend on web portals, the primary method of
 
 As noted in Cynthia’s Brumfield’s oft-cited article, “[2022 was the Year of Crippling Ransomware Attacks on Small Countries](https://readme.synack.com/2022-was-the-year-of-crippling-ransomware-attacks-on-small-countries),” the countries most challenged in economic growth and good governance are now seeing their nascent information systems increasingly targeted and exploited by hackers. The year 2022 also marked the rapid rise of DDoS attacks in Central and Eastern Europe. That summer, countries suffering attacks on government systems included Albania, Bosnia and Herzegovina, Kosovo, Moldova, Montenegro, North Macedonia, and Serbia. While most of these DDoS attacks had limited impacts, a serious intention to knock out services across multiple ministries was seen in the attacks on Albania, Moldova, and Montenegro. 
 
-![Serbia CPW rollout March 12 2024.jpg](/uploads/Serbia%20CPW%20rollout%20March%2012%202024.jpg)`Cyber training in Serbia. Photo: CIDR.`
+![4U3A9252 1.JPG](/uploads/4U3A9252%201.JPG)`CIDR/North Macedonia trains university and vocational instructors of IT and cybersecurity. Photo: CIDR.`
 
 ## Strengthening Portal Security 
 
