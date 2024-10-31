@@ -1,7 +1,6 @@
 ---
 title: E-Governance Platforms Must be Cyber-Secure to Ensure Essential Services
 date: 2024-10-31 07:42:00 -04:00
-published: false
 tags:
 - Cybersecurity
 - governance
