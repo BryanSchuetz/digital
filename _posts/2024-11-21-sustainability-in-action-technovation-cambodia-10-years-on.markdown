@@ -1,10 +1,13 @@
 ---
 title: 'Sustainability in Action: Technovation Cambodia 10 years on'
-date: 2024-11-14 13:57:00 -05:00
+date: 2024-11-21 05:57:00 -05:00
+published: false
 Author: Sotheavy At and Inta Plostins
 ---
 
 Searching online for the word “sustainability” yields 500+ results on the U.S. Agency for International Development's (USAID) [Learning Lab](https://usaidlearninglab.org/search?keys=sustainability) website, 5,000+ results on [USAID.gov](https://www.usaid.gov/search/site-search?keys=sustainability), and a whopping 80,000+ results on the [Development Experience Clearinghouse (DEC)](https://dec.usaid.gov/dec/search/SearchResults.aspx?q=RG9jdW1lbnRzLkZpbGU6KHN1c3RhaW5hYmlsaXR5KQ==). Developing and implementing sustainable interventions—those that continue beyond the life of the donor-funded programs that designed, implemented, and/or funded them—is a core focus of donors and implementing partners around the world. However, given the short time horizons of many programs, the truth is that we often do not know what happens to initiatives after funding them. 
+
+<!--more-->
 
 Today, we highlight a sustainability story that USAID also recognized in its *[Enduring Results Study 4.0](https://www.marketlinks.org/sites/default/files/media/file/2023-02/ERS%204.0_Summary_Report_2022%2010%2017%20final-508a%20%282%29.pdf)*—the 10-year anniversary of [Technovation Cambodia](https://www.facebook.com/TechnovationCambodia/) (five years under the [Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) (DI) project and five years under the leadership of Cambodian organizers with no bilateral donor support). 
 
