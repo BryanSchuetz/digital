@@ -2,6 +2,12 @@
 title: 'Sustainability in Action: Technovation Cambodia 10 years on'
 date: 2024-11-21 05:57:00 -05:00
 published: false
+tags:
+- Digital Inclusion
+- Innovation
+- Cambodia
+- Digital Gender Divide
+- Digital Skills
 Author: Sotheavy At and Inta Plostins
 social-image: "/uploads/Picture3.jpg"
 thumbnail: "/uploads/Picture3.jpg"
