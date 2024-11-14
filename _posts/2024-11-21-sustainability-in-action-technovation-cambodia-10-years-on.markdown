@@ -7,19 +7,19 @@ Author: Sotheavy At and Inta Plostins
 
 Searching online for the word “sustainability” yields 500+ results on the U.S. Agency for International Development's (USAID) [Learning Lab](https://usaidlearninglab.org/search?keys=sustainability) website, 5,000+ results on [USAID.gov](https://www.usaid.gov/search/site-search?keys=sustainability), and a whopping 80,000+ results on the [Development Experience Clearinghouse (DEC)](https://dec.usaid.gov/dec/search/SearchResults.aspx?q=RG9jdW1lbnRzLkZpbGU6KHN1c3RhaW5hYmlsaXR5KQ==). Developing and implementing sustainable interventions—those that continue beyond the life of the donor-funded programs that designed, implemented, and/or funded them—is a core focus of donors and implementing partners around the world. However, given the short time horizons of many programs, the truth is that we often do not know what happens to initiatives after funding them. 
 
-<!--more-->
-
 Today, we highlight a sustainability story that USAID also recognized in its *[Enduring Results Study 4.0](https://www.marketlinks.org/sites/default/files/media/file/2023-02/ERS%204.0_Summary_Report_2022%2010%2017%20final-508a%20%282%29.pdf)*—the 10-year anniversary of [Technovation Cambodia](https://www.facebook.com/TechnovationCambodia/) (five years under the [Development Innovations](https://www.dai.com/our-work/projects/cambodia-development-innovations) (DI) project and five years under the leadership of Cambodian organizers with no bilateral donor support). 
 
-
+<!--more-->
 
 In 2024, Technovation is stronger than ever in Cambodia, with:
-●	2,737 girls registered for Technovation Cambodia between 2019-2024
-●	606 mentors from the technology and business communities registered for Technovation Cambodia between 2019-2024
-●	188 team submissions to the global Technovation Girls competition between 2019-2024
-●	12 Cambodian teams making it to the Technovation Girls global semi-finals between 2019-2024
-●	One Technovation Girls regional (Asia) winning team from Cambodia between 2019-2024
-●	Nine unique organizations providing in-kind or financial support to Technovation Cambodia since 2019
+* 2,737 girls registered for Technovation Cambodia between 2019-2024
+* 606 mentors from the technology and business communities registered for Technovation Cambodia between 2019-2024
+* 188 team submissions to the global Technovation Girls competition between 2019-2024
+* 12 Cambodian teams making it to the Technovation Girls global semi-finals between 2019-2024
+* One Technovation Girls regional (Asia) winning team from Cambodia between 2019-2024
+* Nine unique organizations providing in-kind or financial support to Technovation Cambodia since 2019
+
+
   Credit: USAID’s Development Innovations
 What is Technovation?
 In 2014, USAID’s Development Innovations (DI) program introduced Technovation (now known as Technovation Girls) to Cambodia, smashing stereotypes and social norms about the role of young women and girls in the tech sector. As we wrote in this 2019 blog post, Technovation “is an annual 12-week global coding and business plan competition for girls and young women, ages 8 to 18. Each week, the mentees work closely with business and technical mentors to develop a mobile application and associated business plan that addresses a problem in their community.” A team of volunteer judges reviews each Technovation Girls application from every corner of the globe, leading to a pitch competition for finalists in Silicon Valley to choose the winners of the Beginner, Junior, and Senior divisions. 
