@@ -49,3 +49,5 @@ Even when designed with sustainability in mind, initiatives started by donor-fun
 ![Picture1-ee20ac.jpg](/uploads/Picture1-ee20ac.jpg)`Photo: USAID Cambodia DI.`
  
 Looking ahead, the Technovation Community is planning a regional competition, where girls will have more opportunities to connect with and compete against other Southeast Asia teams. They have been in discussions with teams in Hong Kong and Singapore to collaborate on a joint proposal to submit to Technovation Global. The goal is to make a regional competition a reality within the next three years. "The seed planted 10 years ago is just now blooming," said Voneat Pen, the Technovation Chapter Ambassador for Cambodia. "Technovation's alumni are going places—they've gone on to graduate and get jobs in tech-related fields. For many of them, Technovation was a stepping stone into the tech industry."
+
+*[Sotheavy At](https://www.linkedin.com/in/sotheavy-at-77553767/) is a Strategic Communications Consultant, Trainer, and Coach and worked on the DI project.*
