@@ -3,6 +3,12 @@ title: 'Investing in the Ecosystem: Lessons from the Cambodia Development Innova
   Project'
 date: 2024-12-19 08:36:00 -05:00
 published: false
+tags:
+- Digital Inclusion
+- Human-centered design
+- Cambodia
+- Co-creation
+- MSMEs
 Author: Kate Heuisler and Sotheavy At
 social-image: "/uploads/dPicture1.png"
 thumbnail: "/uploads/dPicture1.png"
