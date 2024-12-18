@@ -3,6 +3,9 @@ title: 'Investing in the Ecosystem: Lessons from the Cambodia Development Innova
   Project'
 date: 2024-12-19 08:36:00 -05:00
 published: false
+Author: Kate Heuisler and Sotheavy At
+social-image: "/uploads/dPicture1.png"
+thumbnail: "/uploads/dPicture1.png"
 ---
 
 Following Digital@DAI’s recent blog on the sustainability of the successful coding and business plan program, Technovation Girls, we are zooming out to look at the larger project that enabled successful digital ecosystem growth in Cambodia. At DAI, our focus is on delivering projects that achieve lasting results beyond donor funding. When we do our job right, we leave behind a stronger set of individuals, partners, and institutions that make up an ecosystem. In Cambodia, we succeeded. Enter the experiment that was Development Innovations back in 2013.
