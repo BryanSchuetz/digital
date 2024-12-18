@@ -10,6 +10,10 @@ thumbnail: "/uploads/dPicture1.png"
 
 Following Digital@DAI’s recent blog on the sustainability of the successful coding and business plan program, Technovation Girls, we are zooming out to look at the larger project that enabled successful digital ecosystem growth in Cambodia. At DAI, our focus is on delivering projects that achieve lasting results beyond donor funding. When we do our job right, we leave behind a stronger set of individuals, partners, and institutions that make up an ecosystem. In Cambodia, we succeeded. Enter the experiment that was Development Innovations back in 2013.
 
+<!--more-->
+
+![dPicture1-66002d.png](/uploads/dPicture1-66002d.png)`Photo: USAID Cambodia Development Innovations.`
+
 ## What was Development Innovations?
 
 Development Innovations (DI), funded by the U.S. Agency for International Development (USAID) was originally envisioned to support Cambodia’s digital and innovation ecosystem, one of the first-of-its-kind programs in USAID’s history, inspired in part by the digital and innovation ecosystem growth in Nairobi and Silicon Valley. After piloting several approaches, we adopted a service-oriented and demand-driven model to build the capacity of civil society actors, social enterprises, and micro, small, and medium-sized enterprises (MSMEs) to design and use digital technologies and innovative approaches to address Cambodia’s development challenges.
@@ -25,7 +29,9 @@ As we wrote in this 2019 blog post at the end of the project, DI’s key lessons
 * **Confidence**. The DI team and our donors had the confidence to recognize new opportunities when something wasn’t working. That confidence enabled the project to make the necessary changes and pivots quickly. This confidence is crucial for the success of demand-driven, ecosystem-focused projects.
 
 In short: The ecosystem’s success was also our success.  
-What else proves the DI model delivered? Our Cambodian partners, some of whom had never partnered with donors before working with DI, are now delivering enduring results for stakeholders across the country.  
+What else proves the DI model delivered? Our Cambodian partners, some of whom had never partnered with donors before working with DI, are now delivering enduring results for stakeholders across the country.
+
+![dPicture4.png](/uploads/dPicture4.png)`Photo: USAID Cambodia Development Innovations.`
 
 Our partners included:
 
@@ -34,6 +40,8 @@ Our partners included:
 
 Here’s a snapshot of their growth: In 2016, DI was IHPP’s first institutional partner, supporting just five staff and seven entrepreneurs in one province. Fast forward to 2024, and Impact Hub now boasts a team of 25 and has collaborated with 35 institutional partners, and empowered more than 1,650 entrepreneurs across 24 provinces. The DI partnership built a foundation that solidified Impact Hub as a leading support organization for Cambodian entrepreneurs.
 
-* **SHE Powered by iDE (formerly SHE Investments)**. SHE Investments, which started as a three-person social enterprise to support Cambodian women entrepreneurs in 2017, first worked with DI to pilot an information service on business registration and received funding and technical assistance to develop one of the country’s first gender-tailored business incubators. Today, six years after the initial partnership, SHE is one of the country’s leading business incubator services for women and has served thousands of women-led businesses across Cambodia. In 2024, they integrated into iDE, now known as SHE Powered by iDE, to expand their model to new countries and communities as part of iDE’s global goal of serving 1 million female entrepreneurs by 2035.  
+* **SHE Powered by iDE (formerly SHE Investments)**. SHE Investments, which started as a three-person social enterprise to support Cambodian women entrepreneurs in 2017, first worked with DI to pilot an information service on business registration and received funding and technical assistance to develop one of the country’s first gender-tailored business incubators. Today, six years after the initial partnership, SHE is one of the country’s leading business incubator services for women and has served thousands of women-led businesses across Cambodia. In 2024, they integrated into iDE, now known as SHE Powered by iDE, to expand their model to new countries and communities as part of iDE’s global goal of serving 1 million female entrepreneurs by 2035.
+
+![dPicture3.png](/uploads/dPicture3.png)`Photo: USAID Cambodia Development Innovations.`
 
 Today, Cambodia’s digital economy is booming. Since the DI project began in 2013, internet penetration in Cambodia has skyrocketed from just 6.8 percent to 56.7 percent in 2024. Civil society, MSMEs, and the Royal Government of Cambodia are leveraging tools like Trey Visay to expand services and use social media and videos to tap into new markets and increase incomes. When designed with digital principles in mind, these tools have the power to transform lives and communities across the country. Like USAID’s new Digital Policy emphasizes, ecosystem-focused strategies do more than just improve the effectiveness of development projects. They also help create sustainable, long-term outcomes that benefit citizens, organizations, and entire countries.
