@@ -3,6 +3,8 @@ title: 'A Look Back at 2024: Highs and Lows'
 date: 2025-01-09 08:12:00 -05:00
 published: false
 Author: CDA Team
+social-image: "/uploads/sign.jpg"
+thumbnail: "/uploads/sign.jpg"
 ---
 
 The Center for Digital Acceleration takes a look back at an eventful year in the world of digital development, both for us at DAI and the global digital and donor ecosystem.   
@@ -14,6 +16,8 @@ Last year marked the (re)launch of numerous policy documents, global principles,
 In September, we saw the adoption of the United Nations’ Global Digital Compact, one of the first modern “comprehensive framework[s] for global governance of digital technology and artificial intelligence” at the UN level, and one of the first to include AI as core area of focus. While not without its detractors, the GDC is an important step forward in creating a common framework for cooperation around “an inclusive, open, sustainable, fair, safe and secure digital future for all.”  
 
 Finally, USAID released two important policy documents: the first is its inaugural Digital Policy (2024-2034). The policy updates USAID’s Digital Strategy, which was launched with the help of the USAID-funded DAI-led Digital Frontiers. (On a related note, 2024 marked the end of the 7-year Digital Frontiers project, and we couldn’t prouder of the project and its achievements. You can access the project’s public resources, toolkits, and reports here). The second policy of note is USAID’s Democracy, Human Rights, and Governance Policy, which makes extensive mention of digital technology, including one of its major ‘policy pivots’ to “advance digital democracy by supporting rights-respecting approaches to data and technology.” 
+
+![neon-sign-neon-2024year-2024-year-new-year-happy-new-year.jpg](/uploads/neon-sign-neon-2024year-2024-year-new-year-happy-new-year.jpg)
 
 Advancing a Global Rights-Centered AI Ecosystem.  
 
