@@ -11,7 +11,7 @@ The Center for Digital Acceleration takes a look back at an eventful year in the
 
 ## Policies, Principles, Compacts  
 
-Last year marked the (re)launch of numerous policy documents, global principles, and agreements that will shape priorities in digital development for decades to come. Led by the Digital Impact Alliance, the Principles for Digital Development received a long-planned refresh for the first time since their launch in 2014, the product of numerous global consultations and workshops.   
+Last year marked the (re)launch of numerous policy documents, global principles, and agreements that will shape priorities in digital development for decades to come. Led by the Digital Impact Alliance, the Principles for Digital Development received a long-planned [refresh](https://digitalprinciples.org/2024/03/29/the-principles-for-digital-development-have-been-refreshed-for-the-next-decade-heres-how/#:~:text=The%20Principles%20for%20Digital%20Development%20(the%20'Principles')%20were,with%20over%20300%20global%20stakeholders.) for the first time since their launch in 2014, the product of numerous global consultations and workshops.   
 
 In September, we saw the adoption of the United Nations’ Global Digital Compact, one of the first modern “comprehensive framework[s] for global governance of digital technology and artificial intelligence” at the UN level, and one of the first to include AI as core area of focus. While not without its detractors, the GDC is an important step forward in creating a common framework for cooperation around “an inclusive, open, sustainable, fair, safe and secure digital future for all.”  
 
