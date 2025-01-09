@@ -1,7 +1,6 @@
 ---
 title: 'A Look Back at 2024: Highs and Lows'
 date: 2025-01-09 08:12:00 -05:00
-published: false
 tags:
 - Think Piece
 Author: CDA Team
