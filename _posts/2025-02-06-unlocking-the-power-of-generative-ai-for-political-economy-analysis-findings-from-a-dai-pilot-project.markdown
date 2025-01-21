@@ -8,7 +8,9 @@ tags:
 Author: Inta Plostins and Yulia Vorobyeva
 ---
 
-We are in the middle of the generative artificial intelligence (genAI) [hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle). As soon as ChatGPT 3.5 was released in late 2022, it caught the imagination of the general public—and the international development community. It remains to be seen if genAI will reshape the world as much as [some proponents think](https://ia.samaltman.com/), but DAI is not waiting to find out. In late 2023, we embarked on an ambitious pilot project to explore if—and how—genAI can safely enhance the political economy analysis method across two of our donor-funded governance projects, one in Colombia and one in Georgia. 
+We are in the middle of the generative artificial intelligence (genAI) [hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle). As soon as ChatGPT 3.5 was released in late 2022, it caught the imagination of the general public—and the international development community. It remains to be seen if genAI will reshape the world as much as [some proponents think](https://ia.samaltman.com/), but DAI is not waiting to find out. In late 2023, we embarked on an ambitious pilot project to explore if—and how—genAI can safely enhance the political economy analysis method across two of our donor-funded governance projects, one in Colombia and one in Georgia.
+
+<!--more-->
 
 ## What is a Political Economy Analysis?
  
