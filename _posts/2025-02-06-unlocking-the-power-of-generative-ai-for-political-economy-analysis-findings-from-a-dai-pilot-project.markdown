@@ -6,6 +6,8 @@ published: false
 tags:
 - AI
 Author: Inta Plostins and Yulia Vorobyeva
+social-image: "/uploads/AIimage.jpg"
+thumbnail: "/uploads/AIimage.jpg"
 ---
 
 We are in the middle of the generative artificial intelligence (genAI) [hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle). As soon as ChatGPT 3.5 was released in late 2022, it caught the imagination of the general public—and the international development community. It remains to be seen if genAI will reshape the world as much as [some proponents think](https://ia.samaltman.com/), but DAI is not waiting to find out. In late 2023, we embarked on an ambitious pilot project to explore if—and how—genAI can safely enhance the political economy analysis method across two of our donor-funded governance projects, one in Colombia and one in Georgia.
@@ -22,7 +24,7 @@ Conducting a political economy analysis is about understanding the underlying dy
 
 We partnered with a U.S.-based small business [Exchange Design](https://www.exchange.design/) on this pilot project, using its custom genAI application that uses multiple models hosted on Microsoft Azure, including (but not limited to) OpenAI’s GPT-4. This gave us the benefit of ChatGPT’s advanced ability to analyze information and respond in plain language to specific queries. Exchange Design’s genAI tool allows users to create their own closed datasets, rather than pulling from ChatGPT’s own publicly available large language models (LLMs)—which are deeply problematic from a [data privacy](https://privacy.commonsense.org/privacy-report/ChatGPT) and [copyright](https://hls.harvard.edu/today/does-chatgpt-violate-new-york-times-copyrights/) perspective. This allowed us to create a [retrieval augmented system](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) curated with two separate datasets (one for Colombia and one for Georgia) that combined publicly available information about USAID’s approach to political economy analysis, project-specific information such as reports on security incidents, previous analyses, project quarterly reports, news from local media in the program's target municipalities, learning exercises conducted at the sub-national level, municipal government programs, mayoral performance reviews, and notes on political profiles of local leaders. The use of Azure-hosted LLMs, combined with our own data, added a layer of data protection and privacy to the system. 
 
-Other key advantages of this genAI tool include:
+**Other key advantages of this genAI tool include:**
 
 * **Easy-to-use chatbot functionality:** This tool uses a similar interface to ChatGPT, where the user types in a question and receives near-instant responses in the same chat window.
 ![Picture1-e0917e.jpg](/uploads/Picture1-e0917e.jpg)`Screenshot: The genAI tool.`
