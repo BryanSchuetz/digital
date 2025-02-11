@@ -1,6 +1,7 @@
 ---
 title: Inta Plostins
 date: 2019-05-16 07:27:00 -04:00
+published: false
 Job: Senior Digital Specialist
 Image: "/uploads/Inta%20Plostins.png"
 ---
