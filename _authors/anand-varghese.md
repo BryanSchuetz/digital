@@ -1,6 +1,7 @@
 ---
 title: Anand Varghese
 date: 2016-01-07 15:34:00 -05:00
+published: false
 position: 10
 Job: Senior Director, Center for Digital Acceleration
 Image: "/uploads/anand%20inner.jpg"
