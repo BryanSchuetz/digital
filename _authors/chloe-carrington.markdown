@@ -1,6 +1,7 @@
 ---
 title: Chloe Carrington
 date: 2017-10-09 11:04:00 -04:00
+published: false
 position: 7
 Job: Digital Specialist II
 Image: "/uploads/chloeJPG.jpg"
