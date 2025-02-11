@@ -1,6 +1,7 @@
 ---
 title: Authors
 permalink: "/authors/"
+published: false
 layout: page
 ---
 
