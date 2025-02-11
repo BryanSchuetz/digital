@@ -1,6 +1,7 @@
 ---
 title: Connor MacKenzie
 date: 2022-06-22 12:23:00 -04:00
+published: false
 Job: Associate Digital Specialist
 Image: "/uploads/connor%20m%20headshot.jpg"
 ---
