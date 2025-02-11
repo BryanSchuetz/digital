@@ -2,7 +2,6 @@
 title: Unlocking the Power of Generative AI for Political Economy Analysis—Findings
   From a DAI Pilot Project
 date: 2025-02-06 08:00:00 -05:00
-published: false
 tags:
 - AI
 Author: Inta Plostins and Yulia Vorobyeva
