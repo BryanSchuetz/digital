@@ -5,9 +5,26 @@
     <description>The Digital for Development field has enormous potential—and plenty of room for learning. We launched this blog as part of our own learning process, and we hope to engage the Digital for Development community as we find our way forward</description>
     <link>https://dai-global-digital.com/</link>
     <atom:link href="https://dai-global-digital.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Feb 2025 09:27:46 -0500</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2025 09:27:46 -0500</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 11:02:24 -0500</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 11:02:24 -0500</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <media:content url="https://dai-global-digital.com/uploads/AIimage.jpg" medium="image" /> 
+        <title>Unlocking the Power of Generative AI for Political Economy Analysis—Findings From a DAI Pilot Project</title>
+        <description>&lt;p&gt;We are in the middle of the generative artificial intelligence (genAI) &lt;a href=&quot;https://en.wikipedia.org/wiki/Gartner_hype_cycle&quot;&gt;hype cycle&lt;/a&gt;. As soon as ChatGPT 3.5 was released in late 2022, it caught the imagination of the general public—and the international development community. It remains to be seen if genAI will reshape the world as much as &lt;a href=&quot;https://ia.samaltman.com/&quot;&gt;some proponents think&lt;/a&gt;, but DAI is not waiting to find out. In late 2023, we embarked on an ambitious pilot project to explore if—and how—genAI can safely enhance the political economy analysis method across two of our donor-funded governance projects, one in Colombia and one in Georgia.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Feb 2025 08:00:00 -0500</pubDate>
+        <author>Inta Plostins and Yulia Vorobyeva
+</author>
+        <link>https://dai-global-digital.com/unlocking-the-power-of-generative-ai-for-political-economy-analysis-findings-from-a-dai-pilot-project.html</link>
+        <guid isPermaLink="true">https://dai-global-digital.com/unlocking-the-power-of-generative-ai-for-political-economy-analysis-findings-from-a-dai-pilot-project.html</guid>
+        
+        <category>AI</category>
+        
+        
+      </item>
     
       <item>
         <media:content url="https://dai-global-digital.com/uploads/sign.jpg" medium="image" /> 
@@ -204,37 +221,6 @@
         <guid isPermaLink="true">https://dai-global-digital.com/the-impact-of-corruption-on-cybersecurity-rethinking-national-strategies-across-the-global-south.html</guid>
         
         <category>Cybersecurity</category>
-        
-        
-      </item>
-    
-      <item>
-        <media:content url="https://dai-global-digital.com/uploads/Computer%20training-e05e6e.png" medium="image" /> 
-        <title>Digital Rights and the Technology Workforce: Why Do We Need Our Technology Professionals to be Informed on Human Rights?</title>
-        <description>&lt;p&gt;We are in a digital revolution, from which governments, economies, and individuals are poised to reap many benefits. Local workforce development is inextricably linked to this revolution on a country’s economy because governments and the private sector will be unable to benefit without a capable workforce in place. Many developing countries have a growing and vibrant technology workforce, but workforce needs are often mismatched with local expertise. This is in part due to brain drain of the brightest talent—due to hopes for a better quality of life, limited opportunities in domestic markets, and &lt;a href=&quot;https://www.ilo.org/media/394076/download&quot;&gt;fierce international competition&lt;/a&gt; for technology-related skills. Gaps in technology-related formal and informal education are also a challenge, whereby market needs are not met by domestic formal education. This is not just exclusive to developing countries: There are global shortages of skills including cybersecurity (estimated at a gap of &lt;a href=&quot;https://media.isc2.org/-/media/Project/ISC2/Main/Media/documents/research/ISC2Cybersecurity-Workforce-Study-2022.pdf&quot;&gt;3.4 million experts&lt;/a&gt; globally), &lt;a href=&quot;https://www.ft.com/partnercontent/ibm/closing-the-ai-skills-gap.html&quot;&gt;deep learning, natural language processing, and robotic process automation&lt;/a&gt;. Digital skills gaps in these areas can have significant implications for economic development, technological progress, and national security.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dai-global-digital.com/uploads/Computer%20training.png&quot; alt=&quot;Computer training.png&quot; /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Photo: USAID Nigeria.&lt;/code&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Jul 2024 07:31:00 -0400</pubDate>
-        <author>Chloe Carrington
-</author>
-        <link>https://dai-global-digital.com/digital-rights-and-the-technology-workforce-why-do-we-need-our-technology-professionals-to-be-informed-on-human-rights.html</link>
-        <guid isPermaLink="true">https://dai-global-digital.com/digital-rights-and-the-technology-workforce-why-do-we-need-our-technology-professionals-to-be-informed-on-human-rights.html</guid>
-        
-        <category>digital economy</category>
-        
-        <category>ICT</category>
-        
-        <category>Digital Skills</category>
-        
-        <category>Digital Rights</category>
-        
-        <category>Future of Work</category>
-        
-        <category>Digital Transformation</category>
-        
-        <category>Digital Democracy Series</category>
         
         
       </item>
