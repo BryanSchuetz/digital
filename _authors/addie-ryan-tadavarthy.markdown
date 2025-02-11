@@ -1,6 +1,7 @@
 ---
 title: Addie Ryan Tadavarthy
 date: 2019-05-16 07:27:00 -04:00
+published: false
 Job: Strategic Projects Manager
 Image: "/uploads/Addie%20bio_photo.jpg"
 ---
